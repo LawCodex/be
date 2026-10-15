@@ -12,7 +12,7 @@ entry_into_force: 2000-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/05/1999015079/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 1999. - Loi portant assentiment à la Convention entre la Mongolie et le Royaume de Belgique tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, faite à Bruxelles le 26 septembre 1995.

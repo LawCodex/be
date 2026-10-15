@@ -13,7 +13,7 @@ entry_into_force: 2023-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/11/23/2023047783/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2023. - Decreet tot instemming met het samenwerkingsakkoord van 22 september 2023 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende sommige bepalingen van de verdeling van de Belgische klimaat- en energiedoelstellingen voor het begin van de periode 2021-2030 en de verdeling van de federale opbrengsten uit de veiling van emissierechten voor de jaren 2015 tot en met 2020

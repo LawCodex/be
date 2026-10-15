@@ -13,7 +13,7 @@ entry_into_force: 2010-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/07/16/2010035568/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2010. - Decreet tot instemming met de overeenkomst houdende stichting van de Europese Conferentie voor Moleculaire Biologie, opgemaakt in Genève op 13 februari 1969

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/08/2009035790/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-08-2009 et mise à jour au 18-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2009. - Décret relatif à la qualité de l'enseignement

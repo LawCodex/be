@@ -13,7 +13,7 @@ entry_into_force: 1999-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/17/1999029327/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 1999. - Décret relatif au statut administratif des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation des établissements d'enseignement de promotion sociale de la Communauté francaise.

@@ -11,7 +11,7 @@ date: 2015-11-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/13/2015036436/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2015. - Decreet houdende dringende tijdelijke maatregelen in het kader van een stijgend aantal anderstalige kleuters en inzake flexibilisering van de programmatiemogelijkheden onthaalonderwijs voor anderstalige nieuwkomers in het secundair onderwijs

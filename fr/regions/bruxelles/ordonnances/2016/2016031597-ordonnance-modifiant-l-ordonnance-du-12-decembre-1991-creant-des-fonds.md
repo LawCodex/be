@@ -13,7 +13,7 @@ entry_into_force: 2016-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/07/20/2016031597/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2016. - Ordonnance modifiant l'ordonnance du 12 décembre 1991 créant des fonds budgétaires

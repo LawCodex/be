@@ -13,7 +13,7 @@ entry_into_force: 2000-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/12/14/2000027592/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2000. - Décret portant assentiment à l'accord de coopération du 4 juillet 2000 entre la Communauté française et la Région wallonne relatif aux programmes d'immersion linguistique.

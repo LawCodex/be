@@ -13,7 +13,7 @@ entry_into_force: 2019-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019203762/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret relatif à la protection de la ressource en eau, à la gouvernance et modifiant le Livre II du Code de l'Environnement contenant le Code de l'Eau et l'article 100 du décret-programme du 12 décembre 2014 portant des mesures diverses liées au budget en matière de calamité naturelle, de sécurité routière, de travaux publics, d'énergie, de logement, d'environnement, d'aménagement du territoire, de bien-être animal, d'agriculture et de fiscalité

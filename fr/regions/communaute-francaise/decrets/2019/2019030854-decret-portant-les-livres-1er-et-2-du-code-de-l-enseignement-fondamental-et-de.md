@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019030854/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 19-09-2019 et mise à jour au 05-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Décret portant les livres 1er et 2 du Code de l'enseignement fondamental et de l'enseignement secondaire, et mettant en place le tronc commun

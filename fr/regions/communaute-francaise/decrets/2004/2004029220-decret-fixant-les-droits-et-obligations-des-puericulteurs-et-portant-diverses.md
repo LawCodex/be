@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/12/2004029220/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 29-06-2004 et mise à jour au 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Décret fixant les droits et obligations des puériculteurs et portant diverses dispositions relatives à la valorisation des jours prestés par le personnel non statutaire de la Communauté française.

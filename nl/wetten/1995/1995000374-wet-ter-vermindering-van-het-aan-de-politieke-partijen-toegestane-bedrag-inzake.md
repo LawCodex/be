@@ -11,7 +11,7 @@ published: 1995-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/10/1995000374/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 1995. - Wet ter vermindering van het aan de politieke partijen toegestane bedrag inzake verkiezingsuitgaven voor de parlementsverkiezingen en de Europese verkiezingen en voor de verkiezing van de Gewestraden.

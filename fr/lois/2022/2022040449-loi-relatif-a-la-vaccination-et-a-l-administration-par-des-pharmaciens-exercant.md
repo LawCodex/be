@@ -12,7 +12,7 @@ entry_into_force: 2022-03-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/28/2022040449/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2022. - Loi relatif à la vaccination et à l'administration, par des pharmaciens exerçant au sein d'officines pharmaceutiques ouvertes au public, des vaccins autorisés dans le cadre de la prophylaxie du COVID-19

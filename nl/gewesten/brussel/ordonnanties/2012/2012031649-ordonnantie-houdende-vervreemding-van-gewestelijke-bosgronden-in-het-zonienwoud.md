@@ -12,7 +12,7 @@ published: 2012-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/07/23/2012031649/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 2012. - Ordonnantie houdende vervreemding van gewestelijke bosgronden in het Zoniënwoud met het oog op de bouw van het Gewestelijk Expresnet op het grondgebied van de gemeente Watermaal-Bosvoorde

@@ -13,7 +13,7 @@ entry_into_force: 2014-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014202982/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret insérant, dans le Code wallon de l'Action sociale et de la Santé, un Livre VII relatif à l'aide aux personnes lesbiennes, gays, bisexuels, bisexuelles et transgenres

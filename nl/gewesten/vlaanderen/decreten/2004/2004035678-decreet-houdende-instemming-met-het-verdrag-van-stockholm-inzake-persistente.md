@@ -13,7 +13,7 @@ entry_into_force: 2004-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/26/2004035678/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2004. - Decreet houdende instemming met het verdrag van Stockholm inzake persistente organische verontreinigende stoffen, met bijlagen, ondertekend in Stockholm op 22 mei 2001.

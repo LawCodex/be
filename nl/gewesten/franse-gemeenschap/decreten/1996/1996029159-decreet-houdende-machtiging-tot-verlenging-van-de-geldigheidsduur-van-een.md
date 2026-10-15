@@ -13,7 +13,7 @@ entry_into_force: 1996-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/03/18/1996029159/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 1996. - Decreet houdende machtiging tot verlenging van de geldigheidsduur van een wervingsreserve voor geneeskundige assistenten bij de "Office de la Naissance et de l'Enfance" (Dienst voor Geboorte en Kinderwelzijn van de Franse Gemeenschap) (VERTALING).

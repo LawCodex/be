@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/12/28/1985021279/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 01-01-1990 et mise à jour au 13-04-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBRE 1984. - [Loi portant suppression ou restructuration de certains organismes d'intérêt public et autres services de l'Etat.] (L 1990-06-26/30, art. 2, §1, 003; En vigueur : 01-01-1989)

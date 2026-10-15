@@ -13,7 +13,7 @@ entry_into_force: 2018-11-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/10/18/2018205593/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 OCTOBRE 2018. - Décret modifiant, d'une part, le décret du 25 mai 1983 modifiant, en ce qui regarde le Conseil économique régional pour la Wallonie, la loi cadre du 15 juillet 1970 portant organisation de la planification et de la décentralisation économique et instaurant un Conseil économique et social de Wallonie et, d'autre part, le décret du 6 novembre 2008 portant rationalisation de la fonction consultative

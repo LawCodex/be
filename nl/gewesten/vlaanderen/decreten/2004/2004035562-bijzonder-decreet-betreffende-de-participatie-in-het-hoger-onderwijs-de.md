@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/19/2004035562/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2004. - Bijzonder decreet betreffende de participatie in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen, de coördinatie van de hogeronderwijsregelgeving en de modernisering van de regelgeving op de Vlaamse autonome hogescholen.HI:??2,Zitting 2003-2004. Stukken. - Ontwerp van bijzonder decreet : 1961-Nr. 1 + Addenda. - Amendementen : 1961-Nr. 2. - Advies van de Raad van State : 1961-Nr. 3. - Amendementen : 1961-Nr. 4. - In eerste lezing door de commissie aangenomen artikelen : 1961-Nr. 5. - Verslag : 1961-Nr. 6. - Tekst aangenomen door de plenaire vergadering : 1961-Nr. 7. Handelingen. - Bespreking en aanneming : Middagvergadering van 3 maart 2004.

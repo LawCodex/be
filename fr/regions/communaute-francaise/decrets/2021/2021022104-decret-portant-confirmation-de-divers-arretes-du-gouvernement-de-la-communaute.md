@@ -13,7 +13,7 @@ entry_into_force: 2021-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/09/30/2021022104/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 SEPTEMBRE 2021. - Décret portant confirmation de divers arrêtés du Gouvernement de la Communauté française de pouvoirs spéciaux en matière d'enseignement de promotion sociale

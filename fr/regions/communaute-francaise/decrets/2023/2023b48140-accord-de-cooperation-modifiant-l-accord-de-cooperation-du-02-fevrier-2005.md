@@ -12,7 +12,7 @@ published: 2024-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/20/2023B48140/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 2023. - Accord de coopération modifiant l'accord de coopération du 02 février 2005 relatif au développement de politiques concertées en matière d'alphabétisation des adultes, conclu entre la Communauté française, la Région wallonne et la Commission communautaire française de la Région de Bruxelles-Capitale

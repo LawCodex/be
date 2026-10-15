@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1985/03/05/1985024210/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-03-1985 et mise à jour au 08-07-1995."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 1985. \_ Décret fixant l'âge minimum des participants aux courses cyclistes. (Traduction).

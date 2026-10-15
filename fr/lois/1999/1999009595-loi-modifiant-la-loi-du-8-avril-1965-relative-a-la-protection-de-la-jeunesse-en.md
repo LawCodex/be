@@ -12,7 +12,7 @@ entry_into_force: 1999-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/27/1999009595/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 1999. - Loi modifiant la loi du 8 avril 1965 relative à la protection de la jeunesse, en ce qui concerne la convocation par procès-verbal dans les affaires en matière de jeunesse.

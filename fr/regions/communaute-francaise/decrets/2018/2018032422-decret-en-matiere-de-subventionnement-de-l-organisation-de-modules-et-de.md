@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/14/2018032422/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 14-12-2018 et mise à jour au 02-12-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 2018. - Décret en matière de subventionnement de l'organisation de modules et de programmes sportifs de promotion et de développement du sport

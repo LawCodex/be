@@ -13,7 +13,7 @@ entry_into_force: 2020-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/10/2020042378/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2020. - Decreet tot wijziging van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid, wat de selectieve participatietoeslagen betreft

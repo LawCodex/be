@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/03/23/1994012217/justel"
 department: "Affaires économiques - Justice - Finances - Emploi et Travail - Affaires sociales - Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 30-03-1994 et mise à jour au 01-07-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1994. - Loi portant certaines mesures sur le plan du droit du travail contre le travail au noir

@@ -13,7 +13,7 @@ entry_into_force: 2003-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/06/2002036576/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2002. - Decreet houdende instemming met het amendement op het Verdrag van Bazel van 22 maart 1989 inzake de beheersing van de grensoverschrijdende overbrenging van gevaarlijke afvalstoffen en de verwijdering ervan, aangenomen op de derde vergadering van de Conferentie van de Partijen, gehouden te Genève op 22 september 1995.

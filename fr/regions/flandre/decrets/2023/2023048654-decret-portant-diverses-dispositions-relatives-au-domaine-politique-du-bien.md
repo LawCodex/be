@@ -13,7 +13,7 @@ entry_into_force: 2024-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/01/2023048654/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2023. - Décret portant diverses dispositions relatives au domaine politique du Bien-Etre, de la Santé publique et de la Famille

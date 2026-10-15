@@ -13,7 +13,7 @@ entry_into_force: 2001-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/12/2001029283/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2001. - Decreet houdende instemming met de Overeenkomst tot herziening van de Overeenkomst van Florence van 19 april 1972 houdende oprichting van een Europees Universitair Instituut en de Slotakte, gemaakt te Florence op 18 juni 1992 en 17 september 1992 (VERTALING).

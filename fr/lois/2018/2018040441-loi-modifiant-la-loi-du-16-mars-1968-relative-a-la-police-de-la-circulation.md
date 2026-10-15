@@ -12,7 +12,7 @@ entry_into_force: 2018-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/06/27/2018040441/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2018. - Loi modifiant la loi du 16 mars 1968 relative à la police de la circulation routière en ce qui concerne les examens de réintégration après une condamnation à une déchéance du droit de conduire

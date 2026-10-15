@@ -13,7 +13,7 @@ entry_into_force: 2013-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/01/17/2013200463/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANUARI 2013. - Decreet houdende instemming, wat betreft de bevoegdheden waarvan de uitoefening door de Franse Gemeenschap naar het Waalse Gewest is overgedragen, met het IAO-Verdrag nr. 175 betreffende het deeltijds arbeidsregime, aangenomen in Genève op 24 juni 1994 door de Internationale Arbeidsconferentie tijdens haar eenentachtigste zitting

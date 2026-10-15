@@ -13,7 +13,7 @@ last_amended: 2013-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1970/07/16/1970071602/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 23-12-2005 en tekstbijwerking tot 10-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 1970. - Wet tot vaststelling van de personeelsformatie van de politierechtbanken.

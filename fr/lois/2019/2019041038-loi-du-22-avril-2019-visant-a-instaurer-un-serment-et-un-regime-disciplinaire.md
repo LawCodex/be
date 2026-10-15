@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/22/2019041038/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 02-05-2019 et mise à jour au 24-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2019. - [ Loi du 22 avril 2019 visant à instaurer un serment et un régime disciplinaire bancaires] &lt;L 2023-12-20/08 , art. 63 , 002; En vigueur : 15-01-2025; 15-07-2026&gt;

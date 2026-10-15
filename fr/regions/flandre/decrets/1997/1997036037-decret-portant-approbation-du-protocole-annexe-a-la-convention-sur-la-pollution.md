@@ -13,7 +13,7 @@ entry_into_force: 1997-09-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/15/1997036037/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 1997. - Décret portant approbation du Protocole annexé à la Convention sur la pollution atmosphérique transfrontalière sur longue distance, datant de 1979, en matière de maîtrise des émissions de produits organiques volatils ou de leurs courants transfrontaliers, signé à Genève le 19 novembre 1991 (TRADUCTION).

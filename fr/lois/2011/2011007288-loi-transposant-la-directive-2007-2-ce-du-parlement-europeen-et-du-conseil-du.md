@@ -12,7 +12,7 @@ entry_into_force: 2012-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/12/15/2011007288/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2011. - Loi transposant la Directive 2007/2/CE du Parlement européen et du Conseil du 14 mars 2007 établissant une infrastructure d'information géographique dans la Communauté européenne (INSPIRE)

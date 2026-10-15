@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/17/1996036509/justel"
 department: "Communauté flamande"
 justel_note: "ce texte est abrogé par l'article 14 de DCFL 2004-05-07/37 dont l'entrée en vigueur n'est pas encore déterminée) - (NOTE : Consultation des versions antérieures à partir du 18-12-1996 et mise à jour au 28-05-2004."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 1996. - Décret portant création de l'asbl "De Rand" en vue d'appuyer le caractère néerlandophone de la périphérie flamande de Bruxelles. (TRADUCTION). -

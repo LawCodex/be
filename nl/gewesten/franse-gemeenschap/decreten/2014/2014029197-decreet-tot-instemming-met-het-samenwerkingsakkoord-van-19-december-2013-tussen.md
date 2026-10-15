@@ -13,7 +13,7 @@ entry_into_force: 2014-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/13/2014029197/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2014. - Decreet tot instemming met het samenwerkingsakkoord van 19 december 2013 tussen de Franse Gemeenschap, de Duitstalige Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest betreffende de oprichting van de "Conseil Wallonie-Bruxelles de la Coopération internationale " (Raad Wallonië-Brussel voor internationale samenwerking)

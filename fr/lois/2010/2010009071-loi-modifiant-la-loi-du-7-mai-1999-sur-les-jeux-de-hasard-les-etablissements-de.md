@@ -12,7 +12,7 @@ entry_into_force: 2011-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/01/10/2010009071/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2010. - Loi modifiant la loi du 7 mai 1999 sur les jeux de hasard, les établissements de jeux de hasard et la protection des joueurs, en ce qui concerne la Commission des jeux de hasard

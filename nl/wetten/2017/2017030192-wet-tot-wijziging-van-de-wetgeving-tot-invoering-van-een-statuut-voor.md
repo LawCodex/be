@@ -11,7 +11,7 @@ published: 2017-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/03/19/2017030192/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2017. - Wet tot wijziging van de wetgeving tot invoering van een statuut voor pleegzorgers

@@ -13,7 +13,7 @@ entry_into_force: 2008-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/01/11/2008029129/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JANUARI 2008. - Decreet houdende bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van 23 juni 2006 tot bepaling van de opdrachten, de samenstelling en de belangrijkste aspecten van de werking van adviesinstanties die vallen onder het toepassingsgebied van het decreet van 10 april 2003 betreffende de werking van de adviesinstanties die werkzaam zijn binnen de culturele sector (VERTALING).

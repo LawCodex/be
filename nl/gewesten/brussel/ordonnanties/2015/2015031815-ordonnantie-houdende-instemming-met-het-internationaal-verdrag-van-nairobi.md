@@ -12,7 +12,7 @@ entry_into_force: 2015-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/11/20/2015031815/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 2015. - Ordonnantie houdende instemming met : het Internationaal Verdrag van Nairobi betreffende de verwijdering van wrakken, 2007, opgemaakt in Nairobi op 18 mei 2007

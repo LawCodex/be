@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/07/19/1993029397/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-01-2000 en tekstbijwerking tot 25-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 1993. - Decreet II tot toekenning van de uitoefening van sommige bevoegdheden van de Franse Gemeenschap aan het Waalse Gewest en de Franse Gemeenschapscommissie. (Vertaling) -

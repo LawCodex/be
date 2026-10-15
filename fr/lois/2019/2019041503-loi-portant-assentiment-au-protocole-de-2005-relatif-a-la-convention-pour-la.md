@@ -12,7 +12,7 @@ entry_into_force: 2019-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/23/2019041503/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2019. - Loi portant assentiment au Protocole de 2005 relatif à la Convention pour la répression d'actes illicites contre la sécurité de la navigation maritime, fait à Londres le 14 octobre 2005

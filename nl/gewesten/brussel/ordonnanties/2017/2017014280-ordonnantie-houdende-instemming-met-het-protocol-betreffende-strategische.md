@@ -13,7 +13,7 @@ entry_into_force: 2017-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/12/07/2017014280/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2017. - Ordonnantie houdende instemming met het Protocol betreffende strategische milieueffectrapportage bij het Verdrag van Espoo van 25 februari 1991 inzake milieueffectrapportage in grensoverschrijdend verband, aangenomen in Kiev (Oekraïne), op 21 mei 2003

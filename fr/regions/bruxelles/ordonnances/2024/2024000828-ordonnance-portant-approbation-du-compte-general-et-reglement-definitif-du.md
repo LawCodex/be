@@ -13,7 +13,7 @@ entry_into_force: 2024-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/01/25/2024000828/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2024. - Ordonnance portant approbation du compte général et règlement définitif du budget du Fonds régional bruxellois de refinancement des trésoreries communales pour l'année 2022

@@ -13,7 +13,7 @@ entry_into_force: 2017-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/11/17/2017031581/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2017. - Décret portant assentiment à l'accord de coopération en matière de partenariat et de développement entre l'Union européenne et ses Etats membres, d'une part, et la République islamique d'Afghanistan, d'autre part, signé à Munich le 18 février 2017

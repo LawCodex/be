@@ -11,7 +11,7 @@ published: 1969-07-05
 entry_into_force: 1969-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1969/06/24/1969062405/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 1969. - Loi majorant les pensions des travailleurs salariés.

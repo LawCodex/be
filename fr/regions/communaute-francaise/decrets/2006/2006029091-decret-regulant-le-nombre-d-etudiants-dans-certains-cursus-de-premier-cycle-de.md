@@ -17,7 +17,7 @@ department: "Communauté française"
 justel_notes:
   - "DCFR 2022-11-17/07 , art. 5 et 6, 013; En vigueur : 14-09-2023, modifient art.5 et 9"
   - "Consultation des versions antérieures à partir du 06-07-2006 et mise à jour au 15-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2006. - Décret régulant le nombre d'étudiants dans certains cursus de premier cycle de l'enseignement supérieur.

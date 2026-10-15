@@ -12,7 +12,7 @@ entry_into_force: 1999-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/05/10/1999015008/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAI 1994. - Loi portant assentiment aux : Protocole en vue d'amender la convention de 1971 relative aux zones humides d'importance internationale particulièrement comme habitats de la sauvagine, fait à Paris le 3 décembre 1982. - Amendements à la convention relative aux zones humides d'importance internationale particulièrement comme habitats des oiseaux d'eau, adoptés à Regina le 28 mai 1987.

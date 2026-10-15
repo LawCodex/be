@@ -13,7 +13,7 @@ entry_into_force: 2022-03-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/02/10/2022030856/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2022. - Ordonnance conjointe à la Région de Bruxelles-Capitale et à la Commission communautaire commune relative au traitement de données à caractère personnel dans le cadre de la constitution par le Parlement ou l'Assemblée réunie de commissions délibératives entre députés et citoyens tirés au sort

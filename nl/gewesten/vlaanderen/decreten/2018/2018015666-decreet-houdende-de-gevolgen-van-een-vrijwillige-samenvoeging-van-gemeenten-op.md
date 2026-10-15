@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/12/21/2018015666/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2018 en tekstbijwerking tot 10-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2018. - Decreet houdende de gevolgen van een vrijwillige samenvoeging van gemeenten op het vlak van sectorregelgeving inzake omgeving

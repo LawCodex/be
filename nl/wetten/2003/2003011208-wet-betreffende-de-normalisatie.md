@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/03/2003011208/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 27-05-2003 en tekstbijwerking tot 29-03-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2003. - Wet betreffende de normalisatie

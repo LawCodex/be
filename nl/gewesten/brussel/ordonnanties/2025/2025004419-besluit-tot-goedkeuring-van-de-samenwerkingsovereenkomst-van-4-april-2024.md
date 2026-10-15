@@ -13,7 +13,7 @@ entry_into_force: 2025-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/06/12/2025004419/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2025. - Besluit tot goedkeuring van de samenwerkingsovereenkomst van 4 april 2024 tussen de deelstaat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest tot wijziging van de samenwerkingsovereenkomst van 2 september 2013 tussen de deelstaat, het Vlaams Gewest, het Waals Gewest en het Brussels Gewest-Kapitaal met betrekking tot de integratie van luchtvaartactiviteiten in de regeling voor de handel in broeikasgasemissierechten van de Gemeenschap overeenkomstig Richtlijn 2008/101 / EG van het Europees Parlement en de Raad van 19 november 2008 tot wijziging van Richtlijn 2003 / 87 / EG om luchtvaartactiviteiten in het communautaire handelssysteem voor broeikasgasemissierechten te integreren

@@ -12,7 +12,7 @@ entry_into_force: 2008-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/01/2008009420/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2008. - Loi insérant un article 682bis dans le Code judiciaire.

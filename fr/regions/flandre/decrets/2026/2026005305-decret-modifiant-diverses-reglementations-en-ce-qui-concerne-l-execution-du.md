@@ -13,7 +13,7 @@ entry_into_force: 2026-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/03/2026005305/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2026. - Décret modifiant diverses réglementations, en ce qui concerne l'exécution du règlement (UE) 2024/1309 du Parlement européen et du Conseil du 29 avril 2024 relatif à des mesures visant à réduire le coût du déploiement de réseaux gigabit de communications électroniques, modifiant le règlement (UE) 2015/2120 et abrogeant la directive 2014/61/UE (règlement sur les infrastructures gigabit)

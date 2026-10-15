@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/02/12/2021030406/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 04-03-2021 et mise à jour au 15-07-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2021. - Décret modifiant le décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision en ce qui concerne les organismes de radiodiffusion sonore nationaux et régionaux et l'appareillage final technique pour la réception de radio FM d'organismes de radiodiffusion sonore

@@ -13,7 +13,7 @@ last_amended: 2025-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/08/02/1971080201/justel"
 justel_note: "Consultation des versions antérieures à partir du 18-01-1983 et mise à jour au 29-07-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AOUT 1971. - Loi organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants. (Cette loi cesse d'être applicable aux dépenses , réglées par la loi du 1er mars 1977. (CN:1977-03-01/02)).

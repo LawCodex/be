@@ -11,7 +11,7 @@ published: 1998-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/08/1998003342/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 1998. - Wet houdende interpretatie van de artikelen 1 en 3 van het Wetboek van de met het zegel gelijkgestelde taksen, zoals gewijzigd door artikel 3 van het koninklijk besluit van 19 december 1996 houdende wijziging, met name wat het Landbouwkrediet N.V. betreft, van de wet van 17 juni 1991 tot organisatie van de openbare kredietsector en van het bezit van de deelnemingen van de openbare kredietsector en van het bezit van de deelnemingen van de openbare sector in bepaalde privaatrechtelijke financiële vennootschappen, van de wet van 22 maart 1993 op het statuut van en het toezicht op de kredietinstellingen en van het Wetboek der met het zegel gelijkgestelde taksen, en door de artikelen 27 en 28 van het koninklijk besluit van 23 december 1996 tot wijziging van de wet van 17 juni 1991 tot organisatie van de openbare kredietsector en van het bezit van de deelnemingen van de openbare sector in bepaalde privaatrechtelijke financiële vennootschappen en van diverse andere bepalingen, wat betreft de Nationale Kas voor Beroepskrediet.

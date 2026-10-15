@@ -13,7 +13,7 @@ entry_into_force: 2004-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036126/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le gouvernement du Royaume de Thaïlande concernant l'encouragement et la protection réciproques des investissements, et à l'annexe à l'article 2 (a), signés à Bruxelles le 12 juin 2002 (TRADUCTION).

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/02/2021021558/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 04-08-2021 et mise à jour au 02-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2021. - Décret modifiant le décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision, en ce qui concerne la transposition partielle de la directive (UE) 2018/1972 du Parlement européen et du Conseil du 11 décembre 2018 établissant le code des communications électroniques européen

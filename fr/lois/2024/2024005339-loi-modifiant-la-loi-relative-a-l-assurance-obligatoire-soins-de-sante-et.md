@@ -12,7 +12,7 @@ entry_into_force: 2027-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/29/2024005339/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2024. - Loi modifiant la loi relative à l'assurance obligatoire soins de santé et indemnités coordonnée le 14 juillet 1994, en ce qui concerne les litiges relatifs aux décisions-cadres concernant l'accès rapide ou précoce

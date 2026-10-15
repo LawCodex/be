@@ -13,7 +13,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/04/09/1998027288/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 AVRIL 1998. - Décret modifiant le décret du 7 juin 1990 portant création d'un Institut scientifique de service public en Région Wallonne (ISSeP).

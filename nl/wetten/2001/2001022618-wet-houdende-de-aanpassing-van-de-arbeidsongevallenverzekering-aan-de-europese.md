@@ -10,7 +10,7 @@ date: 2001-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/08/10/2001022618/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu - Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2001. - Wet houdende de aanpassing van de arbeidsongevallenverzekering aan de Europese richtlijnen betreffende de directe verzekering met uitzondering van de levensverzekering.

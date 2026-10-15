@@ -11,7 +11,7 @@ date: 2005-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/15/2005036050/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2005. - Decreet houdende wijziging van diverse decreten, wat het statuut van de mandaathouders in de aan het Vlaams Parlement verbonden instellingen betreft.

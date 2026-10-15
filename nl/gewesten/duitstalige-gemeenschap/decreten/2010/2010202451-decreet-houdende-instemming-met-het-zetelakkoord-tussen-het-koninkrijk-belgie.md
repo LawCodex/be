@@ -13,7 +13,7 @@ entry_into_force: 2010-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/04/19/2010202451/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2010. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Economische Gemeenschap van West-Afrikaanse Staten, ondertekend in Brussel op 12 juli 2006 en met het Zetelakkoord tussen het Koninkrijk België en de Gemeenschappelijke Markt voor Oostelijk en Zuidelijk Afrika, gedaan te Brussel op 2 maart 2007

@@ -11,7 +11,7 @@ published: 1975-07-09
 entry_into_force: 1975-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1975/05/12/1975051206/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 1975. - Loi portant approbation de la convention entre le Royaume de Belgique et la République d'Indonésie tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et du protocole, signés à Bruxelles le 13 novembre 1973.

@@ -11,7 +11,7 @@ published: 1976-04-01
 entry_into_force: 1976-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/03/30/1976033002/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 1976. - Loi relative aux mesures de redressement économique.

@@ -12,7 +12,7 @@ entry_into_force: 2018-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/19/2018031489/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2018. - Wet houdende wijziging en invoering van bepalingen inzake betalingsdiensten in verschillende boeken van het Wetboek van economisch recht

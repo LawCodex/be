@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/10/2019040797/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 22-03-2019 en tekstbijwerking tot 24-12-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2019. - Wet tot tenuitvoerlegging van het Verdrag van `s-Gravenhage van 13 januari 2000 inzake de internationale bescherming van volwassenen

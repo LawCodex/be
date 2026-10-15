@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/07/18/1991009962/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 26-07-1991 et mise à jour au 30-12-1994"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1991. - Loi modifiant la loi du 2 décembre 1957 sur la gendarmerie et la loi du 27 décembre 1973 relative au statut du personnel du cadre actif du corps opérationnel de la gendarmerie et portant démilitarisation de la gendarmerie.

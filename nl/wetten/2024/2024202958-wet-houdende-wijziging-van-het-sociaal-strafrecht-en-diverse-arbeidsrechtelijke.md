@@ -12,7 +12,7 @@ entry_into_force: 2024-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/15/2024202958/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2024. - Wet houdende wijziging van het sociaal strafrecht en diverse arbeidsrechtelijke bepalingen

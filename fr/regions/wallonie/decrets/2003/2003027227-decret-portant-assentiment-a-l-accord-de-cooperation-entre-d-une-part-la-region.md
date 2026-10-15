@@ -13,7 +13,7 @@ entry_into_force: 2003-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/04/10/2003027227/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2003. - Décret portant assentiment à l'Accord de coopération entre, d'une part, la Région wallonne et la Communauté française de Belgique et, d'autre part, le Gouvernement de la République d'Estonie, fait à Bruxelles le 14 décembre 2001.

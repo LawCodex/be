@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2004/04/09/2004A31182/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 26-05-2004 et mise à jour au 10-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 AVRIL 2004. - Code bruxellois de l'aménagement du territoire (CoBAT)

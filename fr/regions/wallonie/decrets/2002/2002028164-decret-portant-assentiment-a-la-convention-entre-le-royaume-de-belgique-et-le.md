@@ -13,7 +13,7 @@ entry_into_force: 2002-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/13/2002028164/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2002. - Décret portant assentiment à la Convention entre le Royaume de Belgique et le Royaume des Pays-Bas portant réglementation de la navigation et des activités de loisirs sur la Meuse mitoyenne, signée à Bruxelles le 6 janvier 1993.

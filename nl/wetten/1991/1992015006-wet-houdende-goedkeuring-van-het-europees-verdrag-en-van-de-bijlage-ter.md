@@ -12,7 +12,7 @@ entry_into_force: 1992-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/06/07/1992015006/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 1991. - Wet houdende goedkeuring van het Europees Verdrag en van de Bijlage ter voorkoming van foltering en onmenselijke of vernederende behandeling of bestraffing, opgemaakt te Straatsburg op 26 november 1987.

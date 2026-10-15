@@ -13,7 +13,7 @@ entry_into_force: 1999-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/06/1999027479/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 1999. - Decreet houdende wijziging van het decreet van 27 november 1997 tot wijziging van het Waalse Wetboek van ruimtelijke ordening, stedenbouw en patrimonium gewijzigd bij het decreet van 23 juli 1998 (VERTALING).

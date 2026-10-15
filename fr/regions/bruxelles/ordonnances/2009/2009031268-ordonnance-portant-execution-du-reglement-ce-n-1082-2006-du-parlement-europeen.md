@@ -13,7 +13,7 @@ entry_into_force: 2009-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/05/14/2009031268/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAI 2009. - Ordonnance portant exécution du Règlement (CE) n° 1082/2006 du Parlement européen et du Conseil du 5 juillet 2006 relatif à un Groupement européen de coopération territoriale (GECT)

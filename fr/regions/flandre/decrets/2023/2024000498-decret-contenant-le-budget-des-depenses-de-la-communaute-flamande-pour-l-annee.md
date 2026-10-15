@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/22/2024000498/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-01-2024 et mise à jour au 17-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2023. - Décret contenant le budget des dépenses de la Communauté flamande pour l'année budgétaire 2024

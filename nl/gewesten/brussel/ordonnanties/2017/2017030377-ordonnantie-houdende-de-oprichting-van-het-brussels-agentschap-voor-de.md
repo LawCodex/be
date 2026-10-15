@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/05/18/2017030377/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 31-05-2017 en tekstbijwerking tot 15-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2017. - Ordonnantie houdende de oprichting van het Brussels Agentschap voor de Ondersteuning van het Bedrijfsleven

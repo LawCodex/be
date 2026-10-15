@@ -12,7 +12,7 @@ entry_into_force: 2024-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/18/2024005361/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2024. - Wet tot wijziging van de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld

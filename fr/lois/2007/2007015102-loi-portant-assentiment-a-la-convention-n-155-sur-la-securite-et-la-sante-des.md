@@ -12,7 +12,7 @@ entry_into_force: 2012-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/06/03/2007015102/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2007. - Loi portant assentiment à la Convention n° 155 sur la sécurité et la santé des travailleurs, adoptée à Genève le 22 juin 1981 par la Conférence générale de l'Organisation internationale du Travail

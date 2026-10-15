@@ -12,7 +12,7 @@ entry_into_force: 1997-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/02/28/1997021068/justel"
 department: "Intérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 1997. - Modification à la Constitution.

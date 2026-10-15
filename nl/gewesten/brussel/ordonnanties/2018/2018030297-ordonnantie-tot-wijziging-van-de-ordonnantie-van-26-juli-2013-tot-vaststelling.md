@@ -13,7 +13,7 @@ entry_into_force: 2018-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/01/25/2018030297/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2018. - Ordonnantie tot wijziging van de ordonnantie van 26 juli 2013 tot vaststelling van een kader inzake mobiliteitsplanning en tot wijziging van sommige bepalingen die een impact hebben op het vlak van mobiliteit

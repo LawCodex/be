@@ -13,7 +13,7 @@ entry_into_force: 2019-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/14/2019012238/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2019. - Decreet tot wijziging van het decreet van 22 december 1994 betreffende de openbaarheid van het bestuur om de rol te verstevigen van de Commissie voor de toegang tot de administratieve documenten van de Franse Gemeenschap

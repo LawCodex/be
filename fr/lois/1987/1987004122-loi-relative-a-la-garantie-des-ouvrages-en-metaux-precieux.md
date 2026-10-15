@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/08/11/1987004122/justel"
 department: "Affaires économiques - Finances - Classes Moyennes"
 justel_note: "Consultation des versions antérieures à partir du 23-05-1995 et mise à jour au 24-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AOUT 1987. - Loi relative à la garantie des ouvrages en métaux précieux.

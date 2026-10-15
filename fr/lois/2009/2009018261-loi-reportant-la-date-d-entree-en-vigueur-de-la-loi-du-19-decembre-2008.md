@@ -12,7 +12,7 @@ entry_into_force: 2009-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/06/16/2009018261/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2009. - Loi reportant la date d'entrée en vigueur de la loi du 19 décembre 2008 relative à l'obtention et à l'utilisation de matériel corporel humain destiné à des applications médicales humaines ou à des fins de recherche scientifique

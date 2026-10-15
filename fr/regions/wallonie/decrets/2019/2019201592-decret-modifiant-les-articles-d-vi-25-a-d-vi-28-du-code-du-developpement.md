@@ -13,7 +13,7 @@ entry_into_force: 2019-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/28/2019201592/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2019. - Décret modifiant les articles D.VI.25. à D.VI.28. du Code du Développement territorial ainsi que l'article 54 du décret du 2 février 2017 relatif au développement des parcs d'activités économiques

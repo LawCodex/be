@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/12/04/2015029006/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 21-01-2015 et mise à jour au 10-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2014. - Décret portant confirmation des compétences terminales et savoirs communs requis à l'issue de la section de transition des humanités générales et technologiques en éducation scientifique et des compétences minimales en mathématiques à l'issue de la section de qualification lorsque l'apprentissage des mathématiques figure au programme d'études

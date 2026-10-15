@@ -13,7 +13,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/12/15/2004031186/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 1999. - Décret modifiant le décret III de l'Assemblée de la Commission communautaire française de la Région de Bruxelles-Capitale du 22 juillet 1993 attribuant l'exercice de certaines compétences de la Communauté française à la Région wallonne et à la Commission communautaire française. (NOTE de Justel : ce décret est identique au décret 1999-12-15/59, publié le 21-07-2000)

@@ -12,7 +12,7 @@ entry_into_force: 2013-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/03/17/2013009127/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2013. - Loi modifiant l'article 344 du Code d'instruction criminelle

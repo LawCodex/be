@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/11/21/2025009127/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2025. - Décret modifiant le décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique Grandir régie (" Opgroeien regie "), le décret du 7 décembre 2007 portant création d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille et des (Candidats) Accueillants et le décret du 3 mai 2019 portant organisation de l'accueil extrascolaire et coordination des activités extrascolaires

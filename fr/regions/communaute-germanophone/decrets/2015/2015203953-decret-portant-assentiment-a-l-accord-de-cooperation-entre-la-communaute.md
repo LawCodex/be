@@ -13,7 +13,7 @@ entry_into_force: 2015-09-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/29/2015203953/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2015. - Décret portant assentiment à l'accord de coopération entre la Communauté française (ONE), la Commission communautaire commune de la Région de Bruxelles-Capitale et la Communauté germanophone relatif à l'achat de vaccins destinés à protéger les enfants, les femmes enceintes et les adolescents, fait à Bruxelles le 18 février 2015

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/01/26/2006011055/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 28-07-2006 en tekstbijwerking tot 28-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2006. - Wet betreffende de aanhouding van een verplichte voorraad aardolie en aardolieproducten en de oprichting van een agentschap voor het beheer van een deel van deze voorraad en tot wijziging van de wet van 10 juni 1997 betreffende de algemene regeling voor accijnsproducten, het voorhanden hebben, en het verkeer daarvan en de controles daarop.

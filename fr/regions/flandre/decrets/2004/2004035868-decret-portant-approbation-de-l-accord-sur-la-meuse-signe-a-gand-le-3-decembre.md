@@ -13,7 +13,7 @@ entry_into_force: 2004-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/30/2004035868/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2004. - Décret portant approbation de l'Accord sur la Meuse, signé à Gand le 3 décembre 2002 (TRADUCTION).

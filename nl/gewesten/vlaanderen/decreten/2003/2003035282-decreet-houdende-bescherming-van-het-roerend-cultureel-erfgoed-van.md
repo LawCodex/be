@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/01/24/2003035282/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 14-03-2003 en tekstbijwerking tot 19-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANUARI 2003. - Decreet houdende bescherming van het roerend cultureel erfgoed van uitzonderlijk belang

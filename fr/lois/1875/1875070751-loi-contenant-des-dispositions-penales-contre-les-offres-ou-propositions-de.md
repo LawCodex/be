@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1875/07/07/1875070751/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 13-03-2003 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 1875. - Loi contenant des dispositions pénales contre les offres ou propositions de commettre certains crimes.

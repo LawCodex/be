@@ -13,7 +13,7 @@ entry_into_force: 2027-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/02/26/2026002024/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2026. - Décret modifiant l'article 94, § 1er, du Code wallon de l'habitation durable en ce qui concerne la prise en compte de la performance énergétique dans le mode de calcul des loyers des logements d'utilité publique

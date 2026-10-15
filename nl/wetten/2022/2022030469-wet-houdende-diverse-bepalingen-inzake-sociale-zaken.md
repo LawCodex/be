@@ -12,7 +12,7 @@ entry_into_force: 2022-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/02/28/2022030469/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2022. - Wet houdende diverse bepalingen inzake sociale zaken

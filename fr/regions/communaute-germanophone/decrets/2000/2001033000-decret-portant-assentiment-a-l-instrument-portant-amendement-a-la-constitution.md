@@ -13,7 +13,7 @@ entry_into_force: 2001-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/12/18/2001033000/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2000. - Décret portant assentiment à l'instrument portant amendement à la constitution de l'Organisation internationale du Travail tel qu'adopté par la conférence lors de sa quatre-vingt-cinquième session à Genève le 19 juin 1997 (TRADUCTION).

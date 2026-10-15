@@ -13,7 +13,7 @@ entry_into_force: 2017-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/20/2017201247/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2017. - Décret portant assentiment à la Convention sur la sécurité sociale entre le Royaume de Belgique et la République tunisienne, faite à Tunis le 28 mars 2013

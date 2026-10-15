@@ -13,7 +13,7 @@ entry_into_force: 2007-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/10/30/2006033110/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OCTOBRE 2006. - Décret portant assentiment à la Convention concernant les mesures à prendre pour interdire et empêcher l'importation, l'exportation et le transfert de propriété illicites des biens culturels, adoptée à Paris le 14 novembre 1970 (TRADUCTION).

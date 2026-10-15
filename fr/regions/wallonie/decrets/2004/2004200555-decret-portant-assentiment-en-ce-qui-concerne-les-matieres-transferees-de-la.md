@@ -13,7 +13,7 @@ entry_into_force: 2004-03-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/01/29/2004200555/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2004. - Décret portant assentiment, en ce qui concerne les matières transférées de la Communauté française, à l'Accord de coopération entre, d'une part, le Gouvernement de la République de Slovénie et, d'autre part, la Communauté française de Belgique et la Région wallonne, fait à Ljubljana le 21 mars 2003.

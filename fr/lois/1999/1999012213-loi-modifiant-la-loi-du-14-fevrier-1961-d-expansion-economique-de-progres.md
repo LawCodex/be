@@ -12,7 +12,7 @@ entry_into_force: 1999-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/07/1999012213/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 1999. - Loi modifiant la loi du 14 février 1961 d'expansion économique de progrès social et de redressement financier.

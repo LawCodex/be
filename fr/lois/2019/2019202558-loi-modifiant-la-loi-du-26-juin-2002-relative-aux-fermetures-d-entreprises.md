@@ -12,7 +12,7 @@ entry_into_force: 2019-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/05/2019202558/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2019. - Loi modifiant la loi du 26 juin 2002 relative aux fermetures d'entreprises

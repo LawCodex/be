@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/04/2014009215/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 14-05-2014 et mise à jour au 13-05-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2014. - Loi réformant la procédure de règlement des plaintes auprès du Conseil supérieur de la Justice

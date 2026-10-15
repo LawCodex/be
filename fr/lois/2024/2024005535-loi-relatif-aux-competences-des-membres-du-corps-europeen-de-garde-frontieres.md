@@ -12,7 +12,7 @@ entry_into_force: 2024-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/16/2024005535/justel"
 department: "Justice - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Loi relatif aux compétences des membres du corps européen de garde-frontières et de garde-côtes sur le territoire national

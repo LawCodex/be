@@ -12,7 +12,7 @@ entry_into_force: 2010-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/01/18/2010003055/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2010. - Loi modifiant la loi du 16 mai 2003 fixant les dispositions générales applicables aux budgets, au contrôle des subventions et à la comptabilité des communautés et régions, ainsi qu'à l'organisation du contrôle de la Cour des comptes

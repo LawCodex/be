@@ -12,7 +12,7 @@ published: 2019-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/15/2019040969/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2019. - Decreet tot uitvoering van maatregelen betreffende het onderwijs uit cao XI vanaf het schooljaar 2019-2020

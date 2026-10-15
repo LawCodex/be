@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/15/2021033701/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 12-11-2021 et mise à jour au 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 OCTOBRE 2021. - Décret sur l'exercice d'activités professionnelles indépendantes par des ressortissants étrangers

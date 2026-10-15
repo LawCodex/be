@@ -13,7 +13,7 @@ entry_into_force: 1997-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/24/1997029340/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1997. - Decreet houdende de eerste aanpassing van de middelenbegroting van de Franse Gemeenschap voor het begrotingsjaar 1997 (VERTALING).

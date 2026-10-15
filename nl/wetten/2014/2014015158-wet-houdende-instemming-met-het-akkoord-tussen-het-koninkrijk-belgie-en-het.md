@@ -12,7 +12,7 @@ entry_into_force: 2014-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/28/2014015158/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2014. - Wet houdende instemming met het Akkoord tussen het Koninkrijk België en het Vorstendom Liechtenstein inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te Brussel op 10 november 2009

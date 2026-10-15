@@ -13,7 +13,7 @@ entry_into_force: 2024-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/12/22/2023048729/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2023. - Ordonnance portant assentiment à l'Accord commercial entre l'Union européenne et ses Etats membres, d'une part, et la Colombie et le Pérou, d'autre part, signé à Bruxelles le 26 juin 2012 et au Protocole d'adhésion de l'Equateur à l'Accord commercial entre l'Union européenne et ses Etats membres, d'une part, et la Colombie et le Pérou, d'autre part, fait à Bruxelles le 11 novembre 2016

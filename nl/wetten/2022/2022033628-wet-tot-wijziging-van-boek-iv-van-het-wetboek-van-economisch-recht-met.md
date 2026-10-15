@@ -12,7 +12,7 @@ entry_into_force: 2022-10-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/09/25/2022033628/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 SEPTEMBER 2022. - Wet tot wijziging van boek IV van het Wetboek van economisch recht met betrekking tot het pensioen van de mandaathouders bij de Belgische Mededingingsautoriteit

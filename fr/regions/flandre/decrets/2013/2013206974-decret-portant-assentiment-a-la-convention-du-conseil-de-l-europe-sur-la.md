@@ -13,7 +13,7 @@ entry_into_force: 2014-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/29/2013206974/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2013. - Décret portant assentiment à la convention du Conseil de l'Europe sur la prévention de et la lutte contre la violence à l'égard des femmes et la violence domestique, et à l'annexe, établie à Istanbul le 11 mai 2011 et signée à Strasbourg le 11 septembre 2012

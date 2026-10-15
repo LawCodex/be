@@ -13,7 +13,7 @@ last_amended: 2026-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1915/08/20/1915082050/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 10-03-2026 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AUGUSTUS 1915. - Besluitwet met betrekking tot de vernietiging of beschadiging van door het leger opgerichte verdedigingswerken

@@ -12,7 +12,7 @@ entry_into_force: 1998-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/01/13/1998003028/justel"
 department: "Financiën - Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JANUARI 1998. - Wet betreffende de bijdrage van België tot de zevende wedersamenstelling van de werkmiddelen van het Afrikaans Ontwikkelingsfonds.

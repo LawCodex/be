@@ -13,7 +13,7 @@ entry_into_force: 2009-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/27/2009203078/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2009. - Décret portant assentiment à l'Accord de coopération du 22 janvier 2009 entre la Communautégermanophone et la Région wallonne concernant les fabriques d'église du culte protestant dont l'activité s'étend à la fois sur les territoires de la Région wallonne et de la Communauté germanophone

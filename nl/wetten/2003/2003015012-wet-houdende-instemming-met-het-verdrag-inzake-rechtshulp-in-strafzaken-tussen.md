@@ -12,7 +12,7 @@ entry_into_force: 2003-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/01/09/2003015012/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 2003. - Wet houdende instemming met het Verdrag inzake rechtshulp in strafzaken tussen de Regering van het Koninkrijk België en de Regering van Canada, ondertekend te Brussel op 11 januari 1996.

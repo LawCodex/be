@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/04/29/1991035703/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 09-07-1991 en tekstbijwerking tot 30-12-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 1991. - Decreet betreffende het Vlaams Provinciefonds.

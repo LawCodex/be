@@ -13,7 +13,7 @@ entry_into_force: 2004-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004036273/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende wijziging van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996 en van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, wat betreft de bestrijding van de leegstand en verkrotting en onbewoonbaarheid van gebouwen en/of woningen.

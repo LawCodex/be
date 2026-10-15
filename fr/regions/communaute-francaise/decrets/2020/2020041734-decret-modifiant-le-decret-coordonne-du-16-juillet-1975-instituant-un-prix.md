@@ -13,7 +13,7 @@ entry_into_force: 2020-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/06/11/2020041734/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2020. - Décret modifiant le décret coordonné du 16 juillet 1975 instituant un prix littéraire du Parlement de la Communaute française

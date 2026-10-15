@@ -12,7 +12,7 @@ entry_into_force: 2024-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/12/25/2025000229/justel"
 department: "Mobiliteit en Vervoer - Sociale Zekerheid - Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBER 2024. - Wet tot omzetting van de amendementen van 2022 op het MLC-Verdrag

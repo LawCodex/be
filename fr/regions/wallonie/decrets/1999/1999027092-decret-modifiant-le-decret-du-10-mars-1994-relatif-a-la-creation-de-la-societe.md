@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/04/1999027092/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 16-02-1999 et mise à jour au 07-03-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 1999. - Décret modifiant le décret du 10 mars 1994 relatif à la création de la Société wallonne de financement complémentaire des infrastructures.

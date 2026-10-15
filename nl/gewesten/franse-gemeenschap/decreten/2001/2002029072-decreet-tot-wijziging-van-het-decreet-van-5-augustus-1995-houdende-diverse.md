@@ -12,7 +12,7 @@ published: 2002-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/20/2002029072/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2001. - Decreet tot wijziging van het decreet van 5 augustus 1995 houdende diverse maatregelen inzake hoger onderwijs (VERTALING).

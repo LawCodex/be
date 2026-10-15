@@ -12,7 +12,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/01/12/2006000516/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2006. - Loi modifiant la loi du 1er août 1985 portant des mesures fiscales et autres en vue de permettre aux cohabitants de fait d'être reconnus comme les ayants droit d'un membre des services de police et de secours décédé suite à un accident dans le cadre de ses fonctions.

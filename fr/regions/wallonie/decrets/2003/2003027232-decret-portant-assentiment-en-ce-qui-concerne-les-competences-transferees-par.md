@@ -13,7 +13,7 @@ entry_into_force: 2003-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/04/10/2003027232/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2003. - Décret portant assentiment, en ce qui concerne les compétences transférées par la Communauté française, au Traité de coopération entre, d'une part, la Région wallonne, la Communauté française de Belgique et la Commission communautaire française de la Région de Bruxelles-Capitale et, d'autre part, le Royaume des Pays-Bas, fait à Charleroi le 28 mars 2002.

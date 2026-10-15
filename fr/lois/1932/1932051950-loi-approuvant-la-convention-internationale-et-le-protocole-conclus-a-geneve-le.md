@@ -11,7 +11,7 @@ published: 1932-08-20
 entry_into_force: 1932-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1932/05/19/1932051950/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 1932. - LOI approuvant la convention internationale et le protocole conclus à Genève le 20 avril 1929 pour la répression du faux monnayage.

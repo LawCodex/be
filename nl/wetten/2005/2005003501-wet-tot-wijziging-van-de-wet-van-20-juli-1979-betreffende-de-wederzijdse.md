@@ -12,7 +12,7 @@ entry_into_force: 2005-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/05/22/2005003501/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2005. - Wet tot wijziging van de wet van 20 juli 1979 betreffende de wederzijdse bijstand inzake de invordering van schuldvorderingen die voortvloeien uit bepaalde bijdragen, rechten, belastingen en andere maatregelen, in uitvoering van de Richtlijn 2004/79/EG van de Commissie van 4 maart 2004.

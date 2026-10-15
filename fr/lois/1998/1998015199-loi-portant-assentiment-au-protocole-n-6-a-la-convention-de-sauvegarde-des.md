@@ -12,7 +12,7 @@ entry_into_force: 1999-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/04/1998015199/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 1998. - Loi portant assentiment au Protocole n° 6 à la Convention de sauvegarde des Droits de l'Homme et des Libertés fondamentales concernant l'abolition de la peine de mort, fait à Strasbourg le 28 avril 1983

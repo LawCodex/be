@@ -12,7 +12,7 @@ entry_into_force: 2004-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/12/22/2004003029/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2003. - Loi contenant le troisième ajustement du budget général des dépenses de l'année budgétaire 2003.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/02/17/1997009170/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 30-04-1997 et mise à jour au 15-01-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 1997. - Loi modifiant certaines dispositions du Code judiciaire en ce qui concerne le personnel des greffes et des parquets.

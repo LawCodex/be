@@ -13,7 +13,7 @@ entry_into_force: 2012-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/12/23/2012035039/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2011. - Decreet tot wijziging van diverse bepalingen van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds

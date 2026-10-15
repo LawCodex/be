@@ -13,7 +13,7 @@ entry_into_force: 2026-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/12/2026004706/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2026. - Décret transposant partiellement la directive (UE) 2023/2661 et modifiant le décret du 29 mars 2013 concernant le cadre pour le déploiement de systèmes de transport intelligents dans le domaine du transport routier et d'interfaces avec d'autres modes de transport

@@ -13,7 +13,7 @@ entry_into_force: 2019-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/28/2019201478/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2019. - Décret portant assentiment à l'accord de coopération du 5 octobre 2018 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif au financement des infrastructures ferroviaires stratégiques

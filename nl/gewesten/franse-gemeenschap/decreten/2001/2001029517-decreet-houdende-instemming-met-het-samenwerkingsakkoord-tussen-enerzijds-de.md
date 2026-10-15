@@ -13,7 +13,7 @@ entry_into_force: 2001-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/11/15/2001029517/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBER 2001. - Decreet houdende instemming met het Samenwerkingsakkoord tussen, enerzijds, de Republiek Libanon en, anderzijds, de Franse Gemeenschap van België, het Waals Gewest en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest en met zijn Bijlage, opgemaakt te Brussel op 26 september 2000 (VERTALING).

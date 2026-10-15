@@ -12,7 +12,7 @@ entry_into_force: 2016-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/02/2015000763/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2015. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers en ce qui concerne la procédure devant le Conseil du Contentieux des Etrangers

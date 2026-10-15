@@ -12,7 +12,7 @@ entry_into_force: 2013-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/13/2012015136/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2012. - Loi portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Croatie relative à la coopération policière, signée à Zagreb le 19 octobre 2004

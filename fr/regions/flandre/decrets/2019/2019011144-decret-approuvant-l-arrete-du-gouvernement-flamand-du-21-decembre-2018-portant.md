@@ -13,7 +13,7 @@ entry_into_force: 2019-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/01/2019011144/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2019. - Décret approuvant l'arrêté du Gouvernement flamand du 21 décembre 2018 portant recevabilité et équivalence d'une demande de la Federatie Steinerscholen Vlaanderen vzw de dérogation aux objectifs finaux, pour ce qui est du troisième degré de l'enseignement secondaire technique

@@ -13,7 +13,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/21/2008036402/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2008. - Décret modifiant le décret du 13 juillet 2007 relatif à la pratique du sport dans le respect des impératifs de santé et le décret du 24 juillet 1996 fixant le statut du sportif amateur (TRADUCTION).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/03/2008202676/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 29-07-2008 en tekstbijwerking tot 23-10-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2008. - Decreet betreffende de steun voor onderzoek, ontwikkeling en innovatie in Wallonië (VERTALING)

@@ -12,7 +12,7 @@ published: 2023-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/07/20/2023044135/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2023. - Ordonnance concernant le parcours d'accueil et d'accompagnement des primo-arrivants et des personnes étrangères

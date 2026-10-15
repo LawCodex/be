@@ -13,7 +13,7 @@ entry_into_force: 2007-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/01/25/2007200804/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2007. - Décret modifiant le décret du 8 mars 1999 portant approbation de profils de formation tels que définis à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire.

@@ -13,7 +13,7 @@ entry_into_force: 2009-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/15/2009033003/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2008. - Décret portant assentiment à l'accord de coopération du 3 juillet 2008 modifiant l'accord de coopération entre la Région wallonne et la Communauté germanophone du 26 novembre 1998 (TRADUCTION).

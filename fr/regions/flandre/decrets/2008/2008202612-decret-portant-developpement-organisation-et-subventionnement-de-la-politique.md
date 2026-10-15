@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/23/2008202612/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-04-2009 et mise à jour au 03-09-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2008. - Décret portant développement, organisation et subventionnement de la politique flamande du patrimoine culturel (Décret sur le Patrimoine culturel) (TRADUCTION)

@@ -13,7 +13,7 @@ entry_into_force: 1998-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/15/1998033001/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 1997. - Décret portant approbation de la Convention n° 156 concernant l'égalité de chances et de traitement pour les travailleurs des deux sexes : travailleurs ayant des responsabilités familiales, adoptée à Genève, le 23 juin 1981, par la Conférence internationale du Travail lors de sa soixante-septième session (TRADUCTION).

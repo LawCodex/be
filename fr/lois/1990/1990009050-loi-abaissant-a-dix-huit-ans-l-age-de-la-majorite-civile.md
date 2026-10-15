@@ -12,7 +12,7 @@ entry_into_force: 1990-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/01/19/1990009050/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JANVIER 1990. - Loi abaissant à dix-huit ans l'âge de la majorité civile.

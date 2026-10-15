@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/30/1999036096/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 15-09-1999 et mise à jour au 26-08-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 1999. - Décret fixant l'octroi de subventions aux associations coordinatrices d'étudiants et d'élèves (TRADUCTION).

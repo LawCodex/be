@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/21/2007022870/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 18-06-2007 et mise à jour au 19-05-2009"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2007. - Loi désignant les représentants des infirmiers à domicile à la commission de conventions infirmiers-organismes assureurs.

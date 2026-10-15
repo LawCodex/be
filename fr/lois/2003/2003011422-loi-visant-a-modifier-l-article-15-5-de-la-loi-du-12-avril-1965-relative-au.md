@@ -12,7 +12,7 @@ entry_into_force: 2003-09-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/08/12/2003011422/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AOUT 2003. - Loi visant à modifier l'article 15/5 de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations.

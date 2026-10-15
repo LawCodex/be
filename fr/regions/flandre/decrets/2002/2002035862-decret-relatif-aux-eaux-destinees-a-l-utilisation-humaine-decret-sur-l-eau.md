@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/05/24/2002035862/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2004 et mise à jour au 18-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2002. - Décret relatif aux eaux destinées à l'utilisation humaine. (Décret sur l'Eau potable) (TRADUCTION)

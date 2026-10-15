@@ -12,7 +12,7 @@ entry_into_force: 2023-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/06/03/2014015235/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2014. - Loi portant assentiment aux actes internationaux suivants: 1° la convention d'entraide judiciaire en matière pénale entre le Royaume de Belgique et la République démocratique du Congo, faite à Bruxelles le 29 avril 2009; et 2° la convention entre le Royaume de Belgique et la République démocratique du Congo sur le transfèrement des personnes condamnées, faite à Bruxelles le 29 avril 2009

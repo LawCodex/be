@@ -11,7 +11,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/15/2018013239/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2018. - Wet tot wijziging van verscheidene wetten betreffende verkiezingsuitgaven en financiering van de politieke partijen, wat sponsoring betreft

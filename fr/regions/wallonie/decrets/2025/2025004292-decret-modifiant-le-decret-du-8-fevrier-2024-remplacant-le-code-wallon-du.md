@@ -13,7 +13,7 @@ entry_into_force: 2025-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/05/30/2025004292/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2025. - Décret modifiant le décret du 8 février 2024 remplaçant le Code wallon du Tourisme et portant des dispositions diverses

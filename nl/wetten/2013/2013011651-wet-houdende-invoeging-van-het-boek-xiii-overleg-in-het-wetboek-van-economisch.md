@@ -12,7 +12,7 @@ entry_into_force: 2014-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/15/2013011651/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2013. - Wet houdende invoeging van het boek XIII "Overleg", in het Wetboek van economisch recht

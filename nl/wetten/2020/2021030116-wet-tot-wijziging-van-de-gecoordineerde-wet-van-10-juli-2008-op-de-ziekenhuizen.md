@@ -12,7 +12,7 @@ entry_into_force: 2020-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/06/26/2021030116/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2020. - Wet tot wijziging van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen tot bescherming van de slachtoffers van de pandemie veroorzaakt door het coronavirus SARS-CoV-2 tegen de aanrekening van ereloonsupplementen en tot bescherming van de patiënt voor wie de kosten van de dienstverlening gedekt worden door het budget van financiële middelen tegen de aanrekening van bijkomende kosten

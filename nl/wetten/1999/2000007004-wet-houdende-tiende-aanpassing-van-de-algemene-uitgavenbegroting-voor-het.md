@@ -12,7 +12,7 @@ entry_into_force: 2000-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/12/23/2000007004/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1999. - Wet houdende tiende aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 1999. - Sectie 16 - " Landsverdediging ".

@@ -13,7 +13,7 @@ entry_into_force: 2001-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/10/25/2001027656/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 OCTOBRE 2001. - Décret modifiant l'article 1erbis de la loi du 18 juillet 1973 relative à la lutte contre le bruit.

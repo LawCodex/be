@@ -13,7 +13,7 @@ entry_into_force: 2008-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/20/2008202441/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2008. - Decreet houdende de uitbetaling van eenmalige werkingsbudgetten in het basisonderwijs en van eenmalige werkingsbudgetten in het secundair onderwijs voor het begrotingsjaar 2008.

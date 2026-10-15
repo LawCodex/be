@@ -18,7 +18,7 @@ justel_notes:
   - "Par son arrêt du 26-05-1988 (M.B. 18-06-1988), la Cour d'arbitrage a annulé l'article 65, alinéa 1er, 1"
   - "Par son arrêt du 11-05-1989 (M.B. 31-05-1989), la Cour d'arbitrage a annulé divers articles (voir art. 55, § 1, 1; 55; § 2; 57; 58; 60; 62; 63"
   - "Consultation des versions antérieures à partir du 30-12-1986 et mise à jour au 28-02-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 1981. - Décret du 2 juillet 1981 relatif à la prévention et à la gestion des déchets. (TRADUCTION) (DCFL 1994-04-20/31, art. 2, 010; En vigueur : 07-05-1994)

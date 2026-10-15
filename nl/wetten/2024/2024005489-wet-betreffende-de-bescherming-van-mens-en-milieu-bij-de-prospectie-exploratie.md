@@ -12,7 +12,7 @@ entry_into_force: 2024-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/25/2024005489/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2024. - Wet betreffende de bescherming van mens en milieu bij de prospectie, exploratie en exploitatie van rijkdommen van de zee- en oceaanbodem en de ondergrond ervan voorbij de grenzen van de nationale rechtsmacht

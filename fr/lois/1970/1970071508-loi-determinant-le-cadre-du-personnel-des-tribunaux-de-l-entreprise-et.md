@@ -13,7 +13,7 @@ last_amended: 2019-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1970/07/15/1970071508/justel"
 justel_note: "Consultation des versions antérieures à partir du 04-05-2005 et mise à jour au 19-06-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 1970. - Loi déterminant le cadre du personnel [des tribunaux de l'entreprise] et modifiant la loi du 10 octobre 1967 contenant le Code judiciaire. &lt;L 2019-05-05/19 , art. 103, 007; En vigueur : 29-06-2019&gt;

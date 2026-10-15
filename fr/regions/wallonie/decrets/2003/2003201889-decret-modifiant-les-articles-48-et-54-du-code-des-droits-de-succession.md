@@ -13,7 +13,7 @@ entry_into_force: 2003-11-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/10/22/2003201889/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2003. - Décret modifiant les articles 48 et 54 du Code des droits de succession.

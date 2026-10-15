@@ -12,7 +12,7 @@ entry_into_force: 1993-05-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/22/1999015059/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 1999. - Loi portant assentiment à l'Accord de siège entre le Royaume de Belgique et le Conseil de coopération des Etats arabes du Golfe, signé à Bruxelles le 11 mai 1993.

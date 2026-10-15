@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/09/2024202296/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 AVRIL 2024. - Loi modifiant l'article 3ter, alinéa 1er, de l'arrête royal n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés

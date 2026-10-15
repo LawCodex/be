@@ -13,7 +13,7 @@ entry_into_force: 2013-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/28/2013035651/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2013. - Décret modifiant le Code du 23 novembre 1965 des taxes assimilées aux impôts sur les revenus et la loi du 27 décembre 1994 portant assentiment de l'Accord relatif à la perception d'un droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds, signé à Bruxelles le 9 février 1994 entre les Gouvernements de la République fédérale d'Allemagne, du Royaume de Belgique, du Royaume du Danemark, du Grand-Duché de Luxembourg et du Royaume des Pays-Bas et instaurant une eurovignette, conformément à la Directive 93/89/CEE du Conseil des Communauté européennes du 25 octobre 1993, en ce qui concerne la retenue et la saisie de véhicules et l'établissement de procès-verbaux

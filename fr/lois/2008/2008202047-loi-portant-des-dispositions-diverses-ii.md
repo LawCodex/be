@@ -12,7 +12,7 @@ entry_into_force: 2008-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/08/2008202047/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2008. - Loi portant des dispositions diverses (II).

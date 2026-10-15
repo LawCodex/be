@@ -13,7 +13,7 @@ entry_into_force: 2017-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/12/15/2017032179/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2017. - Ordonnance ajustant le Budget général des Dépenses de la Commission communautaire commune pour l'année budgétaire 2017

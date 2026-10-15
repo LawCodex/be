@@ -12,7 +12,7 @@ entry_into_force: 2017-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/09/03/2017031114/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBRE 2017. - Loi portant modification de la loi du 15 mai 1984 portant mesure d'harmonisation dans les régimes de pensions

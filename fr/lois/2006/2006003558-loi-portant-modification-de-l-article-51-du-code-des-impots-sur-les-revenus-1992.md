@@ -12,7 +12,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/11/26/2006003558/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2006. - Loi portant modification de l'article 51 du Code des impôts sur les revenus 1992.

@@ -13,7 +13,7 @@ entry_into_force: 1996-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/05/14/1996035655/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MEI 1996. - Decreet houdende wijziging van het decreet van 27 juni 1985 op de Sociaal-Economische Raad van Vlaanderen.

@@ -12,7 +12,7 @@ entry_into_force: 1997-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/07/03/2002015121/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2000. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et l'Organisation des Nations unies pour l'Alimentation et l'Agriculture sur l'établissement en Belgique d'un Bureau de liaison de cette organisation, signé à Bruxelles le 5 février 1997.

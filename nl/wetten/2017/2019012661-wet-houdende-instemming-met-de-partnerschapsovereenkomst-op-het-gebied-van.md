@@ -12,7 +12,7 @@ entry_into_force: 2019-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/07/31/2019012661/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2017. - Wet houdende instemming met de Partnerschapsovereenkomst op het gebied van betrekkingen en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en Nieuw-Zeeland, anderzijds, gedaan te Brussel op 5 oktober 2016

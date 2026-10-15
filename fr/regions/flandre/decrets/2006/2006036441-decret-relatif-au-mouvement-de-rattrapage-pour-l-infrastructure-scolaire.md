@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "Confirmé avec effet à la date de son entrée en vigueur par L 2007-06-29/53 , art. 12, 1°"
   - "Consultation des versions antérieures à partir du 15-09-2006 et mise à jour au 07-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2006. - Décret relatif au mouvement de rattrapage pour l'infrastructure scolaire (TRADUCTION)

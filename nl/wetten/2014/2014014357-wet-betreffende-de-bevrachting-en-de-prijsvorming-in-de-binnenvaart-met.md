@@ -12,7 +12,7 @@ entry_into_force: 2014-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/08/2014014357/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2014. - Wet betreffende de bevrachting en de prijsvorming in de binnenvaart, met betrekking tot aangelegenheden als bedoeld door artikel 77 van de Grondwet

@@ -13,7 +13,7 @@ entry_into_force: 2020-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/02/17/2020201287/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2020. - Décret portant assentiment à l'Accord de coopération du 23 août 2018 entre la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune visant à assurer la mise en uvre de la Convention de La Haye du 19 octobre 1996 concernant la compétence, la loi applicable, la reconnaissance, l'exécution et la coopération en matière de responsabilité parentale et de mesures de protection des enfants et du Règlement (CE) n° 2201/2003 du Conseil du 27 novembre 2003 relatif à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale abrogeant le Règlement (CE) n° 1347/2000

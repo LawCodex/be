@@ -13,7 +13,7 @@ entry_into_force: 2004-11-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/11/30/2004029293/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 1998. - Décret contenant le règlement définitif du budget de la Communauté française pour l'année budgétaire 1982.

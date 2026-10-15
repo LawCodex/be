@@ -13,7 +13,7 @@ entry_into_force: 2009-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202221/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet tot wijziging van het decreet van 4 juli 1996 betreffende de integratie van vreemdelingen of van personen van buitenlandse herkomst

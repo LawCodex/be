@@ -13,7 +13,7 @@ entry_into_force: 2007-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/22/2007031554/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2007. - Décret portant assentiment à l'Accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats membres, d'une part, et la République du Tadjikistan, d'autre part, fait à Luxembourg le 11 octobre 2004.

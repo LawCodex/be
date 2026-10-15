@@ -12,7 +12,7 @@ entry_into_force: 2006-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/04/04/2006002052/justel"
 department: "Personeel en Organisatie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2006. - Wet houdende wijziging van artikel 43 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966.

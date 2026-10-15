@@ -11,7 +11,7 @@ published: 1986-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1986/08/08/1986015213/justel"
 department: "Buitenlandse Zaken - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 AUGUSTUS 1986. - Wet houdende goedkeuring van het Protocol, ondertekend te Brussel op 10 november 1983, houdende wijziging van de eenvormige Beneluxwet gevoegd bij het Beneluxverdrag inzake de warenmerken van 19 maart 1962.

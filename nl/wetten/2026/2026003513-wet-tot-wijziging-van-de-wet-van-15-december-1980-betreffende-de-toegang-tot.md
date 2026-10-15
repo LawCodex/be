@@ -12,7 +12,7 @@ entry_into_force: 2026-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/04/23/2026003513/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 2026. - Wet tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen, met het oog op meer transparantie in het raam van humanitaire visa

@@ -12,7 +12,7 @@ entry_into_force: 2001-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/03/23/2001012204/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2001. - Loi modifiant la législation relative au congé pour l'exercice d'un mandat politique, en ce qui concerne le bourgmestre, les échevins, le président et les membres du bureau des conseils de district et le président du CPAS et instaurant un statut social supplétif pour le président du CPAS.

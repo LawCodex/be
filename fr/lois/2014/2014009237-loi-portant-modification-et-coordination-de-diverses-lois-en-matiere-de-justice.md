@@ -12,7 +12,7 @@ entry_into_force: 2014-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/12/2014009237/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2014. - Loi portant modification et coordination de diverses lois en matière de Justice (II)

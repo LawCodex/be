@@ -13,7 +13,7 @@ entry_into_force: 2017-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/01/26/2017040046/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2017. - Decreet houdende instemming met het Benelux-Verdrag inzake grensoverschrijdende en interterritoriale samenwerking, gedaan te `s-Gravenhage op 20 februari 2014

@@ -12,7 +12,7 @@ entry_into_force: 2019-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/02/2019012245/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Loi modifiant le Code de droit économique, visant à inscrire les milieux d'accueil de la petite enfance dans le champ des exceptions aux droits d'auteur

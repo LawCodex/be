@@ -12,7 +12,7 @@ entry_into_force: 2014-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/10/2014009265/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2014. - Wet tot wijziging van het Gerechtelijk Wetboek betreffende de procedure voor het Hof van Cassatie en de wrakingsprocedure

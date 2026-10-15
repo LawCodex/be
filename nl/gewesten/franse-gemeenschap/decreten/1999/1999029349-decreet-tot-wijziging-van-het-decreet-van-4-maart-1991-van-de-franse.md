@@ -12,7 +12,7 @@ published: 1999-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/05/1999029349/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1999. - Decreet tot wijziging van het decreet van 4 maart 1991 van de Franse Gemeenschap inzake Hulpverlening aan de Jeugd (VERTALING).

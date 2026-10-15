@@ -12,7 +12,7 @@ entry_into_force: 2018-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/12/21/2017014398/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2017. - Loi modifiant la loi du 11 février 2013 organisant la profession d'agent immobilier

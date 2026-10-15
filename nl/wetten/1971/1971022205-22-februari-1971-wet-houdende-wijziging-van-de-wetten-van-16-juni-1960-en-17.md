@@ -11,7 +11,7 @@ published: 1971-04-16
 entry_into_force: 1960-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/02/22/1971022205/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 1971. \_ Wet houdende wijziging van de wetten van 16 juni 1960 en 17 juli 1963 betreffende de overzeese sociale zekerheid.

@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/14/2019201479/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEVRIER 2019. - Décret relatif à l'aide aux aînés et portant modification du Livre V du Code wallon de l'Action sociale et de la Santé

@@ -12,7 +12,7 @@ entry_into_force: 2007-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/06/04/2007002143/justel"
 department: "Personnel et Organisation"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUIN 2007. - Loi modifiant la loi du 10 avril 1995 relative à la redistribution du travail dans le secteur public.

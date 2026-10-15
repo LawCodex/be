@@ -13,7 +13,7 @@ entry_into_force: 2010-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/05/28/2010203340/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MEI 2010. - Decreet houdende diverse wijzigingen van het decreet van 30 mei 2008 betreffende de vestiging, de invordering en de geschillenprocedure van provincie- en gemeentebelastingen

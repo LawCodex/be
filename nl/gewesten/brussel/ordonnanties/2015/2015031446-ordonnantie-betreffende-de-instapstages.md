@@ -13,7 +13,7 @@ entry_into_force: 2015-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/07/09/2015031446/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2015. - Ordonnantie betreffende de instapstages

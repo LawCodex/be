@@ -20,7 +20,7 @@ from datetime import date
 
 import lxml.html
 
-from catalog import DIRS, FM_TYPE, TYPES, ar_has_legislative_force
+from catalog import DIRS, FM_TYPE, NL_CODE_DIRS, TYPES, ar_has_legislative_force
 from common import BASE, LISTS, RAW, REPO, cached, http
 from list_texts import slug as dtslug
 
@@ -284,6 +284,11 @@ def status_of(parsed):
     abrog = any(re.match(r"\s*(abrog|opgeheven|annul|vernietigd)", n, re.I) for n in parsed["notes"])
     if fin and fin <= TODAY:
         return "repealed", fin
+    # whole-text repeal announced in the title, e.g. "(Abrogé par L 2026-03-03/04, ...; En vigueur : 01-09-2026)"
+    m = re.search(r"\((?:Abrog[ée]+|Opgeheven)\s+(?:par|door)\s[^()]*?(?:En vigueur|Inwerkingtreding)\s*:\s*(\d{2}-\d{2}-\d{4})",
+                  parsed["full_title"], re.I)
+    if m and (d := parse_date(m.group(1))) and d <= TODAY:
+        return "repealed", fin or d
     if abrog and not (fin and fin > TODAY):
         return "repealed", fin
     return "in_force", fin
@@ -453,10 +458,16 @@ def main():
         files.sort(key=lambda f: (prio.get(cat_of(order[f])[0], 9), f.name))
     lock = threading.Lock()
     # texts listed both under a CODE type and another type (e.g. LOI) are written once, as code
-    code_numacs = set()
-    for f in files:
+    # Justel's type search is a prefix search ("CODE PENAL" also returns "CODE PENAL SOCIAL"):
+    # a text listed under several code types belongs to the longest (most specific) one.
+    code_numacs, code_owner = set(), {}
+    for f in sorted(files, key=lambda f: len(order[f])):
         if cat_of(order[f])[0] == "code":
-            code_numacs |= {json.loads(x)["numac"] for x in f.read_text(encoding="utf-8").splitlines() if x.strip()}
+            for x in f.read_text(encoding="utf-8").splitlines():
+                if x.strip():
+                    n = json.loads(x)["numac"]
+                    code_numacs.add(n)
+                    code_owner[n] = order[f]
     for lf in files:
         items = [json.loads(x) for x in lf.read_text(encoding="utf-8").splitlines() if x.strip()]
         if not items:
@@ -475,18 +486,17 @@ def main():
         nl_titles = None
         if cat == "code":
             fr_dir = dtslug(dt)
-            # NL directory: majority vote over NL titles; requires a first pass over NL pages
-            titles = []
-            for it in items:
-                if GERMAN_RE.search(it["title"]):
-                    continue
-                try:
-                    titles.append(parse_page(fetch("nl", it["numac"]))["title"])
-                except Exception as e:  # noqa: BLE001
-                    print("WARN", it["numac"], e, file=sys.stderr)
-            code_dirs = {"fr": ascii_slug(fr_dir, 60), "nl": nl_code_dir(titles, ascii_slug(fr_dir, 60))}
+            if fr_dir in NL_CODE_DIRS:
+                nl_dir = NL_CODE_DIRS[fr_dir]
+            else:  # unknown new code type: majority vote over the Dutch titles
+                titles = [parse_page(fetch("nl", it["numac"]))["title"] for it in items
+                          if not GERMAN_RE.search(it["title"])]
+                nl_dir = nl_code_dir(titles, ascii_slug(fr_dir, 60))
+            code_dirs = {"fr": ascii_slug(fr_dir, 60), "nl": ascii_slug(nl_dir, 70)}
         if cat != "code":
             items = [it for it in items if it["numac"] not in code_numacs]
+        else:
+            items = [it for it in items if code_owner.get(it["numac"]) == dt]
         todo = [it for it in items if it["numac"] not in done]
         print(f"{dt}: {len(items)} listed, {len(todo)} to do", flush=True)
         n = 0

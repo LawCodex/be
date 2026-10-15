@@ -13,7 +13,7 @@ entry_into_force: 2025-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/04/09/2026002814/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 2026. - Decreet houdende bekrachtiging van het besluit van de Waalse Regering van bijzondere machten nr. 1 van 12 juni 2025 tot wijziging van het decreet van 15 mei 2025 betreffende de verlenging van de termijnen die gevolgen ondervinden van de inbraak van april 2025 in het informaticasysteem van de diensten van de Waalse Regering en het decreet van 15 mei 2025 betreffende de verlenging van de termijnen die gevolgen ondervinden van de inbraak van april 2025 in het informaticasysteem van de diensten van de Waalse Regering, wat betreft de aangelegenheden waarvan de uitoefening door de Franse Gemeenschap is overgedragen

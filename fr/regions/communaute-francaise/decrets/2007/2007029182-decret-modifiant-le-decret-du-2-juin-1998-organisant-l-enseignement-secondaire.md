@@ -13,7 +13,7 @@ entry_into_force: 2007-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/19/2007029182/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2007. - Décret modifiant le décret du 2 juin 1998 organisant l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française.

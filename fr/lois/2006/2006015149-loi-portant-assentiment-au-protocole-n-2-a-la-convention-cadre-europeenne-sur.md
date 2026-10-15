@@ -12,7 +12,7 @@ entry_into_force: 2009-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/09/24/2006015149/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 SEPTEMBRE 2006. - Loi portant assentiment au Protocole n° 2 à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales relatif à la coopération interterritoriale, fait à Strasbourg le 5 mai 1998

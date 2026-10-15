@@ -13,7 +13,7 @@ entry_into_force: 2026-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2026/01/15/2026000334/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 2026. - Ordonnantie betreffende het invoeren van intelligente vervoerssystemen op het gebied van wegvervoer en van interfaces met andere vervoerswijzen

@@ -13,7 +13,7 @@ entry_into_force: 2012-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/26/2012202659/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2012. - Décret portant exécution, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, du Règlement (CE) n° 1082/2006 du Parlement européen et du Conseil du 5 juillet 2006 relatif à un groupement européen de coopération territoriale (GECT)

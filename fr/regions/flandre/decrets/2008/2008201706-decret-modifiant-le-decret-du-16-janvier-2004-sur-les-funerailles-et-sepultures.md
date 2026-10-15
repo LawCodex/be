@@ -13,7 +13,7 @@ entry_into_force: 2008-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/04/18/2008201706/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2008. - Décret modifiant le décret du 16 janvier 2004 sur les funérailles et sépultures (TRADUCTION).

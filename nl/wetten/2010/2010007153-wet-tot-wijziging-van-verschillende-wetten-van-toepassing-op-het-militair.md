@@ -12,7 +12,7 @@ entry_into_force: 2010-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/04/23/2010007153/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 2010. - Wet tot wijziging van verschillende wetten van toepassing op het militair personeel

@@ -12,7 +12,7 @@ entry_into_force: 2004-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/04/25/2004015087/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2004. - Loi portant assentiment aux Actes internationaux suivants : 1° Premier Protocole concernant l'interprétation par la Cour de Justice des Communautés européennes de la Convention sur la loi applicable aux obligations contractuelles, ouverte à la signature à Rome le 19 juin 1980, et Déclarations communes; 2° Deuxième Protocole attribuant à la Cour de Justice des Communautés européennes certaines compétences en matière d'interprétation de la Convention sur la loi applicable aux obligations contractuelles, ouverte à la signature à Rome le 19 juin 1980, faits à Bruxelles le 19 décembre 1988.

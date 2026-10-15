@@ -13,7 +13,7 @@ entry_into_force: 2001-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/02/02/2001035232/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEVRIER 2001. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le gouvernement de la République de Moldova concernant l'encouragement et la protection réciproques des investissements, signé à Chisinau le 21 mai 1996 (TRADUCTION).

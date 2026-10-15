@@ -13,7 +13,7 @@ entry_into_force: 2001-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/03/29/2001029183/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2001. - Décret portant assentiment à la Charte européenne de l'autonomie locale faite à Strasbourg le 15 octobre 1985.

@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/07/17/2000009664/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2000. - Wet tot wijziging van het Gerechtelijk Wetboek, van de wet van 22 december 1998 tot wijziging van sommige bepalingen van deel II van het Gerechtelijk Wetboek met betrekking tot de Hoge Raad voor de Justitie, de benoeming en aanwijzing van magistraten en tot invoering van een evaluatiesysteem en van de wet van 15 juni 1935 op het gebruik der talen in gerechtszaken.

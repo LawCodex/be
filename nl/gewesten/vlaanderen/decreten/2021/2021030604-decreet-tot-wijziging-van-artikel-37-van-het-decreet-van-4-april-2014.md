@@ -13,7 +13,7 @@ entry_into_force: 2021-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/03/05/2021030604/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2021. - Decreet tot wijziging van artikel 37 van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges, wat de injunctie betreft

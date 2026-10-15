@@ -12,7 +12,7 @@ entry_into_force: 2007-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/02/2007015041/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2007. - Wet houdende instemming met het Verdrag betreffende de voorrechten en immuniteiten van het Internationaal Hof voor het Recht van de Zee, gedaan te New York op 23 mei 1997.

@@ -13,7 +13,7 @@ entry_into_force: 2017-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/11/16/2017206316/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2017. - Décret modifiant l'article D.V.1 du Code du Développement territorial

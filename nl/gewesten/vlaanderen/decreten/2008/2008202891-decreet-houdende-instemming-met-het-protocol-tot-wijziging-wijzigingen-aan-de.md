@@ -12,7 +12,7 @@ published: 2008-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/27/2008202891/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2008. - Decreet houdende instemming met het Protocol tot wijziging (wijzigingen aan de Conventie voor het Europees Centrum voor Weervoorspellingen op Middellange Termijn, en aan het Protocol over de voorrechten en immuniteiten van het Europees Centrum voor Weersvoorspellingen op Middellange Termijn, ondertekend in Brussel, op 11 oktober 1973), aangenomen op 22 april 2005.

@@ -12,7 +12,7 @@ entry_into_force: 2002-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/03/05/2002012441/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2002. - Wet tot wijziging van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders.

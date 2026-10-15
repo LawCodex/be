@@ -13,7 +13,7 @@ entry_into_force: 1996-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/03/30/1996027234/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 1995. - Decreet houdende eindregeling van de begroting van het Waalse Gewest voor het begrotingsjaar 1991. (Vertaling)

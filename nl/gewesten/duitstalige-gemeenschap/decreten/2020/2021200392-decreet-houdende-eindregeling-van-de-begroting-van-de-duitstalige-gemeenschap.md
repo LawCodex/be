@@ -13,7 +13,7 @@ entry_into_force: 2021-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/10/2021200392/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2020. - Decreet houdende eindregeling van de begroting van de Duitstalige Gemeenschap voor het begrotingsjaar 2019

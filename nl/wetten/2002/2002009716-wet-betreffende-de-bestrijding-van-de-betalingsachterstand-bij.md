@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/08/02/2002009716/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 07-08-2002 en tekstbijwerking tot 01-06-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AUGUSTUS 2002. - Wet betreffende de bestrijding van de betalingsachterstand bij handelstransacties.

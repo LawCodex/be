@@ -13,7 +13,7 @@ entry_into_force: 2024-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/22/2024202518/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2024. - Décret portant assentiment au Protocole, fait à Kinshasa le 16 juillet 2010, modifiant la Convention entre le Royaume de Belgique et la République Démocratique du Congo en vue d'éviter la double imposition et de prévenir la fraude et l'évasion fiscales en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 23 mai 2007

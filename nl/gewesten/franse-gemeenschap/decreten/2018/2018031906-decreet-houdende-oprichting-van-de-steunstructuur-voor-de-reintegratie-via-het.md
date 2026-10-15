@@ -11,7 +11,7 @@ date: 2018-09-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/09/06/2018031906/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 SEPTEMBER 2018. - Decreet houdende oprichting van de steunstructuur voor de reïntegratie via het onderwijs voor sociale promotie in gevangenissen

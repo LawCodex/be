@@ -13,7 +13,7 @@ entry_into_force: 2006-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/03/16/2006201062/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2006. - Décret portant assentiment à l'accord de coopération du 30 mai 2005 conclu entre l'Etat fédéral, la Région flamande, la Région wallonne et la Communauté germanophone relatif à l'économie plurielle.

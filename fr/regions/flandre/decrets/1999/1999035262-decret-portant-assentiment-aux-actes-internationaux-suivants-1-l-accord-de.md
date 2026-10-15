@@ -13,7 +13,7 @@ entry_into_force: 1999-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/09/1999035262/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 1999. - Décret portant assentiment aux actes internationaux suivants : 1. l'Accord de siège entre le Royaume de Belgique et l'Agence spatiale européenne, signé à Paris le 26 janvier 1993; 2. l'Accord de siège entre le Royaume de Belgique et l'Association européenne de Libre échange, signé à Bruxelles le 27 janvier 1993; 3. l'Accord de siège entre le Royaume de Belgique et le Groupe des Etats d'Afrique, des Caraïbes et du Pacifique et l'échange de lettres, signés à Bruxelles le 26 avril 1993; 4. l'Accord de siège entre le Royaume de Belgique et le Conseil de coopération pour les Etats arabes du Golfe, signé à Bruxelles, le 11 mai 1993; 5. l'Accord de siège entre le Royaume de Belgique et l'autorité de surveillance de l'Association européenne de Libre échange, signé à Bruxelles le 22 décembre 1994 et l'échange de lettres, signées à Bruxelles les 6 et 8 janvier 1997; 6. l'Accord de siège entre le Royaume de Belgique et la Conférence de la Charte de l'énergie, signé à Bruxelles, le 26 octobre 1995; 7. l'Accord de siège entre le Royaume de Belgique et la Ligue des Etats arabes, signé à Bruxelles le 16 novembre 1995; 8. l'Accord de siège entre le Royaume de Belgique et l'Agence de Coopération culturelle et technique, signé à Bruxelles le 16 novembre 1995 (TRADUCTION).

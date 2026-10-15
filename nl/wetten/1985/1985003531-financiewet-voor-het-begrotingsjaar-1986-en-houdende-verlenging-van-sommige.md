@@ -12,7 +12,7 @@ entry_into_force: 1986-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/12/23/1985003531/justel"
 department: "Financiën"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1985. - Financiewet voor het begrotingsjaar 1986 en houdende verlenging van sommige tijdelijke maatregelen.

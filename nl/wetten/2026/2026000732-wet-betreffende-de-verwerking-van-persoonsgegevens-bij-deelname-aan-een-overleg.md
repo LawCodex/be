@@ -12,7 +12,7 @@ entry_into_force: 2026-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/01/08/2026000732/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JANUARI 2026. - Wet betreffende de verwerking van persoonsgegevens bij deelname aan een overleg georganiseerd op grond van artikel 458ter van het strafwetboek

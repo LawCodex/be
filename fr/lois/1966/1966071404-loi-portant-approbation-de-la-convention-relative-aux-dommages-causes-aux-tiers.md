@@ -12,7 +12,7 @@ entry_into_force: 1966-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1966/07/14/1966071404/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1966. - Loi portant approbation de la Convention relative aux dommages causés aux tiers à la surface par des aéronefs étrangers, signée à Rome, le 7 octobre 1952.

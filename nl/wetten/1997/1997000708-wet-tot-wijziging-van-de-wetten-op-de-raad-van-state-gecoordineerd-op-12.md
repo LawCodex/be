@@ -11,7 +11,7 @@ published: 1997-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/09/08/1997000708/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 SEPTEMBER 1997. - Wet tot wijziging van de wetten op de Raad van State, gecoördineerd op 12 januari 1973.

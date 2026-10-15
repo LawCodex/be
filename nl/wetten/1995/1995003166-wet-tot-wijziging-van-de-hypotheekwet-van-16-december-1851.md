@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/02/09/1995003166/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 1995. - Wet tot wijziging van de hypotheekwet van 16 december 1851.

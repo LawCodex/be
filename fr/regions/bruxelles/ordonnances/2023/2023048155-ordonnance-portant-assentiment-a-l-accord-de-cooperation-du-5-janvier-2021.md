@@ -13,7 +13,7 @@ entry_into_force: 2023-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/12/14/2023048155/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2023. - Ordonnance portant assentiment à l'accord de coopération du 5 janvier 2021 entre les Ministres de l'Agriculture de l'Etat fédéral et des Régions concernant la répartition des missions pour l'application des mesures de protection contre les organismes nuisibles aux végétaux

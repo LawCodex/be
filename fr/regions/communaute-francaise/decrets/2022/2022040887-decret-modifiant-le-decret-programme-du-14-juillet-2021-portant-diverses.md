@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/03/31/2022040887/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2022. - Décret modifiant le décret-programme du 14 juillet 2021 portant diverses mesures relatives à la lutte contre la crise du coronavirus, au plan de relance européen, à l'Egalite des chances, aux Bâtiments scolaires, à WBE, au Droit des femmes, à l'Enseignement supérieur, à la Recherche scientifique, au Secteur non-marchand, à l'Education et aux Fonds budgétaires

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/09/26/2016205127/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 19-10-2016 et mise à jour au 12-05-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 SEPTEMBRE 2016. - Décret relatif à l'aide aux victimes et à l'aide spécialisée aux victimes

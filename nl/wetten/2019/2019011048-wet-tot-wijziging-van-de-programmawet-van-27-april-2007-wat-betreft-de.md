@@ -12,7 +12,7 @@ entry_into_force: 2019-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/02/24/2019011048/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2019. - Wet tot wijziging van de programmawet van 27 april 2007 wat betreft de toekenning van het sociaal tarief voor gas en elektriciteit, en tot wijziging van het koninklijk besluit van 29 maart 2012 tot vaststelling van de regels voor het bepalen van de kosten van de toepassing van de sociale tarieven door de elektriciteitsbedrijven en de tussenkomstregels voor het ten laste nemen hiervan

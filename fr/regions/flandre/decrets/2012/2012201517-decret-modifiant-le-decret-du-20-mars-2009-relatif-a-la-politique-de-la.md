@@ -13,7 +13,7 @@ entry_into_force: 2012-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/02/10/2012201517/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2012. - Décret modifiant le décret du 20 mars 2009 relatif à la politique de la mobilité et abrogeant le décret du 20 avril 2001 relatif aux conventions de mobilité

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/17/2024006822/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 15-07-2024 en tekstbijwerking tot 18-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2024. - Decreet over het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht

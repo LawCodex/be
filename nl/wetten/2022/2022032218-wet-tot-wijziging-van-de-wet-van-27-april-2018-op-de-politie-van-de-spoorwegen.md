@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/05/15/2022032218/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2022. - Wet tot wijziging van de wet van 27 april 2018 op de politie van de spoorwegen met het oog op volledig rookvrije perrons

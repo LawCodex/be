@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/02/01/2012029110/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 15-03-2012 et mise à jour au 30-08-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2012. - Décret modifiant certaines dispositions relatives à l'enseignement spécialisé

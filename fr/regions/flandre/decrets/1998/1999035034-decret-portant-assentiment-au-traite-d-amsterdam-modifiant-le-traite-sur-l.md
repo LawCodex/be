@@ -13,7 +13,7 @@ entry_into_force: 1999-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/12/19/1999035034/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1998. - Décret portant assentiment au Traité d'Amsterdam modifiant le traité sur l'Union européenne, les traités instituant les Communautés européennes et certains actes connexes, aux protocoles 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 et 13, à l'acte final et à l'annexe, signés à Amsterdam le 2 octobre 1997.

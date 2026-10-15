@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/31/1999029463/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 25-08-1999 en tekstbijwerking tot 10-07-2003."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 1999. - Decreet houdende sommige hervormingen in het hoger onderwijs (VERTALING). -

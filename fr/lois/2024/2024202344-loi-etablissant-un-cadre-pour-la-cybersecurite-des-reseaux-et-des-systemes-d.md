@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/26/2024202344/justel"
 department: "Chancellerie du Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 17-05-2024 et mise à jour au 19-01-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2024. - Loi établissant un cadre pour la cybersécurité des réseaux et des systèmes d'information d'intérêt général pour la sécurité publique

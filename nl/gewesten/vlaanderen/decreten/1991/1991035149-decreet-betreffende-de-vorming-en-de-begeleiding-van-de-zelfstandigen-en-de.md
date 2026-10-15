@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/01/23/1991035149/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-10-1998 en tekstbijwerking tot 09-06-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 1991. - Decreet betreffende de vorming en de begeleiding van de zelfstandigen en de kleine en middelgrote ondernemingen.

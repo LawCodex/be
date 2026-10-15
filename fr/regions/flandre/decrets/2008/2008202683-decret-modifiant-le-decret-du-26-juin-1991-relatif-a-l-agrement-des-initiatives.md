@@ -13,7 +13,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/10/2008202683/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2008. - Décret modifiant le décret du 26 juin 1991 relatif à l'agrément des initiatives d'animation sociale et à l'octroi de subventions à ces initiatives, pour ce qui concerne la limitation des subventions aux seuls instituts (TRADUCTION).

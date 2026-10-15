@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/01/18/2007200428/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 09-02-2007 et mise à jour au 29-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2007. - Décret relatif au soutien et au développement des [réseaux d'entreprises] ou clusters

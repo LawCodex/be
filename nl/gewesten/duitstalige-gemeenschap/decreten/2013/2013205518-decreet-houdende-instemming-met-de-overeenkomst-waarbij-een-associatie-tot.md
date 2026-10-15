@@ -12,7 +12,7 @@ published: 2013-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/09/23/2013205518/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBER 2013. - Decreet houdende instemming met de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds, en met het Protocol betreffende culturele samenwerking, gedaan te Tegucigalpa op 29 juni 2012

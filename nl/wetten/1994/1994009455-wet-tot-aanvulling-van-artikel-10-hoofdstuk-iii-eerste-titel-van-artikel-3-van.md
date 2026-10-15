@@ -12,7 +12,7 @@ entry_into_force: 1994-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/03/30/1994009455/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 1994. - Wet tot aanvulling van artikel 10, Hoofdstuk III, Eerste Titel, van artikel 3 van de wet van 10 oktober 1967 houdende het Gerechtelijk Wetboek, betreffende de pleitbezorgers.

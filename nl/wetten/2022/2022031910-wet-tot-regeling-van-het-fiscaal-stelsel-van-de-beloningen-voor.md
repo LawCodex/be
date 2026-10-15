@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/04/26/2022031910/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2022. - Wet tot regeling van het fiscaal stelsel van de beloningen voor verenigingsactiviteiten zoals bedoeld in artikel 17 van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders

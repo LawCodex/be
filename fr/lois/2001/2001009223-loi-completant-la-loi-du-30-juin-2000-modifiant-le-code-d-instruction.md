@@ -12,7 +12,7 @@ entry_into_force: 2001-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/02/12/2001009223/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2001. - Loi complétant la loi du 30 juin 2000 modifiant le Code d'instruction criminelle, l'article 27 de la loi du 20 juillet 1990 relative à la détention préventive et l'article 837 du Code judiciaire, en vue de rationaliser la procédure devant la cour d'assises.

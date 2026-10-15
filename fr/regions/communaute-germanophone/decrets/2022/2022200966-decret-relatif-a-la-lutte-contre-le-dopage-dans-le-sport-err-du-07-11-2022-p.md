@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/01/24/2022200966/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 28-02-2022 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 2022. - Décret relatif à la lutte contre le dopage (dans le sport) (ERR du 07-11-2022 p. 81228)

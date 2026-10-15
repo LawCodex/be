@@ -13,7 +13,7 @@ entry_into_force: 2018-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/12/15/2017032182/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2017. - Ordonnance portant assentiment à l'accord de coopération du 17 juin 2016 entre la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone concernant la transposition dans la législation des prestations familiales de la directive 2011/98/UE du Parlement européen et du Conseil du 13 décembre 2011 établissant une procédure de demande unique en vue de la délivrance d'un permis unique autorisant les ressortissants de pays tiers à résider et à travailler sur le territoire d'un Etat membre et établissant un socle commun de droits pour les travailleurs issus de pays tiers qui résident légalement dans un Etat membre

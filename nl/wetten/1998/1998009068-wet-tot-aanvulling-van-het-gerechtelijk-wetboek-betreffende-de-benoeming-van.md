@@ -12,7 +12,7 @@ entry_into_force: 1998-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/02/10/1998009068/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 1998. - Wet tot aanvulling van het Gerechtelijk Wetboek betreffende de benoeming van toegevoegde rechters.

@@ -13,7 +13,7 @@ entry_into_force: 2018-09-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/07/19/2018013093/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2018. - Ordonnance portant assentiment à : l'Accord de partenariat stratégique entre l'Union européenne et ses Etats membres, d'une part, et le Canada, d'autre part, fait à Bruxelles le 30 octobre 2016

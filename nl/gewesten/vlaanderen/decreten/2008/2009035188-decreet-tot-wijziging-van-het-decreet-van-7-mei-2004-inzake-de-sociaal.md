@@ -13,7 +13,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/12/19/2009035188/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2008. - Decreet tot wijziging van het decreet van 7 mei 2004 inzake de Sociaal-Economische Raad van Vlaanderen, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid.

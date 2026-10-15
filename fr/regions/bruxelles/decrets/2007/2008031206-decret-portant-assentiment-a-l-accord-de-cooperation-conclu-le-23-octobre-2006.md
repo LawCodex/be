@@ -13,7 +13,7 @@ entry_into_force: 2008-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/22/2008031206/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2007. - Décret portant assentiment à l'accord de coopération conclu le 23 octobre 2006 entre la Région wallonne et la Commission communautaire française modifiant le décret de la Communauté française du 19 juillet 1991 relatif à la promotion du tourisme et abrogeant l'arrêté de l'Exécutif de la Communauté française du 1er octobre 1991 confiant certaines missions à l'Office de Promotion du Tourisme et déléguant certaines compétences en application du décret du 19 juillet 1991 relatif à la promotion du tourisme.

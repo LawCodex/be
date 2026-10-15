@@ -13,7 +13,7 @@ last_amended: 2024-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1849/02/17/1849021750/justel"
 justel_note: "Consultation des versions antérieures à partir du 29-05-2024 et mise à jour au 29-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 1849. - Loi qui modifie la loi sur les pensions civiles et ecclésiastiques

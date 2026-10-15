@@ -12,7 +12,7 @@ entry_into_force: 2008-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/06/03/2007015104/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2007. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Verenigde Staten van Amerika tot het vermijden van dubbele belasting en van het ontgaan van belasting inzake belastingen naar het inkomen (hierna " de Overeenkomst "), ondertekend te Brussel op 27 november 2006.

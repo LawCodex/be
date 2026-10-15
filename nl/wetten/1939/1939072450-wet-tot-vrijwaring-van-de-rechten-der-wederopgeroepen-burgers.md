@@ -11,7 +11,7 @@ published: 1939-08-05
 entry_into_force: 1939-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1939/07/24/1939072450/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1939. - Wet tot vrijwaring van de rechten der wederopgeroepen burgers.

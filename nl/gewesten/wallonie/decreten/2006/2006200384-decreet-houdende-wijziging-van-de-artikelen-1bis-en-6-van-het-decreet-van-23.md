@@ -13,7 +13,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/02/02/2006200384/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 2006. - Decreet houdende wijziging van de artikelen 1bis en 6 van het decreet van 23 juni 1994 betreffende de oprichting en de uitbating van de onder het Waalse Gewest ressorterende luchthavens en vliegvelden alsmede van artikel 1bis, §§ 5, 6 en 7, van de wet van 18 juli 1973 betreffende de bestrijding van de geluidshinder (VERTALING).

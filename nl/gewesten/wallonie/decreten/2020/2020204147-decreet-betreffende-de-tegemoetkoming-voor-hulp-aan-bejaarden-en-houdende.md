@@ -13,7 +13,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/01/2020204147/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 OKTOBER 2020. - Decreet betreffende de tegemoetkoming voor hulp aan bejaarden en houdende wijziging van het Waalse Wetboek van Sociale Actie en Gezondheid

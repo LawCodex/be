@@ -13,7 +13,7 @@ entry_into_force: 2024-10-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/12/20/2024011911/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2024. - Ordonnantie houdende instemming met de begrotings-beraadslaging nr. 02 van de Brussels Hoofdstedelijk Regering houdende machtiging tot het vastleggen, vereffenen en betalen van uitgaven, aan te rekenen op de algemene uitgavenbegroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2024 betreffende de doorbetaling van de Renolutionpremies

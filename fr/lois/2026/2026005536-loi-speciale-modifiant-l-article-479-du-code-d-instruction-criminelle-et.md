@@ -12,7 +12,7 @@ entry_into_force: 2026-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/20/2026005536/justel"
 department: "Chancellerie du Premier Ministre - Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2026. - Loi spéciale modifiant l'article 479 du Code d'instruction criminelle et relative à la mise en concordance de la loi spéciale du 25 juin 1998 réglant la responsabilité pénale des membres des gouvernements de communauté ou de région avec le Code pénal du 29 février 2024

@@ -13,7 +13,7 @@ entry_into_force: 2016-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/03/10/2016031220/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2016. - Ordonnantie houdende instemming met het Samenwerkingsakkoord van 17 december 2014 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie tot wijziging van het Samenwerkingsakkoord van 9 december 2011 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende dopingpreventie en -bestrijding in de sport

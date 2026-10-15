@@ -13,7 +13,7 @@ entry_into_force: 2026-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/05/2026004895/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 2026. - Décret modifiant le décret Enseignement fondamental du 25 février 1997, le décret du 8 mai 2009 relatif à la qualité de l'enseignement et la Codification de certaines dispositions relatives à l'enseignement du 28 octobre 2016, en ce qui concerne les mesures linguistiques

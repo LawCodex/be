@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/10/2014009233/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 10-06-2014 et mise à jour au 13-05-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2014. - Loi modifiant le Code judiciaire, la loi du 25 avril 2007 modifiant le Code judiciaire, notamment les dispositions relatives au personnel judiciaire de niveau A, aux greffiers et aux secrétaires ainsi que les dispositions relatives à l'organisation judiciaire, modifiant la loi du 10 avril 2003 réglant la suppression des juridictions militaires en temps de paix ainsi que leur maintien en temps de guerre et modifiant la loi du 31 janvier 2007 sur la formation judiciaire et portant création de l'Institut de formation judiciaire

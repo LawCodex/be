@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1967/10/10/1967101063/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 22-03-2005 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 1967. - Gerechtelijk Wetboek. - ZEVENDE DEEL : Bemiddeling (art. 1723/1 tot 1737) &lt;Ingevoegd bij W 2005-02-21/36, art. 8 tot 21; Inwerkingtreding : 30-09-2005, uitgezonderd art. 11; Inwerkingtreding : 22-03-2005&gt;.

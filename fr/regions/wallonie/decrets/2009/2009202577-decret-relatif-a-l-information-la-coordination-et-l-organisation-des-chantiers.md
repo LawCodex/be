@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009202577/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 18-06-2009 et mise à jour au 08-03-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret relatif à l'information, la coordination et l'organisation des chantiers, sous, sur ou au-dessus des voiries ou des cours d'eau

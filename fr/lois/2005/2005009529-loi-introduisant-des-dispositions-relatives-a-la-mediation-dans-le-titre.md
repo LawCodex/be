@@ -12,7 +12,7 @@ entry_into_force: 2005-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/06/22/2005009529/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2005. - Loi introduisant des dispositions relatives à la médiation dans le Titre préliminaire du Code de procédure pénale et dans le Code d'instruction criminelle.

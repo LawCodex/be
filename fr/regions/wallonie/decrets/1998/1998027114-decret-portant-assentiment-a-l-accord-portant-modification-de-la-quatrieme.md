@@ -13,7 +13,7 @@ entry_into_force: 1998-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/02/05/1998027114/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 1998. - Décret portant assentiment à l'Accord portant modification de la quatrième Convention ACP-CE de Lomé du 15 décembre 1989, à l'Acte final et au Protocole à la quatrième Convention ACP-CE de Lomé à la suite de l'adhésion de la République d'Autriche, de la République de Finlande et du Royaume de Suède à l'Union européenne, signés à Maurice le 4 novembre 1995.

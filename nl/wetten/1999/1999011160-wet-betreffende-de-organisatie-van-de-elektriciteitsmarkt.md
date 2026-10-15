@@ -16,7 +16,7 @@ department: "Economische Zaken"
 justel_notes:
   - "art. 7undecies ; 7duodecies ; 7terdecies gewijzigd met ingang op een onbepaalde datum bij W 2019-04-22/21 , art. 6-10, 049; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 11-05-1999 en tekstbijwerking tot 20-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 1999. - Wet betreffende de organisatie van de elektriciteitsmarkt

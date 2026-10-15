@@ -12,7 +12,7 @@ entry_into_force: 2026-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/03/16/2026002394/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2026. - Loi visant à transposer la directive (UE) 2023/2226 du conseil du 17 octobre 2023 modifiant la directive 2011/16/UE relative à la coopération administrative dans le domaine fiscal et à adapter le cadre existant en matière de coopération administrative dans le domaine fiscal

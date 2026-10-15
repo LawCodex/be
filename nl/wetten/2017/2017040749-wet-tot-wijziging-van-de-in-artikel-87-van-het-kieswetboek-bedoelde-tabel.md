@@ -10,7 +10,7 @@ date: 2017-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/10/22/2017040749/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2017. - Wet tot wijziging van de in artikel 87 van het Kieswetboek bedoelde tabel teneinde de kantonstructuur van de kieskring Henegouwen aan te passen

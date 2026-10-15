@@ -13,7 +13,7 @@ entry_into_force: 2006-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/11/10/2006203881/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2006. - Décret portant assentiment, en ce qui concerne les matières transférées par la Communauté française, à l'Accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Tadjikistan, d'autre part, fait à Luxembourg le 11 octobre 2004.

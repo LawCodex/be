@@ -10,7 +10,7 @@ date: 1963-08-09
 published: 1963-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1963/08/09/1963080901/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 AUGUSTUS 1963. - Wet tot wijziging van het rechtsgebied van sommige gerechten en tot wijziging van de wet van 21 ventôse jaar VII betreffende de inrichting van de bewaring der hypotheken, de wet van 25 ventôse jaar XI, houdende inrichting van het notariaat en de wet van 15 juni 1935 op het gebruik der talen in gerechtszaken.

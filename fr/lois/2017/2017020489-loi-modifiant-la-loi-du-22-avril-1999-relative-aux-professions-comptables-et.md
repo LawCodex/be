@@ -12,7 +12,7 @@ entry_into_force: 2017-09-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/09/03/2017020489/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBRE 2017. - Loi modifiant la loi du 22 avril 1999 relative aux professions comptables et fiscales

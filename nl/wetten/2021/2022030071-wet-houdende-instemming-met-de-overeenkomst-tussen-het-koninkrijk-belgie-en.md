@@ -12,7 +12,7 @@ entry_into_force: 2022-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/09/2022030071/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2021. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en Hongarije inzake de uitwisseling en wederzijdse bescherming van geclassificeerde informatie, gedaan te Boedapest op 21 september 2015

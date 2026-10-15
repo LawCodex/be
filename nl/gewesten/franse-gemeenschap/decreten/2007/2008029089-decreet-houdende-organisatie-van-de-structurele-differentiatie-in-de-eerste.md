@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/07/2008029089/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 26-02-2008 en tekstbijwerking tot 30-08-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2007. - Decreet houdende organisatie van de structurele differentiatie in de eerste graad om alle leerlingen de mogelijkheid te geven om de basisvaardigheden te verwerven (VERTALING)

@@ -12,7 +12,7 @@ entry_into_force: 2016-02-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/11/30/2015015195/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2015. - Loi portant assentiment au Protocole entre le Royaume de Belgique et la République d'Autriche, et au Protocole additionnel, faits à Bruxelles le 10 septembre 2009, modifiant la Convention en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, y compris l'impôt sur les exploitations et les impôts fonciers, signée à Vienne le 29 décembre 1971

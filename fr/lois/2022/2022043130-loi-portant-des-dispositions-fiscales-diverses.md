@@ -12,7 +12,7 @@ entry_into_force: 2023-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/21/2022043130/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2022. - Loi portant des dispositions fiscales diverses

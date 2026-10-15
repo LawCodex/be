@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/08/2022032865/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 03-08-2022 en tekstbijwerking tot 06-02-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2022. - Decreet over de werk- en zorgtrajecten

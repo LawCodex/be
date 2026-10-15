@@ -11,7 +11,7 @@ entry_into_force: 2021-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/11/08/2020043673/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 2020. - Wet houdende invoering van bepalingen inzake de basisbankdienst voor ondernemingen in boek VII van het Wetboek van economisch recht

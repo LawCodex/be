@@ -11,7 +11,7 @@ published: 1945-10-27
 entry_into_force: 1945-11-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1945/09/20/1945092014/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBRE 1945. - Arrêté-loi relatif à la normalisation.

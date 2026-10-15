@@ -13,7 +13,7 @@ entry_into_force: 2024-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/18/2024001096/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2024. - Décret portant assentiment à la Convention mondiale sur la reconnaissance des qualifications relatives à l'enseignement supérieur, adoptée à Paris le 25 novembre 2019

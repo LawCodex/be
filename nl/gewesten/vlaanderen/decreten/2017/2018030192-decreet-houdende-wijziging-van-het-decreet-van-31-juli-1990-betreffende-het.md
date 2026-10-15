@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/12/22/2018030192/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2017. - Decreet houdende wijziging van het decreet van 31 juli 1990 betreffende het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Vervoermaatschappij - De Lijn, het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens, het decreet van 16 mei 2008 betreffende de aanvullende reglementen op het wegverkeer en de plaatsing en bekostiging van de verkeerstekens, het decreet van 10 juli 2008 betreffende het beheer en de uitbating van de regionale luchthavens Oostende-Brugge, Kortrijk-Wevelgem en Antwerpen en aan bijlage 2 bij de Vlaamse Codex Fiscaliteit van 13 december 2013, ingevoegd bij het decreet van 3 juli 2015 tot invoering van de kilometerheffing en stopzetting van de heffing van het eurovignet en tot wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013

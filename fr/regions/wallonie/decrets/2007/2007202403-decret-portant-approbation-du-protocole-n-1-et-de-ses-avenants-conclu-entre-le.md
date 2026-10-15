@@ -13,7 +13,7 @@ entry_into_force: 2007-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/12/2007202403/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2007. - Décret portant approbation du protocole n° 1 et de ses avenants, conclu entre le Gouvernement fédéral et les autorités visées aux articles 128, 130, 135 et 138 de la Constitution, concernant la politique de la santé à mener à l'égard des personnes âgées.

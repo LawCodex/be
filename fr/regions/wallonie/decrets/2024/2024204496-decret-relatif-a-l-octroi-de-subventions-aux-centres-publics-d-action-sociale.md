@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/29/2024204496/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 09-09-2024 et mise à jour au 29-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2024. - Décret relatif à l'octroi de subventions aux centres publics d'action sociale dans le cadre de la mise à l'emploi des bénéficiaires du droit à l'intégration sociale ou de l'aide sociale équivalente

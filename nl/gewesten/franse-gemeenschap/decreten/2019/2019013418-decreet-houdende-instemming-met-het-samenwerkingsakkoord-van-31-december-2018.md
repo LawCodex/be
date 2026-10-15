@@ -13,7 +13,7 @@ entry_into_force: 2019-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/03/2019013418/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2019. - Decreet houdende instemming met het samenwerkingsakkoord van 31 december 2018 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Franse Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de financiering van zorg bij gebruik van zorgvoorzieningen over de grenzen van de deelstaat

@@ -13,7 +13,7 @@ entry_into_force: 1992-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1992/11/09/1992029590/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBER 1992. - Decreet houdende goedkeuring van het Verdrag over de Europese Unie, de 17 Protocollen en de Slotakte met 33 Verklaringen, opgemaakt te Maastricht op 7 februari 1992.

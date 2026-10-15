@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/11/28/2019042687/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2019. - Ordonnantie houdende diverse bepalingen in het kader van de overname van de dienst van de verkeersbelastingen en van de onroerende voorheffing door het Brussels Hoofdstedelijk Gewest

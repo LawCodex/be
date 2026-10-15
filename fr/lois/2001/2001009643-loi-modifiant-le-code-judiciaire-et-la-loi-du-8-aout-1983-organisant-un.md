@@ -12,7 +12,7 @@ entry_into_force: 2002-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/05/31/2001009643/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2001. - Loi modifiant le Code judiciaire et la loi du 8 août 1983 organisant un registre national des personnes physiques.

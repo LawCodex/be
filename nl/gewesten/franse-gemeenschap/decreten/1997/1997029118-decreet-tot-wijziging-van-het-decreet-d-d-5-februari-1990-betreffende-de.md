@@ -13,7 +13,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/02/04/1997029118/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 1997. - Decreet tot wijziging van het decreet d.d. 5 februari 1990 betreffende de schoolgebouwen van het niet-universitair onderwijs georganiseerd of gesubsidieerd door de Franse Gemeenschap (VERTALING).

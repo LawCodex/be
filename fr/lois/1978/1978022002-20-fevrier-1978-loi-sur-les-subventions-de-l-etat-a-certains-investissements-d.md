@@ -10,7 +10,7 @@ date: 1978-02-20
 published: 1978-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/02/20/1978022002/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 1978. \_ Loi sur les subventions de l'Etat à certains investissements d'intérêt public.

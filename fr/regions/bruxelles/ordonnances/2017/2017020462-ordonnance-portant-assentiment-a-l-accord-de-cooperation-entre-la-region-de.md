@@ -13,7 +13,7 @@ entry_into_force: 2018-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/06/23/2017020462/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2017. - Ordonnance portant assentiment à l'accord de coopération entre la Région de Bruxelles-Capitale et l'Etat fédéral exécutant l'article 306, § 2, de l'arrêté royal du 19 avril 2014 relatif au statut administratif du personnel opérationnel des zones de secours

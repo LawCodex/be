@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/04/2003027785/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2003 et mise à jour au 26-08-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2003. - Décret relatif à la création de l'Institut wallon de l'évaluation, de la prospective et de la statistique.

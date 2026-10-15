@@ -13,7 +13,7 @@ entry_into_force: 2025-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/07/09/2025005585/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2025. - Decreet tot wijziging van het decreet van 16 juli 2015 tot invoering van een kilometerheffing voor het wegengebruik door zware vrachtwagens

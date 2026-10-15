@@ -13,7 +13,7 @@ entry_into_force: 1997-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/24/1996036135/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 1996. - DECRET remplaçant les articles 6 a 6ter inclus de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, abrogeant l'article 6quater de la même loi et modifiant l'article 5 du décret du 17 juillet 1991 relatif à l'inspection et aux services d'encadrement pédagogique

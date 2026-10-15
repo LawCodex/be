@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/05/20/1994007165/justel"
 department: "Landsverdediging"
 justel_note: "Raadpleging van vroegere versies vanaf 06-01-2001 en tekstbijwerking tot 20-09-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 1994. - Wet betreffende de beziging van militairen buiten de krijgsmacht.

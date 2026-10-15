@@ -13,7 +13,7 @@ entry_into_force: 2000-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/05/2000029241/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1999. - Decreet houdende toestemming in het Samenwerkingsakkoord tussen de Regering van de Franse Gemeenschap van België en de Waalse Regering enerzijds, en de Regering van Roemenië anderzijds, opgemaakt te Boekarest op 21 mei 1998, alsook in het Samenwerkingsakkoord inzake wetenschappelijke en technologische samenwerking tussen de Minister van Internationale Betrekkingen van de Franse Gemeenschap van België, de Minister van Internationale Betrekkingen van het Waalse Gewest enerzijds, en de Minister van Onderzoek en Technologie van Roemenië anderzijds, en in de bijlage, opgemaakt te Brussel op 25 juni 1997 (VERTALING).

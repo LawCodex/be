@@ -13,7 +13,7 @@ entry_into_force: 2024-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/11/2024203223/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2024. - Décret modifiant le décret du 4 avril 2019 relatif à la formation professionnelle individuelle

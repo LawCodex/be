@@ -13,7 +13,7 @@ entry_into_force: 2022-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/03/10/2022020521/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2022. - Decreet houdende aanpassingen inzake het dragen van het mondmasker in het personenvervoer per tram, premetro, metro, autobus en autocar

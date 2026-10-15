@@ -12,7 +12,7 @@ entry_into_force: 2009-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/04/28/2009009357/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2009. - Loi abrogeant la loi du 11 avril 1936 permettant au gouvernement d'interdire l'entrée en Belgique de certaines publications étrangères

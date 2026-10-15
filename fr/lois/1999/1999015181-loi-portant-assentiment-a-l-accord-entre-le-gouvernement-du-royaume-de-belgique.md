@@ -12,7 +12,7 @@ entry_into_force: 1999-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/25/1999015181/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 1999. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République algérienne démocratique et populaire relatif aux transports routiers internationaux et de transit de voyageurs et de marchandises, et Protocole, signés à Bruxelles le 29 mars 1994.

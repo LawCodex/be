@@ -12,7 +12,7 @@ entry_into_force: 2023-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/04/07/2023202476/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2023. - Wet tot Wijziging van de wet van 4 maart 2004 houdende toekenning van aanvullende voordelen inzake rustpen-sioen aan personen die werden aangesteld om een management- of staffunctie uit te oefenen in een overheidsdienst

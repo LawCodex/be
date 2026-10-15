@@ -13,7 +13,7 @@ entry_into_force: 2017-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/23/2017030134/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 FEVRIER 2017. - Décret modifiant le décret du 10 novembre 2011 relatif au soutien au cinéma et à la création audiovisuelle

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/05/06/1998012284/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 29-05-1998 et mise à jour au 29-11-2001."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 1998. - Loi modifiant la loi du 19 juillet 1983 sur l'apprentissage de professions exercées par des travailleurs salariés. -

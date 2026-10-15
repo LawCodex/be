@@ -13,7 +13,7 @@ entry_into_force: 2008-09-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/05/2008029392/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 2008. - Décret portant assentiment à l'Accord de Stabilisation et d'Association entre les Communautés européennes et leurs Etats membres, d'une part, et la République d'Albanie, d'autre part, et l'Acte final, faits à Luxembourg le 12 juin 2006.

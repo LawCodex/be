@@ -12,7 +12,7 @@ entry_into_force: 2022-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/27/2022034262/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2022. - Wet tot wijziging van de gecoördineerde wet van 10 mei 2015 betreffende de uitoefening van de gezondheidszorgberoepen voor wat betreft de aanbodsbeheersing

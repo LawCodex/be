@@ -12,7 +12,7 @@ entry_into_force: 1994-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/12/12/1994014279/justel"
 department: "Verkeerswezen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 1994. - WET tot wijziging van de wet van 21 maart 1991 betreffende de hervorming van sommige economische overheidsbedrijven en van de wet van 17 juni 1991 tot organisatie van de openbare kredietsector en van het bezit van de deelnemingen van de openbare sector in bepaalde privaatrechtelijke financiële vennootschappen

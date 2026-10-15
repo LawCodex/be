@@ -12,7 +12,7 @@ entry_into_force: 1997-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/05/20/1997000420/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 1997. - Loi modifiant la loi du 2 avril 1965 relative à la prise en charge des secours accordés par les centres publics d'aide sociale.

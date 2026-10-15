@@ -13,7 +13,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/10/22/2003029568/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2003. - Décret portant modification du statut, du tableau de hiérarchie et du statut pécuniaire du personnel administratif, du personnel spécialisé, du personnel de maîtrise, des gens de métier et de service des universités et facultés universitaires de la Communauté française.

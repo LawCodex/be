@@ -13,7 +13,7 @@ entry_into_force: 2017-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/07/2017030638/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2017. - Decreet houdende wijziging van het Onroerenderfgoeddecreet van 12 juli 2013, wat het archeologisch onderzoek bij vergunningsplichtige ingrepen in de bodem betreft

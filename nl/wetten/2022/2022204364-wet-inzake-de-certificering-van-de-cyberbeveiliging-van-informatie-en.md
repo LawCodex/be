@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/20/2022204364/justel"
 department: "Kanselarij van de Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 05-08-2022 en tekstbijwerking tot 19-01-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2022. - Wet inzake de certificering van de cyberbeveiliging van informatie- en communicatietechnologie en tot aanwijzing van een nationale cyberbeveiligingscertificeringsautoriteit

@@ -12,7 +12,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/12/19/2025009872/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2025. - Loi portant des dispositions budgétaires diverses urgentes en matière de soins de santé

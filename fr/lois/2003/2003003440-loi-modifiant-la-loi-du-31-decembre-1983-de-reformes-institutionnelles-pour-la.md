@@ -12,7 +12,7 @@ entry_into_force: 2003-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/07/03/2003003440/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2003. - Loi modifiant la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone, en vue de régler la représentation de la Communauté germanophone par le Conseil de la Communauté germanophone dans les actes judiciaires et extrajudiciaires.

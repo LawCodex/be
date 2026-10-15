@@ -10,7 +10,7 @@ date: 2004-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/09/13/2004022892/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 SEPTEMBER 2004. - Wet houdende instemming met de Kaderovereenkomst van de Wereldgezondheidsorganisatie inzake de bestrijding van het tabaksgebruik, aangenomen te Genève op 21 mei 2003.

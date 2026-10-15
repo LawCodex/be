@@ -11,7 +11,7 @@ published: 1975-07-03
 entry_into_force: 1975-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1975/06/20/1975062005/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 1975. - Loi instituant un complément de rente au profit des bénéficiaires d'une pension de retraite anticipée non réduite ou réduite en partie seulement pour des motifs de reconnaissance nationale.

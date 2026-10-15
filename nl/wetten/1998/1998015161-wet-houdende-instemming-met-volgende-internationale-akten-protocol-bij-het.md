@@ -12,7 +12,7 @@ entry_into_force: 1998-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/08/10/1998015161/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1998. - Wet houdende instemming met volgende internationale akten : Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Republiek Hongarije. - Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Republiek Polen. - Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Tsjechische Republiek, ondertekend te Brussel op 16 december 1997.

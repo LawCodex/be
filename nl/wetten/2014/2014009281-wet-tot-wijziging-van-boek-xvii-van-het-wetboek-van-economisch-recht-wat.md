@@ -12,7 +12,7 @@ entry_into_force: 2014-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/15/2014009281/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2014. - Wet tot wijziging van boek XVII van het Wetboek van economisch recht wat betreft de beoefenaars van een vrij beroep

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/07/14/2011031385/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 10-08-2011 en tekstbijwerking tot 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2011. - Ordonnantie betreffende het gemengd beheer van de arbeidsmarkt in het Brussels Hoofdstedelijk Gewest

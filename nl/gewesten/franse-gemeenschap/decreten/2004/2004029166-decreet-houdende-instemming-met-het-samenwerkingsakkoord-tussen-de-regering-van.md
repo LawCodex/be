@@ -13,7 +13,7 @@ entry_into_force: 2004-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/12/2004029166/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Regering van de Democratische Volksrepubliek Algerije, de Franse Gemeenschap van België, het Waals Gewest en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest, gedaan te Algiers op 14 april 2003 (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2014-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/27/2014029277/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2014. - Decreet tot instemming met het samenwerkingsakkoord tussen het Waalse Gewest en de Franse Gemeenschap betreffende de artikelen 42 en 44 van het Internationaal Verdrag inzake de rechten van het kind, gesloten op 21 november 2013

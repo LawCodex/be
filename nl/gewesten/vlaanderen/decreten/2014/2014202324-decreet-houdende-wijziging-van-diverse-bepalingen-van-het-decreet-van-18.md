@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/21/2014202324/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2014. - Decreet houdende wijziging van diverse bepalingen van het decreet van 18 januari 2008 houdende flankerende en stimulerende maatregelen ter bevordering van de participatie in cultuur, jeugdwerk en sport

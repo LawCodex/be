@@ -12,7 +12,7 @@ entry_into_force: 2010-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/04/06/2010009428/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 2010. - Wet tot wijziging van de procedure betreffende de collectieve schuldenregeling

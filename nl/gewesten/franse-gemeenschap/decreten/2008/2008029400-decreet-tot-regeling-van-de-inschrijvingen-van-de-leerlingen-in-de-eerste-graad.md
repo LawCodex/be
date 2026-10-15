@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/18/2008029400/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 26-08-2008 en tekstbijwerking tot 09-04-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2008. - Decreet tot regeling van de inschrijvingen van de leerlingen in de eerste graad van het secundair onderwijs en tot bevordering van de sociale gemengdheid binnen de schoolinrichtingen. (Vertaling) (decreet sociale gemengdheid)

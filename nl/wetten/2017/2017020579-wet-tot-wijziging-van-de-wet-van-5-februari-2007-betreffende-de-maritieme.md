@@ -11,7 +11,7 @@ published: 2017-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/08/11/2017020579/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AUGUSTUS 2017. - Wet tot wijziging van de wet van 5 februari 2007 betreffende de maritieme beveiliging, de wet van 2 juni 2012 betreffende de federale instantie voor onderzoek van scheepvaartongevallen en de organieke wet van 27 december 1990 houdende oprichting van de begrotingsfondsen

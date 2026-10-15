@@ -13,7 +13,7 @@ entry_into_force: 1994-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/10/27/1994029545/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 1994. - Décret contenant le premier ajustement du budget général des dépenses de la Communauté française de l'année budgétaire 1994.

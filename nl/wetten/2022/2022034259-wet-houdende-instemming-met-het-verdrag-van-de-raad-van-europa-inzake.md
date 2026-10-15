@@ -12,7 +12,7 @@ entry_into_force: 2022-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/07/2022034259/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2022. - Wet houdende instemming met het Verdrag van de Raad van Europa inzake cinematografische coproductie (herzien), en de Bijlagen I en II, gedaan te Rotterdam op 30 januari 2017

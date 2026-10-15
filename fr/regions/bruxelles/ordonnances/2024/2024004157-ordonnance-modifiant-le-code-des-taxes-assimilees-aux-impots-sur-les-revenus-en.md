@@ -13,7 +13,7 @@ entry_into_force: 2024-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/04/25/2024004157/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2024. - Ordonnance modifiant le Code des taxes assimilées aux impôts sur les revenus en ce qui concerne le régime fiscal applicable aux véhicules de type " pick-up " et portant indexation de la taxe de mise en circulation

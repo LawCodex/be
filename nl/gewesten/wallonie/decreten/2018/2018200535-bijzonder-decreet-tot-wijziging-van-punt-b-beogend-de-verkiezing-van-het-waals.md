@@ -13,7 +13,7 @@ entry_into_force: 2019-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/01/25/2018200535/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2018. - Bijzonder decreet tot wijziging van punt B, beogend de verkiezing van het Waals Parlement, van de tabel tot bepaling van de kieskringen en hun samenstelling, die bijlage 1 vormt bij Boek 1 van de bijlagen bij de gewone wet van 16 juli 1993 tot vervollediging van de federale Staatsstructuur

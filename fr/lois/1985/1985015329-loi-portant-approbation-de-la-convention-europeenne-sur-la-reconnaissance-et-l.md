@@ -12,7 +12,7 @@ entry_into_force: 1985-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/08/01/1985015329/justel"
 department: "Affaires étrangères - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AOUT 1985. - LOI portant approbation de la Convention européenne sur la reconnaissance et l'exécution des décisions en matière de garde des enfants et le rétablissement de la garde des enfants, faite à Luxembourg le 20 mai 1980

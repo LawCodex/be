@@ -13,7 +13,7 @@ entry_into_force: 1995-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/03/30/1995027190/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 1995. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République de Mongolie concernant l'encouragement et la protection réciproques des investissements, signé à Bruxelles le 3 mars 1992.

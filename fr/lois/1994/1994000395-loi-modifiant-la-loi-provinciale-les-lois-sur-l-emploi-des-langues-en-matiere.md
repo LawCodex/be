@@ -12,7 +12,7 @@ entry_into_force: 1994-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/11/1994000395/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 1994. - Loi modifiant la loi provinciale, les lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, les lois sur la milice, coordonnées le 30 avril 1962, ainsi que la nouvelle loi communale.

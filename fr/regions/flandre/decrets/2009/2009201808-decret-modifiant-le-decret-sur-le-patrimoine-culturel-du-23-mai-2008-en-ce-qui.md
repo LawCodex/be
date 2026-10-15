@@ -13,7 +13,7 @@ entry_into_force: 2009-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/13/2009201808/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2009. - Décret modifiant le décret sur le Patrimoine culturel du 23 mai 2008, en ce qui concerne le classement de musées et d'organismes d'archivage culturel et la coopération interadministrative

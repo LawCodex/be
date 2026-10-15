@@ -12,7 +12,7 @@ entry_into_force: 2023-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/05/21/2023042232/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 2023. - Loi portant assentiment aux Amendements à la Convention du 6 mars 1948 relative à la création d'une Organisation maritime consultative intergouvernementale (la Convention de l'OMI), adoptés à Londres par résolution A.1152(32) à la 32ième session de l'assemblée générale de l'OMI le 8 décembre 2021

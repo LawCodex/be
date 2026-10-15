@@ -12,7 +12,7 @@ entry_into_force: 2014-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/09/2014015030/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANVIER 2014. - Loi modifiant la loi du 19 mars 2013 relative à la Coopération au Développement

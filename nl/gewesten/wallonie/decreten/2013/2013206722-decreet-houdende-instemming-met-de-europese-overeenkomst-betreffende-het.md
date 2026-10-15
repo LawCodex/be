@@ -13,7 +13,7 @@ entry_into_force: 2013-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/28/2013206722/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2013. - Decreet houdende instemming met de Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de binnenwateren (ADN), opgemaakt te Genève op 26 mei 2000

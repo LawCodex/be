@@ -11,7 +11,7 @@ published: 1976-02-07
 entry_into_force: 1976-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1975/06/05/1975060501/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 1975. - Loi portant approbation de la Convention supprimant l'exigence de la légalisation des actes publics étrangers, et de l'Annexe, faites à La Haye le 5 octobre 1961.

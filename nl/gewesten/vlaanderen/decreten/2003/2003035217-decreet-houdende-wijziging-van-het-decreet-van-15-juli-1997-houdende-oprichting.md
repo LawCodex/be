@@ -13,7 +13,7 @@ entry_into_force: 2003-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/01/31/2003035217/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2003. - Decreet houdende wijziging van het decreet van 15 juli 1997 houdende oprichting van een Kinderrechtencommissariaat en instelling van het ambt van Kinderrechtencommissariaat en van het decreet van 7 juli 1998 houdende instelling van de Vlaamse ombudsdienst.

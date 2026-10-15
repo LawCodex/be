@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/20/2014200192/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 29-01-2014 en tekstbijwerking tot 23-07-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2013. - Decreet betreffende de Cultuurprijzen van de Vlaamse Gemeenschap

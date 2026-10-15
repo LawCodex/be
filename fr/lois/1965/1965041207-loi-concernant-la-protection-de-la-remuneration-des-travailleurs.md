@@ -13,7 +13,7 @@ last_amended: 2026-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/12/1965041207/justel"
 justel_note: "Consultation des versions antérieures à partir du 24-01-1985 et mise à jour au 14-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 AVRIL 1965. - Loi concernant la protection de la rémunération des travailleurs.

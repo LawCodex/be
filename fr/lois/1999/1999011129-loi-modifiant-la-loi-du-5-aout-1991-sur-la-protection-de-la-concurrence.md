@@ -12,7 +12,7 @@ entry_into_force: 1999-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/26/1999011129/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 1999. - Loi modifiant la loi du 5 août 1991 sur la protection de la concurrence économique.

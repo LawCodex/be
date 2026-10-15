@@ -13,7 +13,7 @@ entry_into_force: 2026-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/11/2026005100/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2026. - Decreet tot wijziging van het Wetboek voor het basis- en secundair onderwijs betreffende het welzijn van de leerlingen, de verbetering van het schoolklimaat en de preventie van pesten en cyberpesten op school

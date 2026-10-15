@@ -13,7 +13,7 @@ entry_into_force: 2008-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/21/2008035094/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2007. - Décret modifiant l'article 2, 17° des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 4 mars 2005 (TRADUCTION).

@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/08/10/2001003418/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 18-09-2001 en tekstbijwerking tot 29-06-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2001. - Wet tot oprichting van een Fonds ter financiering van de internationale rol en de hoofdstedelijke functie van Brussel [, tot oprichting van een begrotingsfonds Taalpremies]en tot wijziging van de organieke wet van 27 december 1990 houdende oprichting van begrotingsfondsen. &lt;Opschrift gewijzigd door W 2012-07-19/30 , art. 2, 004; Inwerkingtreding : 01-09-2012&gt;

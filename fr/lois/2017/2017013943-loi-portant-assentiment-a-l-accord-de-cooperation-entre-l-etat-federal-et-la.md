@@ -12,7 +12,7 @@ entry_into_force: 2017-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/06/12/2017013943/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2017. - Loi portant assentiment à l'accord de coopération entre l'Etat fédéral et la Région de Bruxelles-Capitale exécutant l'article 306, § 2, de l'arrêté royal du 19 avril 2014 relatif au statut administratif du personnel opérationnel des zones de secours

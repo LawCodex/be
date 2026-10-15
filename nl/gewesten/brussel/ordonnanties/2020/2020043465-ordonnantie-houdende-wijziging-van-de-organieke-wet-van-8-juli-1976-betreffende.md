@@ -12,7 +12,7 @@ entry_into_force: 2020-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/10/29/2020043465/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OKTOBER 2020. - Ordonnantie houdende wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn teneinde vergaderingen op afstand van het vast bureau, de raad voor maatschappelijk welzijn en van de bijzondere comités mogelijk te maken

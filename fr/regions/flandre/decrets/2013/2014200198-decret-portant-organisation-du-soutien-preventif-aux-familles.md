@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/29/2014200198/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-01-2014 et mise à jour au 18-06-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2013. - Décret portant organisation du soutien préventif aux familles

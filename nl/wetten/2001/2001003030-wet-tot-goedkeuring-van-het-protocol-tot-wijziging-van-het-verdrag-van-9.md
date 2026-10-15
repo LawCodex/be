@@ -12,7 +12,7 @@ entry_into_force: 2000-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/03/13/2001003030/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2001. - Wet tot goedkeuring van het Protocol tot wijziging van het Verdrag van 9 februari 1994 inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ter voldoening aan Richtlijn 1999/62/EG van het Europees Parlement en de Raad van de Europese Unie van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen ondertekend te Brussel op 22 maart 2000 door de regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en het Koninkrijk Zweden, en tot wijziging van de wet van 27 december 1994 tot goedkeuring van voormeld Verdrag en tot invoering van een Eurovignet overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993.

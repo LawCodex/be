@@ -18,7 +18,7 @@ justel_notes:
   - "Voor het Waals Gewest, zie : 1976-07-08/34 "
   - "Voor de Duitstalige Gemeenschap, zie : 1976-07-08/36 "
   - "Raadpleging van vroegere versies vanaf 25-01-1984 en tekstbijwerking tot 25-11-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 1976. - Organieke wet betreffende de openbare centra voor maatschappelijk welzijn.

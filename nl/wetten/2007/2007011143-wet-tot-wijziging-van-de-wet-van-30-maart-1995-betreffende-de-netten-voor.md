@@ -12,7 +12,7 @@ entry_into_force: 2007-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/16/2007011143/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2007. - Wet tot wijziging van de wet van 30 maart 1995 betreffende de netten voor distributie voor omroepuitzendingen en de uitoefening van omroepactiviteiten in het tweetalig gebied Brussel-Hoofdstad alsook van de wet van 17 januari 2003 met betrekking tot het statuut van de regulator van de Belgische post- en telecommunicatiesector.

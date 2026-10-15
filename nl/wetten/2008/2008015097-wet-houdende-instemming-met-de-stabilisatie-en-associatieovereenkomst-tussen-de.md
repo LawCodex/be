@@ -12,7 +12,7 @@ entry_into_force: 2010-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/06/03/2008015097/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2008. - Wet houdende instemming met de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Montenegro, anderzijds, gedaan te Luxemburg op 15 oktober 2007

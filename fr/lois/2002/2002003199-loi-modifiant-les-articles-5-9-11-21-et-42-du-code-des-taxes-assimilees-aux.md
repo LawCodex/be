@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/04/08/2002003199/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 AVRIL 2002. - Loi modifiant les articles 5, 9, 11, 21 et 42 du Code des taxes assimilées aux impôts sur les revenus en exécution de la directive 1999/62/CE du Parlement européen et du Conseil, du 17 juin 1999, relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures.

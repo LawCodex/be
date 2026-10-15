@@ -13,7 +13,7 @@ entry_into_force: 2019-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019041146/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Décret modifiant diverses dispositions du décret du 27 novembre 2015 relatif aux zones de basses émissions

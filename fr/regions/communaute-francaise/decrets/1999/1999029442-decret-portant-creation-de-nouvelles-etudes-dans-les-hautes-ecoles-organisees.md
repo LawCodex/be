@@ -13,7 +13,7 @@ entry_into_force: 1999-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/26/1999029442/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 1999. - Décret portant création de nouvelles études dans les hautes écoles organisées ou subventionnées par la Communauté francaise.

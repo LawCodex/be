@@ -13,7 +13,7 @@ entry_into_force: 2023-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/20/2023046616/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 2023. - Décret modifiant l'article 5 du décret du 20 mai 2022 réglant l'octroi d'un bonus emploi, en ce qui concerne l'augmentation du bonus emploi d'un montant fixe pour l'année de référence 2022 et l'introduction d'une délégation générale au Gouvernement flamand pour prévoir des augmentations fixes du bonus emploi à partir de l'année de référence 2023

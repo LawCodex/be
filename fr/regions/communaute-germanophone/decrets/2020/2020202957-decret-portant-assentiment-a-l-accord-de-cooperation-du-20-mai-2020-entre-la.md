@@ -13,7 +13,7 @@ entry_into_force: 2020-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/06/22/2020202957/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2020. - Décret portant assentiment à l'accord de coopération du 20 mai 2020 entre la Communauté germanophone et la Région wallonne relatif à l'atteinte des objectifs européens en matière d'énergie et de climat

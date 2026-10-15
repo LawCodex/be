@@ -11,7 +11,7 @@ published: 1993-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/06/17/1993015197/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 1991. - Wet houdende goedkeuring van het Verdrag tot bescherming van personen ten opzichte van de geautomatiseerde verwerking van persoonsgegevens, opgemaakt te Straatsburg op 28 januari 1981.

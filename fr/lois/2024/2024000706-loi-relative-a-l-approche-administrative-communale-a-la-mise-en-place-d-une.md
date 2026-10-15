@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/01/15/2024000706/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 07-02-2024 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 2024. - Loi relative à l'approche administrative communale, à la mise en place d'une enquête d'intégrité communale et portant création d'une Direction chargée de l'Evaluation de l'Intégrité pour les Pouvoirs publics

@@ -13,7 +13,7 @@ last_amended: 1999-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1947/02/05/1947020502/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 15-02-1947 en tekstbijwerking tot 26-02-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 1947. - Wet dragende het statuut van de buitenlanders politieke gevangenen.

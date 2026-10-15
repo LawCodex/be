@@ -12,7 +12,7 @@ entry_into_force: 2017-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/06/08/2017012718/justel"
 department: "Intérieur - Justice - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2017. - Loi modifiant les articles 52 et 53 de la loi-programme du 25 décembre 2016

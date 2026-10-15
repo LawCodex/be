@@ -13,7 +13,7 @@ entry_into_force: 1998-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/15/1998033005/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 1997. - Decreet houdende instemming met volgende internationale overeenkomsten : Aanvullend protocol bij het Europees Sociaal Handvest, en bijlage, gedaan te Straatsburg op 5 mei 1988; Protocol tot wijziging van het Europees Sociaal Handvest, gedaan te Turijn op 21 oktober 1991; Aanvullend protocol bij het Europees Sociaal Handvest, tot invoering van een systeem voor collectieve klachten, gedaan te Straatsburg op 9 november 1995 (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2007-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/01/2006037029/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2006. - Decreet houdende wijziging van sommige bepalingen van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005.

@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/08/28/2011011331/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 16-09-2011 en tekstbijwerking tot 11-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AUGUSTUS 2011. - Wet betreffende de bescherming van de consumenten inzake overeenkomsten betreffende het gebruik van goederen in deeltijd, vakantieproducten van lange duur, doorverkoop en uitwisseling

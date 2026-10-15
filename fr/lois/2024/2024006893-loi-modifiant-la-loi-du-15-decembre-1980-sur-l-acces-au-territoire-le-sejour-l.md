@@ -12,7 +12,7 @@ entry_into_force: 2024-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/06/04/2024006893/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUIN 2024. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers en ce qui concerne la nomination du greffier en chef et des greffiers du Conseil du contentieux des étrangers

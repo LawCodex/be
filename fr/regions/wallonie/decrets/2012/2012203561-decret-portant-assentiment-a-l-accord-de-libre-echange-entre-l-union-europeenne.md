@@ -12,7 +12,7 @@ published: 2012-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/21/2012203561/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2012. - Décret portant assentiment à l'Accord de libre-échange entre l'Union européenne et ses Etats membres, d'une part, et la République de Corée, d'autre part, fait à Bruxelles le 6 octobre 2010

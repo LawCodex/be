@@ -13,7 +13,7 @@ entry_into_force: 1996-11-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/25/1996027570/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUILLET 1996. - Décret portant approbation de l'accord de coopération entre la Communauté germanophone et la Région wallonne relatif à la prise en charge des frais d'intégration sociale et professionnelle des personnes handicapées.

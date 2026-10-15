@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/09/28/2024001483/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 21-02-2024 et mise à jour au 07-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBRE 2023. - Décret remplaçant le Code wallon du Patrimoine et portant des dispositions diverses

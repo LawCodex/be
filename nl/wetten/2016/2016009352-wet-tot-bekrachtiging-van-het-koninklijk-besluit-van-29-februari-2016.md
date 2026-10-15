@@ -12,7 +12,7 @@ entry_into_force: 2016-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/07/01/2016009352/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2016. - Wet tot bekrachtiging van het koninklijk besluit van 29 februari 2016 betreffende de bijdrage in de werkings-, personeels- en oprichtingskosten van de Kansspelcommissie verschuldigd door de houders van de vergunningen klasse A, A+, B, B+, C, E, F1, F1+, F2, G1 en G2 voor het burgerlijk jaar 2016

@@ -13,7 +13,7 @@ entry_into_force: 2020-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/02/2020203027/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2020. - Décret portant assentiment à l'accord de coopération du 5 mars 2020 portant modification de l'accord de coopération du 4 novembre 2008 concernant la prévention et la gestion des déchets d'emballages

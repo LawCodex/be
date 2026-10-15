@@ -12,7 +12,7 @@ entry_into_force: 2017-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/31/2017031020/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2017. - Loi confirmant l'imposition des plans d'actions et de l'implémentation des mesures de sûreté à Brussels Airport Company

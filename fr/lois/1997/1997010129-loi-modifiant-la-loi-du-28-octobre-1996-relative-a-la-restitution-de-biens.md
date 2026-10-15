@@ -12,7 +12,7 @@ entry_into_force: 1997-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/15/1997010129/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 1997. - Loi modifiant la loi du 28 octobre 1996 relative à la restitution de biens culturels ayant quitté illicitement le territoire de certains Etats étrangers.

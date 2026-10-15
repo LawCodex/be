@@ -12,7 +12,7 @@ entry_into_force: 2017-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/06/30/2017030662/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2017. - Wet tot wijziging van de wet van 15 mei 2007 betreffende de civiele veiligheid, wat betreft de begroting

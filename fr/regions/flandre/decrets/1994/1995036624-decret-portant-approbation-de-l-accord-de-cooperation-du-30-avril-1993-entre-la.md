@@ -13,7 +13,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/11/23/1995036624/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 1994. - DECRET portant approbation de l'accord de coopération du 30 avril 1993 entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant l'affectation de l'écotaxe et la coordination de la politique régionale en la matière et modifiant le décret du 23 janvier 1991 portant création du Fonds de prévention et d'assainissement en matière de l'environnement et de la nature comme service régional à gestion séparée

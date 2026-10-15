@@ -13,7 +13,7 @@ entry_into_force: 1994-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/07/13/1994029377/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 1994. - Décret portant approbation de la Convention de l'ONU sur les substances psychotropes et de ses annexes, faites à Vienne le 21 février 1971.

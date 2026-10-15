@@ -12,7 +12,7 @@ entry_into_force: 2009-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/02/19/2009015042/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2009. - Loi portant assentiment à l'Amendement à la Convention sur l'accès à l'information, la participation du public au processus décisionnel et l'accès à la justice en matière d'environnement, adopté à Almaty le 27 mai 2005

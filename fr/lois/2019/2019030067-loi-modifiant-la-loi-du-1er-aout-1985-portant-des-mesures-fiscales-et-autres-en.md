@@ -12,7 +12,7 @@ entry_into_force: 2019-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/01/15/2019030067/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 2019. - Loi modifiant la loi du 1er août 1985 portant des mesures fiscales et autres en ce qui concerne l'aide aux victimes du terrorisme

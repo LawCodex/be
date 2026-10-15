@@ -13,7 +13,7 @@ entry_into_force: 2007-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/07/2007033040/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2007. - Décret portant assentiment à l'accord de coopération du 13 décembre 2006 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune portant sur l'organisation et le financement de l'offre restauratrice visée à la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait (TRADUCTION).

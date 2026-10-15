@@ -13,7 +13,7 @@ entry_into_force: 1995-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/05/1995035689/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 1995. - Décret portant approbation du Protocole n° 6 à la Convention de Sauvegarde des Droits de l'Homme et des Libertés fondamentales, concernant l'abolition de la peine de mort, fait à Strasbourg le 28 avril 1983 (TRADUCTION)

@@ -16,7 +16,7 @@ justel_notes:
   - "articles 1231.38 ; 1231.39 modifiés avec effet à une date indéterminée par L 2018-06-18/03 , art. 159-160; 167; En vigueur : indéterminée "
   - "art. 1235ter/4 modifié avec effet à une date indéterminée par L 2018-07-30/54 , art. 4; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 12-06-1985 et mise à jour au 12-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 1967. - CODE JUDICIAIRE - Quatrième partie : DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies)

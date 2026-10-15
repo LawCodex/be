@@ -12,7 +12,7 @@ entry_into_force: 2018-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/05/09/2018202642/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2018. - Wet betreffende de tewerkstelling van buitenlandse onderdanen die zich in een specifieke verblijfssituatie bevinden

@@ -13,7 +13,7 @@ last_amended: 2025-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1977/03/01/1977030101/justel"
 justel_note: "Consultation des versions antérieures à partir du 31-12-1993 et mise à jour au 29-07-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 1977. - Loi organisant un régime de liaison à l'indice des prix à la consommation du Royaume de certaines dépenses dans le secteur public.

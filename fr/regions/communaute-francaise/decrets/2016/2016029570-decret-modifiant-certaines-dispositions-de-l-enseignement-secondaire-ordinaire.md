@@ -13,7 +13,7 @@ entry_into_force: 2016-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/13/2016029570/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2016. - Décret modifiant certaines dispositions de l'enseignement secondaire ordinaire relatives à l'organisation, au deuxième degré et troisième degré de l'enseignement secondaire, de l'apprentissage par immersion en langue des signes et en français écrit en classes bilingues français-langue des signes

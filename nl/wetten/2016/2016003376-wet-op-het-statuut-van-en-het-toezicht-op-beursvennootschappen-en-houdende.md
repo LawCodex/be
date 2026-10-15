@@ -11,7 +11,7 @@ entry_into_force: 2016-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/10/25/2016003376/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 OKTOBER 2016. - Wet op het statuut van en het toezicht op beursvennootschappen en houdende diverse bepalingen

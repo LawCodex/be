@@ -12,7 +12,7 @@ entry_into_force: 1998-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/01/13/1998003028/justel"
 department: "Finances - Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JANVIER 1998. - Loi relative à la contribution de la Belgique à la septième reconstitution des ressources du Fonds africain de Développement.

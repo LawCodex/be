@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/29/2002035468/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-03-2002 et mise à jour au 07-07-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2002. - Décret portant confirmation des autorisations urbanistiques accordées par le Gouvernement flamand le 18 mars 2002 en application du décret du 14 décembre 2001 pour quelques permis de bâtir auxquels s'appliquent des raisons obligatoires de grand intérêt publique (TRADUCTION)

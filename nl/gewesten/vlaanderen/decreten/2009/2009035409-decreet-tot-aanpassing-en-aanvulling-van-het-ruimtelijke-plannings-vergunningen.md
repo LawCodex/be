@@ -12,7 +12,7 @@ published: 2009-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/27/2009035409/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2009. - Decreet tot aanpassing en aanvulling van het ruimtelijke plannings-, vergunningen- en handhavingsbeleid

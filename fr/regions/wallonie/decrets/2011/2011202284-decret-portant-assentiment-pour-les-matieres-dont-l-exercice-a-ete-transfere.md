@@ -13,7 +13,7 @@ entry_into_force: 2011-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/05/05/2011202284/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2011. - Décret portant assentiment, pour les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, au Traité portant révision du Traité instituant l'Union économique Benelux signé le 3 février 1958, au Protocole relatif aux privilèges et immunités de l'Union Benelux et à la Déclaration, signés à La Haye le 17 juin 2008

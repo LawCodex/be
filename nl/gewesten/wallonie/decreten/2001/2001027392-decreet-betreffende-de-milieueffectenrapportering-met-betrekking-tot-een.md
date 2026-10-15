@@ -13,7 +13,7 @@ entry_into_force: 2001-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/05/2001027392/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2001. - Decreet betreffende de milieueffectenrapportering met betrekking tot een project tot aanleg van een voorlopige wegaansluiting (VERTALING).HI:??2,Zitting 2000-2001. Stukken van de Raad 246 (2000-2001) Nrs. 1 en 2. Volledig verslag, openbare vergadering van 3 juli 2001. Bespreking - Stemming.

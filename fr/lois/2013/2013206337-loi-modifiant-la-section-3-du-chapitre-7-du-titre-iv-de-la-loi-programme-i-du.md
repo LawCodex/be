@@ -12,7 +12,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/11/11/2013206337/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 NOVEMBRE 2013. - Loi modifiant la section 3 du chapitre 7 du titre IV de la loi-programme (I) du 24 décembre 2002

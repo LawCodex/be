@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/13/2024002233/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 20-03-2024 en tekstbijwerking tot 19-02-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2023. - Decreet houdende de algemene uitgavenbegroting van het Waalse Gewest voor het begrotingsjaar 2024

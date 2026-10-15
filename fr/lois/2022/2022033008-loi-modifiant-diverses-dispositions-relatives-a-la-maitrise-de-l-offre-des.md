@@ -12,7 +12,7 @@ entry_into_force: 2022-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/30/2022033008/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2022. - Loi modifiant diverses dispositions relatives à la maîtrise de l'offre des professions de santé

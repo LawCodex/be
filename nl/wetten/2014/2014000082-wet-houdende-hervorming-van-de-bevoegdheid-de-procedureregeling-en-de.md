@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/20/2014000082/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 03-02-2014 en tekstbijwerking tot 21-05-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 2014. - Wet houdende hervorming van de bevoegdheid, de procedureregeling en de organisatie van de Raad van State

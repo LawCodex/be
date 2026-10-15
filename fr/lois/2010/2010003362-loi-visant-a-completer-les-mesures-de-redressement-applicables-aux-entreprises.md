@@ -12,7 +12,7 @@ entry_into_force: 2010-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/06/02/2010003362/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2010. - Loi visant à compléter les mesures de redressement applicables aux entreprises relevant du secteur bancaire et financier

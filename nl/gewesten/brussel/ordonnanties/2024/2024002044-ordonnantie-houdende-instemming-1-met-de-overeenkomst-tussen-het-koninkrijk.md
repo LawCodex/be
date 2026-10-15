@@ -13,7 +13,7 @@ entry_into_force: 2024-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/03/07/2024002044/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 2024. - Ordonnantie houdende instemming: 1° met de Overeenkomst tussen het Koninkrijk België en de Socialistische Republiek van Vietnam tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en van het Protocol, ondertekend te Hanoi op 28 februari 1996, zoals gewijzigd door het Protocol van 12 maart 2012; en 2° met het Protocol, gedaan te Hanoi op 12 maart 2012, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Socialistische Republiek van Vietnam tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en van het Protocol, ondertekend te Hanoi op 28 februari 1996

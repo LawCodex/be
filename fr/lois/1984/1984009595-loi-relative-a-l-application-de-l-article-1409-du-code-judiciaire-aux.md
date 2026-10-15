@@ -12,7 +12,7 @@ entry_into_force: 1984-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/07/10/1984009595/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 1984. - Loi relative à l'application de l'article 1409 du Code judiciaire aux traitements et allocations payés à certains agents des services publics.

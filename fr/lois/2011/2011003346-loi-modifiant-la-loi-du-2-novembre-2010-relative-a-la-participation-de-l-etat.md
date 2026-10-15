@@ -12,7 +12,7 @@ entry_into_force: 2011-09-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/09/26/2011003346/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 SEPTEMBRE 2011. - Loi modifiant la loi du 2 novembre 2010 relative à la participation de l'Etat belge dans la société anonyme " European Financial Stability Facility " et à l'octroi de la garantie de l'Etat aux instruments financiers émis par cette société

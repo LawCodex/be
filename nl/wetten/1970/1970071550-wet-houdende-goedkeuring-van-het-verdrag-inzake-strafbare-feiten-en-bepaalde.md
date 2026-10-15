@@ -11,7 +11,7 @@ published: 1970-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1970/07/15/1970071550/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 1970. - Wet houdende goedkeuring van het verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen, opgemaakt te Tokio op 14 september 1963.

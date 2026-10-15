@@ -12,7 +12,7 @@ entry_into_force: 2011-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/25/2012204748/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2012. - Decreet houdende instemming met de vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds, ondertekend in Brussel op 6 oktober 2010

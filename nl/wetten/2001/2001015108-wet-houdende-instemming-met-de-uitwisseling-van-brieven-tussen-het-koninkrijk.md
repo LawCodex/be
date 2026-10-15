@@ -12,7 +12,7 @@ entry_into_force: 2002-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/07/18/2001015108/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2001. - Wet houdende instemming met de uitwisseling van brieven tussen het Koninkrijk België en het Koninkrijk Noorwegen, ondertekend te Oslo op 9 mei 1997 en te Brussel op 25 juli 1997, gebaseerd op de Verordening (EEG) nr. 1408/71 betreffende de toepassing van de socialezekerheidsregelingen op werknemers en zelfstandigen, alsmede op hun gezinsleden, die zich binnen de Gemeenschap verplaatsen en op de Verordening (EEG) nr. 574/72 tot vaststelling van de toepassingsmodaliteiten van de Verordening (EEG) nr. 1408/71.

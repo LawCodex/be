@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/02/21/2005033036/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 03-06-2005 en tekstbijwerking tot 29-08-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2005. - Bijzonder decreet houdende oprichting van een autonome hogeschool (VERTALING)

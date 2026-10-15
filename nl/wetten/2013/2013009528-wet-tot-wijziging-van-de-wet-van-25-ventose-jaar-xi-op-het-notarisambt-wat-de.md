@@ -12,7 +12,7 @@ entry_into_force: 2014-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/11/22/2013009528/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2013. - Wet tot wijziging van de wet van 25 ventôse jaar XI op het notarisambt wat de kwaliteitsrekening van notarissen betreft en van de hypotheekwet van 16 december 1831 wat de kwaliteitsrekening van advocaten, notarissen en gerechtsdeurwaarders betreft

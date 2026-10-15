@@ -13,7 +13,7 @@ entry_into_force: 2021-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/02/26/2021020524/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2021. - Décret modifiant le décret du 7 mai 2004 portant transformation de l'a.s.b.l. " de Rand " en une agence autonomisée externe de droit privé et portant fixation des compétences de la province du Brabant flamand relatives à l'appui du " Vlaamse Rand "

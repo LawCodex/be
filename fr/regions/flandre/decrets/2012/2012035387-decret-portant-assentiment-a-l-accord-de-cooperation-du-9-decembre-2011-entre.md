@@ -13,7 +13,7 @@ entry_into_force: 2012-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/09/2012035387/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2012. - Décret portant assentiment à l'accord de coopération du 9 décembre 2011 entre la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune en matière de prévention de dopage et lutte antidopage dans le sport &lt;Le présent décret est remplacé par un erratum, M.B. 13-04-2012, p. 23702-23703&gt;

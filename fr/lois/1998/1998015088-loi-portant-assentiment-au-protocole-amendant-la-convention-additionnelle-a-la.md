@@ -12,7 +12,7 @@ entry_into_force: 1998-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/02/09/1998015088/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 1998. - Loi portant assentiment au Protocole amendant la Convention additionnelle à la Convention conclue le 16 septembre 1971 entre le Royaume de Belgique et l'Organisation du Traité de l'Atlantique Nord relative à la concession à l'Organisation du Traité de l'Atlantique Nord d'un terrain situé à Bruxelles en vue de la réalisation du siège permanent de cette organisation, fait à Bruxelles le 10 juillet 1996.

@@ -13,7 +13,7 @@ entry_into_force: 1999-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/06/1999027479/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 1999. - Décret portant modification du décret du 27 novembre 1997 modifiant le Code wallon de l'aménagement du territoire, de l'urbanisme et du patrimoine, modifié par le décret du 23 juillet 1998.

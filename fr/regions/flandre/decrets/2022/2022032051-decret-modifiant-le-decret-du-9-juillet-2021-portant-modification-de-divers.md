@@ -13,7 +13,7 @@ entry_into_force: 2022-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/04/29/2022032051/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2022. - Décret modifiant le décret du 9 juillet 2021 portant modification de divers décrets relatifs au logement, en ce qui concerne le moratoire sur la vente de logements locatifs sociaux et l'exemption d'une étude d'orientation du sol lors de la cession obligatoire de terrains à risque par des acteurs du logement social

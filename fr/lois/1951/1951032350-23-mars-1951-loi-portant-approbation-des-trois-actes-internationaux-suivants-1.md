@@ -11,7 +11,7 @@ published: 1962-02-02
 entry_into_force: 1962-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1951/03/23/1951032350/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1951. \_ Loi portant approbation des trois Actes internationaux suivants: 1. Convention internationale portant Loi uniforme sur les Chèques, Annexes et Protocole, signés à Genève, le 19 mars 1931; 2. Convention internationale destinée à règler certains conflits de lois en matière de Chèques et Protocole y relatif, signés à Genève, le 19 mars 1931; 3. Convention internationale relative au droit de timbre en matière de Chèques et Protocole y relatif, signés à Genève,le 19 mars 1931.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/22/2006202145/justel"
 department: "Région Wallonne"
 justel_note: "le texte est remplacé par <Erratum, voir M.B. 03-10-2006, p. 51193>"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2006. - Décret modifiant le décret du 27 janvier 1998 instituant une police de la conservation du domaine public régional des voies hydrauliques et en réglementant les conditions d'exercice.

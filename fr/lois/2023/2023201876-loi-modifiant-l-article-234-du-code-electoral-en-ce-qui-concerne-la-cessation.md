@@ -12,7 +12,7 @@ entry_into_force: 2023-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/04/07/2023201876/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2023. - Loi modifiant l'article 234 du Code électoral, en ce qui concerne la cessation du mandat parlementaire par démission

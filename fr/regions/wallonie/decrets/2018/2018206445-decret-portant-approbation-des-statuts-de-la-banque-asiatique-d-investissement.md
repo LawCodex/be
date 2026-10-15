@@ -13,7 +13,7 @@ entry_into_force: 2019-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/22/2018206445/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2018. - Décret portant approbation des statuts de la Banque asiatique d'investissement dans les infrastructures

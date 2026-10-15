@@ -13,7 +13,7 @@ entry_into_force: 1998-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/05/26/1998035661/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 1998. - Décret portant approbation de l'accord de coopération entre la Communauté francaise, la Communauté flamande et la Communauté germanophone concernant la perception des redevances radio et télévision (TRADUCTION).

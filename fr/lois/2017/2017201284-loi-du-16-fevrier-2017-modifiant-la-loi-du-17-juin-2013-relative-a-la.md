@@ -12,7 +12,7 @@ entry_into_force: 2017-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/02/16/2017201284/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2017. - Loi du 16 février 2017 modifiant la loi du 17 juin 2013 relative à la motivation, à l'information et aux voies de recours en matière de marchés publics et de certains marchés de travaux, de fournitures et de services

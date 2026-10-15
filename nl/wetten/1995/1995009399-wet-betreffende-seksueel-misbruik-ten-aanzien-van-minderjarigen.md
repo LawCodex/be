@@ -12,7 +12,7 @@ entry_into_force: 1995-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/13/1995009399/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 1995. - Wet betreffende seksueel misbruik ten aanzien van minderjarigen.

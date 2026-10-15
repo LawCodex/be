@@ -13,7 +13,7 @@ entry_into_force: 1994-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/11/24/1994027670/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 1994. - DECREET houdende goedkeuring van de Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Slowaakse Republiek, anderzijds, van de Protocollen 1, 2, 3, 4, 5, 6, 7 en 8, de Bijlagen I tot en met XVII en de Slotakte, gedaan te Luxemburg op 4 oktober 1993

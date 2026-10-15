@@ -13,7 +13,7 @@ entry_into_force: 2012-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/19/2012203364/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2012. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en Australië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, ondertekend te Canberra op 13 oktober 1977, zoals gewijzigd door het Protocol, ondertekend te Canberra op 20 maart 1984, en het tweede Protocol, ondertekend te Parijs op 24 juni 2009

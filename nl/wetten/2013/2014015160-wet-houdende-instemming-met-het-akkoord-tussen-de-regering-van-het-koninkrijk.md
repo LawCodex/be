@@ -12,7 +12,7 @@ entry_into_force: 2016-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/26/2014015160/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBER 2013. - Wet houdende instemming met het Akkoord tussen de Regering van het Koninkrijk België en de Regering van het Gemenebest Dominica inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te Brussel op 26 februari 2010

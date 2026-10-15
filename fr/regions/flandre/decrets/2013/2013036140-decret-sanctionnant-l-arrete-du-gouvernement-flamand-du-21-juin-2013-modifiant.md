@@ -13,7 +13,7 @@ entry_into_force: 2013-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/22/2013036140/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2013. - Décret sanctionnant l'arrêté du Gouvernement flamand du 21 juin 2013 modifiant l'arrêté du Gouvernement flamand du 17 octobre 2003 définissant les objectifs finaux spécifiques décrétaux de l'enseignement secondaire général à sanctionner par décret, pour ce qui est du pôle " sciences sportives "

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/12/08/2016031847/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 18-10-2018 et mise à jour au 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2016. - Ordonnance portant sur l'intégration de la dimension du handicap dans les lignes politiques de la Région de Bruxelles-Capitale

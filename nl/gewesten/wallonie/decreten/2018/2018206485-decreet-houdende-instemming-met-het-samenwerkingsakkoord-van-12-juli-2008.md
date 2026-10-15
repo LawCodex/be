@@ -13,7 +13,7 @@ entry_into_force: 2019-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/12/20/2018206485/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2018. - Decreet houdende instemming met het samenwerkingsakkoord van 12 juli 2008 tussen het Waalse Gewest en de Duitstalige Gemeenschap betreffende de behandeling van de regularisaties inzake gezinsbijslagen

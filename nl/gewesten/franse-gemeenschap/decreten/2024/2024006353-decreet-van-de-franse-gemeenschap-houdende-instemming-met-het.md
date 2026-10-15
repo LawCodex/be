@@ -13,7 +13,7 @@ entry_into_force: 2024-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/16/2024006353/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Decreet van de Franse Gemeenschap houdende instemming met het samenwerkingsakkoord van 21 maart 2024 tussen de Franse Gemeenschap, de Franse Gemeenschapscommissie en het Brussels Hoofdstedelijk Gewest met betrekking tot de specifieke behoeften van het verplicht onderwijs en de kinderopvang in Brussel

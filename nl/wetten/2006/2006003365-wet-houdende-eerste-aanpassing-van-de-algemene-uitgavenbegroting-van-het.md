@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/07/11/2006003365/justel"
 department: "Begroting en Beheerscontrole"
 justel_note: "raadpleging van vroegere versies vanaf 25-10-2006 en tekstbijwerking tot 05-04-2007"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2006. - Wet houdende eerste aanpassing van de Algemene Uitgavenbegroting van het begrotingsjaar 2006.

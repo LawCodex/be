@@ -12,7 +12,7 @@ entry_into_force: 1891-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1891/08/31/1891083100/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 AOUT 1891. - Loi portant tarification et recouvrement des honoraires des notaires

@@ -13,7 +13,7 @@ entry_into_force: 2017-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/21/2016027342/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2016. - Decreet houdende instemming met de Overeenkomst betreffende de totstandbrenging van een gemeenschappelijke luchtvaartruimte tussen de Europese Unie en haar Lidstaten en de Republiek Moldavië, gedaan te Brussel op 26 juni 2012

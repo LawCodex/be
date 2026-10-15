@@ -13,7 +13,7 @@ entry_into_force: 2022-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/03/2022032368/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2022. - Decreet tot instemming met de overeenkomst tussen het Hasjemitisch Koninkrijk Jordanië en de Vlaamse Gemeenschap inzake audiovisuele coproductie, ondertekend te Amman op 5 juli 2021

@@ -12,7 +12,7 @@ entry_into_force: 2011-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/11/07/2011009761/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 2011. - Loi modifiant le Code des sociétés en ce qui concerne la rémunération liée aux actions des administrateurs non exécutifs d'entreprises cotées en bourse

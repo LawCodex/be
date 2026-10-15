@@ -13,7 +13,7 @@ entry_into_force: 2018-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/01/26/2018010909/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2018. - Decreet houdende diverse bepalingen tot invoering of verbetering van sommige verplichtingen tot rapportering aan het Vlaams Parlement over de toepassing en interpretatie van decreten door rechterlijke instanties, en over het gevoerde opsporings- en vervolgingsbeleid

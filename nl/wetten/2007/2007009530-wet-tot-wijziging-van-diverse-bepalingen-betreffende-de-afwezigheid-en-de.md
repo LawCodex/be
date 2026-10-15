@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/09/2007009530/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 21-06-2007 en tekstbijwerking tot 16-06-2008"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2007. - Wet tot wijziging van diverse bepalingen betreffende de afwezigheid en de gerechtelijke verklaring van overlijden.

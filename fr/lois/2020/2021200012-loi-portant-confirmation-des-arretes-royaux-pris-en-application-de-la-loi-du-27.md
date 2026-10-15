@@ -12,7 +12,7 @@ entry_into_force: 2021-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/12/24/2021200012/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 2020. - Loi portant confirmation des arrêtés royaux pris en application de la loi du 27 mars 2020 habilitant le Roi à prendre des mesures de lutte contre la propagation du coronavirus COVID-19 (II)

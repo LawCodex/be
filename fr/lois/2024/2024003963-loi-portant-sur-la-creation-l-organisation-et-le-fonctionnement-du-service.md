@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/26/2024003963/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 05-06-2024 et mise à jour au 06-08-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2024. - Loi portant sur la création, l'organisation et le fonctionnement du service administratif à comptabilité autonome, dénommé BE-WATT et diverses dispositionsrelatives à l'échange des informations

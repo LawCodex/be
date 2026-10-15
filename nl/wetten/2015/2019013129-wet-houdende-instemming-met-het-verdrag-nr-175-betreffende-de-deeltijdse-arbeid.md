@@ -12,7 +12,7 @@ entry_into_force: 2019-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/18/2019013129/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2015. - Wet houdende instemming met het Verdrag nr. 175 betreffende de deeltijdse arbeid, aangenomen te Genève op 24 juni 1994 door de Internationale Arbeidsconferentie tijdens haar eenentachtigste zitting

@@ -13,7 +13,7 @@ entry_into_force: 2018-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/07/12/2018040413/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2018. - Ordonnance portant assentiment à l'accord de coopération du 14 juillet 2016 entre la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone concernant les modifications à apporter à la réglementation relative aux allocations familiales

@@ -13,7 +13,7 @@ entry_into_force: 2015-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/03/2015205753/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2015. - Decreet tot wijziging van het decreet van 23 juli 1998 houdende bepaling van de feestdag en de emblemen van het Waalse Gewest met het oog op de officialisatie van het Waalse bloemenembleem

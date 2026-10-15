@@ -13,7 +13,7 @@ entry_into_force: 2005-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/05/20/2005035672/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 2005. - Decreet houdende instemming met de Overeenkomst van 4 april 2003 tussen de Federale Overheid en de Gewesten met het oog op de verwezenlijking van het programma van het Gewestelijk Expresnet van, naar, in en rond Brussel.

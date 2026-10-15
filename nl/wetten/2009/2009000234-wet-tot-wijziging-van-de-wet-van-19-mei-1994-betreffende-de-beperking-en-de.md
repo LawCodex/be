@@ -12,7 +12,7 @@ entry_into_force: 2009-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/03/12/2009000234/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAART 2009. - Wet tot wijziging van de wet van 19 mei 1994 betreffende de beperking en de controle van de verkiezingsuitgaven voor de verkiezing van het Europees Parlement

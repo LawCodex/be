@@ -13,7 +13,7 @@ entry_into_force: 1995-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/03/23/1995027204/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1995. - Décret portant assentiment du Protocole au Traité de l'Antarctique relatif à la protection de l'environnement, de ses Appendice et Annexes I, II, III, IV et V, faits à Madrid le 4 octobre 1991.

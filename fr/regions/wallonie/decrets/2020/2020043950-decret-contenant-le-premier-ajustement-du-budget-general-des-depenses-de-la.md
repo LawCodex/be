@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/15/2020043950/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 16-12-2020 et mise à jour au 17-01-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 OCTOBRE 2020. - Décret contenant le premier ajustement du budget général des dépenses de la Région wallonne pour l'année budgétaire 2020

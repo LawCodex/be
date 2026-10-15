@@ -13,7 +13,7 @@ entry_into_force: 2005-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/12/24/2005035134/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 2004. - Décret ajustant le budget des voies et moyens de la Communauté flamande pour l'année budgétaire 2004 (TRADUCTION).

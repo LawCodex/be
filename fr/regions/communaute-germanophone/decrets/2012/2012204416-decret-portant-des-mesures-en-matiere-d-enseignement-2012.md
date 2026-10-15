@@ -13,7 +13,7 @@ entry_into_force: 2012-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/16/2012204416/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2012. - Décret portant des mesures en matière d'enseignement 2012

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/03/17/1993016072/justel"
 department: "Landbouw"
 justel_note: "Raadpleging van vroegere versies vanaf 19-03-1999 en tekstbijwerking tot 07-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 1993. - Wet betreffende de oprichting van een Begrotingsfonds voor de produktie en de bescherming van planten en plantaardige produkten.

@@ -13,7 +13,7 @@ entry_into_force: 2026-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2026/02/12/2026001204/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2026. - Ordonnance portant des dispositions diverses en matière de Santé, d'Aide aux personnes et de Prestations familiales

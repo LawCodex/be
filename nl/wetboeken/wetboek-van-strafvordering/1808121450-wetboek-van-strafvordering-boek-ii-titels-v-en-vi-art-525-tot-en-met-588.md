@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1808/12/14/1808121450/justel"
 justel_notes:
   - "Om technische redenen is het Wetboek van Strafvordering ingedeeld in 8 delen waarvan het zevende deel Titels V en VI van het tweede Boek omvat"
   - "Raadpleging van vroegere versies vanaf 02-04-1998 en tekstbijwerking tot 18-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 1808. - WETBOEK VAN STRAFVORDERING. - BOEK II, TITELS V EN VI. (Art. 525 tot en met 588)

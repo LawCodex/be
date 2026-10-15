@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1894/04/12/1894041255/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 10-01-2003 en tekstbijwerking tot 15-07-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 APRIL 1894. - Kieswetboek

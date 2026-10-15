@@ -13,7 +13,7 @@ entry_into_force: 2027-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/02/2026005638/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2026. - Décret relatif au dispositif des chèques-entreprises pour le soutien à l'entrepreneuriat et à la croissance des petites et moyennes entreprises

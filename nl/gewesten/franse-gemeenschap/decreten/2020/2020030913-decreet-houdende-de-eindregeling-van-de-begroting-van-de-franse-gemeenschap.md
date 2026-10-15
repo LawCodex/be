@@ -13,7 +13,7 @@ entry_into_force: 2020-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/04/27/2020030913/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2020. - Decreet houdende de eindregeling van de begroting van de Franse Gemeenschap voor het begrotingsjaar 2012

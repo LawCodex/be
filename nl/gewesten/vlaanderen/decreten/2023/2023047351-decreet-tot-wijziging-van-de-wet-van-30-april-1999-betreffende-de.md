@@ -12,7 +12,7 @@ entry_into_force: 2023-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/10/27/2023047351/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 2023. - Decreet tot wijziging van de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers, het decreet houdende sociaalrechtelijk toezicht van 30 april 2004, het decreet van 22 december 2017 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren en het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling

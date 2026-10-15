@@ -13,7 +13,7 @@ entry_into_force: 1995-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/10/1995029258/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1995. - Décret modifiant certaines dispositions de la législation sur l'enseignement secondaire.

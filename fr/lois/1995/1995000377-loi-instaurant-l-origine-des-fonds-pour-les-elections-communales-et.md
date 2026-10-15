@@ -12,7 +12,7 @@ entry_into_force: 1995-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/10/1995000377/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1995. - Loi instaurant l'origine des fonds pour les élections communales et. provinciales, pour les élections des Conseils régionaux, ainsi que pour les élections législatives et européennes.

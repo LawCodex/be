@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/18/2013206806/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 10-01-2014 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBRE 2013. - Décret visant à soutenir la culture en Communauté germanophone (appelé "Kulturförderdekret" (décret de soutien culturel)

@@ -13,7 +13,7 @@ entry_into_force: 2007-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/22/2007201223/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2007. - Décret portant approbation de l'Accord de coopération entre la Communauté française, la Région wallonne et l'Etat fédéral relatif à la gestion administrative et financière des coordinations provinciales pour l'égalité entre les femmes et les hommes.

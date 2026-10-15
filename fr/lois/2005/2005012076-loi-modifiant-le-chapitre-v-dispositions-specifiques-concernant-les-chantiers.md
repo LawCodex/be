@@ -12,7 +12,7 @@ entry_into_force: 2005-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/03/09/2005012076/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2005. - Loi modifiant le chapitre V " Dispositions spécifiques concernant les chantiers temporaires ou mobiles " de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail.

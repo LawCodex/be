@@ -12,7 +12,7 @@ entry_into_force: 2013-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/02/15/2013015140/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2007. - Loi portant assentiment au Deuxième Protocole additionnel, signé à Bruxelles le 11 octobre 2004, modifiant la Convention entre la Belgique et l'Italie en vue d'éviter les doubles impositions et de prévenir la fraude et l'évasion fiscales en matière d'impôts sur le revenu, et le Protocole final, signés à Rome le 29 avril 1983

@@ -13,7 +13,7 @@ last_amended: 2013-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1962/04/30/1962043050/justel"
 justel_note: "Consultation des versions antérieures à partir du 28-11-1990 et mise à jour au 20-09-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 1962. - Lois coordonnées sur la milice.

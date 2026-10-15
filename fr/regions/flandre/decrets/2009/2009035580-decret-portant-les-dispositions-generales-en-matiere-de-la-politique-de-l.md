@@ -17,7 +17,7 @@ department: "Autorité flamande"
 justel_notes:
   - "art. 7.4.2; 7.4.3 ajoutés avec effet à une date indéterminée par DCFL 2019-04-26/11 , art. 10-11, 044; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 07-07-2009 et mise à jour au 03-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2009. - Décret portant les dispositions générales en matière de la politique de l'énergie (cité comme Décret sur l'Energie)

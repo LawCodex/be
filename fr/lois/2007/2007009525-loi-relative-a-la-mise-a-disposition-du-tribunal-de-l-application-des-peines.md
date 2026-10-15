@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/26/2007009525/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 13-07-2007 et mise à jour au 20-01-2012"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2007. - Loi relative à la mise à disposition du tribunal de l'application des peines.

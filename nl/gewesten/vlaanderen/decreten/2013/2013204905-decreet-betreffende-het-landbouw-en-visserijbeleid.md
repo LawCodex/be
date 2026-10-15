@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/28/2013204905/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 12-09-2013 en tekstbijwerking tot 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2013. - Decreet betreffende het landbouw- en visserijbeleid

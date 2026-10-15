@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/01/14/2022030408/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 2022. - Decreet over het internationale beurzenprogramma voor topstudenten

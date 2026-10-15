@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/21/2016206576/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 04-01-2017 et mise à jour au 23-10-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2016. - Décret portant octroi d'aides, au moyen d'un portefeuille intégré d'aides en Région wallonne, aux porteurs de projets et aux petites et moyennes entreprises pour rémunérer des services promouvant l'entrepreneuriat ou la croissance, et constituant une banque de données de sources authentiques liées à ce portefeuille intégré

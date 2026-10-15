@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/17/2013029476/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 05-02-2015 en tekstbijwerking tot 30-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2013. - Decreet betreffende de financiering van het Onderzoek door het Fonds national de la Recherche scientifique

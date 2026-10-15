@@ -13,7 +13,7 @@ entry_into_force: 2015-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/14/2015029363/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2015. - Programmadecreet houdende verschillende maatregelen inzake leerplichtonderwijs, Cultuur, de ARES (Académie de recherche et d'enseignement supérieur - Academie voor onderzoek en hoger onderwijs), de financiering van het universitair en niet-universitair hoger onderwijs en de waarborg van de Franse Gemeenschap

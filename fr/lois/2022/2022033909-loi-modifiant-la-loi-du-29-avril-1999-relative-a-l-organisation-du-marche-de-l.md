@@ -12,7 +12,7 @@ entry_into_force: 2022-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/10/23/2022033909/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 OCTOBRE 2022. - Loi modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité et portant transposition de la directive (UE) 2019/944 du Parlement européen et du Conseil du 5 juin 2019 concernant des règles communes pour le marché intérieur de l'électricité et modifiant la directive 2012/27/UE

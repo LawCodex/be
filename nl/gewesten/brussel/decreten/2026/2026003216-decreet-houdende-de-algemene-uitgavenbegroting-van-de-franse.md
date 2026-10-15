@@ -13,7 +13,7 @@ entry_into_force: 2026-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/04/23/2026003216/justel"
 department: "Begroting"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 2026. - Decreet houdende de algemene uitgavenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 2026

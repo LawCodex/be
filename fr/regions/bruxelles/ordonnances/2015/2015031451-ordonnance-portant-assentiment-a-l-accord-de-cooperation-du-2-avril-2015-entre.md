@@ -13,7 +13,7 @@ entry_into_force: 2015-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/07/09/2015031451/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2015. - Ordonnance portant assentiment à l'accord de coopération du 2 avril 2015 entre les Régions wallonne, flamande et de Bruxelles-Capitale, modifiant l'accord de coopération du 4 novembre 2008 entre les Régions wallonne, flamande et de Bruxelles-Capitale concernant la prévention et la gestion des déchets d'emballages

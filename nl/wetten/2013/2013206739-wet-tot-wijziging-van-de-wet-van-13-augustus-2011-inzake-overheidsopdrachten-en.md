@@ -12,7 +12,7 @@ entry_into_force: 2013-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/01/2013206739/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2013. - Wet tot wijziging van de wet van 13 augustus 2011 inzake overheidsopdrachten en bepaalde opdrachten voor werken, leveringen en diensten op defensie- en veiligheidsgebied

@@ -13,7 +13,7 @@ last_amended: 2024-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/06/27/1978062706/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-08-1990 et mise à jour au 25-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 1978. - Loi modifiant la législation sur les hôpitaux et relative à certaines autres formes de dispensation de soins.

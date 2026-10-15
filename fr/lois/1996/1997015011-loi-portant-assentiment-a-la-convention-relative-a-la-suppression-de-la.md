@@ -12,7 +12,7 @@ entry_into_force: 1997-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/11/27/1997015011/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 1996. - Loi portant assentiment à la Convention relative à la suppression de la [légalisation] d'actes dans les Etats membres de Communautés européennes, signée à Bruxelles le 25 mai 1987 (Err. MB. 10-06-1997, p. 15509).

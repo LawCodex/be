@@ -11,7 +11,7 @@ published: 1936-09-24
 entry_into_force: 1936-10-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1936/04/07/1936040750/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 1936. - Loi approuvant la Convention internationale pour l'unification de certaines règles relatives au transport aérien international et le Protocole additionnel, signés à Varsovie le 12 octobre 1929.

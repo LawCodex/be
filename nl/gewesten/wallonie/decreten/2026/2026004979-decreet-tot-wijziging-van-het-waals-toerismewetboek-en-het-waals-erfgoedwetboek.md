@@ -12,7 +12,7 @@ published: 2026-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/18/2026004979/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2026. - Decreet tot wijziging van het Waals ToerismewetBoek en het Waals ErfgoedwetBoek teneinde hun overeenstemming met het nieuwe StrafwetBoek te waarborgen

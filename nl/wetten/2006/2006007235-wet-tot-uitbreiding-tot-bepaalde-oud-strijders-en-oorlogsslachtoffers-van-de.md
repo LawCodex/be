@@ -10,7 +10,7 @@ date: 2006-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/08/07/2006007235/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AUGUSTUS 2006. - Wet tot uitbreiding tot bepaalde oud-strijders en oorlogsslachtoffers van de kosteloze geneeskundige verzorging door de bemiddeling van het Instituut voor Veteranen - Nationaal Instituut voor Oorlogsinvaliden, Oud-Strijders en Oorlogsslachtoffers

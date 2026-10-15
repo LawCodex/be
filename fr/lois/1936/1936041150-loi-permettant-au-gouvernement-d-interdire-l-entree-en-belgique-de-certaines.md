@@ -12,7 +12,7 @@ entry_into_force: 1936-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1936/04/11/1936041150/justel"
 department: "Intérieur - Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 1936. - Loi permettant au gouvernement d'interdire l'entrée en Belgique de certaines publications étrangères

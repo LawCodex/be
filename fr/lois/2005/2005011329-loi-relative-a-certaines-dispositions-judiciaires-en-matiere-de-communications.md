@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/07/06/2005011329/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 11-08-2005 et mise à jour au 30-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2005. - Loi relative à certaines dispositions judiciaires en matière de communications électroniques

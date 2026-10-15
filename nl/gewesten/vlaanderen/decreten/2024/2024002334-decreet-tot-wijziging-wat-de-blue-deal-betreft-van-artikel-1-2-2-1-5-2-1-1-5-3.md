@@ -13,7 +13,7 @@ entry_into_force: 2024-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/01/2024002334/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2024. - Decreet tot wijziging, wat de Blue Deal betreft, van artikel 1.2.2, 1.5.2.1, 1.5.3.2 en 1.6.1.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018

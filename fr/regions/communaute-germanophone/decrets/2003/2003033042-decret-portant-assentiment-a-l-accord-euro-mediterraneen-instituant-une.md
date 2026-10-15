@@ -13,7 +13,7 @@ entry_into_force: 2003-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/04/28/2003033042/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2003. - Décret portant assentiment à l'Accord euro-méditerranéen instituant une association entre la Communauté européenne et ses Etats membres, d'une part, et la République libanaise, d'autre part, ainsi que l'Acte final, faits à Luxembourg le 17 juin 2002 (TRADUCTION).

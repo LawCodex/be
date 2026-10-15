@@ -13,7 +13,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/12/22/2001035024/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2000. - Decreet tot wijziging van het decreet van 12 mei 1998 houdende de erkenning en subsidiëring van het landelijk georganiseerd jeugdwerk.

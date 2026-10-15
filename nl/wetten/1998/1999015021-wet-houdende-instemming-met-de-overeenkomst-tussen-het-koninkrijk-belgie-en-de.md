@@ -12,7 +12,7 @@ entry_into_force: 1999-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/08/10/1999015021/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1998. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Mauritius tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Brussel op 4 juli 1995.

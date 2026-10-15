@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/12/09/2004009876/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 24-12-2004 en tekstbijwerking tot 26-01-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2004. - [Wet betreffende de internationale politiële verstrekking van gegevens van persoonlijke aard en informatie met gerechtelijke finaliteit, de wederzijdse internationale rechtshulp in strafzaken en tot wijziging van artikel 90ter van het Wetboek van strafvordering] &lt;W 2014-05-15/69 , art. 2, 003; Inwerkingtreding : 17-08-2014&gt;

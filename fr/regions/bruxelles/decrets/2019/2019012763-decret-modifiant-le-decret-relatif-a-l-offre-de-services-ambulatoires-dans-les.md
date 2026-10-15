@@ -13,7 +13,7 @@ entry_into_force: 2019-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/09/2019012763/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2019. - Décret modifiant le décret relatif à l'offre de services ambulatoires dans les domaines de l'Action sociale, de la Famille et de la Santé afin d'autoriser la création de salles de consommation à moindre risque

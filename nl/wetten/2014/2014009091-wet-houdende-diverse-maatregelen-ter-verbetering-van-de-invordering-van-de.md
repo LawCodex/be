@@ -12,7 +12,7 @@ entry_into_force: 2014-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/11/2014009091/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEBRUARI 2014. - Wet houdende diverse maatregelen ter verbetering van de invordering van de vermogensstraffen en de gerechtskosten in strafzaken (I)

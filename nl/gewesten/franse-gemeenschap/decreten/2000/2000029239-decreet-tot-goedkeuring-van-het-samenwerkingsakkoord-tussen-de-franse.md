@@ -13,7 +13,7 @@ entry_into_force: 2000-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/05/31/2000029239/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2000. - Decreet tot goedkeuring van het samenwerkingsakkoord tussen de Franse Gemeenschapsregering van België en de Waalse Regering en de Regering van de Republiek Bolivië (VERTALING).

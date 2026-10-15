@@ -12,7 +12,7 @@ entry_into_force: 2015-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/08/10/2015009390/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2015. - Loi modifiant l'article 51 de la loi du 17 mai 2006 instaurant des tribunaux de l'application des peines et modifiant l'article 109 de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine, en ce qui concerne l'entrée en vigueur

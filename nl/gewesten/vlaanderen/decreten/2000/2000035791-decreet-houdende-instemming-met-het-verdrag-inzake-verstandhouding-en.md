@@ -13,7 +13,7 @@ entry_into_force: 2000-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/07/17/2000035791/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2000. - Decreet houdende instemming met het Verdrag inzake verstandhouding en samenwerking tussen het koninkrijk België, de Vlaamse Gemeenschap van België, de Franse Gemeenschap van België, de Duitstalige Gemeenschap van België, het Vlaamse Gewest van België, het Waalse Gewest van België, het Brussels Hoofdstedelijk Gewest van België en Oekraïne, ondertekend te Brussel op 23 april 1997.

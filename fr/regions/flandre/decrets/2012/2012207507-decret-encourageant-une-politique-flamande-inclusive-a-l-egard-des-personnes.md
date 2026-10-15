@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/12/07/2012207507/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-01-2013 et mise à jour au 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2012. - Décret encourageant une politique flamande inclusive à l'égard des personnes âgées et la participation à la politique des personnes âgées

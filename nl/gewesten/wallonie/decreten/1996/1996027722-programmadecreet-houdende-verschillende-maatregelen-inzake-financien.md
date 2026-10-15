@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/12/19/1996027722/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-1996 en tekstbijwerking tot 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1996. - Programmadecreet houdende verschillende maatregelen inzake financiën, tewerkstelling, milieu, gesubsidieerde werken, huisvesting en sociale actie. (VERTALING).

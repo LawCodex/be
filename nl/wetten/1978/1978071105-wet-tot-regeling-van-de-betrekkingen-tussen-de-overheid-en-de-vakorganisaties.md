@@ -12,7 +12,7 @@ last_amended: 2010-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1978/07/11/1978071105/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 20-05-1994 en tekstbijwerking tot 07-05-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 1978. - [Wet tot regeling van de betrekkingen tussen de overheid en de vakorganisaties van het militair personeel]. (syndicale wet) &lt;Opschrift vervangen door W 2003-01-16/33, art. 2, 005; Inwerkingtreding : 31-01-2003&gt;

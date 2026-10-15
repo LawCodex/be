@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/15/2014203009/justel"
 department: "Kanselarij van de Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 22-05-2014 en tekstbijwerking tot 13-01-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2014. - Wet houdende uitvoering van het pact voor competitiviteit, werkgelegenheid en relance

@@ -12,7 +12,7 @@ entry_into_force: 2022-11-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/10/30/2022206608/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 OCTOBRE 2022. - Loi portant des dispositions diverses relatives à l'incapacité de travail

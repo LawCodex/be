@@ -12,7 +12,7 @@ published: 2011-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/10/13/2011205409/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OKTOBER 2011. - Decreet houdende instemming, wat betreft de aangelegenheden waarvan de uitoefening door de Franse Gemeenschap aan het Waalse Gewest is overgedragen, met het Protocol tot wijziging van het aan het Verdrag betreffende de Europese Unie, het Verdrag betreffende de werking van de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie gehechte Protocol betreffende de overgangsbepalingen, aangenomen op 23 juni 2010

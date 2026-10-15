@@ -13,7 +13,7 @@ entry_into_force: 1999-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/07/13/1999029406/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 1999. - Bijzonder decreet houdende verhoging van het maximumaantal Regeringsleden in uitvoering van artikelen 123, § 2, van de Grondwet en 63, § 4, van de bijzondere wet tot hervorming der instellingen van 8 augustus 1980, zoals gewijzigd bij de wetten van 8 augustus 1988 en van 16 juli 1993 (VERTALING).HI:??2,Buitengewone zitting 1999 : Documenten van de Raad. - Ontwerp-decreet, nr. 4-1. - Amendement in de zitting, nr. 4-2. Integraal verslag. - Mondeling verslag, debat en aanneming. Zitting van 13 juli 1999.

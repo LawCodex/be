@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/06/24/2004033076/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2002. - Décret portant le premier ajustement du budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2002. (Traduction).

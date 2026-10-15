@@ -13,7 +13,7 @@ last_amended: 2009-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1952/05/29/1952052902/justel"
 justel_note: "Consultation des versions antérieures à partir du 23-12-1994 et mise à jour au 31-12-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 1952. - Loi organique du Conseil national du Travail.

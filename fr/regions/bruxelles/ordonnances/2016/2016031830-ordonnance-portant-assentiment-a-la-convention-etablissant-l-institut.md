@@ -13,7 +13,7 @@ entry_into_force: 2017-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/12/08/2016031830/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2016. - Ordonnance portant assentiment à : la Convention établissant l'Institut international pour la Démocratie et l'Assistance électorale, et à l'Acte final, faits à Stockholm le 27 février 1995, tels que modifiés par le Conseil de l'Institut international le 24 janvier 2006

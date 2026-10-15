@@ -12,7 +12,7 @@ entry_into_force: 2007-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/01/2007011130/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2007. - Loi modifiant la loi du 24 mars 2003 instaurant un service bancaire de base.

@@ -13,7 +13,7 @@ entry_into_force: 2017-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/10/12/2017205399/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OCTOBRE 2017. - Décret modifiant certaines dispositions du Code de la démocratie locale et de la décentralisation visant à encadrer la notion d'empêchement du bourgmestre et de l'échevin

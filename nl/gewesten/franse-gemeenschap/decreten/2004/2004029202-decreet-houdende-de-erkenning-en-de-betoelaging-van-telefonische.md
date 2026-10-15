@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/12/2004029202/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 18-06-2004 en tekstbijwerking tot 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Decreet houdende de erkenning en de betoelaging van telefonische onthaaldiensten voor kinderen (VERTALING). )

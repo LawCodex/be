@@ -12,7 +12,7 @@ entry_into_force: 1994-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/07/13/1994029377/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 1994. - Decreet houdende goedkeuring van het Verdrag van de UNO inzake psychotrope stoffen en haar bijlagen, opgemaakt te Wenen op 21 februari 1971

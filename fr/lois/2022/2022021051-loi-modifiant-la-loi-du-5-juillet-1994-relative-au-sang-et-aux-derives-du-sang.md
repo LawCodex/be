@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/07/2022021051/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
 justel_note: "Consultation des versions antérieures à partir du 29-08-2023 et mise à jour au 29-08-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2022. - Loi modifiant la loi du 5 juillet 1994 relative au sang et aux dérivés du sang d'origine humaine en ce qui concerne les critères d'exclusion au don de sang

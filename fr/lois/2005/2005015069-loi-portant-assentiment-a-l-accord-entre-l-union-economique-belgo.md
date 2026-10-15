@@ -12,7 +12,7 @@ entry_into_force: 2007-11-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/26/2005015069/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2005. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et les Emirats arabes unis concernant l'encouragement et la protection réciproques des investissements, signé à Dubaï le 8 mars 2004.

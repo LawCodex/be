@@ -13,7 +13,7 @@ entry_into_force: 2026-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/10/2026001347/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2025. - Décret contenant le règlement définitif du budget de la Communauté germanophone pour l'année budgétaire 2024

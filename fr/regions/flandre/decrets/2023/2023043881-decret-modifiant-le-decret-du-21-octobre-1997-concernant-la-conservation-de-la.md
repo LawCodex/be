@@ -13,7 +13,7 @@ entry_into_force: 2023-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/07/2023043881/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2023. - Décret modifiant le décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, en ce qui concerne l'adaptation d'une approche programmatique

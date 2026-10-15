@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/17/2024005501/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2024. - Décret relatif aux revisites de véhicules par des contrôleurs agréés auprès de réparateurs agréés dans le cadre d'un projet pilote

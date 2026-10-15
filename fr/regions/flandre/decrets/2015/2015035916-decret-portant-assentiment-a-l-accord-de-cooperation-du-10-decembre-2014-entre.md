@@ -13,7 +13,7 @@ entry_into_force: 2015-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/07/03/2015035916/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2015. - Décret portant assentiment à l'accord de coopération du 10 décembre 2014 entre la Communauté flamande, la Communauté française et la Communauté germanophone relatif à la gestion de la surveillance électronique

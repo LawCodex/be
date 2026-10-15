@@ -13,7 +13,7 @@ entry_into_force: 2024-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/18/2024001098/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2024. - Décret portant assentiment à l'Arrangement entre l'Organisation du Traité de l'Atlantique Nord et le Royaume de Belgique concernant le statut du personnel temporaire engagé par, et mis en fonction dans, un organisme OTAN situé sur le territoire du Royaume de Belgique, fait à Bruxelles le 7 février 2022

@@ -13,7 +13,7 @@ entry_into_force: 2008-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/04/2008202899/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2008. - Décret modifiant le décret du 11 mai 2007 portant statut du tireur sportif, pour ce qui concerne son champ d'application (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2017-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/10/19/2017013920/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2017. - Décret portant mesures diverses en vue de faciliter la mise en oeuvre du principe de priorisation des titres telle que prévue par le décret du 11 avril 2014 réglementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française

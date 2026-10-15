@@ -12,7 +12,7 @@ entry_into_force: 1999-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/19/1999000241/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 1999. - Bijzondere wet tot wijziging van de wet van 8 augustus 1980 tot hervorming der instellingen.

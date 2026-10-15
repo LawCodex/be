@@ -13,7 +13,7 @@ entry_into_force: 2017-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/24/2017030117/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2017. - Décret modifiant le Décret sur l'énergie du 8 mai 2009, pour ce qui concerne la prévention, la détection, la constatation et la sanction de la fraude à l'énergie

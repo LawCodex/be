@@ -12,7 +12,7 @@ entry_into_force: 2003-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/20/2002013513/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2002. - Loi portant protection des conseillers en prévention.

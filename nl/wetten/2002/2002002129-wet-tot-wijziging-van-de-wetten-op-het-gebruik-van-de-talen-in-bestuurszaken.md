@@ -12,7 +12,7 @@ entry_into_force: 2001-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/06/12/2002002129/justel"
 department: "Personeel en Organisatie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2002. - Wet tot wijziging van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966.

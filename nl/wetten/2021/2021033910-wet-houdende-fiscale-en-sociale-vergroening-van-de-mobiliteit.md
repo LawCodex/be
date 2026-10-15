@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/11/25/2021033910/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 03-12-2021 en tekstbijwerking tot 30-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2021. - Wet houdende fiscale en sociale vergroening van de mobiliteit

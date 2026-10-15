@@ -12,7 +12,7 @@ entry_into_force: 2005-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/05/30/2005009469/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2005. - Wet tot bekrachtiging van het koninklijk besluit van 27 december 2004 tot vaststelling van de voorschriften van de bewijsvoering alsook de regels van rechtspleging voor de tenuitvoerlegging van artikel 1409, § 1, vierde lid, en § 1bis, vierde lid, van het Gerechtelijk Wetboek.

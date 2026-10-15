@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/01/21/2013009162/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 14-06-2013 et mise à jour au 14-05-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JANVIER 2013. - Loi modifiant le Code électoral et la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine, suite à l'instauration d'un nouveau statut de protection conforme à la dignité humaine

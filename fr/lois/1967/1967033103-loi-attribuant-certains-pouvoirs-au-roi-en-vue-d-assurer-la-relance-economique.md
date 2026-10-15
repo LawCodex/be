@@ -11,7 +11,7 @@ published: 1967-04-04
 entry_into_force: 1967-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1967/03/31/1967033103/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 1967. - Loi attribuant certains pouvoirs au Roi en vue d'assurer la relance économique, l'accélération de la reconversion régionale et la stabilisation de l'équilibre budgétaire.

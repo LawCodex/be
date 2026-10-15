@@ -11,7 +11,7 @@ published: 1971-04-16
 entry_into_force: 1960-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/02/22/1971022205/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 1971. \_ Loi modifiant les lois du 16 juin 1960 et du 17 juillet 1963, relatives à la sécurité sociale d'outre-mer.

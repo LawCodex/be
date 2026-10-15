@@ -13,7 +13,7 @@ entry_into_force: 2007-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/06/2007036446/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2007. - Décret modifiant le décret du 25 février 1997 relatif à l'enseignement fondamental, le décret du 13 juillet 2001 relatif à l'enseignement-XIII-Mosaïque et le décret du 2 avril 2004 relatif à la participation à l'école et au 'Vlaamse Onderwijsraad' (TRADUCTION).

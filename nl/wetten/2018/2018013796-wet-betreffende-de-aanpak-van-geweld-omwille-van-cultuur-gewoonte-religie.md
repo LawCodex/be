@@ -10,7 +10,7 @@ date: 2018-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/06/18/2018013796/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2018. - Wet betreffende de aanpak van geweld omwille van cultuur, gewoonte, religie, traditie of de zogenaamde "eer", met inbegrip van de genitale verminking

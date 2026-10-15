@@ -13,7 +13,7 @@ entry_into_force: 2002-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/13/2002028161/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2002. - Decreet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van Burkina Faso, inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 18 mei 2001 (VERTALING).

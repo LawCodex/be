@@ -12,7 +12,7 @@ entry_into_force: 2017-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/18/2017013158/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2017. - Loi modifiant l'article 38 de la loi du 16 mars 1968 relative à la police de la circulation routière en ce qui concerne la déchéance du droit de conduire des véhicules non motorisés

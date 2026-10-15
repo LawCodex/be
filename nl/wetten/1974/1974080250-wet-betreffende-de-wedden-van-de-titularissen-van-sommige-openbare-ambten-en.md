@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1974/08/02/1974080250/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 07-08-2008 en tekstbijwerking tot 24-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AUGUSTUS 1974. - Wet betreffende de wedden van de titularissen van sommige openbare ambten en van de bedienaars van de erediensten &lt;W 2002-06-21/34, art. 61&gt;.

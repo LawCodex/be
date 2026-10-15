@@ -11,7 +11,7 @@ date: 2008-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/17/2008203140/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2008. - Decreet tot wijziging van het decreet van 3 juli 2003 tot oprichting van het "Centre wallon de Recherches agronomiques" (Waals Centrum voor Landbouwkundig Onderzoek) en van een Oriëntatie- en Evaluatiecomité voor Landbouwkundig Onderzoek.

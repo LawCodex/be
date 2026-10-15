@@ -13,7 +13,7 @@ entry_into_force: 2012-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/05/2012031601/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2012. - Décret modifiant le décret du 22 mars 2007 de la Commission communautaire française relatif à l'égalité de traitement dans la formation professionnelle

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/26/1999002017/justel"
 department: "Landsverdediging - Sociale Zaken - Volksgezondheid en Leefmilieu"
 justel_note: "raadpleging van vroegere versies vanaf 26-02-1999 en tekstbijwerking tot 05-07-2001"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 1999. - Wet houdende nieuwe maatregelen ten voordele van de oorlogsslachtoffers.

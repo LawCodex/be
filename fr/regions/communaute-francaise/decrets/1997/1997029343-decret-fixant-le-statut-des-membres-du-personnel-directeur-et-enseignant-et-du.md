@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/24/1997029343/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 06-11-1997 et mise à jour au 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 1997. - Décret fixant le statut des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation des hautes écoles organisées ou subventionnées par la Communauté française

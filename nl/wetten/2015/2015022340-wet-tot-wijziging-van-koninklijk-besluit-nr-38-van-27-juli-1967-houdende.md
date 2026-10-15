@@ -11,7 +11,7 @@ entry_into_force: 2015-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/08/30/2015022340/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AUGUSTUS 2015. - Wet tot wijziging van koninklijk besluit nr. 38 van 27 juli 1967 houdende inrichting van het sociaal statuut der zelfstandigen, teneinde de Impulseo 1-premie niet in aanmerking te nemen bij de berekening van de sociale bijdragen

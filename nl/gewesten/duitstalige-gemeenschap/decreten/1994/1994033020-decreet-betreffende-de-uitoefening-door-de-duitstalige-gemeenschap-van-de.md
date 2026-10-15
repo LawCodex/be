@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/01/17/1994033020/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 29-09-1999 en tekstbijwerking tot 30-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANUARI 1994. - Decreet betreffende de uitoefening door de Duitstalige Gemeenschap van de bevoegdheden van het Waalse Gewest in de aangelegenheid " Monumenten en Landschappen ". (Vertaling)

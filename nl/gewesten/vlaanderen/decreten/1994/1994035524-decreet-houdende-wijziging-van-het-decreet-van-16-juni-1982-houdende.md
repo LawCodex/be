@@ -13,7 +13,7 @@ entry_into_force: 1994-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/03/23/1994035524/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1994. - Decreet houdende wijziging van het decreet van 16 juni 1982 houdende maatregelen voor een sociaal grondbeleid.

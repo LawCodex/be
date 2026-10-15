@@ -12,7 +12,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/03/21/2008204261/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2008. - Decreet houdende instemming met het aanhangsel van 20 september 2007 bij het samenwerkingsakkoord van 30 mei 2005 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie.

@@ -12,7 +12,7 @@ last_amended: 2014-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1964/03/21/1964032105/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 15-03-2012 en tekstbijwerking tot 23-07-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 1964. - WET op het medisch schooltoezicht (NOTA 1 : opgeheven bij DVR 1998-12-01/58, art. 174, 2°, Inwerkingtreding : 01-09-2000) (NOTA 2 : opgeheven bij DFG 2001-12-20/37, art. 31, 1°, Inwerkingtreding : 01-09-2002)(NOTA 3 : opgeheven bij DDG 2014-03-31/09 , art. 10.1, 1°, 003; Inwerkingtreding : 01-07-2014)

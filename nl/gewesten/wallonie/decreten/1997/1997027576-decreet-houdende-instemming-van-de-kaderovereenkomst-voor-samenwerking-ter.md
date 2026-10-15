@@ -12,7 +12,7 @@ published: 1997-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/10/23/1997027576/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OKTOBER 1997. - Decreet houdende instemming van de Kaderovereenkomst voor samenwerking ter voorbereiding van een associatie van politieke en economische aard tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds, en de Republiek Chili, anderzijds, als einddoel, van de Bijlage en het proces-verbaal van ondertekening, opgemaakt te Florence op 21 juni 1996 (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2026-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/26/2026005639/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2026. - Décret modifiant divers décrets à la suite de la fusion du domaine politique de l'Economie, des Sciences et de l'Innovation, du domaine politique de l'Emploi et de l'Economie sociale et du domaine politique de l'Agriculture et de la Pêche, ainsi que de la fusion du Département de l'Economie, des Sciences et de l'Innovation et du Département de l'Emploi et de l'Economie sociale

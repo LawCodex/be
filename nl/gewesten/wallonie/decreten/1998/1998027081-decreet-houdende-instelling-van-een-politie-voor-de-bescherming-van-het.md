@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/01/27/1998027081/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 21-02-1998 en tekstbijwerking tot 08-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JANUARI 1998. - Decreet houdende instelling van een politie voor de bescherming van het gewestelijk openbaar wegendomein en houdende regeling van de voorwaarden voor de uitoefening van dat ambt (VERTALING).

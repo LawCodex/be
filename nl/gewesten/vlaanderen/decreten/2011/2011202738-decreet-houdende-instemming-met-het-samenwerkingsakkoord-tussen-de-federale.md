@@ -13,7 +13,7 @@ entry_into_force: 2011-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/05/13/2011202738/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2011. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat en de Gewesten van 3 december 2009 betreffende de uitvoering van het Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart ondertekend te Straatsburg op 9 september 1996

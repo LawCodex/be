@@ -12,7 +12,7 @@ published: 2015-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/10/16/2015204783/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 2015. - Decreet tot wijziging van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren teneinde de verhandeling van dieren op openbare plaatsen te verbieden

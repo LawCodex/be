@@ -13,7 +13,7 @@ entry_into_force: 1999-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/12/15/1998036465/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 1998. - Decreet houdende wijziging van het decreet van 7 juli 1998 houdende wijziging van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 25 januari 1995.

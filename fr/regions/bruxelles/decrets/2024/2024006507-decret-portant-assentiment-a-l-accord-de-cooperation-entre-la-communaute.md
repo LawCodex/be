@@ -13,7 +13,7 @@ entry_into_force: 2024-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/06/20/2024006507/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2024. - Décret portant assentiment à l'accord de coopération entre la Communauté flamande, la Région flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune, la Commission communautaire française, la Région wallonne, la Région de Bruxelles-Capitale et l'Etat fédéral sur l'exécution intergouvernementale du Règlement (UE) 2018/1724 du parlement européen et du conseil du 2 octobre 2018 établissant un portail numérique unique pour donner accès à des informations, à des procédures et à des services d'assistance et de résolution de problèmes et modifiant le Règlement (UE) n° 1024/2012

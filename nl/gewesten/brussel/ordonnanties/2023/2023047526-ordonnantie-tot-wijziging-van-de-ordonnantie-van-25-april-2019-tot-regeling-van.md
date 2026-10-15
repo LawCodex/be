@@ -12,7 +12,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/11/23/2023047526/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2023. - Ordonnantie tot wijziging van de ordonnantie van 25 april 2019 tot regeling van de toekenning van gezinsbijslag

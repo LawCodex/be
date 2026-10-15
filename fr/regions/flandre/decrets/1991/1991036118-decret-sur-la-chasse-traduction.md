@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "art. 12, 17 et 25 modifiés avec effet à une date indéterminée par DCFL 2004-05-07/63 , art. 24 à 26, abrogés par DCFL 2005-12-23/57 , art. 5; En vigueur : 31-03-2006, 004; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 29-12-2001 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 1991. - Décret sur la chasse. (Traduction)

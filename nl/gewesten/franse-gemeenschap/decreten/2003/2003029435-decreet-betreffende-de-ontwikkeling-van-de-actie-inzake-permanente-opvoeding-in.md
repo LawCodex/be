@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/07/17/2003029435/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 26-08-2003 en tekstbijwerking tot 09-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2003. - [Decreet betreffende de ontwikkeling van de actie inzake permanente opvoeding in het kader van het verenigingsleven]. &lt;DFG 2018-11-14/07 , art. 1, 012; Inwerkingtreding : 01-01-2019&gt;

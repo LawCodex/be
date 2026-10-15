@@ -13,7 +13,7 @@ entry_into_force: 2019-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/03/2019012827/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2019. - Decreet houdende wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat de toegang tot een betalende niet-lineaire televisiedienst betreft

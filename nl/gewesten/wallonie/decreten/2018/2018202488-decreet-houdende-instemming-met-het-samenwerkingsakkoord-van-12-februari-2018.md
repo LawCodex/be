@@ -13,7 +13,7 @@ entry_into_force: 2018-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/04/26/2018202488/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2018. - Decreet houdende instemming met het samenwerkingsakkoord van 12 februari 2018 gesloten tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de verdeling van de Belgische klimaat- en energiedoelstellingen voor de periode 2013-2020

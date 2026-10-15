@@ -13,7 +13,7 @@ entry_into_force: 2013-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/07/2013203761/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 2013. - DECRET portant assentiment : 1° à la Convention entre le Royaume de Belgique et le Japon tendant à éviter les double impositions en matière d'impôts sur le revenu, signée à Tokyo le 28 mars 1968, telle que modifiée par le Protocole du 9 novembre 1988 et le Protocole du 26 janvier 2010; 2° au Protocole modifiant la Convention visée au 1°, telle que modifiée, signé à Bruxelles le 26 janvier 2010

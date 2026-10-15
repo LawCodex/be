@@ -13,7 +13,7 @@ entry_into_force: 2013-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/25/2014203086/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Bijzonder decreet houdende wijziging van de regeling met betrekking tot de commissies van beroep in de publiekrechtelijke hogescholen en van de regeling met betrekking tot de verkiezing van sommige leden van het bestuurscollege van de Universiteit Gent

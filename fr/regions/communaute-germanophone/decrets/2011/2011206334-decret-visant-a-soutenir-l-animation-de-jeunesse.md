@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/06/2011206334/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 13-01-2012 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2011. - Décret visant à soutenir l'animation de jeunesse

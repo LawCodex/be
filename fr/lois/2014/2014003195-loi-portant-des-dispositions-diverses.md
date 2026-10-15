@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/25/2014003195/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 07-05-2014 et mise à jour au 28-12-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Loi portant des dispositions diverses

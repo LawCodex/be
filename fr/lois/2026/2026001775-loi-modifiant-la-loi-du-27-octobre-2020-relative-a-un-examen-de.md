@@ -12,7 +12,7 @@ entry_into_force: 2026-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/02/22/2026001775/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 2026. - Loi modifiant la loi du 27 octobre 2020 relative à un examen de proportionnalité préalable à l'adoption ou la modification d'une réglementation de profession

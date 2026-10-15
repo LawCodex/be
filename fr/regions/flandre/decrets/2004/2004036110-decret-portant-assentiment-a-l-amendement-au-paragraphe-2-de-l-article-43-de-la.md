@@ -13,7 +13,7 @@ entry_into_force: 2004-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036110/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant assentiment à l'amendement au paragraphe 2, de l'article 43, de la Convention relative aux droits de l'enfant, adopté à la Conférence des Etats parties le 12 décembre 1995 (TRADUCTION).

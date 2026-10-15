@@ -12,7 +12,7 @@ entry_into_force: 2006-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/08/22/2006015144/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AOUT 2006. - Loi portant assentiment à la Convention d'assistance mutuelle administrative en matière douanière entre le Gouvernement du Royaume de Belgique et le Gouvernement de la Fédération de Russie, signée à Bruxelles le 2 octobre 2001.

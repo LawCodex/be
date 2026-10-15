@@ -13,7 +13,7 @@ entry_into_force: 2018-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/04/27/2018030912/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2018. - Décret relatif au travail intérimaire dans les services publics flamands et les administrations locales

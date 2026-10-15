@@ -13,7 +13,7 @@ entry_into_force: 2014-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/01/30/2014031139/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2014. - Ordonnantie houdende instemming met : - de wijziging aan het Internationaal Verdrag van 7 maart 1966 inzake de uitbanning van alle vormen van rassendiscriminatie; - de wijziging aan het Internationaal Verdrag van 18 december 1979 inzake de uitbanning van alle vormen van discriminatie tegen vrouwen; en - de wijzigingen aan het Internationaal Verdrag van 10 december 1984 tegen foltering en andere wrede, onmenselijke of onterende behandelingen

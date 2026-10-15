@@ -11,7 +11,7 @@ published: 1980-08-23
 entry_into_force: 1980-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1980/07/23/1980072303/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 1980. - Loi instituant une Commission royale chargée de préparer la codification, l'harmonisation et la simplification de la législation relative à la sécurité sociale dans le cadre de la réforme globale de cette législation.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/06/21/2012031540/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 05-07-2012 et mise à jour au 13-01-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2012. - Ordonnance relative à la promotion de la santé dans la pratique du sport, à l'interdiction du dopage et à sa prévention (citée comme : l'ordonnance antidopage du 21 juin 2012)

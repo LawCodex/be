@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/12/24/2005035538/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 2004. - Décret contenant le budget général des dépenses de la Communauté flamande pour l'année budgétaire 2005 (TRADUCTION).

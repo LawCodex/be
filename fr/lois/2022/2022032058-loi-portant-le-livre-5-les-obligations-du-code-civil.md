@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/04/28/2022032058/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2022. - Loi portant le livre 5 " Les obligations " du Code civil

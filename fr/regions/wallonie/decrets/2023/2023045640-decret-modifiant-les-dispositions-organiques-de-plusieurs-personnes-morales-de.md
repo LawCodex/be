@@ -13,7 +13,7 @@ entry_into_force: 2023-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/28/2023045640/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2023. - Décret modifiant les dispositions organiques de plusieurs personnes morales de droit public dépendant de la Région wallonne en ce qui concerne le régime des mandats

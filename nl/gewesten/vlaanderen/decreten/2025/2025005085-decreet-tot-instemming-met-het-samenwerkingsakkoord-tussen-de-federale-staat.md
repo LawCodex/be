@@ -13,7 +13,7 @@ entry_into_force: 2025-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/06/27/2025005085/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2025. - Decreet tot instemming met het samenwerkingsakkoord tussen de Federale Staat, het Waalse Gewest, het Vlaamse Gewest, het Brusselse Hoofdstedelijk Gewest en de Duitstalige Gemeenschap houdende de creatie van een elektronisch platform inzake de gecombineerde verblijfsaanvraagprocedure met het oog op de tewerkstelling van buitenlandse werknemers, de aanvraagprocedure voor buitenlandse werknemers en zelfstandigen en in het kader van de coördinatie van het beleid inzake de tewerkstelling en het verblijf van buitenlandse werknemers en zelfstandigen

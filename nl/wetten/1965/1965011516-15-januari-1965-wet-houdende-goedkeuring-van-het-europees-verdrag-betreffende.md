@@ -11,7 +11,7 @@ published: 1965-03-24
 entry_into_force: 1965-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1965/01/15/1965011516/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 1965. \_ Wet houdende goedkeuring van het Europees Verdrag betreffende de voor octrooi-aanvragen voorgeschreven formaliteiten en van de bijlagen, ondertekend op 11 december 1953, te Parijs.

@@ -12,7 +12,7 @@ entry_into_force: 2003-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/04/2003009467/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2003. - Wet tot wijziging van de wet van 24 februari 1921 betreffende het verhandelen van de giftstoffen, slaapmiddelen en verdovende middelen, ontsmettingsstoffen en antiseptica, en van artikel 137 van het Wetboek van strafvordering.

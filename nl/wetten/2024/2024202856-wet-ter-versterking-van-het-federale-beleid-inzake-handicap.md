@@ -12,7 +12,7 @@ entry_into_force: 2024-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/07/2024202856/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2024. - Wet ter versterking van het federale beleid inzake handicap

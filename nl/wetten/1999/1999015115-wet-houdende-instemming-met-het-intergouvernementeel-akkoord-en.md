@@ -12,7 +12,7 @@ entry_into_force: 1998-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/13/1999015115/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 1999. - Wet houdende instemming met het Intergouvernementeel Akkoord en Uitvoeringsprotocol over een gemeenschappelijke interpretatie van de Protocollen met betrekking tot de monetaire associatie tussen België en Luxemburg vanaf de overgang naar de derde fase van de Economische en de Monetaire Unie, ondertekend te Brussel op 23 november 1998.

@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/02/07/2024001600/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 2024. - Loi portant le livre 6 " La responsabilité extracontractuelle " du Code civil

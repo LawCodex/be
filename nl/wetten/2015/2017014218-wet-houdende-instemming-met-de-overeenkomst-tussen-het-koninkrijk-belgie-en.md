@@ -12,7 +12,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/26/2017014218/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBER 2015. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en Montenegro inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het diplomatiek en consulair personeel, gedaan te Brussel op 9 juni 2010

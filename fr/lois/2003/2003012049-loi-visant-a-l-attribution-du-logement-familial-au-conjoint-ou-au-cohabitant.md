@@ -12,7 +12,7 @@ entry_into_force: 2003-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/28/2003012049/justel"
 department: "Emploi, Travail et Concertation sociale - Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 2003. - Loi visant à l'attribution du logement familial au conjoint ou au cohabitant légal victime d'actes de violence physique de son partenaire, et complétant l'article 410 du Code pénal.

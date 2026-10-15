@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/13/2019A12168/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 14-05-2019 et mise à jour au 29-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 2019. - CODE CIVIL - LIVRE 8 : " La preuve "

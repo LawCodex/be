@@ -12,7 +12,7 @@ entry_into_force: 2011-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/09/30/2005015144/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 SEPTEMBRE 2005. - Loi portant assentiment au Deuxième Protocole relatif à la Convention de La Haye de 1954 pour la protection des biens culturels en cas de conflit armé, fait à La Haye le 26 mars 1999

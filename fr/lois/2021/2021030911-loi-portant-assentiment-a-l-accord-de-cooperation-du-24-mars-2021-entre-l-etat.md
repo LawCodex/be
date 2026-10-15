@@ -12,7 +12,7 @@ entry_into_force: 2021-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/04/08/2021030911/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 AVRIL 2021. - Loi portant assentiment à l'accord de coopération du 24 mars 2021 entre l'Etat fédéral, la Communauté flamande, la Région wallonne, la Communauté germanophone et la Commission communautaire commune concernant le transfert de données nécessaires aux entités fédérées, aux autorités locales ou aux services de police en vue du respect de l'application de la quarantaine ou du test de dépistage obligatoires des voyageurs en provenance de zones étrangères et soumis à une quarantaine ou à un test de dépistage obligatoires à leur arrivée en Belgique

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/15/2008029169/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 01-04-2008 et mise à jour au 02-08-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2008. - [ Décret instituant un conseil supérieur et des conseils zonaux des centres psycho-médico-sociaux] &lt;DCFR 2013-10-17/03 , art. 76, 002; En vigueur : 01-09-2013&gt;

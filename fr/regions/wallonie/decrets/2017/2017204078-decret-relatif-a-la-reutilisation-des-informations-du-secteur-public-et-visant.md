@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/12/2017204078/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 15-12-2022 et mise à jour au 15-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2017. - Décret relatif à la réutilisation des informations du secteur public et visant à l'établissement d'une politique de données ouvertes ("Open Data")

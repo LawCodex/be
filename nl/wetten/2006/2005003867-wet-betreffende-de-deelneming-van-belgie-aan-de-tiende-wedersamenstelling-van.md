@@ -12,7 +12,7 @@ entry_into_force: 2006-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/03/05/2005003867/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2006. - Wet betreffende de deelneming van België aan de tiende wedersamenstelling van de middelen van het Afrikaans Ontwikkelingsfonds.

@@ -13,7 +13,7 @@ entry_into_force: 2025-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2026/02/12/2026001203/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2026. - Ordonnance concernant l'indexation de certains éléments du financement des établissements pour aînés, des centres de rééducation fonctionnelle et des équipes multidisciplinaires d'accompagnement en soins palliatifs

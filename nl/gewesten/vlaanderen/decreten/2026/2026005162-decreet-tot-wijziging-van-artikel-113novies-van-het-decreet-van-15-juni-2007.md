@@ -13,7 +13,7 @@ entry_into_force: 2026-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/26/2026005162/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2026. - Decreet tot wijziging van artikel 113novies van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, wat betreft het inschrijvingsgeld voor de taalopleiding Frans, Engels en Duits en tot wijziging van artikel 8 van het besluit van de Vlaamse Regering van 7 oktober 2022 over de NT2-test in het volwassenenonderwijs, wat betreft de overgangsmaatregel voor de ontwikkeling van de mondelinge onderdelen van de NT2-test op het taalniveau B1

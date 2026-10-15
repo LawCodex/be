@@ -13,7 +13,7 @@ entry_into_force: 2008-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/02/01/2008200861/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2008. - Decreet tot wijziging van het havendecreet van 2 maart 1999 in relatie met het gemeentedecreet.

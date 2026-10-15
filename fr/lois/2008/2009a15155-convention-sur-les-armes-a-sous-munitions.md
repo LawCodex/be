@@ -12,7 +12,7 @@ entry_into_force: 2010-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/05/30/2009A15155/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2008. - Convention sur les armes à sous-munitions

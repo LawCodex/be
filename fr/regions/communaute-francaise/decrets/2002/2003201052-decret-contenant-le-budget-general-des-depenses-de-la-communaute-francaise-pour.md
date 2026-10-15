@@ -13,7 +13,7 @@ entry_into_force: 2003-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/19/2003201052/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2002. - Décret contenant le budget général des dépenses de la Communauté française pour l'année budgétaire 2003.

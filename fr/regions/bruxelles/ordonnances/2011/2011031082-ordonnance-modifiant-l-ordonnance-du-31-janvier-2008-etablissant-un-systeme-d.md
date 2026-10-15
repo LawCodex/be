@@ -13,7 +13,7 @@ entry_into_force: 2011-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/02/03/2011031082/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2011. - Ordonnance modifiant l'ordonnance du 31 janvier 2008 établissant un système d'échange de quotas d'émission de gaz à effet de serre et relatif aux mécanismes de flexibilité du Protocole de Kyoto

@@ -12,7 +12,7 @@ entry_into_force: 1998-01-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/11/13/1997022922/justel"
 department: "Sociale Voorzorg - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 1997. - Wet tot wijziging van het koninklijk besluit nr. 78 van 10 november 1967 betreffende de uitoefening van de geneeskunst, de verpleegkunde, de paramedische beroepen en de geneeskundige commissies.

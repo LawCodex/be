@@ -12,7 +12,7 @@ entry_into_force: 1999-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/27/1999009595/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 1999. - Wet tot wijziging van de wet van 8 april 1965 betreffende de jeugdbescherming met betrekking tot de oproeping bij proces-verbaal in jeugdzaken.

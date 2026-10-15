@@ -12,7 +12,7 @@ entry_into_force: 2005-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/04/13/2005009313/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 2005. - Wet tot wijziging van artikel 45bis, § 2, van de wet van 15 juni 1935 op het gebruik der talen in gerechtszaken, van de wet van 15 juli 1970 tot vaststelling van de personeelsformatie van de rechtbanken van koophandel en tot wijziging van de wet van 10 oktober 1967 houdende het Gerechtelijk Wetboek en van artikel 205 van het Gerechtelijk Wetboek.

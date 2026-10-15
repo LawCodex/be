@@ -13,7 +13,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/13/2008029117/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2007. - Decreet houdende verschillende maatregelen inzake onderwijs (VERTALING).

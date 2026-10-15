@@ -13,7 +13,7 @@ entry_into_force: 2008-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/07/03/2008031361/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2008. - Ordonnance portant assentiment au protocole à la Convention du 25 juin 1998 sur l'accès à l'information, la participation du public au processus décisionnel et l'accès à la justice en matière d'environnement, portant sur les registres des rejets et transferts de polluants, fait à Kiev, le 21 mai 2003.

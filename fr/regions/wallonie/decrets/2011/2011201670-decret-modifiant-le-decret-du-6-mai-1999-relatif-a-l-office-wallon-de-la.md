@@ -13,7 +13,7 @@ entry_into_force: 2011-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/03/31/2011201670/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2011. - Décret modifiant le décret du 6 mai 1999 relatif à l'Office wallon de la Formation professionnelle et de l'Emploi en vue d'instituer un comité stratégique, un bureau exécutif unique et un comité d'audit

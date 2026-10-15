@@ -13,7 +13,7 @@ entry_into_force: 2020-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/12/17/2019042895/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2019. - Ordonnance portant assentiment à l'Accord de partenariat stratégique entre l'Union européenne et ses Etats membres, d'une part, et le Japon, d'autre part, fait à Tokyo le 17 juillet 2018

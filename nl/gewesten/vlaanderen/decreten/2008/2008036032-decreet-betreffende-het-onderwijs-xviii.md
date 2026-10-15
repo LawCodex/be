@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/04/2008036032/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 01-09-2008 en tekstbijwerking tot 13-02-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2008. - Decreet betreffende het onderwijs XVIII

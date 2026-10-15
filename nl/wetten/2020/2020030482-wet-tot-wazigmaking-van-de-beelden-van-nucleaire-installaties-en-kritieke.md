@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/03/23/2020030482/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 02-04-2020 en tekstbijwerking tot 23-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2020. - Wet tot wazigmaking van de beelden van nucleaire installaties en kritieke inrichtingen, en tot inperking van het maken of verspreiden van luchtfoto's van die installaties en inrichtingen, in het belang van de openbare veiligheid

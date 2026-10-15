@@ -12,7 +12,7 @@ entry_into_force: 2006-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/20/2006000431/justel"
 department: "Justice - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2006. - Loi portant modification de divers textes relatifs à la police intégrée.

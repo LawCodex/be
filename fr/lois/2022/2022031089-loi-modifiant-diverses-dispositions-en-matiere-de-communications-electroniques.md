@@ -12,7 +12,7 @@ entry_into_force: 2022-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/17/2022031089/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2022. - Loi modifiant diverses dispositions en matière de communications électroniques en vue d'introduire des mesures de sécurité supplémentaires pour la fourniture de services mobiles 5G

@@ -13,7 +13,7 @@ last_amended: 2026-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1940/05/13/1940051350/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-08-1996 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 1940. - Besluitwet betreffende de verscherping der bestraffing van sommige gedurende den tijd van oorlog gepleegde feiten.

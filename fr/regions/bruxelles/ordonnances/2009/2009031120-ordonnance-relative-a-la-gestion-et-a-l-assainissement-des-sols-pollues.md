@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/03/05/2009031120/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 10-03-2009 et mise à jour au 12-05-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2009. - Ordonnance relative à la gestion et à l'assainissement des sols pollués

@@ -13,7 +13,7 @@ entry_into_force: 2016-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/10/2016036035/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2016. - Décret sanctionnant l'arrêté du Gouvernement flamand du 22 avril 2016 relatif au projet temporaire " schoolbank op de werkplek " (banc d'école sur le lieu de travail) relatif à l'apprentissage dual dans l'enseignement secondaire

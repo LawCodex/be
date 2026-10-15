@@ -12,7 +12,7 @@ entry_into_force: 1998-11-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/01/09/1998010950/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANVIER 1998. - Loi portant assentiment à l'Accord de partenariat et de coopération entre les Communautés européennes et leurs Etats-membres, d'une part, et la République du Kirghize, d'autre part, Annexes I et II, Protocole et Acte final, faits à Bruxelles le 9 février 1995.

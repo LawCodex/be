@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/25/1996029289/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 07-09-1996 en tekstbijwerking tot 09-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JULI 1996. - Decreet betreffende de opdrachten en betrekkingen in de door de Franse Gemeenschap ingerichte of gesubsidieerde Hogescholen (VERTALING).

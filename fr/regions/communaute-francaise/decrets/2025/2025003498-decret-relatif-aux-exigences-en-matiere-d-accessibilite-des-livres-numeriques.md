@@ -13,7 +13,7 @@ entry_into_force: 2025-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/04/24/2025003498/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2025. - Décret relatif aux exigences en matière d'accessibilité des livres numériques

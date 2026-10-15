@@ -13,7 +13,7 @@ entry_into_force: 2004-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/19/2004035523/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2004. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et le Comité international de la Croix-Rouge, signé à Bruxelles le 19 avril 1999 (TRADUCTION).

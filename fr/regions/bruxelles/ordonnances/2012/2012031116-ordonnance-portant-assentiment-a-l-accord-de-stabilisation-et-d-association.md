@@ -13,7 +13,7 @@ entry_into_force: 2012-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/03/01/2012031116/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2012. - Ordonnance portant assentiment à l'Accord de Stabilisation et d'Association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Serbie, d'autre part, et l'Acte final, faits à Luxembourg le 29 avril 2008

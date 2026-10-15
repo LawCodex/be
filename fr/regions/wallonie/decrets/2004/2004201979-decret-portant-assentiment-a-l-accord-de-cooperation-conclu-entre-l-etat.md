@@ -13,7 +13,7 @@ entry_into_force: 2004-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/27/2004201979/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2004. - Décret portant assentiment à l'Accord de coopération conclu entre l'Etat fédéral et la Région wallonne relatif à la mise en place d'un système de déclaration libératoire unique

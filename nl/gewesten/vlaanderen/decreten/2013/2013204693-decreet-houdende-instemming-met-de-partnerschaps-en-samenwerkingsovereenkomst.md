@@ -13,7 +13,7 @@ entry_into_force: 2013-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/19/2013204693/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2013. - Decreet houdende instemming met de partnerschaps- en samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Irak, anderzijds, ondertekend in Brussel op 11 mei 2012

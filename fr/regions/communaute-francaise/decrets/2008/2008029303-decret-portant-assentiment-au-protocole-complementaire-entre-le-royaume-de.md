@@ -13,7 +13,7 @@ entry_into_force: 2008-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/09/2008029303/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2008. - Décret portant assentiment au Protocole complémentaire entre le Royaume de Belgique et l'Agence Européenne de Défense, signé à Bruxelles le 22 juin 2005.

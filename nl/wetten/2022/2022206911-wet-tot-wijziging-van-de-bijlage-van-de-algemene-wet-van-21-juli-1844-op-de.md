@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/20/2022206911/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 22-12-2023 en tekstbijwerking tot 22-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 2022. - Wet tot wijziging van de bijlage van de algemene wet van 21 juli 1844 op de burgerlijke en kerkelijke pensioenen

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/05/06/2009202079/justel"
 department: "Kanselarij van de Eerste Minister - Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 19-05-2009 en tekstbijwerking tot 10-02-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2009. - Wet houdende diverse bepalingen betreffende asiel en immigratie.

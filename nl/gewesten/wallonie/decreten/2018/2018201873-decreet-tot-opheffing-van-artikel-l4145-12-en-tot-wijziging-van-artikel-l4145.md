@@ -13,7 +13,7 @@ entry_into_force: 2018-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/29/2018201873/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2018. - Decreet tot opheffing van artikel L4145-12 en tot wijziging van artikel L4145-20 van het Wetboek van de plaatselijke democratie en decentralisatie wat betreft de lokale verkiezingen

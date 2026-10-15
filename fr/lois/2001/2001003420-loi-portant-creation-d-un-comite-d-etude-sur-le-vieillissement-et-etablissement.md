@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/09/05/2001003420/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 14-09-2001 et mise à jour au 20-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 SEPTEMBRE 2001. - [Loi portant création d'un Comité d'étude sur le vieillissement et établissement d'une note sur le vieillissement] &lt;Intitulé remplacé par L 2016-12-18/01 , art. 63, 005; En vigueur : 01-01-2017&gt;

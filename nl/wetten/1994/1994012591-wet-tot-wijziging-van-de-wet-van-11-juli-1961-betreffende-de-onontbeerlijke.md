@@ -12,7 +12,7 @@ entry_into_force: 1992-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/07/07/1994012591/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 1994. - Wet tot wijziging van de wet van 11 juli 1961 betreffende de onontbeerlijke veiligheidswaarborgen welke de machines, de onderdelen van machines, het materieel, de werktuigen, de toestellen en de recipiënten moeten bieden.

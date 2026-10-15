@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/30/2006029101/justel"
 department: "Franse Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 14-08-2006 en tekstbijwerking tot 22-02-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2006. - Decreet tot modernisering van de werking en de financiering van de hogescholen (VERTALING).

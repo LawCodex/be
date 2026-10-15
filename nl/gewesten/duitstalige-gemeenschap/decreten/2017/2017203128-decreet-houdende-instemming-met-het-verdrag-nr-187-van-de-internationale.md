@@ -13,7 +13,7 @@ entry_into_force: 2017-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/05/29/2017203128/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2017. - Decreet houdende instemming met het verdrag nr. 187 van de Internationale Arbeidsorganisatie inzake het promotioneel kader voor de veiligheid en gezondheid op het werk, gedaan te Genève op 15 juni 2006

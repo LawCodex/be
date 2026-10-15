@@ -12,7 +12,7 @@ entry_into_force: 1994-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/12/30/1994000033/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 1993. - Loi portant modification de la limite entre la ville de Huy et la commune de Modave.

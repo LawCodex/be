@@ -11,7 +11,7 @@ published: 1865-03-19
 entry_into_force: 1865-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1865/03/16/1865031650/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 1865. \_ Loi qui institue une caisse générale d'épargne et de retraite.

@@ -13,7 +13,7 @@ entry_into_force: 2007-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/22/2007203478/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2007. - Décret portant assentiment à l'Accord modifiant l'Accord de partenariat entre les membres du Groupe des Etats d'Afrique, des Caraïbes et du Pacifique, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, signé à Cotonou, le 23 juin 2000, fait à Luxembourg, le 25 juin 2005.

@@ -12,7 +12,7 @@ entry_into_force: 2022-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/02/2022041547/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2022. - Loi relative aux interventions de l'Etat afin de couvrir certains risques exclus dans des assurances solde restant dû conclues par des militaires ou civils, en cas de décès par le fait du service

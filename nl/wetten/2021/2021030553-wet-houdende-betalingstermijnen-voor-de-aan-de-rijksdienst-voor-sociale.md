@@ -12,7 +12,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/03/14/2021030553/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2021. - Wet houdende betalingstermijnen voor de aan de Rijksdienst voor Sociale Zekerheid verschuldigde bijdragen voor het eerste en tweede kwartaal 2021

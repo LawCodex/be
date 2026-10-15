@@ -13,7 +13,7 @@ entry_into_force: 2011-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/08/2011203720/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2011. - Décret portant exécution de la Directive 2009/28/CE du Parlement européen et du Conseil du 23 avril 2009 relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables et modifiant puis abrogeant les Directives 2001/77/CE et 2003/30/CE

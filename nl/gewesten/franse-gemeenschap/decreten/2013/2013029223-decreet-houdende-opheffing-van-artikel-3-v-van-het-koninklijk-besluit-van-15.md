@@ -13,7 +13,7 @@ entry_into_force: 2013-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/02/07/2013029223/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 FEBRUARI 2013. - Decreet houdende opheffing van artikel 3.V van het koninklijk besluit van 15 december 1973 houdende bepaling van de splitsings- en hergroeperingsnormen van studiejaren in het secundair technisch onderwijs, in het technisch, economisch, agrarisch, paramedisch, sociaal, pedagogisch en kunst hoger onderwijs van het korte type, in het technisch en agrarisch hoger onderwijs van de tweede graad en het decreet van 12 maart 1990 tot vaststelling van het aantal lestijden beroepspraktijk in het sociaal hoger onderwijs van het korte type met volledig leerplan en van het decreet van 24 december 1990 tot oprichting van een Commissie voor toezicht op de wetgeving betreffende de Franse taal

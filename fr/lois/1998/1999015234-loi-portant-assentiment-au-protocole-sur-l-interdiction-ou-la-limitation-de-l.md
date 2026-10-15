@@ -12,7 +12,7 @@ entry_into_force: 1999-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/08/10/1999015234/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1998. - Loi portant assentiment au Protocole sur l'interdiction ou la limitation de l'emploi des mines, pièges et autres dispositifs, tel qu'il a été modifié le 3 mai 1996 (Protocole II tel qu'il a été modifié le 3 mai 1996), annexé à la Convention sur l'interdiction ou la limitation de l'emploi de certaines armes classiques qui peuvent être considérées comme produisant des effets traumatiques excessifs ou comme frappant sans discrimination, adopté à Genève le 3 mai 1996.

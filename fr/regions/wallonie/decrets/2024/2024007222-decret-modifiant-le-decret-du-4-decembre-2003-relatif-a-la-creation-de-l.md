@@ -13,7 +13,7 @@ entry_into_force: 2024-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/11/2024007222/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2024. - Décret modifiant le décret du 4 décembre 2003 relatif à la création de l'Institut wallon de l'évaluation, de la prospective et de la statistique

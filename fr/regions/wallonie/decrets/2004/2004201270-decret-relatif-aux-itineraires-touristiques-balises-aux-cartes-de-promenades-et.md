@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/01/2004201270/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 06-09-2005 et mise à jour au 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2004. - Décret relatif aux itinéraires touristiques balisés, aux cartes de promenades et aux descriptifs de promenades.

@@ -12,7 +12,7 @@ entry_into_force: 1995-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/12/01/1995009927/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 1995. - Wet betreffende de verlenging van bepaalde huurovereenkomsten.

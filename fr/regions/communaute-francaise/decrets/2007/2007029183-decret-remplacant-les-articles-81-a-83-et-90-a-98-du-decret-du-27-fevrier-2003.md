@@ -13,7 +13,7 @@ entry_into_force: 2007-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/02/2007029183/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2007. - Décret remplaçant les articles 81 à 83 et 90 à 98 du décret du 27 février 2003 sur la radiodiffusion, annulés par la Cour d'arbitrage le 8 novembre 2006

@@ -12,7 +12,7 @@ entry_into_force: 1995-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/11/1999015188/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 1998. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et la Conférence de la Charte de l'Energie, signé à Bruxelles le 26 octobre 1995

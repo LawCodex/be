@@ -10,7 +10,7 @@ date: 1978-02-20
 published: 1978-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1978/02/20/1978022002/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 1978. \_ Wet op de rijkstoelagen voor sommige investeringen van openbaar nut.

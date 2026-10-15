@@ -13,7 +13,7 @@ entry_into_force: 2026-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2026/03/28/2026002535/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2026. - Ordonnance de finances ouvrant des crédits provisoires pour les mois d'avril et de mai 2026 sur le budget de la Commission communautaire commune pour l'année budgétaire 2026

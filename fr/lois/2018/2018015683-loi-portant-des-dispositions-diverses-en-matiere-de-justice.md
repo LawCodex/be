@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/12/21/2018015683/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2018 et mise à jour au 24-12-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2018. - Loi portant des dispositions diverses en matière de justice

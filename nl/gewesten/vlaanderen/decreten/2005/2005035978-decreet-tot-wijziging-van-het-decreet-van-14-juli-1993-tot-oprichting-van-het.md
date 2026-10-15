@@ -13,7 +13,7 @@ entry_into_force: 2005-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/15/2005035978/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2005. - Decreet tot wijziging van het decreet van 14 juli 1993 tot oprichting van het Grindfonds en tot regeling van de grindwinning.

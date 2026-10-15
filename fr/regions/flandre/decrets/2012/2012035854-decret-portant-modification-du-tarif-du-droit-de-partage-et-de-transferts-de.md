@@ -13,7 +13,7 @@ entry_into_force: 2012-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/13/2012035854/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2012. - Décret portant modification du tarif du droit de partage et de transferts de même ordre

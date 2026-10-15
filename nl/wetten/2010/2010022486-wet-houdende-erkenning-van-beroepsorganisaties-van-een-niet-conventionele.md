@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/11/19/2010022486/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2025 en tekstbijwerking tot 31-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2010. - Wet houdende erkenning van beroepsorganisaties van een niet-conventionele praktijk of van een praktijk die in aanmerking kan komen om als niet-conventionele gekwalificeerd te worden

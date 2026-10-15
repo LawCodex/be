@@ -13,7 +13,7 @@ entry_into_force: 2026-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/05/22/2026004195/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2026. - Décret modifiant la loi du 28 décembre 1964 relative à la lutte contre la pollution atmosphérique et le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement

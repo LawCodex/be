@@ -12,7 +12,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/11/27/2002003512/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2002. - Loi modifiant l'article 219 du Code des impôts sur les revenus 1992.

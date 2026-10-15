@@ -12,7 +12,7 @@ entry_into_force: 2015-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/19/2014011325/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2014. - Loi organisant les recours contre certaines décisions de la FSMA prises par application du livre VII ou du livre XV du Code de droit économique et modifiant la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers

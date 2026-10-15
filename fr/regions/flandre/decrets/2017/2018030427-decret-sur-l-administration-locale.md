@@ -17,7 +17,7 @@ department: "Autorité flamande"
 justel_notes:
   - "une version française corrigée a fait l'objet d'un erratum au format image non récupérable. La version utilisée est celle publiée initialement en mode texte et consolidée"
   - "Consultation des versions antérieures à partir du 15-02-2018 et mise à jour au 20-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2017. - Décret sur l'administration locale

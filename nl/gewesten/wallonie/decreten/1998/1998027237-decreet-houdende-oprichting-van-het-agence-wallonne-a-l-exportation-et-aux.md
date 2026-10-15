@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/04/02/1998027237/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 10-04-1998 en tekstbijwerking tot 24-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 1998. - Decreet houdende oprichting van het "[Agence wallonne à l'Exportation et aux investissements étrangers]" (Waals Exportagentschap voor uitvoer en Buitenlandse Investeringen) (VERTALING). (Opschrift gewijzigd door DWG 2004-04-01/53 , art. 1, 003; Inwerkingtreding : 01-07-2004)

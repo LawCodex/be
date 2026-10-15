@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/22/2011027010/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 25-01-2011 en tekstbijwerking tot 16-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2010. - Decreet betreffende de verkeersveiligheid en houdende diverse bepalingen inzake wegen en waterwegen

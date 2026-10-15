@@ -12,7 +12,7 @@ entry_into_force: 2003-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/06/14/2017030793/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUNI 2017. - Wet tot wijziging van artikel 36bis van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens

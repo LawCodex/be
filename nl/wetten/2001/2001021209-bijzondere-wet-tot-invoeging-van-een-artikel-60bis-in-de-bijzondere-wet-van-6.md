@@ -12,7 +12,7 @@ entry_into_force: 2001-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/04/02/2001021209/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2001. - Bijzondere wet tot invoeging van een artikel 60bis in de bijzondere wet van 6 januari 1989 op het Arbitragehof.

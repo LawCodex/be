@@ -11,7 +11,7 @@ published: 1976-02-11
 entry_into_force: 1976-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/02/06/1976020601/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 1976. \_ Wet houdende wijziging van sommige bepalingen inzake het sociaal statuut der zelfstandigen.

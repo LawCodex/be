@@ -12,7 +12,7 @@ entry_into_force: 2008-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/07/24/2008009638/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 2008. - Wet tot wijziging van de wet van 31 januari 2007 inzake de gerechtelijke opleiding en tot oprichting van het Instituut voor gerechtelijke opleiding.

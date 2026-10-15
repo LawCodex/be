@@ -13,7 +13,7 @@ entry_into_force: 2007-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/10/30/2006033111/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OKTOBER 2006. - Decreet houdende instemming met het Verdrag betreffende de bescherming en de bevordering van de diversiteit van cultuuruitingen, gedaan te Parijs op 20 oktober 2005 (VERTALING).

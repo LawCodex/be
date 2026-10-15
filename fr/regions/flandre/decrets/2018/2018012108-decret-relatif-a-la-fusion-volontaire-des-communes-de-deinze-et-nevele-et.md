@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/04/2018012108/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 01-06-2018 et mise à jour au 15-06-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2018. - Décret relatif à la fusion volontaire des communes de Deinze et Nevele et modifiant l'annexe au décret du 5 juillet 2002 réglant la dotation et la répartition du Fonds flamand des Communes et l'annexe au Décret portant organisation des élections locales et provinciales du 8 juillet 2011

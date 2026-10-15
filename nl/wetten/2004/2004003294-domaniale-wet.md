@@ -12,7 +12,7 @@ entry_into_force: 2004-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/04/2004003294/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2004. - Domaniale wet.

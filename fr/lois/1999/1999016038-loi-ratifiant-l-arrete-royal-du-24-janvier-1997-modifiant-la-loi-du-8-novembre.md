@@ -12,7 +12,7 @@ entry_into_force: 1999-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/21/1999016038/justel"
 department: "Classes Moyennes - Agriculture"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JANVIER 1999. - Loi ratifiant l'arrêté royal du 24 janvier 1997 modifiant la loi du 8 novembre 1993 protégeant le titre de psychologue afin de mettre en oeuvre la directive 89/48/CEE du Conseil du 21 décembre 1988 relative à un système général de reconnaissance des diplômes d'enseignement supérieur qui sanctionnent des formations professionnelles d'une durée minimale de trois ans.

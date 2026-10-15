@@ -11,7 +11,7 @@ published: 1956-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1956/05/15/1956051501/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 1956. - Wet betreffende de diensten voor personeelszorg.

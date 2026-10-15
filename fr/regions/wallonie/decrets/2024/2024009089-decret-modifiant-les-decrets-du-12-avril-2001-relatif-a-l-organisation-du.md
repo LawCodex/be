@@ -13,7 +13,7 @@ entry_into_force: 2024-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/25/2024009089/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2024. - Décret modifiant les décrets du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité, du 19 décembre 2002 relatif à l'organisation du marché régional du gaz, du 19 janvier 2017 relatif à la méthodologie tarifaire applicable aux gestionnaires de réseaux de distribution de gaz et d'électricité et du 17 décembre 2020 relatif à l'octroi d'une prime pour l'installation d'équipements de mesurage et de pilotage

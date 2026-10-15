@@ -12,7 +12,7 @@ entry_into_force: 2026-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/03/16/2026002394/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2026. - Wet tot omzetting van Richtlijn (EU) 2023/2226 van de Raad van 17 oktober 2023 tot wijziging van Richtlijn 2011/16/EU betreffende de administratieve samenwerking op het gebied van de belastingen en tot aanpassing van het bestaande kader inzake administratieve samenwerking op het gebied van de fiscaliteit

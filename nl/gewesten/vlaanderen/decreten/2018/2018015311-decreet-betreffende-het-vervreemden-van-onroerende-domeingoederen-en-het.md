@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/30/2018015311/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 29-03-2024 en tekstbijwerking tot 29-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2018. - Decreet betreffende het vervreemden van onroerende domeingoederen en het vestigen en vervreemden van zakelijke rechten door de Vlaamse Gemeenschap en het Vlaamse Gewest

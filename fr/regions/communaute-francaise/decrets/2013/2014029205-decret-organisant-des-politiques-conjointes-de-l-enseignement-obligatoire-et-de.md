@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/21/2014029205/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 03-04-2014 et mise à jour au 11-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2013. - Décret organisant des politiques conjointes de l'enseignement obligatoire et de l'Aide à la jeunesse en faveur du bien-être des jeunes à l'école, de l'accrochage scolaire, de la prévention de la violence et de l'accompagnement des démarches d'orientation

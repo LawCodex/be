@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/10/22/2003029550/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2003. - Décret relatif au cours de langue moderne modifiant le décret du 13 juillet 1998 portant organisation de l'enseignement maternel et primaire ordinaire et modifiant la réglementation de l'enseignement.

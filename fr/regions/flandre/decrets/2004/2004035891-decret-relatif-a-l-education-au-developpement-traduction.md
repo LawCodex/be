@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/02/2004035891/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2004. - Décret relatif à l'éducation au développement (TRADUCTION).

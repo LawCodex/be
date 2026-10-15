@@ -12,7 +12,7 @@ entry_into_force: 2014-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/21/2014009006/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2013. - Loi modifiant le Code judiciaire en ce qui concerne le compte de qualité des avocats

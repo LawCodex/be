@@ -13,7 +13,7 @@ entry_into_force: 2008-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/03/17/2008033024/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2008. - Decreet houdende instemming met het tweede protocol inzake het verdrag van 'S-Gravenhage van 1954 inzake de bescherming van culturele goederen in geval van een gewapend conflict, gedaan te 's-Gravenhage op 26 maart 1999 (VERTALING).

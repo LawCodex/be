@@ -12,7 +12,7 @@ entry_into_force: 2019-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/02/15/2019040461/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2019. - Loi modifiant la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées

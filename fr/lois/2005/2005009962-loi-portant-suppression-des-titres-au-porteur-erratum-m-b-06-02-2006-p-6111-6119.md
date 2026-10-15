@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/12/14/2005009962/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 23-12-2005 et mise à jour au 08-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2005. - Loi portant suppression des titres au porteur. &lt;Erratum, M.B. 06.02.2006, p. 6111-6119&gt;

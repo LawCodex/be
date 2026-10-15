@@ -12,7 +12,7 @@ entry_into_force: 2005-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/06/10/2014015218/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2014. - Wet houdende instemming met het Akkoord tussen het Koninkrijk België en de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur inzake de vestiging in België van een Project Office van het "International Oceanographic Data and Information Exchange" programma, gedaan te Parijs op 18 juli 2005

@@ -11,7 +11,7 @@ published: 1955-08-19
 entry_into_force: 1955-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1955/08/04/1955080401/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AUGUSTUS 1955. \_ Wet betreffende de veiligheid van de staat op het gebied van de kernenergie.

@@ -12,7 +12,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/04/16/1997003231/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 APRIL 1997. - Wet houdende diverse fiscale bepalingen.

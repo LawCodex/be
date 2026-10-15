@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1976/07/08/1976A70810/justel"
 justel_notes:
   - "Pour les versions de ce texte antérieures au 02-01-2006, voir les archives de L 1976-07-08/01 "
   - "Consultation des versions antérieures à partir du 28-07-2006 et mise à jour au 17-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 1976. - Loi organique des centres publics d'[action sociale]. - Forme valable en Région wallonne. &lt;L 2002-01-07/45 , art. 2; En vigueur : 01-02-2004&gt;

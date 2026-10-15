@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/12/16/1998027702/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-1998 en tekstbijwerking tot 18-11-2000."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 1998. - Programmadecreet houdende verschillende maatregelen inzake belastingen, taksen, afvalwaterzuivering, plaatselijke besturen, ruimtelijke ordening en gewestelijke luchthavens (VERTALING). -

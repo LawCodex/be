@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/05/2013035685/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-07-2013 et mise à jour au 31-05-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2013. - Décret contenant diverses mesures d'accompagnement de l'ajustement du budget 2013

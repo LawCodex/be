@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/22/2023043464/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 25-10-2023 et mise à jour au 09-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2023. - Décret visant à octroyer un complément de périodes dédiées au tronc commun dans l'enseignement primaire ordinaire

@@ -12,7 +12,7 @@ entry_into_force: 2025-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/09/07/2023046826/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBER 2023. - Decreet tot wijziging van het Wetboek van de met inkomstenbelastingen gelijkgestelde belastingen wat betreft de verkeersbelasting op autovoertuigen

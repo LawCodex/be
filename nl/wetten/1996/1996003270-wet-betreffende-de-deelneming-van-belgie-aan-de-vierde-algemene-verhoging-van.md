@@ -12,7 +12,7 @@ entry_into_force: 1996-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/04/15/1996003270/justel"
 department: "Financiën - Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 APRIL 1996. - Wet betreffende de deelneming van België aan de vierde algemene verhoging van het kapitaal van de Aziatische Ontwikkelingsbank.

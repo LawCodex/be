@@ -12,7 +12,7 @@ entry_into_force: 2003-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/01/15/2003015019/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 2003. - Wet houdende instemming met de Partnerschapsovereenkomst tussen de Leden van de Groep van Staten in Afrika, het Caribisch Gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar lid-Staten, anderzijds, en met de Bijlagen I, II, III, IV, V en VI, ondertekend te Cotonou op 23 juni 2000.

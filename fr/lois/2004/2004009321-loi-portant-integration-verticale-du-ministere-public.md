@@ -12,7 +12,7 @@ entry_into_force: 2004-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/04/12/2004009321/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AVRIL 2004. - Loi portant intégration verticale du ministère public.

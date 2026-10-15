@@ -13,7 +13,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/27/2004201826/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2004. - Decreet betreffende de integratie in het "Agence wallonne à l'Exportation" (Waals Exportagentschap) van de naar het Gewest overgeplaatste personeelsleden van de Belgische Dienst voor Buitenlandse Handel (VERTALING).

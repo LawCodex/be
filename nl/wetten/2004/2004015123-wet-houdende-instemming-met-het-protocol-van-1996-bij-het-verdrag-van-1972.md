@@ -12,7 +12,7 @@ entry_into_force: 2006-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/21/2004015123/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2004. - Wet houdende instemming met het Protocol van 1996 bij het Verdrag van 1972 inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afvalstoffen, en met de Bijlagen 1, 2 en 3, gedaan te Londen op 7 november 1996.

@@ -12,7 +12,7 @@ entry_into_force: 2011-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/11/14/2011009768/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 2011. - Loi modifiant la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques

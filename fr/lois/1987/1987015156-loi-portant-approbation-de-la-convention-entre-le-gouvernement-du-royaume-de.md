@@ -12,7 +12,7 @@ entry_into_force: 1987-11-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/07/17/1987015156/justel"
 department: "Affaires étrangères - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 1987. - Loi portant approbation de la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République Populaire de Chine en vue d'éviter les doubles impositions et de prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Beijing le 18 avril 1985.

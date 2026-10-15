@@ -12,7 +12,7 @@ entry_into_force: 2016-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/05/31/2016009219/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2016. - Loi complétant la mise en oeuvre des obligations européennes en matière d'exploitation sexuelle des enfants, de pédopornographie, de traite des êtres humains et d'aide à l'entrée, au transit et au séjour irréguliers

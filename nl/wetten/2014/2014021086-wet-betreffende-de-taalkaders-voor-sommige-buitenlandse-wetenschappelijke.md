@@ -12,7 +12,7 @@ entry_into_force: 2014-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/27/2014021086/justel"
 department: "Wetenschapsbeleid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2014. - [Wet betreffende de taalkaders voor sommige buitenlandse wetenschappelijke medewerkers bij arbeidsovereenkomst in dienst genomen in de federale wetenschappelijke instellingen]

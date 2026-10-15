@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/12/21/2018015590/justel"
 department: "Beleid en Ondersteuning"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2018 en tekstbijwerking tot 26-02-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2018. - Financiewet voor het begrotingsjaar 2019

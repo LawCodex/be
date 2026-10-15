@@ -12,7 +12,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/08/16/2016000536/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 AOUT 2016. - Loi modifiant les lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973, en vue de la publication des avis de la section de législation

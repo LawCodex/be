@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/07/20/2015003267/justel"
 department: "Begroting en Beheerscontrole"
 justel_note: "Raadpleging van vroegere versies vanaf 29-07-2015 en tekstbijwerking tot 30-12-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2015. - Wet houdende de aanpassing van de Middelenbegroting voor het begrotingsjaar 2015

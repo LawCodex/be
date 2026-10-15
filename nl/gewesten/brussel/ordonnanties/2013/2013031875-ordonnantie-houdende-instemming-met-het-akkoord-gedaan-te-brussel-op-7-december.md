@@ -11,7 +11,7 @@ date: 2013-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/11/07/2013031875/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2013. - Ordonnantie houdende instemming met het Akkoord, gedaan te Brussel op 7 december 2009, tussen het Koninkrijk België en Antigua en Barbuda inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden

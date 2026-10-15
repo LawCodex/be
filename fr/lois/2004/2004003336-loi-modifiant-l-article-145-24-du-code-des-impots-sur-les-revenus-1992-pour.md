@@ -12,7 +12,7 @@ entry_into_force: 2004-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/31/2004003336/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2004. - Loi modifiant l'article 145/24 du Code des impôts sur les revenus 1992 pour encourager davantage l'utilisation plus rationnelle de l'énergie dans les habitations.

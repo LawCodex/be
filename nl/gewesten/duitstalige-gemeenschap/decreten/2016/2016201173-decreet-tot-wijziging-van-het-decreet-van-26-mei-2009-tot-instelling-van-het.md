@@ -13,7 +13,7 @@ entry_into_force: 2016-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/01/25/2016201173/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2016. - Decreet tot wijziging van het decreet van 26 mei 2009 tot instelling van het ambt van ombudsman voor de Duitstalige Gemeenschap

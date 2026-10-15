@@ -10,7 +10,7 @@ date: 2017-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/09/03/2017031114/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBER 2017. - Wet tot wijziging van de wet van 15 mei 1984 houdende maatregelen tot harmonisering in de pensioenregelingen

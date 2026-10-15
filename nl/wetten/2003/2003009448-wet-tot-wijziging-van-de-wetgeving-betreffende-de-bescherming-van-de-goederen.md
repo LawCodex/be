@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/03/2003009448/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2003 en tekstbijwerking tot 31-12-2003"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2003. - Wet tot wijziging van de wetgeving betreffende de bescherming van de goederen van personen die wegens hun lichaams- of geestestoestand geheel of gedeeltelijk onbekwaam zijn die te beheren.

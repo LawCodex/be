@@ -13,7 +13,7 @@ entry_into_force: 2022-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/05/05/2022202839/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2022. - Decreet houdende instemming met het samenwerkingsakkoord van 17 juli 2019 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot de eenmaking van de wijze waarop gerefereerd wordt aan adressen en de koppeling van adresgegevens

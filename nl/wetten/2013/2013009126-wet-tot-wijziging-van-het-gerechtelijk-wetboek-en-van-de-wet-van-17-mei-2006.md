@@ -12,7 +12,7 @@ entry_into_force: 2013-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/03/17/2013009126/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2013. - Wet tot wijziging van het Gerechtelijk Wetboek en van de wet van 17 mei 2006 betreffende de externe rechtspositie van veroordeelden tot een vrijheidsstraf en de aan het slachtoffer toegekende rechten in het raam van de strafuitvoeringsmodaliteiten

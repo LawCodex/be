@@ -12,7 +12,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/24/2014011363/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2014. - Wet betreffende de organisatie van de vertegenwoordiging van de zelfstandigen en de kmo's

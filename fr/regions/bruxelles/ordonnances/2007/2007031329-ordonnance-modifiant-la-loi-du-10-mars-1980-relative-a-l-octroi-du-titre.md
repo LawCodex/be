@@ -13,7 +13,7 @@ entry_into_force: 2007-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2007/07/19/2007031329/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2007. - Ordonnance modifiant la loi du 10 mars 1980 relative à l'octroi du titre honorifique de leurs fonctions aux bourgmestres, aux échevins et aux présidents des conseils des centres publics d'aide sociale ou des anciennes commissions d'assistance publique.

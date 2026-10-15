@@ -11,7 +11,7 @@ published: 2013-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/08/25/2012015166/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AUGUSTUS 2012. - Wet houdende instemming met het Memorandum van Overeenstemming inzake de samenwerking op het terrein van de beheersing van crisissen met mogelijke grensoverschrijdende gevolgen tussen het Koninkrijk België, het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg, gedaan te Luxemburg op 1 juni 2006

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/06/12/2003029362/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 18-06-2004 et mise à jour au 23-10-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2003. - Décret définissant et organisant la participation des étudiants au sein des institutions universitaires et instaurant la participation des étudiants au niveau communautaire.

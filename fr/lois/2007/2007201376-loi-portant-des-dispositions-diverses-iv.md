@@ -16,7 +16,7 @@ department: "Chancellerie du Premier Ministre"
 justel_notes:
   - "par son arrêt n° 7/2011 du 27-01-2011 (M.B. 11-03-2011, p. 15991-15995), la Cour Constitutionnelle a annulé les articles 173, 3° et 4°, 200, 202 et 203"
   - "Consultation des versions antérieures à partir du 08-05-2007 et mise à jour au 29-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2007. - Loi portant des dispositions diverses (IV).

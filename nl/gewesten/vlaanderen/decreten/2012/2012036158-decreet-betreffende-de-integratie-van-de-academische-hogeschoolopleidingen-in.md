@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/13/2012036158/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 08-11-2012 en tekstbijwerking tot 27-08-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2012. - Decreet betreffende de integratie van de academische hogeschoolopleidingen in de universiteiten

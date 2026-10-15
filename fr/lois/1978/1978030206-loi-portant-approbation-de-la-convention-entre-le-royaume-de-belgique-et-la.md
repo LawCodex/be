@@ -11,7 +11,7 @@ published: 1978-12-20
 entry_into_force: 1978-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/03/02/1978030206/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 1978. - Loi portant approbation de la Convention entre le Royaume de Belgique et la République de Finlande tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 18 mai 1976.

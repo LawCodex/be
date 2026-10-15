@@ -12,7 +12,7 @@ entry_into_force: 2018-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/09/14/2017011220/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 SEPTEMBER 2016. - Wet houdende instemming met volgende Internationale Akten: 1° het Algemeen Reglement van de Wereldpostvereniging, gedaan te Doha op 11 oktober 2012; 2° de Wereldpostconventie en Slotprotocol, gedaan te Doha op 11 oktober 2012; 3° de Overeenkomst betreffende de uitbetalingsdiensten van de post, gedaan te Doha op 11 oktober 2012

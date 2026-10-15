@@ -13,7 +13,7 @@ entry_into_force: 2012-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/03/01/2012031116/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2012. - Ordonnantie houdende instemming met de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Servië, anderzijds, en met de Slotakte, gedaan te Luxemburg op 29 april 2008

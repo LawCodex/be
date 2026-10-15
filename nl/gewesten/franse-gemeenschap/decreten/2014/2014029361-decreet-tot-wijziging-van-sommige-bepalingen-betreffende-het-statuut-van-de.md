@@ -13,7 +13,7 @@ entry_into_force: 2014-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/11/2014029361/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2014. - Decreet tot wijziging van sommige bepalingen betreffende het statuut van de leden van het administratief personeel, het meester-, vak- en dienstpersoneel van de onderwijsinrichtingen ingericht door de Franse Gemeenschap

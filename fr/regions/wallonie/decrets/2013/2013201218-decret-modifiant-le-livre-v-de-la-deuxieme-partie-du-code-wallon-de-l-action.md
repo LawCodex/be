@@ -13,7 +13,7 @@ entry_into_force: 2014-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/02/21/2013201218/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2013. - Décret modifiant le Livre V de la deuxième partie du Code wallon de l'Action sociale et de la Santé - volet décrétal

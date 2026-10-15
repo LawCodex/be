@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/22/1996035480/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 13-06-1996 et mise à jour au 18-12-1996"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1995. - Décret contenant le budget général des dépenses de la Communauté flamande pour l'année budgétaire 1996.

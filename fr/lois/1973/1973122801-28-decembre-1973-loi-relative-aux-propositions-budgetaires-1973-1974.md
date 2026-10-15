@@ -13,7 +13,7 @@ last_amended: 2001-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1973/12/28/1973122801/justel"
 justel_note: "Consultation des versions antérieures à partir du 29-12-1973 et mise à jour au 21-08-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBRE 1973. \_ Loi relative aux propositions budgétaires 1973-1974.

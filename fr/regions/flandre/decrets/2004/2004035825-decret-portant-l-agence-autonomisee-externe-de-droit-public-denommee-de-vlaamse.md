@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "Intitulé modifié par DCFL 2016-12-23/41 , art. 8, 006; En vigueur : 10-02-2017"
   - "Consultation des versions antérieures à partir du 26-05-2004 et mise à jour au 12-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2004. - Décret portant [ ...] l'agence autonomisée externe de droit public, dénommée "[De Vlaamse Waterweg SA, société anonyme de droit public]" (TRADUCTION).

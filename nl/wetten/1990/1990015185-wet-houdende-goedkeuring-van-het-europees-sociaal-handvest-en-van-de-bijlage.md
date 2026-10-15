@@ -12,7 +12,7 @@ entry_into_force: 1991-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/07/11/1990015185/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 1990. - Wet houdende goedkeuring van het Europees Sociaal Handvest en van de Bijlage, opgemaakt te Turijn op 18 oktober 1961.

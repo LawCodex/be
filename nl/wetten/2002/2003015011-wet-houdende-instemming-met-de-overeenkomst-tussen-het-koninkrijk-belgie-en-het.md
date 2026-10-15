@@ -12,7 +12,7 @@ entry_into_force: 2003-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/03/15/2003015011/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2002. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en het Koninkrijk der Nederlanden tot regeling van het scheepvaartverkeer en van de recreatie op de gemeenschappelijke Maas, ondertekend te Brussel op 6 januari 1993.

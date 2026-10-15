@@ -12,7 +12,7 @@ entry_into_force: 2022-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/04/01/2022202054/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2022. - Wet tot opheffing van de wet van 16 mei 1938 tot regeling van de arbeidsduur in de diamantnijverheid, tot wijziging van het Sociaal Strafwetboek en tot opheffing van twee besluiten met betrekking tot het aanwezigheidsregister in de diamantnijverheid

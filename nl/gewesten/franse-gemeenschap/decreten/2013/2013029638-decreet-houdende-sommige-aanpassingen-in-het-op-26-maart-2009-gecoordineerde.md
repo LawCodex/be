@@ -13,7 +13,7 @@ entry_into_force: 2014-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/10/17/2013029638/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OKTOBER 2013. - Decreet houdende sommige aanpassingen in het op 26 maart 2009 gecoördineerde decreet betreffende de audiovisuele mediadiensten

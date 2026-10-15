@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/06/2001036137/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 10-10-2001 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2001. - Décret contenant diverses mesures d'accompagnement de l'ajustement du budget 2001. (Traduction).

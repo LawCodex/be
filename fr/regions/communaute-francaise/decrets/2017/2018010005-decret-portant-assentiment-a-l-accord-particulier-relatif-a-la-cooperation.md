@@ -13,7 +13,7 @@ entry_into_force: 2018-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/20/2018010005/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2017. - Décret portant assentiment à l'Accord particulier relatif à la coopération universitaire en formation médicale entre le Gouvernement de la Communauté française de Belgique et le Gouvernement du Grand-Duché de Luxembourg, signé à Bruxelles, le 17 juillet 2017, d'une part, et modifiant diverses dispositions en matière d'enseignement supérieur, d'autre part

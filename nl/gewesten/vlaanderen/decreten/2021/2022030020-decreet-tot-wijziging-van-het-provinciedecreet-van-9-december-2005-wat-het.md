@@ -13,7 +13,7 @@ entry_into_force: 2022-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/12/23/2022030020/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2021. - Decreet tot wijziging van het Provinciedecreet van 9 december 2005, wat het digitaal en hybride vergaderen betreft

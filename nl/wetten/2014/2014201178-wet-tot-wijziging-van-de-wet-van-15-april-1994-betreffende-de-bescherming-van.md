@@ -12,7 +12,7 @@ entry_into_force: 2017-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/26/2014201178/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2014. - Wet tot wijziging van de wet van 15 april 1994 betreffende de bescherming van de bevolking en van het leefmilieu tegen de uit ioniserende stralingen voortspruitende gevaren en betreffende het Federaal Agentschap voor Nucleaire Controle, wat betreft het dosimetrisch toezicht

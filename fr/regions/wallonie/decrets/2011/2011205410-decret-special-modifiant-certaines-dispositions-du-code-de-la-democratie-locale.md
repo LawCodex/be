@@ -12,7 +12,7 @@ published: 2011-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/10/13/2011205410/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OCTOBRE 2011. - Décret spécial modifiant certaines dispositions du Code de la démocratie locale et de la décentralisation en matière de composition des collèges et conseils provinciaux

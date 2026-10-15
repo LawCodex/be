@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/17/2006009456/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 15-06-2006 en tekstbijwerking tot 05-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2006. - Wet betreffende de externe rechtspositie van de veroordeelden tot een vrijheidsstraf en de aan het slachtoffer toegekende rechten in het raam van de strafuitvoeringsmodaliteiten. (NOTA 1 : art. 2, 6°, b, gewijzigd met inwerkingtredingdatum vastgesteld op 01-09-2014 bij W 2013-01-21/12 , art. 3, zichzelf opgeheven bij W 2013-12-15/05 , art. 34, 002; Inwerkingtreding : 01-01-2014)

@@ -11,7 +11,7 @@ published: 1971-06-25
 entry_into_force: 1971-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1970/07/20/1970072056/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 1970. - LOI portant approbation de la Convention générale sur la sécurité sociale entre le Royaume de Belgique et le Royaume du Maroc, signée à Rabat le 24 juin 1968

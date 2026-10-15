@@ -13,7 +13,7 @@ entry_into_force: 2000-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/02/14/2000033044/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEBRUARI 2000. - Decreet tot wijziging van het decreet van 9 mei 1994 over het kamperen en de kampeerterreinen (VERTALING).

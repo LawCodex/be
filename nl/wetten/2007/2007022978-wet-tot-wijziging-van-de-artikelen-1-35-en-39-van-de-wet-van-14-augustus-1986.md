@@ -12,7 +12,7 @@ entry_into_force: 2007-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/19/2007022978/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2007. - Wet tot wijziging van de artikelen 1, 35 en 39 van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren teneinde de strafmaat te verhogen in geval van dierenmishandeling en seks met dieren te verbieden.

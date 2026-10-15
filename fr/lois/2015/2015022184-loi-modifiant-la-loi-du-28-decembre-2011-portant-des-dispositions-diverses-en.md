@@ -12,7 +12,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/05/21/2015022184/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 2015. - Loi modifiant la loi du 28 décembre 2011 portant des dispositions diverses, en ce qui concerne certains membres du personnel de la police intégrée

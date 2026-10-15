@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/03/14/1995029208/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 17-08-1995 en tekstbijwerking tot 22-07-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 1995. - Decreet tot bevordering van het welslagen in de basisscholen (VERTALING).

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/19/1998035167/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 14-05-2009 et mise à jour au 08-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1997. - Décret relatif à l'aide sociale générale (TRADUCTION)

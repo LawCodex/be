@@ -12,7 +12,7 @@ published: 2009-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009029532/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende wijziging van het decreet van 20 december 2001 tot vaststelling van de regels die specifiek zijn voor het hoger kunstonderwijs georganiseerd in de Hogere Kunstscholen (organisatie, financiering, omkadering, statuut van het personeel, rechten en plichten van studente)

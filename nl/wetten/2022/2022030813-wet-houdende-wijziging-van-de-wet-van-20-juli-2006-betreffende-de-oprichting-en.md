@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/02/08/2022030813/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
 justel_note: "Raadpleging van vroegere versies vanaf 17-02-2022 en tekstbijwerking tot 30-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 2022. - Wet houdende wijziging van de wet van 20 juli 2006 betreffende de oprichting en de werking van het federaal agentschap voor geneesmiddelen en gezondheidsproducten

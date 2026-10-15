@@ -12,7 +12,7 @@ entry_into_force: 2013-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/11/22/2013009555/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2013. - Wet tot wijziging van de wet van 4 juli 1956 tot bescherming van de benaming "Rode-Kruis", van de tekens en emblemen van het Rode-Kruis met het oog op de overeenstemming ervan met het Aanvullend Protocol bij de Verdragen van Genève van 12 augustus 1949 betreffende de aanvaarding van een aanvullend onderscheidend embleem (Protocol III), aangenomen te Genève op 8 december 2005

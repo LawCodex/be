@@ -13,7 +13,7 @@ entry_into_force: 2013-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/20/2014201046/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2013. - Decreet tot bekrachtiging van de decretale bepalingen betreffende het hoger onderwijs, gecodificeerd op 11 oktober 2013

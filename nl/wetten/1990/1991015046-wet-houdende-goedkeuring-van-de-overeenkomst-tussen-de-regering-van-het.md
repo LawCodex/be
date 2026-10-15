@@ -12,7 +12,7 @@ entry_into_force: 1991-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/10/17/1991015046/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OKTOBER 1990. - Wet houdende goedkeuring van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Unie van Socialistische Sovjetrepublieken tot het vermijden van de dubbele belasting van het inkomen en van het vermogen, ondertekend te Brussel op 17 december 1987.

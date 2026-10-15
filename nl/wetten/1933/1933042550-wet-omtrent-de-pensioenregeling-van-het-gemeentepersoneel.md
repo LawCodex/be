@@ -11,7 +11,7 @@ published: 1933-05-05
 entry_into_force: 1934-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1933/04/25/1933042550/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 1933. - Wet omtrent de pensioenregeling van het gemeentepersoneel.

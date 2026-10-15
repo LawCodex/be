@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/06/23/2017020463/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 14-07-2017 et mise à jour au 14-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2017. - Ordonnance relative aux aides à l'emploi accessibles en Région de Bruxelles-Capitale

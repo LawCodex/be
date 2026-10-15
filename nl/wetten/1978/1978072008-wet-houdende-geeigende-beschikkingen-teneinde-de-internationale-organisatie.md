@@ -13,7 +13,7 @@ last_amended: 2014-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1978/07/20/1978072008/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 29-07-1994 en tekstbijwerking tot 06-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 1978. - Wet houdende geëigende beschikkingen teneinde de Internationale organisatie voor Atoomenergie toe te laten inspectie- en verificatiewerkzaamheden door te voeren op belgisch grondgebied, in uitvoering van het Internationaal Akkoord van 5 april 1973 bij toepassing der §§ 1 en 4 van artikel III van het Verdrag van 1 Juli 1968 inzake de niet-verspreiding van kernwapens.

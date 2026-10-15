@@ -13,7 +13,7 @@ entry_into_force: 2004-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/30/2004035885/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2004. - Décret modifiant le décret du 3 mars 1976 réglant la protection des monuments et des sites urbains et ruraux (TRADUCTION).

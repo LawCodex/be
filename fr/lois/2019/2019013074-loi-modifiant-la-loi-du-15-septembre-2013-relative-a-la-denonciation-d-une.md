@@ -12,7 +12,7 @@ entry_into_force: 2019-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/08/2019013074/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2019. - Loi modifiant la loi du 15 septembre 2013 relative à la dénonciation d'une atteinte suspectée à l'intégrité au sein d'une autorité administrative fédérale par un membre de son personnel

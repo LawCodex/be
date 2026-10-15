@@ -13,7 +13,7 @@ entry_into_force: 2014-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/28/2014035304/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2014. - Decreet tot wijziging van de wet van 28 december 1967 betreffende de onbevaarbare waterlopen, meer bepaald de wijziging van de classificatie en andere diverse wijzigingen

@@ -12,7 +12,7 @@ entry_into_force: 2022-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/23/2022031951/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 FEVRIER 2022. - Loi portant assentiment à l'Accord amendant l'Accord relatif à la fourniture et à l'exploitation d'installations et des services de la circulation aérienne par EUROCONTROL au Centre de contrôle régional de Maastricht, signé le 25 novembre 1986 (Accord de Maastricht), fait à Bruxelles le 17 décembre 2020

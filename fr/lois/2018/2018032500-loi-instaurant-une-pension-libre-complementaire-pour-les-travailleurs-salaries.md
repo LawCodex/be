@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/12/06/2018032500/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 27-12-2018 et mise à jour au 22-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2018. - Loi instaurant une pension libre complémentaire pour les travailleurs salariés et portant des dispositions diverses en matière de pensions complémentaires

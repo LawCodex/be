@@ -10,7 +10,7 @@ date: 1970-06-05
 published: 1970-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1970/06/05/1970060517/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 1970. - Loi modifiant certaines dispositions relatives aux régimes de pensions des travailleurs salariés, des ouvriers, des employés, des ouvriers mineurs et des assurés libres et au revenu garanti aux personnes âgées.

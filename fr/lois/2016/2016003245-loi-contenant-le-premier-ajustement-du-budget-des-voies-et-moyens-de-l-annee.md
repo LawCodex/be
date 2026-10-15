@@ -12,7 +12,7 @@ entry_into_force: 2016-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/12/2016003245/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2016. - Loi contenant le premier ajustement du budget des Voies et Moyens de l'année budgétaire 2016

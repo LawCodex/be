@@ -13,7 +13,7 @@ entry_into_force: 2018-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/07/2018203068/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2018. - Decreet houdende instemming met het samenwerkingsakkoord van 25 april 2017 tussen het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende oprichting van de Stichting Zoniënwoud

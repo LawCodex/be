@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/14/2018031499/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 13-07-2018 en tekstbijwerking tot 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUNI 2018. - Decreet houdende instelling van een experimenteel onderwijs op de tweede en derde graden van het kwalificerend secundair onderwijs wat betreft de bekrachtiging per eenheden van leerresultaten (CPU), en op de tweede en derde graden van het doorstromingsonderwijs wat betreft het overschrijden van het maximumaantal wekelijkse lestijden, en houdende diverse bepalingen inzake leerplichtonderwijs, organisatie van de examencommissie voor de uitreiking van het getuigschrift van pedagogische bevoegdheid en overleg met de inrichtende machten en de vakverenigingen

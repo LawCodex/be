@@ -11,7 +11,7 @@ published: 2002-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/03/07/2002000288/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2002. - Loi modifiant le Code électoral en vue d'octroyer le droit de vote aux Belges résidant à l'étranger pour l'élection des Chambres législatives fédérales et instaurant la liberté de choix du mandataire en cas de vote par procuration.

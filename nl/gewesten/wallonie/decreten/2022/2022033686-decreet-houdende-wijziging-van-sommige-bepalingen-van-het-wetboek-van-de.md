@@ -13,7 +13,7 @@ entry_into_force: 2022-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/14/2022033686/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2022. - Decreet houdende wijziging van sommige bepalingen van het Wetboek van de plaatselijke democratie en de decentralisatie betreffende de vrijwillige samenvoeging van gemeenten

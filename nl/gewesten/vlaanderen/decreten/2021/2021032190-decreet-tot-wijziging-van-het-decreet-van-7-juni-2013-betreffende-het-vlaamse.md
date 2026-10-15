@@ -13,7 +13,7 @@ entry_into_force: 2022-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/09/2021032190/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2021. - Decreet tot wijziging van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid

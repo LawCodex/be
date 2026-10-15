@@ -13,7 +13,7 @@ entry_into_force: 2015-11-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/10/16/2015204783/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2015. - Décret modifiant la loi du 14 août 1986 relative à la protection et au bien-être des animaux afin d'interdire la commercialisation d'animaux dans les lieux publics

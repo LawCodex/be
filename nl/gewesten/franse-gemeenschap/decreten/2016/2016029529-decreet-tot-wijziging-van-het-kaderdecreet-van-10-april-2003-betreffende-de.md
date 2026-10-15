@@ -11,7 +11,7 @@ date: 2016-10-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/10/13/2016029529/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OKTOBER 2016. - Decreet tot wijziging van het kaderdecreet van 10 april 2003 betreffende de erkenning en de subsidiëring van de beroepssector van de Podiumkunsten

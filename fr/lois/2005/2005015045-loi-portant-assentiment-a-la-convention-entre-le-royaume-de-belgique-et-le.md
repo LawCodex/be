@@ -12,7 +12,7 @@ entry_into_force: 2005-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/02/24/2005015045/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2005. - Loi portant assentiment à la Convention entre le Royaume de Belgique et le Royaume du Maroc sur l'entraide judiciaire en matière pénale, signée à Bruxelles le 7 juillet 1997.

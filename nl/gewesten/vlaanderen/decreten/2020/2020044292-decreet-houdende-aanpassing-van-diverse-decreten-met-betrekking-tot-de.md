@@ -13,7 +13,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/04/2020044292/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2020. - Decreet houdende aanpassing van diverse decreten met betrekking tot de omvorming van het Vlaams Energieagentschap tot het Vlaams Energie- en Klimaatagentschap, tot integratie van opdrachten inzake klimaat van het Departement Omgeving in dit Vlaams Energie- en Klimaatagentschap, tot integratie van opdrachten inzake lucht van het Departement Omgeving in de Vlaamse Milieumaatschappij en houdende rapportage door het Departement Omgeving

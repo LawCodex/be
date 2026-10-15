@@ -13,7 +13,7 @@ entry_into_force: 2017-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/12/07/2017014280/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2017. - Ordonnance portant assentiment au Protocole à la Convention d'Espoo du 25 février 1991 sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière, relatif à l'évaluation stratégique environnementale, fait à Kiev (Ukraine), le 21 mai 2003

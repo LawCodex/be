@@ -13,7 +13,7 @@ entry_into_force: 2023-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/14/2022043366/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2022. - Décret contenant l'ajustement du budget des recettes de la communauté française pour l'année budgétaire 2022

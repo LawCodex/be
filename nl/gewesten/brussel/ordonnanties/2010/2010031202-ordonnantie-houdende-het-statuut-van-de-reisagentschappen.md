@@ -17,7 +17,7 @@ department: "Brussels Hoofdstedelijk Gewest"
 justel_notes:
   - "gewijzigd door ORD 2017-12-07/16 , art. 2, 003; Inwerkingtreding : 01-03-2018"
   - "Raadpleging van vroegere versies vanaf 03-05-2010 en tekstbijwerking tot 20-12-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2010. - Ordonnantie " houdende het statuut van de reisagentschappen " [...]

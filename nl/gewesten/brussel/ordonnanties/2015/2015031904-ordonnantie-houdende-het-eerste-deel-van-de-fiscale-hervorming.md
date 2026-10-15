@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/12/18/2015031904/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2015 en tekstbijwerking tot 29-12-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2015. - Ordonnantie houdende het eerste deel van de fiscale hervorming

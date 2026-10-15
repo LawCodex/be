@@ -13,7 +13,7 @@ entry_into_force: 2018-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/26/2018201703/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2018. - Decreet houdende instemming met de Samenwerkingsovereenkomst inzake partnerschap en ontwikkeling tussen de Europese Unie en haar lidstaten, enerzijds, en de Islamitische Republiek Afghanistan, anderzijds, gedaan te München op 18 februari 2017

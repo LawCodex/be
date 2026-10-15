@@ -13,7 +13,7 @@ entry_into_force: 2004-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/12/2004029171/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Waalse Regering, de Regering van de Franse Gemeenschap en het College van de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest, enerzijds, en de Regering van Quebec, anderzijds, en in de Gemeenschappelijke Verklaring, gedaan te Brussel op 22 maart 1999 (VERTALING).

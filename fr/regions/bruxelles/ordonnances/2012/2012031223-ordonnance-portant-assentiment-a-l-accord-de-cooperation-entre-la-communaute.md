@@ -13,7 +13,7 @@ entry_into_force: 2012-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/04/26/2012031223/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2012. - Ordonnance portant assentiment à : l'accord de coopération entre la Communauté française, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'éducation à l'environnement, à la nature et au développement durable

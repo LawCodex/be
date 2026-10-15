@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/04/23/1998012194/justel"
 department: "Tewerkstelling en Arbeid"
 justel_note: "Raadpleging van vroegere versies vanaf 21-05-1998 en tekstbijwerking tot 17-02-2012"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 1998. - Wet houdende diverse bepalingen met betrekking tot de instelling van een Europese ondernemingsraad of van een procedure in ondernemingen met een communautaire dimensie of in concerns met een communautaire dimensie ter informatie en raadpleging van de werknemers

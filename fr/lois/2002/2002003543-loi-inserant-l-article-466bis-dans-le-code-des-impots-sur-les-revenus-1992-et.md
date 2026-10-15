@@ -12,7 +12,7 @@ entry_into_force: 2003-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/13/2002003543/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2002. - Loi insérant l'article 466bis dans le Code des impôts sur les revenus 1992 et réglant l'application de l'article 244bis du même code aux résidents des Pays-Bas.

@@ -11,7 +11,7 @@ published: 2022-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/04/10/2022031954/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2022. - Wet houdende instemming met de Kaderconventie van de Raad van Europa over de bijdrage van cultureel erfgoed aan de samenleving, gedaan te Faro op 27 oktober 2005

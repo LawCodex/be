@@ -13,7 +13,7 @@ entry_into_force: 2016-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/10/14/2016036528/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OCTOBRE 2016. - Décret modifiant le décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision et le décret du 25 avril 2014 relatif aux pensions de retraite allouées aux membres du personnel statutaires de la " Vlaamse Radio- en Televisieomroeporganisatie " (Organisation de Radiodiffusion et télévision flamande) et aux pensions de survie allouées aux ayants droit de ces membres du personnel

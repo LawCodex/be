@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/13/2018031629/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 10-08-2018 en tekstbijwerking tot 12-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2018. - Decreet tot wijziging van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren in het kader van de zesde staatshervorming

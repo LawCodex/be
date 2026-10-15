@@ -13,7 +13,7 @@ entry_into_force: 2017-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/21/2016206611/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2016. - Décret portant assentiment au Protocole, fait à Hanoi le 12 mars 2012, modifiant la Convention entre le Royaume de Belgique et la République socialiste du Vietnam tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et le Protocole, signés à Hanoi le 28 février 1996

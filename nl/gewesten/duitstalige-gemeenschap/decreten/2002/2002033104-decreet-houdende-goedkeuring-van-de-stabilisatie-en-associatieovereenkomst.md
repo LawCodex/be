@@ -13,7 +13,7 @@ entry_into_force: 2003-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/04/2002033104/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 NOVEMBER 2002. - Decreet houdende goedkeuring van de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de voormalige Joegoslavische Republiek Macedonië, anderzijds, en de Bijlagen I, II, III, IV, V, VI en VII, de Protocollen 1, 2, 3, 4 en 5, en de Slotakte, gedaan te Luxemburg op 9 april 2001 (VERTALING).

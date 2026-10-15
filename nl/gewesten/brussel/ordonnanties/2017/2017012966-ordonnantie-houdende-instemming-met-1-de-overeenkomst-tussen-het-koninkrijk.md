@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/06/23/2017012966/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2017. - Ordonnantie houdende instemming met : 1° de Overeenkomst tussen het Koninkrijk België en de Verenigde Mexicaanse Staten tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Mexico op 24 november 1992, zoals gewijzigd door het Protocol van 26 augustus 2013; 2° het Protocol, ondertekend te Mexico op 26 augustus 2013, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Verenigde Mexicaanse Staten tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Mexico op 24 november 1992

@@ -13,7 +13,7 @@ entry_into_force: 2023-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/09/28/2023045799/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBRE 2023. - Ordonnance portant approbation du compte général et règlement définitif du budget du Port de Bruxelles pour l'année 2020

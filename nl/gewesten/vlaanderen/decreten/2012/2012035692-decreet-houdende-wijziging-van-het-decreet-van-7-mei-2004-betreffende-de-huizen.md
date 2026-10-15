@@ -13,7 +13,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/01/2012035692/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2012. - Decreet houdende wijziging van het decreet van 7 mei 2004 betreffende de Huizen van het Nederlands

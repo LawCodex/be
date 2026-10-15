@@ -12,7 +12,7 @@ entry_into_force: 2004-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/12/17/2004015001/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2003. - Wet houdende instemming met volgende Internationale Akten : 1° Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Republiek Bulgarije, 2° Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Republiek Estland, 3° Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Republiek Letland, 4° Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Republiek Litouwen, 5° Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van Roemenië, 6° Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Slowaakse Republiek, 7° Protocol bij het Noord-Atlantisch Verdrag betreffende de toetreding van de Republiek Slovenië, ondertekend te Brussel op 26 maart 2003.

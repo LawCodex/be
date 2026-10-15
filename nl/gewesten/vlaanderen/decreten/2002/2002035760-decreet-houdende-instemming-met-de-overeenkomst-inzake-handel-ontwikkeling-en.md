@@ -13,7 +13,7 @@ entry_into_force: 2002-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/05/03/2002035760/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2002. - Decreet houdende instemming met de overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lidstaten enerzijds, en de Republiek Zuid-Afrika anderzijds, met de Bijlagen I tot X, met de Protocollen 1 en 2, en met de Slotakte, ondertekend in Pretoria op 11 oktober 1999.

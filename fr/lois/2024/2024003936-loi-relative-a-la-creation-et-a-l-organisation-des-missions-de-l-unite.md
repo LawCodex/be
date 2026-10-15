@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/29/2024003936/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 29-04-2024 et mise à jour au 17-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2024. - Loi relative à la création et à l'organisation des missions de l'Unité nationale ETIAS (U.N.E.)

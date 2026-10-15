@@ -11,7 +11,7 @@ date: 2024-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/29/2024204599/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2024. - Decreet tot wijziging van verschillende bepalingen inzake het tewerkstellingsbeleid met het oog op de invoering van situatietests

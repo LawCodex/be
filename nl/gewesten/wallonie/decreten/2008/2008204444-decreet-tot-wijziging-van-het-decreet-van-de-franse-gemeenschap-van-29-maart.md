@@ -13,7 +13,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/20/2008204444/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 2008. - Decreet tot wijziging van het decreet van de Franse Gemeenschap van 29 maart 1993 betreffende de erkenning en de toekenning van toelagen aan de geïntegreerde gezondheidsverenigingen.

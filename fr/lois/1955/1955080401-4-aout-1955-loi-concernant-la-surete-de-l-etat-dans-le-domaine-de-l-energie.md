@@ -11,7 +11,7 @@ published: 1955-08-19
 entry_into_force: 1955-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1955/08/04/1955080401/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1955. \_ Loi concernant la sûreté de l'Etat dans le domaine de l'énergie nucléaire.

@@ -13,7 +13,7 @@ entry_into_force: 1981-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1981/05/15/1981001874/justel"
 department: "Education nationale et Culture française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 1981. - Décret complétant les matières d'examens des candidats en sciences biologiques, pharmaceutiques, médicales et vétérinaires et en science dentaire par une épreuve portant sur les méthodes d'expérimentations alternatives n'utilisant pas l'animal.

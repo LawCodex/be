@@ -12,7 +12,7 @@ entry_into_force: 1997-09-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/05/26/1997003359/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 1997. - Loi contenant le premier ajustement du budget général des dépenses de l'année budgétaire 1997. - Section " Emploi et Travail ".

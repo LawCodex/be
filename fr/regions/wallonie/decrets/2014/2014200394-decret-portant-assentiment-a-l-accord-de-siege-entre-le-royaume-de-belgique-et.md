@@ -13,7 +13,7 @@ entry_into_force: 2014-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/09/2014200394/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JANVIER 2014. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'Union Benelux, signé à Bruxelles le 3 février 2012

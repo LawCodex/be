@@ -13,7 +13,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/21/1994036599/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 1994. - Décret modifiant le décret du 28 avril 1993 portant réglementation, pour la Région flamande, de la tutelle administrative des communes. &lt;TRADUCTION&gt;.

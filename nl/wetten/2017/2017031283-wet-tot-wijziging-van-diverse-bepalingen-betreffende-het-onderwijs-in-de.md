@@ -12,7 +12,7 @@ entry_into_force: 2017-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/09/28/2017031283/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBER 2017. - Wet tot wijziging van diverse bepalingen betreffende het onderwijs in de Koninklijke Militaire School

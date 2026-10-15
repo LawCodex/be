@@ -12,7 +12,7 @@ entry_into_force: 1999-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/11/23/1998010098/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 1998. - Wet tot wijziging, wat het strafbeding en de moratoire interest betreft, van het Burgerlijk Wetboek.

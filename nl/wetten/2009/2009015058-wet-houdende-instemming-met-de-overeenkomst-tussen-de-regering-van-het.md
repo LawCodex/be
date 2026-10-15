@@ -12,7 +12,7 @@ entry_into_force: 2009-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/02/12/2009015058/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2009. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Speciale Administratieve Regio van Hongkong van de Volksrepubliek China betreffende de overbrenging van gevonniste personen, ondertekend te Brussel op 8 november 2006

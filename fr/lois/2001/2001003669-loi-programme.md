@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/12/30/2001003669/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2001 et mise à jour au 22-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 2001. - Loi-programme. -

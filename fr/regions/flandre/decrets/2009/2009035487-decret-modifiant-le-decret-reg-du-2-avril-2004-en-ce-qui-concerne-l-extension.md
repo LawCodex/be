@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/08/2009035487/justel"
 department: "Autorité flamande"
 justel_note: "par son arrêt n° 33/2011 du 02-03-2011 (M.B. 24-05-2011, p. 29266-29269), la Cour Constitutionnelle a annulé ce décret"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2009. - Décret modifiant le décret REG du 2 avril 2004, en ce qui concerne l'extension relative aux activités aéronautiques

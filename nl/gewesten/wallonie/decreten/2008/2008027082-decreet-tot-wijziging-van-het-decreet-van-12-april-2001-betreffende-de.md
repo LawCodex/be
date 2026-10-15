@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/17/2008027082/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 07-08-2008 en tekstbijwerking tot 20-08-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2008. - Decreet tot wijziging van het decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt

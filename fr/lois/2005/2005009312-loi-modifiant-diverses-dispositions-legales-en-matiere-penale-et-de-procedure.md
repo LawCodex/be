@@ -12,7 +12,7 @@ entry_into_force: 2005-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/13/2005009312/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 2005. - Loi modifiant diverses dispositions légales en matière pénale et de procédure pénale en vue de lutter contre l'arriéré judiciaire.

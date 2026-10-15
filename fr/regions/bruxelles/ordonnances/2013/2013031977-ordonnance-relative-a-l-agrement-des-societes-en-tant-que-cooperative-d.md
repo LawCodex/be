@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/11/21/2013031977/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 03-12-2013 et mise à jour au 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2013. - Ordonnance relative à l'agrément des sociétés en tant que coopérative d'activités en vue de l'octroi de subventions

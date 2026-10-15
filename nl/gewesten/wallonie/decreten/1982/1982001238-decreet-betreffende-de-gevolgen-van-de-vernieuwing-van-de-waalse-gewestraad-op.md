@@ -13,7 +13,7 @@ entry_into_force: 1982-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1982/06/16/1982001238/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 1982. - Decreet betreffende de gevolgen van de vernieuwing van de Waalse Gewestraad op de bij die Raad aanhangige ontwerpen en voorstellen van decreet. (Vertaling).

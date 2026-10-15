@@ -13,7 +13,7 @@ entry_into_force: 2003-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/06/06/2003027452/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2003. - Decreet houdende instemming met de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lid-Staten, enerzijds, en de voormalige Joegoslavische Republiek Macedonië, anderzijds, en met de Slotakte en de briefwisseling ter vervanging van de ondertekening van de Overeenkomst, opgemaakt te Luxemburg, op 9 april 2001 (VERTALING).

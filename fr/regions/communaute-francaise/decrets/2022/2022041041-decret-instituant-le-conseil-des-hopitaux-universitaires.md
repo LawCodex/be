@@ -13,7 +13,7 @@ entry_into_force: 2022-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/04/28/2022041041/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2022. - Décret instituant le Conseil des Hôpitaux universitaires

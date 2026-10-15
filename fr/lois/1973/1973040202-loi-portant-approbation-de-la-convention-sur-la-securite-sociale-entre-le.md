@@ -12,7 +12,7 @@ entry_into_force: 1973-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1973/04/02/1973040202/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 1973. - Loi portant approbation de la Convention sur la sécurité sociale entre le Royaume de Belgique et l'Etat d'Israël, signée à Bruxelles le 5 juillet 1971.

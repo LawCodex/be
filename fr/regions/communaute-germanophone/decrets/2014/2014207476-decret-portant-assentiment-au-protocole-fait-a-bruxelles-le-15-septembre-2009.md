@@ -13,7 +13,7 @@ entry_into_force: 2014-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/11/24/2014207476/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 2014. - Décret portant assentiment au protocole fait à Bruxelles le 15 septembre 2009 modifiant la convention entre le Royaume de Belgique et la République d'Islande tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 23 mai 2000

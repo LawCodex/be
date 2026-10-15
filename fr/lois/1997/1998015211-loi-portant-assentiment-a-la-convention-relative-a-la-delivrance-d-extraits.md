@@ -12,7 +12,7 @@ entry_into_force: 1998-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/03/1998015211/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 1997. - Loi portant assentiment à la Convention relative à la délivrance d'extraits plurilingues d'actes de l'état civil, et Annexes, faites à Vienne le 8 septembre 1976; et au Protocole additionnel à la Convention concernant l'échange international d'informations en matière d'état civil, signée à Istanbul le 4 septembre 1958, et Annexe, faits à Patras le 6 septembre 1989.

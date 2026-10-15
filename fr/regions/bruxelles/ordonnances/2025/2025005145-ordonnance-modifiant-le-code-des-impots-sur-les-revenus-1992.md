@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/07/03/2025005145/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2025. - Ordonnance modifiant le Code des impôts sur les revenus 1992

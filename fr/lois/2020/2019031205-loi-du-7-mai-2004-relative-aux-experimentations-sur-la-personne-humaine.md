@@ -12,7 +12,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/01/06/2019031205/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANVIER 2020. - Loi du 7 mai 2004 relative aux expérimentations sur la personne humaine. - Publication conformément à l'article 30, § 10, dernier alinéa, des montants indexés des contributions et rétributions

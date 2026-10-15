@@ -13,7 +13,7 @@ entry_into_force: 2020-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/03/19/2020040738/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2020. - Ordonnantie om bijzondere machten toe te kennen aan het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie in het kader van de gezondheidscrisis Covid-19

@@ -12,7 +12,7 @@ entry_into_force: 2013-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/14/2013009031/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2012. - Loi modifiant la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnés à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine afin d'améliorer l'approche des abus sexuels et des faits de pédophilie dans une relation d'autorité

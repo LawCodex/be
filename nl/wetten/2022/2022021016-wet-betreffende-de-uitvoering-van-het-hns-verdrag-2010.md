@@ -11,7 +11,7 @@ published: 2022-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/06/23/2022021016/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2022. - Wet betreffende de uitvoering van het HNS-Verdrag 2010

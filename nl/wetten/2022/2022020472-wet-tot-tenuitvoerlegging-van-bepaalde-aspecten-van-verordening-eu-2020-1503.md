@@ -12,7 +12,7 @@ entry_into_force: 2022-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/03/09/2022020472/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2022. - Wet tot tenuitvoerlegging van bepaalde aspecten van Verordening (EU) 2020/1503 van het Europees Parlement en de Raad van 7 oktober 2020 betreffende Europese crowdfundingdienstverleners voor bedrijven en tot wijziging van Verordening (EU) 2017/1129 en Richtlijn (EU) 2019/1937 (I)

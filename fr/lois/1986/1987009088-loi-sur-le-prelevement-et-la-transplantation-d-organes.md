@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1986/06/13/1987009088/justel"
 department: "Justice - Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 14-04-1987 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 1986. - Loi sur le prélèvement et la transplantation d'organes.

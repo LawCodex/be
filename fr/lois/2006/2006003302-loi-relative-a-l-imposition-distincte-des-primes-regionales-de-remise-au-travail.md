@@ -12,7 +12,7 @@ entry_into_force: 2005-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/10/2006003302/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2006. - Loi relative à l'imposition distincte des primes régionales de remise au travail.

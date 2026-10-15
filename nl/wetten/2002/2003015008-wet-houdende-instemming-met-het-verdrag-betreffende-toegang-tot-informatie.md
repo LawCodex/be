@@ -12,7 +12,7 @@ entry_into_force: 2003-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/17/2003015008/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2002. - Wet houdende instemming met het Verdrag betreffende toegang tot informatie, inspraak bij besluitvorming en toegang tot de rechter inzake milieuaangelegenheden, en met de Bijlagen I en II, gedaan te Aarhus op 25 juni 1998.

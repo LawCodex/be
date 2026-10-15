@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/03/2009035368/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 04-05-2009 et mise à jour au 30-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2009. - Décret portant l'organisation de la coexistence de cultures génétiquement modifiées et de cultures conventionnelles et biologiques

@@ -13,7 +13,7 @@ entry_into_force: 2018-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/11/15/2018014906/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBRE 2018. - Ordonnance portant assentiment à : la Convention entre le Royaume de Belgique et le Japon tendant à éliminer la double imposition en matière d'impôts sur le revenu et à prévenir la fraude et l'évasion fiscales, et au Protocole, faits à Tokyo le 12 octobre 2016

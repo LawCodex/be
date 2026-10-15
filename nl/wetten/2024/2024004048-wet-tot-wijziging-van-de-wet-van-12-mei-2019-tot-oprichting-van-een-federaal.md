@@ -12,7 +12,7 @@ entry_into_force: 2024-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/21/2024004048/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2024. - Wet tot wijziging van de wet van 12 mei 2019 tot oprichting van een Federaal Instituut voor de bescherming en de bevordering van de rechten van de mens

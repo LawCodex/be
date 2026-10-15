@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/19/1997036545/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-1997 en tekstbijwerking tot 03-09-1998"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1997. - Decreet houdende de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 1998.

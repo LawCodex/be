@@ -13,7 +13,7 @@ entry_into_force: 2006-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/01/2006201964/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2006. - Decreet houdende wijziging van de Waalse Huisvestingscode met het oog op de versterking van het transitwoningsstelsel binnen de door de Waalse steden en gemeenten uitgevoerde huisvestingsprogramma's (VERTALING).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/19/2012002046/justel"
 department: "Personnel et Organisation"
 justel_note: "Consultation des versions antérieures à partir du 06-08-2012 et mise à jour au 23-05-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2012. - Loi relative à la semaine de quatre jours et au travail à mi-temps à partir de 50 ou 55 ans dans le secteur public

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/09/13/2018014116/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 09-10-2018 en tekstbijwerking tot 16-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 SEPTEMBER 2018. - Decreet tot wijziging van het decreet van 24 juli 1997 dat de prioritaire taken bepaalt van het basisonderwijs en van het secundair onderwijs en de structuren organiseert die het mogelijk maken ze uit te voeren, om een nieuw sturingskader te ontwikkelen, waarbij de betrekkingen tussen de Franse Gemeenschap en de schoolinrichtingen contractueel worden vastgelegd

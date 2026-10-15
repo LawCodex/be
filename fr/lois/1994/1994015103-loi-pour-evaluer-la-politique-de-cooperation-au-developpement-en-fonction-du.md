@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/02/07/1994015103/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
 justel_note: "Consultation des versions antérieures à partir du 13-09-1994 et mise à jour au 16-12-2000."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 1994. - Loi pour évaluer la politique de coopération au développement en fonction du respect des droits de l'homme. -

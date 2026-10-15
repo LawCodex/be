@@ -13,7 +13,7 @@ entry_into_force: 1994-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/03/31/1994029207/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 1994. - Decreet houdende goedkeuring van het verdrag inzake de internationale samenwerking en de bescherming van kinderen op het gebied van interlandelijke adoptie, ondertekend in Den Haag op 29 mei 1993.

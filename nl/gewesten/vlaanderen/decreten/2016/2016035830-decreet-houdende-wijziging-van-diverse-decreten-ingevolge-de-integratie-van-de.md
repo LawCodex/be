@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/05/04/2016035830/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 02-06-2016 en tekstbijwerking tot 20-12-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2016. - Decreet houdende wijziging van diverse decreten ingevolge de integratie van de opdrachten van het agentschap Inspectie RWO in het departement Leefmilieu, Natuur en Energie en het agentschap Wonen-Vlaanderen, alsook betreffende de begrotingsfondsen en andere technische aanpassingen

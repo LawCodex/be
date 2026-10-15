@@ -13,7 +13,7 @@ entry_into_force: 2002-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/06/13/2002027587/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 2002. - Décret portant assentiment à l'Accord entre les Gouvernements de la République française, de la République fédérale d'Allemagne, du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, du Royaume d'Espagne et du Royaume de Belgique relatif au programme AIRBUS A330/A340, ainsi que ses Annexes I et II, signés à Madrid, le 26 juillet 1995.

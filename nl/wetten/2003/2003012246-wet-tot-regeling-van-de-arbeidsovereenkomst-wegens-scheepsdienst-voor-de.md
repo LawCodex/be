@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/03/2003012246/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 20-06-2003 en tekstbijwerking tot 16-06-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2003. - Wet tot regeling van de arbeidsovereenkomst wegens scheepsdienst voor de zeevisserij en tot verbetering van het sociaal statuut van de zeevisser.

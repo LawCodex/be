@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/01/18/2002035155/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 03-10-2008 en tekstbijwerking tot 17-06-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2002. - Decreet betreffende de eindtermen, de ontwikkelingsdoelen en de specifieke eindtermen in het voltijds gewoon en buitengewoon secundair onderwijs. (Erratum, B.S. 12-04-2002, p. 15131 - 15134)

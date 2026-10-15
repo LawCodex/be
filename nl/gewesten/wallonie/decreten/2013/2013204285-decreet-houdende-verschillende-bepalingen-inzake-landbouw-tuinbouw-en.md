@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/27/2013204285/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 05-06-2014 en tekstbijwerking tot 05-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2013. - Decreet houdende verschillende bepalingen inzake landbouw, tuinbouw en aquacultuur

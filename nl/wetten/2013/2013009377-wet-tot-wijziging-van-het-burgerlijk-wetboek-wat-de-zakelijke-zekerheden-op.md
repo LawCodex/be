@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/11/2013009377/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 02-08-2013 en tekstbijwerking tot 30-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2013. - Wet tot wijziging van het Burgerlijk Wetboek wat de zakelijke zekerheden op roerende goederen betreft en tot opheffingvan diverse bepalingen ter zake

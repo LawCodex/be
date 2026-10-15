@@ -13,7 +13,7 @@ entry_into_force: 2012-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/20/2012035523/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2012. - Décret sanctionnant l'arrêté du Gouvernement flamand du 20 janvier 2012 adaptant les objectifs finaux pour la formation 'Aanvullende Algemene Vorming' (formation générale complémentaire) de la discipline 'Algemene Vorming' (formation générale) de l'enseignement secondaire des adultes

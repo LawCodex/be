@@ -13,7 +13,7 @@ entry_into_force: 2006-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/03/17/2006035621/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2006. - Decreet houdende instemming met het samenwerkingsakkoord van 8 juli 2005 tussen de federale Staat en het Vlaamse Gewest betreffende de oprichting van en de samenwerking in een structuur kustwacht.

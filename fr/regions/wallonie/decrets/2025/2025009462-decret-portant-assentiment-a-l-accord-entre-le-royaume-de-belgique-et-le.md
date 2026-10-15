@@ -13,7 +13,7 @@ entry_into_force: 2025-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/11/27/2025009462/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2025. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et le Royaume des Pays-Bas pour ce qui est des Antilles néerlandaises relatif au transport aérien, fait à Bruxelles le 5 février 2008

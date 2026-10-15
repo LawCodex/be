@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/08/2022021055/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2022. - Decreet houdende aanpassing van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022

@@ -13,7 +13,7 @@ entry_into_force: 2022-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/15/2022032920/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2022. - Décret ajoutant des paragraphes 9 et 10 à l'article 47 du Décret de reconnaissance des Communautés religieuses locales du 22 octobre 2021

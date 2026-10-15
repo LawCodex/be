@@ -12,7 +12,7 @@ entry_into_force: 2017-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/10/28/2016009563/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 OCTOBRE 2016. - Loi complétant la transposition de la Directive 2010/64/UE du Parlement européen et du Conseil du 20 octobre 2010 relative au droit à l'interprétation et à la traduction dans le cadre des procédures pénales et de la Directive 2012/29/UE du Parlement européen et du Conseil du 25 octobre 2012 établissant des normes minimales concernant les droits, le soutien et la protection des victimes de la criminalité et remplaçant la décision-cadre 2001/220/JAI

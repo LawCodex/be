@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/12/20/2019042900/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2019 en tekstbijwerking tot 05-02-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2019. - Wet tot omzetting van Richtlijn (EU) 2018/822 van de Raad van 25 mei 2018 tot wijziging van Richtlijn 2011/16/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied met betrekking tot meldingsplichtige grensoverschrijdende constructie

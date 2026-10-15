@@ -12,7 +12,7 @@ entry_into_force: 2016-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/07/12/2016003245/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2016. - Wet houdende de eerste aanpassing van de Middelenbegroting voor het begrotingsjaar 2016

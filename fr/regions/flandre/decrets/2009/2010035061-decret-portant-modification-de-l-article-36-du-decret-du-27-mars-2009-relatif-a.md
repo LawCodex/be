@@ -13,7 +13,7 @@ entry_into_force: 2010-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/12/18/2010035061/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2009. - Décret portant modification de l'article 36 du décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision, pour ce qui concerne l'organisation défendant les intérêts des familles

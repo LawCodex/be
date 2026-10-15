@@ -13,7 +13,7 @@ entry_into_force: 2008-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/07/10/2008031374/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2008. - Ordonnantie tot wijziging van de ordonnantie van 18 maart 2004 betreffende de milieu-effectenbeoordeling van bepaalde plannen en programma's, de ordonnantie van 5 juni 1997 betreffende de milieuvergunningen en de ordonnantie van 18 maart 2004 inzake toegang tot milieu-informatie in het Brussels Hoofdstedelijk Gewest, met het oog op de participatie van het publiek aan beslissingsprocedures die betrekking hebben op het leefmilieu of die een impact hebben op het leefmilieu.

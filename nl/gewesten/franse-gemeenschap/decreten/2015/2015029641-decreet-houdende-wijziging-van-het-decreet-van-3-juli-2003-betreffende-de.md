@@ -12,7 +12,7 @@ published: 2015-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/26/2015029641/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2015. - Decreet houdende wijziging van het decreet van 3 juli 2003 betreffende de coördinatie van de opvang van kinderen tijdens hun vrije tijd en betreffende de ondersteuning van de buitenschoolse opvang

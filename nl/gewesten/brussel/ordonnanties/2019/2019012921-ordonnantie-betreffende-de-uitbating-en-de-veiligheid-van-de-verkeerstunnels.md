@@ -13,7 +13,7 @@ entry_into_force: 2022-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/05/16/2019012921/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2019. - Ordonnantie betreffende de uitbating en de veiligheid van de verkeerstunnels

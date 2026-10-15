@@ -12,7 +12,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/15/2013009541/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2013. - Loi portant diverses dispositions en vue d'améliorer le statut de la victime dans le cadre des modalités d'exécution de la peine

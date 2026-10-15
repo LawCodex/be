@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/12/01/1994036563/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-09-2004 en tekstbijwerking tot 20-09-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 1993. - Decreet houdende de erkenning en de subsidiëring van de Stichting voor de Vlaamse Schoolsport.

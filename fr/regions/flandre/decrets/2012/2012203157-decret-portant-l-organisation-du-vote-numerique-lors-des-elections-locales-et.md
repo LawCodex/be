@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/05/25/2012203157/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-06-2012 et mise à jour au 20-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2012. - Décret portant l'organisation du vote numérique lors des élections locales et provinciales (cité comme : le décret relatif à l'organisation d'élections numériques du 25 mai 2012)

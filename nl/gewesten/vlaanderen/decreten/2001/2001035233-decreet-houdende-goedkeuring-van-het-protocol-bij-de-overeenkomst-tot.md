@@ -13,7 +13,7 @@ entry_into_force: 2001-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/02/02/2001035233/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 2001. - Decreet houdende goedkeuring van het protocol bij de overeenkomst tot instelling van samenwerking en een douane-unie tussen de Europese Economische Gemeenschap en de Republiek San Marino naar aanleiding van de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie, en de slotakte, ondertekend in Brussel op 30 oktober 1997.

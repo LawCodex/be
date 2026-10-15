@@ -13,7 +13,7 @@ entry_into_force: 2016-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/11/27/2015036572/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2015. - Décret portant assentiment à l'accord de coopération du 2 avril 2015 entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale modifiant l'accord de coopération du 4 novembre 2008 entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant la prévention et la gestion des déchets d'emballages

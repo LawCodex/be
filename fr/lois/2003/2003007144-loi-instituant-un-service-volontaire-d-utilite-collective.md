@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/11/2003007144/justel"
 department: "Défense Nationale"
 justel_note: "Consultation des versions antérieures à partir du 13-05-2003 et mise à jour au 12-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2003. - Loi instituant un service volontaire d'utilité collective

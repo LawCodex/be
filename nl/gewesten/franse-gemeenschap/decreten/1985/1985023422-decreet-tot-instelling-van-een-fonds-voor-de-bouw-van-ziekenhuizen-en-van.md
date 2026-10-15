@@ -13,7 +13,7 @@ entry_into_force: 1987-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1985/04/29/1985023422/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 1985. - Decreet tot instelling van een Fonds voor de bouw van ziekenhuizen en van medisch-sociale instellingen van de Franse Gemeenschap.

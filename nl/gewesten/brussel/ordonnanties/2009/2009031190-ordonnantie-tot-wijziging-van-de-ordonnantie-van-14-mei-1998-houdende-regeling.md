@@ -13,7 +13,7 @@ entry_into_force: 2009-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/03/26/2009031190/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2009. - Ordonnantie tot wijziging van de ordonnantie van 14 mei 1998 houdende regeling van het administratief toezicht op de gemeenten van het Brussels Hoofdstedelijk Gewest

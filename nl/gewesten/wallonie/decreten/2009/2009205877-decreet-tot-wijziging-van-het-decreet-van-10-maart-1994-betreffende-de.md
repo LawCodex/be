@@ -13,7 +13,7 @@ entry_into_force: 2009-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/12/10/2009205877/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2009. - Decreet tot wijziging van het decreet van 10 maart 1994 betreffende de oprichting van de "Société wallonne de financement complémentaire des infrastructures" (Waalse Maatschappij voor de Aanvullende Financiering van de Infrastructuren)

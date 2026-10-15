@@ -12,7 +12,7 @@ entry_into_force: 2021-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/05/09/2021031512/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2021. - Loi modifiant la loi du 22 décembre 2020 relative aux dispositifs médicaux

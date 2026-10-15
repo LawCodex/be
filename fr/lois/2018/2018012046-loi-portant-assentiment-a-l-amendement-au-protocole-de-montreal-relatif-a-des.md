@@ -12,7 +12,7 @@ entry_into_force: 2018-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/06/2018012046/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2018. - Loi portant assentiment à l' Amendement au Protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone, adopté à Kigali le 15 octobre 2016

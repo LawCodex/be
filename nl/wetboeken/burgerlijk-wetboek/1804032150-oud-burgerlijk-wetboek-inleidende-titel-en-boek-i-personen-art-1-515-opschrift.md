@@ -14,7 +14,7 @@ justel_notes:
   - "art. 374/1-374/2 gewijzigd met ingang op een onbepaalde datum bij W 2018-07-30/54 , art. 2; Inwerkingtreding : onbepaald "
   - "art. 362-3 gewijzigd in de toekomst door W 2018-06-18/03 , art. 157, 082; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 28-01-1995 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 1804. - [OUD] BURGERLIJK WETBOEK. - INLEIDENDE TITEL EN BOEK I : Personen (art. 1-515). (Opschrift gewijzigd door W 2019-04-13/28 , art. 2, 090; Inwerkingtreding : 01-11-2020)

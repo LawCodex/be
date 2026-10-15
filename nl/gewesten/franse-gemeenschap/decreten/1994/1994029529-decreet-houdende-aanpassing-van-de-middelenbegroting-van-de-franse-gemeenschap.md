@@ -13,7 +13,7 @@ entry_into_force: 1994-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/10/27/1994029529/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 1994. - Decreet houdende aanpassing van de middelenbegroting van de Franse Gemeenschap voor het begrotingsjaar 1994. (Vertaling)

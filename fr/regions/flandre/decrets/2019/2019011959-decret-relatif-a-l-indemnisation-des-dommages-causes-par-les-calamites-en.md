@@ -13,7 +13,7 @@ entry_into_force: 2019-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/05/2019011959/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 2019. - Décret relatif à l'indemnisation des dommages causés par les calamités en Région flamande

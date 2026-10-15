@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2010/12/09/2010031574/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 17-12-2010 et mise à jour au 18-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2010. - Ordonnance relative aux sanctions applicables en cas de violation du Règlement (CE) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH)

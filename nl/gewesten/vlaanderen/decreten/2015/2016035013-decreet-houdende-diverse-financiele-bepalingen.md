@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/18/2016035013/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2015. - Decreet houdende diverse financiële bepalingen

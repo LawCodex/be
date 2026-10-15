@@ -12,7 +12,7 @@ entry_into_force: 2021-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/11/21/2021033903/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2021. - Loi portant assentiment à l'Accord modifiant l'Accord concernant le transfert et la mutualisation des contributions au Fonds de résolution unique, fait à Bruxelles le 27 janvier et le 8 février 2021

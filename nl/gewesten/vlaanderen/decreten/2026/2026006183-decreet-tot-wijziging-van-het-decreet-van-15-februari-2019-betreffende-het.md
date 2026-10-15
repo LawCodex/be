@@ -12,7 +12,7 @@ published: 2026-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/10/2026006183/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2026. - Decreet tot wijziging van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht, wat betreft de harmonisatie in functie van het nieuwe Strafwetboek en overige wijzigingen

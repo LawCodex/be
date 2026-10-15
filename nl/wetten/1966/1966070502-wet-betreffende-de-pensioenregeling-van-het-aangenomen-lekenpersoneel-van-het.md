@@ -11,7 +11,7 @@ published: 1966-08-05
 entry_into_force: 1966-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1966/07/05/1966070502/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1966. - Wet betreffende de pensioenregeling van het aangenomen lekenpersoneel van het vrij onderwijs in Kongo en Ruanda-Urundi vóór de onafhankelijkheid van die landen.

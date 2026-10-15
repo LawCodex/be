@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/25/2022040484/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 05-03-2024 et mise à jour au 05-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 2022. - Décret relatif à l'Autorité des transports

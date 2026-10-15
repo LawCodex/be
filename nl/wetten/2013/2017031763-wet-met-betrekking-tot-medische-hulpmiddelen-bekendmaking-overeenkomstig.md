@@ -12,7 +12,7 @@ entry_into_force: 2017-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/15/2017031763/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2013. - Wet met betrekking tot medische hulpmiddelen. - Bekendmaking overeenkomstig artikel 34 van de geïndexeerde bedragen van de heffing

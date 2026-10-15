@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/06/2008204572/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 19-12-2008 en tekstbijwerking tot 21-02-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBER 2008. - Kaderdecreet houdende rationalisatie van de adviesverlenende functie voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet

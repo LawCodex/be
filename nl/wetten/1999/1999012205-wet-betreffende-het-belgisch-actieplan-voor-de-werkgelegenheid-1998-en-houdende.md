@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/26/1999012205/justel"
 department: "Tewerkstelling en Arbeid"
 justel_note: "Raadpleging van vroegere versies vanaf 01-04-1999 en tekstbijwerking tot 29-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 1999. - Wet betreffende het Belgisch actieplan voor de werkgelegenheid 1998 en houdende diverse bepalingen.

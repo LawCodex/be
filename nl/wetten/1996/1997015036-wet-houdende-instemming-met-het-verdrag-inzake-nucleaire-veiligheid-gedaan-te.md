@@ -12,7 +12,7 @@ entry_into_force: 1997-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/11/26/1997015036/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 1996. - Wet houdende instemming met het Verdrag inzake nucleaire veiligheid, gedaan te Wenen op 20 september 1994.

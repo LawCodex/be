@@ -12,7 +12,7 @@ entry_into_force: 1992-02-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/10/18/1992015017/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 OKTOBER 1991. - Wet houdende goedkeuring van de Europese Overeenkomst voor de bescherming van gewervelde dieren die worden gebruikt voor experimentele en andere wetenschappelijke doeleinden, en van de bijlagen A en B, opgemaakt te Straatsburg op 18 maart 1986.

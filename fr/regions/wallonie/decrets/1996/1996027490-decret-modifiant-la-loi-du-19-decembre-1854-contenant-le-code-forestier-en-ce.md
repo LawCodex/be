@@ -13,7 +13,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/18/1996027490/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1996. - Décret modifiant la loi du 19 décembre 1854 contenant le Code forestier en ce qui concerne la contribution des communes, des établissements publics et des propriétaires de bois indivis, aux frais de conservation et de régie.

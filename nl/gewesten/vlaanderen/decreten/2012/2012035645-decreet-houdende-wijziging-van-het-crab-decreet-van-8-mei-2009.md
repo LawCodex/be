@@ -13,7 +13,7 @@ entry_into_force: 2012-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/01/2012035645/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2012. - Decreet houdende wijziging van het CRAB-decreet van 8 mei 2009

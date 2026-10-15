@@ -13,7 +13,7 @@ entry_into_force: 2009-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009035513/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet tot wijziging van het Provinciedecreet en van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking

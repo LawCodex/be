@@ -12,7 +12,7 @@ entry_into_force: 2024-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/03/29/2024003904/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2024. - Wet tot uitvoering van Verordening (EU) 2022/1925 van het Europees Parlement en de Raad van 14 september 2022 over betwistbare en eerlijke markten in de digitale sector, en tot wijziging van Richtlijnen (EU) 2019/1937 en (EU) 2020/1828 en tot wijziging van diverse bepalingen houdende de organisatie en de bevoegdheden van de Belgische Mededingingsautoriteit

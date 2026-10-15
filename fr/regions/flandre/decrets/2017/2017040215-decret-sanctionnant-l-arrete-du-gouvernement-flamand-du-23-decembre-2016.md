@@ -13,7 +13,7 @@ entry_into_force: 2017-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/03/31/2017040215/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2017. - Décret sanctionnant l'arrêté du Gouvernement flamand du 23 décembre 2016 portant recevabilité et équivalence d'une demande de dérogation aux objectifs finaux, pour ce qui est du deuxième degré de l'enseignement secondaire technique

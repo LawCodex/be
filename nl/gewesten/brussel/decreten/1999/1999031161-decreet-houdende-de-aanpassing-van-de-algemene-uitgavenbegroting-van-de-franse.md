@@ -13,7 +13,7 @@ entry_into_force: 1999-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/03/11/1999031161/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 1999. - Decreet houdende de aanpassing van de algemene uitgavenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 1999 (Vertaling).

@@ -13,7 +13,7 @@ entry_into_force: 2022-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/03/25/2022031632/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2022. - Décret modifiant le décret du 30 avril 2009 relatif à l'organisation et au financement de la politique en matière de sciences et d'innovation

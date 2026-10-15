@@ -12,7 +12,7 @@ entry_into_force: 2022-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/23/2022040473/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 FEVRIER 2022. - Loi portant des dispositions en ce qui concerne le matériel corporel humain et les embryons et gamètes

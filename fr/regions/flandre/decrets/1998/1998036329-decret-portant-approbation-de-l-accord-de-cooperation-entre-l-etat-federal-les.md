@@ -13,7 +13,7 @@ entry_into_force: 1998-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/11/17/1998036329/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 1998. - Décret portant approbation de l'accord de coopération entre l'Etat fédéral, les communautés et les régions relatif à la continuité de la politique en matière de pauvreté, signé à Bruxelles le 5 mai 1998 (TRADUCTION).

@@ -12,7 +12,7 @@ published: 2008-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/27/2008202903/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2008. - Decreet houdende instemming met de Consulaire Overeenkomst tussen het Koninkrijk België en de Russische Federatie, ondertekend in Moskou, op 22 december 2004.

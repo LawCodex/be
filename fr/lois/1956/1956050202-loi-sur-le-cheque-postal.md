@@ -13,7 +13,7 @@ last_amended: 2026-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1956/05/02/1956050202/justel"
 justel_note: "Consultation des versions antérieures à partir du 27-03-1991 et mise à jour au 14-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 1956. - Loi sur le chèque postal.

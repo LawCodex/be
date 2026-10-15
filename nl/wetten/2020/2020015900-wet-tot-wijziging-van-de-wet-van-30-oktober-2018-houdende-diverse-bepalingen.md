@@ -10,7 +10,7 @@ date: 2020-11-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/11/04/2020015900/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 NOVEMBER 2020. - Wet tot wijziging van de wet van 30 oktober 2018 houdende diverse bepalingen inzake gezondheid met het oog op het uitstel van de inwerkingtreding van de wettelijke bepalingen inzake de vestiging van voor het publiek opengestelde apotheken

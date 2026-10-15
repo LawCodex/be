@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/08/2007022394/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 27-03-2007 en tekstbijwerking tot 10-05-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 2007. - Wet tot oprichting van een Federale Adviesraad voor Ouderen

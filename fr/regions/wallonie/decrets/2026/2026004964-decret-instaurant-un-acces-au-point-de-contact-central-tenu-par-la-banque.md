@@ -13,7 +13,7 @@ entry_into_force: 2026-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/18/2026004964/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2026. - Décret instaurant un accès au point de contact central tenu par la Banque nationale de Belgique pour les fonctionnaires du Service public de Wallonie Finances chargés du recouvrement des créances fiscales

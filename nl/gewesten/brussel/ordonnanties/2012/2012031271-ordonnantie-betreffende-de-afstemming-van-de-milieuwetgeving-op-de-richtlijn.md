@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/05/10/2012031271/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 18-06-2014 en tekstbijwerking tot 18-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 2012. - Ordonnantie betreffende de afstemming van de milieuwetgeving op de Richtlijn 2008/99/EG inzake de bescherming van het milieu door middel van het strafrecht

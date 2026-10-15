@@ -12,7 +12,7 @@ entry_into_force: 2014-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/25/2012015168/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AOUT 2012. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de l'Etat du Qatar concernant l'encouragement et la protection réciproques des investissements, fait à Doha le 6 novembre 2007

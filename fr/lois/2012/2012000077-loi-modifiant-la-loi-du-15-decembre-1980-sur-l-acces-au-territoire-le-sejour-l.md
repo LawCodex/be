@@ -12,7 +12,7 @@ entry_into_force: 2012-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/01/08/2012000077/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JANVIER 2012. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers

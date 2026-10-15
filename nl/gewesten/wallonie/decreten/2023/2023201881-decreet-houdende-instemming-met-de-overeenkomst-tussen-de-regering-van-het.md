@@ -13,7 +13,7 @@ entry_into_force: 2023-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/23/2023201881/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2023. - Decreet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België, de Regering van de Vlaamse Gemeenschap, de Regering van de Franse Gemeenschap, de Regering van de Duitstalige Gemeenschap, de Regering van het Vlaamse Gewest, de Regering van het Waalse Gewest, de Regering van het Brussels Hoofdstedelijk Gewest en de Regering van de Franse Republiek inzake het vervoer van lijken over land, gedaan te Parijs op 9 maart 2020

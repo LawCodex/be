@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/12/17/2019042933/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 27-03-2020 en tekstbijwerking tot 26-01-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2019. - Ordonnantie houdende de Middelenbegroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2020

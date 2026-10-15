@@ -12,7 +12,7 @@ entry_into_force: 2014-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/26/2014015103/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBRE 2013. - Loi portant assentiment à l'Accord entre le Royaume de Belgique, le grand-duché de Luxembourg et le Royaume des Pays-Bas (les Etats du Benelux) et la République du Kosovo relatif à la reprise et à la réadmission des personnes en situation irrégulière (Accord de reprise et de réadmission) et au Protocole d'application, faits à Bruxelles le 12 mai 2011

@@ -12,7 +12,7 @@ published: 2023-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/10/28/2022042793/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2022. - Decreet tot wijziging van de Codex Secundair Onderwijs van 17 december 2010, wat de voorrangsgroepen voor leerlingen met een voortraject in het Nederlandstalig basisonderwijs bij de inschrijvingen in het gewoon secundair onderwijs betreft

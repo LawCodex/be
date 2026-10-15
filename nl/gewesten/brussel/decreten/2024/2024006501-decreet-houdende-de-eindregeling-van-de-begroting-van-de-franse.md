@@ -11,7 +11,7 @@ date: 2024-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/06/20/2024006501/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2024. - Decreet houdende de eindregeling van de begroting van de Franse Gemeenschapscommissie voor het jaar 2014

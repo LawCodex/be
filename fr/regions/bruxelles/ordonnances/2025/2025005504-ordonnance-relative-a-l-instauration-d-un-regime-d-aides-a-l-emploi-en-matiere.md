@@ -12,7 +12,7 @@ published: 2025-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/07/17/2025005504/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2025. - Ordonnance relative à l'instauration d'un régime d'aides à l'emploi en matière d'inclusion professionnelle en faveur des personnes en situation de handicap

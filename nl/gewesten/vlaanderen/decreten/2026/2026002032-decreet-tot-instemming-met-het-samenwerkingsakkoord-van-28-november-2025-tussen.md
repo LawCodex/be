@@ -13,7 +13,7 @@ entry_into_force: 2026-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/03/06/2026002032/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2026. - Decreet tot instemming met het samenwerkingsakkoord van 28 november 2025 tussen het Vlaamse Gewest en het Waalse Gewest over de afstemming van het arbeidsmarktbeleid en de bevordering van de mobiliteit van werkzoekenden

@@ -13,7 +13,7 @@ entry_into_force: 1995-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/11/28/1995033029/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 1994. - Décret contenant le règlement définitif du budget de la Communauté germanophone pour l'année budgétaire 1992 (TRADUCTION)

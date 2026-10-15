@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/06/01/1994035848/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 02-08-1994 et mise à jour au 17-04-1998"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 1994. - Décret réglant le transfert de biens mobiliers et immobiliers de la Communauté flamande à la Commission communautaire flamand. (Traduction)

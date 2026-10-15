@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/04/10/2016007106/justel"
 department: "Défense Nationale"
 justel_note: "Consultation des versions antérieures à partir du 26-04-2016 et mise à jour au 18-04-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2016. - Loi relative au travail à distance au sein de la Défense

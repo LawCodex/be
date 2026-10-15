@@ -13,7 +13,7 @@ entry_into_force: 2000-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/12/14/2000027592/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2000. - Decreet houdende goedkeuring van het samenwerkingsakkoord betreffende de programma's voor taalbadcursussen, gesloten op 4 juli 2000 door de Franse Gemeenschap en het Waalse Gewest (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/15/2007200440/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2006. - Decreet houdende wijziging van de bepalingen van toepassing op het politiek verlof van het onderwijzend en daarmee gelijkgesteld personeel (VERTALING).

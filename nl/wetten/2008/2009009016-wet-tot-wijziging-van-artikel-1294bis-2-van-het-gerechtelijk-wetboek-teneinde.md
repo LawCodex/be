@@ -12,7 +12,7 @@ entry_into_force: 2009-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/10/31/2009009016/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 OKTOBER 2008. - Wet tot wijziging van artikel 1294bis, § 2, van het Gerechtelijk Wetboek teneinde de wet van 27 april 2007 betreffende de hervorming van de echtscheiding te verduidelijken.

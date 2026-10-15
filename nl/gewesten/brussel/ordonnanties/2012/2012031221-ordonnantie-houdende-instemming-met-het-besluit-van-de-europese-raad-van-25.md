@@ -13,7 +13,7 @@ entry_into_force: 2012-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/04/26/2012031221/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2012. - Ordonnantie houdende instemming met : het besluit van de Europese Raad van 25 maart 2011 tot wijziging van artikel 136 van het Verdrag betreffende de werking van de Europese Unie met betrekking tot een stabilisatiemechanisme voor de lidstaten die de euro als munt hebben

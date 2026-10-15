@@ -13,7 +13,7 @@ entry_into_force: 2008-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/15/2008202802/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2008. - Decreet houdende instemming met het Verdrag van de Raad van Europa ter bestrijding van mensenhandel, opgemaakt in Warschau op 16 mei 2005.

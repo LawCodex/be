@@ -13,7 +13,7 @@ entry_into_force: 2019-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/12/12/2019205924/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2019. - Décret modifiant les articles 411 et 412 du Code wallon de l'Action sociale et de la Santé et insérant un article 413bis

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/11/2009202854/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 04-08-2009 et mise à jour au 07-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2009. - [Décret relatif au Centre de pédagogie de soutien, visant l'amélioration du soutien pédagogique spécialisé dans les écoles ordinaires et spécialisées et encourageant le soutien des élèves à besoins spécifiques ou en difficulté d'adaptation ou d'apprentissage dans les écoles ordinaires et spécialisées] (Intitulé remplacé par ERRATUM, voir M.B. 08-03-2012, p. 14283) (Texte remplacé par ERRATUM, voir M.B. 08-03-2012, p. 14283-14317)

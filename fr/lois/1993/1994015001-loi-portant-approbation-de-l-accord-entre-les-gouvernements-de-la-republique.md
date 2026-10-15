@@ -12,7 +12,7 @@ entry_into_force: 1993-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/08/06/1994015001/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AOUT 1993. - Loi portant approbation de l'Accord entre les Gouvernements de la République francaise, de la République fédérale d'Allemagne, du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, du Royaume d'Espagne et du Royaume de Belgique relatif au programme AIRBUS A320, et Annexes 1 et 2, signé à Bonn le 6 février 1991.

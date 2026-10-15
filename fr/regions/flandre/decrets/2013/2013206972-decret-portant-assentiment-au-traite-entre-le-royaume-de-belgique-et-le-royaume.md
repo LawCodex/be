@@ -13,7 +13,7 @@ entry_into_force: 2014-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/29/2013206972/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2013. - Décret portant assentiment au traité entre le Royaume de Belgique et le Royaume des Pays-Bas pour le développement de la coopération et de l'entraide administrative en matière de sécurité sociale, signé à Bruxelles le 6 décembre 2010

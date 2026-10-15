@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/14/2022015455/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 05-08-2022 et mise à jour au 29-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2022. - Loi modifiant la loi du 30 novembre 1998 organique des services de renseignement et de sécurité

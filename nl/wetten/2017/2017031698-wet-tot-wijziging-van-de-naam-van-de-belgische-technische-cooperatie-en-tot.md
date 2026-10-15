@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/11/23/2017031698/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
 justel_note: "Raadpleging van vroegere versies vanaf 11-12-2017 en tekstbijwerking tot 01-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2017. - Wet tot wijziging van de naam van de Belgische Technische Coöperatie en tot vaststelling van de opdrachten en de werking van Enabel, Belgisch Ontwikkelingsagentschap

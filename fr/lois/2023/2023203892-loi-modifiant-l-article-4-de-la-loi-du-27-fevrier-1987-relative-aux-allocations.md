@@ -12,7 +12,7 @@ entry_into_force: 2023-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/05/25/2023203892/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2023. - Loi modifiant l'article 4 de la loi du 27 février 1987 relative aux allocations aux personnes handicapées en vue d'ouvrir aux bénéficiaires de la protection subsidiaire l'accès à l'allocation de remplacement de revenus et à l'allocation d'intégration (1). (Ce texte annule et remplace celui paru au M.B. du 24-07-2023, p. 61114)

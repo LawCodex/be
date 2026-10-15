@@ -11,7 +11,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/08/10/2004007211/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2004. - Wet houdende vervanging van de datum van 8 mei 1945 door 2 september 1945 in bepaalde statuten van nationale erkentelijkheid.

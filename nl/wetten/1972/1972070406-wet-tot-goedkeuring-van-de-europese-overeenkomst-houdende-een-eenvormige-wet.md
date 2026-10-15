@@ -11,7 +11,7 @@ published: 1972-08-08
 entry_into_force: 1972-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1972/07/04/1972070406/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 1972. - Wet tot goedkeuring van de Europese Overeenkomst houdende een eenvormige Wet inzake arbitrage ondertekend te straatsburg op 20 januari 1966, en tot invoering in het Gerechtelijk Wetboek van een zesde deel betreffende de arbitrage.

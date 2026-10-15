@@ -13,7 +13,7 @@ entry_into_force: 2012-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/01/12/2012200405/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2012. - Décret portant assentiment à l'accord de coopération du 30 septembre 2011 entre la Région wallonne et la Communauté germanophone relatif à la mobilité des apprenants dans le cadre de la formation en alternance et des indépendants et petites et moyennes entreprises

@@ -13,7 +13,7 @@ entry_into_force: 2023-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/23/2023043362/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2023. - Décret portant assentiment au Protocole, signé à Bruxelles le 6 décembre 2022, modifiant le Protocole relatif aux privilèges et immunités de l'Organisation Benelux pour la Propriété intellectuelle (marques et dessins ou modèles)

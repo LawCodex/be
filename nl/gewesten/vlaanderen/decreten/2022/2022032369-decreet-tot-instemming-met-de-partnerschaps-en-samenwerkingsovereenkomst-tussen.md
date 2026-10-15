@@ -13,7 +13,7 @@ entry_into_force: 2022-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/03/2022032369/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2022. - Decreet tot instemming met de partnerschaps- en samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Singapore, anderzijds, ondertekend te Brussel op 19 oktober 2018

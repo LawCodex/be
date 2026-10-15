@@ -13,7 +13,7 @@ entry_into_force: 2019-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/01/2019040253/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2019. - Décret portant assentiment à l'accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de l'Etat du Qatar relatif au transport aérien, fait à Bruxelles le 6 mars 2018

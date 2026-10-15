@@ -13,7 +13,7 @@ entry_into_force: 2015-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/02/2015031835/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2014. - Decreet houdende instemming met de globale Kaderovereenkomst van partnership en samenwerking tussen de europese Gemeenschap en haar lidstaten enerzijds en de Republiek Indonesië anderzijds, en met de finale Acte, gedaan in Jakarta op 9 november 2009

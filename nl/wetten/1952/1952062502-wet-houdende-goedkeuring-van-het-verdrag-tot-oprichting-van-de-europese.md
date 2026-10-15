@@ -11,7 +11,7 @@ published: 1952-08-06
 entry_into_force: 1952-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1952/06/25/1952062502/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 1952. - Wet houdende goedkeuring van het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, van de Bijlagen I, II en III, van het Protocol over de Voorrechten en Immuniteiten van de Gemeenschap, van het Protocol over het Statuut van het Hof van Justitie, van het Protocol over de betrekkingen met de Raad van Europa en van de Overeenkomst betreffende de Overgangsbepalingen, ondertekend de 18e April 1951, te Parijs.

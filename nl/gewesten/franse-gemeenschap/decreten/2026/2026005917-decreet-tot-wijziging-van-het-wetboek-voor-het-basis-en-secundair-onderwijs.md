@@ -13,7 +13,7 @@ entry_into_force: 2026-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/17/2026005917/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2026. - Decreet tot wijziging van het Wetboek voor het basis- en secundair onderwijs, zoals gewijzigd bij het decreet van 16 mei 2024 houdende definitieve uitsluiting en tot instelling van bevoegde netoverschrijdende kamers om kennis te nemen van beroepen tegen de beslissingen tot definitieve uitsluiting

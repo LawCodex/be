@@ -11,7 +11,7 @@ published: 2016-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/07/21/2016024163/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JULI 2016. - Wet tot wijziging van de wet van 14 juni 2002 betreffende de palliatieve zorg, tot verruiming van de definitie van palliatieve zorg

@@ -13,7 +13,7 @@ entry_into_force: 2018-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/09/2018015063/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBRE 2018. - Décret du compte général de la Communauté flamande et de l'exécution du budget des personnes morales flamandes sans conseil d'administration pour l'année budgétaire 2017

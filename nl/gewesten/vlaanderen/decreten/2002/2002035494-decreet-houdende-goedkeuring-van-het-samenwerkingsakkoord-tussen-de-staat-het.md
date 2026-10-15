@@ -13,7 +13,7 @@ entry_into_force: 2002-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/03/22/2002035494/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2002. - Decreet houdende goedkeuring van het samenwerkingsakkoord tussen de Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot het meerjareninvesteringsplan voor 2001-2012 van de N.M.B.S.

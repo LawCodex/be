@@ -12,7 +12,7 @@ published: 2017-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/12/2017204189/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2017. - Decreet tot wijziging van het decreet van 6 mei 1999 betreffende de vestiging, de invordering en de geschillen inzake de Waalse gewestelijke belastingen

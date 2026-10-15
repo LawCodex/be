@@ -13,7 +13,7 @@ entry_into_force: 2006-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/16/2006036085/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2006. - Decreet houdende instemming met het samenwerkingsakkoord van 30 mei 2005 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie.

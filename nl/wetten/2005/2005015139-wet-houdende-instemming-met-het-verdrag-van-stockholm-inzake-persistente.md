@@ -12,7 +12,7 @@ entry_into_force: 2006-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/09/17/2005015139/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBER 2005. - Wet houdende instemming met het Verdrag van Stockholm inzake persistente organische verontreinigende stoffen, en met de Bijlagen A, B, C, D, E en F, gedaan te Stockholm op 22 mei 2001.

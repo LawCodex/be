@@ -13,7 +13,7 @@ entry_into_force: 2024-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/02/26/2024201294/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2024. - Décret portant assentiment à la Convention du Conseil de l'Europe sur la manipulation de compétitions sportives, faite à Macolin le 18 septembre 2014

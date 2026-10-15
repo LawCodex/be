@@ -12,7 +12,7 @@ last_amended: 2026-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1808/11/19/1808111901/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-1990 en tekstbijwerking tot 14-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 1808. - WETBOEK VAN STRAFVORDERING. BOEK II, TITEL I. (Art. 137 tot en met 216septies) (Om technische redenen is het Wetboek van Strafvordering ingedeeld in 8 delen waarvan het derde deel Titel 1 van het Tweede Boek omvat.)

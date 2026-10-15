@@ -12,7 +12,7 @@ entry_into_force: 2021-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/09/2021034238/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2021. - Wet tot wijziging van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, wat de toepassing ervan betreft op de vergaderingen van de Franse Gemeenschapscommissie en de Vlaamse Gemeenschapscommissie

@@ -13,7 +13,7 @@ entry_into_force: 2004-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/12/09/2004027255/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2004. - Décret modifiant l'article 159, 8°, du Code des droits d'enregistrement, d'hypothèque et de greffe.

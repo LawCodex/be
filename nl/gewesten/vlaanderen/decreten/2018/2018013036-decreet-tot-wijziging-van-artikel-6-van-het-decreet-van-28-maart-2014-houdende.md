@@ -13,7 +13,7 @@ entry_into_force: 2018-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/06/2018013036/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2018. - Decreet tot wijziging van artikel 6 van het decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen in de vorm van een private stichting

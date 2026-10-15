@@ -13,7 +13,7 @@ entry_into_force: 2024-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/05/16/2024005042/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Ordonnantie tot wijziging van artikel 12bis van de Nieuwe Gemeentewet om de inclusie van personen met een verstandelijke handicap bij de uitoefening van gemeentelijke mandaten te verzekeren

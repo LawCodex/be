@@ -12,7 +12,7 @@ entry_into_force: 2022-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/12/2022015344/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2022. - Wet tot wijziging van de wet van 8 augustus 1980 betreffende de budgettaire voorstellen 1979-1980 en tot wijziging van de programmawet van 30 december 2001

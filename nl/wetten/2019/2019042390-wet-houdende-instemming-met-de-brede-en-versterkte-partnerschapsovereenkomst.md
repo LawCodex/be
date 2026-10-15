@@ -12,7 +12,7 @@ entry_into_force: 2021-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/17/2019042390/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2019. - Wet houdende instemming met de Brede en Versterkte Partnerschapsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en de Republiek Armenië, anderzijds, gedaan te Brussel op 24 november 2017

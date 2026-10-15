@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/12/12/2016031878/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-2016 en tekstbijwerking tot 05-01-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2016. - Ordonnantie houdende het tweede deel van de fiscale hervorming

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/19/1995036105/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 05-09-1995 et mise à jour au 26-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 1995. - [Décret relatif à l'organisation et au fonctionnement du service de pilotage de la Région flamande et relatif aux brevets de pilote de port, de maître d'équipage et de pilote de haute mer]. &lt;DCFL 2012-11-30/09 , art. 3, 009; En vigueur : 29-12-2012&gt; (Traduction)

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/11/02/2010003613/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 23-11-2010 et mise à jour au 30-09-2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 NOVEMBRE 2010. - Loi relatif à la participation de l'Etat belge dans la société anonyme "European Financial Stability Facility" et à l'octroi de la garantie de l'Etat aux instruments financiers émis par cette société

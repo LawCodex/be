@@ -12,7 +12,7 @@ entry_into_force: 2008-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/09/10/2009022466/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 SEPTEMBER 2009. - Wet tot wijziging van artikel 215 van de programmawet van 27 december 2004 teneinde de doelgroep uit te breiden die een toelage van het Sociaal Stookoliefonds kan genieten

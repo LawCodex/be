@@ -12,7 +12,7 @@ published: 2023-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/23/2023048095/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Décret sur les réseaux flamands du patrimoine

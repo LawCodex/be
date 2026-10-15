@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/10/19/1998002117/justel"
 department: "Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 1998. - Loi modifiant l'article 43 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966.

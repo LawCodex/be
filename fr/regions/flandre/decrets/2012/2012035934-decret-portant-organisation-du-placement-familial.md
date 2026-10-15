@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/29/2012035934/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 16-08-2012 et mise à jour au 10-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2012. - Décret portant organisation du placement familial

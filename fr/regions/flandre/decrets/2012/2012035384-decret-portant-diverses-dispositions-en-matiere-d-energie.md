@@ -13,7 +13,7 @@ entry_into_force: 2012-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/16/2012035384/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2012. - Décret portant diverses dispositions en matière d'énergie

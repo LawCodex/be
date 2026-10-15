@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/15/2007000560/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 15-06-2007 en tekstbijwerking tot 29-04-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2007. - Wet op de Algemene Inspectie en houdende diverse bepalingen betreffende de rechtspositie van sommige leden van de politiediensten

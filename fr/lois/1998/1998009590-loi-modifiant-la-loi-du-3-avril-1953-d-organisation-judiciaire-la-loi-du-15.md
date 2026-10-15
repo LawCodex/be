@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/07/20/1998009590/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 21-07-1998 et mise à jour au 27-04-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 1998. - Loi modifiant la loi du 3 avril 1953 d'organisation judiciaire, la loi du 15 juillet 1970 déterminant le cadre des tribunaux de commerce et modifiant la loi du 10 octobre 1967 contenant le Code judiciaire, la loi du 2 juillet 1975 déterminant le cadre du personnel des tribunaux de première instance et les articles 151 et 213 du Code judiciaire

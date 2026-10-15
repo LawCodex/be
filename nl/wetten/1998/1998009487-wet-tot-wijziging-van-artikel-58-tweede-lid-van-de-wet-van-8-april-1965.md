@@ -12,7 +12,7 @@ entry_into_force: 1998-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/05/18/1998009487/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 1998. - Wet tot wijziging van artikel 58, tweede lid, van de wet van 8 april 1965 betreffende de jeugdbescherming.

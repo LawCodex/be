@@ -12,7 +12,7 @@ entry_into_force: 2011-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/03/03/2011007063/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2011. - Loi portant assentiment de l'accord de coopération du 2 avril 2010 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale pour la coordination d'une infrastructure d'information géographique

@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/05/12/2005201400/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2005. - Décret abrogeant la taxe sur les logements abandonnés en Région wallonne.

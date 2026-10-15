@@ -12,7 +12,7 @@ entry_into_force: 1995-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/01/09/1995022084/justel"
 department: "Sociale Voorzorg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 1995. - Wet tot bekrachtiging van het koninklijk besluit van 14 juli 1994 houdende coördinatie van de wet van 9 augustus 1963 tot instelling en organisatie van een regeling voor verplichte verzekering voor geneeskundige verzorging en uitkeringen en tot opheffing van een aantal niet in de coördinatie opgenomen bepalingen.

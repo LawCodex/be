@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/04/2002027635/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2002. - Decreet houdende bekrachtiging van het besluit van de Waalse Regering van 13 december 2001 tot uitvoering van het decreet van 18 juli 2001 betreffende de invoering van de euro in de aangelegenheden overgedragen aan het Waalse Gewest overeenkomstig artikel 138 van de Grondwet en houdende wijziging, met het oog op de invoering van de euro, van de decreten betreffende het toerisme (VERTALING).

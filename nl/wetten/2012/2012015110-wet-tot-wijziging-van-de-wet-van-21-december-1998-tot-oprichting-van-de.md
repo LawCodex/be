@@ -11,7 +11,7 @@ published: 2012-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/06/12/2012015110/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2012. - Wet tot wijziging van de wet van 21 december 1998 tot oprichting van de " Belgische Technische Coöperatie " in de vorm van een vennootschap van publiek recht

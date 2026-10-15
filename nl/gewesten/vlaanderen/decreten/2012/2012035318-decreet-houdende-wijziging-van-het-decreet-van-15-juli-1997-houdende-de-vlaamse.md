@@ -13,7 +13,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/03/09/2012035318/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2012. - Decreet houdende wijziging van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, wat betreft de beleidsondersteunende opdracht voor het beleidsveld Woonbeleid

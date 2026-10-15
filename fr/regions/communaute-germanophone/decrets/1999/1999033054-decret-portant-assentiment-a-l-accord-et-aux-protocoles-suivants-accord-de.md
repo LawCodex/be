@@ -13,7 +13,7 @@ entry_into_force: 2000-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/22/1999033054/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 1999. - Décret portant assentiment à l'accord et aux protocoles suivants : Accord de coopération en matière d'astrophysique (Santa Cruz de la Palma, le 26 mai 1979); Protocole d'amendement à l'accord de coopération en matière d'astrophysique en Espagne (Santa Cruz de la Palma, le 26 mai 1979); Protocole d'amendement du protocole de coopération en matière d'astrophysique (Madrid, le 18 avril 1988); Addendum au protocole de coopération en matière de recherche astrophysique entre les Gouvernements du Royaume d'Espagne, du Royaume du Danemark, du Royaume Uni de Grande Bretagne et d'Irlande du Nord et du Royaume de Suède (Madrid, le 8 avril 1983); Protocole d'amendement à l'addendum au protocole de Coopération en matière de recherche astrophysique entre les Gouvernements du Royaume d'Espagne, du Royaume du Danemark, du Royaume Uni de Grande Bretagne et d'Irlande du Nord, du Royaume de Suède et la République fédérale d'Allemagne (Madrid, le 18 avril 1988).

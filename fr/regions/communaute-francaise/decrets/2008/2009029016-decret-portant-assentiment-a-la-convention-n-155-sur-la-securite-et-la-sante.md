@@ -13,7 +13,7 @@ entry_into_force: 2009-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/14/2009029016/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 2008. - Décret portant assentiment à la Convention n° 155 sur la sécurité et la santé des travailleurs, adoptée à Genève le 22 juin 1981 par la Conférence générale de l'organisation internationale du travail.

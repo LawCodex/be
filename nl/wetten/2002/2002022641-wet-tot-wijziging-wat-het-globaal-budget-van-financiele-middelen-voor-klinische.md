@@ -11,7 +11,7 @@ published: 2002-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/07/10/2002022641/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2002. - Wet tot wijziging, wat het globaal budget van financiële middelen voor klinische biologie en medische beeldvorming betreft, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994.

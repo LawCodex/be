@@ -12,7 +12,7 @@ published: 2013-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/10/10/2013205787/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 2013. - Decreet houdende goedkeuring van de samenwerkingsakkoorden tussen het Waalse Gewest en de Franse Gemeenschap en betreffende de toetreding van de Franse Gemeenschap tot verscheidene bij wijze van overheidsopdracht georganiseerde aankoopcentrales geactiveerd door het Waalse Gewest

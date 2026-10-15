@@ -12,7 +12,7 @@ entry_into_force: 2002-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/12/11/2002009072/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2001. - Wet tot wijziging van de artikelen 80, 471 en 472 van het Strafwetboek en artikel 90ter, § 2, 8°, van het Wetboek van strafvordering.

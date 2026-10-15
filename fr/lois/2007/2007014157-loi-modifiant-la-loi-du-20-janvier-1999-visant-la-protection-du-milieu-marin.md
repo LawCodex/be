@@ -12,7 +12,7 @@ entry_into_force: 2007-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/21/2007014157/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2007. - Loi modifiant la loi du 20 janvier 1999 visant la protection du milieu marin dans les espaces marins sous juridiction de la Belgique.

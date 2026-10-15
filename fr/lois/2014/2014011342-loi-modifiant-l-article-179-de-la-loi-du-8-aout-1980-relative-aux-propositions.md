@@ -12,7 +12,7 @@ entry_into_force: 2014-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/06/03/2014011342/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2014. - Loi modifiant l'article 179 de la loi du 8 août 1980 relative aux propositions budgétaires 1979-1980 en vue de la transposition dans le droit interne de la Directive 2011/70/Euratom du Conseil du 19 juillet 2011 établissant un cadre communautaire pour la gestion responsable et sûre du combustible usé et des déchets radioactifs

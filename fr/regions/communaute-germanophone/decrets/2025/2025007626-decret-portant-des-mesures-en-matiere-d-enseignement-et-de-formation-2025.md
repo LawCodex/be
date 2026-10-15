@@ -13,7 +13,7 @@ entry_into_force: 2025-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/06/30/2025007626/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2025. - Décret portant des mesures en matière d'enseignement et de formation 2025

@@ -12,7 +12,7 @@ entry_into_force: 2023-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/13/2023205680/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2023. - Decreet houdende instemming met de investeringsbeschermingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds, gedaan te Hanoi op 30 juni 2019

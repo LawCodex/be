@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/07/22/1993000447/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
 justel_note: "Raadpleging van vroegere versies vanaf 23-12-1994 en tekstbijwerking tot 08-07-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 1993. - Wet houdende bepaalde maatregelen inzake ambtenarenzaken.

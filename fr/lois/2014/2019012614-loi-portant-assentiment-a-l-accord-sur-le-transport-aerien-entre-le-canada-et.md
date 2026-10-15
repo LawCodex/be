@@ -11,7 +11,7 @@ published: 2019-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/26/2019012614/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2014. - Loi portant assentiment à l'Accord sur le transport aérien entre le Canada et la Communauté européenne et ses Etats Membres, fait à Bruxelles le 17 décembre 2009 (1). - Addendum

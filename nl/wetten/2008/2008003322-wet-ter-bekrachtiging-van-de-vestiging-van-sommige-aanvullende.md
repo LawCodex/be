@@ -12,7 +12,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/07/24/2008003322/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 2008. - Wet ter bekrachtiging van de vestiging van sommige aanvullende gemeentebelastingen en de aanvullende agglomeratiebelasting op de personenbelasting voor elk van de aanslagjaren 2001 tot 2007 en tot wijziging, met ingang van aanslagjaar 2009, van artikel 468 van het Wetboek van de inkomstenbelastingen 1992.

@@ -11,7 +11,7 @@ published: 1958-05-10
 entry_into_force: 1958-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1958/04/30/1958043004/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 1958. - Wet [betreffende de handelingsbekwaamheid van de minderjarige voor sommige spaarverrichtingen] (W 04-07-1985, art. 1, BS 14-08-1985).

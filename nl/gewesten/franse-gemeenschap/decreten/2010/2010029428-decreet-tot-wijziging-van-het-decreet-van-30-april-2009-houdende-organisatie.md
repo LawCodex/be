@@ -13,7 +13,7 @@ entry_into_force: 2010-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/07/08/2010029428/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2010. - Decreet tot wijziging van het decreet van 30 april 2009 houdende organisatie van een gedifferentieerde omkadering binnen de schoolinrichtingen van de Franse Gemeenschap om alle leerlingen gelijke kansen op sociale emancipatie te bieden in een kwaliteitsvolle pedagogische omgeving

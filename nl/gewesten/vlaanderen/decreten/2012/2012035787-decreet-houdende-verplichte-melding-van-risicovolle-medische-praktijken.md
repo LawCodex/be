@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/22/2012035787/justel"
 department: "Vlaamse Overheid"
 justel_note: "bij arrest nr. 170/2013 van 19-12-2013 (B.St. 13-03-2014, p. 21450-21455), heeft het Grondwettekijk Hof dit decreet vernietigd"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2012. - Decreet houdende verplichte melding van risicovolle medische praktijken.

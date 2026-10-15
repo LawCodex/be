@@ -13,7 +13,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/12/19/2009031000/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2008. - Ordonnance modifiant l'article 38bis de l'ordonnance du 19 juillet 2001 relative à l'organisation du marché de l'électricité en Région de Bruxelles-Capitale.

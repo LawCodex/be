@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/20/2020041431/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 29-05-2020 et mise à jour au 30-06-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 2020. - Loi portant des dispositions diverses en matière de justice dans le cadre de la lutte contre la propagation du coronavirus COVID-19

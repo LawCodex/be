@@ -12,7 +12,7 @@ entry_into_force: 1998-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/03/03/1998022245/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 1998. - Wet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat en de Gewesten betreffende de administratieve en wetenschappelijke coördinatie inzake bioveiligheid.

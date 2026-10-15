@@ -13,7 +13,7 @@ entry_into_force: 2014-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/22/2014035082/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2013. - Décret modifiant le titre XVI du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement

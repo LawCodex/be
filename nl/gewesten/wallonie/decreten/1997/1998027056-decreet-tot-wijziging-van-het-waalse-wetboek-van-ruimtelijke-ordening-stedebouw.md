@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/11/27/1998027056/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 12-02-1998 en tekstbijwerking tot 14-11-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 1997. - Decreet tot wijziging van het Waalse Wetboek van Ruimtelijke Ordening, Stedebouw en Patrimonium (VERTALING).

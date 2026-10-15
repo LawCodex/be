@@ -13,7 +13,7 @@ entry_into_force: 2026-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/10/2026006089/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2026. - Decreet tot wijziging van het Groeipakketdecreet van 2018 en het decreet van 7 juli 2017 tot oprichting van een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid, tot vaststelling van vergunningsnormen voor private uitbetalingsactoren en tot wijziging van het decreet van 30 april 2004 betreffende de oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin

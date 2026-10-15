@@ -12,7 +12,7 @@ entry_into_force: 2018-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/11/23/2018032362/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2018. - Wet tot wijziging van de wet van 25 ventôse jaar XI op het notarisambt, in verband met de benoemingscommissies voor het notariaat

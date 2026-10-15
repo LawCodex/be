@@ -13,7 +13,7 @@ entry_into_force: 2015-11-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/10/16/2015036283/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2015. - Décret instaurant une mesure transitoire quant à l'Eurovignette et portant modification du Code flamand de la Fiscalité du 13 décembre 2013 dans ce contexte

@@ -13,7 +13,7 @@ entry_into_force: 2021-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/12/13/2021034362/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2021. - Ordonnance ajustant le Budget des Voies et Moyens de la Commission communautaire commune pour l'année budgétaire 2021

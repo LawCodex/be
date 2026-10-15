@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/20/2002027225/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 23-04-2002 et mise à jour sommaire au 13-02-2003"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2001. - Décret contenant le budget général des dépenses de la Région wallonne pour l'année budgétaire 2002.

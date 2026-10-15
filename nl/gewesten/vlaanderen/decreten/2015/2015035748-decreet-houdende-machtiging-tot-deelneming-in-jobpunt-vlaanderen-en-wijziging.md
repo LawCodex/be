@@ -13,7 +13,7 @@ entry_into_force: 2015-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/05/29/2015035748/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2015. - Decreet houdende machtiging tot deelneming in Jobpunt Vlaanderen en wijziging van de opdracht van Jobpunt Vlaanderen

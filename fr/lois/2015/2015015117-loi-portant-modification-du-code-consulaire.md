@@ -12,7 +12,7 @@ entry_into_force: 2015-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/08/10/2015015117/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2015. - Loi portant modification du Code consulaire

@@ -13,7 +13,7 @@ entry_into_force: 2016-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/03/03/2016201319/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 2016. - Decreet houdende instemming met het Akkoord tussen de Regering van het Koninkrijk België en de Regering van de Russische Federatie betreffende het internationaal vervoer over de weg, opgemaakt te Moskou op 2 maart 2007

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/23/2008029358/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-07-2008 en tekstbijwerking tot 27-02-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2008. - Decreet betreffende de erkenning en de subsidiëring van het Belgisch Olympisch en Interfederaal Comité (VERTALING)

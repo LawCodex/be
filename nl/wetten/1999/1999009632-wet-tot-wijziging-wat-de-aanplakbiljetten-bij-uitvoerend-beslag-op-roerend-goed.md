@@ -12,7 +12,7 @@ entry_into_force: 1999-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/07/1999009632/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 1999. - Wet tot wijziging, wat de aanplakbiljetten bij uitvoerend beslag op roerend goed betreft, van de artikelen 1516, 1517, 1518 en 1519 van het Gerechtelijk Wetboek.

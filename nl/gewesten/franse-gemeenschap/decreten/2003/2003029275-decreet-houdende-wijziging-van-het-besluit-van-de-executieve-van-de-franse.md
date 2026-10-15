@@ -13,7 +13,7 @@ entry_into_force: 2003-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/04/10/2003029275/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2003. - Decreet houdende wijziging van het besluit van de Executieve van de Franse Gemeenschap van 3 december 1992 betreffende de onderbreking van de beroepsloopbaan in het onderwijs en de psycho-medisch-sociale centra (VERTALING).

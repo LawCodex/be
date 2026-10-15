@@ -12,7 +12,7 @@ entry_into_force: 2024-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/12/21/2023048476/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2023. - Wet tot wijziging van de wet van 6 augustus 1990 betreffende de ziekenfondsen en de landsbonden van ziekenfondsen, met betrekking tot de dienst voorhuwelijkssparen en de opdrachten van de controledienst voor de ziekenfondsen en de landsbonden van ziekenfondsen ten opzichte van de verzekeringsmaatschappijen van onderlinge bijstand en hun verzekeringstussenpersonen

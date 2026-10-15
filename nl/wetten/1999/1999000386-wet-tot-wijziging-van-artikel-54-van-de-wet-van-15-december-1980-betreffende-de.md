@@ -12,7 +12,7 @@ entry_into_force: 1999-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/07/1999000386/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 1999. - Wet tot wijziging van artikel 54 van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen en van artikel 57ter van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, van de artikelen 2, § 5, 5, § 2 en 11bis van de wet van 2 april 1965 betreffende het ten laste nemen van de steun verleend door openbare centra voor maatschappelijk welzijn.

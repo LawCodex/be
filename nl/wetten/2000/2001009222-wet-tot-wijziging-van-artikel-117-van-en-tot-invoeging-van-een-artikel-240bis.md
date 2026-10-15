@@ -12,7 +12,7 @@ entry_into_force: 2001-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/03/28/2001009222/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2000. - Wet tot wijziging van artikel 117 van en tot invoeging van een artikel 240bis in het Gerechtelijk Wetboek.

@@ -12,7 +12,7 @@ entry_into_force: 2007-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/20/2007003169/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2007. - Loi interdisant le financement de la fabrication, de l'utilisation ou de la détention de mines antipersonnel et de sous-munitions.

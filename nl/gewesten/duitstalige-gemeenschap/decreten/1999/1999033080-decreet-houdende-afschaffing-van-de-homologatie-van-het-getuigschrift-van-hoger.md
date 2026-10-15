@@ -12,7 +12,7 @@ entry_into_force: 1998-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/10/1999033080/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 1999. - Decreet houdende afschaffing van de homologatie van het getuigschrift van hoger secundair onderwijs (VERTALING)

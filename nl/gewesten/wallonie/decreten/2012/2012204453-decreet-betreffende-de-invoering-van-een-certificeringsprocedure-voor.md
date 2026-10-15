@@ -13,7 +13,7 @@ entry_into_force: 2012-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/18/2012204453/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2012. - Decreet betreffende de invoering van een certificeringsprocedure voor installateurs van systemen voor energieproductie uit hernieuwbare energiebronnen en van systemen voor energie-efficiëntie

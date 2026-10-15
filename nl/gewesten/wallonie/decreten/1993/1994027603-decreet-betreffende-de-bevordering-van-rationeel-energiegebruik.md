@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/12/09/1994027603/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 09-06-2016 en tekstbijwerking tot 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 1993. - [Decreet betreffende de bevordering van rationeel energiegebruik, energiebesparingen en hernieuwbare energieën.] &lt;Vertaling&gt; &lt;Opschrift gewijzigd bij DWG 2016-05-26/17 , art. , 002; Inwerkingtreding : 19-06-2016&gt;

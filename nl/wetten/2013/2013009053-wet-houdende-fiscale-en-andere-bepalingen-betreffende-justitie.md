@@ -12,7 +12,7 @@ entry_into_force: 2013-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/01/14/2013009053/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 2013. - Wet houdende fiscale en andere bepalingen betreffende justitie

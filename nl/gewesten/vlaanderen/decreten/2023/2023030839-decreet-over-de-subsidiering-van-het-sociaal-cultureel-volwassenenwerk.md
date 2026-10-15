@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/10/2023030839/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 14-04-2023 en tekstbijwerking tot 06-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2023. - Decreet over de subsidiëring van het sociaal-cultureel volwassenenwerk

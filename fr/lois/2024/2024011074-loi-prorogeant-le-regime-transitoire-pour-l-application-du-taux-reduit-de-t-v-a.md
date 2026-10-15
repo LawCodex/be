@@ -12,7 +12,7 @@ entry_into_force: 2024-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/12/10/2024011074/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2024. - Loi prorogeant le régime transitoire pour l'application du taux réduit de T.V.A. de 6 % à la démolition et à la reconstruction de bâtiments

@@ -12,7 +12,7 @@ entry_into_force: 2017-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/26/2017011774/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBRE 2015. - Loi portant assentiment à l'Accord entre le Royaume de Belgique, représenté par son Gouvernement, et l'Etat d'Israël, représenté par son Gouvernement, sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques ou de postes consulaires, fait à Jérusalem le 11 novembre 2013

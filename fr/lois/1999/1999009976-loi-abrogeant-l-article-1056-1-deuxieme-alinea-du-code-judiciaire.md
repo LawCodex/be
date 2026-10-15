@@ -12,7 +12,7 @@ entry_into_force: 1999-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/22/1999009976/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 1999. - Loi abrogeant l'article 1056, 1°, deuxième alinéa, du Code judiciaire.

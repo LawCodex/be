@@ -12,7 +12,7 @@ entry_into_force: 2023-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/04/25/2023041855/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2023. - Loi portant diverses modifications en matière électorale (II)

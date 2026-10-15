@@ -13,7 +13,7 @@ entry_into_force: 2014-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/05/16/2014031468/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2014. - Ordonnance portant assentiment à l'Accord de coopération entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Commission communautaire française et la Commission communautaire commune organisant la mise en oeuvre de la Directive 2006/123/CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans le marché intérieur

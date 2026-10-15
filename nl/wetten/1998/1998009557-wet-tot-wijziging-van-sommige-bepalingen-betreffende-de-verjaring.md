@@ -12,7 +12,7 @@ entry_into_force: 1998-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/10/1998009557/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 1998. - Wet tot wijziging van sommige bepalingen betreffende de verjaring.

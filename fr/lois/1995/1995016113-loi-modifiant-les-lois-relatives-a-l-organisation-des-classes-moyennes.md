@@ -12,7 +12,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/06/1995016113/justel"
 department: "Classes Moyennes - Agriculture"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1995. - Loi modifiant les lois relatives à l'organisation des Classes moyennes, coordonnées le 28 mai 1974 et modifiant la loi du 15 décembre 1970 sur l'exercice des activités professionnelles dans les petites et moyennes entreprises du commerce et de l'artisanat.

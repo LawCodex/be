@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/30/2023206945/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2023. - Décret modifiant les articles 36ter et 36quater du Code des taxes assimilées aux impôts sur les revenus et modifiant l'article 22 du décret du 16 juillet 2015 instaurant un prélèvement kilométrique à charge des poids lourds pour l'utilisation des routes

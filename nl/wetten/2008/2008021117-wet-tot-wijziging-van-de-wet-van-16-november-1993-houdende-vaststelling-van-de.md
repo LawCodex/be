@@ -12,7 +12,7 @@ entry_into_force: 2009-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/12/22/2008021117/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2008. - Wet tot wijziging van de wet van 16 november 1993 houdende vaststelling van de Civiele Lijst voor de duur van de regering van Koning Albert II, tot toekenning van een jaarlijkse en levenslange dotatie aan Hare Majesteit Koningin Fabiola en van een jaarlijkse dotatie aan Zijne Koninklijke Hoogheid Prins Filip en van de wet van 7 mei 2000 houdende toekenning van een jaarlijkse dotatie aan Zijne Koninklijke Hoogheid Prins Filip, een jaarlijkse dotatie aan Hare Koninklijke Hoogheid Prinses Astrid en een jaarlijkse dotatie aan Zijne Koninklijke Hoogheid Prins Laurent.

@@ -12,7 +12,7 @@ entry_into_force: 2019-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/26/2019202602/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 2019. - Wet tot uitvoering van het ontwerp van interprofessioneel akkoord 2019-2020

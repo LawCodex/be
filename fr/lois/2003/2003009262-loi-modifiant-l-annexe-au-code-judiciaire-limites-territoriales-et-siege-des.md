@@ -12,7 +12,7 @@ entry_into_force: 2003-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/11/2003009262/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2003. - Loi modifiant l'annexe au Code judiciaire Limites territoriales et siège des cours et tribunaux.

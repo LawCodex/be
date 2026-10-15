@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/02/14/2002007064/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 FEBRUARI 2002. - Wet tot uitbreiding van de kosteloze geneeskundige verzorging tot alle oud-strijders en oorlogsslachtoffers die een oorlogsrente van ten minste 3 semesters genieten.

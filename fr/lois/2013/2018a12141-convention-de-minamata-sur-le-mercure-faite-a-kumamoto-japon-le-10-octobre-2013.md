@@ -12,7 +12,7 @@ entry_into_force: 2018-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/10/10/2018A12141/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 2013. - Convention de Minamata sur le mercure, faite à Kumamoto (Japon) le 10 octobre 2013

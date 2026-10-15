@@ -13,7 +13,7 @@ entry_into_force: 2008-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/21/2008031017/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2007. - Decreet houdende instemming met het intern akkoord tussen de vertegenwoordigers van de regeringen van de lidstaten, verenigd in de Raad, tot wijziging van het intern akkoord van 18 september 2000 betreffende de te nemen maatregelen en de te volgen procedures voor de uitvoering van het ACP-EU-partnerschapsakkoord, gedaan te Luxemburg op 10 april 2006 (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 1982-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1982/03/16/1982001063/justel"
 department: "Financiën"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 1982. - Wet tot interpretatie van de artikelen 1 en 4 van het koninklijk besluit nr. 175 van 13 juni 1935 houdende oprichting van een Herdiscontering- en Waarborginstituut.

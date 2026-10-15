@@ -12,7 +12,7 @@ entry_into_force: 2023-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/04/26/2023042328/justel"
 department: "Justice - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2023. - Loi modifiant l'arrêté-loi du 14 novembre 1939 relatif à la répression de l'ivresse afin de considérer l'arrestation pour ivresse sur la voie publique comme une arrestation administrative

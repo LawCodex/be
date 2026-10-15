@@ -13,7 +13,7 @@ entry_into_force: 2015-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/05/18/2015202646/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2015. - Decreet houdende instemming met het Protocol inzake toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik bij het Verdrag inzake biologische diversiteit en met de bijlage ervan, gedaan te Nagoya op 29 oktober 2010

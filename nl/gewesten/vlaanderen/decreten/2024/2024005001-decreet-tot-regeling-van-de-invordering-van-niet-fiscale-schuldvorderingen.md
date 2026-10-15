@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/19/2024005001/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 31-05-2024 en tekstbijwerking tot 23-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2024. - Decreet tot regeling van de invordering van niet-fiscale schuldvorderingen

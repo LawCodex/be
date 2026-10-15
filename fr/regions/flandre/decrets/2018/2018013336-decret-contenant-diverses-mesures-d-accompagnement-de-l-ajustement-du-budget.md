@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/06/2018013336/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-08-2018 et mise à jour au 07-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2018. - Décret contenant diverses mesures d'accompagnement de l'ajustement du budget 2018

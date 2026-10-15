@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/06/15/2007036482/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-08-2007 et mise à jour au 07-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2007. - Décret relatif à l'éducation des adultes. (TRADUCTION)

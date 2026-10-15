@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/06/03/2007012307/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 23-07-2007 en tekstbijwerking tot 16-01-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2007. - Wet houdende diverse arbeidsbepalingen

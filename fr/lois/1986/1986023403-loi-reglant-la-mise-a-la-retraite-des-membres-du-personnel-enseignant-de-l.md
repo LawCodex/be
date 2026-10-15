@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1986/08/04/1986023403/justel"
 department: "Education nationale - Enseignement"
 justel_note: "Consultation des versions antérieures à partir du 13-03-2003 et mise à jour au 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1986. - Loi réglant la mise à la retraite des membres du personnel enseignant de l'enseignement universitaire et modifiant d'autres dispositions de la législation de l'enseignement.

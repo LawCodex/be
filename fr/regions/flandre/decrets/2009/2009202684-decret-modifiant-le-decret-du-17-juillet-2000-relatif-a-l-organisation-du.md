@@ -13,7 +13,7 @@ entry_into_force: 2009-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/08/2009202684/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2009. - Décret modifiant le décret du 17 juillet 2000 relatif à l'organisation du marché de l'électricité

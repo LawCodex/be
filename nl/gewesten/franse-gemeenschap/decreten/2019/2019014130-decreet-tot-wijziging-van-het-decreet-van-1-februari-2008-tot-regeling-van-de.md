@@ -13,7 +13,7 @@ entry_into_force: 2019-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/03/2019014130/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2019. - Decreet tot wijziging van het decreet van 1 februari 2008 tot regeling van de organisatie en de werking van de instanties belast met de coördinatie en het beheer van de structuurfondsen die de Europese Unie ter beschikking stelt van het alternerend secundair onderwijs, het technisch en beroepssecundair onderwijs met volledig leerplan, het gespecialiseerd secundair onderwijs, het onderwijs voor sociale promotie en het hoger onderwijs

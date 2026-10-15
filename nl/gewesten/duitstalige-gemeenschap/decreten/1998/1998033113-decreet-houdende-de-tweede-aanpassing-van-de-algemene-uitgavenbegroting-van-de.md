@@ -13,7 +13,7 @@ entry_into_force: 1999-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/06/17/1998033113/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 1998. - Decreet houdende de tweede aanpassing van de algemene uitgavenbegroting van de Duitstalige Gemeenschap voor het begrotingsjaar 1998. (Vertaling)

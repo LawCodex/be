@@ -12,7 +12,7 @@ entry_into_force: 1997-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/11/24/1997000720/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 1997. - Loi portant troisième ajustement du Budget général des dépenses de l'année budgétaire 1997 - Section 13 - " Intérieur ".

@@ -11,7 +11,7 @@ date: 2020-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/10/29/2020043469/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OKTOBER 2020. - Ordonnantie houdende wijziging van de Nieuwe Gemeentewet om in geval van overmacht het houden van vergaderingen op afstand van de gemeenteraad, de commissies en de adviesraden te garanderen

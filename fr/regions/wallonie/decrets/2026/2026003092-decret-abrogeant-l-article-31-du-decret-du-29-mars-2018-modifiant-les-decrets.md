@@ -13,7 +13,7 @@ entry_into_force: 2026-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/04/09/2026003092/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 AVRIL 2026. - Décret abrogeant l'article 31 du décret du 29 mars 2018 modifiant les décrets des 12 février 2004 relatif au statut de l'administrateur public et du 12 février 2004 relatif aux commissaires du Gouvernement et aux missions de contrôle des réviseurs au sein des organismes d'intérêt public, visant à renforcer la gouvernance et l'éthique au sein des organismes wallons

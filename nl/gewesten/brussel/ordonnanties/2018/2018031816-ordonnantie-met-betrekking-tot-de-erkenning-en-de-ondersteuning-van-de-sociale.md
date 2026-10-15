@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/07/23/2018031816/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 18-09-2018 en tekstbijwerking tot 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 2018. - Ordonnantie met betrekking tot de erkenning en de ondersteuning van de sociale ondernemingen

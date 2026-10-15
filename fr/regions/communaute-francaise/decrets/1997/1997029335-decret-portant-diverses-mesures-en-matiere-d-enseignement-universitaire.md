@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/14/1997029335/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 30-09-1997 et mis à jour au 14-03-2000"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1997. - Décret portant diverses mesures en matière d'enseignement universitaire.

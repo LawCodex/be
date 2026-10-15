@@ -12,7 +12,7 @@ entry_into_force: 2025-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/05/17/2025003894/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2025. - Wet houdende diverse bepalingen inzake kernenergie, teneinde de elektriciteitsbevoorradingszekerheid te waarborgen en de energiemixkosten in de hand te houden

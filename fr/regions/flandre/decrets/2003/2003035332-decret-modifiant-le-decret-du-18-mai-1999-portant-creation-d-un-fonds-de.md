@@ -13,7 +13,7 @@ entry_into_force: 2003-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/03/14/2003035332/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2003. - Décret modifiant le décret du 18 mai 1999 portant création d'un Fonds de réinsertion (TRADUCTION).

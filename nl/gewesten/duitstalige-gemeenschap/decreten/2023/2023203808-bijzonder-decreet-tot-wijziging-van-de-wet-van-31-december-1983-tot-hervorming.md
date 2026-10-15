@@ -12,7 +12,7 @@ entry_into_force: 2024-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/26/2023203808/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2023. - Bijzonder decreet tot wijziging van de wet van 31 december 1983 tot hervorming der instellingen voor de Duitstalige Gemeenschap

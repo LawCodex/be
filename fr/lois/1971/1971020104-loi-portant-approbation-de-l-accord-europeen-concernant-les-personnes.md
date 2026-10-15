@@ -12,7 +12,7 @@ entry_into_force: 1971-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/02/01/1971020104/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 1971. - Loi portant approbation de l'Accord européen concernant les personnes participant aux procédures devant la Commission et la Cour européenne des Droits de l'Homme, fait à Londres, le 6 mai 1969.

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/07/20/2007011379/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 10-08-2007 et mise à jour au 08-07-2009"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2007. - Loi modifiant, en ce qui concerne les contrats privés d'assurance maladie, la loi du 25 juin 1992 sur le contrat d'assurance terrestre.

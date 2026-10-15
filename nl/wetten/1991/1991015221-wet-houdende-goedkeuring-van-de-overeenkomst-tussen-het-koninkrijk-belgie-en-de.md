@@ -11,7 +11,7 @@ published: 1991-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/07/09/1991015221/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 1991. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en de Volksrepubliek Bulgarije tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 25 oktober 1988.

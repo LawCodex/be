@@ -12,7 +12,7 @@ entry_into_force: 2003-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/13/2003009296/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2003. - Wet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, de Duitstalige Gemeenschap, de Franse Gemeenschap en de Vlaamse Gemeenschap betreffende het gesloten centrum voor voorlopige plaatsing van minderjarigen die een als misdrijf omschreven feit hebben gepleegd.

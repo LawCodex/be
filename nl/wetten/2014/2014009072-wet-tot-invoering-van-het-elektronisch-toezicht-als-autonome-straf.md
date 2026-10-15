@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/07/2014009072/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 28-02-2014 en tekstbijwerking tot 19-02-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEBRUARI 2014. - Wet tot invoering van het elektronisch toezicht als autonome straf

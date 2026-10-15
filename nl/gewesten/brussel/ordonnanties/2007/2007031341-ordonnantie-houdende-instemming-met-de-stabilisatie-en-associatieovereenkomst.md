@@ -12,7 +12,7 @@ published: 2007-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2007/07/19/2007031341/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2007. - Ordonnantie houdende instemming met de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Albanië, anderzijds, en de Slotakte, gedaan te Luxemburg op 12 juni 2006.

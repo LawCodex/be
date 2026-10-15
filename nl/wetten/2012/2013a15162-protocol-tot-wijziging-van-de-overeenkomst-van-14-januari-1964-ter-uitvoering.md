@@ -12,7 +12,7 @@ entry_into_force: 2013-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/06/06/2013A15162/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2012. - Protocol tot wijziging van de Overeenkomst van 14 januari 1964 ter uitvoering van artikel 37, lid 2, van het Verdrag tot instelling van de Benelux Economische Unie, gedaan te Brussel op 6 juni 2012

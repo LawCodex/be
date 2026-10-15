@@ -13,7 +13,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/03/27/2003029186/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2003. - Decreet tot wijziging van sommige bepalingen van het decreet van 26 april 1999 tot organisatie van de sport in de Franse Gemeenschap (VERTALING).

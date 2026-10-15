@@ -13,7 +13,7 @@ entry_into_force: 2023-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/02/27/2023201352/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2023. - Décret portant assentiment à la Convention n° 190 concernant l'élimination de la violence et du harcèlement dans le monde du travail, adoptée à Genève le 21 juin 2019 par la Conférence générale de l'Organisation internationale du travail à sa 108e session

@@ -13,7 +13,7 @@ entry_into_force: 2021-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/03/18/2021201484/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 2021. - Décret modifiant le décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité en vue de la trimestrialisation du mécanisme de temporisation

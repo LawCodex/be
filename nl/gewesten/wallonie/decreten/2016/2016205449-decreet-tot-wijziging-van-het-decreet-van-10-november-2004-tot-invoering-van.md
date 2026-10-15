@@ -12,7 +12,7 @@ published: 2016-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/10/20/2016205449/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OKTOBER 2016. - Decreet tot wijziging van het decreet van 10 november 2004 tot invoering van een regeling voor de handel in broeikasgasemissierechten, tot oprichting van een " Fonds wallon Kyoto " (Waals Kyotofonds) en betreffende de flexibiliteitsmechanismen van het Protocol van Kyoto

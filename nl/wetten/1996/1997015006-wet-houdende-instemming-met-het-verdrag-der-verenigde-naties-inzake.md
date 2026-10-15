@@ -12,7 +12,7 @@ entry_into_force: 1997-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/09/04/1997015006/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBER 1996. - Wet houdende instemming met het Verdrag der Verenigde Naties inzake internationale koopovereenkomsten betreffende roerende zaken, gedaan te Wenen op 11 april 1980.

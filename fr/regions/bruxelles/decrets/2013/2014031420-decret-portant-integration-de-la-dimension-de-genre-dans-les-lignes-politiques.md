@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/21/2014031420/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 16-04-2024 et mise à jour au 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2013. - Décret portant intégration de la dimension de genre dans les lignes politiques de la Commission communautaire française

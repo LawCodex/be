@@ -12,7 +12,7 @@ entry_into_force: 1998-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/05/18/1998009540/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1998. - Loi complétant l'article 1580 du Code judiciaire.

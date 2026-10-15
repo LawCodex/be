@@ -13,7 +13,7 @@ entry_into_force: 2020-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/09/2020042346/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2020. - Décret portant diverses dispositions en matière d'enseignement obligatoire relatives à l'abaissement à cinq ans de l'âge du début de l'obligation scolaire

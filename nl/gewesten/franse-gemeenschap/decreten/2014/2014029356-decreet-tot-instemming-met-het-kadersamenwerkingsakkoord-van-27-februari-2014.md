@@ -13,7 +13,7 @@ entry_into_force: 2014-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/03/2014029356/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2014. - Decreet tot instemming met het kadersamenwerkingsakkoord van 27 februari 2014 tussen de Franse Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende het overleg tussen Franstaligen inzake gezondheidsbeleid en bijstand aan personen en de gemeenschappelijke beginselen die in deze aangelegenheden toepasselijk zijn

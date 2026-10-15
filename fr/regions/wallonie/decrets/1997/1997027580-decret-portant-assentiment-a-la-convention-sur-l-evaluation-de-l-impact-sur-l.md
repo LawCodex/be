@@ -13,7 +13,7 @@ entry_into_force: 1997-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/10/23/1997027580/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OCTOBRE 1997. - Décret portant assentiment à la Convention sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière et aux Appendices I, II, III, IV, V, VI et VII, faits à Espoo le 25 février 1991.

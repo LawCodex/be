@@ -13,7 +13,7 @@ entry_into_force: 2021-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/05/06/2022041298/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2022. - Décret modifiant le livre 6, partie 9, titre 2, du Code flamand du Logement de 2021, en ce qui concerne l'utilisation d'énergie renouvelable par les locataires sociaux, et modifiant les articles 6.3/1, 6.16, 6.17 et 6.19 du même Code

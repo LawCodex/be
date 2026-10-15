@@ -13,7 +13,7 @@ entry_into_force: 2010-11-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2010/10/28/2010031514/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OCTOBRE 2010. - Ordonnance relative à l'information géographique en Région de Bruxelles-Capitale

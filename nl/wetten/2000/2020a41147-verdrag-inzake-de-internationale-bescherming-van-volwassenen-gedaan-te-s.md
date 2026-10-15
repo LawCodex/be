@@ -12,7 +12,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/01/13/2020A41147/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JANUARI 2000. - Verdrag inzake de internationale bescherming van volwassenen (gedaan te 's-Gravenhage op 13 januari 2000)

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/11/13/2008111350/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 18-06-2014 en tekstbijwerking tot 18-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2008. - Ordonnantie betreffende milieuaansprakelijkheid met betrekking tot het voorkomen en herstellen van milieuschade

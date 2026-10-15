@@ -10,7 +10,7 @@ date: 2016-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/05/29/2016000542/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2016. - Wet tot wijziging van de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus, wat betreft de afschaffing van de borgstelling voor bijzondere rekenplichtigen

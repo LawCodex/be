@@ -13,7 +13,7 @@ entry_into_force: 2014-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/20/2014200334/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2013. - Decreet tot wijziging van diverse bepalingen van het decreet van 22 december 2000 betreffende de amateurkunsten

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/19/2025009886/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-2025 en tekstbijwerking tot 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2025. - Programmadecreet houdende diverse begrotingsmaatregelen

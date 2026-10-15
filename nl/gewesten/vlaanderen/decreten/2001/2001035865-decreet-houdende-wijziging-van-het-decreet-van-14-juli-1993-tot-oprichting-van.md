@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/06/2001035865/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 11-08-2001 en tekstbijwerking tot 01-11-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2001. - Decreet houdende wijziging van het decreet van 14 juli 1993 tot oprichting van het Grindfonds en tot regeling van de grindwinning.

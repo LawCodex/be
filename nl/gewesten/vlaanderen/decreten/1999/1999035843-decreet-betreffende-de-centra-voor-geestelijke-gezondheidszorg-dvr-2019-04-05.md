@@ -17,7 +17,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "Artikelen 20, 30, hoofdstuk IX en artikel 35 gewijzigd met ingang op een onbepaalde datum bij <DVR 2013-06-21/17 , art. 21-25; Inwerkingtreding : onbepaald >"
   - "Raadpleging van vroegere versies vanaf 17-07-1999 en tekstbijwerking tot 10-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 1999. - Decreet betreffende de [centra voor] geestelijke gezondheidszorg. &lt;DVR 2019-04-05/28 , art. 30, 011; Inwerkingtreding : 08-08-2024&gt;

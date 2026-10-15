@@ -12,7 +12,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/08/12/2017031764/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AOUT 2000. - Loi portant des dispositions sociales, budgétaires et diverses. - Publication conformément à l'article 225, § 1, alinéas 7 et 8, des montants indexés des rétributions

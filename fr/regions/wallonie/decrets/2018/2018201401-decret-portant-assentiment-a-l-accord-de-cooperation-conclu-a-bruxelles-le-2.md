@@ -13,7 +13,7 @@ entry_into_force: 2018-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/15/2018201401/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2018. - Décret portant assentiment à l'accord de coopération conclu à Bruxelles le 2 février 2018 entre l'Etat fédéral, la Région wallonne, la Région flamande, la Région de Bruxelles-Capitale et la Communauté germanophone portant sur la coordination des politiques d'octroi d'autorisations de travail et d'octroi du permis de séjour, ainsi que les normes relatives à l'emploi et au séjour des travailleurs étrangers

@@ -13,7 +13,7 @@ entry_into_force: 2017-11-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/10/12/2017205397/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OCTOBRE 2017. - Décret spécial portant modification de l'article 32, § 1er, alinéa 2, de la loi spéciale du 8 août 1980 de réformes institutionnelles, afin d'avancer la rentrée du Parlement wallon

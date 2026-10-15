@@ -13,7 +13,7 @@ entry_into_force: 2012-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/26/2012202684/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2012. - Décret portant assentiment à la Convention entre le Royaume de Belgique et la République de Saint-Marin tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu, signée à Saint-Marin le 21 décembre 2005, telle que modifiée par le Protocole, fait à Bruxelles le 14 juillet 2009

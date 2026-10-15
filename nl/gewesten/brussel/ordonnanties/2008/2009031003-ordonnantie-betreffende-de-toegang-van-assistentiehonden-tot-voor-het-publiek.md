@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/12/18/2009031003/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 14-01-2009 en tekstbijwerking tot 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2008. - Ordonnantie betreffende de toegang van assistentiehonden tot voor het publiek toegankelijke plaatsen

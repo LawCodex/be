@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/03/29/2012031171/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 18-10-2018 en tekstbijwerking tot 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2012. - Ordonnantie houdende de integratie van de genderdimensie in de beleidslijnen van het Brussels Hoofdstedelijk Gewest

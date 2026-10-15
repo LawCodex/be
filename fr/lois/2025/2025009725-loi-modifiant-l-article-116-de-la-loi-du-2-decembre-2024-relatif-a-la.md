@@ -12,7 +12,7 @@ entry_into_force: 2025-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/12/12/2025009725/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2025. - Loi modifiant l'article 116 de la loi du 2 décembre 2024 relatif à la publication, par certaines sociétés et groupes, d'informations en matière de durabilité et à l'assurance de l'information en matière de durabilité et portant dispositions diverses, en ce qui concerne les dates d'entrée en application des obligations de publication

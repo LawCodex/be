@@ -12,7 +12,7 @@ entry_into_force: 2023-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/05/25/2023203892/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2023. - Wet tot wijziging van artikel 4 van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap, teneinde de subsidiair beschermden toegang te verlenen tot de inkomensvervangende tegemoetkoming en de integratietegemoetkoming (1). (Dez tekst vernietigt en vervangt degene die verschene is in het Belgisch Staatsblad van 24-07-2021, p. 611114)

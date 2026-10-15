@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/12/24/1993021426/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 31-12-1993 et mise à jour au 04-07-2002"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 1993. - Loi-programme.

@@ -13,7 +13,7 @@ entry_into_force: 2013-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/05/02/2013031355/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2013. - Ordonnantie houdende instemming met : 1° de Overeenkomst tussen het Koninkrijk België en de Republiek San Marino tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken van belasting inzake belastingen naar het inkomen, ondertekend te San Marino op 21 december 2005, gewijzigd door het Protocol gedaan te Brussel op 14 juli 2009; 2° het Protocol, gedaan te Brussel op 14 juli 2009, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Republiek San Marino tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken van belasting inzake belastingen naar het inkomen, ondertekend te San Marino op 21 december 2005; 3° de briefwisseling van 9 februari en van 12 april 2011

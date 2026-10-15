@@ -13,7 +13,7 @@ entry_into_force: 2002-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/11/22/2002027384/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2001. - Decreet houdende goedkeuring van het samenwerkingsakkoord tussen de Staat, de Vlaamse Gemeenschap, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende het meerjareninvesteringsplan 2001-2002 van de NMBS.

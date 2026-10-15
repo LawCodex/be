@@ -11,7 +11,7 @@ entry_into_force: 2018-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/15/2018013779/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2018. - Wet houdende diverse bepalingen Binnenlandse Zaken

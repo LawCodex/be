@@ -13,7 +13,7 @@ entry_into_force: 2009-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202293/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende instemming, wat betreft de bevoegdheden waarvan de uitoefening door de Franse Gemeenschap naar het Waalse Gewest is overgedragen, met het Verdrag nr. 161 betreffende de bedrijfsgezondheidsdiensten, aangenomen door de Internationale Arbeidsconferentie tijdens haar 71e zitting in Genève, op 26 juni 1985

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/11/26/2013015182/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
 justel_note: "Consultation des versions antérieures à partir du 11-04-2014 et mise à jour au 01-08-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2012. - Loi portant assentiment au Protocole de 2002 à la Convention d'Athènes de 1974 relative au transport par mer de passagers et de leurs bagages, fait à Londres le 1er novembre 2002

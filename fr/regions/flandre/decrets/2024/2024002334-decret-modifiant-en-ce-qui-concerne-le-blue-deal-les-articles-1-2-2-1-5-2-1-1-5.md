@@ -13,7 +13,7 @@ entry_into_force: 2024-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/01/2024002334/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2024. - Décret modifiant, en ce qui concerne le Blue Deal, les articles 1.2.2, 1.5.2.1, 1.5.3.2 et 1.6.1.1 du décret du 18 juillet 2003 relatif à la politique intégrée de l'eau, coordonné le 15 juin 2018

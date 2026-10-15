@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/05/18/2017030377/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 31-05-2017 et mise à jour au 15-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2017. - Ordonnance portant création de l'Agence bruxelloise pour l'Accompagnement de l'Entreprise

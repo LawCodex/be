@@ -12,7 +12,7 @@ entry_into_force: 2017-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/02/2017010976/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2013. - Loi portant assentiment à la Convention internationale de Hong Kong pour le recyclage sûr et écologiquement rationnel des navires, faite à Hong Kong le 15 mai 2009

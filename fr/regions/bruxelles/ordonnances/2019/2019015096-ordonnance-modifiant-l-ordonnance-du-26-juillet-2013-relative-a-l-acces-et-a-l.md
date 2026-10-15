@@ -13,7 +13,7 @@ entry_into_force: 2019-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/10/17/2019015096/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OCTOBRE 2019. - Ordonnance modifiant l'ordonnance du 26 juillet 2013 relative à l'accès et à l'échange d'informations sur les câbles souterrains et sur les conduites et les canalisations souterraines

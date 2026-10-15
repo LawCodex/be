@@ -12,7 +12,7 @@ entry_into_force: 1990-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/07/20/1991021204/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 1991. - Loi portant des dispositions budgétaires. .

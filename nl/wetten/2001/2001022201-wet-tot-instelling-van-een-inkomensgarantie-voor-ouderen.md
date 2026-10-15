@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/03/22/2001022201/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 29-03-2001 en tekstbijwerking tot 22-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2001. - Wet tot instelling van een inkomensgarantie voor ouderen.

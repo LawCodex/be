@@ -12,7 +12,7 @@ entry_into_force: 2003-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/08/08/1999015194/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 AOUT 1997. - Loi portant assentiment à la Convention entre le Royaume de Belgique et la République algérienne démocratique et populaire tendant à éviter la double imposition et à établir des règles d'assistance réciproque en matière d'impôts sur le revenu et sur la fortune, signée à Alger le 15 décembre 1991.

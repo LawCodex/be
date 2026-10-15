@@ -13,7 +13,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/23/1995031052/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1994. - Décret contenant le budget des Voies et Moyens de la Commission communautaire française pour l'année budgétaire 1995.

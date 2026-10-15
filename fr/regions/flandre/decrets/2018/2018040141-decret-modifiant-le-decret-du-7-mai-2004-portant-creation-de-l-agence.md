@@ -13,7 +13,7 @@ entry_into_force: 2018-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/08/2018040141/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2018. - Décret modifiant le décret du 7 mai 2004 portant création de l'agence autonomisée externe de droit public " Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen " (Agence flamande pour la Formation d'Entrepreneurs - Syntra Flandre), en ce qui concerne les principes de bonne gouvernance dans le secteur public flamand

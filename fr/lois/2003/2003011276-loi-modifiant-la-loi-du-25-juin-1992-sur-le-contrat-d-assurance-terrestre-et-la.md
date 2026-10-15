@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/21/2003011276/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 15-07-2003 et mise à jour au 15-07-2004"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 2003. - Loi modifiant la loi du 25 juin 1992 sur le contrat d'assurance terrestre et la loi du 12 juillet 1976 relative à la réparation de certains dommages causés à des biens privés par des catastrophes naturelles.

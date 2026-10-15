@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/02/13/2006022171/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 10-03-2006 en tekstbijwerking tot 18-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2006. - Wet betreffende de beoordeling van de gevolgen voor het milieu van bepaalde plannen en programma's en de inspraak van het publiek bij de uitwerking van de plannen en programma's in verband met het milieu

@@ -13,7 +13,7 @@ entry_into_force: 2006-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/19/2006027137/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2006. - Décret contenant le premier feuilleton d'ajustement du budget des dépenses de la Région wallonne pour l'année budgétaire 2006.

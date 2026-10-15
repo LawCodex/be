@@ -13,7 +13,7 @@ entry_into_force: 2003-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/01/23/2003029057/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 2003. - Décret portant approbation de l'accord de coopération entre la Communauté française, la Région wallonne et la Commission communautaire française portant création du Comité francophone de coordination des politiques d'aides aux personnes et de santé.

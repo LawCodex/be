@@ -12,7 +12,7 @@ published: 2023-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/07/20/2023044128/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2023. - Ordonnance modifiant la loi organique des centres publics d'action sociale du 8 juillet 1976 dans le cadre de la réforme de la gouvernance locale

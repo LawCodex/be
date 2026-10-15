@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/06/26/2022032653/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 29-06-2022 en tekstbijwerking tot 21-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2022. - Wet houdende toekenning van een toelage voor het aanschaffen van huisbrandolie of propaan in bulk bestemd voor de verwarming van een privéwoning

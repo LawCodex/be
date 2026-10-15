@@ -12,7 +12,7 @@ published: 2019-10-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/25/2019201684/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 2019. - Decreet tot wijziging van het decreet van 16 juni 2008 tot vaststelling van kerncompetenties en referentiekaders in het onderwijs

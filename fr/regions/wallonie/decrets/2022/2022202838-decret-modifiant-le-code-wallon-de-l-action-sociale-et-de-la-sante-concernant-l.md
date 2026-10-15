@@ -13,7 +13,7 @@ entry_into_force: 2022-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/05/05/2022202838/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2022. - Décret modifiant le Code wallon de l'Action sociale et de la Santé concernant l'aide aux Gens du voyage

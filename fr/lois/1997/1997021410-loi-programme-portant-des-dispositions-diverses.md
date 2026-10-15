@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/12/1997021410/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 18-12-1997 et mise à jour au 01-09-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 1997. - Loi-programme portant des dispositions diverses.

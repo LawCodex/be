@@ -12,7 +12,7 @@ entry_into_force: 1995-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/03/07/1995016131/justel"
 department: "Classes Moyennes - Agriculture"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 1995. - Loi portant septième ajustement du Budget général des dépenses de l'année budgétaire 1994 - Section 31 - "Agriculture".

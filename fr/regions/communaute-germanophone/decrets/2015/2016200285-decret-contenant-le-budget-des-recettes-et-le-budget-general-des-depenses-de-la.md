@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/17/2016200285/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 03-02-2016 et mise à jour au 20-02-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2015. - Décret contenant le budget des recettes et le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2016

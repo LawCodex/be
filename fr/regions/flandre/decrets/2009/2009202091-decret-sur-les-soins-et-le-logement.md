@@ -18,7 +18,7 @@ justel_notes:
   - "Art. 36 et 68 sont modifiés dans le futur par DCFL 2013-06-21/17 , art. 46 et 52, 004; En vigueur : indéterminée "
   - "art. 2 modifié dans le futur et les articles 49/1 et 59/1 insérés par DCFL 2016-07-15/17 , art. 40, 41-42, 005; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 14-05-2009 et mise à jour au 28-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2009. - Décret sur les soins et le logement

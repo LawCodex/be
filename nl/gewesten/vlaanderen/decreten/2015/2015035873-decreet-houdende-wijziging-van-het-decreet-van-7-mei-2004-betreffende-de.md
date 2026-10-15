@@ -13,7 +13,7 @@ entry_into_force: 2015-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/03/2015035873/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2015. - Decreet houdende wijziging van het decreet van 7 mei 2004 betreffende de investeringsmaatschappijen van de Vlaamse overheid, wat betreft de machtigingen en het doel van de Vlaamse Participatiemaatschappij

@@ -12,7 +12,7 @@ entry_into_force: 2014-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/15/2014011043/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 2014. - Wet tot wijziging van de hoofdstukken I en II van de wet van 5 mei 1997 betreffende de coördinatie van het federale beleid inzake duurzame ontwikkeling

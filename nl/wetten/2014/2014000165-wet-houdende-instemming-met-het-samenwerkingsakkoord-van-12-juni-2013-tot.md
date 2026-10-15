@@ -12,7 +12,7 @@ entry_into_force: 2014-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/19/2014000165/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JANUARI 2014. - Wet houdende instemming met het samenwerkingsakkoord van 12 juni 2013 tot oprichting van een interfederaal Centrum voor gelijke kansen en bestrijding van discriminatie en racisme

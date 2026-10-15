@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/11/26/2018015046/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 04-12-2018 et mise à jour au 30-11-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2018. - Loi modifiant le Code de la taxe sur la valeur ajoutée en ce qui concerne l'automatisation du titre exécutoire en matière de taxe sur la valeur ajoutée

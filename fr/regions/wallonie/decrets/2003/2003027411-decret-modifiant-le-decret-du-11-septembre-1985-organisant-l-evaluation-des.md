@@ -13,7 +13,7 @@ entry_into_force: 2003-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/05/15/2003027411/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2003. - Décret modifiant le décret du 11 septembre 1985 organisant l'évaluation des incidences sur l'environnement dans la Région wallonne, le décret du 27 juin 1996 relatif aux déchets et le décret du 11 mars 1999 relatif au permis d'environnement.

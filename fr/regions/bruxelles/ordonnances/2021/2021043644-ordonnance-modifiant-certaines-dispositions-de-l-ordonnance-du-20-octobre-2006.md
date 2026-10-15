@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/12/24/2021043644/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 2021. - Ordonnance modifiant certaines dispositions de l'ordonnance du 20 octobre 2006 établissant un cadre pour la politique de l'eau et de l'ordonnance du 8 septembre 1994 réglementant la fourniture d'eau alimentaire distribuée par réseau en Région bruxelloise en vue d'y insérer des mesures sociales

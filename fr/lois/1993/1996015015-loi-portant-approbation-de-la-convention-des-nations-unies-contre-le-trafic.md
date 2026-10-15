@@ -12,7 +12,7 @@ entry_into_force: 1996-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/08/06/1996015015/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AOUT 1993. - LOI portant approbation de la Convention des Nations Unies contre le trafic illicite de stupéfiants et de substances psychotropes, et de l'Annexe, faites à Vienne le 20 décembre 1988

@@ -12,7 +12,7 @@ published: 2020-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/11/27/2020043882/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2020. - Decreet tot toekenning van een eenmalige toeslag in het kader van het gezinsbeleid naar aanleiding van de coronacrisis

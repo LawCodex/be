@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/03/27/2009201450/justel"
 department: "Kanselarij van de Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 07-04-2009 en tekstbijwerking tot 10-11-2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2009. - Economische Herstelwet.

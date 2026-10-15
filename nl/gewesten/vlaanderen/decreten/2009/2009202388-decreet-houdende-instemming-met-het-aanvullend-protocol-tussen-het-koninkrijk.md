@@ -13,7 +13,7 @@ entry_into_force: 2009-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/03/2009202388/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2009. - Decreet houdende instemming met het Aanvullend Protocol tussen het Koninkrijk België en het Europees Defensieagentschap, ondertekend in Brussel op 22 juni 2005

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/06/28/1984900065/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 06-07-1991 et mise à jour au 10-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 1984. - Code de la nationalité belge

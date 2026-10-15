@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/11/10/1993036453/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 15-02-1994 et mise à jour au 20-07-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 1993. - Décret contenant des mesures d'amélioration de la qualité des services offerts par les agents matrimoniaux et relationnels. (Traduction) -

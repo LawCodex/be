@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/19/2008033076/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 26-03-2013 et mise à jour au 15-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2008. - Décret relatif à l'aide à la Jeunesse et visant la mise en oeuvre de mesures de protection de la jeunesse (TRADUCTION)

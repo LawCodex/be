@@ -13,7 +13,7 @@ entry_into_force: 2013-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/02/19/2013031217/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEBRUARI 2013. - Ordonnantie tot verbetering van de budgettaire toestand van de gemeenten in het Brussels Hoofdstedelijk Gewest. - Driejaarlijks plan van het Plaatselijk Bestuurplan. - Subsidie voor de periode 2013-2015 (CIRC 2013/4)

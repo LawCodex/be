@@ -13,7 +13,7 @@ entry_into_force: 2014-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/02/13/2014031166/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2014. - Ordonnantie betreffende de rapportage over de toepassing van de wetgevingshandelingen en de naleving van het primair recht van de Europese Unie in het Brussels Hoofdstedelijk Gewest

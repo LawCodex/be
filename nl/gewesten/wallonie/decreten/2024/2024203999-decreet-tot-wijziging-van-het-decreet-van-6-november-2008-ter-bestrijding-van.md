@@ -13,7 +13,7 @@ entry_into_force: 2024-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/29/2024203999/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2024. - Decreet tot wijziging van het decreet van 6 november 2008 ter bestrijding van bepaalde vormen van discriminatie met het oog op de invoering van situatietests

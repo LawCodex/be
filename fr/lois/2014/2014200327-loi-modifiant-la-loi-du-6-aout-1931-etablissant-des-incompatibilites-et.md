@@ -12,7 +12,7 @@ entry_into_force: 2014-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/06/2014200327/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANVIER 2014. - Loi modifiant la loi du 6 août 1931 établissant des incompatibilités et interdictions concernant les ministres, anciens ministres et ministres d'Etat, ainsi que les membres et anciens membres des Chambres législatives

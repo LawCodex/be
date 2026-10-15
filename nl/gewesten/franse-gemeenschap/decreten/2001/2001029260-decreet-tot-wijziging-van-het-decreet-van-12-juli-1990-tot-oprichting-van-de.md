@@ -13,7 +13,7 @@ entry_into_force: 2001-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/06/21/2001029260/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2001. - Decreet tot wijziging van het decreet van 12 juli 1990 tot oprichting van de Raad voor Onderwijs en Vorming van de Franse Gemeenschap (VERTALING).

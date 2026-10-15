@@ -12,7 +12,7 @@ entry_into_force: 2020-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/07/20/2020015259/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2020. - Loi portant l'ajustement de la loi de finances du 20 décembre 2019 pour l'année budgétaire 2020

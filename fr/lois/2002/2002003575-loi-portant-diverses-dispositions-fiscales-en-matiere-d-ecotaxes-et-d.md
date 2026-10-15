@@ -12,7 +12,7 @@ entry_into_force: 2003-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/30/2002003575/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 2002. - Loi portant diverses dispositions fiscales en matière d'écotaxes et d'écoréductions.

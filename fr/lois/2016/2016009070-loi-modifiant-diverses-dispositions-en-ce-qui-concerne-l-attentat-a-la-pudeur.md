@@ -12,7 +12,7 @@ entry_into_force: 2016-02-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/02/01/2016009070/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2016. - Loi modifiant diverses dispositions en ce qui concerne l'attentat à la pudeur et le voyeurisme

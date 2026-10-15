@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/30/2008035197/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 11-02-2008 et mise à jour au 23-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2007. - Décret relatif à la politique locale d'encadrement de l'enseignement (TRADUCTION)

@@ -13,7 +13,7 @@ entry_into_force: 2008-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/07/2007037270/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2007. - Décret portant assentiment à l'avenant du 28 décembre 2006 à l'Accord de coopération du 30 mai 2005 entre l'Etat fédéral, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale et la Communauté germanophone concernant l'économie plurielle (TRADUCTION).

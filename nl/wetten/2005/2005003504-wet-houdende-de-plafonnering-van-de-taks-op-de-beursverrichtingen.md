@@ -12,7 +12,7 @@ entry_into_force: 2004-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/04/28/2005003504/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2005. - Wet houdende de plafonnering van de taks op de beursverrichtingen.

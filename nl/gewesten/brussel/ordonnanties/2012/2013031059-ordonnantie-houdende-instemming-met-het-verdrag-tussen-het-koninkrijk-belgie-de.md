@@ -13,7 +13,7 @@ entry_into_force: 2013-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/12/21/2013031059/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2012. - Ordonnantie houdende instemming met : het Verdrag tussen het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (Lidstaten van de Europese Unie) en de Republiek Kroatië betreffende de toetreding van de Republiek Kroatië tot de Europese Unie, en met de Slotakte, ondertekend te Brussel op 9 december 2011

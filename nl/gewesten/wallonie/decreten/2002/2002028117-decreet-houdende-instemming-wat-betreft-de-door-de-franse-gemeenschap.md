@@ -12,7 +12,7 @@ entry_into_force: 2002-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/13/2002028117/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2002. - Decreet houdende instemming, wat betreft de door de Franse Gemeenschap overgedragen aangelegenheden, met het Facultatief Protocol bij het Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen, gedaan te New York op 6 oktober 1999 (VERTALING).

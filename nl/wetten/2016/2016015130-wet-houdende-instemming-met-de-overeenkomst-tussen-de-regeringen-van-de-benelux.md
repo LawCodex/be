@@ -12,7 +12,7 @@ entry_into_force: 2017-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/07/06/2016015130/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2016. - Wet houdende instemming met de Overeenkomst tussen de Regeringen van de Benelux-Staten en de Regering van de Republiek Kazachstan inzake de afschaffing van de visumplicht voor houders van diplomatieke paspoorten, gedaan te Brussel op 2 maart 2015

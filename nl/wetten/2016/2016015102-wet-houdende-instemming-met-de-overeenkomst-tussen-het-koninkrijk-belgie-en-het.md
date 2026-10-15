@@ -11,7 +11,7 @@ entry_into_force: 2016-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/06/27/2016015102/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2016. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en het Groothertogdom Luxemburg betreffende de samenwerking en de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid, opgemaakt te Brussel op 5 februari 2015

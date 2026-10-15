@@ -13,7 +13,7 @@ entry_into_force: 2023-11-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/09/28/2023205778/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBRE 2023. - Décret modifiant le Code de la démocratie locale et de la décentralisation afin de réduire de moitié le seuil d'accès à la répartition complémentaire des sièges lors de l'élection provinciale

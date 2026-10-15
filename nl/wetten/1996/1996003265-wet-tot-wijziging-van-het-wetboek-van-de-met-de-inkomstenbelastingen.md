@@ -12,7 +12,7 @@ entry_into_force: 1996-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/04/02/1996003265/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 1996. - Wet tot wijziging van het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen (2).

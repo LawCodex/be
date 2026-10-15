@@ -13,7 +13,7 @@ entry_into_force: 2015-11-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/10/22/2015029571/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2015. - Décret portant assentiment à la Convention-cadre du Conseil de l'Europe sur la valeur du patrimoine culturel pour la société, faite à Faro le 27 octobre 2005

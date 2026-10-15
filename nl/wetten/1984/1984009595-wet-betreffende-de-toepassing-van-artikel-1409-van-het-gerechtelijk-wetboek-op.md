@@ -12,7 +12,7 @@ entry_into_force: 1984-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1984/07/10/1984009595/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 1984. - Wet betreffende de toepassing van artikel 1409 van het Gerechtelijk Wetboek op de wedden en toelagen betaald aan sommige personeelsleden van de openbare diensten.

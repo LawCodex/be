@@ -11,7 +11,7 @@ published: 1959-01-30
 entry_into_force: 1959-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1958/12/31/1958123150/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 DECEMBRE 1958. - Lois sur les délégués-ouvriers à l'inspection des mines de houille coordonnées le 31 décembre 1958.

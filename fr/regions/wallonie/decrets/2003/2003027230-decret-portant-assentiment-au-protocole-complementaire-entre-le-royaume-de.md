@@ -13,7 +13,7 @@ entry_into_force: 2003-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/04/10/2003027230/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2003. - Décret portant assentiment au Protocole complémentaire entre le Royaume de Belgique et l'Autorité de surveillance de l'Association européenne de libre-échange, fait à Bruxelles le 6 juillet 2001.

@@ -11,7 +11,7 @@ published: 1972-07-18
 entry_into_force: 1972-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1972/07/10/1972071005/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 1972. - Loi contenant des dispositions transitoires relatives à l'article 1293 du Code judiciaire.

@@ -13,7 +13,7 @@ entry_into_force: 2018-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/24/2018202801/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2018. - Décret portant assentiment aux amendements des annexes II et III à la Convention OSPAR pour la protection du milieu marin de l'Atlantique du Nord-Est, adoptés à Ostende, le 29 juin 2007

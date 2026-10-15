@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/28/2002028148/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 06-06-2014 et mise à jour au 06-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2002. - Décret portant le suivi des résolutions de la Conférence des Nations unies sur les femmes à Pékin

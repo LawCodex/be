@@ -12,7 +12,7 @@ entry_into_force: 2006-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/09/22/2005015141/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 SEPTEMBER 2005. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Helleense Republiek tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Athene op 25 mei 2004.

@@ -12,7 +12,7 @@ entry_into_force: 2004-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/01/08/2004015014/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JANUARI 2004. - Wet betreffende de toetreding van België tot de Overeenkomst tussen de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Regering van de Franse Republiek met betrekking tot de Europese Luchtmachtgroep, ondertekend te Londen op 6 juli 1998 en tot het Protocol ter amendering van de Overeenkomst met betrekking tot de Europese Luchtmachtgroep, ondertekend te Londen op 16 juni 1999.

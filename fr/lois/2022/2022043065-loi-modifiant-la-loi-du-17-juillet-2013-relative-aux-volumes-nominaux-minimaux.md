@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/16/2022043065/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2022. - Loi modifiant la loi du 17 juillet 2013 relative aux volumes nominaux minimaux de biocarburants durables qui doivent être incorporés dans les volumes de carburants fossiles mis annuellement à la consommation

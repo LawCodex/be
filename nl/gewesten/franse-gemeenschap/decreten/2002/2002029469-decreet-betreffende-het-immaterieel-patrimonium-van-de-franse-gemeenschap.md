@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/11/2002029469/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 27-09-2006 en tekstbijwerking tot 19-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2002. - Decreet betreffende [...] het immaterieel patrimonium van de Franse Gemeenschap. (Vertaling) &lt;DFG 2022-03-17/24 , art. 28, 004; Inwerkingtreding : 01-01-2023&gt;

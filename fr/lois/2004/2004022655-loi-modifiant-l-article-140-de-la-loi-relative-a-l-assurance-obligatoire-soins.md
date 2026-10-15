@@ -12,7 +12,7 @@ entry_into_force: 2003-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/22/2004022655/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2004. - Loi modifiant l'article 140 de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994.

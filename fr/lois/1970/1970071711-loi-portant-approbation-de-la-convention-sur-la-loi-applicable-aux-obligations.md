@@ -11,7 +11,7 @@ published: 1970-09-30
 entry_into_force: 1970-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1970/07/17/1970071711/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 1970. - Loi portant approbation de la Convention sur la loi applicable aux obligations alimentaires envers les enfants, faite à La Haye le 24 octobre 1956.

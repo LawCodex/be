@@ -13,7 +13,7 @@ entry_into_force: 2002-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/15/2002036016/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2002. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Vlaamse Gemeenschap en het Vlaamse Gewest en de Duitstalige Gemeenschap betreffende de bevordering van de algemene samenwerking, ondertekend in Eupen op 14 februari 2001.

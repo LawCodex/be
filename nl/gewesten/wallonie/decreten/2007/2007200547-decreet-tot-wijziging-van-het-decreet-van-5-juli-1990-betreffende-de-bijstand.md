@@ -13,7 +13,7 @@ entry_into_force: 2007-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/02/08/2007200547/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 2007. - Decreet tot wijziging van het decreet van 5 juli 1990 betreffende de bijstand en de tussenkomsten van het Waalse Gewest voor het onderzoek en de technologieën (VERTALING).

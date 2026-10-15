@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/04/11/1983003404/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 29-12-1984 et mise à jour au 31-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 1983. - Loi portant des dispositions fiscales et budgétaires

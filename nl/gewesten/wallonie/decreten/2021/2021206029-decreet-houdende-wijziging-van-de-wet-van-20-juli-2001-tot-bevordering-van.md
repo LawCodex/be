@@ -13,7 +13,7 @@ entry_into_force: 2022-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/12/09/2021206029/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2021. - Decreet houdende wijziging van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen

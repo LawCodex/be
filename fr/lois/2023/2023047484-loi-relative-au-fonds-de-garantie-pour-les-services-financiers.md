@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/11/23/2023047484/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 01-12-2023 et mise à jour au 03-04-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Loi relative au Fonds de garantie pour les services financiers

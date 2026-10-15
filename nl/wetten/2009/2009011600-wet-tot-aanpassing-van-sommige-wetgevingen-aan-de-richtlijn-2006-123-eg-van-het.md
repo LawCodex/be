@@ -12,7 +12,7 @@ entry_into_force: 2009-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/12/22/2009011600/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2009. - Wet tot aanpassing van sommige wetgevingen aan de Richtlijn 2006/123/EG van het Europees Parlement en de Raad betreffende diensten op de interne markt

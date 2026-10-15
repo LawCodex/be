@@ -12,7 +12,7 @@ entry_into_force: 2004-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/13/2003015105/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2003. - Wet houdende instemming met de Europees-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lid-Staten, enerzijds, en de Arabische Republiek Egypte, anderzijds, met de Bijlagen I, II, III, IV, V, VI, met de Protocollen 1, 2, 3, 4 en 5, en met de Slotakte, gedaan te Luxemburg op 25 juni 2001.

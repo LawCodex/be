@@ -12,7 +12,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/07/16/2008003316/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2008. - Loi modifiant le Code des impôts sur les revenus 1992 et organisant une fiscalité forfaitaire des droits d'auteur et des droits voisins.

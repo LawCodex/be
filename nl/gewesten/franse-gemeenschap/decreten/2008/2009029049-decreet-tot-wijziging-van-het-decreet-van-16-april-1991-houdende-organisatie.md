@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/14/2009029049/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 24-02-2009 en tekstbijwerking tot 25-08-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2008. - Decreet tot wijziging van het decreet van 16 april 1991 houdende organisatie van het onderwijs voor sociale promotie, ter bevordering van de integratie van zijn hoger onderwijs in de Europese ruimte van het hoger onderwijs (VERTALING)

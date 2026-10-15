@@ -13,7 +13,7 @@ entry_into_force: 2013-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/05/25/2012203386/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2012. - Decreet tot wijziging van het decreet van 28 juni 1985 betreffende de milieuvergunning, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming met het oog op de omzetting van de Richtlijn 2010/75/EU van het Europees Parlement en de Raad van 24 november 2010 inzake industriële emissies (geïntegreerde preventie en bestrijding van verontreiniging)

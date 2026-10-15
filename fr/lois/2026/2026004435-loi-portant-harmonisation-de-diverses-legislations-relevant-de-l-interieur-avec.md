@@ -12,7 +12,7 @@ entry_into_force: 2026-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/05/13/2026004435/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2026. - Loi portant harmonisation de diverses législations relevant de l'Intérieur avec le Code pénal du 29 février 2024

@@ -12,7 +12,7 @@ entry_into_force: 1999-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/23/1999000601/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 1999. - Loi modifiant l'article 23 de la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour les élections des Chambres fédérales ainsi qu'au financement et à la comptabilité ouverte des partis politiques.

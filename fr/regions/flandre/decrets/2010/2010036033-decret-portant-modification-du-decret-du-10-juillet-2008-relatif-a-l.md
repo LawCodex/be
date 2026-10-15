@@ -13,7 +13,7 @@ entry_into_force: 2011-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/23/2010036033/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2010. - Décret portant modification du décret du 10 juillet 2008 relatif à l'hébergement touristique, en ce qui concerne la conformité urbanistique des hébergements relatés aux chambres

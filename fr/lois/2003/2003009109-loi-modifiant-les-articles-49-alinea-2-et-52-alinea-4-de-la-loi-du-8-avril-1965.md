@@ -12,7 +12,7 @@ entry_into_force: 2003-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/06/2003009109/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANVIER 2003. - Loi modifiant les articles 49, alinéa 2, et 52, alinéa 4, de la loi du 8 avril 1965 relative à la protection de la jeunesse.

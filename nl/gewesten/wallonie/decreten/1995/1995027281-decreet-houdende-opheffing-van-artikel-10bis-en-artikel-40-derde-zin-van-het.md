@@ -13,7 +13,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/06/1995027281/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1995. - Decreet houdende opheffing van artikel 10bis en artikel 40, derde zin, van het decreet van 21 december 1989 betreffende de diensten voor het openbaar vervoer in het Waalse Gewest. (VERTALING).

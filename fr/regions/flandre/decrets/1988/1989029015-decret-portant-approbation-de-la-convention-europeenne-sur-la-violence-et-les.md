@@ -13,7 +13,7 @@ entry_into_force: 1989-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1988/11/30/1989029015/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 1988. - Décret portant approbation de la Convention européenne sur la violence et les débordements de spectateurs lors de manifestations sportives, notamment les matches de football, signée à Strasbourg le 19 août 1985.

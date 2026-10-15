@@ -12,7 +12,7 @@ entry_into_force: 1994-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/05/19/1994000272/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 1994. - Wet tot wijziging van de wet van 4 juli 1989 betreffende de beperking en de controle van de verkiezingsuitgaven, de financiering en de open boekhouding van de politieke partijen en tot wijziging van het Kieswetboek.

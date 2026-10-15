@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/15/2007000628/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 29-06-2007 en tekstbijwerking tot 23-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2007. - Wet tot instelling van de functie van gemeenschapswacht, tot instelling van de dienst gemeenschapswachten en tot wijziging van artikel 119bis van de nieuwe gemeentewet.

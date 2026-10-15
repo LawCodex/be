@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/07/17/2000009664/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2000. - Loi modifiant le Code judiciaire, la loi du 22 décembre 1998 modifiant certaines dispositions de la deuxième partie du Code judiciaire concernant le Conseil supérieur de la justice, la nomination et la désignation de magistrats et instaurant un système d'évaluation pour les magistrats et la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire.

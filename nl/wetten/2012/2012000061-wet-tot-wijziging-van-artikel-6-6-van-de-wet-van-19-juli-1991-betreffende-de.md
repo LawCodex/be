@@ -12,7 +12,7 @@ entry_into_force: 2014-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/01/09/2012000061/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 2012. - Wet tot wijziging van artikel 6, § 6, van de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten en tot wijziging van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen

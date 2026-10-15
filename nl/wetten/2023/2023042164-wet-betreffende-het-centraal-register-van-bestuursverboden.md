@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/05/04/2023042164/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 01-06-2023 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2023. - Wet betreffende het Centraal register van bestuursverboden

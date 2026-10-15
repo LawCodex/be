@@ -12,7 +12,7 @@ entry_into_force: 2005-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/07/03/2005000427/justel"
 department: "Justice - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2005. - Loi portant modification de certains aspects du statut des membres du personnel des services de police et portant diverses autres dispositions relatives aux services de police.

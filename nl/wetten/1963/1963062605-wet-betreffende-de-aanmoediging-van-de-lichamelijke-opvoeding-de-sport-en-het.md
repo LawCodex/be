@@ -13,7 +13,7 @@ last_amended: 2010-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1963/06/26/1963062605/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 04-05-2002 en tekstbijwerking tot 01-02-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 1963. - Wet betreffende de aanmoediging van de lichamelijke opvoeding, de sport en het openluchtleven en het toezicht op de ondernemingen die wedstrijden van weddenschappen op sportuitslagen inrichten.

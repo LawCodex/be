@@ -12,7 +12,7 @@ published: 2003-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/07/17/2003029430/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2003. - Decreet tot wijziging van het decreet van 14 juli 1997 houdende organisatie van de gezondheidspromotie in de Franse Gemeenschap. (Vertaling).

@@ -12,7 +12,7 @@ published: 2004-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004036199/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet betreffende de toepassing van intersectorale akkoorden voor organisaties ressorterend onder het paritair comité voor de sociaal-culturele sector.

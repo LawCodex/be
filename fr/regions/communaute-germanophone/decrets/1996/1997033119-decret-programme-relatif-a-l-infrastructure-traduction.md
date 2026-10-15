@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/10/21/1997033119/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 05-02-1997 et mis à jour au 10-07-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OCTOBRE 1996. - Décret-programme relatif à l'infrastructure (TRADUCTION).

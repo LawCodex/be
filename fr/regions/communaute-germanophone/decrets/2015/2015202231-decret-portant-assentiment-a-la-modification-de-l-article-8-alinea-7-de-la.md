@@ -13,7 +13,7 @@ entry_into_force: 2015-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/04/20/2015202231/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2015. - Décret portant assentiment à la modification de l'article 8, alinéa 7, de la Convention internationale du 7 mars 1966 sur l'élimination de toutes les formes de discrimination raciale, à la modification de l'article 20, alinéa 1er, de la Convention du 18 décembre 1979 sur l'élimination de toutes les formes de discrimination à l'égard des femmes et à la modification de l'article 17, alinéa 7, et de l'article 18, alinéa 5, de la Convention du 10 décembre 1984 contre la torture et autres peines ou traitements cruels, inhumains ou dégradants

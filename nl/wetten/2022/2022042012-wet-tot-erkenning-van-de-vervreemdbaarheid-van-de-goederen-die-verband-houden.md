@@ -11,7 +11,7 @@ entry_into_force: 2022-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/03/2022042012/justel"
 department: "Wetenschapsbeleid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2022. - Wet tot erkenning van de vervreemdbaarheid van de goederen die verband houden met het koloniale verleden van de Belgische Staat en tot vaststelling van een juridisch kader voor hun restitutie en teruggave

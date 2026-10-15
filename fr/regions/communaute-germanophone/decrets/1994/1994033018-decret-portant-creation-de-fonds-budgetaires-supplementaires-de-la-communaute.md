@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/01/17/1994033018/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 12-09-2002 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANVIER 1994. - Décret portant création de fonds budgétaires supplémentaires de la Communauté germanophone. (Traduction)

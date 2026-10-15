@@ -12,7 +12,7 @@ entry_into_force: 2001-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/09/2000015030/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 1999. - Loi portant assentiment à l'accord de partenariat économique, de coordination politique et de coopération entre la Communauté européenne et ses Etats membres, d'une part, et les Etats-Unis mexicains, d'autre part, Annexe et Acte final, faits à Bruxelles le 8 décembre 1997.

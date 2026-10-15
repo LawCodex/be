@@ -13,7 +13,7 @@ entry_into_force: 1999-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/06/1999027666/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 1999. - Décret portant approbation de l'accord de coopération entre la Région wallonne et la Communauté francaise relatif au transport interne.

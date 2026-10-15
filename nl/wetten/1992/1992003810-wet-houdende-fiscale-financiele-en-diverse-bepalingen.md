@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1992/12/28/1992003810/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 26-07-1993 en tekstbijwerking tot 28-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBER 1992. - Wet houdende fiscale, financiële en diverse bepalingen.

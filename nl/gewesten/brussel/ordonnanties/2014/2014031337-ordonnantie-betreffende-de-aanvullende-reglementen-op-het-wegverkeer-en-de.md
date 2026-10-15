@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/04/03/2014031337/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 14-05-2014 en tekstbijwerking tot 08-09-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2014. - Ordonnantie betreffende de aanvullende reglementen op het wegverkeer en de plaatsing en bekostiging van de verkeersteken

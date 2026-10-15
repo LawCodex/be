@@ -10,7 +10,7 @@ date: 1901-08-22
 published: 1901-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1901/08/22/1901082250/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 AUGUSTUS 1901. - Wet waarbij gewijzigd wordt artikel 13 van het decreet van 16 December 1811, op de mosselvangst.

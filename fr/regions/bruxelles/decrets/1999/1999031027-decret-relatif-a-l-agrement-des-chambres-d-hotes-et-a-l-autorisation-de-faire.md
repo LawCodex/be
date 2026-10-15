@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/01/14/1999031027/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 03-02-1999 et mise à jour au 30-08-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 1999. - Décret relatif à l'agrément des chambres d'hôtes et à l'autorisation de faire usage de la dénomination "Chambre d'hôtes"

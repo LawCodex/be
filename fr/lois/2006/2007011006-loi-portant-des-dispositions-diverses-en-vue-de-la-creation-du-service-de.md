@@ -12,7 +12,7 @@ entry_into_force: 2007-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/21/2007011006/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2006. - Loi portant des dispositions diverses en vue de la création du service de médiation pour le secteur postal et modifiant la loi du 13 juin 2005 relative aux communications électroniques.

@@ -12,7 +12,7 @@ entry_into_force: 2008-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/06/29/2014015237/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2014. - Wet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en het Internationaal Centrum voor de Ontwikkeling van het Migratiebeleid, ondertekend te Brussel op 21 mei 2008

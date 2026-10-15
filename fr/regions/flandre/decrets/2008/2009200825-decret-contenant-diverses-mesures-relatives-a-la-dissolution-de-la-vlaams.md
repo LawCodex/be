@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/19/2009200825/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 06-03-2009 et mise à jour au 08-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2008. - Décret contenant diverses mesures relatives à la dissolution de la " Vlaams Agentschap Ondernemen " (Agence flamande de l'Entrepreneuriat) et portant organisation d'un Comité de Politique industrielle préventive (TRADUCTION)

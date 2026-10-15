@@ -13,7 +13,7 @@ entry_into_force: 2016-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/01/22/2016035120/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 2016. - Decreet houdende instemming met het samenwerkingsakkoord van 17 juli 2015 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de overdracht van toegewezen eenheden naar de gewesten voor de periode 2008-2012

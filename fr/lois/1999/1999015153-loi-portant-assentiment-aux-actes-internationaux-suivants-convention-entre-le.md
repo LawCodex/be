@@ -12,7 +12,7 @@ entry_into_force: 1999-11-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/09/1999015153/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 1999. - Loi portant assentiment aux Actes internationaux suivants : Convention entre le Royaume de Belgique et la République d'Ouzbékistan tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et Protocole, signés à Bruxelles le 14 novembre 1996, et Protocole additionnel amendant cette Convention, signé à Tachkent le 17 avril 1998.

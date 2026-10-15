@@ -16,7 +16,7 @@ department: "Financiën"
 justel_notes:
   - "art. 4, 11, 12 gewijzigd met ingang op een onbepaalde datum bij KB 2007-04-27/85 , art. 117, 119, 120, 002; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 28-04-2006 en tekstbijwerking tot 24-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2006. - Wet betreffende de bemiddeling in bank- en beleggingsdiensten en de distributie van financiële instrumenten.

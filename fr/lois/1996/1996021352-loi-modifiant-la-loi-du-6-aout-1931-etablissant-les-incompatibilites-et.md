@@ -12,7 +12,7 @@ entry_into_force: 1997-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/04/1996021352/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 1996. - Loi modifiant la loi du 6 août 1931 établissant les incompatibilités et interdictions concernant les ministres, anciens ministres et ministres d'Etat ainsi que les membres et anciens membres des Chambres législatives.

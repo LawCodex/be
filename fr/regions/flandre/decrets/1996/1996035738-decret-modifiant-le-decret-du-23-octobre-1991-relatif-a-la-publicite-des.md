@@ -13,7 +13,7 @@ entry_into_force: 1996-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/06/13/1996035738/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 1996. - Décret modifiant le décret du 23 octobre 1991 relatif à la publicité des documents administratifs dans les services et établissements du Gouvernement flamand (TRADUCTION).

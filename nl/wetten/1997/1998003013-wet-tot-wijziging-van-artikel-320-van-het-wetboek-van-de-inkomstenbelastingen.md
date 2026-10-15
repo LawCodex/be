@@ -12,7 +12,7 @@ entry_into_force: 1998-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/09/1998003013/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 1997. - Wet tot wijziging van artikel 320 van het Wetboek van de inkomstenbelastingen 1992 met het oog op het verbod voor de zorgverleners om de fiscale strook van de getuigschriften voor verstrekte hulp af te scheuren.

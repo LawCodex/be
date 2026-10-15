@@ -13,7 +13,7 @@ entry_into_force: 2026-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/17/2026005983/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2026. - Décret-programme portant diverses dispositions relatives aux Bâtiments scolaires, à l'Enseignement supérieur, à l'Enseignement obligatoire, à l'Enseignement pour Adultes, à l'Enfance et à la Recherche scientifique

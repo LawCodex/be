@@ -12,7 +12,7 @@ entry_into_force: 2023-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/29/2022043185/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2022. - Wet tot wijziging van de wet van 2 mei 2019 betreffende de bij de Kamer van volksvertegenwoordigers ingediende verzoekschriften betreffende de invoering van een standaardformulier van het verzoekschrift om gehoord te worden

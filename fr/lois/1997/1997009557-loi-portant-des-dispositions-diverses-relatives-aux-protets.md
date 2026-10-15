@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/06/10/1997009557/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 19-07-1997 et mise à jour au 17-05-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 1997. - Loi portant des dispositions diverses relatives aux protêts.

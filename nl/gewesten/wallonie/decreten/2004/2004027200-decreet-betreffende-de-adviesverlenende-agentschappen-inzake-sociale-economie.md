@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/27/2004027200/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 01-03-2005 en tekstbijwerking tot 24-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2004. - Decreet betreffende de adviesverlenende agentschappen inzake sociale economie. (VERTALING)

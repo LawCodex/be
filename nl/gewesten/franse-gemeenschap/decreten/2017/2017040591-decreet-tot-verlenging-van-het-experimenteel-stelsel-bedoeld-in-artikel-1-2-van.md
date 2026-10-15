@@ -12,7 +12,7 @@ published: 2017-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/19/2017040591/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2017. - Decreet tot verlenging van het experimenteel stelsel bedoeld in artikel 1, § 2, van het koninklijk besluit van 29 juni 1984 betreffende de organisatie van het secundair onderwijs

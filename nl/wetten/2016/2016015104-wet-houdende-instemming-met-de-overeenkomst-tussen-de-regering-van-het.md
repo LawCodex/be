@@ -11,7 +11,7 @@ entry_into_force: 2016-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/08/09/2016015104/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 AUGUSTUS 2016. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, met betrekking tot immigratiecontroles op het treinverkeer tussen België en het Verenigd Koninkrijk via de vaste kanaalverbinding, gedaan te Londen op 3 december 2013 en te Brussel op 18 december 2013

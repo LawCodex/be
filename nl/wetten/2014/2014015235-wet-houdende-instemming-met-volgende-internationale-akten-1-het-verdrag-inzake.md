@@ -12,7 +12,7 @@ entry_into_force: 2023-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/06/03/2014015235/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2014. - Wet houdende instemming met volgende internationale akten : 1° het verdrag inzake wederzijdse rechtshulp in strafzaken tussen het Koninkrijk België en de Democratische Republiek Congo, gedaan te Brussel op 29 april 2009; en 2° het verdrag tussen het Koninkrijk België en de Democratische Republiek Congo betreffende de overbrenging van gevonniste personen, gedaan te Brussel op 29 april 2009

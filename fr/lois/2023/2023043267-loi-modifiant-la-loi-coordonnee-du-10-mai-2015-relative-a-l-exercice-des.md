@@ -12,7 +12,7 @@ entry_into_force: 2023-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/28/2023043267/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2023. - Loi modifiant la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé, concernant la maîtrise de l'offre

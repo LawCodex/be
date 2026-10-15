@@ -12,7 +12,7 @@ entry_into_force: 2015-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/07/17/2015009417/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2015. - Loi modifiant l'article 1299 du Code judiciaire en ce qui concerne l'appel d'un jugement prononçant le divorce par consentement mutuel pour cause de réconciliation (I)

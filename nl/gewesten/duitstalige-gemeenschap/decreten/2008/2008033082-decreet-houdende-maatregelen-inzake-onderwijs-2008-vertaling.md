@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/23/2008033082/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 13-10-2008 en tekstbijwerking tot 08-09-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2008. - Decreet houdende maatregelen inzake onderwijs - 2008 (VERTALING)

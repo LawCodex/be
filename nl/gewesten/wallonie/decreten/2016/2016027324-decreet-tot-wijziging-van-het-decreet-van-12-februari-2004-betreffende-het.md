@@ -13,7 +13,7 @@ entry_into_force: 2016-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/11/24/2016027324/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2016. - Decreet tot wijziging van het decreet van 12 februari 2004 betreffende het statuut van de overheidsbestuurder en het decreet van 12 februari 2004 betreffende de Regeringscommissaris en de controleopdrachten van de revisoren binnen de instellingen van openbaar nut

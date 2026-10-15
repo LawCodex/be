@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/05/12/2017012207/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 31-05-2017 en tekstbijwerking tot 17-07-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2017. - Decreet houdende diverse bepalingen in de beleidsvelden cultuur en jeugd

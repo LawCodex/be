@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/25/2017030001/justel"
 department: "Mobiliteit en Vervoer"
 justel_note: "Raadpleging van vroegere versies vanaf 19-01-2017 en tekstbijwerking tot 04-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBER 2016. - Wet tot instelling van administratieve geldboetes van toepassing in geval van inbreuken op de scheepvaartwetten

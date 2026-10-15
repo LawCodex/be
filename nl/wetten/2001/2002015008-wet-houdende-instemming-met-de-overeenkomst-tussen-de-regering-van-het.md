@@ -12,7 +12,7 @@ entry_into_force: 2002-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/12/17/2002015008/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2001. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Bondsrepubliek Duitsland inzake de wederzijdse beveiliging van geclassificeerde gegevens, ondertekend te Brussel op 7 november 1996.

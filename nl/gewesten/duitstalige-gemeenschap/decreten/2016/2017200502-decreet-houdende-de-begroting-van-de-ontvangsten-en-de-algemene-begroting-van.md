@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/15/2017200502/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 31-01-2017 en tekstbijwerking tot 16-07-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2016. - Decreet houdende de begroting van de ontvangsten en de algemene begroting van de uitgaven van de Duitstalige Gemeenschap voor het begrotingsjaar 2017

@@ -11,7 +11,7 @@ date: 2001-11-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/11/14/2001027692/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2001. - Bijzonder decreet tot wijziging van artikel 32, § 1, tweede lid, van de bijzondere wet tot hervorming der instellingen van 8 augustus 1980 zoals gewijzigd, tot organisatie van het stelsel der vergaderingen van het Waals Parlement (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2024-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/03/29/2024003694/justel"
 department: "Justitie - Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2024. - Wet tot wijziging van de wet van 18 juli 1991 tot regeling van het toezicht op politie- en inlichtingendiensten en op het Coördinatieorgaan voor de dreigingsanalyse wat de samenstelling van de Vaste Comités P en I betreft

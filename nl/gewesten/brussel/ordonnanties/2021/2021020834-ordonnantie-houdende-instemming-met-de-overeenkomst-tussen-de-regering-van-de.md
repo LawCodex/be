@@ -13,7 +13,7 @@ entry_into_force: 2021-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/04/15/2021020834/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 APRIL 2021. - Ordonnantie houdende instemming met : de Overeenkomst tussen de Regering van de Republiek Gabon en de Regering van het Koninkrijk België betreffende de luchtvervoerdiensten, gedaan te Brussel op 28 mei 2018

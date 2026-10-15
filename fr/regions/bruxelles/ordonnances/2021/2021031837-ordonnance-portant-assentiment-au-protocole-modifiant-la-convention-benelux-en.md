@@ -13,7 +13,7 @@ entry_into_force: 2021-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/07/15/2021031837/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2021. - Ordonnance portant assentiment au protocole modifiant la Convention Benelux en matière de chasse et de protection des oiseaux, fait à Bruxelles le 17 février 2016

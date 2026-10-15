@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/09/2019012800/justel"
 department: "Franse Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 24-02-2023 en tekstbijwerking tot 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2019. - Decreet houdende de toegankelijkheid van websites en mobiele applicaties van de openbare instellingen van de Franse Gemeenschapscommissie

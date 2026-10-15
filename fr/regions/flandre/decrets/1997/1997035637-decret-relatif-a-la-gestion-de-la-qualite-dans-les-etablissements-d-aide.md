@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/04/29/1997035637/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 11-06-1997 et mis à jour au 10-11-2003"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 1997. - Décret relatif à la gestion de la qualité dans les établissements d'aide sociale. (TRADUCTION).

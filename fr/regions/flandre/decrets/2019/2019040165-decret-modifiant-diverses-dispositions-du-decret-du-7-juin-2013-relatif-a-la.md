@@ -13,7 +13,7 @@ entry_into_force: 2019-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/01/18/2019040165/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2019. - Décret modifiant diverses dispositions du décret du 7 juin 2013 relatif à la politique flamande d'intégration et d'intégration civique

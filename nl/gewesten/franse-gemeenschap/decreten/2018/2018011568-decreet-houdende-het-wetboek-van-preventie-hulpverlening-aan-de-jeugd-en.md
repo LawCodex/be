@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/01/18/2018011568/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 03-04-2018 en tekstbijwerking tot 14-09-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2018. - Decreet houdende het wetboek van preventie, hulpverlening aan de jeugd en jeugdbescherming

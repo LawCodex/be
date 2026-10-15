@@ -13,7 +13,7 @@ entry_into_force: 2013-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/10/2013204331/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2013. - Decreet houdende instemming met het Akkoord tussen het Koninkrijk België en het Gemenebest van de Bahama's inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, ondertekend te Brussel op 7 december 2009

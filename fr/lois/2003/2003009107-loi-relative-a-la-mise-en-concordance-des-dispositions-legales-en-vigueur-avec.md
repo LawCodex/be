@@ -12,7 +12,7 @@ entry_into_force: 2003-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/23/2003009107/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 2003. - Loi relative à la mise en concordance des dispositions légales en vigueur avec la loi du 10 juillet 1996 portant abolition de la peine de mort et modifiant les peines criminelles.

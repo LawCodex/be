@@ -13,7 +13,7 @@ entry_into_force: 1994-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/11/24/1994027666/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 1994. - DECREET tot wijziging van het decreet van 25 oktober 1984 tot instelling van de "Société régionale wallonne du Logement" (Waalse Gewestelijke Huisvestingsmaatschappij)

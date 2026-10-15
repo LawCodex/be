@@ -12,7 +12,7 @@ entry_into_force: 2010-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/12/23/2009021136/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2009. - Loi introduisant un nouveau livre relatif à la motivation, à l'information et aux voies de recours dans la loi du 24 décembre 1993 relative aux marchés publics et à certains marchés de travaux, de fournitures et de services

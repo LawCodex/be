@@ -12,7 +12,7 @@ entry_into_force: 2010-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/06/02/2010024217/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2010. - Loi portant des dispositions diverses en matière de l'organisation de l'assurance maladie complémentaire (II)

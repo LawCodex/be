@@ -11,7 +11,7 @@ published: 1961-07-01
 entry_into_force: 1916-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1961/06/30/1961063003/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 1961. - Loi relative à l'épuration civique.

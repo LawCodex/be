@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/15/2008202935/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 21-08-2008 et mise à jour au 23-10-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2008. - Décret relatif aux structures d'accompagnement à l'autocréation d'emploi (en abrégé : S.A.A.C.E.)

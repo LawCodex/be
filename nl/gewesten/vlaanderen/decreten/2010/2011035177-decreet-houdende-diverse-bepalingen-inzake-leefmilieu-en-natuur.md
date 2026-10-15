@@ -13,7 +13,7 @@ entry_into_force: 2011-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/23/2011035177/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2010. - Decreet houdende diverse bepalingen inzake leefmilieu en natuur

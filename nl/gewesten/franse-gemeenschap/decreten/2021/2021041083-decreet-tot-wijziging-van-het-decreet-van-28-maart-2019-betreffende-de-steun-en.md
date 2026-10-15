@@ -13,7 +13,7 @@ entry_into_force: 2021-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/03/25/2021041083/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2021. - Decreet tot wijziging van het decreet van 28 maart 2019 betreffende de steun- en begeleidingscellen in het onderwijs georganiseerd of gesubsidieerd door de Franse Gemeenschap en het statuut van de steun- en begeleidingsadviseurs

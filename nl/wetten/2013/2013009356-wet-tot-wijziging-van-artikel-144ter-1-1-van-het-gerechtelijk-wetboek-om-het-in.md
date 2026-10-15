@@ -12,7 +12,7 @@ entry_into_force: 2013-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/15/2013009356/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2013. - Wet tot wijziging van artikel 144ter, § 1, 1°, van het Gerechtelijk Wetboek om het in overeenstemming te brengen met het Internationaal Verdrag betreffende de bestrijding van daden van nucleair terrorisme, gedaan te New York op 14 september 2005, en met de Wijziging van het Verdrag inzake externe beveiliging van kernmateriaal, aangenomen te Wenen op 8 juli 2005 door de Conferentie van de Staten die partij zijn bij het Verdrag

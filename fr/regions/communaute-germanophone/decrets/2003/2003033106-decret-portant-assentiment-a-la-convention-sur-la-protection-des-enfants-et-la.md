@@ -13,7 +13,7 @@ entry_into_force: 2004-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/10/27/2003033106/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2003. - Décret portant assentiment à la convention sur la protection des enfants et la coopération en matière d'adoption internationale, fait à La Haye, le 29 mai 1993 (TRADUCTION).

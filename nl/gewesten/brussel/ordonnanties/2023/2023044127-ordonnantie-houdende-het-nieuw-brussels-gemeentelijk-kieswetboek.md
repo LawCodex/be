@@ -13,7 +13,7 @@ entry_into_force: 2023-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/07/20/2023044127/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2023. - Ordonnantie houdende het Nieuw Brussels Gemeentelijk Kieswetboek

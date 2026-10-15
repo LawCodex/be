@@ -12,7 +12,7 @@ entry_into_force: 2000-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/12/24/1999024144/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 1999. - Loi portant des dispositions sociales et diverses.

@@ -13,7 +13,7 @@ entry_into_force: 2016-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/03/04/2016035331/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 2016. - Décret modifiant les articles 10 et 17 de la loi du 25 juin 1993 sur l'exercice et l'organisation des activités ambulantes et foraines

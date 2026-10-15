@@ -13,7 +13,7 @@ entry_into_force: 2023-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/27/2023042133/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2023. - Décret et ordonnance conjoints de la Région de Bruxelles-Capitale, la Commission communautaire commune et la Commission communautaire française modifiant le décret et ordonnance conjoints des 26 avril et 16 mai 2019 relatifs au médiateur bruxellois

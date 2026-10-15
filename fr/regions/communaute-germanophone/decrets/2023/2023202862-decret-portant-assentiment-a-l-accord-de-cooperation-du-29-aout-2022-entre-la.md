@@ -13,7 +13,7 @@ entry_into_force: 2023-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/27/2023202862/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2023. - Décret portant assentiment à l'accord de coopération du 29 août 2022 entre la Région wallonne, la Commission communautaire commune et la Communauté germanophone relatif à l'organe interrégional pour les prestations familiales

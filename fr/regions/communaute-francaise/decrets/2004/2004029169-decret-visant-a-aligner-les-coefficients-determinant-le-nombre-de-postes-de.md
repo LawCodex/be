@@ -13,7 +13,7 @@ entry_into_force: 2004-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/12/2004029169/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Décret visant à aligner les coefficients déterminant le nombre de postes de chefs d'atelier et de chefs de travaux dans les CEFA sur les coefficients de l'enseignement technique et professionnel de plein exercice.

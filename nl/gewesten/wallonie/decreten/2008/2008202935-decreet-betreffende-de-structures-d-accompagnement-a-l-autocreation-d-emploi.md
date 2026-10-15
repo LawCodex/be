@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/15/2008202935/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 21-08-2008 en tekstbijwerking tot 23-10-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2008. - Decreet betreffende de "structures d'accompagnement à l'autocréation d'emploi" (begeleidingsstructuren voor zelftewerkstelling) (afgekort "S.A.A.C.E)

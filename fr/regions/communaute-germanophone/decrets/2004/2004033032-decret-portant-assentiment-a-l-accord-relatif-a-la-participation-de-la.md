@@ -13,7 +13,7 @@ entry_into_force: 2004-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/29/2004033032/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2004. - Décret portant assentiment à l'Accord relatif à la participation de la République tchèque, la République d'Estonie, la République de Chypre, la République de Lettonie, la République de Lituanie, la République de Hongrie, la République de Malte, la République de Pologne, la République de Slovénie et la République slovaque à l'Espace économique européen (TRADUCTION).

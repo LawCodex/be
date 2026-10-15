@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/11/2004011261/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 05-07-2004 en tekstbijwerking tot 21-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2004. - [Wet betreffende de informatieverstrekking bij de verkoop van tweedehandsvoertuigen] &lt;Opschrift vervangen door W 2018-11-28/02 , art. 2, 002; Inwerkingtreding : 01-03-2019&gt;

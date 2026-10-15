@@ -13,7 +13,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/04/2020044292/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2020. - Décret ajustant divers décrets concernant la transformation de l'Agence flamande de l'Energie en Agence flamande pour l'Energie et le Climat, l'intégration de missions en matière de climat du Département de l'Environnement et de l'Aménagement du Territoire dans cette Agence flamande pour l'Energie et le Climat, l'intégration de missions en matière d'air du Département de l'Environnement et de l'Aménagement du Territoire dans la Société flamande de l'Environnement et portant rapport par le Département de l'Environnement et de l'Aménagement du Territoire

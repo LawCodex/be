@@ -12,7 +12,7 @@ entry_into_force: 2026-10-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/24/2026006730/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 2026. - Wet tot wijziging van de wet van 19 juli 2018 inzake toegankelijkheid van de websites en mobiele applicaties van overheidsinstanties en van de wet 4 mei 2016 inzake open data en het hergebruik van overheidsinformatie

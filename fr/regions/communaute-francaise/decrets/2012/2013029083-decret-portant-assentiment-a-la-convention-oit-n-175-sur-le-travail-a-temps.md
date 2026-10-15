@@ -13,7 +13,7 @@ entry_into_force: 2013-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/12/13/2013029083/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2012. - Décret portant assentiment à la Convention OIT n° 175 sur le travail à temps partiel, adoptée à Genève le 24 juin 1994 par la Conférence internationale du Travail lors de sa 81e session

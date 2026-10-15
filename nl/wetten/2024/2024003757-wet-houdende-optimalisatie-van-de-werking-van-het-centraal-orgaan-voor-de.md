@@ -12,7 +12,7 @@ entry_into_force: 2024-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/18/2024003757/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2024. - Wet houdende optimalisatie van de werking van het Centraal Orgaan voor de Inbeslagneming en de Verbeurdverklaring en het Overlegorgaan voor de coördinatie van de invordering van niet-fiscale schulden in strafzaken en houdende wijziging van de Wapenwet

@@ -12,7 +12,7 @@ entry_into_force: 1998-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/05/19/1998003326/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 1998. - Loi portant treizième ajustement du budget général des dépenses de l'année budgétaire 1997 - Section " Dette publique ".

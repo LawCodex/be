@@ -12,7 +12,7 @@ entry_into_force: 2013-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/07/01/2012000717/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUILLET 2011. - Loi insérant un article 134quinquies dans la Nouvelle loi communale, relatif aux compétences de police du bourgmestre dans le cadre de la lutte contre les réseaux de traite et de trafic des êtres humains

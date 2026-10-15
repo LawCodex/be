@@ -11,7 +11,7 @@ date: 2002-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/19/2002036141/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2002. - Decreet tot bekrachtiging van de ontwikkelingsdoelen algemene en sociale vorming in het buitengewoon secundair onderwijs van opleidingsvorm 3.

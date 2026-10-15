@@ -13,7 +13,7 @@ entry_into_force: 1991-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/02/21/1991027161/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 1991. - Décret portant approbation de l'accord de coopération relatif à l'exercice conjoint des compétences par la Communauté française et la Région wallonne.

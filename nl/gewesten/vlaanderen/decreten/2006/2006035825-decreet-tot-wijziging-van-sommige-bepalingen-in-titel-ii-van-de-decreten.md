@@ -13,7 +13,7 @@ entry_into_force: 2006-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/05/19/2006035825/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2006. - Decreet tot wijziging van sommige bepalingen in titel II van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005.

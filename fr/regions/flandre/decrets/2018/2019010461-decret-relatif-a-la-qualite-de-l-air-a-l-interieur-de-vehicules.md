@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/21/2019010461/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-01-2019 et mise à jour au 17-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2018. - Décret relatif à la qualité de l'air à l'intérieur de véhicules

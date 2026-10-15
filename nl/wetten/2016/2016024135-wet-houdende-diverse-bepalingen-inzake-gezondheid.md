@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/06/22/2016024135/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 01-07-2016 en tekstbijwerking tot 28-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2016. - Wet houdende diverse bepalingen inzake gezondheid

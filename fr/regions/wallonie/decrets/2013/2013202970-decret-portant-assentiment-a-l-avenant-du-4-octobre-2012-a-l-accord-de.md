@@ -13,7 +13,7 @@ entry_into_force: 2013-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/05/02/2013202970/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2013. - Décret portant assentiment à l'avenant du 4 octobre 2012 à l'accord de coopération du 30 mai 2005 entre l'Etat fédéral, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale et la Communauté germanophone relatif à l'économie plurielle

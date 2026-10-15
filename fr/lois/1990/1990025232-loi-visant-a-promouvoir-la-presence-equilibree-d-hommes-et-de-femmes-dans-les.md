@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/07/20/1990025232/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 31-07-1997 et mise à jour au 12-06-2003"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 1990. - Loi visant à promouvoir la présence équilibrée d'hommes et de femmes dans les organes possédant une compétence d'avis.

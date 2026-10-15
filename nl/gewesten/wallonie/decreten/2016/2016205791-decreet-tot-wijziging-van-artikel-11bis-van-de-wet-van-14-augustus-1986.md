@@ -12,7 +12,7 @@ entry_into_force: 2017-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/11/10/2016205791/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2016. - Decreet tot wijziging van artikel 11bis van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren wat betreft de publiciteit met het oog op de verhandeling van dieren

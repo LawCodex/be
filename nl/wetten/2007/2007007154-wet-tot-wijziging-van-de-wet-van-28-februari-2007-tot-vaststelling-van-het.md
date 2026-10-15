@@ -12,7 +12,7 @@ entry_into_force: 2011-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/11/2007007154/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2007. - Wet tot wijziging van de wet van 28 februari 2007 tot vaststelling van het statuut van de militairen van het actief kader van de krijgsmacht.

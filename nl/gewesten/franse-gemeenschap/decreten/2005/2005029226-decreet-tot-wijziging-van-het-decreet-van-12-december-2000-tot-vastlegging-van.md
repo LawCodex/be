@@ -12,7 +12,7 @@ published: 2005-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/20/2005029226/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2005. - Decreet tot wijziging van het decreet van 12 december 2000 tot vastlegging van de initiële opleiding van onderwijzers en regenten (VERTALING).

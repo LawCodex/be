@@ -13,7 +13,7 @@ entry_into_force: 2012-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/19/2012203361/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2012. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek San Marino tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken van belasting inzake belastingen naar het inkomen, ondertekend te San Marino op 21 december 2005, zoals gewijzigd bij het op 14 juli 2009 te Brussel ondertekende Protocol

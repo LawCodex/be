@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/12/19/2014004028/justel"
 department: "Budget et Contrôle de la gestion"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2014 et mise à jour au 29-07-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2014. - Loi contenant le budget des Voies et Moyens de l'année budgétaire 2015

@@ -13,7 +13,7 @@ entry_into_force: 2017-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/10/12/2017205410/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OCTOBRE 2017. - Décret portant assentiment à l'accord de coopération du 17 juin 2016 entre la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone concernant la transposition dans la législation des prestations familiales de la Directive 2011/98/UE du Parlement européen et du Conseil du 13 décembre 2011 établissant une procédure de demande unique en vue de la délivrance d'un permis unique autorisant les ressortissants de pays tiers à résider et à travailler sur le territoire d'un Etat membre et établissant un socle commun de droits pour les travailleurs issus de pays tiers qui résident légalement dans un Etat membre

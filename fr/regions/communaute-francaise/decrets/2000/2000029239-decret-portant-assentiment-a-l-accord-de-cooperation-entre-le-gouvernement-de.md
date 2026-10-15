@@ -13,7 +13,7 @@ entry_into_force: 2000-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/05/31/2000029239/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2000. - Décret portant assentiment à l'accord de coopération entre le Gouvernement de la Communauté française de Belgique et le Gouvernement wallon et le Gouvernement de la République de Bolivie.

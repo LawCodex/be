@@ -12,7 +12,7 @@ entry_into_force: 2006-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/01/2006015079/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MEI 2006. - Wet houdende instemming met het OCCAR-Veiligheidsakkoord tussen de Regering van de Franse Republiek, de Regering van de Bondsrepubliek Duitsland, de Regering van het Koninkrijk België, de Regering van de Italiaanse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, gedaan te Parijs op 24 september 2004.

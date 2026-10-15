@@ -13,7 +13,7 @@ entry_into_force: 2021-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/11/2020044431/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2020. - Décret contenant le deuxième ajustement du budget des dépenses de la Communauté flamande pour l'année budgétaire 2020

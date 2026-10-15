@@ -13,7 +13,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/02/01/2012029089/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2012. - Decreet tot wijziging van de wet van 29 maart 1965 betreffende de terbeschikkingstelling van leden van het onderwijzend personeel ten behoeve van jeugdorganisaties en van het koninklijk besluit van 27 oktober 1967 houdende vaststelling van de modaliteiten tot toepassing van de wet van 29 maart 1965 betreffende de terbeschikkingstelling van leden van het onderwijzend personeel ten behoeve van jeugdorganisaties

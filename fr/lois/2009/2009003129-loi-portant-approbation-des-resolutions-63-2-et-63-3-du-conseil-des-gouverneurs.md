@@ -12,7 +12,7 @@ entry_into_force: 2009-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/03/17/2009003129/justel"
 department: "Finances - Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2009. - Loi portant approbation des Résolutions 63-2 et 63-3 du Conseil des Gouverneurs du Fonds monétaire international et relatif à l'amendement des statuts du Fonds monétaire international

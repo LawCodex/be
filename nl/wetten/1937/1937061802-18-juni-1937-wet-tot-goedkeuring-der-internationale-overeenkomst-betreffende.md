@@ -11,7 +11,7 @@ published: 1937-10-20
 entry_into_force: 1937-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1937/06/18/1937061802/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 1937. \_ Wet tot goedkeuring der Internationale Overeenkomst betreffende het gebruik van vrouwen voor onderaardschen arbeid in mijnen van allen aard, aangenomen te Genève, op 21 juni 1935, door de Internationale Arbeidsconferentie tijdens haar 19° zitting.

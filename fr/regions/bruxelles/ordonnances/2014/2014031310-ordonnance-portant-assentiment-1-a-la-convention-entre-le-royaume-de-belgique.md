@@ -13,7 +13,7 @@ entry_into_force: 2014-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/03/27/2014031310/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Ordonnance portant assentiment : 1° à la Convention entre le Royaume de Belgique et la République tchèque tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 16 décembre 1996, telle que modifiée par le Protocole, fait à Bruxelles le 15 mars 2010; et 2° au Protocole, fait à Bruxelles le 15 mars 2010, à la Convention entre le Royaume de Belgique et la République tchèque tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 16 décembre 1996

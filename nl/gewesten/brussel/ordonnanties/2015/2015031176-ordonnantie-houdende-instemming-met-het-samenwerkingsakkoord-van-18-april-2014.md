@@ -13,7 +13,7 @@ entry_into_force: 2015-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/03/19/2015031176/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2015. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 18 april 2014 tussen de federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot de Coördinatiestructuur voor patrimoniuminformatie

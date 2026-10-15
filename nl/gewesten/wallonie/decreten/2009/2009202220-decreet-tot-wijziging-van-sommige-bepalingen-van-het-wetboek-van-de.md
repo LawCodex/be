@@ -13,7 +13,7 @@ entry_into_force: 2009-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202220/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet tot wijziging van sommige bepalingen van het Wetboek van de plaatselijke Democratie en de Decentralisatie en van de wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn

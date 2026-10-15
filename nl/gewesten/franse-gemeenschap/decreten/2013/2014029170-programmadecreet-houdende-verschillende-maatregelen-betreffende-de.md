@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/18/2014029170/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 25-03-2014 en tekstbijwerking tot 01-07-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2013. - Programmadecreet houdende verschillende maatregelen betreffende de begrotingsfondsen vermeld in de algemene uitgavenbegroting van de Franse Gemeenschap, cultuur, leerplichtonderwijs en onderwijs voor sociale promotie, het agentschap voor de evaluatie van de kwaliteit van het door de Franse Gemeenschap georganiseerde of gesubsidieerde hoger onderwijs, de schoolgebouwen en onderzoek

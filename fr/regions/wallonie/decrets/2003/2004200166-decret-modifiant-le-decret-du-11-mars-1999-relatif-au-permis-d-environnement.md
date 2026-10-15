@@ -13,7 +13,7 @@ entry_into_force: 2003-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/18/2004200166/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2003. - Décret modifiant le décret du 11 mars 1999 relatif au permis d'environnement.

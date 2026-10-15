@@ -12,7 +12,7 @@ entry_into_force: 2004-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/03/11/2004009219/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2004. - Loi modifiant la loi du 3 avril 1953 d'organisation judiciaire et autorisant temporairement la nomination de magistrats en surnombre.

@@ -12,7 +12,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/14/2015003412/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2015. - Loi modifiant les articles 419, i), iii), 420 et 432, § 3, de la loi-programme du 27 décembre 2004

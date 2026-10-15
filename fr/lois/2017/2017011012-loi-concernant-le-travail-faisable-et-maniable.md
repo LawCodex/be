@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/03/05/2017011012/justel"
 department: "Emploi, Travail et Concertation sociale"
 justel_note: "Consultation des versions antérieures à partir du 15-03-2017 et mise à jour au 10-11-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2017. - Loi concernant le travail faisable et maniable

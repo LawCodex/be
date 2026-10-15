@@ -13,7 +13,7 @@ entry_into_force: 2025-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/01/30/2025001594/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2025. - Besluit betreffende het stroomlijnen van maatregelen ter bevordering van het trans-Europees vervoersnetwerk (TEN-T)

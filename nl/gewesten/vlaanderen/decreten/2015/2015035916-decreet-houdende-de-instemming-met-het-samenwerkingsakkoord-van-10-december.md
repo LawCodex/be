@@ -13,7 +13,7 @@ entry_into_force: 2015-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/03/2015035916/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2015. - Decreet houdende de instemming met het samenwerkingsakkoord van 10 december 2014 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende het beheer van het elektronisch toezicht

@@ -10,7 +10,7 @@ date: 1971-07-09
 published: 1971-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/07/09/1971070903/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 1971. - Loi portant modification de la loi du 2 avril 1965 modifiant la loi du 27 novembre 1891 sur l'assistance publique

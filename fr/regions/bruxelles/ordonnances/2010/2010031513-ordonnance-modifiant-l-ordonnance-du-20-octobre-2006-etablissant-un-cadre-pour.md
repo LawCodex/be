@@ -13,7 +13,7 @@ entry_into_force: 2010-11-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2010/10/28/2010031513/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OCTOBRE 2010. - Ordonnance modifiant l'ordonnance du 20 octobre 2006 établissant un cadre pour la politique de l'eau et modifiant l'ordonnance du 25 mars 1999 relative à la recherche, la constatation, la poursuite et la répression des infractions en matière d'environnement

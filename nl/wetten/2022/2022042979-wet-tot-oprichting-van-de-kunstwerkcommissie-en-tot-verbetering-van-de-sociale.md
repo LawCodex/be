@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/16/2022042979/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 27-12-2022 en tekstbijwerking tot 02-04-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2022. - Wet tot oprichting van de Kunstwerkcommissie en tot verbetering van de sociale bescherming van kunstwerkers

@@ -12,7 +12,7 @@ entry_into_force: 2005-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/02/24/2005015042/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2005. - Loi portant assentiment à l'Accord sur les privilèges et immunités de la Cour pénale internationale, fait à New York le 9 septembre 2002.

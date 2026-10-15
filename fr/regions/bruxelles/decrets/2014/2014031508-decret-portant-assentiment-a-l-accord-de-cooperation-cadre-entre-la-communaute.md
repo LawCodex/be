@@ -13,7 +13,7 @@ entry_into_force: 2014-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/27/2014031508/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2014. - Décret portant assentiment à l'accord de coopération-cadre entre la Communauté française, la Région wallonne et la Commission communautaire française relatif à la concertation intrafrancophone en matière de santé et d'aide aux personnes et aux principes communs applicables en ces matières

@@ -12,7 +12,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/06/04/2007014245/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUIN 2007. - Loi modifiant la loi du 16 mars 1968 relative à la police de la circulation routière afin de sanctionner plus sévèrement la récidive pour les délits de fuite.

@@ -12,7 +12,7 @@ entry_into_force: 1997-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/09/04/1997015006/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBRE 1996. - Loi portant assentiment à la Convention des Nations Unies sur les contrats de vente internationale de marchandises, faite à Vienne le 11 avril 1980.

@@ -13,7 +13,7 @@ entry_into_force: 2009-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/19/2009200201/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2008. - Décret portant assentiment à l'accord de stabilisation et d'association entre les Communautés européennes et leurs Etats membres, d'une part, et la République du Monténégro, d'autre part, et l'Acte final, signé à Luxembourg le 15 octobre 2007

@@ -12,7 +12,7 @@ entry_into_force: 1998-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/07/05/1998011211/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1998. - Wet tot wijziging van de artikelen 1481, 1482 en 1488 van het Gerechtelijk Wetboek betreffende het beslag inzake namaak.

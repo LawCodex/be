@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/19/2014011266/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 28-05-2014 et mise à jour au 30-10-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2014. - Loi portant insertion du livre VII "Services de paiement et de crédit " dans le Code de droit économique, portant insertion des définitions propres au livre VII et des peines relatives aux infractions au livre VII, dans les livres I et XV du Code de droit économique, et portant diverses autres dispositions

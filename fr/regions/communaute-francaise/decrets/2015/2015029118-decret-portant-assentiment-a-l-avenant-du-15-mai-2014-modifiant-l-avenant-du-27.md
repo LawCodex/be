@@ -13,7 +13,7 @@ entry_into_force: 2015-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/03/05/2015029118/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2015. - Décret portant assentiment à l'Avenant du 15 mai 2014 modifiant l'Avenant du 27 mars 2014 relatif à l'accord de coopération-cadre relatif à la formation en alternance, conclu à Bruxelles, le 24 octobre 2008, entre la Communauté française, la Région wallonne et la Commission communautaire française

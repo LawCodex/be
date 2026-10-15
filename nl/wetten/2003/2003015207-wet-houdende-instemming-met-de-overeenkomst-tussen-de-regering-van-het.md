@@ -11,7 +11,7 @@ entry_into_force: 2003-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/22/2003015207/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2003. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Armenië inzake luchtvervoer, en de Bijlage, ondertekend te Brussel op 7 juni 2001.

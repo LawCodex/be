@@ -12,7 +12,7 @@ entry_into_force: 2011-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/07/19/2011024192/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2011. - Loi modifiant la loi du 5 juillet 1994 relative au sang et aux dérivés du sang d'origine humaine en vue de relever l'âge maximum autorisé pour le don de sang et de dérivés de sang

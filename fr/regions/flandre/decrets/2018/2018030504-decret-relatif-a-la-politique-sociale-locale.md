@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/02/09/2018030504/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-02-2018 et mise à jour au 29-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2018. - DECRET relatif à la politique sociale locale

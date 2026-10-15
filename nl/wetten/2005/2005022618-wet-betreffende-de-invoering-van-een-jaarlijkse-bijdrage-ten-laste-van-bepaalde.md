@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/07/13/2005022618/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 29-07-2005 en tekstbijwerking tot 20-11-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2005. - Wet betreffende de invoering van een jaarlijkse bijdrage ten laste van bepaalde instellingen.

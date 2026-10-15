@@ -11,7 +11,7 @@ date: 2017-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/12/2017204510/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2017. - Decreet tot wijziging van de wet van 12 februari 2008 tot instelling van een nieuw algemeen kader voor de erkenning van EG-beroepskwalificaties

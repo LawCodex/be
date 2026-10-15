@@ -13,7 +13,7 @@ entry_into_force: 1991-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/02/20/1991035312/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 1991. - Décret modifiant le décret du 5 mars 1985 portant réglementation de l'agrément et de l'octroi de subventions relatifs aux structures destinées aux personnes âgées .

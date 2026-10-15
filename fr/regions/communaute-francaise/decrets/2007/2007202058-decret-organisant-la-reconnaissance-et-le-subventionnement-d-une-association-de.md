@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/30/2007202058/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 17-07-2007 et mise à jour au 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2007. - Décret organisant la reconnaissance et le subventionnement d'une association de fédérations sportives, de fédérations sportives de loisirs et d'associations sportives francophones.

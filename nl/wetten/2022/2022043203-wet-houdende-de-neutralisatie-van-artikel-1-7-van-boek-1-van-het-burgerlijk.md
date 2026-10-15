@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/26/2022043203/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBER 2022. - Wet houdende de neutralisatie van artikel 1.7 van boek 1 van het Burgerlijk Wetboek wat betreft het arbeidsrecht en de sociale zekerheid en sociale bijstand

@@ -12,7 +12,7 @@ entry_into_force: 2020-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/05/04/2020202642/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2020. - Wet tot wijziging van wettelijke bepalingen voor wat de transparantie van de overeenkomsten inzake terugbetaalbare specialiteiten betreft

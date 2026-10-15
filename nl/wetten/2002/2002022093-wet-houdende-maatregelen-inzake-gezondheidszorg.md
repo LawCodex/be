@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/01/14/2002022093/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 22-02-2002 en tekstbijwerking tot 15-02-2007"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 2002. - Wet houdende maatregelen inzake gezondheidszorg.

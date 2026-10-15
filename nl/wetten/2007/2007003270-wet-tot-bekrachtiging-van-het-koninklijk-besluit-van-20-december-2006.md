@@ -12,7 +12,7 @@ entry_into_force: 2007-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/15/2007003270/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2007. - Wet tot bekrachtiging van het koninklijk besluit van 20 december 2006 betreffende de bijdrage in de werkings-, personeels- en oprichtingskosten van de kansspelcommissie verschuldigd door de houders van de vergunningen klasse A, B, C en E voor het kalenderjaar 2007.

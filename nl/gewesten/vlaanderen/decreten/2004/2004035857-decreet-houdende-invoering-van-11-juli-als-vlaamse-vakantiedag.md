@@ -13,7 +13,7 @@ entry_into_force: 2004-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004035857/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende invoering van 11 juli als Vlaamse vakantiedag.

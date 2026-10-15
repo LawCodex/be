@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/02/08/2013200992/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 22-02-2013 et mise à jour au 10-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 2013. - Décret relatif à une utilisation durable des pesticides en Région flamande

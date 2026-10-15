@@ -13,7 +13,7 @@ entry_into_force: 2023-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/01/2022042974/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2022. - Décret portant dispositions diverses aux fins de permettre l'apprentissage de deux langues par immersion dès la première année de l'enseignement secondaire ordinaire et spécialisé

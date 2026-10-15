@@ -12,7 +12,7 @@ entry_into_force: 2009-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/10/31/2009009016/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 OCTOBRE 2008. - Loi modifiant l'article 1294bis, § 2, du Code judiciaire afin de clarifier la loi du 27 avril 2007 réformant le divorce.

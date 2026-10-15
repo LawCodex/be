@@ -12,7 +12,7 @@ entry_into_force: 2004-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/08/02/2002015137/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AOUT 2002. - Loi portant assentiment à la Convention entre le Royaume de Belgique et les Emirats arabes unis tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et au Protocole, signés à Washington le 30 septembre 1996.

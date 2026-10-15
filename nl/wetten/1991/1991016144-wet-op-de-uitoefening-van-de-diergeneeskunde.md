@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/08/28/1991016144/justel"
 department: "Landbouw - Volksgezondheid en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 03-03-1998 en tekstbijwerking tot 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AUGUSTUS 1991. - Wet op de uitoefening van de diergeneeskunde.

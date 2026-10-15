@@ -12,7 +12,7 @@ entry_into_force: 2016-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/13/2015015193/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2015. - Loi abrogeant la loi du 14 juillet 1966 relative à certains actes de l'état civil dressés en dehors du Royaume

@@ -12,7 +12,7 @@ entry_into_force: 2013-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/06/06/2013015159/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2013. - Loi portant assentiment au Protocole portant modification de la Convention Benelux en matière de propriété intellectuelle (marques et dessins ou modèles), fait à Bruxelles le 22 juillet 2010

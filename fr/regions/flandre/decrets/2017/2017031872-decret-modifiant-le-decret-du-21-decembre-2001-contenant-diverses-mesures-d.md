@@ -13,7 +13,7 @@ entry_into_force: 2017-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/11/17/2017031872/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2017. - Décret modifiant le décret du 21 décembre 2001 contenant diverses mesures d'accompagnement du budget 2002 et le décret du 30 avril 2009 relatif à l'organisation et au financement de la politique en matière de sciences et d'innovation

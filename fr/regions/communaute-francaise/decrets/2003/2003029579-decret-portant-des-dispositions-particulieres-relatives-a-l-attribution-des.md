@@ -13,7 +13,7 @@ entry_into_force: 2003-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/11/19/2003029579/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2003. - Décret portant des dispositions particulières relatives à l'attribution des emplois aux fonctions définies par le titre V du décret du 4 mars 1991 relatif à l'aide à la Jeunesse.

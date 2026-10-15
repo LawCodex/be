@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/15/2019011711/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-04-2019 et mise à jour au 18-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2019. - Décret sur le droit en matière de délinquance juvénile

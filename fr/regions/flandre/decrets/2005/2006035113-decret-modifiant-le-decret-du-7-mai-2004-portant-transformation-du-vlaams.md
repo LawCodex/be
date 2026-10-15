@@ -13,7 +13,7 @@ entry_into_force: 2006-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/23/2006035113/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2005. - Décret modifiant le décret du 7 mai 2004 portant transformation du " Vlaams Zorgfonds " (Fonds flamand d'Assurance Soins) en une agence autonomisée interne dotée de la personnalité juridique et modifiant le décret du 30 mars 1999 portant organisation de l'assurance soins (TRADUCTION)

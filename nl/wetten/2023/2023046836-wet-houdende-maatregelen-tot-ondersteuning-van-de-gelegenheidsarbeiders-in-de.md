@@ -10,7 +10,7 @@ date: 2023-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/11/08/2023046836/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 2023. - Wet houdende maatregelen tot ondersteuning van de gelegenheidsarbeiders in de land- en tuinbouw

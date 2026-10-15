@@ -13,7 +13,7 @@ entry_into_force: 2006-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/07/19/2006202501/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2006. - Decreet houdende instemming met het samenwerkingsakkoord van 14 juli 2005 tussen de federale Regering en de gewestelijke Regeringen betreffende het gebruik van geautomatiseerde stemsystemen voor de gemeente- en provincieraadsverkiezingen 2006 en voor de verkiezingen van de federale Wetgevende Kamers 2007 (VERTALING).

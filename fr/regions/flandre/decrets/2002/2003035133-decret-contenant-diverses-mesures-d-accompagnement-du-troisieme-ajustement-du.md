@@ -13,7 +13,7 @@ entry_into_force: 2002-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/20/2003035133/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2002. - Décret contenant diverses mesures d'accompagnement du troisième ajustement du budget 2002 (TRADUCTION).

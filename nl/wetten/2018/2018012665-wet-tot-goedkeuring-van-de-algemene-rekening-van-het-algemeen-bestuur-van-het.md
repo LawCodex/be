@@ -12,7 +12,7 @@ entry_into_force: 2018-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/05/25/2018012665/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2018. - Wet tot goedkeuring van de algemene rekening van het algemeen bestuur van het jaar 2016 en van de uitvoeringsrekeningen van de begrotingen van Staatsdiensten met afzonderlijk beheer van voorgaande jaren

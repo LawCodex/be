@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/13/2024001581/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2023. - Besluit tot wijziging van boek II van het Milieuwetboek, dat het Waterwetboek inhoudt, met betrekking tot de governance van de watersector en tot aanpassing van de wettelijke regelingen van de "S.W.D.E." (Waalse watermaatschappij) en de S.P.G.E." "Société publique de gestion de l'eau" (Openbare maatschappij voor waterbeheer) aan het Wetboek van vennootschappen en verenigingen

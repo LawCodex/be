@@ -13,7 +13,7 @@ last_amended: 2021-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1939/08/31/1939083150/justel"
 justel_note: "Consultation des versions antérieures à partir du 05-01-1989 et mise à jour au 09-07-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 AOUT 1939. - [Loi sur le Ducroire] &lt;Intitulé modifié par L 2017-04-18/03 , art. 69, 006; En vigueur : 04-05-2017&gt;

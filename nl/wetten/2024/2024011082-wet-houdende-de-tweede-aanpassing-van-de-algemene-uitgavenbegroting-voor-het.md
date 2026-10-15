@@ -12,7 +12,7 @@ entry_into_force: 2024-12-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/11/29/2024011082/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2024. - Wet houdende de tweede aanpassing van de Algemene Uitgavenbegroting voor het begrotingsjaar 2024

@@ -13,7 +13,7 @@ entry_into_force: 2011-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/15/2011029004/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2010. - Programmadecreet houdende diverse maatregelen betreffende de sport in de Franse Gemeenschap, de begrotingsfondsen vermeld in de algemene uitgavenbegroting van de Franse Gemeenschap, de Raad voor de overdracht van de herinnering, het Leerplichtonderwijs en het Onderwijs voor Sociale promotie, de schoolgebouwen, de financiering van de universitaire instellingen en van de hogescholen, het wetenschaps- en universitair beleid, de overdracht van het hoger architectuuronderwijs naar de universiteit en de hulpverlening aan de universitaire instellingen en de onderhandeling in de Franse Gemeenschap

@@ -12,7 +12,7 @@ published: 1997-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/01/20/1997033044/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 1997. - Decreet houdende goedkeuring van het Verdrag inzake het Europees Handvest voor Energie, ondertekend in Lissabon op 17 december 1994 (VERTALING).

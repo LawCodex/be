@@ -13,7 +13,7 @@ entry_into_force: 2019-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/01/2019040739/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2019. - Décret modifiant le décret du 14 juillet 1993 portant création d'un Fonds gravier et réglant l'exploitation de gravier

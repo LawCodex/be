@@ -12,7 +12,7 @@ entry_into_force: 1999-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/25/1999015233/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 1999. - Wet houdende instemming met het Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart bij het op 23 september 1971 te Montreal tot stand gekomen Verdrag tot bestrijding van wederrechtelijke gedragingen tegen de veiligheid van de burgerluchtvaart, gedaan te Montrael op 24 februari 1988.

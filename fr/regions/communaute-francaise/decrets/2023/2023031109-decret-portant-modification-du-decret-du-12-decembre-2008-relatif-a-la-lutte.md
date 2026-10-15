@@ -13,7 +13,7 @@ entry_into_force: 2023-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/05/25/2023031109/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2023. - Décret portant modification du décret du 12 décembre 2008 relatif à la lutte contre certaines formes de discrimination

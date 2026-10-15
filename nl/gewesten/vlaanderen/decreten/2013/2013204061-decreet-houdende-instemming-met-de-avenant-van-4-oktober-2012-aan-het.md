@@ -13,7 +13,7 @@ entry_into_force: 2013-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/21/2013204061/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2013. - Decreet houdende instemming met de avenant van 4 oktober 2012 aan het Samenwerkingsakkoord van 30 mei 2005 tussen de Federale Staat, het Vlaams, het Waals en het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de Meerwaardeneconomie

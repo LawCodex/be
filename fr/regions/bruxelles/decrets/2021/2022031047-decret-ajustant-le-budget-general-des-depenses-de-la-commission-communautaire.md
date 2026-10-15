@@ -13,7 +13,7 @@ entry_into_force: 2021-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/17/2022031047/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2021. - Décret ajustant le budget général des dépenses de la Commission communautaire française pour l'année budgétaire 2021

@@ -11,7 +11,7 @@ published: 1948-09-11
 entry_into_force: 1948-09-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1948/08/23/1948082324/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 AOUT 1948. - Loi tendant à assurer le maintien et le développement de la marine marchande, de la pêche maritime [...] et instituant à ces fins un Fonds de l'Armement et des Constructions maritimes. (L 18-06-1976, art. 1)

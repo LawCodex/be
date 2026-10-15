@@ -11,7 +11,7 @@ date: 2012-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/11/08/2012206551/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 2012. - Decreet tot wijziging van het decreet van 27 juni 1996 betreffende de afvalstoffen

@@ -13,7 +13,7 @@ entry_into_force: 2005-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/01/27/2006035401/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JANVIER 2006. - Décret sanctionnant le règlement de l'Organisation d'accréditation néerlandaise-flamande fixant les principes d'administration s'appliquant à la prise de décision relative à l'accréditation et à l'évaluation nouvelle formation pour ce qui est des formations dans l'enseignement supérieur en Communauté flamande (TRADUCTION).

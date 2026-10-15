@@ -12,7 +12,7 @@ entry_into_force: 2017-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1964/03/25/2017031760/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 1964. - Loi du 25 mars 1964 sur les médicaments - Publication conformément à l'article 13bis, § 2quinquies, dernier alinéa, des montants indexés des contributions et rétributions

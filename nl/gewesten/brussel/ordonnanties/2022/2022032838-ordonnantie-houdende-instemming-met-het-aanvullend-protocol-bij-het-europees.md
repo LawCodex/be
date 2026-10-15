@@ -12,7 +12,7 @@ entry_into_force: 2022-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/07/20/2022032838/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2022. - Ordonnantie houdende instemming met het Aanvullend Protocol bij het Europees Handvest inzake lokale autonomie betreffende het recht op participatie in de aangelegenheden van lokale autoriteiten, opgemaakt in Utrecht op 16 november 2009

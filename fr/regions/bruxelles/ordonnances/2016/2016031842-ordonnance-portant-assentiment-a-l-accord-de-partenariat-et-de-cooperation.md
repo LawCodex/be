@@ -13,7 +13,7 @@ entry_into_force: 2017-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/12/08/2016031842/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2016. - Ordonnance portant assentiment à : l'Accord de Partenariat et de Coopération renforcé entre l'Union européenne et ses Etats membres, d'une part, et la République du Kazakhstan, d'autre part, signé à Astana le 21 décembre 2015

@@ -12,7 +12,7 @@ entry_into_force: 1998-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/08/10/1998015167/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1998. - Loi portant assentiment à la Convention préventive de la double imposition entre la Belgique et le Gouvernement de la République de Belarus tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et Protocole, signés à Bruxelles le 7 mars 1995.

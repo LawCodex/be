@@ -13,7 +13,7 @@ entry_into_force: 2012-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/05/04/2012035548/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2012. - Décret portant assentiment au troisième Protocole à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales relative aux partenariats eurégionaux, fait à Utrecht le 16 novembre 2009

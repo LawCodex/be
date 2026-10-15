@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/08/10/2001003418/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 18-09-2001 et mise à jour au 29-06-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2001. - Loi créant un Fonds de financement du rôle international et de la fonction de capitale de Bruxelles [, créant un fonds budgétaire Primes linguistiques] et modifiant la loi organique du 27 décembre 1990 créant des fonds budgétaires. &lt;Intitulé modifié par L 2012-07-19/30 , art. 2, 004; En vigueur : 01-09-2012&gt;

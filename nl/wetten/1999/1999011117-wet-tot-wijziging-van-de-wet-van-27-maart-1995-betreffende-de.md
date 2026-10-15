@@ -12,7 +12,7 @@ entry_into_force: 1999-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/11/1999011117/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 1999. - Wet tot wijziging van de wet van 27 maart 1995 betreffende de verzekeringsbemiddeling en de distributie van verzekeringen.

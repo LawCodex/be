@@ -12,7 +12,7 @@ entry_into_force: 1999-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/18/1998000797/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 1998. - Wet tot wijziging van het Kieswetboek om het stemrecht toe te kennen aan de Belgen die gevestigd zijn in het buitenland, voor de verkiezing van de federale Wetgevende Kamers.

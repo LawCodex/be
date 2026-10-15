@@ -13,7 +13,7 @@ entry_into_force: 2008-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/02/01/2008029115/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2008. - Decreet houdende instemming met de Internationale Conventie tegen het dopinggebruik in de sport, opgemaakt te Parijs op 19 oktober 2005 (VERTALING).

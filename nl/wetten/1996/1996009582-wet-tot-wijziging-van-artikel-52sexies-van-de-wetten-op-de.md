@@ -11,7 +11,7 @@ published: 1996-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/07/10/1996009582/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 1996. - Wet tot wijziging van artikel 52sexies van de wetten op de handelsvennootschappen, gecoördineerd op 30 november 1935.

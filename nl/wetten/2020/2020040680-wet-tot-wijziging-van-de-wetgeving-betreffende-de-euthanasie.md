@@ -12,7 +12,7 @@ entry_into_force: 2020-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/03/15/2020040680/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2020. - Wet tot wijziging van de wetgeving betreffende de euthanasie

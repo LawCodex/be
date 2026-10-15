@@ -12,7 +12,7 @@ published: 2024-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/14/2024202234/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2024. - Decreet tot wijziging van het tweede deel van Boek II van het Waalse Wetboek van Sociale Actie en Gezondheid betreffende de integratie van vreemdelingen

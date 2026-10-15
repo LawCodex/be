@@ -13,7 +13,7 @@ entry_into_force: 2012-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/05/04/2012035550/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2012. - Décret portant assentiment à la Convention du travail maritime, 2006, adoptée à Genève le 23 février 2006 par la Convention internationale du Travail, en sa nonante-quatrième session

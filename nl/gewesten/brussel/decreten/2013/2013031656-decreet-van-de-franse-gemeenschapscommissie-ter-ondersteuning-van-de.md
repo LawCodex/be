@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/18/2013031656/justel"
 department: "Franse Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 19-09-2013 en tekstbijwerking tot 10-03-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2013. - Decreet van de Franse Gemeenschapscommissie ter ondersteuning van de kinderopvang

@@ -13,7 +13,7 @@ entry_into_force: 2023-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/02/09/2023015239/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2023. - Decreet houdende instemming met het samenwerkingsakkoord betreffende het invoeren van een mechanisme voor de screening van buitenlandse investeringen in België

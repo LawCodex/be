@@ -13,7 +13,7 @@ entry_into_force: 2019-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/28/2019201592/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2019. - Decreet tot wijziging van de artikelen D.VI.25 tot D.VI.28 van het Wetboek van Ruimtelijke Ontwikkeling en van artikel 54 van het decreet van 2 februari 2017 betreffende de ontwikkeling van bedrijfsparken

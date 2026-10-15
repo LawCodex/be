@@ -13,7 +13,7 @@ entry_into_force: 2017-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/05/24/2017012844/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2017. - Décret portant diverses mesures techniques et organisationnelles en matière d'enseignement

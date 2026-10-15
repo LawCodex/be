@@ -12,7 +12,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/09/2003022349/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2003. - Loi modifiant l'article 393 du Code judiciaire.

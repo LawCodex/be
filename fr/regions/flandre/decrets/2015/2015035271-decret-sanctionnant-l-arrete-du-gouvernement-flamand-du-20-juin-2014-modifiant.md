@@ -13,7 +13,7 @@ entry_into_force: 2015-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/02/27/2015035271/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2015. - DECRET sanctionnant l'arrêté du Gouvernement flamand du 20 juin 2014 modifiant certains objectifs finaux de l'arrêté du Gouvernement flamand du 23 juin 2000 définissant les objectifs finaux spécifiques aux différentes branches des deuxième et troisième degrés de l'enseignement secondaire ordinaire, pour ce qui est des sciences naturelles ou de la physique et/ou la chimie et/ou la biologie

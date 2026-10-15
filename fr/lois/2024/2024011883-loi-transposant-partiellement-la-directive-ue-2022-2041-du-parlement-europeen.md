@@ -12,7 +12,7 @@ entry_into_force: 2024-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/12/17/2024011883/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2024. - Loi transposant partiellement la directive (UE) 2022/2041 du Parlement européen et du Conseil du 19 octobre 2022 relative à des salaires minimaux adéquats dans l'Union européenne

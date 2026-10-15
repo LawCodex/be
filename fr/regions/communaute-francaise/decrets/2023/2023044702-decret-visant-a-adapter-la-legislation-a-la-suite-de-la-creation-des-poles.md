@@ -13,7 +13,7 @@ entry_into_force: 2023-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/20/2023044702/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2023. - Décret visant à adapter la législation à la suite de la création des pôles territoriaux chargés de soutenir les écoles de l'enseignement ordinaire dans la mise en oeuvre des aménagements raisonnables et de l'intégration permanente totale

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/14/2002022868/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 26-10-2002 et mise à jour au 21-03-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 2002. - Loi relative aux soins palliatifs

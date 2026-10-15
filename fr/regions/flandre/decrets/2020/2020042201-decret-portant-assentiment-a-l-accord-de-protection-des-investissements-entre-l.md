@@ -13,7 +13,7 @@ entry_into_force: 2020-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/03/2020042201/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2020. - Décret portant assentiment à l'accord de protection des investissements entre l'Union européenne et ses Etats membres d'une part, et la République de Singapour, d'autre part, signé à Bruxelles le 19 octobre 2018

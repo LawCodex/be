@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/21/2002035030/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2001. - Décret abrogeant l'article 5bis de la loi du 10 mars 1925 sur les distributions d'énergie électrique (TRADUCTION).

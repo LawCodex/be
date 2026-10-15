@@ -12,7 +12,7 @@ entry_into_force: 2012-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/03/26/2012009166/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2012. - Wet tot wijziging van het Gerechtelijk Wetboek wat de collectieve schuldenregeling betreft

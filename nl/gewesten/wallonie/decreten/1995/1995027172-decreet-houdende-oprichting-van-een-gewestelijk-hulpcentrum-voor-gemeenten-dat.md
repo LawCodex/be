@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/03/23/1995027172/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 05-04-1995 en tekstbijwerking tot 24-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1995. - [Decreet houdende oprichting van een Gewestelijk Hulpcentrum voor gemeenten dat moet zorgen voor de opvolging en de controle op de beheersplannen van de gemeenten en provincies en dat het financiële evenwicht van de gemeenten en provincies van het Waalse Gewest moet helpen handhaven]. (Opschrift vervangen door DWG 1997-06-26/34, art. 12, 002; Inwerkingtreding : 19-07-1997) (VERTALING)

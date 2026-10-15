@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/12/20/2019200191/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2018. - Decreet tot invoeging in Deel III van Boek III van het Wetboek van de plaatselijke democratie en decentralisatie van een Titel V betreffende de toelagen toegekend aan de grootsteden in het kader van hun perspectieven voor stedelijke ontwikkeling en tot wijziging van artikel D.I.4 van het Wetboek van Ruimtelijke Ontwikkeling

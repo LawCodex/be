@@ -13,7 +13,7 @@ entry_into_force: 2016-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/01/22/2016035121/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 2016. - Decreet houdende instemming met het Benelux-Verdrag betreffende grensoverschrijdende samenwerking inzake wegvervoerinspectie, gedaan te Luik op 3 oktober 2014

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/11/17/1998000733/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 11-12-1998 en tekstbijwerking tot 20-10-2004"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 1998. - Wet houdende integratie van de zeevaartpolitie, de luchtvaartpolitie en de spoorwegpolitie in de rijkswacht.

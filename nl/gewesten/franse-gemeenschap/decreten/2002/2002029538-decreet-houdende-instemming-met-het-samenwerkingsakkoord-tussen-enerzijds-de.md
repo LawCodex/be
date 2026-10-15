@@ -11,7 +11,7 @@ date: 2002-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/10/24/2002029538/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2002. - Decreet houdende instemming met het Samenwerkingsakkoord tussen, enerzijds, de Regering van de Republiek Benin en, anderzijds, de Regering van de Franse Gemeenschap van België, de Regering van het Waalse Gewest en het College van de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest, opgemaakt te Brussel, op 28 januari 1999 (VERTALING).

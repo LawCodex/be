@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/16/2021021648/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 04-08-2021 en tekstbijwerking tot 29-03-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2021. - Decreet tot wijziging van diverse decreten, wat betreft versterking van de lokale democratie

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/22/2021022414/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 16-11-2021 et mise à jour au 30-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2021. - Décret réglementant la reconnaissance des communautés religieuses locales, les obligations des administrations du culte et le contrôle de ces obligations, et modifiant le décret du 7 mai 2004 relatif à l'organisation matérielle et au fonctionnement des cultes reconnus

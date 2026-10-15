@@ -13,7 +13,7 @@ entry_into_force: 2016-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/07/29/2015031510/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JULI 2015. - Ordonnantie houdende oprichting van het Brussels Planningsbureau

@@ -13,7 +13,7 @@ entry_into_force: 2014-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/02/27/2014031190/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2014. - Ordonnance portant assentiment à : l'Accord-cadre global de Partenariat et de Coopération entre l'Union européenne et ses Etats membres, d'une part, et la République socialiste du Viêt Nam, d'autre part, fait à Bruxelles le 27 juin 2012

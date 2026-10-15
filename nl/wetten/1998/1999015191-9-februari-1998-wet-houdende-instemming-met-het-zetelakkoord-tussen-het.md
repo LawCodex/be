@@ -12,7 +12,7 @@ entry_into_force: 1999-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/02/09/1999015191/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 1998. Wet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en het Europees Ruimte-Agentschap, ondertekend te Parijs op 26 januari 1993

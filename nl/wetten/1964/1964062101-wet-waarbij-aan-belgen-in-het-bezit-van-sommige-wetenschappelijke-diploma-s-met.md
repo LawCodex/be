@@ -11,7 +11,7 @@ published: 1964-07-17
 entry_into_force: 1964-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1964/06/21/1964062101/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 1964. - Wet waarbij aan Belgen, in het bezit van sommige wetenschappelijke diploma's met betrekking tot de geneeskunst, de mogelijkheid wordt geboden deze kunst uit te oefenen.

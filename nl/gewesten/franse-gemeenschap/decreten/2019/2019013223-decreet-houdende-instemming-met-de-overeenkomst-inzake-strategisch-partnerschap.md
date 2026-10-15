@@ -13,7 +13,7 @@ entry_into_force: 2019-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/25/2019013223/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Decreet houdende instemming met de Overeenkomst inzake strategisch partnerschap tussen de Europese Unie en haar Lidstaten, enerzijds, en Canada, anderzijds, gedaan te Brussel op 30 oktober 2016

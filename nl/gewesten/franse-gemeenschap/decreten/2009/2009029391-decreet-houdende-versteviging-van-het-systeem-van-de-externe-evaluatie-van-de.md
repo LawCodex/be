@@ -13,7 +13,7 @@ entry_into_force: 2009-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009029391/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende versteviging van het systeem van de externe evaluatie van de verworven kennis van de leerlingen uit het leerplichtonderwijs

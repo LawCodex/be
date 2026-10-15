@@ -12,7 +12,7 @@ published: 2001-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/06/25/2001033067/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2001. - Decreet houdende dringende maatregelen inzake onderwijs, werkgelegenheid, opleiding en voortgezette opleiding in de middenstand (VERTALING).

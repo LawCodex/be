@@ -13,7 +13,7 @@ last_amended: 2025-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1955/12/23/1955122304/justel"
 justel_note: "Consultation des versions antérieures à partir du 21-06-1994 et mise à jour au 29-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1955. - Loi sur les officiers auxiliaires de la Force aérienne, pilotes et navigateurs.

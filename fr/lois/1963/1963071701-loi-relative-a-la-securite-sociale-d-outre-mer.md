@@ -13,7 +13,7 @@ last_amended: 2014-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1963/07/17/1963071701/justel"
 justel_note: "Consultation des versions antérieures à partir du 08-06-1983 et mise à jour au 10-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 1963. - Loi relative à la sécurité sociale d'outre-mer.

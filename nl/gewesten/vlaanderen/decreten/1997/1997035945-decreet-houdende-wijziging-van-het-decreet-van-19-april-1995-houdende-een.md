@@ -13,7 +13,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/06/24/1997035945/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 1997. - Decreet houdende wijziging van het decreet van 19 april 1995 houdende een subsidieregeling voor instellingen voor volksontwikkeling.

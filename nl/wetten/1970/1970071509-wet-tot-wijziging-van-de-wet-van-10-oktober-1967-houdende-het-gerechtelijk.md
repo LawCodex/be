@@ -13,7 +13,7 @@ last_amended: 2018-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1970/07/15/1970071509/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 27-04-2018 en tekstbijwerking tot 27-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 1970. - Wet tot wijziging van de wet van 10 oktober 1967 houdende het Gerechtelijk Wetboek en van andere wetsbepalingen

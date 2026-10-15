@@ -12,7 +12,7 @@ entry_into_force: 1971-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1970/01/24/1970012450/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 1970. - Loi portant approbation de la convention relative à la signification et à la notification à l'étranger des actes judiciaires en matière civile ou commerciale et de l'annexe, faites à La Haye le 15 novembre 1965.

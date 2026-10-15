@@ -13,7 +13,7 @@ entry_into_force: 2024-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/02/01/2024001405/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2024. - Décret en matière de subventionnement des activités EVRAS à destination des jeunes

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/02/10/2015015026/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
 justel_note: "Raadpleging van vroegere versies vanaf 02-03-2015 en tekstbijwerking tot 14-08-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2015. - Wet van 10 februari 2015 met betrekking tot geautomatiseerde verwerkingen van persoonsgegevens die noodzakelijk zijn voor de Belgische paspoorten, reisdocumenten en de EU-noodreisdocumenten (Opschrift vervangen door W 2025-07-16/14 , art. 3, 003; Inwerkingtreding : 08-12-2025)

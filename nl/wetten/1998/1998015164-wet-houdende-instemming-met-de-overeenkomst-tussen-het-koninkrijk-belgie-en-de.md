@@ -12,7 +12,7 @@ entry_into_force: 1999-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/08/10/1998015164/justel"
 department: "Economische Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1998. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Zuid-Afrika tot het vermijden van dubbele belasting en tot voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, gedaan te Pretoria op 1 februari 1995.

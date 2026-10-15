@@ -12,7 +12,7 @@ entry_into_force: 2019-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/12/2019030491/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2019. - Wet tot wijziging van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt met he oog op het invoeren van een concurrerende inschrijvingsprocedure voor de bouw en exploitatie van productie-installaties in de zeegebieden onder de rechtsbevoegdheid van België en tot bekrachtiging van het koninklijk besluit van 11 februari 2019 tot wijziging van het koninklijk besluit van 16 juli 2002 betreffende de instelling van mechanismen voor de bevordering van elektriciteit opgewekt uit hernieuwbare energiebronnen

@@ -10,7 +10,7 @@ date: 1966-08-01
 published: 1966-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1966/08/01/1966080105/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AUGUSTUS 1966. - Wet houdende goedkeuring van volgende internationale akten : 1. Verdrag inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, opgemaakt te Parijs, op 29 juli 1960; 2. Aanvullend Verdrag en bijlage, opgemaakt te Brussel, op 31 januari 1963; 3. Aanvullend Protokol bij het Verdrag van Parijs, opgemaakt te Parijs, op 28 januari 1964; 4. Aanvullend Protokol bij het Aanvullend Verdrag van Brussel, opgemaakt te Parijs, op 28 januari 1964.

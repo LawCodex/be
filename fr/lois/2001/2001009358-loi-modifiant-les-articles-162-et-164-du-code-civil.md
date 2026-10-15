@@ -12,7 +12,7 @@ entry_into_force: 2001-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/03/27/2001009358/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2001. - Loi modifiant les articles 162 et 164 du Code civil.

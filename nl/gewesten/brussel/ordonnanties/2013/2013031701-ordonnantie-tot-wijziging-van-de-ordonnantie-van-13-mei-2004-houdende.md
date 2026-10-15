@@ -12,7 +12,7 @@ published: 2013-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/07/26/2013031701/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JULI 2013. - Ordonnantie tot wijziging van de ordonnantie van 13 mei 2004 houdende ratificatie van het Brussels Wetboek van Ruimtelijke Ordening

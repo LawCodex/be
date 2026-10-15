@@ -12,7 +12,7 @@ entry_into_force: 2022-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/12/2022031093/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2021. - Wet tot wijziging van de wet van 23 maart 1989 betreffende de verkiezing van het Europese Parlement, met het oog op de vaststelling van de verkiesbaarheidsleeftijd op achttien jaar

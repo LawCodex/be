@@ -13,7 +13,7 @@ entry_into_force: 1999-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/07/13/1999029406/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 1999. - Décret spécial visant à augmenter le nombre maximum de membres du Gouvernement en exécution des articles 123, § 2, de la Constitution et 63, § 4, de la loi spéciale de réformes institutionnelles du 8 août 1980, telle que modifiée par les lois du 8 août 1988 et du 16 juillet 1993.

@@ -12,7 +12,7 @@ entry_into_force: 2019-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/12/11/2019015801/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2019. - Loi modifiant des dispositions diverses transitoires et relatives à l'entrée en vigueur en matière de Justice

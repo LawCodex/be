@@ -13,7 +13,7 @@ entry_into_force: 2007-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/22/2007035272/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2006. - Décret portant assentiment à l'accord de dialogue politique et de coopération entre la Communauté européenne et ses Etats membres, d'une part, et les Républiques du Costa Rica, d'El Salvador, du Guatemala, du Honduras, du Nicaragua et du Panama, d'autre part, faits à Rome le 15 décembre 2003 (TRADUCTION).

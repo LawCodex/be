@@ -13,7 +13,7 @@ entry_into_force: 2018-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/11/2018202652/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2018. - Decreet houdende wijziging van het decreet van 7 september 2017 houdende wijziging van het Wetboek van de Plaatselijke Democratie en de Decentralisatie om een evenwichtige aanwezigheid van vrouwen en mannen te waarborgen binnen de Waalse gemeente- en provinciecolleges

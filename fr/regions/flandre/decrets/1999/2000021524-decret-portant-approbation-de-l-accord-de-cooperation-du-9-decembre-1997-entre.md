@@ -13,7 +13,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/02/2000021524/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 1999. - Décret portant approbation de l'accord de coopération du 9 décembre 1997 entre l'Etat fédéral, la Communauté flamande, la Région wallonne et la Communauté germanophone concernant les modalités de ventilation des frais des receveurs régionaux et de retenue de la contribution sur ces frais par les administrations (TRADUCTION) (Note : l'intitulé original de l'accord est le suivant : accord de coopération conclu entre l'Etat, la Communauté flamande, la Région wallonne et la Communauté germanophone concernant le mode de répartition des frais des receveurs régionaux et le mode de prélèvement de la contribution dans ces frais par les administrations).

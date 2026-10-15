@@ -13,7 +13,7 @@ entry_into_force: 2016-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/03/2016035978/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2016. - Decreet tot wijziging van het Gemeentedecreet van 15 juli 2005, het Provinciedecreet van 9 december 2005 en het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn

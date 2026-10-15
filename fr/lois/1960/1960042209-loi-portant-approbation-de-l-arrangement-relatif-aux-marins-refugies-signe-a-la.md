@@ -13,7 +13,7 @@ last_amended: 2009-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1960/04/22/1960042209/justel"
 justel_note: "consultation des versions antérieures à partir du 18-07-1987 et mise à jour au 19-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 1960. - Loi portant approbation de l'Arrangement relatif aux marins réfugiés, signé à La Haye, le 23 novembre 1957.

@@ -13,7 +13,7 @@ entry_into_force: 2025-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/07/15/2025008695/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2025. - Décret ouvrant des crédits provisoires pour les mois de septembre, octobre, novembreet décembre de la Commission communautaire française pour l'année budgétaire 2025

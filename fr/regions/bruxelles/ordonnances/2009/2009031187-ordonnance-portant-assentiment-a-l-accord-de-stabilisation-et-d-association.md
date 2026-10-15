@@ -13,7 +13,7 @@ entry_into_force: 2009-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/03/26/2009031187/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2009. - Ordonnance portant assentiment à l'accord de stabilisation et d'association entre les Communautés européennes et leurs états membres, d'une part, et la Bosnie-et-Herzégovine, d'autre part, et à l'acte final, faits à Luxembourg le 16 juin 2008

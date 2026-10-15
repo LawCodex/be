@@ -12,7 +12,7 @@ published: 2023-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/10/13/2023046393/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OCTOBRE 2023. - Ordonnance relative aux aides pour le développement et la transition économique des entreprises

@@ -13,7 +13,7 @@ entry_into_force: 2015-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/17/2015036000/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2015. - Decreet houdende instemming met het Verdrag over de Benelux Interparlementaire Assemblee, ondertekend te Brussel op 20 januari 2015

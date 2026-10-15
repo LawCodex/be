@@ -13,7 +13,7 @@ entry_into_force: 2023-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/02/03/2023015168/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2023. - Décret modifiant le décret du 25 février 1997 relatif à l'enseignement fondamental, en ce qui concerne le rôle des centres d'encadrement des élèves

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/03/04/2013003037/justel"
 department: "Budget et Contrôle de la gestion"
 justel_note: "Consultation des versions antérieures à partir du 15-03-2013 et mise à jour au 01-09-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 2013. - Loi contenant le budget général des dépenses pour l'année budgétaire 2013

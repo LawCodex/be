@@ -12,7 +12,7 @@ published: 2018-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/17/2018031151/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2018. - Decreet tot wijziging van het decreet van 15 maart 1999 betreffende de opleiding tijdens de loopbaan van de leden van het bestuurs- en onderwijzend personeel en van het onderwijzend hulppersoneel van het kunstsecundair onderwijs met beperkt leerplan gesubsidieerd door de Franse Gemeenschap

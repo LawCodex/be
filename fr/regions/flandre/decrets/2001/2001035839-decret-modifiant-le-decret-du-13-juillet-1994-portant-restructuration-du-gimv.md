@@ -13,7 +13,7 @@ entry_into_force: 2002-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/06/2001035839/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2001. - Décret modifiant le décret du 13 juillet 1994 portant restructuration du GIMV, de Gimvindus, du VHM, de Mijnen et du LIM et institution du Limburgfonds et du Groupe de travail permanent "Limburg" (TRADUCTION).

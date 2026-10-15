@@ -13,7 +13,7 @@ entry_into_force: 2019-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/29/2019011738/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2019. - Décret modifiant diverses dispositions du titre X du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement et le décret du 23 décembre 2011 relatif à la gestion durable de cycles de matériaux et de déchets

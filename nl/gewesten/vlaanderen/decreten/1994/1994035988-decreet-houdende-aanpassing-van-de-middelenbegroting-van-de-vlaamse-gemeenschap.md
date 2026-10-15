@@ -13,7 +13,7 @@ entry_into_force: 1994-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/06/29/1994035988/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 1994. - Decreet houdende aanpassing van de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 1994.

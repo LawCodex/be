@@ -13,7 +13,7 @@ entry_into_force: 2014-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/27/2014029238/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2014. - Decreet houdende instemming met het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing, aangenomen door de algemene vergadering van de VN op 10 december 1984, alsook met het Facultatief Protocol aangenomen door de algemene vergadering van de VN op 18 december 2002

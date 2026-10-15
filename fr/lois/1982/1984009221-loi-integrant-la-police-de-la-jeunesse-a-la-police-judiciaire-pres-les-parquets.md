@@ -12,7 +12,7 @@ entry_into_force: 1984-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1982/12/02/1984009221/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 1982. - Loi intégrant la police de la jeunesse à la police judiciaire près les parquets.

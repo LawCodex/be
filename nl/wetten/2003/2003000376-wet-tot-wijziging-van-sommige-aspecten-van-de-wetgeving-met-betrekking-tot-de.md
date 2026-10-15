@@ -12,7 +12,7 @@ entry_into_force: 2003-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/02/2003000376/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2003. - Wet tot wijziging van sommige aspecten van de wetgeving met betrekking tot de inrichting en de werkwijze van de afdeling wetgeving van de Raad van State.

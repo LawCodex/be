@@ -12,7 +12,7 @@ entry_into_force: 2002-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/08/02/2002021304/justel"
 department: "Kanselarij en Algemene Diensten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AUGUSTUS 2002. - Wet tot wijziging van de wet betreffende de afschaffing of herstructurering van instellingen van openbaar nut en andere overheidsdiensten, gecoördineerd op 13 maart 1991.

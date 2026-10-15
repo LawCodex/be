@@ -12,7 +12,7 @@ entry_into_force: 2017-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/02/24/2017012139/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2017. - Wet houdende instemming met de Overeenkomst tussen de Belgische Regering en de Macedonische Regering betreffende de politiesamenwerking, gedaan te Brussel op 21 november 2013

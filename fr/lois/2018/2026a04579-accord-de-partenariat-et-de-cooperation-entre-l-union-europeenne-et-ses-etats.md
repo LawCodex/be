@@ -11,7 +11,7 @@ published: 2026-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/10/19/2026A04579/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2018. - Accord de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la République de Singapour, d'autre part, fait à Bruxelles le 19 octobre 2018

@@ -12,7 +12,7 @@ entry_into_force: 2013-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/26/2013021142/justel"
 department: "Chancellerie du Premier Ministre - Politique Scientifique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBRE 2013. - Loi modifiant la loi relative à la suppression ou à la restructuration d'organismes d'intérêt public et d'autres services de l'Etat, coordonnée le 13 mars 1991

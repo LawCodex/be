@@ -13,7 +13,7 @@ entry_into_force: 2008-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/07/2008035017/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2007. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 5 oktober 2007 betreffende het beroepsprofiel van de leraar.

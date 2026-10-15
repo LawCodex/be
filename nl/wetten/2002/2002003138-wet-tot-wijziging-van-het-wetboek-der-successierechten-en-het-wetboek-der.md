@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/03/07/2002003138/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 2002. - Wet tot wijziging van het Wetboek der successierechten en het Wetboek der registratie-, hypotheek- en griffierechten ingevolge de nieuwe lokalisatiecriteria voor de gewestelijke belastingen zoals bepaald bij de bijzondere wet van 13 juli 2001 tot herfinanciering van de gemeenschappen en uitbreiding van de fiscale bevoegdheden van de gewesten.

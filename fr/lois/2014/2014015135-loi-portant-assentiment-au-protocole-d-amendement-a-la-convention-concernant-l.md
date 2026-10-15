@@ -12,7 +12,7 @@ entry_into_force: 2015-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/28/2014015135/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2014. - Loi portant assentiment au Protocole d'amendement à la Convention concernant l'assistance administrative mutuelle en matière fiscale, fait à Paris le 27 mai 2010

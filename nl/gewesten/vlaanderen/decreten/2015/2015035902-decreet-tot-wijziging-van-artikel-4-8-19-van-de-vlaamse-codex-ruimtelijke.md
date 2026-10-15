@@ -13,7 +13,7 @@ entry_into_force: 2015-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/03/2015035902/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2015. - Decreet tot wijziging van artikel 4.8.19 van de Vlaamse Codex Ruimtelijke Ordening en het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges

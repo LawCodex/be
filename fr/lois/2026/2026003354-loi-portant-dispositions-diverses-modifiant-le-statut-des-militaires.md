@@ -12,7 +12,7 @@ entry_into_force: 2026-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/04/22/2026003354/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2026. - Loi portant dispositions diverses modifiant le statut des militaires

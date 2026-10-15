@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/25/2024202431/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 16-05-2024 et mise à jour au 31-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2024. - Loi portant la réforme des pensions

@@ -13,7 +13,7 @@ entry_into_force: 1996-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/12/22/1996035011/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1995. - Decreet tot wijziging van sommige bepalingen van Titel I en Titel II van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 25 januari 1995.

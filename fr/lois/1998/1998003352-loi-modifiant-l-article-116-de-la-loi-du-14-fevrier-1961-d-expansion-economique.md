@@ -12,7 +12,7 @@ entry_into_force: 1998-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/05/19/1998003352/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 1998. - Loi modifiant l'article 116 de la loi du 14 février 1961 d'expansion économique, de progrès social et de redressement financier.

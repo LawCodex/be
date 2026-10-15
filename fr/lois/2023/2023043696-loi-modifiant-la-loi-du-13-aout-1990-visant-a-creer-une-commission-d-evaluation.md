@@ -12,7 +12,7 @@ entry_into_force: 2023-09-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/19/2023043696/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2023. - Loi modifiant la loi du 13 août 1990 visant à créer une commission d'évaluation de la loi du 3 avril 1990 relative à l'interruption de grossesse, modifiant les articles 348, 350, 351 et 352 du Code pénal et abrogeant l'article 353 du même Code, en ce qui concerne la composition de la Commission nationale d'évaluation de l'interruption de grossesse

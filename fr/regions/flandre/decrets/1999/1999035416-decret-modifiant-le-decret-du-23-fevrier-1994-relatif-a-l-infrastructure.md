@@ -12,7 +12,7 @@ published: 1999-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/16/1999035416/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 1999. - Décret modifiant le décret du 23 février 1994 relatif à l'infrastructure affectée aux matières personnalisables (TRADUCTION).

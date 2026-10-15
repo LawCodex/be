@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/05/20/1998009576/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 1998. - Wet tot wijziging van artikel 519 van het Gerechtelijk Wetboek en tot opheffing van de artikelen 520 en 522 van hetzelfde Wetboek.

@@ -12,7 +12,7 @@ entry_into_force: 2002-11-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/05/27/2002015118/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2002. - Loi portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Hongrie relative à la coopération policière et à la coopération en matière de lutte contre la criminalité organisée, faite à Bruxelles le 4 novembre 1998.

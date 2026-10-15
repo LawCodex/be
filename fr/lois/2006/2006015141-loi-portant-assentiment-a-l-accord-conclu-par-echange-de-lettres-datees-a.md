@@ -12,7 +12,7 @@ entry_into_force: 2006-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/08/22/2006015141/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AOUT 2006. - Loi portant assentiment à l'Accord, conclu par échange de lettres datées à Bruxelles les 21 mars 2005 et 7 juin 2005, portant amendement à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement du Royaume-Uni de Grande Bretagne et d'Irlande du Nord, relatif à la délimitation du plateau continental entre les deux pays, signé à Bruxelles le 29 mai 1991.

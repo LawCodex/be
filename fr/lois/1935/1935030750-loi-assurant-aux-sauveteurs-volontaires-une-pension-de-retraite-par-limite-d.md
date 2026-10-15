@@ -11,7 +11,7 @@ published: 1935-03-19
 entry_into_force: 1935-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1935/03/07/1935030750/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 1935. - Loi assurant aux sauveteurs volontaires une pension de retraite par limite d'âge et la réparation des dommages résultant des accidents du travail.

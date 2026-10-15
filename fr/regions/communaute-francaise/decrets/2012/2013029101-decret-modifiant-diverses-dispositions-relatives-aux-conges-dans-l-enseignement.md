@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/12/20/2013029101/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2012. - Décret modifiant diverses dispositions relatives aux congés dans l'enseignement supérieur non universitaire

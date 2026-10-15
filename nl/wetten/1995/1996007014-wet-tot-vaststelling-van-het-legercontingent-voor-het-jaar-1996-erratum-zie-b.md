@@ -12,7 +12,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/12/22/1996007014/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1995. - Wet tot vaststelling van [het legercontingent] voor het jaar 1996. (Erratum. Zie B.St. 17.02.1996, p. 3472)

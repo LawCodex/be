@@ -12,7 +12,7 @@ entry_into_force: 2024-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/06/02/2024005408/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2024. - Loi portant modification de la loi du 23 janvier 1989 relative à la compétence fiscale visée à l'article 110, §§ 1er et 2, de la Constitution

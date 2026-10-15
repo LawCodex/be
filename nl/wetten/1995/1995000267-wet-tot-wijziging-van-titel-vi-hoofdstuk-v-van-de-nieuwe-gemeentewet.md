@@ -12,7 +12,7 @@ entry_into_force: 1995-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/03/28/1995000267/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 1995. - Wet tot wijziging van titel VI, hoofdstuk V, van de nieuwe gemeentewet.

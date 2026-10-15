@@ -11,7 +11,7 @@ published: 2016-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/06/27/2016003221/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2016. - Wet tot wijziging, met het oog op de omzetting van richtlijn 2013/50/EU en de tenuitvoerlegging van verordening 596/2014, van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten, van de wet van 16 juni 2006 op de openbare aanbieding van beleggingsinstrumenten en de toelating van beleggingsinstrumenten tot de verhandeling op een gereglementeerde markt en van de wet van 2 mei 2007 op de openbaarmaking van belangrijke deelnemingen in emittenten waarvan aandelen zijn toegelaten tot de verhandeling op een gereglementeerde markt en houdende diverse bepalingen, en houdende diverse bepalingen

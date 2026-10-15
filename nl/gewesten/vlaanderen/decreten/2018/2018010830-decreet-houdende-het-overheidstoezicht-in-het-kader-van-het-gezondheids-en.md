@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/01/19/2018010830/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 21-02-2018 en tekstbijwerking tot 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JANUARI 2018. - Decreet houdende het overheidstoezicht in het kader van het gezondheids- en welzijnsbeleid

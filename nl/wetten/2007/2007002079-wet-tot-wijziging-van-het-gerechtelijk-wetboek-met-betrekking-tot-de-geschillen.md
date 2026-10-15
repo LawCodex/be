@@ -12,7 +12,7 @@ entry_into_force: 2007-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/21/2007002079/justel"
 department: "Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2007. - Wet tot wijziging van het Gerechtelijk Wetboek met betrekking tot de geschillen inzake de toewijzing, de herziening en de weigering van de materiële hulp.

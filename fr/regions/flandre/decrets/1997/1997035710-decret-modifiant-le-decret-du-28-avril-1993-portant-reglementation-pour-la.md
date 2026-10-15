@@ -13,7 +13,7 @@ entry_into_force: 1997-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/05/27/1997035710/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 1997. - Décret modifiant le décret du 28 avril 1993 portant réglementation pour la Région flamande, de la tutelle administrative des communes (TRADUCTION).

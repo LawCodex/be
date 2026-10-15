@@ -13,7 +13,7 @@ entry_into_force: 2027-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/17/2026006264/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2026. - Decreet over het uitbreiden van de opdrachten van de diensten voor oppashulp naar begeleiding bij activiteiten buitenshuis

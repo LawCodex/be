@@ -12,7 +12,7 @@ entry_into_force: 2002-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/01/14/2005015012/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 2005. - Wet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de West-Afrikaanse Economische en Monetaire Unie, gedaan te Brussel op 26 maart 2002.

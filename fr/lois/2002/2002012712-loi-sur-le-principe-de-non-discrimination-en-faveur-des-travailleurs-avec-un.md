@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/05/2002012712/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 26-06-2002 et mise à jour au 30-05-2007"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 2002. - Loi sur le principe de non-discrimination en faveur des travailleurs avec un contrat de travail à durée déterminée.

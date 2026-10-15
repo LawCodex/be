@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/20/2006022888/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 08-09-2006 et mise à jour au 04-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2006. - Loi relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé.

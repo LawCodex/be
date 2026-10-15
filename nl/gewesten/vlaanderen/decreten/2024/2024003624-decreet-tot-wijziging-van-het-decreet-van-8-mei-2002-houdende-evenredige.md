@@ -13,7 +13,7 @@ entry_into_force: 2024-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/22/2024003624/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2024. - Decreet tot wijziging van het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt en het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid

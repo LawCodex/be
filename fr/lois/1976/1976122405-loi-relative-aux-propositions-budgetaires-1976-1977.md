@@ -13,7 +13,7 @@ last_amended: 2025-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/12/24/1976122405/justel"
 justel_note: "Consultation des versions antérieures à partir du 30-07-1986 et mise à jour au 04-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 1976. - Loi relative aux propositions budgétaires 1976-1977.

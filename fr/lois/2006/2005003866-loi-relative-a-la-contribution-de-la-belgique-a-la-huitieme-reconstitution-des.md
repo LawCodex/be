@@ -12,7 +12,7 @@ entry_into_force: 2006-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/03/05/2005003866/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2006. - Loi relative à la contribution de la Belgique à la huitième reconstitution des ressources du Fonds asiatique de Développement.

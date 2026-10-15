@@ -12,7 +12,7 @@ entry_into_force: 2009-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/27/2007015081/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2007. - Loi portant assentiment à l'Accord de Stabilisation et d'Association entre les Communautés européennes et leurs Etats membres, d'une part, et la République d'Albanie, d'autre part, et à l'Acte final, faits à Luxembourg le 12 juin 2006

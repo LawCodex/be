@@ -12,7 +12,7 @@ entry_into_force: 2010-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/12/11/2009011552/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2009. - Loi relative aux aspects de droit judiciaire concernant le statut et le contrôle des sociétés de gestion de droits d'auteur et de droits voisins

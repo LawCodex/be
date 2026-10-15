@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/07/31/2009003295/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 08-09-2009 en tekstbijwerking tot 30-04-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2009. - Wet tot wijziging van de wet van 27 maart 1995 betreffende de verzekerings- en herverzekeringsbemiddeling en de distributie van verzekeringen en van de wet van 22 maart 2006 betreffende de bemiddeling in bank- en beleggingsdiensten en de distributie van financiële instrumenten

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/01/23/1989009071/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 20-07-1993 et mise à jour au 12-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 1989. - [Loi relative à la compétence fiscale visée à l'article [170], §§ 1er et 2, de la Constitution.] &lt;L 2024-06-02/02 , art. 2, 006; En vigueur : 22-06-2024&gt; &lt;L 1993-07-16/31, art. 354, 002; En vigueur : 30-07-1993&gt;

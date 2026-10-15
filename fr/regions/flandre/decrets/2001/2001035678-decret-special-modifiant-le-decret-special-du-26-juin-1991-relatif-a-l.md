@@ -13,7 +13,7 @@ entry_into_force: 2001-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/05/18/2001035678/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2001. - Décret spécial modifiant le décret spécial du 26 juin 1991 relatif à l' " Universiteit Gent " et à l' " Universitair Centrum Antwerpen " (TRADUCTION).

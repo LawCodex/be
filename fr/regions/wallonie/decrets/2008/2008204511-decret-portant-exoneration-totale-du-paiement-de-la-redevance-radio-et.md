@@ -13,7 +13,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/05/2008204511/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 2008. - Décret portant exonération totale du paiement de la redevance radio et télévision en faveur des veuves de guerre 1940-1945.

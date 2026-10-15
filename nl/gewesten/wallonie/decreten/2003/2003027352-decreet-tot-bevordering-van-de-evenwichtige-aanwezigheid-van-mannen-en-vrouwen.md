@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/05/15/2003027352/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 21-05-2003 en tekstbijwerking tot 16-04-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2003. - Decreet tot bevordering van de evenwichtige aanwezigheid van mannen en vrouwen binnen de adviesorganen voor de aangelegenheden waarin het Gewest de bevoegdheden van de Franse Gemeenschap uitoefent (VERTALING)

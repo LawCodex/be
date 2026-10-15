@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/10/10/2013205647/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 22-10-2013 en tekstbijwerking tot 06-11-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 2013. - Decreet tot bevordering van het in overweging nemen van personen met een handicap in het kader van een beheerscontract of van hun informatieverplichtingen

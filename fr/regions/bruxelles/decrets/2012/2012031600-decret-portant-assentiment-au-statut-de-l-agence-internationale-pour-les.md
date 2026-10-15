@@ -13,7 +13,7 @@ entry_into_force: 2012-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/19/2012031600/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2012. - Décret portant assentiment au statut de l'Agence internationale pour les énergies renouvelables (IRENA), fait à Bonn le 26 janvier 2009

@@ -13,7 +13,7 @@ entry_into_force: 2024-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/16/2024005930/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Decreet houdende instemming met het samenwerkingsakkoord van 14 maart 2024 tussen de Franse Gemeenschapscommissie, de Gemeenschappelijke Gemeenschapscommissie en het Brussels Hoofdstedelijk Gewest betreffende de oprichting van het vast dialoog- en overlegplatform voor de non-profit en de hosting ervan bij Brupartners

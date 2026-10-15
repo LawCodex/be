@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/18/2004200252/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 06-02-2004 en tekstbijwerking tot 05-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2003. - Programmadecreet houdende verschillende maatregelen inzake gewestelijke fiscaliteit, thesaurie en schuld, organisatie van de energiemarkten, leefmilieu, landbouw, plaatselijke en ondergeschikte besturen, erfgoed, huisvesting en ambtenarenzaken (VERTALING)

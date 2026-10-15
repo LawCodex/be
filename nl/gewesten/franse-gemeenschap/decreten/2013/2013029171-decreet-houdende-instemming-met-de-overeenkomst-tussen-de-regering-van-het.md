@@ -13,7 +13,7 @@ entry_into_force: 2013-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/01/24/2013029171/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANUARI 2013. - Decreet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Volksrepubliek China tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken van belasting inzake belastingen naar het inkomen, en het Protocol, ondertekend te Brussel op 7 oktober 2009, alsook de briefwisseling van 30 mei 2011 en 11 juli 2011

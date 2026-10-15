@@ -13,7 +13,7 @@ entry_into_force: 2007-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/22/2007035342/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2006. - Decreet houdende wijziging van het Aardgasdecreet van 6 juli 2001, wat de uitbreiding van de dekkingsgraad van het aardgasdistributienetwerk betreft.

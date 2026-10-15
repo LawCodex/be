@@ -12,7 +12,7 @@ entry_into_force: 2024-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/10/19/2023047049/justel"
 department: "Justice - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2023. - Loi modifiant la loi sur la fonction de police, en ce qui concerne l'utilisation des caméras individuelles par les services de police

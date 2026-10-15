@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/02/10/2015015026/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
 justel_note: "Consultation des versions antérieures à partir du 02-03-2015 et mise à jour au 14-08-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2015. - Loi du 10 février 2015 relative aux traitements automatisés de données à caractère personnel nécessaires aux passeports, titres de voyage belges et titres de voyage provisoires de l'Union européenne (Intitulé remplacé par L 2025-07-16/14 , art. 3, 003; En vigueur : 08-12-2025)

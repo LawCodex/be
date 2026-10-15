@@ -12,7 +12,7 @@ entry_into_force: 2008-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/07/24/2008009692/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 2008. - Wet tot wijziging van het Gerechtelijk Wetboek met het oog op het instellen van een immuniteit van tenuitvoerlegging ten overstaan van tegoeden van buitenlandse centrale banken en internationale monetaire autoriteiten.

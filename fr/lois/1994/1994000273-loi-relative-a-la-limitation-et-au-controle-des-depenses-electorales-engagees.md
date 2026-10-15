@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/05/19/1994000273/justel"
 department: "Intérieur - Fonction publique"
 justel_note: "Consultation des versions antérieures à partir du 19-07-1994 et mise à jour au 24-09-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 1994. - Loi relative à la limitation et au contrôle des dépenses électorales engagées pour l'élection du Parlement européen.

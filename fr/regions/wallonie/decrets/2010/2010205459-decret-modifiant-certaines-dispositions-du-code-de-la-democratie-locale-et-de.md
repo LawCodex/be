@@ -13,7 +13,7 @@ entry_into_force: 2010-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/10/06/2010205459/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OCTOBRE 2010. - Décret modifiant certaines dispositions du Code de la démocratie locale et de la décentralisation en vue de renforcer la gouvernance au niveau local

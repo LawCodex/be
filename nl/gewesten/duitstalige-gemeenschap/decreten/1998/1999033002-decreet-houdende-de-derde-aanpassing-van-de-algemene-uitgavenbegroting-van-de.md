@@ -13,7 +13,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/11/30/1999033002/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 1998. - Decreet houdende de derde aanpassing van de algemene uitgavenbegroting van de Duitstalige Gemeenschap voor het begrotingsjaar 1998. (VERTALING)

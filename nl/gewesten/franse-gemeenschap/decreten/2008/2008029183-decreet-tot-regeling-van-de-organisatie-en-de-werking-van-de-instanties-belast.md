@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/02/01/2008029183/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 03-04-2008 en tekstbijwerking tot 18-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2008. - Decreet tot regeling van de organisatie en de werking van de instanties belast met de coördinatie en het beheer van de steun uit de Structuurfondsen die de Europese Unie ter beschikking stelt van het [secundair onderwijs], [het Volwassenenonderwijs] en het hoger onderwijs (VERTALING) )(Opschrift gewijzigd door BFG 2025-07-18/42 , art. 22, 009; Inwerkingtreding : 25-08-2025) (Initulé modifié par DFG 2019-05-03/49 , art. 1, 007; Inwerkingtreding : 01-06-2019)

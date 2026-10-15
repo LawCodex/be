@@ -12,7 +12,7 @@ entry_into_force: 2000-11-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/05/14/2000015083/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MAI 2000. - Loi portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la Fédération de Russie tenant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et Protocole, signés à Moscou le 16 juin 1995.

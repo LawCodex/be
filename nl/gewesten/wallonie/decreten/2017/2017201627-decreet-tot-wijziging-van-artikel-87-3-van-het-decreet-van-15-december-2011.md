@@ -13,7 +13,7 @@ entry_into_force: 2017-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/16/2017201627/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 2017. - Decreet tot wijziging van artikel 87, § 3, van het decreet van 15 december 2011 houdende organisatie van de begroting, de boekhouding en de verslaggeving van de Waalse openbare bestuurseenheid

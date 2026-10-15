@@ -12,7 +12,7 @@ published: 2004-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/26/2004035747/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2004. - Decreet houdende regeling van herstelmaatregelen voor de Vlaamse paardenwedrennen, houdende machtiging aan de Vlaamse regering om mee te werken aan de oprichting van de vereniging zonder winstgevend doel "Vlaamse Federatie voor Paardenwedrennen" en houdende wijziging en opheffing van sommige bepalingen van het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen (aangehaald als : Paardenwedrennendecreet)

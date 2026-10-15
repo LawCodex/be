@@ -12,7 +12,7 @@ entry_into_force: 2021-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/02/11/2021030285/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEVRIER 2021. - Loi modifiant la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits, visant à interdire la vente de cartouches métalliques contenant du protoxyde d'azote aux mineurs

@@ -13,7 +13,7 @@ entry_into_force: 1987-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1986/12/23/1987029084/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1986. - Décret portant instauration d'une carte uniforme d'urgence médicale &lt;Traduction&gt;.

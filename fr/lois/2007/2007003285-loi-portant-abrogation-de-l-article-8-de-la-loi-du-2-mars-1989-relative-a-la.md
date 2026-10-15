@@ -12,7 +12,7 @@ entry_into_force: 2007-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/23/2007003285/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2007. - Loi portant abrogation de l'article 8 de la loi du 2 mars 1989 relative à la publicité des participations importantes dans les sociétés cotées en bourse et réglementant les offres publiques d'acquisition, et modifiant l'article 121 de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers.

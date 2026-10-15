@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/06/19/2009012210/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 29-07-2009 en tekstbijwerking tot 29-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2009. - Wet houdende begeleidende maatregelen met betrekking tot de instelling van een bijzondere onderhandelingsgroep, een vertegenwoordigingsorgaan en procedures betreffende het medezeggenschap van de werknemers in ondernemingen ontstaan ten gevolge van een grensoverschijdende fusie van kapitaalvennootschappen

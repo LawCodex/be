@@ -12,7 +12,7 @@ entry_into_force: 2013-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/17/2013003263/justel"
 department: "Economie, PME, Classes moyennes et Energie - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2013. - Loi modifiant, en vue de transposer les Directives 2010/73/UE et 2010/78/UE, la loi du 16 juin 2006 relative aux offres publiques d'instruments de placement et aux admissions d'instruments de placement à la négociation sur des marchés réglementés, la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, la loi du 1er avril 2007 relative aux offres publiques d'acquisition, la loi du 2 mai 2007 relative à la publicité des participations importantes dans des émetteurs dont les actions sont admises à la négociation sur un marché réglementé et portant dispositions diverses et la loi du 3 août 2012 relative à certaines formes de gestion collective de portefeuilles d'investissement, et portant dispositions diverses

@@ -12,7 +12,7 @@ entry_into_force: 2013-11-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/06/24/2013206051/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2013. - Loi modifiant la loi du 7 novembre 1969 relative à l'application de la sécurité sociale aux titulaires d'une licence de "coureur cycliste professionnel"

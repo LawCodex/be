@@ -10,7 +10,7 @@ date: 1955-12-31
 published: 1956-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1955/12/31/1955123102/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 DECEMBER 1955. \_ Wet tot verbetering en interpretatie van verschillende bepalingen van de wet van 10 augustus 1953 betreffende de invoering in de nationale wetgeving van de eenvormige wet op de wisselbrieven en orderbriefjes en betreffende haar inwerkingtreding, en tot coördinatie van deze wetgeving met de eenvormige wet.

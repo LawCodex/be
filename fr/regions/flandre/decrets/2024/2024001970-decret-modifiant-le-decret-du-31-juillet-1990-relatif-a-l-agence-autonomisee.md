@@ -13,7 +13,7 @@ entry_into_force: 2024-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/02/23/2024001970/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 FEVRIER 2024. - Décret modifiant le décret du 31 juillet 1990 relatif à l'agence autonomisée externe de droit public Vlaamse Vervoermaatschappij - De Lijn et le décret du 26 avril 2019 relatif à l'accessibilité de base et abrogeant le décret du 25 février 2022 relatif à l'Autorité des transports

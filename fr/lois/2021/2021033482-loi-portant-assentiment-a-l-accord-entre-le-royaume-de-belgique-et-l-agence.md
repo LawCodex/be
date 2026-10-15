@@ -12,7 +12,7 @@ entry_into_force: 2017-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/09/19/2021033482/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBRE 2021. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et l'Agence spatiale européenne additionnel à la Convention portant création d'une Agence spatiale européenne du 30 mai 1975, sur les privilèges et immunités de l'Agence spatiale européenne en Belgique, fait à Bruxelles le 24 mai 2017

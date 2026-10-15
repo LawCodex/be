@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/19/2001029329/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 21-06-2004 et mise à jour au 22-12-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2001. - Décret relatif à l'aide sociale aux détenus en vue de leur réinsertion sociale.

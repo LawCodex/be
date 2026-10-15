@@ -11,7 +11,7 @@ date: 2021-11-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/24/2021034036/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2021. - Decreet tot wijziging van de artikelen 2, 5 en 8 van het decreet van 21 oktober 2021 betreffende het gebruik van het COVID Safe Ticket en de mondmaskerplicht en tot invoeging van een artikel 10/1

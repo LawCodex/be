@@ -12,7 +12,7 @@ entry_into_force: 2006-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/01/09/2007009101/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 2007. - Wet tot wijziging van de wet van 8 juni 2006 houdende regeling van economische en individuele activiteiten met wapens.

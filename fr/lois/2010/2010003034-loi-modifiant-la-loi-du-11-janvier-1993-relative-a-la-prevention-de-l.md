@@ -12,7 +12,7 @@ entry_into_force: 2010-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/01/18/2010003034/justel"
 department: "Finances - Sante Publique, Sécurité de la Chaine Alimentaire et Environnement - Intérieur - Justice - Emploi, Travail et Concertation sociale - Economie, PME, Classes moyennes et Energie - Personnel et Organisation"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2010. - Loi modifiant la loi du 11 janvier 1993 relative à la prévention de l'utilisation du système financier aux fins du blanchiment de capitaux et du financement du terrorisme, et le Code des sociétés

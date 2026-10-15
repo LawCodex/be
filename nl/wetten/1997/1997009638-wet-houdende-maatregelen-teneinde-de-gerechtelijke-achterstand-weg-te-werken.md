@@ -12,7 +12,7 @@ entry_into_force: 1997-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/07/09/1997009638/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 1997. - Wet houdende maatregelen teneinde de gerechtelijke achterstand weg te werken bij de hoven van beroep.

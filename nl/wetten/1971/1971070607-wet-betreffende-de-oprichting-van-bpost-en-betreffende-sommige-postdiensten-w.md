@@ -13,7 +13,7 @@ last_amended: 2018-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/07/06/1971070607/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 27-03-1991 en tekstbijwerking tot 09-02-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 1971. - [Wet betreffende de oprichting van [bpost] en betreffende sommige postdiensten] &lt;W 2007-04-01/49 , art. 4, 008; Inwerkingtreding : 24-05-2007&gt; &lt;Opschrift gewijzigd door L 2010-12-13/07 , art. 4, 009; Inwerkingtreding : 17-01-2011&gt;

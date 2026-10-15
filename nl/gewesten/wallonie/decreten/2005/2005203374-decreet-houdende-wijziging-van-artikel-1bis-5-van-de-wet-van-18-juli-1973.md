@@ -13,7 +13,7 @@ entry_into_force: 2005-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/15/2005203374/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2005. - Decreet houdende wijziging van artikel 1bis, § 5, van de wet van 18 juli 1973 betreffende de bestrijding van de geluidshinder (VERTALING).

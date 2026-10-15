@@ -13,7 +13,7 @@ entry_into_force: 2019-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/14/2019041014/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2019. - Decreet houdende instemming met de overeenkomst over de audiovisuele coproductie van 12 mei 2017 tussen de Regering van de Franse Gemeenschap van België en de Regering van de Republiek Chili

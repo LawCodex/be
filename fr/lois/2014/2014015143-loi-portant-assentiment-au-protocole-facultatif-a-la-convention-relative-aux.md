@@ -12,7 +12,7 @@ entry_into_force: 2014-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/21/2014015143/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2014. - Loi portant assentiment au Protocole facultatif à la Convention relative aux droits de l'enfant établissant une procédure de présentation de communications, adopté à New York le 19 décembre 2011

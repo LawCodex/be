@@ -13,7 +13,7 @@ entry_into_force: 2011-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/12/16/2012031006/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2011. - Ordonnantie houdende de aanpassing van de Middelenbegroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2011

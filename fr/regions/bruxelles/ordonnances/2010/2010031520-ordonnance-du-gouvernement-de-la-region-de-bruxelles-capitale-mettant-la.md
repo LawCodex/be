@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2010/10/28/2010031520/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "la publication de cette ordonnance doit être considérée comme nulle ; voir M.B. 27-12-2010, p. 82158"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OCTOBRE 2010. - Ordonnance du Gouvernement de la Région de Bruxelles-Capitale mettant la législation environnementale et énergétique en conformité avec les exigences de la Directive 2006/123/CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans le marché intérieur.

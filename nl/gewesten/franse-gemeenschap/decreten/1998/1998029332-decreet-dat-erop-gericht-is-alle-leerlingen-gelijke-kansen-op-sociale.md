@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/06/30/1998029332/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 22-08-1998 en tekstbijwerking tot 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1998. - Decreet dat erop gericht is alle leerlingen gelijke kansen op sociale emancipatie te geven, inzonderheid door de invoering van maatregelen voor positieve discriminatie (VERTALING).

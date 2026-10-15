@@ -18,7 +18,7 @@ justel_notes:
   - "par son arrêt n° 32/2022 du 24-02-2022 ( 2022-02-24/01 , M.B. 28-02-2022, p. 16881), la Cour constitutionnelle a suspendu les articles 5 et 19 du présent décret"
   - "par son arrêt n° 70/2022 du 19-05-2022 ( 2022-05-19/08 , M.B. 06-07-2022, p. 54648), la Cour constitutionnelle a annulé les articles 5 et 19 du présent décret"
   - "Consultation des versions antérieures à partir du 21-10-2021 et mise à jour au 07-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 SEPTEMBRE 2021. - Décret relatif au plan d'investissement dans les bâtiments scolaires établi dans le cadre du plan de reprise et résilience européen

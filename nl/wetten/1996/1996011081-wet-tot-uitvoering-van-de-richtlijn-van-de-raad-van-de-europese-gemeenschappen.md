@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/03/25/1996011081/justel"
 department: "Economische Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 20-01-2014 en tekstbijwerking tot 20-01-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 1996. - Wet tot uitvoering van de richtlijn van de Raad van de Europese Gemeenschappen van 21 december 1988 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen der Lid-Staten inzake voor de bouw bestemde produkten

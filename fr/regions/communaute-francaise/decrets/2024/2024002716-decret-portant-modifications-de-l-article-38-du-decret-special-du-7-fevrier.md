@@ -13,7 +13,7 @@ entry_into_force: 2024-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/07/2024002716/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2024. - Décret portant modifications de l'article 38 du décret spécial du 7 février 2019 portant création de l'organisme public chargé de la fonction de Pouvoir organisateur de l'Enseignement organisé par la Communauté française et de l'article 31 du décret du 4 février 2021 portant organisation du budget, de la comptabilité et du rapportage des organismes administratifs publics de la Communauté française

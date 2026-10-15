@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/26/2019012586/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 03-06-2019 et mise à jour au 28-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2019. - Décret relatif à une politique intégrée de reconnaissance des compétences acquises

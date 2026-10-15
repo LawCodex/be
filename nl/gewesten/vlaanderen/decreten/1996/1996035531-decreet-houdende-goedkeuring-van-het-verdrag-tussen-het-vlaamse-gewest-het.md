@@ -13,7 +13,7 @@ entry_into_force: 1996-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/04/16/1996035531/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 APRIL 1996. - Decreet houdende goedkeuring van het Verdrag tussen het Vlaamse Gewest, het Brussels Hoofdstedelijk Gewest, het Waalse Gewest, de Franse Republiek en het Koninkrijk der Nederlanden inzake de bescherming van de Maas, ondertekend in Charleville-Mézières op 26 april 1994 en in Antwerpen op 17 januari 1995.

@@ -12,7 +12,7 @@ entry_into_force: 1982-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/12/14/1989018149/justel"
 department: "Classes Moyennes"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 1989. - Loi portant certaines dispositions en matière de cotisation de solidarité, de modération, de consolidation et de cotisations spéciales à charge des travailleurs indépendants, ainsi qu'en matière de réduction des allocations familiales pour travailleurs indépendants.

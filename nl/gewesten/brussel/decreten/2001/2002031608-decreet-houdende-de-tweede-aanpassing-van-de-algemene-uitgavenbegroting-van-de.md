@@ -13,7 +13,7 @@ entry_into_force: 2001-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/13/2002031608/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2001. - Decreet houdende de tweede aanpassing van de Algemene Uitgavenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 2001. (Vertaling).

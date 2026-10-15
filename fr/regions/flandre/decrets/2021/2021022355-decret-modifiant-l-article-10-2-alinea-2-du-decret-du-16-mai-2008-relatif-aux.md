@@ -13,7 +13,7 @@ entry_into_force: 2021-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/22/2021022355/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2021. - Décret modifiant l'article 10/2, alinéa 2, du décret du 16 mai 2008 relatif aux règlements supplémentaires sur la circulation routière et sur la pose et le coût de la signalisation routière

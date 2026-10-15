@@ -12,7 +12,7 @@ entry_into_force: 2013-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/05/23/2013009286/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2013. - Loi modifiant l'article 658 du Code judiciaire en vue de permettre, en cas de dessaisissement, le renvoi par la Cour de Cassation à un tribunal d'un autre ressort

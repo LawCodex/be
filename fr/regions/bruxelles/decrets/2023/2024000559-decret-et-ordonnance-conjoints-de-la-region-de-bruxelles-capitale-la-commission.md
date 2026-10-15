@@ -13,7 +13,7 @@ entry_into_force: 2024-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/05/25/2024000559/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2023. - Décret et ordonnance conjoints de la Région de Bruxelles-Capitale, la Commission communautaire commune et la Commission communautaire française modifiant le décret et ordonnance conjoints des 26 avril et 16 mai 2019 relatifs au médiateur bruxellois

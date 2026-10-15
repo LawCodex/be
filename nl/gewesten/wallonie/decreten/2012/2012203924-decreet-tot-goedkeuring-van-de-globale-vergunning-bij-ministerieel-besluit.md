@@ -13,7 +13,7 @@ entry_into_force: 2012-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/05/2012203924/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2012. - Decreet tot goedkeuring van de globale vergunning, bij ministerieel besluit afgeleverd op 30 mei 2012 aan de NV NMBS Holding voor de afbraak van het bestaande station, de bouw en de uitbating van het nieuwe multimodaal station van Bergen

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/12/22/1995912906/justel"
 department: "Emploi et Travail - Affaires sociales - Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1995 et mise à jour au 09-09-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1995. - Loi portant des mesures visant à exécuter le plan pluriannuel pour l'emploi.

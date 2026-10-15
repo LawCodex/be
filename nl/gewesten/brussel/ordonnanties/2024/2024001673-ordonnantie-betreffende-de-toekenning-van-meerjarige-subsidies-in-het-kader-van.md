@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/02/22/2024001673/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2024. - Ordonnantie betreffende de toekenning van meerjarige subsidies in het kader van de uitvoering van het Geïntegreerd Welzijns- en Gezondheidsplan

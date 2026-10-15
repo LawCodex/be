@@ -13,7 +13,7 @@ entry_into_force: 2022-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/04/22/2022040935/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2022. - Décret modifiant la loi du 14 août 1986 relative à la protection et au bien-être des animaux et le décret du 13 juillet 2018 modifiant la loi du 14 août 1986 relative à la protection et au bien-être des animaux dans le cadre de la sixième réforme de Etat

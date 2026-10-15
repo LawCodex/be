@@ -13,7 +13,7 @@ entry_into_force: 2018-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/12/07/2017014283/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2017. - Ordonnance modifiant l'ordonnance du 22 avril 2010 portant statut des agences de voyage

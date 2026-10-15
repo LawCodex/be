@@ -13,7 +13,7 @@ entry_into_force: 2009-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009035501/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende instemming met de Overeenkomst inzake luchtvervoer tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Staten van Amerika, anderzijds, ondertekend in Brussel op 25 april 2007 en in Washington op 30 april 2007

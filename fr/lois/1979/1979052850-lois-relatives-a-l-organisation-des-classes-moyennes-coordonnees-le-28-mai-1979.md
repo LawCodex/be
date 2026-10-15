@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1979/05/28/1979052850/justel"
 department: "Classes Moyennes"
 justel_note: "Consultation des versions antérieures à partir du 12-08-1987 et mise à jour au 10-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAI 1979. - Lois relatives à l'organisation des Classes moyennes, coordonnées le 28 mai 1979

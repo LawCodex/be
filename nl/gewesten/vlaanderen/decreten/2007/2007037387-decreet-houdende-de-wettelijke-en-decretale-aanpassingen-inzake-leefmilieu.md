@@ -13,7 +13,7 @@ entry_into_force: 2008-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/07/2007037387/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2007. - Decreet houdende de wettelijke en decretale aanpassingen inzake leefmilieu, natuurbehoud en energie als gevolg van het bestuurlijk beleid.

@@ -11,7 +11,7 @@ date: 2020-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/06/22/2020203567/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2020. - Decreet houdende maatregelen inzake onderwijs - 2020

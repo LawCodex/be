@@ -12,7 +12,7 @@ entry_into_force: 2018-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/29/2018011689/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2018. - Loi modifiant la loi du 15 mai 2007 relative à la sécurité civile

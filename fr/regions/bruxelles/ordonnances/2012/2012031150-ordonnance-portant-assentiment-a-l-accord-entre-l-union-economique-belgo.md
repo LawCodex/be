@@ -13,7 +13,7 @@ entry_into_force: 2012-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/03/15/2012031150/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2012. - Ordonnance portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de l'Etat du Qatar concernant l'encouragement et la protection réciproques des investissements, fait à Doha le 6 novembre 2007

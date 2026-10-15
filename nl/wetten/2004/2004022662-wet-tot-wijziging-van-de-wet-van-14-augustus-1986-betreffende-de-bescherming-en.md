@@ -10,7 +10,7 @@ date: 2004-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/23/2004022662/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2004. - Wet tot wijziging van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, wat betreft de erkenning van handelszaken voor dieren.

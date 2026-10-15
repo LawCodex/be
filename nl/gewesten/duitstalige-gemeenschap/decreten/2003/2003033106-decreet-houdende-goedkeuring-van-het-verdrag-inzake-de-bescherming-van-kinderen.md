@@ -13,7 +13,7 @@ entry_into_force: 2004-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/10/27/2003033106/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 2003. - Decreet houdende goedkeuring van het verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie, gedaan te Den Haag op 29 mei 1993 (VERTALING).

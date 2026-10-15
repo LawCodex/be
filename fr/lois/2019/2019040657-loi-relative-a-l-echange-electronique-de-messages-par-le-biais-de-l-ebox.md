@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/02/27/2019040657/justel"
 department: "Stratégie et Appui"
 justel_note: "Consultation des versions antérieures à partir du 15-03-2019 et mise à jour au 27-11-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2019. - Loi relative à l'échange électronique de messages par le biais de l'eBox

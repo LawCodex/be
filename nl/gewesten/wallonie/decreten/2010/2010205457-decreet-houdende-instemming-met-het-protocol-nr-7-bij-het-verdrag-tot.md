@@ -12,7 +12,7 @@ published: 2010-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/10/06/2010205457/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OKTOBER 2010. - Decreet houdende instemming met het Protocol nr. 7 bij het Verdrag tot Bescherming van de Rechten van de Mens en de Fundamentele Vrijheden, opgemaakt te Straatsburg op 22 november 1984

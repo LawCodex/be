@@ -13,7 +13,7 @@ entry_into_force: 2013-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/09/19/2013205237/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBRE 2013. - Décret modifiant l'article 327, 1°, du Code wallon de l'Action sociale et de la Santé relatif à l'intégration des personnes handicapées

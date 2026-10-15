@@ -12,7 +12,7 @@ published: 2004-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/11/13/2004200105/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2003. - Decreet houdende instemming met het Samenwerkingsakkoord van 24 juli 2003 betreffende de bekrachtiging van de bevoegdheden op het gebied van de voortgezette beroepsopleiding, gesloten tussen de Franse Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie. (Vertaling).

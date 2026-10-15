@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/13/2024001581/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2023. - Décret modifiant le Livre II du Code de l'Environnement contenant le Code de l'Eau, relatif à la gouvernance du secteur de l'eau et à l'adaptation des régimes juridiques de la S.W.D.E. et de la S.P.G.E. au Code des sociétés et des associations

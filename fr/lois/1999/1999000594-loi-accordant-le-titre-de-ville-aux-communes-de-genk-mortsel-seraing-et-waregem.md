@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/23/1999000594/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 1999. - Loi accordant le titre de ville aux communes de Genk, Mortsel, Seraing et Waregem.

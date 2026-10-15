@@ -12,7 +12,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/01/09/2005007026/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANVIER 2005. - Loi fixant le contingent de l'armée pour l'année 2005.

@@ -11,7 +11,7 @@ published: 2024-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/12/15/2024011176/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2024. - Wet tot verlenging van bepaalde maatregelen voorzien in de wet van 20 november 2022 houdende maatregelen aangaande de personeelsschaarste in de zorgsector

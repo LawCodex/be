@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/20/2023045211/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2023. - Decreet betreffende de ondersteuning, de ontwikkeling van beroepscompetenties en de evaluatie van het onderwijzend personeel

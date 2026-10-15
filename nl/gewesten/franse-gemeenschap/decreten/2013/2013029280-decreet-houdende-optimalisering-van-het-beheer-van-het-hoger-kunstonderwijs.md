@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/03/28/2013029280/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2013. - Decreet houdende optimalisering van het beheer van het hoger kunstonderwijs

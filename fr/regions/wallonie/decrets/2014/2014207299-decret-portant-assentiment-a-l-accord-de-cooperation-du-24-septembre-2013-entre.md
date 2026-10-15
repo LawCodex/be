@@ -13,7 +13,7 @@ entry_into_force: 2014-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/11/27/2014207299/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2014. - Décret portant assentiment à l'accord de coopération du 24 septembre 2013 entre l'Etat fédéral, les Communautés et les Régions sur la représentation du Royaume de Belgique au sein de l'Agence internationale pour les énergies renouvelables (IRENA) et sur les contributions financières à cette organisation

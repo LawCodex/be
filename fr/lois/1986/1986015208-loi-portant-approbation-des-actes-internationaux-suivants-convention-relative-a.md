@@ -12,7 +12,7 @@ entry_into_force: 1986-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1986/07/31/1986015208/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 1986. - Loi portant approbation des Actes internationaux suivants : Convention relative à l'adhésion du Royaume de Danemark, de l'Irlande et du Royaume-Uni de Grande Bretagne et d'Irlande du Nord à la Convention du 27 septembre 1968 concernant la compétence judiciaire et l'exécution des décisions en matière civile et commerciale, ainsi qu'au Protocole du 3 juin 1971 concernant son interprétation par la Cour de Justice, signée à Luxembourg le 9 octobre 1978; Convention relative à l'adhésion de la République hellénique à la Convention du 27 septembre 1968 ainsi qu'au Protocole du 3 juin 1971, signée à Luxembourg le 25 octobre 1982.

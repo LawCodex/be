@@ -13,7 +13,7 @@ entry_into_force: 2014-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/03/27/2014031306/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Ordonnance portant assentiment au : Protocole modifiant la Convention relative à l'Organisation hydrographique internationale, adopté à Monaco, le 14 avril 2005

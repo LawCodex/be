@@ -12,7 +12,7 @@ entry_into_force: 1994-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/02/22/1994025135/justel"
 department: "Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 1994. - Wet houdende sommige bepalingen inzake Volksgezondheid.

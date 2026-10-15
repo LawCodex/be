@@ -12,7 +12,7 @@ entry_into_force: 2006-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/12/30/2006014043/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBER 2005. - Wet houdende instemming met het Overeenkomst van 4 april 2003 met het oog op de verwezenlijking van het programma van het gewestelijk expresnet van, naar, in en rond Brussel. &lt;Erratum, B.S. 30.03.2006, p. 18015&gt;

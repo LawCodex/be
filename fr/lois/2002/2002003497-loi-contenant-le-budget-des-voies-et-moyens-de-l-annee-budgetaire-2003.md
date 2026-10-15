@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/24/2002003497/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 28-12-2002 et mise à jour au 29-12-2003"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 2002. - Loi contenant le budget des Voies et Moyens de l'année budgétaire 2003.

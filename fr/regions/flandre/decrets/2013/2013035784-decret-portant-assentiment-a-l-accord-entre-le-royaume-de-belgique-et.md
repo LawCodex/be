@@ -13,7 +13,7 @@ entry_into_force: 2013-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/05/2013035784/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2013. - Décret portant assentiment à l'accord entre le Royaume de Belgique et Bioversity International, signé à Bruxelles le 3 décembre 2012, portant modification de l'accord de siège entre le Royaume de Belgique et l'" International Plant Genetics Resources Institute ", signé à Bruxelles le 15 octobre 2003

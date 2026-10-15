@@ -13,7 +13,7 @@ entry_into_force: 2000-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/06/08/2000035813/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2000. - Décret portant modification de l'article 3 du décret du 17 mars 1998 réglant le droit à la liberté d'information et la diffusion d'informations brèves par les radiodiffuseurs (TRADUCTION).

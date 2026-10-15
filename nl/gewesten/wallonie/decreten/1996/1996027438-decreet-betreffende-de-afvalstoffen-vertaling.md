@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/06/27/1996027438/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-1996 en tekstbijwerking tot 31-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 1996. - Decreet betreffende de afvalstoffen (VERTALING)

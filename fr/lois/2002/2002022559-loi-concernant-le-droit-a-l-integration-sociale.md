@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/05/26/2002022559/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 31-07-2002 et mise à jour au 01-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 2002. - Loi concernant le droit à l'intégration sociale

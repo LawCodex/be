@@ -13,7 +13,7 @@ entry_into_force: 2014-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/27/2014202312/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Decreet tot wijziging van de wet van 12 juli 1973 op het natuurbehoud wat betreft de terugbetaling van rondreis- en verblijfkosten en de duur van de aanstelling van de leden van de Instandhoudingscommissies van de Natura 2000-locaties alsook van bijlagen IIa, IIb, VIa, VIII, IX en XI

@@ -13,7 +13,7 @@ entry_into_force: 2008-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/23/2007037163/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2007. - Décret portant assentiment au texte révisé de la Convention internationale pour la protection des végétaux et l'annexe, faits à Rome le 17 novembre 1997 (TRADUCTION).

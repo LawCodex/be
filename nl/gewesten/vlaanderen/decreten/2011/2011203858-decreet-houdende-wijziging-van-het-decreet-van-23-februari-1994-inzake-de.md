@@ -13,7 +13,7 @@ entry_into_force: 2011-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/15/2011203858/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2011. - Decreet houdende wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden

@@ -13,7 +13,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/12/17/2019042937/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2019. - Ordonnance modifiant l'article 11 de l'ordonnance du 3 avril 2014 relative à l'établissement, au recouvrement et au contentieux en matière de taxes communales

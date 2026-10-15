@@ -13,7 +13,7 @@ entry_into_force: 2014-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/09/2014200395/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 2014. - Decreet houdende instemming met het Verdrag nr. 184 betreffende de gezondheid en de veiligheid in landbouw, aangenomen in Geneve door de Internationale Arbeidsconferentie tijdens haar negenentachtigste zitting van 5 juni tot 21 juni 2001

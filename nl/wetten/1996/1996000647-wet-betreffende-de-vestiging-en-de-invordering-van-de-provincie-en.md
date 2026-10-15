@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/12/24/1996000647/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-1996 en tekstbijwerking tot 04-07-2009"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 1996. - Wet betreffende de vestiging en de invordering van de provincie- en gemeentebelastingen. (NOTA 1 : Opgeheven voor het Vlaamse Gewest bij DVR 2008-05-30/34 , art. 12; Inwerkingtreding : 01-01-2009) (NOTA 2 : Opgeheven voor het Brussels Hoofdstedelijk Gewest bij ORD 2014-03-27/41 , art. 12; Inwerkingtreding : 01-03-2014)

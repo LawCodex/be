@@ -12,7 +12,7 @@ entry_into_force: 1994-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/27/1994010139/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 1994. - Loi modifiant le Code judiciaire en ce qui concerne les traitements des membres de l'Ordre judiciaire.

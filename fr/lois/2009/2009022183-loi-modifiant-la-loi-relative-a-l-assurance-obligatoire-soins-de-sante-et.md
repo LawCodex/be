@@ -12,7 +12,7 @@ entry_into_force: 2009-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/03/18/2009022183/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 2009. - Loi modifiant la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, en vue de l'agrément et du financement des équipes de soins palliatifs à domicile pour enfants

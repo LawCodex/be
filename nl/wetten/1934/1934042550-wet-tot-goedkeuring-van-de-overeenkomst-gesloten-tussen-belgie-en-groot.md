@@ -11,7 +11,7 @@ published: 1934-07-18
 entry_into_force: 1934-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1934/04/25/1934042550/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 1934. - Wet tot goedkeuring van de overeenkomst gesloten tussen België en Groot-Brittannië betreffende de zekerstelling 'Judicatum Solvi', de rechtsbijstand en de lijfsdwang.

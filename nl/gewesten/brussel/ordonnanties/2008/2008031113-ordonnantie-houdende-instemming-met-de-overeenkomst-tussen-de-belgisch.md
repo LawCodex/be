@@ -13,7 +13,7 @@ entry_into_force: 2008-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/03/06/2008031113/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2008. - Ordonnantie houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Federale Democratische Republiek Ethiopië, anderzijds, inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 26 oktober 2006.

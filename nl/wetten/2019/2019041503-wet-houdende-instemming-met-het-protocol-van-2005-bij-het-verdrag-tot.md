@@ -12,7 +12,7 @@ entry_into_force: 2019-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/23/2019041503/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2019. - Wet houdende instemming met het Protocol van 2005 bij het Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de zeevaart, gedaan te Londen op 14 oktober 2005

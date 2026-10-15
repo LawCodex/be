@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/17/1998027032/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 27-01-1998 et mise à jour au 20-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 1997. - Décret-programme portant diverses mesures en matière d'impôts, taxes et redevances, de logement, de recherche, d'environnement, de pouvoirs locaux et de transports.

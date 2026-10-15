@@ -13,7 +13,7 @@ entry_into_force: 2006-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/05/05/2006201841/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2006. - Décret portant suppression de l'obligation de produire des copies certifiées conformes de documents.

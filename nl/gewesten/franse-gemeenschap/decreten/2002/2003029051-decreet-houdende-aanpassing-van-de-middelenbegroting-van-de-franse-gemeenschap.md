@@ -13,7 +13,7 @@ entry_into_force: 2003-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/19/2003029051/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2002. - Decreet houdende aanpassing van de Middelenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2002. (Vertaling).

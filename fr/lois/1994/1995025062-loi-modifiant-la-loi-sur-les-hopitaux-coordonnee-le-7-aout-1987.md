@@ -12,7 +12,7 @@ entry_into_force: 1995-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/09/1995025062/justel"
 department: "Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 1994. - Loi modifiant la loi sur les hôpitaux, coordonnée le 7 août 1987.

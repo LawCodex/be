@@ -11,7 +11,7 @@ published: 1976-07-09
 entry_into_force: 1976-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/06/23/1976062301/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 1976. - Wet tot invoering van een vakantiegeld voor bepaalde groepen van personen.

@@ -12,7 +12,7 @@ entry_into_force: 2019-09-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/26/2019014606/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2014. - Loi portant assentiment aux actes internationaux suivants : 1° Convention internationale de 1990 sur la préparation, la lutte et la coopération en matière de pollution par les hydrocarbures, faite à Londres le 30 novembre 1990; 2° Protocole de 2000 sur la préparation, la lutte et la coopération contre les évènements de pollution par les substances nocives et potentiellement dangereuses, fait à Londres le 15 mars 2000

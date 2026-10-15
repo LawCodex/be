@@ -13,7 +13,7 @@ entry_into_force: 2006-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/06/29/2007036135/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2007. - Décret réglant certaines mesures urgentes relatives à la participation du personnel dans l'enseignement supérieur en Flandre (TRADUCTION).

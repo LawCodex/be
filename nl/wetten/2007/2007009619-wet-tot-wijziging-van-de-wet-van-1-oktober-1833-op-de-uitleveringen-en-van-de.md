@@ -12,7 +12,7 @@ entry_into_force: 2007-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/15/2007009619/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2007. - Wet tot wijziging van de wet van 1 oktober 1833 op de uitleveringen en van de uitleveringswet van 15 maart 1874.

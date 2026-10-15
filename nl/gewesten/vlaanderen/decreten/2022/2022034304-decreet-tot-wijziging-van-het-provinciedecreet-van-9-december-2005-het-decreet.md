@@ -13,7 +13,7 @@ entry_into_force: 2022-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/11/18/2022034304/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2022. - Decreet tot wijziging van het Provinciedecreet van 9 december 2005, het decreet van 22 december 2017 over het lokaal bestuur en het Bestuursdecreet van 7 december 2018, wat betreft klokkenluiders

@@ -12,7 +12,7 @@ entry_into_force: 2024-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/02/09/2024002131/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2024. - Loi modifiant la loi du 28 juillet 1981 portant approbation de la Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction, et des annexes faites à Washington le 3 mars 1973, ainsi que de l'Amendement à la Convention adopté à Bonn le 22 juin 1979

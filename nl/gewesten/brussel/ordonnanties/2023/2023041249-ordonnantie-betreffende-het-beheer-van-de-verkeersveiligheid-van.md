@@ -13,7 +13,7 @@ entry_into_force: 2023-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/03/17/2023041249/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2023. - Ordonnantie betreffende het beheer van de verkeersveiligheid van weginfrastructuur

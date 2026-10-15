@@ -12,7 +12,7 @@ entry_into_force: 2018-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/12/22/2017040977/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2017. - Loi portant modification et insertion de dispositions en matière de comptes de paiement et de services de paiement dans différents livres du Code de droit économique

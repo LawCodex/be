@@ -12,7 +12,7 @@ entry_into_force: 2015-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/03/16/2015011144/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2015. - Wet tot wijziging van de wet van 17 januari 2003 met betrekking tot het statuut van de regulator van de Belgische post- en telecommunicatiesector

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/06/15/1995033098/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 09-02-1995 et mise à jour au 09-12-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 1994. - Décret relatif aux bibliothèques publiques [et le Conseil consultatif des bibliothèques publiques] (TRADUCTION). &lt;DCG 2008-12-15/44 , art. 19, 006; En vigueur : 01-01-2009&gt;

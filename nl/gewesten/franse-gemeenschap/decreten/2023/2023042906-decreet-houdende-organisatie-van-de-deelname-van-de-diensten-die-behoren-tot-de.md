@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/08/2023042906/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 28-08-2023 en tekstbijwerking tot 23-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2023. - Decreet houdende organisatie van de deelname van de diensten die behoren tot de bevoegdheden van de Franse Gemeenschap aan de lokale integrale veiligheidscellen inzake radicalisme, extremisme en terrorisme

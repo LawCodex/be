@@ -11,7 +11,7 @@ date: 2007-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/02/2007029186/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 2007. - Decreet tot wijziging van het decreet van 2 juni 2006 tot vaststelling van de academische graden uitgereikt door de Hogescholen die door de Franse Gemeenschap worden georganiseerd of gesubsidieerd en tot vaststelling van de minimale uurregelingen

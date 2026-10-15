@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/01/07/2002021011/justel"
 department: "Kanselarij en Algemene Diensten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANUARI 2002. - Wet tot wijziging van de wet van 31 december 1983 tot hervorming der instellingen voor de Duitstalige Gemeenschap.

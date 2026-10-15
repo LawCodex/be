@@ -12,7 +12,7 @@ published: 2022-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/08/2022015517/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2022. - Decreet tot uitvoering van dringende maatregelen om het lerarenambt in het basis- en secundair onderwijs te herwaarderen

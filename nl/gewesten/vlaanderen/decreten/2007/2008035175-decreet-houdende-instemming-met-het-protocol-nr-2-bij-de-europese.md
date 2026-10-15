@@ -13,7 +13,7 @@ entry_into_force: 2008-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/21/2008035175/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2007. - Decreet houdende instemming met het protocol nr. 2 bij de Europese kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten, betreffende interterritoriale samenwerking, opgemaakt in Straatsburg op 5 mei 1998.

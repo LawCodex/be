@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/22/2022034342/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 22-12-2022 et mise à jour au 27-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2022. - Loi portant modification de la loi du 16 mars 1803 contenant organisation du notariat, introduisant un conseil de discipline pour les notaires et les huissiers de justice dans le code judiciaire et des dispositions diverses

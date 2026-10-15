@@ -13,7 +13,7 @@ entry_into_force: 2013-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/05/30/2013203320/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2013. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, au Protocole facultatif à la Convention relative aux droits de l'enfant établissant une procédure de présentation de communications, adopté à New York le 19 décembre 2011

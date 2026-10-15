@@ -11,7 +11,7 @@ published: 1948-07-29
 entry_into_force: 1948-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1948/07/28/1948072802/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUILLET 1948. - Loi relative à l'assainissement du bilan de la Banque Nationale de Belgique.

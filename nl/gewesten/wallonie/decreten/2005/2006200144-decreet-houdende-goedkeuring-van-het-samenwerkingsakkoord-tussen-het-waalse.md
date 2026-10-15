@@ -13,7 +13,7 @@ entry_into_force: 2006-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/15/2006200144/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2005. - Decreet houdende goedkeuring van het Samenwerkingsakkoord tussen het Waalse Gewest, het Vlaamse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de invoering van het begrip "lichte vrachtauto" in Titel II van het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen, met inachtneming van de fiscale neutraliteit en ter voorkoming van de concurrentie tussen de Gewesten op het vlak van de inschrijving van de voertuigen (VERTALING).

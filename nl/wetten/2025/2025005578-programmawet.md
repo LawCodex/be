@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/07/18/2025005578/justel"
 department: "Kanselarij van de Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 29-07-2025 en tekstbijwerking tot 04-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2025. - Programmawet

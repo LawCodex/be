@@ -13,7 +13,7 @@ entry_into_force: 1994-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/11/24/1994027669/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 1994. - DECRET portant approbation de l'Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République tchèque, d'autre part, des Protocoles 1, 2, 3, 4, 5, 6, 7 et 8, des Annexes I à XVII inclus, et de l'Acte final, faits à Luxembourg le 4 octobre 1993

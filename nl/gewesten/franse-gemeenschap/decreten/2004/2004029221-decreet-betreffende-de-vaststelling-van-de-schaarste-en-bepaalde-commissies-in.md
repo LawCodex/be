@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/12/2004029221/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 23-06-2004 en tekstbijwerking tot 04-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Decreet betreffende de vaststelling van de schaarste en bepaalde Commissies in het buitengewoon of door de Franse Gemeenschap gesubsidieerde onderwijs (VERTALING).

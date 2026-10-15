@@ -13,7 +13,7 @@ entry_into_force: 2018-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/06/14/2018031300/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 2018. - Ordonnance modifiant l'ordonnance du 23 novembre 2017 effectuant les adaptations législatives en vue de la reprise du service du précompte immobilier par la Région de Bruxelles-Capitale, en vue d'indexer la prime au bénéfice des personnes titulaires d'un droit réel sur un bien immobilier situé en Région de Bruxelles-Capitale, dans lequel elles et leur ménage sont domiciliés

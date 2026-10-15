@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/07/26/2013031709/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 03-09-2013 en tekstbijwerking tot 22-10-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JULI 2013. - Ordonnantie betreffende de toegang tot en de uitwisseling van informatie over ondergrondse kabels, buizen en leidingen

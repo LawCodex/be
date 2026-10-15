@@ -12,7 +12,7 @@ entry_into_force: 2023-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/07/2023031298/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 2023. - Loi transposant la directive (UE) 2019/1023 du Parlement européen et du Conseil du 20 juin 2019 relative aux cadres de restructuration préventive, à la remise de dettes et aux déchéances, et aux mesures à prendre pour augmenter l'efficacité des procédures en matière de restructuration, d'insolvabilité et de remise de dettes, et modifiant la directive (UE) 2017/1132 et portant des dispositions diverses en matière d'insolvabilité

@@ -13,7 +13,7 @@ entry_into_force: 2003-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/06/2002036612/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2002. - Decreet houdende instemming met : 1. de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Republiek Bolivië inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Brussel op 25 april 1990; 2. de Overeenkomst tussen de Belgisch-Luxemburgse Economische en de Republiek Paraguay inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Brussel op 6 oktober 1992; 3. de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Republiek Venezuela inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Brussel op 17 maart 1998. 4. de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Federatieve Republiek Brazilië inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Brasilia op 6 januari 1999.

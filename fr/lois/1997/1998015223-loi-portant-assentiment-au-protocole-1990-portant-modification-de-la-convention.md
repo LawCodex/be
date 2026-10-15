@@ -12,7 +12,7 @@ entry_into_force: 1998-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/08/29/1998015223/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AOUT 1997. - Loi portant assentiment au Protocole 1990 portant modification de la convention relative aux transports internationaux ferroviaires (C.O.T.I.F.) du 9 mai 1980, fait à Berne le 20 décembre 1990.

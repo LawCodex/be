@@ -13,7 +13,7 @@ entry_into_force: 2023-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/12/14/2023048159/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2023. - Ordonnance modifiant l'ordonnance du 27 février 2014 relative à la société NEO

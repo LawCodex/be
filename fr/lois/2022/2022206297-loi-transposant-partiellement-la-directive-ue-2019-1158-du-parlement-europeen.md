@@ -12,7 +12,7 @@ entry_into_force: 2022-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/10/07/2022206297/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 OCTOBRE 2022. - Loi transposant partiellement la Directive (UE) 2019/1158 du Parlement européen et du Conseil du 20 juin 2019 concernant l'équilibre entre vie professionnelle et vie privée des parents et des aidants et abrogeant la directive 2010/18/UE du Conseil, et réglementant certains autres aspects relatifs aux congés

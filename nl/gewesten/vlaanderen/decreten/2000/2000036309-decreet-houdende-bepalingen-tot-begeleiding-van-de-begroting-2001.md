@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/12/22/2000036309/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2000 en tekstbijwerking tot 22-01-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2000. - Decreet houdende bepalingen tot begeleiding van de begroting 2001

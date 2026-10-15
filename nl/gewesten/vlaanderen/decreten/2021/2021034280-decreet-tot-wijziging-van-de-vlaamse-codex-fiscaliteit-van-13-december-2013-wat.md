@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/19/2021034280/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2021. - Decreet tot wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat betreft de vermindering van de onroerende voorheffing voor nieuwbouw en de toepassingsvoorwaarden van het verlaagd tarief voor de aankoop van een enige eigen woning met een verbintenis tot ingrijpende energetische renovatie of tot sloop en herbouw

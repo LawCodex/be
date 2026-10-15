@@ -13,7 +13,7 @@ entry_into_force: 1999-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/03/15/1999029342/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 1999. - Decreet houdende goedkeuring van het samenwerkingsakkoord betreffende de organisatie van een afwisselende kwalificerende opleidingsfilière, op 18 juni 1998 te Namen gesloten door de Regering van de Franse Gemeenschap en de Waalse Regering (VERTALING).

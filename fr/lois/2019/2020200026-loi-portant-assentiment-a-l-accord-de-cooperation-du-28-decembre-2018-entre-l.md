@@ -12,7 +12,7 @@ entry_into_force: 2020-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/12/20/2020200026/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2019. - Loi portant assentiment à l'Accord de coopération du 28 décembre 2018 entre l'Etat fédéral, la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone portant sur la collaboration entre services d'Inspection dans le cadre de la Compétence en matière de protestations familiales

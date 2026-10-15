@@ -13,7 +13,7 @@ entry_into_force: 2024-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/13/2023045374/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2023. - Gezamenlijk decreet van de Franse Gemeenschap en het Waalse Gewest betreffende de gemeenschappelijke Ombudsdienst voor de Franse Gemeenschap en het Waalse Gewest

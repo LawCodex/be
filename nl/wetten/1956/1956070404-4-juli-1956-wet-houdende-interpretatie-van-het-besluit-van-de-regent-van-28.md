@@ -11,7 +11,7 @@ published: 1956-07-08
 entry_into_force: 1956-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1956/07/04/1956070404/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 1956. \_ Wet houdende interpretatie van het besluit van de Regent van 28 september 1945 aangaande de toepassing van de besluitwet van 28 december 1944, betreffende de maatschappelijke zekerheid der arbeiders, op de werkgevers en de bij fooien bezoldigde werknemers.

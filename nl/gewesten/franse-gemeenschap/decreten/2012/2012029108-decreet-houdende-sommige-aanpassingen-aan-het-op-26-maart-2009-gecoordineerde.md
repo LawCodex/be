@@ -13,7 +13,7 @@ entry_into_force: 2012-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/02/01/2012029108/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2012. - Decreet houdende sommige aanpassingen aan het op 26 maart 2009 gecoördineerde decreet betreffende de audiovisuele mediadiensten

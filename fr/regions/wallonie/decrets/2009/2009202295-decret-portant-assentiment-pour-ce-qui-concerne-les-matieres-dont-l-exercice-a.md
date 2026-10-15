@@ -13,7 +13,7 @@ entry_into_force: 2009-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009202295/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française, à l'Accord de coopération entre, d'une part, la République du Burundi et, d'autre part, la Communauté française et la Région wallonne, signé à Bujumbura, le 31 janvier 2006

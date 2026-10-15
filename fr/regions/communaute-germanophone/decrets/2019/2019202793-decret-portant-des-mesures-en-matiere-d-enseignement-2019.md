@@ -13,7 +13,7 @@ entry_into_force: 2019-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/06/2019202793/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2019. - Décret portant des mesures en matière d'enseignement - 2019

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/18/2016024298/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 27-12-2016 et mise à jour au 17-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2016. - Loi portant des dispositions diverses en matière de santé

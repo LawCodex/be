@@ -12,7 +12,7 @@ entry_into_force: 2007-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/15/2007009603/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2007. - Loi modifiant le Code civil en ce qui concerne le mariage entre alliés.

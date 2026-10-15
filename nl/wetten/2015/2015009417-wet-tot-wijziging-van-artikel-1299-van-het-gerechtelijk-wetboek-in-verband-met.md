@@ -10,7 +10,7 @@ date: 2015-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/07/17/2015009417/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2015. - Wet tot wijziging van artikel 1299 van het Gerechtelijk Wetboek, in verband met het aantekenen van hoger beroep tegen een vonnis dat de echtscheiding op grond onderlinge toestemming uitspreekt, in geval van verzoening (I)

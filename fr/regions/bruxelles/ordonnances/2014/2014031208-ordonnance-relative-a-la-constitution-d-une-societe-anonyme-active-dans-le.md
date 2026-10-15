@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/02/27/2014031208/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 17-03-2014 et mise à jour au 25-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2014. - Ordonnance relative à la constitution d'une société anonyme active dans le secteur des ressources humaines

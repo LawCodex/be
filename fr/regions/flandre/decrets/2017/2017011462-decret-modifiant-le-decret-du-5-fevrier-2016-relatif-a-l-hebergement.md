@@ -12,7 +12,7 @@ published: 2017-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/03/10/2017011462/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2017. - Décret modifiant le décret du 5 février 2016 relatif à l'hébergement touristique, en ce qui concerne la sécurité incendie et le contrôle du respect des conditions d'exploitation

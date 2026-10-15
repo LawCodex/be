@@ -16,7 +16,7 @@ department: "Chancellerie du Premier Ministre"
 justel_notes:
   - "art. 11/1 modifié avec effet à une date indéterminée par L 2019-04-07/03 , art. 20; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 01-02-2012 et mise à jour au 17-03-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AOUT 2011. - Loi relative aux marchés publics et à certains marchés de travaux, de fournitures et de services dans les domaines de la défense et de la sécurité

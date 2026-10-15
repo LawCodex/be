@@ -12,7 +12,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/02/05/2009015015/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 2009. - Loi portant assentiment à l'Accord de coopération et d'assistance mutuelle en matière douanière entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République du Kazakhstan, signé à Bruxelles le 5 décembre 2006

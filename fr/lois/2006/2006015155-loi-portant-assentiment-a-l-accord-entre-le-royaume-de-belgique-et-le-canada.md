@@ -12,7 +12,7 @@ entry_into_force: 2006-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/10/17/2006015155/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 OCTOBRE 2006. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et le Canada sur l'exercice d'activités à but lucratif par des membres de la famille de membres du personnel diplomatique et consulaire, signé à Bruxelles le 29 avril 2005.

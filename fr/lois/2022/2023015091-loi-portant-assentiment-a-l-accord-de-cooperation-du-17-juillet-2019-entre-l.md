@@ -12,7 +12,7 @@ entry_into_force: 2023-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/09/18/2023015091/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 SEPTEMBRE 2022. - Loi portant assentiment à l'Accord de coopération du 17 juillet 2019 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant l'unification de la manière de référencer les adresses et de la mise en relation des données d'adresses

@@ -13,7 +13,7 @@ entry_into_force: 1998-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/17/1998035283/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 1997. - Decreet houdende bekrachtiging van de bindende bepalingen van het besluit van de Vlaamse regering van 23 september 1997 houdende definitieve vaststelling van het Ruimtelijk Structuurplan Vlaanderen.

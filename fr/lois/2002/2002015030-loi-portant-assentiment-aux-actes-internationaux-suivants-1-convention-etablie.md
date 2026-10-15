@@ -12,7 +12,7 @@ entry_into_force: 2002-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/02/17/2002015030/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2002. - Loi portant assentiment aux Actes internationaux suivants : 1° Convention, établie sur la base de l'article K.3 du Traité sur l'Union européenne, relative à la protection des intérêts financiers des Communautés européennes, faite à Bruxelles le 26 juillet 1995. 2° Protocole, établi sur la base de l'article K.3 du Traité sur l'Union européenne, à la Convention relative à la protection des intérêts financiers des Communautés européennes, fait à Dublin le 27 septembre 1996. 3° Deuxième Protocole, établi sur la base de l'article K.3 du Traité sur l'Union européenne, à la Convention relative à la protection des intérêts financiers des Communautés européennes, et Déclaration conjointe, faits à Bruxelles le 19 juin 1997. 4° Protocole, établi sur la base de l'article K.3 du Traité sur l'Union européenne, concernant l'interprétation, à titre préjudiciel, par la Cour de Justice des Communautés européennes de la Convention relative à la protection des intérêts financiers des Communautés européennes, et Déclaration, faits à Bruxelles le 29 novembre 1996. 5° Convention, établie sur la base de l'article K.3, paragraphe 2, point c), du Traité sur l'Union européennes, relative à la lutte contre la corruption impliquant des fonctionnaires des Communautés européennes ou des fonctionnaires des Etats membres de l'Union européenne, faite à Bruxelles le 26 mai 1997.

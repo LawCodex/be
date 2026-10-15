@@ -13,7 +13,7 @@ entry_into_force: 1999-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/01/1999027312/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 1999. - Decreet tot wijziging van het koninklijk besluit nr. 258 van 31 december 1983 betreffende de indienstneming van werklozen voor bepaalde bijstandsprojecten ten behoeve van kleine en middelgrote ondernemingen (VERTALING).

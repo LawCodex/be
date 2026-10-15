@@ -13,7 +13,7 @@ entry_into_force: 2026-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/17/2026005620/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2026. - Décret sanctionnant l'arrêté du Gouvernement flamand du 19 juin 2026 relatif au projet temporaire d'écoles pionnières dans le cadre de l'évolution vers un enseignement de meilleure qualité et plus inclusif

@@ -13,7 +13,7 @@ entry_into_force: 2018-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/09/06/2018204778/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 SEPTEMBRE 2018. - Décret portant assentiment à la Convention entre le Gouvernement de la République française et la Région wallonne de Belgique au sujet de l'amélioration de la Lys mitoyenne entre la France et la Wallonie et de l'aménagement du canal de Pommeroeul à Condé, signée à Namur, le 19 juillet 2007, et à l'Avenant, signé à Paris, le 2 mai 2017, à la Convention entre le Gouvernement de la République française et la Région wallonne de Belgique au sujet de l'amélioration de la Lys mitoyenne entre la France et la Wallonie et de l'aménagement du Canal de Pommeroeul à Condé, signée à Namur le 19 juillet 2007

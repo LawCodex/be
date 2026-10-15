@@ -13,7 +13,7 @@ entry_into_force: 2001-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/11/14/2001027693/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 2001. - Décret spécial limitant le cumul du mandat de membre du Gouvernement wallon avec d'autres fonctions.

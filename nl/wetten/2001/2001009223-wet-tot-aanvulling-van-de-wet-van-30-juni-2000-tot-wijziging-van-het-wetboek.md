@@ -12,7 +12,7 @@ entry_into_force: 2001-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/02/12/2001009223/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2001. - Wet tot aanvulling van de wet van 30 juni 2000 tot wijziging van het Wetboek van Strafvordering, van artikel 27 van de wet van 20 juli 1990 betreffende de voorlopige hechtenis en van artikel 837 van het Gerechtelijk Wetboek, ten einde de rechtspleging voor het hof van Assisen te stroomlijnen.HI:??2,Zitting 2000-2001. Kamer van volksvertegenwoordigers. Parlementaire bescheiden. - Wetsvoorstel ingediend door de heren Geert Bourgeois en Karel Van Hoorebeke, nr. 50-542/1. - Amendementen, nrs. 50- 542/2 tot 4. - Verslag namens de Commissie, nr. 50-542/5. - Tekst aangenomen door de Commissie, nr. 50-542/6. - Tekst aangenomen in plenaire vergadering en overgezonden naar de Senaat, nr. 50-542/7. Parlementaire Handelingen. - Bespreking en aanneming met amendementen. Vergadering van 18 januari 2000. Senaat : Parlementaire bescheiden. - Ontwerp overgezonden door de Kamer, nr. 2- 269/1. - Ontwerp niet geëvoceerd door de Senaat, nr. 2-269/2.

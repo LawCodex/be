@@ -13,7 +13,7 @@ entry_into_force: 2020-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/11/12/2020016128/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 2020. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française de pouvoirs spéciaux n° 20 du 11 juin 2020 pris en exécution du décret du 17 mars 2020 octroyant des pouvoirs spéciaux au Gouvernement dans le cadre de la crise sanitaire du COVID-19 visant à approuver l'ajustement du budget ajusté de l'Entreprise publique de technologies numériques de l'information et de la communication de la Communauté française pour l'année budgétaire 2020

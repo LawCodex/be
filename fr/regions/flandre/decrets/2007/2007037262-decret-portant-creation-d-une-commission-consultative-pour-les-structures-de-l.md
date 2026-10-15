@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/07/2007037262/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 21-12-2007 et mise à jour au 15-07-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2007. - [Décret portant création [ ...] d'une Commission consultative pour les Structures de l'Aide sociale, de la Santé publique et de la Famille et des (Candidats) Accueillants] &lt;DCFL 2012-06-29/13 , art. 39, 003; En vigueur : 01-07-2013&gt; (TRADUCTION) (Intitulé modifié par DCFL 2018-06-29/16 , art. 31; En vigueur : 01-01-2019)

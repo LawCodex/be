@@ -13,7 +13,7 @@ entry_into_force: 2002-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/05/08/2002035763/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2002. - Décret portant modification de l'article 6 du décret du 27 juin 1990 portant création d'un " Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap " (Fonds flamand pour l'Intégration sociale des Personnes handicapées) (TRADUCTION).

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/15/2012201700/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 23-03-2012 et mise à jour au 25-07-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2012. - Décret élargissant les conditions de nationalité pour l'accès aux emplois de la Fonction publique de la Région wallonne

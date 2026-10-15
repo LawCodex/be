@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/03/22/1995000257/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 07-04-1995 en tekstbijwerking tot 01-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 1995. - Wet tot instelling van federale ombudsmannen. -

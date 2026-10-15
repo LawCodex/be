@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/16/2004036019/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 05-07-2004 en tekstbijwerking tot 28-04-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 APRIL 2004. - Decreet houdende het Grootschalig Referentie Bestand (GRB).

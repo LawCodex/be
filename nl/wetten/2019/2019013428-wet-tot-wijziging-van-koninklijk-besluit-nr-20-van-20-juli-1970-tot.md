@@ -12,7 +12,7 @@ entry_into_force: 2019-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/06/06/2019013428/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2019. - Wet tot wijziging van koninklijk besluit nr. 20 van 20 juli 1970 tot vaststelling van de tarieven van de belasting over de toegevoegde waarde en tot indeling van de goederen en de diensten bij die tarieven

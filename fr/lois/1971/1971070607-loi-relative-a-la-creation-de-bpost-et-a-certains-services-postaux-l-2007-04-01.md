@@ -13,7 +13,7 @@ last_amended: 2018-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/07/06/1971070607/justel"
 justel_note: "Consultation des versions antérieures à partir du 27-03-1991 et mise à jour au 09-02-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 1971. - [Loi relative à la création de [bpost] et à certains services postaux] &lt;L 2007-04-01/49 , art. 30, 008; En vigueur : 24-05-2007&gt; &lt;Intitulé modifié par L 2010-12-13/07 , art. 4, 009; En vigueur : 17-01-2011&gt;

@@ -12,7 +12,7 @@ published: 2020-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/12/2020204235/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OKTOBER 2020. - Decreet tot bekrachtiging van bepaalde besluiten van de Regering die aangenomen werden ter uitvoering van het crisisdecreet 2020 van 6 april 2020

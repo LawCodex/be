@@ -13,7 +13,7 @@ entry_into_force: 1997-09-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/06/30/1997033074/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 1997. - Décret portant assentiment à l'accord Europe-Méditerranée établissant une association entre les Communautés européennes et leurs Etats membres d'une part et l'Etat d'Israël d'autre part, Titres I à IX, annexes I à VII, protocoles 1 à 5, ainsi que l'acte final, signé le 20 novembre 1995 (TRADUCTION).

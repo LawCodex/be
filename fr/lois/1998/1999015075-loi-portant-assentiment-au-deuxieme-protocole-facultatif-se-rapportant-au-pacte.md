@@ -12,7 +12,7 @@ entry_into_force: 1999-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/04/1999015075/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 1998. - Loi portant assentiment au Deuxième Protocole facultatif se rapportant au Pacte international relatif aux droits civils et politiques, visant à abolir la peine de mort, fait à New York le 15 décembre 1989.

@@ -12,7 +12,7 @@ entry_into_force: 2024-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/16/2024008264/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Loi modifiant la loi du 8 août 1983 organisant un Registre national des personnes physiques et la loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes d'étranger et aux documents de séjour

@@ -12,7 +12,7 @@ entry_into_force: 2011-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/01/19/2016015013/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JANVIER 2016. - Loi portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'Organisation de la Conférence islamique, fait à Bruxelles le 4 février 2011

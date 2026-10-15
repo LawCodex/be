@@ -13,7 +13,7 @@ entry_into_force: 2009-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202441/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet tot wijziging van het decreet van 27 november 1997 tot wijziging van het Waalse Wetboek van Ruimtelijke Ordening, Stedenbouw en Patrimonium

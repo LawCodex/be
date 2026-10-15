@@ -11,7 +11,7 @@ published: 1970-03-28
 entry_into_force: 1970-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1970/03/26/1970032601/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 1970. \_ Wet tot integratie van het dubbel vakantiegeld voor de derde vakantieweek in de regeling voor jaarlijkse vakantie van de werknemers

@@ -13,7 +13,7 @@ entry_into_force: 1995-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/07/17/1996033004/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 1995. - Décret modifiant le décret du 5 juin 1990 fixant le nombre de périodes-professeur pour l'enseignement secondaire de plein exercice de type I (TRADUCTION).

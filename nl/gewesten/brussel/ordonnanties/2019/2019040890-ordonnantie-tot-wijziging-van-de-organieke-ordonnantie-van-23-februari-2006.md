@@ -13,7 +13,7 @@ entry_into_force: 2019-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/04/04/2019040890/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2019. - Ordonnantie tot wijziging van de organieke ordonnantie van 23 februari 2006 houdende de bepalingen die van toepassing zijn op de begroting, de boekhouding en de controle

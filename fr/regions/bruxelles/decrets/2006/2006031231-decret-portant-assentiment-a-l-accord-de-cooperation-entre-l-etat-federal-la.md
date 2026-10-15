@@ -13,7 +13,7 @@ entry_into_force: 2006-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/04/20/2006031231/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2006. - Décret portant assentiment à l'accord de coopération entre l'Etat fédéral, la Communauté flamande, la Région flamande, la Communauté française, la Région wallonne, la Communauté germanophone, la Région de Bruxelles-Capitale, la Commission communautaire commune et la Commission communautaire française, portant création d'une Commission nationale pour les droits de l'enfant, conclu à Bruxelles, le 19 septembre 2005.

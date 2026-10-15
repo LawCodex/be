@@ -11,7 +11,7 @@ published: 1958-06-02
 entry_into_force: 1958-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1958/04/28/1958042815/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 1958. - Loi modifiant l'arrêté-loi du 10 janvier 1945 concernant la sécurité sociale des ouvriers mineurs et assimilés et les lois relatives aux vacances annuelles des travailleurs salariés, coordonnées le 9 mars 1951.

@@ -12,7 +12,7 @@ entry_into_force: 1997-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/03/1997003182/justel"
 department: "Finances - Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 1997. - Loi relative à la participation de la Belgique à la première augmentation générale du capital de la Banque Européenne pour la Reconstruction et le Développement.

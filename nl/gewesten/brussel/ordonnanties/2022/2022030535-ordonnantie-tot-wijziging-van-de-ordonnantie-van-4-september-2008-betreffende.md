@@ -13,7 +13,7 @@ entry_into_force: 2022-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/01/27/2022030535/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JANUARI 2022. - Ordonnantie tot wijziging van de ordonnantie van 4 september 2008 betreffende de strijd tegen discriminatie en de gelijke behandeling op het vlak van de tewerkstelling

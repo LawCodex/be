@@ -12,7 +12,7 @@ entry_into_force: 2015-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/07/20/2015009391/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2015. - Loi portant différentes corrections techniques dans certains codes et dans certaines lois

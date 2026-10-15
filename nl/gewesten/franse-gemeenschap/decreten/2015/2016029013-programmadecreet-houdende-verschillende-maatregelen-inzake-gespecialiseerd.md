@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/10/2016029013/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 27-01-2016 en tekstbijwerking tot 28-08-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2015. - Programmadecreet houdende verschillende maatregelen inzake gespecialiseerd onderwijs, schoolgebouwen, kind, cultuur, hoger onderwijs, financiering van het universitair en niet-universitair hoger onderwijs en onderwijs voor sociale promotie

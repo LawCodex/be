@@ -16,7 +16,7 @@ department: "Finances"
 justel_notes:
   - "art. 3 modifié avec effet à une date indéterminée <L 2007-04-25/38 , art. 9, 011; En vigueur : indéterminée >"
   - "Consultation des versions antérieures à partir du 24-12-1996 et mise à jour au 31-12-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBRE 1983. - [Loi sur la patente pour le débit de boissons spiritueuses.] &lt;L 2004-05-17/36, art. 2, 007; En vigueur : 14-06-2004&gt;

@@ -12,7 +12,7 @@ status: repealed
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/03/06/1996012817/justel"
 department: "Tewerkstelling en Arbeid"
 justel_note: "opgeheven vanaf de eerste dag van het begin van de legislatuur die volgt op de legislatuur die loopt op het moment van de inwerkingtreding van W 2007-01-12/40 , art. 11, 002; Inwerkingtreding : onbepaald ; zie ook art. 10"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 1996. - Wet strekkende tot controle op de toepassing van de resoluties van de Wereldvrouwenconferentie die van 4 tot 14 september 1995 in Peking heeft plaatsgehad.

@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/22/1999003011/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1998. - Wet tot wijziging van de wet van 28 december 1983 betreffende het verstrekken van sterke drank en betreffende het vergunningsrecht.

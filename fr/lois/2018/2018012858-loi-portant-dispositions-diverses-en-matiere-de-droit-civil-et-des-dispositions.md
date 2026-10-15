@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/06/18/2018012858/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 02-07-2018 et mise à jour au 02-10-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2018. - Loi portant dispositions diverses en matière de droit civil et des dispositions en vue de promouvoir des formes alternatives de résolution des litiges

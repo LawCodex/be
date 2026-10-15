@@ -13,7 +13,7 @@ entry_into_force: 2011-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/05/23/2011204733/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2011. - Décret portant assentiment au Protocole, fait à Bruxelles le 23 juin 2010, modifiant le Protocole sur les dispositions transitoires, annexé au Traité sur l'Union européenne, au Traité sur le fonctionnement de l'Union européenne et au Traité instituant la Communauté européenne de l'Energie atomique

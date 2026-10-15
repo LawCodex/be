@@ -17,7 +17,7 @@ department: "Région Wallonne"
 justel_notes:
   - "Dans le décret, il faut lire \" Gouvernement \" en lieu et place de \" Gouvernement wallon \" ; voir DRW 2003-03-13/37 , art. 48"
   - "Consultation des versions antérieures à partir du 08-07-1999 et mise à jour au 17-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 1999. - Décret relatif à l'Office wallon de la Formation professionnelle et de l'Emploi.

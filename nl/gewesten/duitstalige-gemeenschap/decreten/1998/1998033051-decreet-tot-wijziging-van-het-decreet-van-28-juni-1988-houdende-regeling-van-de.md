@@ -12,7 +12,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/02/16/1998033051/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 1998. - Decreet tot wijziging van het decreet van 28 juni 1988 houdende regeling van de erkenning en de subsidiëring van verenigingen voor amateuristische kunstbeoefening. (VERTALING)

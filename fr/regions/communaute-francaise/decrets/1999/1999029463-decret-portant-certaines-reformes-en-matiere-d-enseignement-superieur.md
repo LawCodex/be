@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/31/1999029463/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 25-08-1999 et mise à jour au 10-07-2003."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 1999. - Décret portant certaines réformes en matière d'enseignement supérieur. -

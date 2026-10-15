@@ -13,7 +13,7 @@ entry_into_force: 2019-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/29/2019011738/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2019. - Decreet tot wijziging van diverse bepalingen van titel X van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen

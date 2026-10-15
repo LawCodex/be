@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/12/24/2004036907/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2004 et mise à jour au 30-12-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 2004. - Décret contenant diverses mesures d'accompagnement du budget 2005 (TRADUCTION).

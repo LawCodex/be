@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/02/18/2016031236/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 2016. - Décret relatif à la promotion de la santé

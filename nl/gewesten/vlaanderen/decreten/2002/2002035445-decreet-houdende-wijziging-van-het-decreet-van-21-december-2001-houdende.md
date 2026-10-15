@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/03/01/2002035445/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2002. - Decreet houdende wijziging van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wat het volksontwikkelingswerk betreft.

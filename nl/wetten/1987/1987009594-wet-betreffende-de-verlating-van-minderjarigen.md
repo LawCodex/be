@@ -12,7 +12,7 @@ entry_into_force: 1987-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1987/05/20/1987009594/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 1987. - Wet betreffende de verlating van minderjarigen.

@@ -12,7 +12,7 @@ published: 2000-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/11/30/2000029435/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2000. - Decreet betreffende het onderricht van wetenschappen in het secundair onderwijs (VERTALING).

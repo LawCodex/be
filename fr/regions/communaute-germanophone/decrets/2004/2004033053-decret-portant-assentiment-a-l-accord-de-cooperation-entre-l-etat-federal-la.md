@@ -13,7 +13,7 @@ entry_into_force: 2004-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/17/2004033053/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2004. - Décret portant assentiment à l'accord de coopération entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone la Commission communautaire commune, la Commission communautaire française, la Région flamande, la Région wallonne et la région de Bruxelles-Capitale visant à favoriser une collaboration dans les domaines de l'environnement et de la santé, conclu le 10 décembre 2003 (TRADUCTION).

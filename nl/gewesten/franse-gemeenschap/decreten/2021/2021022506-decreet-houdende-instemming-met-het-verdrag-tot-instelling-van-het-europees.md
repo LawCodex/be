@@ -13,7 +13,7 @@ entry_into_force: 2021-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/18/2021022506/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2021. - Decreet houdende instemming met het Verdrag tot instelling van het Europees Stabiliteitsmechanisme, ondertekend te Brussel op 2 februari 2012 en met de Overeenkomst tot wijziging van het Verdrag tot instelling van het Europees Stabiliteitsmechanisme, ondertekend te Brussel op 27 januari en 8 februari 2021

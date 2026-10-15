@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/02/12/2004201078/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 19-12-2008 en tekstbijwerking tot 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2004. - Decreet betreffende de opvang van, het verschaffen van een onderkomen aan en de begeleiding van in sociale moeilijkheden verkerende personen (VERTALING)

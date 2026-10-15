@@ -12,7 +12,7 @@ entry_into_force: 2023-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/02/2023030780/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 2023. - Loi établissant les principes du tirage au sort des personnes physiques pour les commissions mixtes et les panels citoyens organisés à l'initiative de la Chambre des représentants

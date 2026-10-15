@@ -13,7 +13,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/09/19/2006033100/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBRE 2006. - Décret modifiant la loi du 8 juillet 1976 organique des centres publics d'action sociale (TRADUCTION).

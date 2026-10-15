@@ -15,7 +15,7 @@ department: "Verkeerswezen"
 justel_notes:
   - "in wat betreft de wijzigingen aangebracht bij DWG 2009-12-10/27 ; zie overgangsbepalingen : art. 103, lid 2 tot 5"
   - "Raadpleging van vroegere versies vanaf 27-03-1999 en tekstbijwerking tot 22-12-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 1987. - Wet betreffende het kijk- en luistergeld.

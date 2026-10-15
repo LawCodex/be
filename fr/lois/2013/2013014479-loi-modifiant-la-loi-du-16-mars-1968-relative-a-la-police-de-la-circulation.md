@@ -12,7 +12,7 @@ entry_into_force: 2013-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/08/2013014479/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2013. - Loi modifiant la loi du 16 mars 1968 relative à la police de la circulation routière en vue de classer comme infraction du deuxième degré les comportements en matière d'immatriculation permettant de se soustraire aux poursuites

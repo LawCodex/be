@@ -11,7 +11,7 @@ published: 1900-03-14
 entry_into_force: 1900-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1900/03/10/1900031050/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 1900. - Loi sur le contrat de travail.

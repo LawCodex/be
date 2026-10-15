@@ -12,7 +12,7 @@ published: 2015-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/10/22/2015029612/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2015. - Decreet betreffende de organisatie van een cursus filosofie en burgerzin en een opvoeding tot filosofie en burgerzin

@@ -13,7 +13,7 @@ entry_into_force: 2001-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/04/20/2001035684/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2001. - Décret contenant le règlement définitif du budget de la Communauté flamande et des organismes d'intérêt public pour l'année budgétaire 1998. (Traduction).

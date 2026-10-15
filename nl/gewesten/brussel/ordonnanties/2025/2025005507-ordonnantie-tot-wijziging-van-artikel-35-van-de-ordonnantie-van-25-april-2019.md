@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/07/17/2025005507/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2025. - Ordonnantie tot wijziging van artikel 35 van de ordonnantie van 25 april 2019 tot regeling van de toekenning van gezinsbijslag met het oog op het behouden van de vermindering van de bedragen van de basiskinderbijslag met 10 euro voor kinderen die geboren zijn voor 1 december 2019

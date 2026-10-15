@@ -12,7 +12,7 @@ entry_into_force: 2011-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/01/06/2011003000/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANVIER 2011. - Loi modifiant la loi du 2 juillet 2010 modifiant la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, ainsi que la loi du 22 févier 1998 fixant le statut organique de la Banque Nationale de Belgique, et portant des dispositions diverses

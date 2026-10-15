@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/03/23/1994012217/justel"
 department: "Economische Zaken - Justitie - Financiën - Tewerkstelling en Arbeid - Sociale Zaken - Volksgezondheid en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 30-03-1994 en tekstbijwerking tot 01-07-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1994. - Wet houdende bepaalde maatregelen op arbeidsrechtelijk vlak tegen het zwartwerk

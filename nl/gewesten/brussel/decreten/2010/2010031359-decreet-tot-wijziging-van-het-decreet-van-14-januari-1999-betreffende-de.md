@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/07/09/2010031359/justel"
 department: "Franse Gemeenschapscommissie"
 justel_note: "bij arrest nr 45/2012 van 15-03-2012 (B.St. 17-07-2012, p. 39041-39044), heeft het Grondwettelijk Hof dit decreet vernietigd"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2010. - Decreet tot wijziging van het decreet van 14 januari 1999 betreffende de erkenning van de gastkamers en de toelating om de benaming " gastkamers " te gebruiken

@@ -13,7 +13,7 @@ entry_into_force: 2015-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/21/2014035411/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2014. - Decreet houdende wijziging van het decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid, wat betreft kadervormingstrajecten

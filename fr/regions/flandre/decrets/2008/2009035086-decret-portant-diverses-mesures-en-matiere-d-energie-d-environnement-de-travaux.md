@@ -13,7 +13,7 @@ entry_into_force: 2009-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/12/2009035086/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2008. - Décret portant diverses mesures en matière d'énergie, d'environnement, de travaux publics, d'agriculture et de pêche (TRADUCTION)

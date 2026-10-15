@@ -12,7 +12,7 @@ entry_into_force: 2021-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/01/20/2021040421/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2021. - Loi portant mesures contre la propagation de la pandémie de COVID-19 en ce qui concerne le système tarifaire de l'aéroport de Bruxelles-National

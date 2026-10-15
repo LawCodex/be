@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/03/2003012246/justel"
 department: "Emploi, Travail et Concertation sociale"
 justel_note: "Consultation des versions antérieures à partir du 20-06-2003 et mise à jour au 16-06-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2003. - Loi portant réglementation du contrat d'engagement maritime pour la pêche maritime et améliorant le statut social du marin pêcheur.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/07/05/1998011215/justel"
 department: "Affaires économiques"
 justel_note: "Consultation des versions antérieures à partir du 31-07-1998 et mise à jour au 19-06-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 1998. - Loi relative au règlement collectif de dettes et à la possibilité de vente de gré à gré des biens immeubles saisis.

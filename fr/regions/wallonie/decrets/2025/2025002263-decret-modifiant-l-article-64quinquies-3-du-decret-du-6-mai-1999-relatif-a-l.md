@@ -13,7 +13,7 @@ entry_into_force: 2023-09-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/02/27/2025002263/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2025. - Décret modifiant l'article 64quinquies/3 du décret du 6 mai 1999 relatif à l'établissement, au recouvrement et au contentieux en matière de taxes régionales wallonnes

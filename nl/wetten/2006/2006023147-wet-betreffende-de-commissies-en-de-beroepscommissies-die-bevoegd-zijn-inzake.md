@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/07/13/2006023147/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 16-11-2006 en tekstbijwerking tot 10-05-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2006. - Wet betreffende de commissies en de beroepscommissies die bevoegd zijn inzake het voeren van de beroepstitel van een dienstverlenend intellectueel beroep.

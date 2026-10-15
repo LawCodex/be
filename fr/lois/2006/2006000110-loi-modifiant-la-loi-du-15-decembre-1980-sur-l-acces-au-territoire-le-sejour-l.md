@@ -12,7 +12,7 @@ entry_into_force: 2006-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/01/12/2006000110/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2006. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.

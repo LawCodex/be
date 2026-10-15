@@ -13,7 +13,7 @@ entry_into_force: 2020-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/06/19/2020015066/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2020. - Décret contenant des mesures en cas d'urgence civile en matière de santé publique dans le cadre du décret du 15 février 2019 sur le droit en matière de délinquance juvénile et modifiant le décret du 15 février 2019 sur le droit en matière de délinquance juvénile

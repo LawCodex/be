@@ -13,7 +13,7 @@ entry_into_force: 2019-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/03/2019012503/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2019. - Decreet houdende instemming met het Verdrag tussen de Regering van de Franse Republiek, het Vlaamse Gewest en het Waalse Gewest inzake de aanleg van de Grensleie tussen Deûlémont in Frankrijk en Menen in België, ondertekend in Brussel op 19 november 2018

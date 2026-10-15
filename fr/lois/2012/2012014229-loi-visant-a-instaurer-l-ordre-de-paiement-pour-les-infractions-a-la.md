@@ -12,7 +12,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/04/22/2012014229/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2012. - [Loi visant à instaurer l'ordre de paiement pour les infractions à la législation sur la circulation routière] (ERRATUM, voir M.B. 31-10-2012, p. 66215)

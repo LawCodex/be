@@ -13,7 +13,7 @@ entry_into_force: 2013-10-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/19/2013035793/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2013. - Décret modifiant diverses dispositions du décret du 18 juillet 2003 relatif à la politique intégrée de l'eau

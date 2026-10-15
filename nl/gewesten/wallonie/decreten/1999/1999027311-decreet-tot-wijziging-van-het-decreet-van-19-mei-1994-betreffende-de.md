@@ -13,7 +13,7 @@ entry_into_force: 1999-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/01/1999027311/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 1999. - Decreet tot wijziging van het decreet van 19 mei 1994 betreffende de indienstneming van werklozen voor bepaalde projecten ten bate van kleine en middelgrote ondernemingen (VERTALING).

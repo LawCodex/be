@@ -12,7 +12,7 @@ entry_into_force: 2007-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/21/2007015071/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2007. - Wet houdende instemming met het Akkoord betreffende wederzijdse administratieve bijstand inzake douane tussen de Regering van het Koninkrijk België en de Regering van de Republiek Turkije, ondertekend te Ankara op 3 november 2003.

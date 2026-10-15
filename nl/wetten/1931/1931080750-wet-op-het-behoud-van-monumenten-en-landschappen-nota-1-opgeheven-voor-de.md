@@ -11,7 +11,7 @@ last_amended: 2019-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1931/08/07/1931080750/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1992 en tekstbijwerking tot 17-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 AUGUSTUS 1931. - Wet op het behoud van monumenten en landschappen. (NOTA 1 : Opgeheven voor de Franse Gemeenschap, eerst met uitzondering van de bepalingen betreffende de roerende goederen door DFG 1987-07-17/36, art. 33) en later volledig door DFG 2002-07-11/62, art. 36; Inwerkingtreding : 24-09-2002). (NOTA 2 : Opgeheven voor de monumenten en landschappen van het Nederlandse taalgebied, behalve de artikelen 2, lid 1, 4, eerste lid, 5 tot 11 en 16 tot 20 door DVR 1976-03-03/30, art. 16)).(NOTA 3 : Voor het Nederlandse taalgebied zijn de bepalingen van hoofdstuk II en hoofdstuk III, artikel 21, vierde lid opgeheven voor zover het roerende goederen betreft in overheidsbezit door DVR 1982-11-17, art. 31)). (NOTA 4 : Opgeheven voor het Duits taalgebied met uitzondering van de bepalingen betreffende de roerende goederen door DWG 1991-07-18/51, art. 16, 002; Inwerkingtreding : 11-01-1992)). (NOTA 5 : Opgeheven voor het Brusselse Hoofdstedelijke Gewest met uitzondering van de bepalingen betreffende de roerende goederen door ORD 1993-03-04/36, art. 44, § 1, 004; Inwerkingtreding : onbepaald )). (NOTE 6 : Opgeheven voor de in het Vlaamse Gewest gelegen landschappen door DVR 1996-04-16/34, art. 22)) (NOTA 7 : Opgeheven voor het Vlaamse gemeenchap door DVR 2013-07-12/44 , art. 12.2.1, 1°; Inwerkingtreding : 01-01-2015) (NOTA 1 : Raadpleging van vroegere versies vanaf 01-01-1989 en tekstbijwerking tot 24-09-2002)

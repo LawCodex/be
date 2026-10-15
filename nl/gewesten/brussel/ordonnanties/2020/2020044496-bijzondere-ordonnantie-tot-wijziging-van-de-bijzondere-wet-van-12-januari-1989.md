@@ -13,7 +13,7 @@ entry_into_force: 2021-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/12/17/2020044496/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2020. - Bijzondere ordonnantie tot wijziging van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen en tot invoering van de verplichting van een systematische alternerende vertegenwoordiging van mannen en vrouwen op de kandidatenlijsten voor de verkiezing van de leden van het Brussels Hoofdstedelijk Parlement

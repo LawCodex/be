@@ -11,7 +11,7 @@ published: 1970-12-18
 entry_into_force: 1970-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1970/11/06/1970110606/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBRE 1970. \_ Loi portant extension du régime institué par la loi du 24 décembre 1968, étendant à titre provisoire les attributions du Fonds commun de garantie agréé par l'arrêté royal du 31 janvier 1957.

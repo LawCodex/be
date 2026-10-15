@@ -13,7 +13,7 @@ entry_into_force: 2014-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/27/2014029250/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2014. - Decreet houdende instemming met het Verdrag tussen het Koninkrijk België en het Eiland Man tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken van belasting inzake belastingen naar het inkomen, opgemaakt te Brussel op 16 juli 2009

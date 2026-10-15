@@ -11,7 +11,7 @@ published: 2002-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/03/07/2002000288/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 2002. - Wet tot wijziging van het Kieswetboek om het stemrecht toe te kennen aan de Belgen die in het buitenland verblijven, voor de verkiezing van de federale Wetgevende Kamers en tot instelling van de vrijheid van keuze van de gemachtigde in geval van stemming per volmacht.

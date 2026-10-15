@@ -13,7 +13,7 @@ entry_into_force: 2010-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/06/11/2010035480/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2010. - Décret portant assentiment à la Convention européenne pour la protection du patrimoine archéologique (révisée), faite à La Valette le 16 janvier 1992

@@ -13,7 +13,7 @@ entry_into_force: 2019-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/05/16/2019012915/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2019. - Ordonnance portant assentiment à l'Accord portant création de la Banque asiatique d'investissement dans les infrastructures, ainsi que le rapport, faits à Beijing le 29 juin 2015

@@ -11,7 +11,7 @@ date: 1995-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/03/27/1995029274/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 1995. - Decreet houdende toestemming in het Protocol betreffende milieubescherming bij het Verdrag inzake Antarctica, in zijn aanhangsel en bijlagen I, II, III, IV en V, opgemaakt te Madrid op 4 oktober 1991 (VERTALING).

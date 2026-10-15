@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1988/12/19/1988030137/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 02-09-1994 et mise à jour au 30-09-1998"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1988. - Décret spécial relatif au Conseil autonome de l'Enseignement communautaire. (Traduction)

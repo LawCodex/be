@@ -13,7 +13,7 @@ entry_into_force: 2008-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/03/06/2008031115/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2008. - Ordonnance portant assentiment à la Convention sur la mise à disposition de ressources de télécommunication pour l'atténuation des effets des catastrophes et pour les opérations de secours en cas de catastrophe, faite à Tampere le 18 juin 1998.

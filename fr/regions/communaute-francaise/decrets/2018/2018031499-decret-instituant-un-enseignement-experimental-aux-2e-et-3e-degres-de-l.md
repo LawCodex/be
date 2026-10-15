@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/14/2018031499/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 13-07-2018 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 2018. - Décret instituant un enseignement expérimental aux 2e et 3e degrés de l'enseignement secondaire qualifiant en ce qui concerne la certification par unités d'acquis d'apprentissage (CPU), et aux 2 e et 3 e degrés de l'enseignement de transition en ce qui concerne le dépassement du nombre maximum de périodes hebdomadaires, et portant diverses dispositions en matière d'enseignement obligatoire, d'organisation du jury délivrant le certificat d'aptitudes pédagogiques et de concertation avec les pouvoirs organisateurs et les organisations syndicales

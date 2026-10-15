@@ -11,7 +11,7 @@ date: 2020-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/06/26/2020042593/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2020. - Decreet houdende aanpassing van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2020

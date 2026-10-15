@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/10/2007002098/justel"
 department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
 justel_note: "Consultation des versions antérieures à partir du 30-05-2007 et mise à jour au 13-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAI 2007. - Loi tendant à lutter contre la discrimination entre les femmes et les hommes.

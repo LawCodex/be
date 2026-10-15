@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/07/1998035966/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 25-08-1998 en tekstbijwerking tot 01-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 1998. - Decreet houdende instelling van de Vlaamse ombudsdienst.

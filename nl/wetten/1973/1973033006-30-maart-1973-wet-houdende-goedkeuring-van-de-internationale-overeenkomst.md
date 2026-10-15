@@ -11,7 +11,7 @@ published: 1973-05-17
 entry_into_force: 1973-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1973/03/30/1973033006/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 1973. \_ Wet houdende goedkeuring van de Internationale Overeenkomst betreffende het reiscontract (C.C.V.), opgemaakt te Brussel op 23 april 1970.

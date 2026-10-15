@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/01/23/2009201243/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-03-2009 et mise à jour au 28-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 2009. - Décret portant création de comités de négociations pour l'éducation de base et pour le 'Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs' (Centre flamand d'Aide à l'Education des Adultes)

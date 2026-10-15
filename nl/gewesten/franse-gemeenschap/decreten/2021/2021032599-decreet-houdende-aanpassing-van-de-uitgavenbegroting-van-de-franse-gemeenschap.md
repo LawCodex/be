@@ -11,7 +11,7 @@ date: 2021-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/14/2021032599/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2021. - Decreet houdende aanpassing van de uitgavenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2021

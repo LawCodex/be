@@ -13,7 +13,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/22/1995029048/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1994. - Decreet tot wijziging van het organiek decreet van 21 december 1992 houdende oprichting van begrotingsfondsen en aanwijzing van de begrotingsfondsen vermeld in de algemene uitgavenbegroting van de Franse Gemeenschap. (Vertaling)

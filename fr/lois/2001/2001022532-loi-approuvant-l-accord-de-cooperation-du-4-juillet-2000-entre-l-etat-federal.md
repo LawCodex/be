@@ -12,7 +12,7 @@ entry_into_force: 2001-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/06/26/2001022532/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2001. - Loi approuvant l'accord de coopération du 4 juillet 2000 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale et la Communauté germanophone relatif à l'économie sociale.

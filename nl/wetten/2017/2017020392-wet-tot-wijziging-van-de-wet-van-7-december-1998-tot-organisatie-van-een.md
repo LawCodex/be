@@ -12,7 +12,7 @@ entry_into_force: 2017-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/05/31/2017020392/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2017. - Wet tot wijziging van de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus, wat de politieraad betreft

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/02/2004035904/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 13-12-2006 en tekstbijwerking tot 07-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2004. - Decreet tot vermindering van de uitstoot van broeikasgassen in het Vlaamse Gewest door het bevorderen van het rationeel energiegebruik, het gebruik van hernieuwbare energiebronnen en de toepassing van flexibiliteitsmechanismen uit het Protocol van Kyoto. (aangehaald als : REG-decreet)

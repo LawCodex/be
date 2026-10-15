@@ -11,7 +11,7 @@ published: 1995-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/03/17/1995015030/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 1993. - Wet houdende goedkeuring van het Verdrag ter afschaffing van dubbele belasting in geval van winstcorrecties tussen verbonden ondernemingen, de Slotakte en de Bijgevoegde Verklaringen, ondertekend te Brussel op 23 juli 1990.

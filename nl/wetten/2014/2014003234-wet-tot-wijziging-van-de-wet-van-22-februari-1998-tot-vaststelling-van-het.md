@@ -12,7 +12,7 @@ entry_into_force: 2014-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/25/2014003234/justel"
 department: "Economie, KMO, Middenstand en Energie - Justitie - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Wet tot wijziging van de wet van 22 februari 1998 tot vaststelling van het organiek statuut van de Nationale Bank van België, de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten, de wet van 22 maart 1993 op het statuut van en het toezicht op de kredietinstellingen, de wet van 9 juli 1975 betreffende de controle der verzekeringsondernemingen, de wet van 16 februari 2009 op het herverzekeringsbedrijf, de wet van 6 april 1995 inzake het statuut van en het toezicht op de beleggingsondernemingen, de wet van 21 december 2009 op het statuut van de betalingsinstellingen en van de instellingen voor elektronisch geld, de toegang tot het bedrijf van betalingsdienstaanbieder en tot de activiteit van uitgifte van elektronisch geld en de toegang tot betalingssystemen, de wet van 28 april 1999 houdende omzetting van Richtlijn 98/26/EG van 19 mei 1998 betreffende het definitieve karakter van de afwikkeling van betalingen en effectentransacties in betalings- en afwikkelingssystemen en de wet van 15 december 2004 betreffende financiële zekerheden en houdende diverse fiscale bepalingen inzake zakelijkezekerheidsovereenkomsten en leningen met betrekking tot financiële instrumenten

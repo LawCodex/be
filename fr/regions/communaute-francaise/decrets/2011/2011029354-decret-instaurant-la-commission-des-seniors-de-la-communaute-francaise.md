@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/05/26/2011029354/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 30-06-2011 et mise à jour au 27-02-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 2011. - Décret instaurant la Commission des Seniors de la Communauté française

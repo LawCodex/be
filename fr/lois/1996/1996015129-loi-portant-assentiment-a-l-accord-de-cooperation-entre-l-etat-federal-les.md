@@ -12,7 +12,7 @@ entry_into_force: 1996-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/08/20/1996015129/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 AOUT 1996. - Loi portant assentiment à l'Accord de coopération entre l'Etat fédéral, les Communautés et les Régions relatif aux modalités de conclusion des Traités mixtes, signé à Bruxelles le 8 mars 1994.

@@ -12,7 +12,7 @@ entry_into_force: 2019-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/22/2019202064/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2019. - Révision de l'article 149 de la Constitution en ce qui concerne la publicité des jugements et des arrêts

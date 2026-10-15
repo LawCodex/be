@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/16/2018011669/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2018. - Decreet tot wijziging en optimalisatie van diverse bepalingen van het kaderdecreet van 22 juni 2007 inzake ontwikkelingssamenwerking

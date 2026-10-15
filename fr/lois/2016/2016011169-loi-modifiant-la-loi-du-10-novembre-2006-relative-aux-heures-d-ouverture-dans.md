@@ -12,7 +12,7 @@ entry_into_force: 2016-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/04/01/2016011169/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2016. - Loi modifiant la loi du 10 novembre 2006 relative aux heures d'ouverture dans le commerce, l'artisanat et les services en ce qui concerne la limitation des heures d'ouverture dans les stations balnéaires et les centres touristiques

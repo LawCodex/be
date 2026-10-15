@@ -12,7 +12,7 @@ entry_into_force: 2007-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/28/2007009367/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2007. - Loi modifiant, en ce qui concerne le droit successoral à l'égard du cohabitant légal survivant, le Code civil et la loi du 29 août 1988 relative au régime successoral des exploitations agricoles en vue d'en promouvoir la continuité.

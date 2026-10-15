@@ -12,7 +12,7 @@ published: 2018-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/09/20/2018205340/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBER 2018. - Decreet houdende instemming met het samenwerkingsakkoord van 20 juli 2017 tussen de Duitse Gemeenschap en het Waalse Gewest waarbij de Waalse aankoopcomités ertoe gemachtigd worden vermogensverrichtingen uit te voeren voor rekening en in naam van de Duitse Gemeenschap en de entiteiten die eronder ressorteren

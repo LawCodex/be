@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/06/2014201137/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 2014. - Décret relatif à une matière dont l'exercice de la compétence a été attribué par la Communauté française à la Région wallonne modifiant l'article L3341-1 du Code de la démocratie locale et de la décentralisation

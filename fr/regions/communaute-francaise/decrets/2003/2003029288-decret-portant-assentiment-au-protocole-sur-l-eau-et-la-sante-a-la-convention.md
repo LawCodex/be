@@ -13,7 +13,7 @@ entry_into_force: 2003-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/05/08/2003029288/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2003. - Décret portant assentiment au Protocole sur l'eau et la santé à la Convention de 1992 sur la protection et l'utilisation des cours d'eau transfrontières et des lacs internationaux, fait à Londres le 17 juin 1999.

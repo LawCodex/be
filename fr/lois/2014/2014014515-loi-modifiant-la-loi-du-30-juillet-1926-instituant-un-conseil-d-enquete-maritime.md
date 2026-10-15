@@ -12,7 +12,7 @@ entry_into_force: 2014-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/24/2014014515/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2014. - Loi modifiant la loi du 30 juillet 1926 instituant un conseil d'enquête maritime

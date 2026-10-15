@@ -13,7 +13,7 @@ entry_into_force: 1996-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/22/1996035041/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1995. - Décret portant approbation du Protocole au Traité de l'Antarctique concernant la protection de l'environnement, de l'appendice et des annexes I, 11,111, IV et V signés à Madrid lé 4 octobre 1991 (TRADUCTION)

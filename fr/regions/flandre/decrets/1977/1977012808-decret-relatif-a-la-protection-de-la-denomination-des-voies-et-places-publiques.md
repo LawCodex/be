@@ -14,7 +14,7 @@ last_amended: 2021-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1977/01/28/1977012808/justel"
 justel_note: "Consultation des versions antérieures à partir du 17-12-2002 et mise à jour au 04-08-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 1977. - Décret relatif à la protection de la dénomination des voies et places publiques (TRADUCTION). -

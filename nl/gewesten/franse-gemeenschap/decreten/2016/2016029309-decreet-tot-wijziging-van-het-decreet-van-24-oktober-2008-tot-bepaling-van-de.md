@@ -13,7 +13,7 @@ entry_into_force: 2016-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/02/2016029309/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2016. - Decreet tot wijziging van het decreet van 24 oktober 2008 tot bepaling van de voorwaarden voor de subsidiëring van de tewerkstelling in de socioculturele sectoren van de Franse Gemeenschap

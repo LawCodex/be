@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/02/19/2009029196/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 15-04-2009 et mise à jour au 02-08-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2009. - Décret organisant le renforcement différencié du cadre du personnel technique des centres psycho-médico-sociaux

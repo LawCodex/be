@@ -13,7 +13,7 @@ entry_into_force: 2012-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/26/2012202659/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2012. - Decreet houdende uitvoering, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap naar het Waalse Gewest is overgedragen, van Verordening (EG) nr. 1082/2006 van het Europees Parlement en van de Raad van 5 juli 2006 betreffende een Europese groepering voor territoriale samenwerking (EGTS)

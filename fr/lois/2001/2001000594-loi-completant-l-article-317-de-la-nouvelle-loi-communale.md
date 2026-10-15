@@ -12,7 +12,7 @@ entry_into_force: 2001-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/05/22/2001000594/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2001. - Loi complétant l'article 317 de la nouvelle loi communale.

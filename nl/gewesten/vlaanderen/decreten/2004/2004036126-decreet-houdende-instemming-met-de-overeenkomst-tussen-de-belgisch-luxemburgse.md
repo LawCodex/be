@@ -13,7 +13,7 @@ entry_into_force: 2004-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004036126/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de regering van het koninkrijk Thailand inzake de wederzijdse bevordering en bescherming van investeringen, en de bijlage bij artikel 2 (a), ondertekend in Brussel op 12 juni 2002.

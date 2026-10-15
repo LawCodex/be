@@ -12,7 +12,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/12/27/2005021184/justel"
 department: "Chancellerie du Premier Ministre - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 2005. - Loi spéciale modifiant la matière imposable visée à l'article 94, 1°, du Code des taxes assimilées aux impôts sur les revenus en ce qui concerne la taxe de mise en circulation.

@@ -13,7 +13,7 @@ entry_into_force: 2021-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/03/19/2021030780/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2021. - Decreet tot wijziging van artikel 12 van het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt en artikel 38 van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid

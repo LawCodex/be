@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/12/22/1990007012/justel"
 department: "Défense Nationale"
 justel_note: "Consultation des versions antérieures à partir du 19-01-1990 et mise à jour au 02-06-1995"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1989. - Loi relative au statut des miliciens.

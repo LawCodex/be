@@ -13,7 +13,7 @@ entry_into_force: 2024-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/17/2024005576/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2024. - Decreet tot instemming met het verdrag nr. 131 betreffende de vaststelling van minimumlonen, in het bijzonder met betrekking tot ontwikkelingslanden, aangenomen te Genève op 22 juni 1970 door de Internationale Arbeidsconferentie tijdens haar 54ste zitting

@@ -12,7 +12,7 @@ entry_into_force: 2023-09-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/07/17/2023044399/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2023. - Loi modifiant la loi du 6 janvier 2014 portant création d'une Commission fédérale de déontologie et contenant le Code de déontologie des mandataires publics

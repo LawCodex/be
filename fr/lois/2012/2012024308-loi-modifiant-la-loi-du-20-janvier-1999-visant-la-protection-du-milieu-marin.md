@@ -12,7 +12,7 @@ entry_into_force: 2012-09-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/20/2012024308/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2012. - Loi modifiant la loi du 20 janvier 1999 visant la protection du milieu marin dans les espaces marins sous la juridiction de la Belgique, en ce qui concerne l'organisation de l'aménagement des espaces marins

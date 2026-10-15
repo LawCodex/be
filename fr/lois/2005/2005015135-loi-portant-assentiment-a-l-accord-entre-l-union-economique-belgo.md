@@ -12,7 +12,7 @@ entry_into_force: 2007-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/09/19/2005015135/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBRE 2005. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et la Serbie-et-Monténégro, d'autre part, concernant l'encouragement et la protection réciproques des investissements, signé à Belgrade, le 4 mars 2004.

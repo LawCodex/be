@@ -12,7 +12,7 @@ entry_into_force: 1999-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/23/1999011093/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1999. - Wet tot aanvulling van artikel 2 van de wet van 14 juli 1998 houdende verplichting om informatie te verstrekken over de debetrente op de bij kredietinstellingen of andere rechtspersonen geopende rekeningen.

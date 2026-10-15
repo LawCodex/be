@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019204530/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 14-10-2019 en tekstbijwerking tot 08-03-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet tot wijziging van het Waalse Wetboek van Sociale Actie en Gezondheid wat betreft de preventie en de bevordering van de gezondheid

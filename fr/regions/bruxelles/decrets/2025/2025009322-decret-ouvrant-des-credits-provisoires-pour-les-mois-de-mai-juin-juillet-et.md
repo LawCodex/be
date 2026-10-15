@@ -13,7 +13,7 @@ entry_into_force: 2025-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/04/11/2025009322/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2025. - Décret ouvrant des crédits provisoires pour les mois de mai, juin, juillet et août de la Commission communautaire française pour l'année budgétaire 2025

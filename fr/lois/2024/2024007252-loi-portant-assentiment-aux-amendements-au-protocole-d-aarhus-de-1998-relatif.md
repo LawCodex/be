@@ -12,7 +12,7 @@ entry_into_force: 2024-09-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/25/2024007252/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2024. - Loi portant assentiment aux amendements au Protocole d'Aarhus de 1998 relatif aux polluants organiques persistants, faits à Genève le 18 décembre 2009, et aux amendements au Protocole d'Aarhus de 1998 relatif aux métaux lourds faits à Genève le 13 décembre 2012, et modifiant les deux lois du 25 mai 2005 portant assentiment au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance de 1979 relatif aux métaux lourds, et aux Annexes, faits à Aarhus le 24 juin 1998, et portant assentiment au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance de 1979 relatif aux polluants organiques persistants, et aux Annexes, faits à Aarhus le 24 juin 1998

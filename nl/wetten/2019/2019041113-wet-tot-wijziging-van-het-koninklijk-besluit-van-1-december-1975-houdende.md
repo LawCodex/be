@@ -12,7 +12,7 @@ entry_into_force: 2019-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/13/2019041113/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 2019. - Wet tot wijziging van het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en het gebruik van de openbare weg teneinde de regeling "alle fietsers tegelijk groen" in te voeren

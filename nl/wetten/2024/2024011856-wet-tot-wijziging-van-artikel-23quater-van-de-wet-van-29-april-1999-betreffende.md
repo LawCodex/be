@@ -12,7 +12,7 @@ entry_into_force: 2025-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/12/20/2024011856/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2024. - Wet tot wijziging van artikel 23quater van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt en tot omzetting van de Richtlijn (EU) 2019/944 van het Europees Parlement en de Raad van 5 juni 2019 betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot wijziging van Richtlijn 2012/27/EU

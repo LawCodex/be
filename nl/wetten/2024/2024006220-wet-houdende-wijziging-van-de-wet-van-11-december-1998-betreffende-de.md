@@ -11,7 +11,7 @@ published: 2024-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/06/02/2024006220/justel"
 department: "Justitie - Landsverdediging - Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2024. - Wet houdende wijziging van de wet van 11 december 1998 betreffende de classificatie, de veiligheidsmachtigingen, veiligheidsattesten, veiligheidsadviezen en de publiek gereguleerde dienst en de wet van 30 juli 2018 betreffende de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens

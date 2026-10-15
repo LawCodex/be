@@ -13,7 +13,7 @@ entry_into_force: 2002-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/09/19/2002027875/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBRE 2002. - Décret modifiant le décret du 18 juillet 2002 modifiant le Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine.

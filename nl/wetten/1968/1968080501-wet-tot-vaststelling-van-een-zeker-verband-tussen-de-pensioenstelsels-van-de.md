@@ -13,7 +13,7 @@ last_amended: 2016-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1968/08/05/1968080501/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 22-05-1984 en tekstbijwerking tot 30-03-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AUGUSTUS 1968. - Wet tot vaststelling van een zeker verband tussen de pensioenstelsels van de openbare sector en die van de privé-sector.

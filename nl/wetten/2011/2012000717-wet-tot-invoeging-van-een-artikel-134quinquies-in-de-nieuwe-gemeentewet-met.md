@@ -12,7 +12,7 @@ entry_into_force: 2013-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/07/01/2012000717/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2011. - Wet tot invoeging van een artikel 134quinquies in de Nieuwe Gemeentewet, met betrekking tot de politionele bevoegdheid van de burgemeester in het kader van de strijd tegen netwerken van mensenhandel en mensensmokkel

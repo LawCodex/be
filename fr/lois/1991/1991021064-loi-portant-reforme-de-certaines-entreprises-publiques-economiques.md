@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/03/21/1991021064/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 04-09-1992 et mise à jour au 13-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 1991. - Loi portant réforme de certaines entreprises publiques économiques.

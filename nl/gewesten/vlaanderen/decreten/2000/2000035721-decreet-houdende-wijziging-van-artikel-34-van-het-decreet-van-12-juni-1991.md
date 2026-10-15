@@ -13,7 +13,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/06/30/2000035721/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2000. - Decreet houdende wijziging van artikel 34 van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap.

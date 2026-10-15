@@ -13,7 +13,7 @@ entry_into_force: 1998-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/19/1998035049/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1997. - Decreet houdende goedkeuring van de volgende internationale akten : 1° het verdrag inzake het Energiehandvest, met de bijlagen EM, NI, TRM, N, VC, ID, IA, P, G, TFU, D, B, PA en T, en de besluiten, ondertekend in Lissabon op 17 december 1994; 2° het protocol betreffende energie-efficiëntie en de daarmee samenhangende milieuasprecten, ondertekend in Lissabon op 17 december 1994.

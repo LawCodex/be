@@ -11,7 +11,7 @@ published: 1964-12-02
 entry_into_force: 1964-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1964/07/10/1964071013/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 1964. - Wet tot invoering van de Nederlandse tekst van het Strafwetboek.

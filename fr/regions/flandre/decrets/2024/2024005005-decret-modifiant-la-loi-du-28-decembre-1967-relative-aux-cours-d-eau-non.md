@@ -13,7 +13,7 @@ entry_into_force: 2024-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/26/2024005005/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2024. - Décret modifiant la loi du 28 décembre 1967 relative aux cours d'eau non navigables, le Code flamand de l'Aménagement du Territoire du 15 mai 2009 et le décret du 18 juillet 2003 relatif à la politique intégrée de l'eau, coordonné le 15 juin 2018

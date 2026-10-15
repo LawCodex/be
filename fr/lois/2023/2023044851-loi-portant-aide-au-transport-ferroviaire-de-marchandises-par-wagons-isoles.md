@@ -12,7 +12,7 @@ entry_into_force: 2023-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/29/2023044851/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2023. - Loi portant aide au transport ferroviaire de marchandises par wagons isolés

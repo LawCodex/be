@@ -13,7 +13,7 @@ entry_into_force: 2002-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/07/2001036508/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2001. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République des Philippines concernant l'encouragement et la protection réciproques des investissements, fait à Manille le 14 janvier 1998 et au procès-verbal de rectification du 8 septembre 1999 (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2017-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/01/2016029629/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2016. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat en de Franse Gemeenschap betreffende de nadere regels voor de financiering en de werking van de internationale afdeling van de internationale school van SHAPE

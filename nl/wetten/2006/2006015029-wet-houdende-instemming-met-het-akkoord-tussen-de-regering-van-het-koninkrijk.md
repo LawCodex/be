@@ -12,7 +12,7 @@ entry_into_force: 2006-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/01/20/2006015029/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 2006. - Wet houdende instemming met het Akkoord tussen de Regering van het Koninkrijk België en de Regering van de Russische Federatie betreffende de samenwerking op het gebied van de verkenning en het gebruik van de ruimte voor vreedzame doeleinden, en met de Bijlage, ondertekend te Moskou op 20 december 2000.

@@ -13,7 +13,7 @@ entry_into_force: 2022-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/05/18/2022203112/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2022. - Décret modifiant les décrets du 29 octobre 2015 portant création de fonds budgétaires en matière de routes et de voies hydrauliques, du 4 avril 2019 relatif aux amendes administratives en matière de sécurité routière et du 19 mars 2009 relatif à la conservation du domaine public régional routier et des voies hydrauliques

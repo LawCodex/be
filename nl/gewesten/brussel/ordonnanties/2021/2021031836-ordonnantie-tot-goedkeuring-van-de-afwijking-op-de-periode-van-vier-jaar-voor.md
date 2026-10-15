@@ -13,7 +13,7 @@ entry_into_force: 2021-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/07/15/2021031836/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2021. - Ordonnantie tot goedkeuring van de afwijking op de periode van vier jaar voor de organisatie van de verkiezing van de leden van de Adviesraden van de huurders ingesteld bij de openbare vastgoedmaatschappijen

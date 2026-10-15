@@ -12,7 +12,7 @@ entry_into_force: 2025-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/29/2025A02429/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2023. - Accord entre le gouvernement du Royaume de Belgique et le gouvernement du Grand-Duché de Luxembourg relatif aux échanges d'informations en cas d'incident ou d'accident pouvant avoir des conséquences radiologiques.

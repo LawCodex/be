@@ -12,7 +12,7 @@ published: 2002-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/19/2002036045/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2002. - Décret modifiant la loi du 21 avril 1965 portant statut des agences de voyages et le décret du 5 mars 1985 portant création d'un Conseil consultatif flamand pour le Tourisme (TRADUCTION).

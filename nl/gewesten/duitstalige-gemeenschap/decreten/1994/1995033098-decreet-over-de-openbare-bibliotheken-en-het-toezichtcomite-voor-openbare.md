@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/06/15/1995033098/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 09-02-1995 en tekstbijwerking tot 09-12-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 1994. - Decreet over de openbare bibliotheken [en het toezichtcomité voor openbare bibliotheken] (VERTALING). &lt;DDG 2008-12-15/44 , art. 19, 006; Inwerkingtreding : 01-01-2009&gt;

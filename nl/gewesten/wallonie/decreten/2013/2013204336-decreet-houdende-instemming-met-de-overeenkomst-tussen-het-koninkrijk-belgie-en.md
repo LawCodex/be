@@ -13,7 +13,7 @@ entry_into_force: 2013-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/10/2013204336/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2013. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en Japan tot het vermijden van dubbele belasting inzake belastingen naar het inkomen, ondertekend te Tokio op 28 maart 1968, zoals gewijzigd door het Protocol ondertekend te Brussel op 9 november 1988 en door het Protocol gedaan te Brussel op 26 januari 2010, en met het Protocol, gedaan te Brussel op 26 januari 2010, tot wijziging van de Overeenkomst tussen het Koninkrijk België en Japan tot het vermijden van dubbele belasting inzake belastingen naar het inkomen

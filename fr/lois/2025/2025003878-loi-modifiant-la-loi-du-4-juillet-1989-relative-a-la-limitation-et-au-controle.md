@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/01/30/2025003878/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 2025. - Loi modifiant la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour l'élection de la Chambre des représentants, ainsi qu'au financement et à la comptabilité ouverte des partis politiques, en vue de réaliser des économies sur les dotations allouées aux partis politiques

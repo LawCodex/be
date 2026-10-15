@@ -13,7 +13,7 @@ entry_into_force: 2012-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/03/29/2013035321/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2013. - Decreet houdende wijziging van artikel 15, § 7, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn

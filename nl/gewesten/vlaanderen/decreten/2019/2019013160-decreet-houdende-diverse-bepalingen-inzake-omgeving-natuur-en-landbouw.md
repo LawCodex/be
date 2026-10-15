@@ -13,7 +13,7 @@ entry_into_force: 2019-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/26/2019013160/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2019. - Decreet houdende diverse bepalingen inzake omgeving, natuur en landbouw

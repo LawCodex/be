@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/21/2013022073/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 25-02-2013 et mise à jour au 21-08-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2012. - Loi portant modifications de l'arrêté royal du 30 janvier 1997 relatif au régime de pension des travailleurs indépendants en application des articles 15 et 27 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions et de l'article 3, § 1er, 4° de la loi du 26 juillet 1996 visant à réaliser les conditions budgétaires de la participation de la Belgique à l'Union économique et monétaire européenne et portant fixation d'une mesure transitoire relative à la réforme de la pension de retraite anticipée des travailleurs indépendants

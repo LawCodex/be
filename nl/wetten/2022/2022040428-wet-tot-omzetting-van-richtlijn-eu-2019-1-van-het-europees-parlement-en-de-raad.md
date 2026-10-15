@@ -12,7 +12,7 @@ entry_into_force: 2022-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/02/28/2022040428/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2022. - Wet tot omzetting van Richtlijn (EU) 2019/1 van het Europees Parlement en de Raad van 11 december 2018 tot toekenning van bevoegdheden aan de mededingingsautoriteiten van de lidstaten voor een doeltreffendere handhaving en ter waarborging van de goede werking van de interne markt

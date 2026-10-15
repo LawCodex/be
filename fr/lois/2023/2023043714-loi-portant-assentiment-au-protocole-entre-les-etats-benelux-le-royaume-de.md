@@ -12,7 +12,7 @@ entry_into_force: 2023-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/22/2023043714/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2023. - Loi portant assentiment au Protocole entre les Etats Benelux (le Royaume de Belgique, le Grand-Duché de Luxembourg, le Royaume des Pays-Bas) et la République d'Arménie appliquant l'Accord entre l'Union européenne et la République d'Arménie relatif à la réadmission des personnes en situation irrégulière, fait à Bruxelles le 20 juin 2018

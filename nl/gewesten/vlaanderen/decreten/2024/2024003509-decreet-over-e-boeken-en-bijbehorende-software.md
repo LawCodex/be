@@ -13,7 +13,7 @@ entry_into_force: 2024-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/29/2024003509/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2024. - Decreet over e-boeken en bijbehorende software

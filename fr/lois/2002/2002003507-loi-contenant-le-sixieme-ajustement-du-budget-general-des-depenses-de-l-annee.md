@@ -12,7 +12,7 @@ entry_into_force: 2002-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/09/2002003507/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2002. - Loi contenant le sixième ajustement du Budget général des dépenses de l'année budgétaire 2001.

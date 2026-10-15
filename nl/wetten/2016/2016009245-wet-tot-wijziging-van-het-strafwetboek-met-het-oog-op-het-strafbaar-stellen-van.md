@@ -12,7 +12,7 @@ entry_into_force: 2016-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/05/20/2016009245/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 2016. - Wet tot wijziging van het Strafwetboek met het oog op het strafbaar stellen van het zonder machtiging of toestemming binnenkomen of binnendringen in een havenfaciliteit of onroerend dan wel roerend goed binnen de grenzen van een haven

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/10/20/2016205562/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 07-11-2016 et mise à jour au 23-10-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 2016. - Décret relatif à l'agrément des initiatives d'économie sociale et à l'agrément et au subventionnement des entreprises d'insertion

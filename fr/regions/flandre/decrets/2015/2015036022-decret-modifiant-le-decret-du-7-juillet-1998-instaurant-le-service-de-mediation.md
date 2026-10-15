@@ -13,7 +13,7 @@ entry_into_force: 2015-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/07/17/2015036022/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2015. - Décret modifiant le décret du 7 juillet 1998 instaurant le service de médiation flamand

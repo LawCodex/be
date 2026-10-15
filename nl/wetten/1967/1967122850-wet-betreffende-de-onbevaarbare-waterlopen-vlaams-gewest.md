@@ -14,7 +14,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1967/12/28/1967122850/justel"
 justel_notes:
   - "Voor de vroegere versies, zie archief van de federale vorm W 1967-12-28/32 "
   - "Raadpleging van vroegere versies vanaf 11-04-2014 en tekstbijwerking tot 10-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBER 1967. - Wet betreffende de onbevaarbare waterlopen (VLAAMS GEWEST)

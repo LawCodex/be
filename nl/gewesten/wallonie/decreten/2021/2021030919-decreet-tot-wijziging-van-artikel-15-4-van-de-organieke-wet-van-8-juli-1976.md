@@ -13,7 +13,7 @@ entry_into_force: 2021-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/04/01/2021030919/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2021. - Decreet tot wijziging van artikel 15, § 4, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn om de vervanging van de leden van de raden voor maatschappelijk welzijn mogelijk te maken bij een verlof na de geboorte of adoptie van een kind

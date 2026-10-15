@@ -13,7 +13,7 @@ entry_into_force: 1996-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/08/1996036274/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 1996. - Décret ajustant le budget général des dépenses de la Communauté flamande pour l'année budgétaire 1996. (TRADUCTION).

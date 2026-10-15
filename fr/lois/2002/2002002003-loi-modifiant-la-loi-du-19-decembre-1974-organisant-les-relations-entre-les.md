@@ -11,7 +11,7 @@ published: 2002-01-25
 entry_into_force: 1997-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/01/15/2002002003/justel"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 2002. - Loi modifiant la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités et la loi du 1er septembre 1980 relative à l'octroi et au paiement d'une prime syndicale à certains membres du personnel du secteur public.

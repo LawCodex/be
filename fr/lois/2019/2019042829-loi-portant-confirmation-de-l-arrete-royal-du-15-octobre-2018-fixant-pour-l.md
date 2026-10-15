@@ -12,7 +12,7 @@ entry_into_force: 2019-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/12/03/2019042829/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2019. - Loi portant confirmation de l'arrêté royal du 15 octobre 2018 fixant pour l'année 2018 le montant de la contribution de répartition visée à l'article 14, § 8, alinéa 16, de la loi du 11 avril 2003 sur les provisions constituées pour le démantèlement des centrales nucléaires et pour la gestion des matières fissiles irradiées dans ces centrales

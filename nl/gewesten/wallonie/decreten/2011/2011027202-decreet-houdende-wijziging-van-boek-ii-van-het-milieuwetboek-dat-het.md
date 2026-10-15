@@ -11,7 +11,7 @@ date: 2011-10-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/10/13/2011027202/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OKTOBER 2011. - Decreet houdende wijziging van Boek II van het Milieuwetboek, dat het Waterwetboek inhoudt

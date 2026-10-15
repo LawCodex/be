@@ -13,7 +13,7 @@ entry_into_force: 2006-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/15/2007200742/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2006. - Decreet houdende versteviging van het systeem van de "diensten voor schoolherinschakeling" en houdende diverse maatregelen inzake collectieve leefregels binnen schoolinrichtingen (VERTALING).

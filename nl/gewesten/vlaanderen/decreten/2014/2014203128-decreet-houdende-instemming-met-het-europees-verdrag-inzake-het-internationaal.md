@@ -13,7 +13,7 @@ entry_into_force: 2014-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/25/2014203128/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Decreet houdende instemming met het Europees verdrag inzake het internationaal vervoer van gevaarlijke goederen over de binnenwateren (ADN), opgemaakt in Genève op 26 mei 2000, en met de geactualiseerde voorschriften ADN 2013

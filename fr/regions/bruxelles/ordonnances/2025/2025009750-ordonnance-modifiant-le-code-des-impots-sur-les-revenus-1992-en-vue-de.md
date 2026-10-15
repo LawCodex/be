@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/12/18/2025009750/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2025. - Ordonnance modifiant le Code des impôts sur les revenus 1992 en vue de supprimer la réduction d'impôt relative aux titres-services

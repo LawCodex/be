@@ -13,7 +13,7 @@ entry_into_force: 2018-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/22/2018031412/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2018. - DECREET houdende diverse wijzigingen van het Bosdecreet van 13 juni 1990 en het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu

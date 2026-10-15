@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/04/25/2019041091/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 24-05-2019 en tekstbijwerking tot 22-05-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Ordonnantie tot invoering van een tijdelijke fiscale fictiebepaling in het kader van de Brexit

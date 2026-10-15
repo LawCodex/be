@@ -11,7 +11,7 @@ last_amended: 1999-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/07/06/1976070613/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1985 en tekstbijwerking tot 22-05-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 1976. - Wet betreffende het Bijvoegsel bij het Gerechtelijk Wetboek.

@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/11/16/2012036234/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2012. - Décret complétant le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement par un titre VI " Conventions environnementales "

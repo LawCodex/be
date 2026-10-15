@@ -12,7 +12,7 @@ entry_into_force: 1995-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/01/1994010060/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 1994. - Loi modifiant l'article 106 du Code judiciaire

@@ -13,7 +13,7 @@ entry_into_force: 2012-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/13/2012035855/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2012. - Decreet houdende wijziging van het Energiedecreet van 8 mei 2009, wat betreft de milieuvriendelijke energieproductie

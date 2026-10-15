@@ -12,7 +12,7 @@ entry_into_force: 2014-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/21/2013009561/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2013. - Wet betreffende de wijziging van de inwerkingtreding van sommige artikelen van de wet van 13 juni 2006 tot wijziging van de wetgeving betreffende de jeugdbescherming en het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd

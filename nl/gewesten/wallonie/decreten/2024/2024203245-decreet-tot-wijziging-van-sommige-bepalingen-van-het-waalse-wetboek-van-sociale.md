@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/25/2024203245/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2024. - Decreet tot wijziging van sommige bepalingen van het Waalse Wetboek van Sociale Actie en Gezondheid en van het decreet van 6 mei 1999 Decreet betreffende de "Office wallon de la formation professionnelle et de l'emploi" (Waalse dienst voor beroepsopleiding en arbeidsbemiddeling dat de omzetting verzekert van de minimale transversale maatregelen bedoeld in artikel 52/3 van het decreet van 15 december 2011 houdende de organisatie van de begroting, de boekhouding en de rapportering van de Waalse overheidsdiensten, voor de aangelegenheden geregeld in artikel 138 van de Grondwet

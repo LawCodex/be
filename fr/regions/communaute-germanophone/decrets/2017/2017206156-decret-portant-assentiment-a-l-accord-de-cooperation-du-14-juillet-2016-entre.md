@@ -13,7 +13,7 @@ entry_into_force: 2017-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/10/23/2017206156/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OCTOBRE 2017. - Décret portant assentiment à l'Accord de coopération du 14 juillet 2016 entre la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone concernant les modifications à apporter à la règlementation relative aux allocations familiales

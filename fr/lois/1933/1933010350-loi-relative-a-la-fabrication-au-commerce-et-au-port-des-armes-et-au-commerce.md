@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1933/01/03/1933010350/justel"
 justel_notes:
   - "Les modifications aux articles 3, 4 et 22 apportées par les lois 2006-05-18/45 , art. 2, et 2006-05-18/46 , art. 2 à 5, sont sans objet car leur entrée en vigueur le 06-07-2006 est postérieure à l'entrée en vigueur de leur abrogation par L 2006-06-08/30 , art. 47, fixée au 09-06-2006"
   - "Consultation des versions antérieures à partir du 01-01-1990 et mise à jour au 09-01-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JANVIER 1933. - Loi relative à la fabrication, au commerce et au port des armes et au commerce des munitions.

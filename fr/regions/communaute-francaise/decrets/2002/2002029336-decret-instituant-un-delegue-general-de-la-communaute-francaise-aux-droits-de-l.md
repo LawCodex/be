@@ -17,7 +17,7 @@ department: "Communauté française"
 justel_notes:
   - "Consultation des versions ant~erieures `a partir du 19-07-2002 et mise `a jour au 06-02-2008"
   - "Consultation des versions antérieures à partir du 19-07-2002 et mise à jour au 23-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2002. - Décret instituant un délégué général de la Communauté française aux droits de l'enfant.

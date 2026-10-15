@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1870/03/04/1870C30450/justel"
 justel_notes:
   - "Voor de vroegere versies, zie archief van de federale vorm W 1870-03-04/30 "
   - "Raadpleging van vroegere versies vanaf 04-04-2014 en tekstbijwerking tot 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 1870. - Wet op het tijdelijke der eerediensten (WAALS GEWEST)

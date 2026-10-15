@@ -13,7 +13,7 @@ entry_into_force: 2011-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/23/2011200661/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2010. - Decreet houdende instemming met het samenwerkingsakkoord van 2 april 2010 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest voor de coördinatie van een infrastructuur voor ruimtelijke informatie

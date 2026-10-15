@@ -12,7 +12,7 @@ entry_into_force: 2001-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/11/1999009051/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 1998. - Loi transposant la directive 95/46/CE du 24 octobre 1995 du Parlement européen et du Conseil relative à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et à la libre circulation de ces données.

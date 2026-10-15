@@ -12,7 +12,7 @@ entry_into_force: 2025-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/01/09/2026000405/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANVIER 2026. - Loi modifiant la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour l'élection de la Chambre des représentants, ainsi qu'au financement et à la comptabilité ouverte des partis politiques, afin de geler les montants forfaitaires et de supprimer l'indexation du financement des partis politiques pour les années budgétaires 2025 à 2029

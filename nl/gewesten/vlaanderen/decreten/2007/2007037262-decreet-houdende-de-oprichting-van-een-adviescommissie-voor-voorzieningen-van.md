@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/07/2007037262/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 21-12-2007 en tekstbijwerking tot 15-07-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2007. - [Decreet houdende de oprichting van [ ...] een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers] &lt;DVR 2012-06-29/13 , art. 39, 003; Inwerkingtreding : 01-07-2013&gt; (Opschrift gewijzigd door DCFL 2018-06-29/16 , art. 31; Inwerkingtreding : 01-01-2019)

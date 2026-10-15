@@ -13,7 +13,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/03/27/2003200564/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2003. - Décret décidant d'assurer le Service de la Redevance Radio et Télévision visée à l'article 3, alinéa 1er, 9°, de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions et modifiant la loi du 13 juillet 1987 relative aux redevances radio et télévision.

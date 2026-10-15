@@ -12,7 +12,7 @@ entry_into_force: 2020-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/10/31/2019A10102/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 OCTOBRE 2016. - Traité entre le Royaume de Belgique et la République populaire de Chine sur l'extradition

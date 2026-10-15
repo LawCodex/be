@@ -12,7 +12,7 @@ entry_into_force: 2018-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/10/11/2018205458/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 OCTOBRE 2018. - Loi modifiant la loi du 16 mars 1971 sur le travail en ce qui concerne le travail dominical

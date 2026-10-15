@@ -13,7 +13,7 @@ entry_into_force: 1998-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/02/17/1998035629/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 1998. - Decreet houdende de eindregeling van de begroting van de Vlaamse Gemeenschap en van instellingen van openbaar nut voor het begrotingsjaar 1994.

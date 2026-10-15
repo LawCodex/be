@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/23/2018032397/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2018. - Décret portant modifications de la loi du 1er juillet 1954 sur la pêche fluviale

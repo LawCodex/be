@@ -12,7 +12,7 @@ entry_into_force: 1994-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/11/1994016160/justel"
 department: "Agriculture - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 1994. - Loi modifiant la loi du 15 juillet 1985 relative à l'utilisation de substances à effet hormonal ou à effet anti-hormonal chez les animaux.

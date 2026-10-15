@@ -13,7 +13,7 @@ entry_into_force: 2015-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/07/14/2015029363/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2015. - Décret-programme portant diverses mesures relatives à l'enseignement obligatoire, à la Culture, à l'Académie de recherche et d'enseignement supérieur, au financement de l'enseignement supérieur universitaire et non universitaire et à la garantie de la Communauté française

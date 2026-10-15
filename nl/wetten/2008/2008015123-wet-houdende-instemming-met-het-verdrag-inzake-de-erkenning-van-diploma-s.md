@@ -12,7 +12,7 @@ entry_into_force: 2009-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/07/10/2008015123/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2008. - Wet houdende instemming met het Verdrag inzake de erkenning van diploma's betreffende het hoger onderwijs in de Europese Regio, gedaan te Lissabon op 11 april 1997

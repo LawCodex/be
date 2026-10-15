@@ -13,7 +13,7 @@ entry_into_force: 1994-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/07/07/1994027462/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 1994. - Décret contenant le premier feuilleton d'ajustement du budget général des dépenses de la Région wallonne pour l'année budgétaire 1994.

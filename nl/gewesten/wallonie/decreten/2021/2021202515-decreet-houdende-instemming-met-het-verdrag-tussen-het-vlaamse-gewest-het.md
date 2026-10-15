@@ -13,7 +13,7 @@ entry_into_force: 2021-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/05/14/2021202515/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MEI 2021. - Decreet houdende instemming met het Verdrag tussen het Vlaamse Gewest, het Waalse Gewest en de Regering van de Franse Republiek, inzake de aanleg van de Grensleie tussen Deûlémont in Frankrijk en Menen in België, ondertekend in Brussel op 19 november 2018

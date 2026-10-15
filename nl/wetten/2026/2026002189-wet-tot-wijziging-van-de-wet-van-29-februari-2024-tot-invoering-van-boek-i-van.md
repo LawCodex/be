@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/03/16/2026002189/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 25-03-2026 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2026. - Wet tot wijziging van de wet van 29 februari 2024 tot invoering van boek I van het Strafwetboek en de wet van 29 februari 2024 tot invoering van boek II van het Strafwetboek

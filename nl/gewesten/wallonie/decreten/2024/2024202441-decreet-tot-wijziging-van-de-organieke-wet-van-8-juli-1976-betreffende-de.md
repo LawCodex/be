@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/14/2024202441/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 08-05-2024 en tekstbijwerking tot 25-11-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2024. - Decreet tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn voor wat betreft het plaatselijk openbare ambt

@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/15/2023203819/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2022. - Décret-programme 2022

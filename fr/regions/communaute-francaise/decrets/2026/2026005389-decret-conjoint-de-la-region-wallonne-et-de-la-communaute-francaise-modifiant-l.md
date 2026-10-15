@@ -13,7 +13,7 @@ entry_into_force: 2026-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/09/2026005389/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2026. - Décret conjoint de la Région wallonne et de la Communauté française modifiant l'article 1er de l'accord de coopération du 20 mars 2014 entre la Région wallonne et la Communauté française relatif à la gouvernance dans l'exécution des mandats publics au sein des organismes publics et des entités dérivées de l'autorité publique

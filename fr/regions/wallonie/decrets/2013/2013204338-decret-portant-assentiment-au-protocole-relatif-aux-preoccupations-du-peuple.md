@@ -13,7 +13,7 @@ entry_into_force: 2013-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/10/2013204338/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2013. - Décret portant assentiment au Protocole relatif aux préoccupations du peuple irlandais concernant le Traité de Lisbonne

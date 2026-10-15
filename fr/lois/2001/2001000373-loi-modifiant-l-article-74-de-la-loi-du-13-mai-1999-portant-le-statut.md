@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/03/30/2001000373/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2001. - Loi modifiant l'article 74 de la loi du 13 mai 1999 portant le statut disciplinaire des membres du personnel des services de police.

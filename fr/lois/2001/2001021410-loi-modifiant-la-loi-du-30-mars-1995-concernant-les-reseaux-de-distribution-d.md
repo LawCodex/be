@@ -12,7 +12,7 @@ entry_into_force: 2001-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/08/2001021410/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2001. - Loi modifiant la loi du 30 mars 1995 concernant les réseaux de distribution d'émissions de radiodiffusion et l'exercice d'activités de radiodiffusion dans la région bilingue de Bruxelles-Capitale.

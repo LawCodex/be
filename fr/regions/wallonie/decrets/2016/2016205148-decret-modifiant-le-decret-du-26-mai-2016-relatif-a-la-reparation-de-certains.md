@@ -13,7 +13,7 @@ entry_into_force: 2016-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/10/06/2016205148/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OCTOBRE 2016. - Décret modifiant le décret du 26 mai 2016 relatif à la réparation de certains dommages causés par des calamités naturelles publiques

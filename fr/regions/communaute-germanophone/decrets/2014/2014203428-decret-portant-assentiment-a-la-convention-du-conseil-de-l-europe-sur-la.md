@@ -13,7 +13,7 @@ entry_into_force: 2014-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/05/06/2014203428/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2014. - Décret portant assentiment à la Convention du Conseil de l'Europe sur la prévention et la lutte contre la violence à l'égard des femmes et la violence domestique, faite à Istanbul le 11 mai 2011

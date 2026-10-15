@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/03/31/2010024096/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 02-04-2010 en tekstbijwerking tot 23-02-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2010. - Wet betreffende de vergoeding van schade als gevolg van gezondheidszorg

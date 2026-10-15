@@ -13,7 +13,7 @@ entry_into_force: 2015-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/07/09/2015031451/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2015. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 2 april 2015 tussen het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest tot wijziging van het samenwerkingsakkoord van 4 november 2008 tussen het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de preventie en het beheer van verpakkingsafval

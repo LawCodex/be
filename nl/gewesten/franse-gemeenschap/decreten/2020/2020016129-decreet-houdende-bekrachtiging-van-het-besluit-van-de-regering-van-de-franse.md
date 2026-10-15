@@ -12,7 +12,7 @@ entry_into_force: 2020-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/11/12/2020016129/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 2020. - Decreet houdende bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 28 van 18 juni 2020 ter uitvoering van het decreet van 17 maart 2020 tot toekenning van bijzondere machten aan de Regering in het kader van de COVID-19-gezondheidscrisis, waarbij een opdracht wordt gedelegeerd aan het Fonds Ecureuil

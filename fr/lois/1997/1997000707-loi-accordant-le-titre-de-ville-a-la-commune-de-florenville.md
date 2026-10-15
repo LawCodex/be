@@ -12,7 +12,7 @@ entry_into_force: 1997-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/09/08/1997000707/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 SEPTEMBRE 1997. - Loi accordant le titre de ville à la commune de Florenville.

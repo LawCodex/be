@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/15/2019030252/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 03-05-2019 et mise à jour au 27-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2019. - Décret relatif aux soins résidentiels (cité comme : Décret sur les soins résidentiels du 15 février 2019)

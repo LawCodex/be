@@ -13,7 +13,7 @@ entry_into_force: 2007-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/02/15/2007200750/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2007. - Décret modifiant l'intitulé de la section 2 du chapitre IV du titre Ier du Livre Ier et les articles 1er, 7 et 12 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine.

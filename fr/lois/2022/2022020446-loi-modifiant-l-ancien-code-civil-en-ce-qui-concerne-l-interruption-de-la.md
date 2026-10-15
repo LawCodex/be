@@ -12,7 +12,7 @@ entry_into_force: 2024-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/24/2022020446/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2022. - Loi modifiant l'ancien Code civil en ce qui concerne l'interruption de la prescription

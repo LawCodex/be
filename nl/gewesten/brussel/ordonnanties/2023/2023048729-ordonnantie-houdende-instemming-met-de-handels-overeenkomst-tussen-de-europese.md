@@ -13,7 +13,7 @@ entry_into_force: 2024-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/12/22/2023048729/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2023. - Ordonnantie houdende instemming met de Handels-overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds, ondertekend te Brussel op 26 juni 2012 en met het Toetredingsprotocol van Ecuador tot de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds, gedaan te Brussel op 11 november 2016

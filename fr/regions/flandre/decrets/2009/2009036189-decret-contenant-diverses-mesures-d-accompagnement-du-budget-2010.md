@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/12/18/2009036189/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2009 et mise à jour au 24-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2009. - Décret contenant diverses mesures d'accompagnement du budget 2010

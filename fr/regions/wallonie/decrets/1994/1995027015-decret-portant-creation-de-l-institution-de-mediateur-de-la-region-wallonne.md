@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/22/1995027015/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 23-02-1995 et mise à jour au 15-09-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1994. - DECRET portant création de l'institution de médiateur de la Région wallonne.

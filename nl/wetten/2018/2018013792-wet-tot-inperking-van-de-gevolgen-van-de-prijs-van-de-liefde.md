@@ -10,7 +10,7 @@ date: 2018-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/09/02/2018013792/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 SEPTEMBER 2018. - Wet tot inperking van de gevolgen van de "prijs van de liefde"

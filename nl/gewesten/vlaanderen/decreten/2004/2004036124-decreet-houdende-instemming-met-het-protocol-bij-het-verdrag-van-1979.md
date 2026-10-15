@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004036124/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 13-07-2004 en tekstbijwerking tot 09-12-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende instemming met het Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, ter bestrijding van verzuring, eutrofiëring en ozon op leefniveau, met bijlagen, ondertekend in Göteborg op 30 november 1999

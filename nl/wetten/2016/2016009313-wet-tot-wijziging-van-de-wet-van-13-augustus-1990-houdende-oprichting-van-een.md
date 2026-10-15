@@ -12,7 +12,7 @@ entry_into_force: 2016-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/06/16/2016009313/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2016. - Wet tot wijziging van de wet van 13 augustus 1990 houdende oprichting van een commissie voor de evaluatie van de wet van 3 april 1990 betreffende de zwangerschapsafbreking, tot wijziging van de artikelen 348, 350, 351 en 352 van het Strafwetboek en tot opheffing van artikel 353 van hetzelfde Wetboek wat de samenstelling van de Nationale Evaluatiecommissie zwangerschapsafbreking betreft

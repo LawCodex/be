@@ -12,7 +12,7 @@ entry_into_force: 2022-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/06/23/2022021015/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2022. - Wet houdende budgettaire bepalingen inzake gezondheid

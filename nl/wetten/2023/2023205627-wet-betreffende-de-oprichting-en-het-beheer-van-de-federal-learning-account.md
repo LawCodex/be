@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/10/20/2023205627/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 20-12-2024 en tekstbijwerking tot 21-01-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 OKTOBER 2023. - Wet betreffende de oprichting en het beheer van de "Federal Learning Account"

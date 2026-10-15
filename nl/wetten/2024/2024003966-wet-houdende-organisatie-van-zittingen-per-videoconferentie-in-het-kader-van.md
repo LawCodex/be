@@ -11,7 +11,7 @@ published: 2024-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/25/2024003966/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2024. - Wet houdende organisatie van zittingen per videoconferentie in het kader van gerechtelijke procedures

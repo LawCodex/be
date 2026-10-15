@@ -12,7 +12,7 @@ entry_into_force: 2014-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/04/2014022168/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2014. - Wet tot wijziging van de samengeordende wetten van 19 december 1939 betreffende de kinderbijslag voor loonarbeiders

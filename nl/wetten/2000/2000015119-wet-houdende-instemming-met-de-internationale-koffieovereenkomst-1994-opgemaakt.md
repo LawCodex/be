@@ -12,7 +12,7 @@ entry_into_force: 1994-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/06/24/2000015119/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2000. - Wet houdende instemming met de Internationale koffieovereenkomst 1994, opgemaakt te Londen op 30 maart 1994.

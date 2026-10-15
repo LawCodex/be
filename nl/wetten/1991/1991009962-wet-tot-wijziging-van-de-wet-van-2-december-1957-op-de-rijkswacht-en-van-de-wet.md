@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/07/18/1991009962/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 26-07-1991 en tekstbijwerking tot 30-12-1994"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 1991. - Wet tot wijziging van de wet van 2 december 1957 op de rijkswacht en van de wet van 27 december 1973 betreffende het statuut van het personeel van het actief kader van het operationeel korps van de rijkswacht en houdende demilitarisering van de rijkswacht.

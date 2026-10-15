@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/29/2002036537/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2002. - Décret modifiant le décret du 6 juillet 2001 relatif au soutien apporté à la fédération des organisations d'éducation populaire agréées (TRADUCTION).

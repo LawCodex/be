@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/02/22/2018011359/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 2018. - Décret portant modification du décret du 20 juillet 2000 déterminant les conditions d'agrément et de subventionnement des maisons de jeunes, centres de rencontres et d'hébergement et centres d'information des jeunes et de leurs fédérations

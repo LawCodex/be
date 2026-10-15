@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/12/24/1993021426/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-1993 en tekstbijwerking tot 04-07-2002"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 1993. - Programmawet.

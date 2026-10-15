@@ -13,7 +13,7 @@ entry_into_force: 2015-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/05/18/2015202780/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2015. - Décret portant assentiment à l'Accord de coopération conclu entre la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune modifiant l'Accord de coopération du 9 décembre 2011 conclu entre la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune en matière de prévention et de lutte contre le dopage dans le sport, fait à Bruxelles le 17 décembre 2014

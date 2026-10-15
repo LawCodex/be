@@ -13,7 +13,7 @@ entry_into_force: 2023-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/21/2023200870/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2022. - Décret modifiant le décret du 8 février 2018 relatif à la gestion et au paiement des prestations familiales

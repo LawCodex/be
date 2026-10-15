@@ -12,7 +12,7 @@ entry_into_force: 1999-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/03/04/1999015125/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 1998. - Loi portant assentiment à la Convention entre le Royaume de Belgique et les Etats-Unis d'Amérique concernant l'entraide judiciaire en matière pénale, et Annexe, signée à Washington le 28 janvier 1988.

@@ -13,7 +13,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/28/2021205149/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2021. - Decreet tot eerste wijziging van het decreet van 10 december 2020 houdende de begroting van de ontvangsten en de algemene begroting van de uitgaven van de Duitstalige Gemeenschap voor het begrotingsjaar 2021

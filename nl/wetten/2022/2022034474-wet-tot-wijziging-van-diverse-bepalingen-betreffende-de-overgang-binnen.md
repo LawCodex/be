@@ -12,7 +12,7 @@ entry_into_force: 2023-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/24/2022034474/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2022. - Wet tot wijziging van diverse bepalingen betreffende de overgang binnen dezelfde personeelscategorie of de opname in een andere hoedanigheid of personeelscategorie van de beroepsmilitair of van de militair met een loopbaan van beperkte duur

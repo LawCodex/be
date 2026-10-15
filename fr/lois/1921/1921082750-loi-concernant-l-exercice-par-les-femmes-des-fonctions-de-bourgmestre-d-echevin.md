@@ -11,7 +11,7 @@ published: 1921-08-31
 entry_into_force: 1921-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1921/08/27/1921082750/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AOUT 1921. - Loi concernant l'exercice, par les femmes, des fonctions de bourgmestre, d'échevin, de secrétaire ou de receveur communal.

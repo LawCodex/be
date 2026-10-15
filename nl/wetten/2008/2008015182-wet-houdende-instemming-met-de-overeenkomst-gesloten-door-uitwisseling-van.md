@@ -12,7 +12,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/10/22/2008015182/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2008. - Wet houdende instemming met de Overeenkomst, gesloten door uitwisseling van brieven te Den Haag op 30 mei 2006, tussen de Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Macedoonse Regering inzake de afschaffing van de visumplicht met betrekking tot diplomatieke paspoorten.

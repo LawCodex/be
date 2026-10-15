@@ -12,7 +12,7 @@ entry_into_force: 2003-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/01/16/2003003061/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JANUARI 2003. - Wet houdende derde aanpassing van de Algemene uitgavenbegroting van het begrotingsjaar 2002.

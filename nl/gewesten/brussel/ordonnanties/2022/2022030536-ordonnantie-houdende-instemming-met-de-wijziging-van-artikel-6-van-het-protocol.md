@@ -13,7 +13,7 @@ entry_into_force: 2022-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/01/27/2022030536/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JANUARI 2022. - Ordonnantie houdende instemming met de wijziging van artikel 6 van het Protocol van Londen van 1996 bij het Verdrag van 1972 inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen, en met de wijzigingen van de Bijlagen II en III bij het Ospar-Verdrag van 1992 inzake de bescherming van het marien milieu van de Noordoostelijke Atlantische Oceaan

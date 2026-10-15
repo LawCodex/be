@@ -13,7 +13,7 @@ entry_into_force: 2009-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/11/26/2009205533/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2009. - Decreet houdende instemming met het Verdrag inzake clustermunitie, aangenomen in Dublin, op 30 mei 2008, ondertekend te Oslo, op 3 december 2008

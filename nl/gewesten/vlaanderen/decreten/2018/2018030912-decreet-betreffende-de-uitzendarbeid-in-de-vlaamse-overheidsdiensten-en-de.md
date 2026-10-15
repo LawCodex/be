@@ -13,7 +13,7 @@ entry_into_force: 2018-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/04/27/2018030912/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2018. - Decreet betreffende de uitzendarbeid in de Vlaamse overheidsdiensten en de lokale besturen

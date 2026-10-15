@@ -13,7 +13,7 @@ entry_into_force: 2022-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/06/30/2022015140/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2022. - Ordonnance modifiant l'article 30 de l'ordonnance du 29 novembre 2018 sur les funérailles et sépultures

@@ -12,7 +12,7 @@ entry_into_force: 1999-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/25/1999015121/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 1999. - Loi portant assentiment à la Convention entre le Royaume de Belgique et la République tunisienne relative à l'entraide judiciaire en matière civile et commerciale, signée à Tunis le 27 avril 1989

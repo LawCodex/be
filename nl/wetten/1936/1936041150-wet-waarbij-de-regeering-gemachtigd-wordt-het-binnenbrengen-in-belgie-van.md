@@ -12,7 +12,7 @@ entry_into_force: 1936-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1936/04/11/1936041150/justel"
 department: "Binnenlandse Zaken - Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 1936. - Wet waarbij de regeering gemachtigd wordt het binnenbrengen in België van sommige vreemde publicaties te verbieden

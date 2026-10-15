@@ -12,7 +12,7 @@ entry_into_force: 1997-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/07/14/1997003446/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1997. - Loi modifiant l'article 110 du Code des impôts sur les revenus 1992 en vue d'exécuter l'article 104, 3°, i, du même Code.

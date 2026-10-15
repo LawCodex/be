@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/03/21/2024002877/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2024. - Ordonnantie tot wijziging van de ordonnantie van 23 maart 2017 houdende de organisatie van kinderopvang

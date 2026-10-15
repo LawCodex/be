@@ -12,7 +12,7 @@ entry_into_force: 2006-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/06/21/2006009537/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2006. - Wet tot wijziging van een aantal bepalingen van het Gerechtelijk Wetboek met betrekking tot de balie en de tuchtprocedure voor haar leden.

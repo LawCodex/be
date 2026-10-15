@@ -13,7 +13,7 @@ entry_into_force: 2020-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/05/15/2020041349/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2020. - Décret modifiant le décret du 6 février 2004 réglant l'octroi d'une garantie aux petites, moyennes et grandes entreprises, en ce qui concerne la garantie COVID-19

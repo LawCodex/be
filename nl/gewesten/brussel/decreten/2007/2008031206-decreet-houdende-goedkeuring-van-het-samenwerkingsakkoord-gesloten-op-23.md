@@ -13,7 +13,7 @@ entry_into_force: 2008-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/03/22/2008031206/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2007. - Decreet houdende goedkeuring van het samenwerkingsakkoord gesloten op 23 oktober 2006 tussen het Waalse Gewest en de Franse Gemeenschapscommissie tot wijziging van het decreet van de Franse Gemeenschap van 19 juli 1991 inzake bevordering van het toerisme en tot opheffing van het besluit van de Executieve van de Franse Gemeenschap van 1 oktober 1991 met het oog op het toevertrouwen van zekere opdrachten aan het " Office de Promotion du Tourisme " en op het delegeren van zekere bevoegdheden voor de toepassing van het decreet van 19 juli 1991 betreffende de promotie van het toerisme.

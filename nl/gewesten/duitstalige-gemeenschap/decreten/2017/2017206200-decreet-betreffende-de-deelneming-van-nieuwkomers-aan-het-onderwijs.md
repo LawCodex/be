@@ -12,7 +12,7 @@ published: 2017-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/26/2017206200/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2017. - Decreet betreffende de deelneming van nieuwkomers aan het onderwijs

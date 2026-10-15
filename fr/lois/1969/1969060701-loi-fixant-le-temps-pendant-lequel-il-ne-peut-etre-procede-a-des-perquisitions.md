@@ -13,7 +13,7 @@ last_amended: 2026-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1969/06/07/1969060701/justel"
 justel_note: "Consultation des versions antérieures à partir du 06-02-1998 et mise à jour au 02-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 1969. - Loi fixant le temps pendant lequel il ne peut être procédé à [des perquisitions, visites domiciliaires ou privation de liberté]. &lt;L 2016-04-27/07 , art. 2, 003; En vigueur : 19-05-2016&gt; - &lt;Intitulé modifié par L 2017-10-31/06 , art. 2, 004; En vigueur : 29-11-2017&gt;

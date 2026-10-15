@@ -12,7 +12,7 @@ published: 2000-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/03/24/2000027142/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2000. - Decreet houdende goedkeuring van het Samenwerkingsakkoord tussen de Waalse Regering en de Regering van de Franse Gemeenschap, enerzijds, en de Regering van de Republiek Bulgarije, anderzijds, en van zijn bijlagen, opgemaakt te Brussel op 8 oktober 1998 (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2024-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/03/2024006437/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2024. - Decreet tot vervanging van bijlagen bij het decreet van 15 juni 2007 betreffende het volwassenenonderwijs en de Codex Secundair Onderwijs en tot wijziging van het decreet van 19 april 2024 over het onderwijs XXXIV

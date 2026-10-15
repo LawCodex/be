@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/20/1999003058/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 1999. - Wet tot invoering van een tijdelijke vrijstelling van het zegelrecht op rekeningsafsluitingen of -uittreksels opgemaakt wegens de omrekening van bankrekeningen naar euro.

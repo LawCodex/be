@@ -11,7 +11,7 @@ published: 2025-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/10/16/2025008154/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 2025. - Wet houdende instemming met het Samenwerkingsakkoord van 10 januari 2024 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot de toewijzing en de verdeling van het bedrag dat is vastgelegd in artikel 2 van de beslissing van het Comité van Ministers van de Belgisch-Luxemburgse Economische Unie (BLEU) van 14 december 2001, zoals gewijzigd bij de beslissing van het Comité van Ministers van de BLEU van 31 augustus 2021

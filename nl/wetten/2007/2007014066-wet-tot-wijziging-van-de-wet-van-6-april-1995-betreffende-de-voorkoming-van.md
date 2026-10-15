@@ -12,7 +12,7 @@ entry_into_force: 2007-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/02/06/2007014066/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2007. - Wet tot wijziging van de wet van 6 april 1995 betreffende de voorkoming van verontreiniging van de zee door schepen met betrekking tot aangelegenheden als bedoeld in artikel 77 van de Grondwet.

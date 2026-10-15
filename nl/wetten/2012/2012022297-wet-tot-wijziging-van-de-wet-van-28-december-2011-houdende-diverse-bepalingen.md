@@ -12,7 +12,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/20/2012022297/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2012. - Wet tot wijziging van de wet van 28 december 2011 houdende diverse bepalingen, wat betreft het pensioen van de werknemers en houdende nieuwe overgangsmaatregelen inzake het vervroegd rustpensioen van de werknemers

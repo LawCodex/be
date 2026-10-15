@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1965/04/08/1965040838/justel"
 justel_notes:
   - "art. 1 en 2 gewijzigd met ingang op een onbepaalde datum bij W 2018-07-08/09 , art. 2-3, 005; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 27-07-1994 en tekstbijwerking tot 20-07-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 APRIL 1965. - Wet tot instelling van het wettelijk depot bij de koninklijke bibliotheek van België.

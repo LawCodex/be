@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/12/18/2019042944/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2019 en tekstbijwerking tot 25-06-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2019. - Decreet van de ontvangstenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2020

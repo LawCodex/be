@@ -12,7 +12,7 @@ entry_into_force: 2005-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/07/2005009279/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2005. - Loi insérant les articles 187bis, 187ter, 191bis, 191ter, 194bis et 194ter dans le Code judiciaire et modifiant les articles 259bis-9 et 259bis-10 du même code.

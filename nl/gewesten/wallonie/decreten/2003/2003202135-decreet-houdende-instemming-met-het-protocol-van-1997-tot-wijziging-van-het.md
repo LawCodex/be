@@ -13,7 +13,7 @@ entry_into_force: 2003-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/11/27/2003202135/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2003. - Decreet houdende instemming met het Protocol van 1997 tot wijziging van het Internationale Verdrag ter voorkoming van verontreiniging door schepen, Marpol 1973, zoals gewijzigd bij het desbetreffende Protocol van 1978. (Vertaling)

@@ -13,7 +13,7 @@ entry_into_force: 2002-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/21/2002035048/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2001. - Decreet houdende wijziging van het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, met het oog op het toekennen van het persoonsgebonden budget en met het oog op het invoeren van de behoeftegestuurde betoelaging van de voorzieningen en van een zorg-op-maat voor personen met een handicap.

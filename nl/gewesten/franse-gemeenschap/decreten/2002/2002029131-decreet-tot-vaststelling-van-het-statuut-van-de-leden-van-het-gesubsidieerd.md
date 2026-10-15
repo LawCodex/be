@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/01/31/2002029131/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 21-03-2002 en tekstbijwerking tot 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2002. - Decreet tot vaststelling van het statuut van de leden van het gesubsidieerd technisch personeel van de gesubsidieerde officiële psycho-medisch-sociale centra. (VERTALING)

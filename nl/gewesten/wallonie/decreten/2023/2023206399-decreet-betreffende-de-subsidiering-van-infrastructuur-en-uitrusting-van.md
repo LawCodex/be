@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/11/16/2023206399/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 12-12-2023 en tekstbijwerking tot 12-06-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 2023. - Decreet betreffende de subsidiëring van infrastructuur en uitrusting van opvangomgevingen voor jonge kinderen

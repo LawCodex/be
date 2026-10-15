@@ -12,7 +12,7 @@ entry_into_force: 2007-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/23/2007000285/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2007. - Loi modifiant la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour les élections des Chambres fédérales, ainsi qu'au financement et à la comptabilité ouverte des partis politiques et la loi du 27 juin 1921 sur les associations sans but lucratif, les associations internationales sans but lucratif et les fondations.

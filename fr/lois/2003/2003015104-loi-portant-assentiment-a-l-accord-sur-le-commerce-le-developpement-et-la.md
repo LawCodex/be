@@ -12,7 +12,7 @@ entry_into_force: 2003-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/13/2003015104/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2003. - Loi portant assentiment à l'Accord sur le commerce, le développement et la coopération entre la Communauté européenne et ses Etats membres, d'une part, et la République d'Afrique du Sud, d'autre part, aux Annexes I, II, III, IV, V, VI, VII, VIII, IX et X, aux Protocoles 1 et 2, et à l'Acte final, faits à Pretoria le 11 octobre 1999.

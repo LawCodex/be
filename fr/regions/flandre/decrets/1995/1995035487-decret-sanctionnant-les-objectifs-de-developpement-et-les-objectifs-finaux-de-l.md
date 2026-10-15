@@ -13,7 +13,7 @@ entry_into_force: 1995-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/02/22/1995035487/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 1995. - Décret sanctionnant les objectifs de développement et les objectifs finaux de l'enseignement maternel et primaire ordinaire. (TRADUCTION) - (Annulé par la Cour d'Arbitrage, arrêt n° 76/96 du 18 décembre 1996, voir M.B. 31-01-1997)

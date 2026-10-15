@@ -12,7 +12,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/19/2014022176/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2014. - Wet tot wijziging van artikel 68, § 3, van de wet van 30 maart 1994 houdende sociale bepalingen

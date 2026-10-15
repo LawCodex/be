@@ -12,7 +12,7 @@ entry_into_force: 2000-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/03/30/2000007085/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2000. - Loi relative à l'interdiction définitive des mines antipersonnel.

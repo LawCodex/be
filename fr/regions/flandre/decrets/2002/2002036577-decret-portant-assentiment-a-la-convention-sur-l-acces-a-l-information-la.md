@@ -13,7 +13,7 @@ entry_into_force: 2003-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/06/2002036577/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2002. - Décret portant assentiment à la Convention sur l'accès à l'information, la participation du public au processus décisionnel et l'accès à la justice en matière d'environnement, ainsi qu'aux Annexes I et II signées à Aarhus le 25 juin 1998 (TRADUCTION).

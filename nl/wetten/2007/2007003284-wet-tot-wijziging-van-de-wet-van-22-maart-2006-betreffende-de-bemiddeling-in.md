@@ -12,7 +12,7 @@ entry_into_force: 2006-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/09/2007003284/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2007. - Wet tot wijziging van de wet van 22 maart 2006 betreffende de bemiddeling in bank- en beleggingsdiensten en de distributie van financiële instrumenten.

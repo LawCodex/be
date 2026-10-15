@@ -12,7 +12,7 @@ entry_into_force: 2012-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/12/2012024304/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2012. - Loi modifiant la loi du 12 juillet 1973 sur la conservation de la nature

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/22/1995029025/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 18-02-1995 et mise à jour au 04-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1994. - Décret portant des mesures urgentes en matière d'enseignement.

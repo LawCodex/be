@@ -12,7 +12,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019015072/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet tot wijziging van het Wetboek der successierechten en het Wetboek der registratie-, hypotheek- en griffierechten met het oog op de ondersteuning van de hervorming van de pacht

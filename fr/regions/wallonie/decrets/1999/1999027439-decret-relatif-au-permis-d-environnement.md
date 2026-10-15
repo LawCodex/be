@@ -17,7 +17,7 @@ department: "Région Wallonne"
 justel_notes:
   - "art. 14 ; 15 ; 16 ; 18 ; 19 ; 20 ; 23 ; 35 ; 37 ; 38 ; 40 ; 45 ; 50 ; 53 ; 55 ; 58 ; 60 ; 65 ; 70 ; 71 ; 76quater ; 82 ; 84 ; 85 ; 86 ; 92 ; 93 ; 94 ; 94bis ; 95 ; 176 ; 177 modifiés avec effet à une date indéterminée par DRW 2018-05-24/14 , art. 3 et s., 036; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 08-06-1999 et mise à jour au 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 1999. - Décret relatif au permis d'environnement.

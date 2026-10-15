@@ -12,7 +12,7 @@ entry_into_force: 2023-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/20/2022042932/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 2022. - Wet betreffende het beheer van bodems verontreinigd door radioactieve stoffen

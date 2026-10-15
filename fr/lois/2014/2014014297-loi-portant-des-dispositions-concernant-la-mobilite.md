@@ -12,7 +12,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/15/2014014297/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2014. - Loi portant des dispositions concernant la mobilité

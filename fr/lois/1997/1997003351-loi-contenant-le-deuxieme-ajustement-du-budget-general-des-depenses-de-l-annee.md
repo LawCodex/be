@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/07/06/1997003351/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 24-09-1997 et mise à jour au 04-03-1998"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 1997. - Loi contenant le deuxième ajustement du Budget général des dépenses de l'année budgétaire 1997.

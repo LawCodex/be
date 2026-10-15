@@ -12,7 +12,7 @@ entry_into_force: 2007-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/10/2007200952/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2007. - Loi modifiant plusieurs dispositions relatives au bien-être des travailleurs lors de l'exécution de leur travail dont celles relatives à la protection contre la violence et le harcèlement moral ou sexuel au travail.

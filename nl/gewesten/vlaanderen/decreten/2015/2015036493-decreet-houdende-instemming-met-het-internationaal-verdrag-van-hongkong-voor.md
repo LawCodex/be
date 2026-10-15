@@ -13,7 +13,7 @@ entry_into_force: 2015-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/13/2015036493/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2015. - Decreet houdende instemming met het Internationaal Verdrag van Hongkong voor het veilig en milieuvriendelijk recycleren van schepen, gedaan te Hongkong op 15 mei 2009

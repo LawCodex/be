@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/16/2024007991/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 03-09-2024 et mise à jour au 09-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Décret relatif au soutien à la diffusion des productions artistiques en Communauté française

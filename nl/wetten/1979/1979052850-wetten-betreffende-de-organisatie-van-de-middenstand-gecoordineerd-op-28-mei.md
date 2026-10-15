@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1979/05/28/1979052850/justel"
 department: "Middenstand"
 justel_note: "Raadpleging van vroegere versies vanaf 12-08-1987 en tekstbijwerking tot 10-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MEI 1979. - Wetten betreffende de organisatie van de Middenstand, gecoördineerd op 28 mei 1979

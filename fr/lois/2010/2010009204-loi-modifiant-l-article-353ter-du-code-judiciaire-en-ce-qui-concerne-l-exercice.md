@@ -12,7 +12,7 @@ entry_into_force: 2010-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/03/01/2010009204/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2010. - Loi modifiant l'article 353ter du Code judiciaire en ce qui concerne l'exercice de mandats politiques par le personnel des greffes et des secrétariats des parquets

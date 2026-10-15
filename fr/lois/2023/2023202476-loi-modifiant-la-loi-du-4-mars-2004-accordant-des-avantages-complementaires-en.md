@@ -12,7 +12,7 @@ entry_into_force: 2023-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/04/07/2023202476/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2023. - Loi modifiant la loi du 4 mars 2004 accordant des avantages complémentaires en matière de pension de retraite aux personnes désignées pour exercer une fonction de management ou d'encadrement dans un service public

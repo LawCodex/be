@@ -12,7 +12,7 @@ entry_into_force: 2022-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/28/2022040420/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2022. - Loi modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité afin de permettre une adjudication complémentaire pour la mise aux enchères organisée en 2021

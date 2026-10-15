@@ -13,7 +13,7 @@ entry_into_force: 1996-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/22/1996027015/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1995. - Décret contenant le second feuilleton d'ajustement du budget général des dépenses de la Région wallonne pour l'année budgétaire 1995.

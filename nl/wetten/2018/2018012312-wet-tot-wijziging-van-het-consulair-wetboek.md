@@ -12,7 +12,7 @@ entry_into_force: 2018-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/05/09/2018012312/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2018. - Wet tot wijziging van het Consulair Wetboek

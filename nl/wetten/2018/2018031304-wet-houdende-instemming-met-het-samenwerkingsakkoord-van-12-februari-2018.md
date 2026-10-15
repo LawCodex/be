@@ -12,7 +12,7 @@ entry_into_force: 2018-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/06/15/2018031304/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 2018. - Wet houdende instemming met het samenwerkingsakkoord van 12 februari 2018 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de verdeling van de Belgische klimaat- en energiedoelstellingen voor de periode 2013-2020

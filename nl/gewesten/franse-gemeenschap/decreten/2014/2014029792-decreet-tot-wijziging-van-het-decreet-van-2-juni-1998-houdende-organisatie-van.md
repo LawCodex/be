@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/11/20/2014029792/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 2014. - Decreet tot wijziging van het decreet van 2 juni 1998 houdende organisatie van het secundair kunstonderwijs met beperkt leerplan gesubsidieerd door de Franse Gemeenschap

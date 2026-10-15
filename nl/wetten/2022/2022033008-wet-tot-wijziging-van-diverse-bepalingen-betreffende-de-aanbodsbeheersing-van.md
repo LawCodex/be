@@ -12,7 +12,7 @@ entry_into_force: 2022-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/30/2022033008/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2022. - Wet tot wijziging van diverse bepalingen betreffende de aanbodsbeheersing van gezondheidszorgberoepen

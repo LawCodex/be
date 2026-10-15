@@ -12,7 +12,7 @@ entry_into_force: 2020-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/07/20/2020042399/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2020. - Wet houdende de toekenning van de Staatsgarantie in het kader van de instrumenten die op het niveau van de Europese Unie zijn ingesteld om de socio-economische gevolgen van COVID-19 te verzachten

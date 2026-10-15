@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/09/2021021712/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 10-09-2021 et mise à jour au 20-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2021. - Décret portant modification de divers décrets relatifs au logement

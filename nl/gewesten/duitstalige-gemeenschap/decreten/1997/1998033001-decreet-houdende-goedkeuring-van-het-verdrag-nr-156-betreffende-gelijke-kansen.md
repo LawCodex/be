@@ -13,7 +13,7 @@ entry_into_force: 1998-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/15/1998033001/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 1997. - Decreet houdende goedkeuring van het Verdrag nr. 156 betreffende gelijke kansen voor een gelijke behandeling van mannelijke en vrouwelijke werknemers : werknemers met gezinsverantwoordelijkheid, aangenomen te Genève op 23 juni 1981, door de Internationale Arbeidsconferentie tijdens haar zevenenzestigste zitting (VERTALING).

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/17/1998035223/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 25-02-1998 en tekstbijwerking tot 28-06-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 1997. - Decreet betreffende de rustpensioenen toegekend aan de vastbenoemde en tot de stage toegelaten personeelsleden van de Vlaamse Maatschappij voor Watervoorziening en betreffende de overlevingspensioenen toegekend aan de rechtverkrijgenden van die personeelsleden.

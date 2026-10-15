@@ -13,7 +13,7 @@ entry_into_force: 2004-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/04/2004200045/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2003. - Decreet houdende instemming met de overeenkomst betreffende het behoud van trekwatervogels in Afrika en Eurazië en met de bijlagen erbij, gedaan te Den Haag op 15 augustus 1996. (Vertaling).

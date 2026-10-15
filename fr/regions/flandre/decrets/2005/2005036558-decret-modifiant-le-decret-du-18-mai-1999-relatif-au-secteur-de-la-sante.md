@@ -13,7 +13,7 @@ entry_into_force: 2006-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/11/25/2005036558/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2005. - Décret modifiant le décret du 18 mai 1999 relatif au secteur de la santé mentale (TRADUCTION).

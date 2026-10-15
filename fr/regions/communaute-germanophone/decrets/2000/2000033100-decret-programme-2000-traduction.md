@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/10/23/2000033100/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 05-12-2000 et mise à jour au 14-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OCTOBRE 2000. - Décret-programme 2000 (TRADUCTION).

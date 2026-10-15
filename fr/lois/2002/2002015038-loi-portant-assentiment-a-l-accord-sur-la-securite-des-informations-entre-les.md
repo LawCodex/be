@@ -12,7 +12,7 @@ entry_into_force: 2002-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/02/17/2002015038/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2002. - Loi portant assentiment à l'Accord sur la sécurité des informations entre les Parties au Traité de l'Atlantique Nord, et aux Annexes I, II et III, faits à Bruxelles, le 6 mars 1997.

@@ -12,7 +12,7 @@ entry_into_force: 2001-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/03/04/2001015069/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 2001. - Loi portant assentiment au Protocole additionnel, signé à Luxembourg le 28 janvier 1997, modifiant la Convention belgo-franco-luxembourgeoise relative à l'exploitation des chemins de fer du Grand-Duché, signée à Luxembourg le 17 avril 1946.

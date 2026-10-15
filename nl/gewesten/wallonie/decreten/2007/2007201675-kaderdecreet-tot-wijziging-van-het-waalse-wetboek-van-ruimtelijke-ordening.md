@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/04/19/2007201675/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 29-05-2007 en tekstbijwerking tot 14-11-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2007. - Kaderdecreet tot wijziging van het Waalse Wetboek van Ruimtelijke Ordening, Stedenbouw en Patrimonium met het oog op het bevorderen van de energieprestatie van de gebouwen (VERTALING)

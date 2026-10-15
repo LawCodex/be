@@ -11,7 +11,7 @@ published: 2005-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/06/21/2005003558/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2005. - Loi portant des dispositions équivalentes aux dispositions prévues, en ce qui concerne la Belgique, par les accords sur la fiscalité des revenus de l'épargne signés entre le Royaume de Belgique et le Royaume des Pays-Bas en ce qui concerne d'une part les Antilles néerlandaises et d'autre part Aruba et entre le Royaume de Belgique et, respectivement, Guernesey, l'île de Man, Jersey, Anguilla, les îles Vierges britanniques, Montserrat et les îles Turks et Caicos.

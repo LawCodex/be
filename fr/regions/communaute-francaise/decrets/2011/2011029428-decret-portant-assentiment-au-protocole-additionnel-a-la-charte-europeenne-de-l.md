@@ -13,7 +13,7 @@ entry_into_force: 2011-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/19/2011029428/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2011. - Décret portant assentiment au Protocole additionnel à la Charte européenne de l'autonomie locale, sur le droit de participer aux affaires des collectivités locales, signé à Utrecht le 16 novembre 2009

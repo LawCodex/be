@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1880/05/03/1880050350/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 26-02-2010 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 1880. - Loi sur les enquêtes parlementaires.

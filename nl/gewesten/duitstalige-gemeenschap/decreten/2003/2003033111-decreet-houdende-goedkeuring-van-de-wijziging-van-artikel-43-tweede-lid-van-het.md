@@ -13,7 +13,7 @@ entry_into_force: 2004-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/10/27/2003033111/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 2003. - Decreet houdende goedkeuring van de wijziging van artikel 43 tweede lid van het Verdrag inzake de rechten van het kind aangenomen op de Conferentie van de Staten die partij zijn bij het Verdrag op 12 december 1995. (Vertaling).

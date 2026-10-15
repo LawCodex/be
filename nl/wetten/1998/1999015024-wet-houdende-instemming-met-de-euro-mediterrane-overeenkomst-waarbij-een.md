@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/02/09/1999015024/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 1998. - Wet houdende instemming met de Euro-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en het Koninkrijk Marokko, anderzijds, Bijlagen 1, 2, 3, 4, 5, 6 en 7, Protocollen 1, 2, 3, 4 en 5, en Slotakte, gedaan te Brussel op 26 februari 1996.

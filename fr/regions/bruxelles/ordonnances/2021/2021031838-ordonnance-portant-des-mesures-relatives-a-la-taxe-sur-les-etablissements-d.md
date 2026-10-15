@@ -13,7 +13,7 @@ entry_into_force: 2021-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/07/15/2021031838/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2021. - Ordonnance portant des mesures relatives à la taxe sur les établissements d'hébergement touristique prises en raison de la crise sanitaire du COVID-19

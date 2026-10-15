@@ -13,7 +13,7 @@ entry_into_force: 2017-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/20/2018030073/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2017. - Décret relatif à la situation particulière des étudiants inscrits durant l'année académique 2016-2017 aux études en sciences médicales et dentaires

@@ -13,7 +13,7 @@ entry_into_force: 2022-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/07/2022015391/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2022. - Décret modifiant le décret du 8 mars 2018 relatif à la promotion de la citoyenneté et de l'interculturalité

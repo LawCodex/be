@@ -13,7 +13,7 @@ entry_into_force: 2021-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/10/2021042169/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2021. - Decreet tot voortzetting van de toekenning van een bijkomende vergoeding ten gunste van de verenigingen zonder winstoogmerk die een economische activiteit in het kader van de COVID-19 crisis uitoefenen

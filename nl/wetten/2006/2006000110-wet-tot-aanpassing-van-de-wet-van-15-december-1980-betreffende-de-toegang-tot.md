@@ -12,7 +12,7 @@ entry_into_force: 2006-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/01/12/2006000110/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 2006. - Wet tot aanpassing van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen.

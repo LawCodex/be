@@ -12,7 +12,7 @@ entry_into_force: 2014-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/06/2014200302/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANUARI 2014. - Herziening van de Grondwet - Invoeging van een artikel 135bis in de Grondwet

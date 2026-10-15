@@ -12,7 +12,7 @@ published: 2023-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/02/09/2023015153/justel"
 department: "Brusselse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2023. - Ordonnantie tot wijziging van sommige bepalingen betreffende het administratief toezicht op de gemeentelijke vzw's

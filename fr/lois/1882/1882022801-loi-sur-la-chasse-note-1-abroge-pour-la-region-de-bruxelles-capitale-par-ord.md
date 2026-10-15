@@ -13,7 +13,7 @@ last_amended: 2026-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1882/02/28/1882022801/justel"
 justel_note: "Consultation des versions antérieures à partir du 28-11-1987 et mise à jour au 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 1882. - Loi sur la chasse. (NOTE 1 : Abrogé pour la Région de Bruxelles-Capitale par ORD 1999-03-25/53 , art 43, En vigueur : 04-07-1999, à l'exception de l'article 10) (NOTE 2 : Abrogé pour la Région de Bruxelles-Capitale par ORD 2012-03-01/15 , art. 118, § 2, 1°, 020; En vigueur : 26-03-2012) (NOTE 3 : Abrogé pour la Région de Bruxelles-Capitale par DIVERS 2014-04-25/A3 , art 59,2°, 021; En vigueur : 01-01-2015, à l'exception de l'article 10)

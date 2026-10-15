@@ -13,7 +13,7 @@ entry_into_force: 2024-11-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/11/08/2024010470/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 2024. - Décret modifiant l'article 6, § 1er, du décret du 16 juillet 2021 relatif aux véhicules à émissions zéro et aux véhicules alimentés par des carburants alternatifs et modifiant l'article 2, § 2, alinéa 3, de l'arrêté du Gouvernement flamand du 9 février 2024 relatif à l'introduction d'une prime pour véhicules zéro émission

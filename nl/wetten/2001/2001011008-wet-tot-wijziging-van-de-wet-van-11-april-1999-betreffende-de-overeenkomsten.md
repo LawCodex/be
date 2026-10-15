@@ -12,7 +12,7 @@ entry_into_force: 2001-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/01/19/2001011008/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JANUARI 2001. - Wet tot wijziging van de wet van 11 april 1999 betreffende de overeenkomsten inzake de verkrijging van een recht van deeltijds gebruik van onroerende goederen.

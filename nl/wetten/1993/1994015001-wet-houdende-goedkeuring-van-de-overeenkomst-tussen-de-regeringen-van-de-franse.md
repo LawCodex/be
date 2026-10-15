@@ -12,7 +12,7 @@ entry_into_force: 1993-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/08/06/1994015001/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AUGUSTUS 1993. - Wet houdende goedkeuring van de Overeenkomst tussen de Regeringen van de Franse Republiek, de Bondsrepubliek Duitsland, het Verenigd Koninkrijk van Groot-Brittanië en Noord-Ierland, het Koninkrijk Spanje en het Koninkrijk België betreffende het AIRBUS A320 programma, en Bijlagen 1 en 2, ondertekend te Bonn op 6 februari 1991.

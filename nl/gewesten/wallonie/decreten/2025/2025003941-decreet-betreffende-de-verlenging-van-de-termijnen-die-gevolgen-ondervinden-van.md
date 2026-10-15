@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/05/15/2025003941/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 22-05-2025 en tekstbijwerking tot 19-06-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2025. - Decreet betreffende de verlenging van de termijnen die gevolgen ondervinden van de inbraak van april 2025 in het informaticasysteem van de diensten van de Waalse Regering

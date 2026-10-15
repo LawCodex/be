@@ -13,7 +13,7 @@ entry_into_force: 2003-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/05/08/2003080550/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2003. - Décret portant assentiment à l'Accord de Stabilisation et d'Association entre les Communautés européennes et leurs Etats membres, d'une part, et l'ancienne République yougoslave de Macédoine, d'autre part, et l'Acte final, faits à Luxembourg, le 9 avril 2001.

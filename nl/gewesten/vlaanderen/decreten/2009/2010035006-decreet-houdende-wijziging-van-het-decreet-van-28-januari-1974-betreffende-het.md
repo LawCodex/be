@@ -13,7 +13,7 @@ entry_into_force: 2009-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/11/20/2010035006/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 2009. - Decreet houdende wijziging van het decreet van 28 januari 1974 betreffende het cultuurpact

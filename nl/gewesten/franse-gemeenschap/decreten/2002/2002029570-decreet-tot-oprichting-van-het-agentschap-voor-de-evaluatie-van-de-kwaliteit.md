@@ -13,7 +13,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/14/2002029570/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2002. - Decreet tot oprichting van het Agentschap voor de evaluatie van de kwaliteit van het hoger onderwijs ingericht of gesubsidieerd door de Franse Gemeenschap (VERTALING)

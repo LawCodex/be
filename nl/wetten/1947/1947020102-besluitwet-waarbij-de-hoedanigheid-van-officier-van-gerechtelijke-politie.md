@@ -11,7 +11,7 @@ published: 1947-02-07
 entry_into_force: 1947-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1947/02/01/1947020102/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 1947. - BESLUITWET waarbij de hoedanigheid van officier van gerechtelijke politie hulpofficier van den procureur des Konings wordt toegekend aan bepaalde eerstaanwezende gerechtelijke agenten-inspecteurs en aan bepaalde onderofficieren van de Rijkswacht.

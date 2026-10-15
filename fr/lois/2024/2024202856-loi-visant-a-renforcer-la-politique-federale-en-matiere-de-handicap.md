@@ -12,7 +12,7 @@ entry_into_force: 2024-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/07/2024202856/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2024. - Loi visant à renforcer la politique fédérale en matière de handicap

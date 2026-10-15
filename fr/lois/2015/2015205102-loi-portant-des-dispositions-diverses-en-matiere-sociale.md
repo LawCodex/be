@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/11/16/2015205102/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 26-11-2015 et mise à jour au 02-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2015. - Loi portant des dispositions diverses en matière sociale

@@ -13,7 +13,7 @@ entry_into_force: 2013-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/05/02/2013031354/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2013. - Ordonnantie houdende instemming met : 1° de Overeenkomst tussen het Koninkrijk België en het Koninkrijk Noorwegen tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Oslo op 14 april 1988, en gewijzigd door het Protocol gedaan te Brussel op 10 september 2009; 2° het Protocol, gedaan te Brussel op 10 september 2009, tot wijziging van de Overeenkomst tussen het Koninkrijk België en het Koninkrijk Noorwegen tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Oslo op 14 april 1988; 3° de briefwisseling van 9 februari en van 11 april 2011

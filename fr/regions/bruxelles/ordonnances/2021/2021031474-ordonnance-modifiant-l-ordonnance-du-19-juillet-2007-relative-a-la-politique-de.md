@@ -13,7 +13,7 @@ entry_into_force: 2021-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/05/06/2021031474/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2021. - Ordonnance modifiant l'ordonnance du 19 juillet 2007 relative à la politique de prévention en santé

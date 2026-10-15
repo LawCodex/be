@@ -13,7 +13,7 @@ entry_into_force: 2011-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/20/2011203992/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2011. - Décret portant assentiment au Protocole n° 3 à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, relatif aux Groupements eurorégionaux de coopération (GEC), signé à Utrecht le 16 novembre 2009

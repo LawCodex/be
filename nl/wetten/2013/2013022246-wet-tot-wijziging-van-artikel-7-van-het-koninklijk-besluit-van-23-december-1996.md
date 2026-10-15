@@ -12,7 +12,7 @@ entry_into_force: 2013-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/04/23/2013022246/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 2013. - Wet tot wijziging van artikel 7 van het koninklijk besluit van 23 december 1996 tot uitvoering van de artikelen 15, 16 en 17 van de wet van 26 juli 1996 tot modernisering van de sociale zekerheid en tot vrijwaring van de leefbaarheid van de wettelijke pensioenstelsels

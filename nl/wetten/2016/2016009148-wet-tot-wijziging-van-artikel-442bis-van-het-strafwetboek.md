@@ -12,7 +12,7 @@ entry_into_force: 2016-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/03/25/2016009148/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2016. - Wet tot wijziging van artikel 442bis van het Strafwetboek

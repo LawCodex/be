@@ -13,7 +13,7 @@ entry_into_force: 2002-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/20/2002027122/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2001. - Décret modifiant le décret du 27 juin 1996 relatif aux déchets en vue de l'instauration d'une obligation de reprise de certains biens ou déchets.

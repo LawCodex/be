@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/10/20/1998033105/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OKTOBER 1997. - Decreet houdende goedkeuring van de Euro-Mediterrane overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en haar Lid-Staten, enerzijds, en het Koninkrijk Marokko, anderzijds, van de bijlagen 1, 2, 3, 4, 5, 6 en 7, de protocollen 1, 2, 3, 4, en 5, en de slotakte, ondertekend te Brussel op 26 februari 1996 (VERTALING).

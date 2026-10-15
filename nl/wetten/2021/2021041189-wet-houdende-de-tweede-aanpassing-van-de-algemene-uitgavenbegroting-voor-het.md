@@ -12,7 +12,7 @@ entry_into_force: 2021-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/04/02/2021041189/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2021. - Wet houdende de tweede aanpassing van de Algemene uitgavenbegroting voor het begrotingsjaar 2021

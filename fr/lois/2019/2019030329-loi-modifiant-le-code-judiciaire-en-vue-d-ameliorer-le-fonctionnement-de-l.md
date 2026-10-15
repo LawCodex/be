@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019030329/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 29-03-2019 et mise à jour au 19-06-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2019. - Loi modifiant le Code judiciaire en vue d'améliorer le fonctionnement de l'ordre judiciaire et du Conseil supérieur de la Justice

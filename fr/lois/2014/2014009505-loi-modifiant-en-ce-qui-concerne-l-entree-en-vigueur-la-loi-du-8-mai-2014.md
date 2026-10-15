@@ -12,7 +12,7 @@ entry_into_force: 2014-11-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/11/26/2014009505/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2014. - Loi modifiant, en ce qui concerne l'entrée en vigueur, la loi du 8 mai 2014 modifiant les articles 217, 223, 224 et 231 du Code judiciaire

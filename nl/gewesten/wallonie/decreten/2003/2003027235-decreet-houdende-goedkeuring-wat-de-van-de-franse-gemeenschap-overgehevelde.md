@@ -13,7 +13,7 @@ entry_into_force: 2003-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/04/10/2003027235/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2003. - Decreet houdende goedkeuring, wat de van de Franse Gemeenschap overgehevelde aangelegenheden betreft, van het Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lid-Staten, enerzijds, en de Arabische Republiek Egypte, anderzijds, evenals van de daarop betrekking hebbende Slotakte, opgemaakt te Luxemburg op 25 juni 2001 (VERTALING).

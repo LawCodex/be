@@ -13,7 +13,7 @@ entry_into_force: 2024-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/22/2024205590/justel"
 department: "Intérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2024. - Décret portant modification du décret du 25 février 2019 instituant un dialogue citoyen permanent en Communauté germanophone

@@ -11,7 +11,7 @@ published: 1998-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/21/1998015198/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 1998. - Wet tot wijziging van de wet van 27 juli 1971 op de financiering en de controle van de universitaire instellingen.

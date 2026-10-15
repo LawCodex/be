@@ -13,7 +13,7 @@ entry_into_force: 2008-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/09/2008201884/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2008. - Décret portant assentiment à la Convention internationale sur le contrôle des systèmes antisalissure nuisibles sur les navires, faite à Londres le 5 octobre 2001 (TRADUCTION).

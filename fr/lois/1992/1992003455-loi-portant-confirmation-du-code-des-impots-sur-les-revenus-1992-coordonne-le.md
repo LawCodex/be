@@ -12,7 +12,7 @@ entry_into_force: 1992-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1992/06/12/1992003455/justel"
 department: "Finances"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 1992. - Loi portant confirmation du Code des impôts sur les revenus 1992, coordonné le 10 avril 1992.

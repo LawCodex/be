@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/05/21/1991022310/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 20-06-1991 et mise à jour au 30-12-2005"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 1991. - Loi apportant diverses modifications à la législation relative aux pensions du secteur public.

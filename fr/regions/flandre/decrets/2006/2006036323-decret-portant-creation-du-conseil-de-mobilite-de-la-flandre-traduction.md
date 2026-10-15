@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/07/2006036323/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 05-09-2006 et mise à jour au 30-01-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2006. - Décret portant création du Conseil de Mobilité de la Flandre (TRADUCTION)

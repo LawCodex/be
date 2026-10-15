@@ -12,7 +12,7 @@ entry_into_force: 2023-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/07/09/2023043469/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2023. - Loi modifiant la loi du 6 juillet 2007 relative à la procréation médicalement assistée et à la destination des embryons surnuméraires et des gamètes

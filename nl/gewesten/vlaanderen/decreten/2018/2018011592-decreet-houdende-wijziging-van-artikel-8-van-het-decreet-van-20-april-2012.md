@@ -13,7 +13,7 @@ entry_into_force: 2018-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/23/2018011592/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2018. - Decreet houdende wijziging van artikel 8 van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters, wat betreft de invoering van het laagste tarief van de ouderbijdrage voor kinderopvang voor kinderen van minderjarige tienermoeders

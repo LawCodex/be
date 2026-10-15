@@ -11,7 +11,7 @@ published: 1851-04-24
 entry_into_force: 1851-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1851/04/18/1851041850/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 1851. \_ Faillissementswet. WETBOEK VAN KOOPHANDEL - BOEK III.

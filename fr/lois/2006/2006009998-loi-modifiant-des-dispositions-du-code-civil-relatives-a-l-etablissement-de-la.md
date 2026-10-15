@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/01/2006009998/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2006 et mise à jour au 31-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUILLET 2006. - Loi modifiant des dispositions du Code civil relatives à l'établissement de la filiation et aux effets de celle-ci.

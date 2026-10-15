@@ -12,7 +12,7 @@ entry_into_force: 2003-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/08/20/2003015037/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 AOUT 2000. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République d'Albanie, concernant l'encouragement et la protection réciproques des investissements, fait à Tirana le 1er février 1999.

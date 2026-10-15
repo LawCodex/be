@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/01/2022041616/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUILLET 2022. - Décret modifiant l'article 5 du décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique Grandir régie (" Opgroeien regie "), modifiant le décret relatif au Panier de croissance de 2018 et interprétant l'article 8 du décret relatif au Panier de croissance de 2018

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/03/20/1991014096/justel"
 department: "Communications"
 justel_note: "Consultation des versions antérieures à partir du 04-09-1992 et mise à jour au 06-10-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 1991. - Loi organisant l'agréation d'entrepreneurs de travaux.

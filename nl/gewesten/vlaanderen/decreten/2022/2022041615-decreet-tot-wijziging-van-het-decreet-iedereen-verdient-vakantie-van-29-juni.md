@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/01/2022041615/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2022. - Decreet tot wijziging van het decreet 'Iedereen verdient vakantie' van 29 juni 2018

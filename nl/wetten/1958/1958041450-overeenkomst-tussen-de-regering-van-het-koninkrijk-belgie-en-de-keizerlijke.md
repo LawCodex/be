@@ -9,7 +9,7 @@ language: nl
 date: 1958-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1958/04/14/1958041450/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 APRIL 1958. - Overeenkomst tussen de Regering van het Koninkrijk België en de Keizerlijke Regering van Iran inzake het luchtvervoer tussen hun grondgebieden en verdere landen.

@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/13/2014202099/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2014. - Decreet tot wijziging van het Wetboek van de plaatselijke democratie en de decentralisatie en van diverse bepalingen betreffende het toezicht over de instellingen belast met het beheer van de temporaliën van de erkende erediensten

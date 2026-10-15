@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/26/2022043205/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBER 2022. - Wet tot hervorming van het statuut van de gerechtsdeurwaarders en andere diverse bepalingen

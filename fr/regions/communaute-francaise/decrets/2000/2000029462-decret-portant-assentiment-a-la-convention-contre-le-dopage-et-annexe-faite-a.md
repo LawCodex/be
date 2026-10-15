@@ -13,7 +13,7 @@ entry_into_force: 2001-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/12/12/2000029462/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2000. - Décret portant assentiment à la convention contre le dopage et annexe, faite à Strasbourg le 16 novembre 1989.

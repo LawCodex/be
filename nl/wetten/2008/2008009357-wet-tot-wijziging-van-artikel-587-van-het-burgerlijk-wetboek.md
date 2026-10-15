@@ -12,7 +12,7 @@ entry_into_force: 2008-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/04/23/2008009357/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 2008. - Wet tot wijziging van artikel 587 van het Burgerlijk Wetboek.

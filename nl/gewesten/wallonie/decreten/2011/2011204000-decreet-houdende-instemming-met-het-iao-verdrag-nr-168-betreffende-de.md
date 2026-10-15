@@ -13,7 +13,7 @@ entry_into_force: 2011-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/20/2011204000/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2011. - Decreet houdende instemming met het IAO-verdrag nr. 168 betreffende de bevordering van werkgelegenheid en de bescherming tegen werkloosheid, aangenomen door de Internationale Arbeidsconferentie tijdens haar vijfenzeventigste zitting in Genève op 21 juni 1988

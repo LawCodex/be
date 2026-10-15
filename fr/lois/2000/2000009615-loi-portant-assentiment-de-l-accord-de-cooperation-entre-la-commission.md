@@ -12,7 +12,7 @@ entry_into_force: 2000-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/03/12/2000009615/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MARS 2000. - Loi portant assentiment de l'accord de coopération entre la Commission communautaire commune, la Commission communautaire française et l'Etat fédéral relatif à la guidance et au traitement d'auteurs d'infractions à caractère sexuel.

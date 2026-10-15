@@ -13,7 +13,7 @@ entry_into_force: 2008-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/21/2008035177/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2007. - Décret portant assentiment au protocole n° 7 à la Convention de sauvegarde des Droits de l'Homme et des Libertés fondamentales, faite à Strasbourg le 22 novembre 1984 (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/06/23/2017020460/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2017. - Ordonnantie houdende instemming met het Akkoord tussen het Koninkrijk België en de Caymaneilanden inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te George Town op 24 april 2014

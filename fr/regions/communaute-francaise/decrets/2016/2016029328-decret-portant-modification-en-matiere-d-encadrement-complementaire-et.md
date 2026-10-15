@@ -13,7 +13,7 @@ entry_into_force: 2016-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/16/2016029328/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2016. - Décret portant modification en matière d'encadrement complémentaire et organique de personnel de l'enseignement

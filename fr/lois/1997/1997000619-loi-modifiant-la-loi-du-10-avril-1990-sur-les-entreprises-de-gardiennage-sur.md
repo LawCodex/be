@@ -12,7 +12,7 @@ entry_into_force: 1997-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/07/18/1997000619/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1997. - Loi modifiant la loi du 10 avril 1990 sur les entreprises de gardiennage, sur les entreprises de sécurité et sur les services internes de gardiennage, la loi du 19 juillet 1991 organisant la profession de détective privé et la loi du 3 janvier 1933 relative à la fabrication, au commerce et au port des armes et au commerce des munitions.

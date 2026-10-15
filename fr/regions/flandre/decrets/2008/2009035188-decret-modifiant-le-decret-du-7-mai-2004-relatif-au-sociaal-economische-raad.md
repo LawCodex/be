@@ -13,7 +13,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/19/2009035188/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2008. - Décret modifiant le décret du 7 mai 2004 relatif au " Sociaal-Economische Raad van Vlaanderen " (Conseil socio-économique de la Flandre), le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement et le décret du 30 avril 2004 relatif à l'obtention d'un titre de compétence professionnelle (TRADUCTION).

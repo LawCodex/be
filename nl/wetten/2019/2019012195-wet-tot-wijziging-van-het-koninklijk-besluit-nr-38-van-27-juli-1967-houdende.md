@@ -11,7 +11,7 @@ published: 2019-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/21/2019012195/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2019. - Wet tot wijziging van het koninklijk besluit nr. 38 van 27 juli 1967 houdende inrichting van het sociaal statuut der zelfstandigen, voor wat betreft de moederschapshulp en de instelling van de adoptiehulp

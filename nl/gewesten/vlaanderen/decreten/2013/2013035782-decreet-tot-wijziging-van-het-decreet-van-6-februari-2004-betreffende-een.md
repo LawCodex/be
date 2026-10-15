@@ -11,7 +11,7 @@ date: 2013-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/12/2013035782/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2013. - Decreet tot wijziging van het decreet van 6 februari 2004 betreffende een waarborgregeling voor kleine, middelgrote en grote ondernemingen en tot wijziging van het decreet van 19 mei 2006 betreffende de Winwinlening

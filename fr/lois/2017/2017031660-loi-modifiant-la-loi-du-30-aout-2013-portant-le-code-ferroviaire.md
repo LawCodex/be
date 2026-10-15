@@ -12,7 +12,7 @@ entry_into_force: 2017-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/11/23/2017031660/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2017. - Loi modifiant la loi du 30 août 2013 portant le Code ferroviaire

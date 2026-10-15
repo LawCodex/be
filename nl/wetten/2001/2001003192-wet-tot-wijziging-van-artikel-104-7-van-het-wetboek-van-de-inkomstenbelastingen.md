@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/03/23/2001003192/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2001. - Wet tot wijziging van artikel 104, 7°, van het Wetboek van de inkomstenbelastingen 1992.

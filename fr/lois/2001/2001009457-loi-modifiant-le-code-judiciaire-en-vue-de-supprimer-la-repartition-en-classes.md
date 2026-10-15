@@ -12,7 +12,7 @@ entry_into_force: 2001-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/06/15/2001009457/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2001. - Loi modifiant le Code judiciaire en vue de supprimer la répartition en classes des justices de paix et d'adapter le traitement de certains greffiers en chef et secrétaires en chef de parquets.

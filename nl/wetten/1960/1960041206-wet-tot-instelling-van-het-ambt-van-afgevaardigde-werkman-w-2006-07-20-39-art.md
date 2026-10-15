@@ -11,7 +11,7 @@ published: 1960-06-09
 entry_into_force: 1960-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1960/04/12/1960041206/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 APRIL 1960. - [Wet tot instelling van het ambt van afgevaardigde-werkman] &lt;W 2006-07-20/39, art. 274, 002; Inwerkingtreding : 07-08-2006&gt;

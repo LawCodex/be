@@ -12,7 +12,7 @@ published: 2016-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/10/20/2016205450/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OKTOBER 2016. - Decreet houdende instemming met het samenwerkingsakkoord van 16 oktober 2015 tot wijziging van het samenwerkingsakkoord van 2 september 2013 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de opneming van luchtvaartactiviteiten in de regeling voor de handel in broeikasgasemissierechten overeenkomstig Richtlijn 2008/101/EG van het Europees Parlement en de Raad van 19 november 2008 tot wijziging van Richtlijn 2003/87/EG teneinde ook luchtvaartactiviteiten op te nemen in de regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap

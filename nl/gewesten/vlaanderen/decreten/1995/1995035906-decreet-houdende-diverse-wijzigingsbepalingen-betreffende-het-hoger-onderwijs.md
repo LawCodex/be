@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/19/1995035906/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-07-1995 en tekstbijwerking tot 29-08-1998"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 1995. - Decreet houdende diverse wijzigingsbepalingen betreffende het hoger onderwijs in de Vlaamse Gemeenschap.

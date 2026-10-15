@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1893/07/25/1893072550/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 27-02-2014 et mise à jour au 30-12-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUILLET 1893. - [Loi relative aux déclarations d'appel des personnes détenues ou internées] &lt;L 2014-02-14/02 , art. 45, 002; En vigueur : 01-02-2015&gt;

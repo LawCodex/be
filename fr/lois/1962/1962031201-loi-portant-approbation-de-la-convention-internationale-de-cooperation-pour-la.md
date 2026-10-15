@@ -11,7 +11,7 @@ published: 1963-03-30
 entry_into_force: 1963-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1962/03/12/1962031201/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MARS 1962. - Loi portant approbation de la Convention internationale de coopération pour la sécurité de la navigation aérienne " Eurocontrol ", des annexes I et II et du protocole de signature, signés à Bruxelles le 13 décembre 1960.

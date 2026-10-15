@@ -13,7 +13,7 @@ last_amended: 2008-09-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1952/07/12/1952071211/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 10-06-1995 en tekstbijwerking tot 12-09-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 1952. - Wet waarbij de Koning gemachtigd wordt bossen en wouden, eigendom van de provinciën, onder bosregime te plaatsen. (NOTE 1 : Opgeheven voor het Waalse Gewest bij DWG 2008-07-15/44 , art. 118, 003; Inwerkingtreding : 14-09-2009)

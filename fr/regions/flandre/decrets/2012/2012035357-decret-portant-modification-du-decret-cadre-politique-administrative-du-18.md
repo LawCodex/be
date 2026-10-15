@@ -13,7 +13,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/16/2012035357/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2012. - Décret portant modification du décret cadre politique administrative du 18 juillet 2003 en ce qui concerne les tâches d'encadrement politique au sein d'une agence autonomisée interne

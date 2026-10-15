@@ -11,7 +11,7 @@ published: 1978-10-06
 entry_into_force: 1978-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1978/02/08/1978020829/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 1978. \_ Wet houdende goedkeuring van het Internationale Verdrag betreffende de televerbindingen, van de BijgevoegdeAkten en van het Facultatieve Additionele Protocol inzake de verplichte beslechting van de geschillen, opgemaakt te Malaga-Torremolinos, op 25 oktober 1973.

@@ -13,7 +13,7 @@ entry_into_force: 2007-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/14/2006204184/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2006. - Decreet houdende omzetting van Richtlijn 2003/98/EG van het Europees Parlement en de Raad van 17 november 2003 inzake het hergebruik van overheidsinformatie en betreffende de openbaarheid van bestuur voor de aangelegenheden waarin het Gewest de bevoegdheden van de Franse Gemeenschap uitoefent (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 1998-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/11/1998010043/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 1998. - Loi modifiant le titre préliminaire du Code de procédure pénale, en ce qui concerne la prescription de l'action publique.

@@ -13,7 +13,7 @@ entry_into_force: 2004-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/18/2004200651/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2003. - Decreet houdende wijziging van het decreet van 23 maart 1995 houdende oprichting van een Gewestelijk Hulpcentrum voor gemeenten dat moet zorgen voor de opvolging en de controle op de beheersplannen van de gemeenten en provincies en dat het financiële evenwicht van de gemeenten en provincies van het Waalse Gewest moet helpen handhaven (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2004-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/10/27/2003033105/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 2003. - Decreet houdende instemming met het facultatief protocol inzake de verkoop van kinderen, kinderprostitutie en kinderpornografie bij het verdrag inzake de rechten van het kind, opgemaakt in New York op 25 mei 2000 (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2017-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/10/22/2017013708/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2017. - Loi portant des dispositions fiscales diverses I

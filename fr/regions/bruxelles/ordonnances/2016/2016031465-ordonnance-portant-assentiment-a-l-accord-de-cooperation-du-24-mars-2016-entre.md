@@ -13,7 +13,7 @@ entry_into_force: 2016-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/06/23/2016031465/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2016. - Ordonnance portant assentiment à l'accord de coopération du 24 mars 2016 entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à la création d'un organe de conciliation dans le cadre des systèmes de télépéage sur le territoire des trois Régions

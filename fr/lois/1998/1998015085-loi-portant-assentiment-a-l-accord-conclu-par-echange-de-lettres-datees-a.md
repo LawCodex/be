@@ -12,7 +12,7 @@ entry_into_force: 1998-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/01/15/1998015085/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 1998. - Loi portant assentiment à l'Accord conclu par échange de lettres datées à Bruxelles les 28 et 29 février 1996 entre le Royaume de Belgique et le Royaume des Pays-Bas portant prorogation de l'accord concernant le statut des officiers de liaison belges attachés à l'Unité Drogues Europol à La Haye.

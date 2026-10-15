@@ -12,7 +12,7 @@ entry_into_force: 1991-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/07/18/1991009964/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1991. - Loi modifiant l'organisation du ministère public auprès des tribunaux de police.

@@ -12,7 +12,7 @@ entry_into_force: 2012-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/14/2012031598/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUNI 2012. - Decreet houdende de goedkeuring van het Samenwerkingsakkoord tussen de Franse Gemeenschap, het Waals Gewest en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest, enerzijds, en de Republiek Kroatië, anderzijds, ondertekend te Namen op 21 december 2010

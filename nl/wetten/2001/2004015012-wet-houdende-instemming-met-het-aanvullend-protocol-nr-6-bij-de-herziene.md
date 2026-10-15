@@ -12,7 +12,7 @@ entry_into_force: 2004-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/08/10/2004015012/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2001. - Wet houdende instemming met het Aanvullend Protocol nr. 6 bij de Herziene Rijnvaartakte, gedaan te Straatsburg op 21 oktober 1999.

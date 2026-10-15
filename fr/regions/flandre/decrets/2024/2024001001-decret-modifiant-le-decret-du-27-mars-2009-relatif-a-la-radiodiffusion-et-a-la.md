@@ -13,7 +13,7 @@ entry_into_force: 2024-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/26/2024001001/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2024. - Décret modifiant le décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision, portant exécution partielle du règlement sur les services numériques

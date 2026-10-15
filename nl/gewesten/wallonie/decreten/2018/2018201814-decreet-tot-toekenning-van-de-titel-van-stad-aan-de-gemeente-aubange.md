@@ -13,7 +13,7 @@ entry_into_force: 2018-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/29/2018201814/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2018. - Decreet tot toekenning van de titel van stad aan de gemeente Aubange

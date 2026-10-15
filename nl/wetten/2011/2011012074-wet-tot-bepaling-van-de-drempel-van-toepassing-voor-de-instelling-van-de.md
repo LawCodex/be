@@ -12,7 +12,7 @@ entry_into_force: 2011-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/07/28/2011012074/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JULI 2011. - Wet tot bepaling van de drempel van toepassing voor de instelling van de ondernemingsraden of de vernieuwing van hun leden ter gelegenheid van de sociale verkiezingen van het jaar 2012

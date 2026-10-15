@@ -12,7 +12,7 @@ entry_into_force: 2019-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/13/2019041004/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 2019. - Loi instaurant un taux de T.V.A. réduit pour les bicyclettes et bicyclettes électriques

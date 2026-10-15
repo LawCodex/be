@@ -12,7 +12,7 @@ published: 2012-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/07/23/2012031655/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 2012. - Ordonnantie tot wijziging van de ordonnantie van 17 juli 2003 houdende de Brusselse Huisvestingscode

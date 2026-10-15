@@ -13,7 +13,7 @@ entry_into_force: 2015-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/22/2015203375/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2015. - Decreet houdende instemming met de Associatieovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en de Republiek Moldavië, anderzijds, gedaan te Brussel op 27 juni 2014

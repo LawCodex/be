@@ -13,7 +13,7 @@ entry_into_force: 2019-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/25/2019013222/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2019. - Décret visant à modifier le décret du 17 juillet 2003 relatif à une intervention dans les frais de transport en commun public et/ou dans l'utilisation de la bicyclette des membres du personnel en vue d'y inclure notamment la bicyclette à assistance électrique

@@ -12,7 +12,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/06/27/1994021219/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 1994. - Loi modifiant la loi du 6 janvier 1989 relative aux traitements et pensions des juges, des référendaires et des greffiers de la Cour d'arbitrage.

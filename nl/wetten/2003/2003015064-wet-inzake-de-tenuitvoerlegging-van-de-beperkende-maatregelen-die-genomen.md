@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/13/2003015064/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
 justel_note: "Raadpleging van vroegere versies vanaf 13-06-2003 en tekstbijwerking tot 28-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2003. - Wet inzake de tenuitvoerlegging van de beperkende maatregelen die genomen worden door de Raad van de Europese Unie ten aanzien van Staten, sommige personen en entiteiten

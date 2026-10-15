@@ -13,7 +13,7 @@ entry_into_force: 1999-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/03/02/1999035546/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 1999. - Decreet tot bekrachtiging van het besluit van de Vlaamse regering van 1 december 1998 tot bepaling van de ontwikkelingsdoelen voor het buitengewoon basisonderwijs type 2.

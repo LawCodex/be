@@ -13,7 +13,7 @@ entry_into_force: 2008-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/01/2008029168/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er FEVRIER 2008. - Décret portant assentiment à l'accord de coopération entre la Région wallonne et la Communauté française sur l'utilisation conjointe d'infrastructures en milieu rural.

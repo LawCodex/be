@@ -13,7 +13,7 @@ entry_into_force: 2018-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/16/2018015257/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2018. - Décret portant diverses dispositions en matière d'énergie

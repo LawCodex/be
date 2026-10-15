@@ -13,7 +13,7 @@ entry_into_force: 2024-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/03/07/2024002045/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2024. - Ordonnance modifiant l'ordonnance du 2 mai 2013 portant le Code bruxellois de l'Air, du Climat et de la Maîtrise de l'Energie en vue de mettre en oeuvre la stratégie de rénovation du bâti

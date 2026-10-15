@@ -12,7 +12,7 @@ entry_into_force: 2021-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/05/20/2021042005/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 2021. - Wet tot wijziging van het oud Burgerlijk Wetboek, betreffende de persoonlijke banden tussen broers en zussen

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/03/17/1997029178/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 23-05-1997 et mise à jour au 04-09-2006."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 1997. - Décret fixant le statut des commissaires auprès des hautes écoles. -

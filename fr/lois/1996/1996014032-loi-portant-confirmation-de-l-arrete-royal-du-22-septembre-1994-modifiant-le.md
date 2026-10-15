@@ -12,7 +12,7 @@ entry_into_force: 1996-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/02/09/1996014032/justel"
 department: "Communications"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 1996. - Loi portant confirmation de l'arrêté royal du 22 septembre 1994 modifiant le titre III de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques.

@@ -13,7 +13,7 @@ entry_into_force: 2016-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/01/22/2016035138/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 2016. - Decreet houdende instemming met de overeenkomst tussen het Koninkrijk België, vertegenwoordigd door zijn regering, en de Staat Israël, vertegenwoordigd door zijn regering, inzake het verrichten van betaalde werkzaamheden door gezinsleden van personeel van een diplomatieke zending of een consulaire post, ondertekend te Jeruzalem op 11 november 2013

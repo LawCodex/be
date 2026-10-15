@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/07/10/1996003316/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 21-08-1996 en tekstbijwerking tot 04-03-1998"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 1996. - Wet houdende eerste aanpassing van de Algemene uitgavenbegroting van het begrotingsjaar 1996.

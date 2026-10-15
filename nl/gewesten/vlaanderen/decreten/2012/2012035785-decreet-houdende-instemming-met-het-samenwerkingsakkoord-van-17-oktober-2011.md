@@ -13,7 +13,7 @@ entry_into_force: 2012-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/29/2012035785/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2012. - Decreet houdende instemming met het Samenwerkingsakkoord van 17 oktober 2011 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH)

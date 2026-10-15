@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/03/04/2004012078/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 26-03-2004 en tekstbijwerking tot 22-05-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 2004. - Wet houdende toekenning van aanvullende voordelen inzake rustpensioen aan personen die werden aangesteld om een management- of staffunctie uit te oefenen in een overheidsdienst.

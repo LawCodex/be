@@ -17,7 +17,7 @@ department: "Autorité flamande"
 justel_notes:
   - "L'intitulé est remplacé par DCFL 2012-07-13/45 , art.45 , 002; En vigueur : 01-10-2013, comme suit : \" Décret spécial relatif à l'institut supérieur Hogere Zeevaartschool \""
   - "Consultation des versions antérieures à partir du 29-04-2009 et mise à jour au 17-09-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2009. - Décret spécial portant création de la 'Vlaamse autonome hogeschool Hogere Zeevaartschool' et portant transfert du pouvoir organisateur de l'enseignement supérieur maritime de la Communauté flamande

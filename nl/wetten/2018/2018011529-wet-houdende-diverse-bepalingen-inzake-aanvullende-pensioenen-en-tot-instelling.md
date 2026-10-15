@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/02/18/2018011529/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 30-03-2018 en tekstbijwerking tot 29-07-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEBRUARI 2018. - Wet houdende diverse bepalingen inzake aanvullende pensioenen en tot instelling van een aanvullend pensioen voor de zelfstandigen actief als natuurlijk persoon, voor de meewerkende echtgenoten en voor de zelfstandige helpers

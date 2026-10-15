@@ -13,7 +13,7 @@ entry_into_force: 2017-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/06/23/2017040339/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2017. - Ordonnantie tot wijziging van de ordonnantie van 20 oktober 2006 tot opstelling van een kader voor het waterbeleid en met betrekking tot de fusie van de wateroperatoren

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/06/30/2003033073/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 10-10-2003 et mise à jour au 14-10-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2003. - Décret portant des mesures urgentes en matière d'enseignement 2003 (TRADUCTION)

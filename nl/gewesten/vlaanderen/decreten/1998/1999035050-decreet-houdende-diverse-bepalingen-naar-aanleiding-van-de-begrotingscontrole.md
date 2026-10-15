@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/12/08/1999035050/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 26-01-1999 en tekstbijwerking tot 28-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 1998. - Decreet houdende diverse bepalingen naar aanleiding van de begrotingscontrole 1998

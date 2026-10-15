@@ -11,7 +11,7 @@ published: 2011-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/06/19/2011015122/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2008. - Wet houdende instemming met het Verdrag inzake de verzameling, afgifte en inname van afval in Rijn- en binnenvaart, met de Bijlagen 1 en 2, en de Aanhangsels I, II, III, IV en V, gedaan te Strasbourg op 9 september 1996. - Addendum

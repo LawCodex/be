@@ -11,7 +11,7 @@ published: 1975-04-08
 entry_into_force: 1975-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1975/03/28/1975032801/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 1975. - Wet houdende vermindering van het vereiste aantal dienstjaren in de ondergrondse steenkolenmijnen voor het toekennen van een volledig rustpensioen.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/02/13/1998012088/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 19-02-1998 et mise à jour au 01-08-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 1998. - Loi portant des dispositions en faveur de l'emploi.

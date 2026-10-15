@@ -13,7 +13,7 @@ entry_into_force: 2020-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/06/11/2020041636/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2020. - Ordonnance portant assentiment de l'accord de coopération du 12 décembre 2019 entre la Région de Bruxelles-Capitale et la Commission communautaire commune portant sur la désignation d'un intégrateur de services commun pour l'échange électronique de données

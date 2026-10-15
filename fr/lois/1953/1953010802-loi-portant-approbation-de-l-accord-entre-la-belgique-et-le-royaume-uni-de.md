@@ -11,7 +11,7 @@ published: 1953-01-25
 entry_into_force: 1953-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1953/01/08/1953010802/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JANVIER 1953. - Loi portant approbation de l'Accord entre la Belgique et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, relatif aux services aériens entre leurs territoires respectifs et au-delà, signé à Londres, le 8 mai 1951.

@@ -13,7 +13,7 @@ entry_into_force: 2025-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/23/2024006341/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2024. - decreet en ordonnantie van het Brussels Hoofdstedelijk Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Franse Gemeenschapscommissie houdende het Brussels Wetboek inzake de gelijkheid, de non-discriminatie en de bevordering van diversiteit

@@ -13,7 +13,7 @@ entry_into_force: 2019-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/03/28/2019011413/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2019. - Ordonnantie houdende instemming met: bepaalde wijzigingen bij het Internationaal Verdrag van 1973 ter voorkoming van verontreiniging door schepen, opgemaakt te Londen op 2 november 1973 (MARPOL), aangenomen op basis van artikel 16 van dit Verdrag

@@ -13,7 +13,7 @@ entry_into_force: 2019-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/28/2019013459/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2019. - Décret portant diverses mesures en matière d'immersion linguistique, des jurys délivrant le certificat de connaissance approfondie de la langue d'immersion, délivrant le certificat de connaissance de la langue d'enseignement et des commissions linguistiques

@@ -12,7 +12,7 @@ entry_into_force: 1993-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/05/03/1993015020/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 1991. - Loi portant de la Convention entre le Royaume de Belgique et la République du Sénégal tendant éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur les revenus, signée à Bruxelles le 29 septembre 1987.

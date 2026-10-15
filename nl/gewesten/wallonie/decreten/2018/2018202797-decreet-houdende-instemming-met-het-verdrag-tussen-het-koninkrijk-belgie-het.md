@@ -13,7 +13,7 @@ entry_into_force: 2018-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/24/2018202797/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 2018. - Decreet houdende instemming met het Verdrag tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden over de Benelux Interparlementaire Assemblee, ondertekend te Brussel op 20 januari 2015

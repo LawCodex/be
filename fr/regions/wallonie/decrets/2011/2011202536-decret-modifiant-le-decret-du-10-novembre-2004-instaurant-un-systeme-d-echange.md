@@ -13,7 +13,7 @@ entry_into_force: 2011-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/05/19/2011202536/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2011. - Décret modifiant le décret du 10 novembre 2004 instaurant un système d'échange de quotas d'émission de gaz à effet de serre, créant un Fonds wallon Kyoto et relatif aux mécanismes de flexibilité du protocole de Kyoto

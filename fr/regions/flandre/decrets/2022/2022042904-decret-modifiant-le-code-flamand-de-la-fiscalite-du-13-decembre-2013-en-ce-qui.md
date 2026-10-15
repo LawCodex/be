@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/11/25/2022042904/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2022. - Décret modifiant le Code flamand de la Fiscalité du 13 décembre 2013, en ce qui concerne le classement en catégories d'appareils automatiques de divertissement

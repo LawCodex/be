@@ -12,7 +12,7 @@ entry_into_force: 2024-02-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/02/08/2024001508/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 2024. - Loi modifiant la loi du 13 juin 2005 relative aux communications électroniques et modifiant les dispositions relatives aux communications non souhaitées dans le Code de droit économique

@@ -12,7 +12,7 @@ entry_into_force: 1995-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/12/23/1995018013/justel"
 department: "Middenstand - Landbouw"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1994. - Wet tot wijziging van de wet van 15 december 1970 inzake de uitoefening van beroepsactiviteiten in de kleine en middelgrote handels- en ambachtsondememingen.

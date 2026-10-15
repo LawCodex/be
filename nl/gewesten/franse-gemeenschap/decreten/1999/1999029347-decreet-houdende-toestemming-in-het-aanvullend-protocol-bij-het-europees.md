@@ -12,7 +12,7 @@ published: 1999-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/05/1999029347/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1999. - Decreet houdende toestemming in het aanvullend protocol bij het Europees Sociaal Handvest en de bijlage, opgemaakt te Straatsburg op 5 mei 1988 (VERTALING).

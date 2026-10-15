@@ -12,7 +12,7 @@ entry_into_force: 2006-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/03/2006003577/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2006. - Loi complétant l'article 149 du Code des droits de succession en ce qui concerne l'exonération de la taxe compensatoire des droits de succession pour les associations sans but lucratif qui rendent des zones naturelles accessibles au public.

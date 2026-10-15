@@ -13,7 +13,7 @@ entry_into_force: 2019-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/26/2019012341/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2019. - Décret portant modification du Décret sur l'Energie du 8 mai 2009, en ce qui concerne le CPAS comme promoteur de l'utilisation rationnelle de l'énergie et de l'utilisation de sources d'énergie renouvelables

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/06/02/2010009590/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 01-07-2010 et mise à jour au 01-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2010. - Loi comportant des dispositions de droit pénal social

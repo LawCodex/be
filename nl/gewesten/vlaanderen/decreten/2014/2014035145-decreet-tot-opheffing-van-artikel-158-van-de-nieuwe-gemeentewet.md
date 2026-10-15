@@ -13,7 +13,7 @@ entry_into_force: 2014-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/17/2014035145/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANUARI 2014. - Decreet tot opheffing van artikel 158 van de Nieuwe Gemeentewet

@@ -12,7 +12,7 @@ entry_into_force: 2014-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/06/29/2014015216/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2014. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et le Fonds monétaire international sur l'établissement en Belgique d'un Bureau de liaison de cette Organisation, fait à Bruxelles le 16 mars 2004

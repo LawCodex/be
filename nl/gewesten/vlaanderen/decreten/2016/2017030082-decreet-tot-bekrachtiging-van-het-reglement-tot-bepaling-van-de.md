@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/11/25/2017030082/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2016. - Decreet tot bekrachtiging van het reglement tot bepaling van de bestuursbeginselen die van toepassing zijn bij de besluitvorming door de Nederlands-Vlaamse Accreditatieorganisatie inzake het hoger onderwijs in de Vlaamse Gemeenschap en houdende andere bepalingen inzake kwaliteitszorg en accreditatie in het hoger onderwijs

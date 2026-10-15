@@ -12,7 +12,7 @@ entry_into_force: 1997-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/05/27/1997022422/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 1997. - Loi portant des dispositions relatives à l'expertise vétérinaire.

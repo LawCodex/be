@@ -13,7 +13,7 @@ entry_into_force: 1995-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/11/23/1994036578/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 1994. - DECRET portant approbation des actes internationaux cités ci-après : 1. l'Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République tchèque, d'autre part, aux Annexes I, II, III, IV, V, VI, VII, VIII, IX, X, XIa, XIb, XII, XIII, XIV, XV, XVIa, XVIb, XVIc et XVII, aux Protocoles 1, 2, 3, 4, 5, 6, 7 et 8, et l'Acte final, faits à Luxembourg le 4 octobre 1993; 2. l'Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République slovaque, d'autre part, aux Annexes I, II, III, IV, V, VI, VII, VIII, IX, X, XIa, XIb, XII, XIII, XIV, XV, XVIa, XVIb, XVIc et XVII, aux Protocoles 1, 2, 3, 4, 5, 6, 7 et 8, et l'Acte final, faits à Luxembourg le 4 octobre 1993

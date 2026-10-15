@@ -11,7 +11,7 @@ published: 2005-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/06/21/2005003558/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2005. - Wet houdende bepalingen die gelijkwaardig zijn aan de bepalingen waarin, wat België betreft, is voorzien in de overeenkomsten betreffende belastingheffing op inkomsten uit spaargelden, die werden gesloten tussen het Koninkrijk België en het Koninkrijk der Nederlanden met betrekking tot de Nederlandse Antillen enerzijds en Aruba anderzijds, en tussen het Koninkrijk België en respectievelijk Guernesey, het eiland Man, Jersey, Anguilla, de Britse Maagdeneilanden, Montserrat en de Turks en Caicos Eilanden.

@@ -13,7 +13,7 @@ entry_into_force: 2013-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/19/2013204687/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2013. - Decreet houdende wijziging van artikel 15, § 9, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn

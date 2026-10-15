@@ -13,7 +13,7 @@ entry_into_force: 2015-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/07/03/2015035873/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2015. - Décret modifiant le décret du 7 mai 2004 relatif aux sociétés d'investissement des autorités flamandes, pour ce qui concerne les autorisations et l'objet de la " Vlaamse Participatiemaatschappij " (Société flamande de Participation)

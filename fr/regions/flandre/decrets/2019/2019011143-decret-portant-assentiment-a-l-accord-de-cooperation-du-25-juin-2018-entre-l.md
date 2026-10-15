@@ -13,7 +13,7 @@ entry_into_force: 2019-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/01/2019011143/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2019. - Décret portant assentiment à l'accord de coopération du 25 juin 2018 entre l'Etat fédéral, la Communauté française et la Communauté flamande relatif à la protection culturelle du livre

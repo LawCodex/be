@@ -16,7 +16,7 @@ department: "Finances"
 justel_notes:
   - "Le chapitre VI (art. 73-85) est abrogé le 1er juillet 2022, par L 2014-01-06/65 , art. 14"
   - "Consultation des versions antérieures à partir du 31-12-1992 et mise à jour au 31-01-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUILLET 1992. - Loi portant des dispositions fiscales et financières.

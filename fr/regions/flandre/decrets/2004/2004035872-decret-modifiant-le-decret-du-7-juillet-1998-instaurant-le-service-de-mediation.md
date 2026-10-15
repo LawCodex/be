@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035872/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret modifiant le décret du 7 juillet 1998 instaurant le service de médiation flamand, en ce qui concerne la protection de fonctionnaires qui dénoncent des irrégularités (TRADUCTION).

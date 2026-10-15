@@ -12,7 +12,7 @@ entry_into_force: 2001-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/04/1999000426/justel"
 department: "Intérieur - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 1999. - Loi visant à limiter le cumul de la fonction de député permanent avec d'autres fonctions et à harmoniser le statut financier et fiscal des députés permanents.

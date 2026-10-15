@@ -12,7 +12,7 @@ entry_into_force: 2006-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/01/2006007135/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er MAI 2006. - Loi modifiant la loi du 11 juillet 1978 organisant les relations entre les autorités publiques et les syndicats du personnel militaire.

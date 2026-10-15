@@ -13,7 +13,7 @@ entry_into_force: 1994-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/11/23/1994031165/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 1993. - Decreet waarbij de publiekrechtelijke vennootschap belast met het bestuur van de schoolgebouwen van het door de overheid georganiseerde onderwijs gemachtigd wordt leningen aan te gaan met de waarborg van de Franse Gemeenschapscommissie. (Vertaling).

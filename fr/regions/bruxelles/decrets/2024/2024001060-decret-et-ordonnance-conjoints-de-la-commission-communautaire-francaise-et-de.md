@@ -13,7 +13,7 @@ entry_into_force: 2024-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/25/2024001060/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2024. - Décret et ordonnance conjoints de la Commission communautaire française et de la Commission communautaire commune relatifs à l'adoption et à la mise en oeuvre du Plan social santé intégré bruxellois

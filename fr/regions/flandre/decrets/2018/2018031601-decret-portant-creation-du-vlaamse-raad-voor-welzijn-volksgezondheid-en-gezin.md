@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/29/2018031601/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 03-08-2018 et mise à jour au 13-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2018. - Décret portant création du " Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin " (Conseil flamand pour l'Aide sociale, la Santé publique et la Famille)

@@ -13,7 +13,7 @@ entry_into_force: 2002-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/13/2002028143/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2002. - Décret portant assentiment à l'Accord de coopération entre la Communauté française, la Région wallonne et le Collège de la Commission communautaire française de la Région de Bruxelles-Capitale, d'une part, et le Québec, d'autre part, et à la déclaration commune y annexée, faits à Bruxelles le 22 mars 1999.

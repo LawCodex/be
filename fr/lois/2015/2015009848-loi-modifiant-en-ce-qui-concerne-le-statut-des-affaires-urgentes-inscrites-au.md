@@ -12,7 +12,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/18/2015009848/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - Loi modifiant, en ce qui concerne le statut des affaires urgentes inscrites au rôle du tribunal de la famille, la loi du 19 octobre 2015 modifiant le droit de la procédure civile et portant des dispositions diverses en matière de justice

@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1928/08/12/1928081251/justel"
 justel_notes:
   - "OPGELET, Voor het Kieswetboek vanaf 2003, zien KIESW 1894-04-12/30 "
   - "raadpleging van vroegere versies vanaf 23-03-1999 en tekstbijwerking tot 08-05-2002"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AUGUSTUS 1928. - Kieswetboek (Titel I en II : art. 1 tot en met 86).

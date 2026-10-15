@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/12/2024003880/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 30-05-2024 en tekstbijwerking tot 31-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2024. - Wet tot digitalisatie van de relaties tussen de Federale Overheidsdienst Financiën, de burgers, de bedrijven, de rechtspersonen en bepaalde derden en tot opheffing van de wet van 26 januari 2021 betreffende de dematerialisatie van de relaties tussen de Federale Overheidsdienst Financiën, de burgers, rechtspersonen en bepaalde derden en tot wijziging van diverse fiscale wetboeken en wetten

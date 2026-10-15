@@ -12,7 +12,7 @@ entry_into_force: 2008-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/07/25/2008009699/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JUILLET 2008. - Loi modifiant la loi du 8 juin 2006 réglant des activités économiques et individuelles avec des armes.

@@ -12,7 +12,7 @@ entry_into_force: 2005-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/08/10/2005022819/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2005. - Wet tot wijziging van het koninklijk besluit nr. 72 van 10 november 1967 betreffende het rust- en overlevingspensioen der zelfstandigen wat de schorsing en de herkrijging van het recht op een overlevingspensioen betreft.

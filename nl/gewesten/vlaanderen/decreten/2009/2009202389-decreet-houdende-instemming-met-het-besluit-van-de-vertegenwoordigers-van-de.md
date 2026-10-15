@@ -13,7 +13,7 @@ entry_into_force: 2009-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/03/2009202389/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2009. - Decreet houdende instemming met het besluit van de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, betreffende de voorrechten en immuniteiten die aan het Europees Defensieagentschap en zijn personeel worden verleend, ondertekend in Brussel op 10 november 2004

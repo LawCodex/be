@@ -13,7 +13,7 @@ entry_into_force: 2023-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/06/01/2023042715/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2023. - Ordonnantie tot wijziging van de ordonnantie van 25 april 2019 betreffende het herstel van sommige schade veroorzaakt door algemene rampen

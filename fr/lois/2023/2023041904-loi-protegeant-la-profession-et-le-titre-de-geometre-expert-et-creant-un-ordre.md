@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/27/2023041904/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 19-06-2023 et mise à jour au 07-05-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2023. - Loi protégeant la profession et le titre de géomètre-expert et créant un Ordre des géomètres-experts

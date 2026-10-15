@@ -12,7 +12,7 @@ entry_into_force: 2003-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/26/2003009419/justel"
 department: "Economie, KMO, Middenstand en Energie - Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2003. - Wet tot wijziging van de wet van 5 augustus 1991 betreffende de in-, uit- en doorvoer van en de bestrijding van illegale handel in wapens, munitie en speciaal voor militair gebruik dienstig materieel en daaraan verbonden technologie.

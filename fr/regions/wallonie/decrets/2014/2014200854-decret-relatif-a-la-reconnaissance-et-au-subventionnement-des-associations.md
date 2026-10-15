@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/23/2014200854/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 10-02-2014 et mise à jour au 05-04-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 2014. - Décret relatif à la reconnaissance et au subventionnement des associations environnementales et modifiant le Livre Ier du Code de l'Environnement et le décret du 6 novembre 2008 portant rationalisation de la fonction consultative

@@ -13,7 +13,7 @@ entry_into_force: 2026-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/04/24/2026003605/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2026. - Decreet tot wijziging van het decreet van 29 maart 2024 over het vervoer van koolstofdioxide via pijpleidingen in het Vlaamse Gewest, wat het versneld operationaliseren en marktklaar maken van pijpleidingeninfrastructuur betreft

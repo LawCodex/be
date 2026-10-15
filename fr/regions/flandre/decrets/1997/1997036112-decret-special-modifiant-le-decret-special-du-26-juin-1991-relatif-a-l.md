@@ -13,7 +13,7 @@ entry_into_force: 1991-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/15/1997036112/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 1997. - Décret spécial modifiant le décret spécial du 26 juin 1991 relatif à l'" Universiteit Gent " et à l'" Universitair Centrum Antwerpen " (TRADUCTION).

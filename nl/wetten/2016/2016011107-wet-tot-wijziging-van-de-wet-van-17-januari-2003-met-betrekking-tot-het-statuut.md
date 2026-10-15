@@ -12,7 +12,7 @@ entry_into_force: 2016-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/03/04/2016011107/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 2016. - Wet tot wijziging van de wet van 17 januari 2003 met betrekking tot het statuut van de regulator van de Belgische post- en telecommunicatiesector wat de administratieve boetes betreft (aangehaald als : Wet administratieve boetes rechtspersonen)

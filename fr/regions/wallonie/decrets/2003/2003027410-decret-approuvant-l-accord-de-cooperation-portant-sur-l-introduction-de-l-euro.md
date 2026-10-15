@@ -13,7 +13,7 @@ entry_into_force: 2003-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/05/15/2003027410/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2003. - Décret approuvant l'Accord de coopération portant sur l'introduction de l'euro dans l'Accord de coopération du 30 mai 1996 concernant la prévention et la gestion des déchets d'emballages.

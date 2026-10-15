@@ -13,7 +13,7 @@ entry_into_force: 2023-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/20/2023045327/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2023. - Decreet betreffende de digitalisering en operationalisering van de procedures voor uitzonderlijk zittenblijven die van toepassing zijn tijdens het traject van de leerling in de gemeenschappelijke kern

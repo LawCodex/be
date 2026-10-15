@@ -12,7 +12,7 @@ entry_into_force: 2003-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/19/2003000152/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 FEBRUARI 2003. - Wet tot wijziging van de wet van 23 maart 1989 betreffende de verkiezing van het Europees Parlement wat betreft de vermelding van de politieke partijen boven de kandidatenlijsten op de stembiljetten.

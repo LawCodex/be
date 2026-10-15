@@ -13,7 +13,7 @@ entry_into_force: 2014-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/13/2014029196/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2014. - Decreet tot instemming met het samenwerkingsakkoord van 4 december 2012 tussen de Franse Gemeenschap en het Waalse Gewest over de financiering van het strategische fundamentele onderzoek in het kader van gekruiste beleidskeuzen

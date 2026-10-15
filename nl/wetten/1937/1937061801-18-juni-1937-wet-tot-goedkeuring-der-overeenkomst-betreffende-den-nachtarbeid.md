@@ -11,7 +11,7 @@ published: 1938-03-02
 entry_into_force: 1938-03-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1937/06/18/1937061801/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 1937. \_ Wet tot goedkeuring der Overeenkomst betreffende den nachtarbeid van vrouwen, aangenomen te Genève, den 19° Juni 1934, door de Internationale Arbeidsconferentie tijdens haar 18° zitting.

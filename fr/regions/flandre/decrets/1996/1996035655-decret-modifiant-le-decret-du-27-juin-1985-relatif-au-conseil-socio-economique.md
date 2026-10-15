@@ -13,7 +13,7 @@ entry_into_force: 1996-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/05/14/1996035655/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAI 1996. - Décret modifiant le décret du 27 juin 1985 relatif au Conseil socio-économique de la Flandre (TRADUCTION).

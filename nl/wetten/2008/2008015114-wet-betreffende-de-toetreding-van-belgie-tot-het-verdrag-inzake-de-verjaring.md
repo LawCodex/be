@@ -11,7 +11,7 @@ published: 2008-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/07/15/2008015114/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2008. - Wet betreffende de toetreding van België : - tot het Verdrag inzake de verjaring bij internationale koop van roerende zaken, gedaan te New York op 14 juni 1974, en - tot het Protocol tot wijziging van het Verdrag inzake de verjaring bij internationale koop van roerende zaken, gedaan te Wenen op 11 april 1980.

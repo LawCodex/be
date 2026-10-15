@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/05/10/2004003205/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 24-05-2004 et mise à jour au 31-12-2004"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAI 2004. - Loi modifiant l'article 53 du Code des impôts sur les revenus 1992 en matière de frais de restaurant.

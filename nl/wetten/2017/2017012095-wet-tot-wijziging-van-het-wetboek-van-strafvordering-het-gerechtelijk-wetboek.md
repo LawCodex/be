@@ -12,7 +12,7 @@ entry_into_force: 2017-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/04/19/2017012095/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2017. - Wet tot wijziging van het Wetboek van Strafvordering, het Gerechtelijk Wetboek en de wet van 10 april 2014 tot wijziging van verschillende bepalingen met het oog op de oprichting van een nationaal register voor gerechtsdeskundigen en tot oprichting van een nationaal register van beëdigd vertalers, tolken en vertalers-tolken

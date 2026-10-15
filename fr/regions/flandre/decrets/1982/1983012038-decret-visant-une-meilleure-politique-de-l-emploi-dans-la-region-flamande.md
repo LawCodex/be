@@ -13,7 +13,7 @@ entry_into_force: 1983-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1982/12/15/1983012038/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 1982. - Décret visant une meilleure politique de l'emploi dans la Région flamande.

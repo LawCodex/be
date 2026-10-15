@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/22/2021205877/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2021 et mise à jour au 31-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2021. - Décret relatif à la surveillance électronique dans le cadre de l'application des peines

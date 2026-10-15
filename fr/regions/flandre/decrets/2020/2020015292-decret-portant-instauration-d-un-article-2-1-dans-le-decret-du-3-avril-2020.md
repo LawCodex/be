@@ -13,7 +13,7 @@ entry_into_force: 2020-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/17/2020015292/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2020. - Décret portant instauration d'un article 2/1 dans le décret du 3 avril 2020 portant dérogation à diverses dispositions du décret sur l'Energie du 8 mai 2009, du décret du 18 juillet 2003 relatif à la politique intégrée de l'eau, coordonné le 15 juin 2018, et de leurs arrêtés d'exécution, et portant couverture des frais de la consommation d'électricité, de chauffage ou de la consommation d'eau pour le premier mois de chômage temporaire suite à la crise du coronavirus, et portant modification de l'article 7 du même décret, en ce qui concerne les navigateurs et l'application de l'exonération fédérale

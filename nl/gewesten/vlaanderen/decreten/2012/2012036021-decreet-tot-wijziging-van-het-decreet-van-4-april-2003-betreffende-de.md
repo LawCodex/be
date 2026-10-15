@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/06/2012036021/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 21-09-2012 en tekstbijwerking tot 27-02-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2012. - Decreet tot wijziging van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen, wat het stelsel van kwaliteitszorg en accreditatie betreft

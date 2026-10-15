@@ -13,7 +13,7 @@ entry_into_force: 2003-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/05/08/2003050851/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2003. - Décret portant assentiment à l'Accord sur le commerce, le développement et la coopération entre la Communauté européenne et ses Etats membres, d'une part, et la République d'Afrique du Sud, d'autre part, et l'Acte final, faits à Pretoria, le 11 octobre 1999.

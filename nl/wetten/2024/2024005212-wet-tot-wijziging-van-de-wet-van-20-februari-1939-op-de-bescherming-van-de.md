@@ -12,7 +12,7 @@ entry_into_force: 2024-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/03/2024005212/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2024. - Wet tot wijziging van de wet van 20 februari 1939 op de bescherming van de titel en van het beroep van architect en van de wet van 26 juni 1963 tot instelling van een Orde van architecten

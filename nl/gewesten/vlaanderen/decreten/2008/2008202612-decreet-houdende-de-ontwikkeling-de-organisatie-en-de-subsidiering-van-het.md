@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/23/2008202612/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 28-04-2009 en tekstbijwerking tot 03-09-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2008. - Decreet houdende de ontwikkeling, de organisatie en de subsidiëring van het Vlaams cultureel-erfgoedbeleid (Cultureel-erfgoeddecreet)

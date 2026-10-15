@@ -12,7 +12,7 @@ entry_into_force: 1993-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/06/1995016066/justel"
 department: "Sociale Voorzorg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1995. - Wet tot wijziging van het koninklijk besluit nr. 50 van 24 oktober 1967 betreffende het rust- en overlevingspensioen voor werknemers.

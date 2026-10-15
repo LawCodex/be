@@ -13,7 +13,7 @@ entry_into_force: 1999-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/17/1999027506/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 1999. - Décret portant approbation de l'accord de coopération relatif à l'organisation d'une filière de formation qualifiante en alternance, conclu à Namur le 18 juin 1998, entre le Gouvernement de la Communauté francaise et le Gouvernement wallon.

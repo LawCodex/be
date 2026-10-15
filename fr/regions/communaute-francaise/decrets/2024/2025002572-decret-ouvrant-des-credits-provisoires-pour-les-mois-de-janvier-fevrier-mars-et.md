@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/12/16/2025002572/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2024. - Décret ouvrant des crédits provisoires pour les mois de janvier, février, mars et avril de la Commission communautaire française pour l'année budgétaire 2025

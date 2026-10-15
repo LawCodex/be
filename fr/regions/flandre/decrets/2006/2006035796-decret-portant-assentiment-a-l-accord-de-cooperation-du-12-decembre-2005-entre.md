@@ -13,7 +13,7 @@ entry_into_force: 2006-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/04/21/2006035796/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2006. - Décret portant assentiment à l'Accord de coopération du 12 décembre 2005 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune relatif à la mise en oeuvre de la loi du 24 avril 2003 réformant l'adoption (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2013-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/12/2013204463/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2013. - Decreet tot wijziging van diverse bepalingen van het decreet van 16 juni 2006 betreffende de begeleiding van de scheepvaart op de maritieme toegangswegen en de organisatie van het Maritiem Reddings- en Coördinatiecentrum

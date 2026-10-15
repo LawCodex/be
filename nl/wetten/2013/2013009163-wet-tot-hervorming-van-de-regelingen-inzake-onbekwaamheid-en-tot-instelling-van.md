@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/03/17/2013009163/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 14-06-2013 en tekstbijwerking tot 31-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2013. - Wet tot hervorming van de regelingen inzake onbekwaamheid en tot instelling van een nieuwe beschermingsstatus die strookt met de menselijke waardigheid

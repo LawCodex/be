@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/11/2004011261/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 05-07-2004 et mise à jour au 21-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2004. - [Loi relative à l'information à fournir lors de la vente de véhicules d'occasion] &lt;Intitulé remplacé par L 2018-11-28/02 , art. 2, 002; En vigueur : 01-03-2019&gt;

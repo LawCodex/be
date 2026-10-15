@@ -12,7 +12,7 @@ entry_into_force: 2012-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/06/03/2007015101/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2007. - Loi portant assentiment à la Convention n° 161 sur les services de santé au travail, adoptée à Genève le 26 juin 1985 par la Conférence générale de l'Organisation internationale du Travail

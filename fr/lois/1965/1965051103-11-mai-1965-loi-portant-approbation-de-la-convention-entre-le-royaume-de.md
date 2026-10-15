@@ -11,7 +11,7 @@ published: 1965-06-22
 entry_into_force: 1965-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1965/05/11/1965051103/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 1965. \_ Loi portant approbation de la Convention entre le Royaume de Belgique et la République italienne relative à l'application de leurs législations en matière de maladies professionnelles, signée à Rome le 21 février 1964.

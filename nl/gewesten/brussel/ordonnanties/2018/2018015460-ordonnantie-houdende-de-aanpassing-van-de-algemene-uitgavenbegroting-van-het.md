@@ -13,7 +13,7 @@ entry_into_force: 2018-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/12/10/2018015460/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2018. - Ordonnantie houdende de aanpassing van de Algemene Uitgavenbegroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2018

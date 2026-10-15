@@ -13,7 +13,7 @@ entry_into_force: 1997-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/05/1997027001/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 1996. - Décret portant assentiment à la Convention sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction, et aux trois annexes, faites à Paris le 13 janvier 1993.

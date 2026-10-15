@@ -12,7 +12,7 @@ entry_into_force: 2008-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/21/2007015068/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2007. - Wet houdende instemming met de Algemene Ontwikkelingssamenwerkingsovereenkomst tussen het Koninkrijk België en de Republiek Rwanda, ondertekend te Kigali op 18 mei 2004.

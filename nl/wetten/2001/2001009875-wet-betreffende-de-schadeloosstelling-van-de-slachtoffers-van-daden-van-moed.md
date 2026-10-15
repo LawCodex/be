@@ -11,7 +11,7 @@ published: 2001-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/08/24/2001009875/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 AUGUSTUS 2001. - Wet betreffende de schadeloosstelling van de slachtoffers van daden van moed.

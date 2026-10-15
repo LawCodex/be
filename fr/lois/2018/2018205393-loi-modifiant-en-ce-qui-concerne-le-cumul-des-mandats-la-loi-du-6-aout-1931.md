@@ -12,7 +12,7 @@ entry_into_force: 2019-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/10/14/2018205393/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 OCTOBRE 2018. - Loi modifiant, en ce qui concerne le cumul des mandats, la loi du 6 août 1931 établissant des incompatibilités et interdictions concernant les ministres, anciens ministres et ministres d'Etat, ainsi que les membres et anciens membres des Chambres législatives

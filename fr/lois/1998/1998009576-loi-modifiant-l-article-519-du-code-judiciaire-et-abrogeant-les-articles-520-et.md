@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/05/20/1998009576/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 1998. - Loi modifiant l'article 519 du Code judiciaire et abrogeant les articles 520 et 522 du même Code.

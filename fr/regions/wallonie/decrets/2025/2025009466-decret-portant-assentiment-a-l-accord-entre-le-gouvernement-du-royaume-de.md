@@ -13,7 +13,7 @@ entry_into_force: 2025-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/11/27/2025009466/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2025. - Décret portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République unie de Tanzanie relatif aux services de transport aérien, fait à Dodoma le 3 novembre 2021

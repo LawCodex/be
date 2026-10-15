@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/02/12/2021030406/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 04-03-2021 en tekstbijwerking tot 15-07-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2021. - Decreet houdende wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie met betrekking tot de landelijke en regionale radio-omroeporganisaties en de technische eindapparatuur voor FM-radio-ontvangst van radio-omroeporganisaties

@@ -13,7 +13,7 @@ entry_into_force: 2017-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/07/2017030641/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2017. - Decreet houdende instemming met het Multilateraal Akkoord tussen bevoegde autoriteiten betreffende de automatische uitwisseling van inlichtingen inzake financiële rekeningen, ondertekend te Berlijn op 29 oktober 2014

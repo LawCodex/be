@@ -12,7 +12,7 @@ entry_into_force: 2011-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/06/19/2011003233/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2011. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992 wat de werkbonus en de opzeggingsvergoeding betreft

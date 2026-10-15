@@ -13,7 +13,7 @@ last_amended: 2014-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1874/06/11/1874061150/justel"
 justel_note: "Consultation des versions antérieures à partir du 20-08-1992 et mise à jour au 30-04-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 1874. - CODE DE COMMERCE : LIVRE I \_ TITRES X et XI \_ Des assurances en général et De quelques assurances terrestres en particulier. (Loi contenant les titres X et XI, livre Ier, du code de commerce.)

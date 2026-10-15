@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/06/29/2016011274/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 06-07-2016 en tekstbijwerking tot 21-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2016. - Wet houdende diverse bepalingen inzake Economie

@@ -13,7 +13,7 @@ entry_into_force: 2008-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/07/2008029062/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2007. - Decreet tot wijziging van het decreet van 20 juni 2002 tot instelling van een algemeen afgevaardigde van de Franse Gemeenschap voor de rechten van het kind met het oog op de versterking van de onafhankelijkheid en de onpartijdigheid van deze laatste (VERTALING).

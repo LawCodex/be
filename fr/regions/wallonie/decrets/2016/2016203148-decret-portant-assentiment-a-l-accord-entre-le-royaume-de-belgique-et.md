@@ -13,7 +13,7 @@ entry_into_force: 2016-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/09/2016203148/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 2016. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et "Bioversity International", fait à Bruxelles le 3 décembre 2012, modifiant l'Accord de siège entre le Royaume de Belgique et l'"International Plant Genetic Resources Institute", signé à Bruxelles le 15 octobre 2003

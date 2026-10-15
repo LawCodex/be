@@ -13,7 +13,7 @@ entry_into_force: 2014-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/05/08/2014031469/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2014. - Ordonnantie houdende instemming met het Samenwerkingsakkoord gesloten op 20 maart 2014 tussen de Franse Gemeenschap, het Waals Gewest, het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de invoering van een kadaster van onderwijs- en post-onderwijstrajecten

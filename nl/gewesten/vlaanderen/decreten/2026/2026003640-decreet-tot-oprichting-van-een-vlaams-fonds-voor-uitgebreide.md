@@ -13,7 +13,7 @@ entry_into_force: 2026-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/04/24/2026003640/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2026. - Decreet tot oprichting van een Vlaams fonds voor uitgebreide producentenverantwoordelijkheid

@@ -12,7 +12,7 @@ entry_into_force: 2022-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/03/11/2022031211/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2022. - Loi abrogeant le maintien de la situation d'urgence épidémique concernant la pandémie de coronavirus COVID-19

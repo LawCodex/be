@@ -12,7 +12,7 @@ entry_into_force: 2021-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/02/17/2021040569/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2021. - Loi portant introduction d'une taxe annuelle sur les comptes-titres

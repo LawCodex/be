@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/12/20/2018030074/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2017. - Decreet houdende wijziging van het decreet van 14 november 2008 tot oprichting van de Jeugdraad in de Franse Gemeenschap

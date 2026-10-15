@@ -13,7 +13,7 @@ entry_into_force: 2007-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/07/07/2006202497/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2006. - Decreet tot wijziging van het decreet van 11 maart 1999 betreffende de milieuvergunning. (Vertaling).

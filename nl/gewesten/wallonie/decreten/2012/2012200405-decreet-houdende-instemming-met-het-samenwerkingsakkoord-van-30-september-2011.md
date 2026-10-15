@@ -13,7 +13,7 @@ entry_into_force: 2012-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/01/12/2012200405/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 2012. - Decreet houdende instemming met het samenwerkingsakkoord van 30 september 2011 tussen het Waalse Gewest en de Duitstalige Gemeenschap betreffende de mobiliteit van de lerenden in het kader van de alternerende opleiding en van de zelfstandigen en de kleine en middelgrote ondernemingen

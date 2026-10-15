@@ -12,7 +12,7 @@ entry_into_force: 2019-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/19/2019011305/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2019. - Wet houdende instemming met het Besluit (EU, Euratom) 2018/994 van de Raad van 13 juli 2018 tot wijziging van de Akte betreffende de verkiezing van de leden van het Europees Parlement door middel van rechtstreekse algemene verkiezingen, gehecht aan Besluit 76/787/EGKS, EEG, Euratom van de Raad van 20 september 1976, en tot wijziging van de wet van 23 maart 1989 betreffende de verkiezing van het Europese Parlement

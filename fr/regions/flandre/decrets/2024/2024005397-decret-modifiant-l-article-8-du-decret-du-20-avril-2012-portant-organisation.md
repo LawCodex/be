@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/17/2024005397/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 04-06-2024 et mise à jour au 26-05-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2024. - Décret modifiant l'article 8 du décret du 20 avril 2012 portant organisation des milieux d'accueil de la petite enfance, en ce qui concerne l'introduction du tarif minimum de la cotisation parentale pour la garde d'enfants de mères inscrites dans l'enseignement secondaire

@@ -12,7 +12,7 @@ entry_into_force: 2004-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/04/2004003292/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2004. - Loi portant modification de la loi du 20 juillet 1979 concernant l'assistance mutuelle en matière de recouvrement des créances relatives à certaines cotisations, droits, taxes et autres mesures

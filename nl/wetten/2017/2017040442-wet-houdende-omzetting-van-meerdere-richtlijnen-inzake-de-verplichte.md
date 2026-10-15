@@ -12,7 +12,7 @@ entry_into_force: 2017-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/07/31/2017040442/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2017. - Wet houdende omzetting van meerdere Richtlijnen inzake de verplichte automatische uitwisseling van inlichtingen op belastinggebied

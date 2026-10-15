@@ -12,7 +12,7 @@ entry_into_force: 1961-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1960/08/10/1960081003/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1960. - Loi portant approbation de la Convention entre le Royaume de Belgique et la République d'Autriche sur la reconnaissance et l'exécution réciproques des décisions judiciaires, sentences arbitrales et actes authentiques en matière civile et commerciale, signée à Vienne, le 16 juin 1959.

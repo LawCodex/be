@@ -13,7 +13,7 @@ entry_into_force: 2003-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/27/2003029192/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2003. - Décret portant des mesures transitoires en vue de la nomination de membres du personnel de l'enseignement de promotion sociale titulaires d'une fonction de recrutement.

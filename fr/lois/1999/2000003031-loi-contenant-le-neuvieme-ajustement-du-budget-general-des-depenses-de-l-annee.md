@@ -12,7 +12,7 @@ entry_into_force: 2000-02-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/12/22/2000003031/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1999. - Loi contenant le neuvième ajustement du budget général des dépenses de l'année budgétaire 1999, Section 15 " Coopération internationale ".

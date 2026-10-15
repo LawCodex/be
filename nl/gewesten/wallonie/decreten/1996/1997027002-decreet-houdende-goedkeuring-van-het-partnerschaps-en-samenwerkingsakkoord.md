@@ -13,7 +13,7 @@ entry_into_force: 1997-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/12/05/1997027002/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 1996. - Decreet houdende goedkeuring van het Partnerschaps- en samenwerkingsakkoord tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en Oekraïne, anderzijds, van de bijlagen I, II, III, IV en V, het aanhangsel, het protocol en de slotakte, ondertekend te Luxemburg op 14 juni 1994 (VERTALING).

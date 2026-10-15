@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/15/2023045682/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 04-10-2023 et mise à jour au 29-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2023. - Décret relatif à l'agrément et au financement des agences de développement centre-ville

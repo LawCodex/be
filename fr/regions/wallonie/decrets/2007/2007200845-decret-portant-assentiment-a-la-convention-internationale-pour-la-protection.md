@@ -13,7 +13,7 @@ entry_into_force: 2007-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/09/2007200845/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2007. - Décret portant assentiment à la Convention internationale pour la protection des végétaux, et l'Annexe, adoptés à Rome le 17 novembre 1997.

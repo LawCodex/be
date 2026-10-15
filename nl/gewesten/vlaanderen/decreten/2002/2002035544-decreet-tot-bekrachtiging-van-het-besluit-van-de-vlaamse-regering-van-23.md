@@ -13,7 +13,7 @@ entry_into_force: 2002-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/03/22/2002035544/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2002. - Decreet tot bekrachtiging van het besluit van de Vlaamse regering van 23 november 2001 tot bepaling van de ontwikkelingsdoelen voor het buitengewoon basisonderwijs type 1.

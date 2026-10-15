@@ -12,7 +12,7 @@ entry_into_force: 2008-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/01/22/2007015009/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 2007. - Wet houdende instemming met de Overeenkomst voor samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, ter bestrijding van fraude en andere illegale activiteiten die hun financiële belangen schaden, en met de Slotakte, gedaan te Luxemburg op 26 oktober 2004.

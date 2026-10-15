@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/20/2016031591/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2016. - Décret modifiant le décret du 5 mars 2009 relatif à l'offre de services ambulatoires dans les domaines de l'Action sociale, de la Famille et de la Santé et insérant des dispositions relatives aux institutions qui ont fait le choix de la Commission communautaire française suite à la sixième réforme de l'Etat

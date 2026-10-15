@@ -13,7 +13,7 @@ entry_into_force: 2012-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/12/06/2012031840/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2012. - Ordonnantie tot wijziging van de ordonnantie van 28 januari 2010 houdende organisatie van de stedelijke herwaardering en de Brusselse Huisvestingscode en betreffende de regelgeving voor de woningen die gebouwd of gerenoveerd worden in het kader van de wijkcontracten

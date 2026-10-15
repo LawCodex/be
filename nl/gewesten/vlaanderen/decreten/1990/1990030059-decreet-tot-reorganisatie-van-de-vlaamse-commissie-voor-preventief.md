@@ -11,7 +11,7 @@ date: 1990-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1990/07/31/1990030059/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 1990. - Decreet tot reorganisatie van de Vlaamse Commissie voor Preventief Bedrijfsbeleid. (Opgeheven bij DVR 2004-05-07/52, art. 15, 2°, 002; Inwerkingtreding : onbepaald )

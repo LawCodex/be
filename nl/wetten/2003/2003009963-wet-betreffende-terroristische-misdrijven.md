@@ -12,7 +12,7 @@ entry_into_force: 2004-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/12/19/2003009963/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2003. - Wet betreffende terroristische misdrijven.

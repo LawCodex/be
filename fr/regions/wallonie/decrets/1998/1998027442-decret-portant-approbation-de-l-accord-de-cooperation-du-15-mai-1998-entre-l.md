@@ -13,7 +13,7 @@ entry_into_force: 1998-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/16/1998027442/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 1998. - Décret portant approbation de l'accord de coopération du 15 mai 1998 entre l'Etat fédéral et les Régions modifiant l'accord de coopération du 4 mars 1997 entre l'Etat fédéral et les Régions relatif au programme de transition professionnelle.

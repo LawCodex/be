@@ -13,7 +13,7 @@ entry_into_force: 2021-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/03/05/2021030604/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2021. - Décret modifiant l'article 37 du décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes, en ce qui concerne l'injonction

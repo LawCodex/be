@@ -12,7 +12,7 @@ entry_into_force: 2019-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/01/20/2019011183/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2019. - Loi portant assentiment au Protocole pour éliminer le commerce illicite des produits du tabac, adopté à Séoul le 12 novembre 2012

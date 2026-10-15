@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/14/2019011789/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 16-04-2019 en tekstbijwerking tot 01-07-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2019. - Decreet tot wijziging van verschillende bepalingen met betrekking tot de ambten van directeur en directrice, andere bevorderingsambten en selectieambten

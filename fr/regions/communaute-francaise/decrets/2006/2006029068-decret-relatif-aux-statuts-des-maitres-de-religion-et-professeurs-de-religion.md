@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/03/10/2006029068/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 19-05-2006 et mise à jour au 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2006. - Décret relatif aux statuts des maîtres de religion et professeurs de religion.

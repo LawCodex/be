@@ -13,7 +13,7 @@ entry_into_force: 2027-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/10/2026006084/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2026. - Décret modifiant le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement et le décret du 25 avril 2014 relatif au permis d'environnement, en ce qui concerne la transposition de la directive (UE) 2024/1785 du Parlement européen et du Conseil du 24 avril 2024 modifiant la directive 2010/75/UE du Parlement européen et du Conseil relative aux émissions industrielles (prévention et réduction intégrées de la pollution) et la directive 1999/31/CE du Conseil concernant la mise en décharge des déchets et autres modifications visant une optimisation

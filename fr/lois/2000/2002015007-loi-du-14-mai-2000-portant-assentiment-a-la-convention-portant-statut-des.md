@@ -12,7 +12,7 @@ entry_into_force: 2002-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/08/12/2002015007/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AOUT 2000. - Loi du 14 mai 2000 portant assentiment à la Convention portant statut des Ecoles européennes et Annexes I et II, faites à Luxembourg le 21 juin 1994.

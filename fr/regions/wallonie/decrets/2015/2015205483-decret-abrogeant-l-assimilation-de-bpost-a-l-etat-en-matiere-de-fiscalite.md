@@ -13,7 +13,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/11/19/2015205483/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2015. - Décret abrogeant l'assimilation de bpost à l'Etat en matière de fiscalité régionale wallonne, prévue par la loi du 6 juillet 1971 relative à la création de bpost et à certains services postaux

@@ -12,7 +12,7 @@ entry_into_force: 1999-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/09/21/2000015125/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 SEPTEMBER 2001. - Wet houdende instemming met de Overeenkomst betreffende voedselhulp, en de Bijlagen gedaan te Londen op 13 april 1999.

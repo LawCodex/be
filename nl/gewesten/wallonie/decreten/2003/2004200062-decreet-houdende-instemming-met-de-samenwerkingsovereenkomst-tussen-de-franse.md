@@ -13,7 +13,7 @@ entry_into_force: 2004-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/04/2004200062/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2003. - Decreet houdende instemming met de Samenwerkingsovereenkomst tussen de Franse Gemeenschap van België, het Waalse Gewest en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest, enerzijds, en de Democratische Republiek Congo, anderzijds, opgemaakt te Brussel op 9 december 2002. (Vertaling).

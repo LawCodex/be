@@ -13,7 +13,7 @@ entry_into_force: 2006-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/02/10/2006035393/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2006. - Decreet houdende wijziging van de Gemeentekieswet, gecoördineerd op 4 augustus 1932, de wet van 19 oktober 1921 tot regeling van de provincieraadsverkiezingen, de wet tot organisatie van de geautomatiseerde stemming van 11 april 1994 en het decreet van 7 mei 2004 houdende regeling van de controle van de verkiezingsuitgaven en de herkomst van de geldmiddelen voor de verkiezing van het Vlaams Parlement.

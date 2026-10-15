@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036224/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 09-08-2004 et mise à jour au 2005-08-05"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret modifiant certaines dispositions des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 25 janvier 1995, et certaines autres dispositions relatives à la radiodiffusion et à la télévision. (Traduction).

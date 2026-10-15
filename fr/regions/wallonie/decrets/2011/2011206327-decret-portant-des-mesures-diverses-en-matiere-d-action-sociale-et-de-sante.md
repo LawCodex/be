@@ -13,7 +13,7 @@ entry_into_force: 2012-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/01/2011206327/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2011. - Décret portant des mesures diverses en matière d'action sociale et de santé

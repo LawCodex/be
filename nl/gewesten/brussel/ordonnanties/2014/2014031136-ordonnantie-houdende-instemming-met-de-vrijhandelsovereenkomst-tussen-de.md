@@ -13,7 +13,7 @@ entry_into_force: 2014-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/01/30/2014031136/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2014. - Ordonnantie houdende instemming met : de Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds, gedaan te Brussel op 6 oktober 2010

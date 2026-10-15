@@ -11,7 +11,7 @@ published: 1973-05-25
 entry_into_force: 1973-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1972/12/14/1972121403/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 1972. - Loi portant approbation des actes internationaux suivants :

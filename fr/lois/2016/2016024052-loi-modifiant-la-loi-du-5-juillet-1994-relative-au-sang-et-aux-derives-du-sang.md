@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/02/15/2016024052/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 14-03-2016 et mise à jour au 28-08-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2016. - Loi modifiant la loi du 5 juillet 1994 relative au sang et aux dérivés du sang d'origine humaine en ce qui concerne le caractère altruiste du don de sang par des personnes atteintes d'hémochromatose

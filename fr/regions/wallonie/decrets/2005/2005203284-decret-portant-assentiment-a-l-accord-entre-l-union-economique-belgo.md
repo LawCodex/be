@@ -13,7 +13,7 @@ entry_into_force: 2005-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/11/17/2005203284/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2005. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et la Serbie-et-Monténégro, d'autre part, concernant l'encouragement et la protection réciproques des investissements, fait à Belgrade le 4 mars 2004.

@@ -13,7 +13,7 @@ entry_into_force: 2002-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/02/28/2002029164/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2002. - Decreet houdende instemming met de Euromediterrane overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en het Hasjemitisch Koninkrijk Jordanië, anderzijds, de Bijlagen I, II, III, IV, V, VI en VII, de Protocollen 1, 2, 3 en 4 en de Slotakte, ondertekend in Brussel op 24 november 1997.

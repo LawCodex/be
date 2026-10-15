@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1983/03/30/1983023252/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-06-1998 en tekstbijwerking tot 02-08-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 1983. - Decreet houdende oprichting van de Dienst voor Geboorte en Kinderen (O.N.E.). (Vertaling)

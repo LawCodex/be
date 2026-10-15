@@ -12,7 +12,7 @@ published: 2018-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/11/2018013341/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2018. - Decreet houdende verschillende maatregelen betreffende het statuut van het onderwijzend personeel

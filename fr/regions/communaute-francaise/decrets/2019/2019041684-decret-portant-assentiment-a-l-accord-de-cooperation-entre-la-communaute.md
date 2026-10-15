@@ -13,7 +13,7 @@ entry_into_force: 2019-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/28/2019041684/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2019. - Décret portant assentiment à l'Accord de coopération entre la Communauté flamande, la Communauté française et la Commission communautaire commune relatif à l'accueil des enfants à Bruxelles

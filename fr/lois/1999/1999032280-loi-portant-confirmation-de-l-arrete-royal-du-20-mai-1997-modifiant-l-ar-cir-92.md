@@ -12,7 +12,7 @@ entry_into_force: 1999-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/23/1999032280/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1999. - Loi portant confirmation de l'arrêté royal du 20 mai 1997 modifiant l'AR/CIR 92, en tant qu'il a trait au précompte professionnel, et de l'arrêté royal du 5 décembre 1997 modifiant, en matière de précompte professionnel, l'AR/CIR 92.

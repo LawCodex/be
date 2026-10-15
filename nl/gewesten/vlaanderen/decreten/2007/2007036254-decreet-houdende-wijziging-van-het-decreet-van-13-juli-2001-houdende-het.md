@@ -13,7 +13,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/13/2007036254/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2007. - Decreet houdende wijziging van het decreet van 13 juli 2001 houdende het stimuleren van een kwalitatief en integraal lokaal cultuurbeleid

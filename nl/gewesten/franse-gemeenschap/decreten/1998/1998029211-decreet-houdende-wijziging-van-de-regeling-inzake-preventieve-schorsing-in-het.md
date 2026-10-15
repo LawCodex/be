@@ -12,7 +12,7 @@ published: 1998-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/04/06/1998029211/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1998. - Decreet houdende wijziging van de regeling inzake preventieve schorsing in het door de Franse Gemeenschap georganiseerd en gesubsidieerd onderwijs (VERTALING).

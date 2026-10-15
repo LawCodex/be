@@ -13,7 +13,7 @@ entry_into_force: 2025-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/03/13/2025002435/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2025. - Decreet betreffende het verbod op het recreatief gebruik van mobiele telefoons en andere eindapparaten voor elektronische communicatie in scholen

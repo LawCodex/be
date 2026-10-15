@@ -12,7 +12,7 @@ entry_into_force: 2009-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/09/10/2009015125/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 SEPTEMBRE 2009. - Loi portant assentiment à la Convention internationale pour la répression des actes de terrorisme nucléaire, faite à New York le 14 septembre 2005

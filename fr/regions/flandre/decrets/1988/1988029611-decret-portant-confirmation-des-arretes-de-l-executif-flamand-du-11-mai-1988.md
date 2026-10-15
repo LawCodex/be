@@ -13,7 +13,7 @@ entry_into_force: 1988-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1988/07/13/1988029611/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 1988. - Décret portant confirmation des arrêtés de l'Exécutif flamand du 11 mai 1988, pris en exécution de l'article 8, §§ 2 et 4, de l'article 9, § 1er et de l'article 10 du décret du 28 janvier 1987 relatif à la transmission de programmes sonores et télévisés sur les réseaux de radiodistribution et de télédistribution et relatif à l'agrément des sociétés de télévision non-publiques &lt;TRADUCTION&gt;.

@@ -13,7 +13,7 @@ entry_into_force: 1994-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/05/30/1994029309/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 1994. - Décret modifiant le décret de la Communauté française du 18 juin 1990 organisant la tutelle sur la Commission communautaire française.

@@ -12,7 +12,7 @@ entry_into_force: 2012-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/09/2012204187/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2012. - Wet tot omzetting van de Richtlijn 2008/104/EG van het Europees Parlement en de Raad van 19 november 2008 betreffende uitzendarbeid

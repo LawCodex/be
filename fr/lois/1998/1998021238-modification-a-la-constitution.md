@@ -12,7 +12,7 @@ entry_into_force: 1998-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/12/1998021238/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 1998. - Modification à la Constitution.

@@ -12,7 +12,7 @@ entry_into_force: 1991-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/12/28/1991000030/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBER 1990. - Wet tot toekenning van de titel van stad aan de gemeente Lommel.

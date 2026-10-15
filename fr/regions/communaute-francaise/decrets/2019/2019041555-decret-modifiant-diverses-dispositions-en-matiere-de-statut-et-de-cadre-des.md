@@ -13,7 +13,7 @@ entry_into_force: 2019-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019041555/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Décret modifiant diverses dispositions en matière de statut et de cadre des membres du personnel technique des Centres psycho-médico-sociaux

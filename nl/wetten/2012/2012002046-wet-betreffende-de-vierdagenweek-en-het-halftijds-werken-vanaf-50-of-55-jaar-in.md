@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/19/2012002046/justel"
 department: "Personeel en Organisatie"
 justel_note: "Raadpleging van vroegere versies vanaf 06-08-2012 en tekstbijwerking tot 23-05-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2012. - Wet betreffende de vierdagenweek en het halftijds werken vanaf 50 of 55 jaar in de openbare sector

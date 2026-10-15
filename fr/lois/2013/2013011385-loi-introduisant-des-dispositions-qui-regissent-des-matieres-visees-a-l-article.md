@@ -12,7 +12,7 @@ entry_into_force: 2013-09-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/30/2013011385/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2013. - Loi introduisant des dispositions qui régissent des matières visées à l'article 77 de la Constitution, dans la loi du 17 août 2013 relative à la prospection, l'exploration et l'exploitation des ressources des fonds marins et leur sous-sol au-delà des limites de la juridiction nationale

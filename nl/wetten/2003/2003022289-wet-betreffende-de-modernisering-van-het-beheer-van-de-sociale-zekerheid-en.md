@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/24/2003022289/justel"
 department: "Sociale Zekerheid - Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 02-04-2003 en tekstbijwerking tot 10-10-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2003. - Wet betreffende de modernisering van het beheer van de sociale zekerheid [en betreffende de elektronische communicatie tussen ondernemingen en de federale overheid]. &lt;W 2003-12-22/42, art. 250, 002; Inwerkingtreding : 10-01-2004&gt;

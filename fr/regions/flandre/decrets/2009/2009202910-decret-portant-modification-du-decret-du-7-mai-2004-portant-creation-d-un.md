@@ -13,7 +13,7 @@ entry_into_force: 2009-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/08/2009202910/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2009. - Décret portant modification du décret du 7 mai 2004 portant création d'un "Vlaams Instituut voor Vrede en Geweldpreventie" (Institut flamand pour la Paix et la Prévention de la Violence) auprès du Parlement flamand pour ce qui concerne sa mission de consultation et la représentation équilibrée au sein du conseil d'administration

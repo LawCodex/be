@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/17/2006009457/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 15-06-2006 et mise à jour au 17-08-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2006. - Loi instaurant des tribunaux de l'application des peines.

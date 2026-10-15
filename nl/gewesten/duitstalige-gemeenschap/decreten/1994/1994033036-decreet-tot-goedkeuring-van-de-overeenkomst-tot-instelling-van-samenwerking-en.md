@@ -12,7 +12,7 @@ published: 1994-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/03/14/1994033036/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 1994. - Decreet tot goedkeuring van de overeenkomst tot instelling van samenwerking en een douane-unie tussen de Europese Economische Gemeenschap en de Republiek San Marino, de bijlage en de vijf verklaringen, ondertekend te Brussel op 16 december 1991. (Vertaling).

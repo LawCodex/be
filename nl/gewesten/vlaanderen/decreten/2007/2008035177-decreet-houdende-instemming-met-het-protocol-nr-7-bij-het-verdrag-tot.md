@@ -13,7 +13,7 @@ entry_into_force: 2008-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/21/2008035177/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2007. - Decreet houdende instemming met het protocol nr. 7 bij het Verdrag tot bescherming van de Rechten van de Mens en de Fundamentele Vrijheden, opgemaakt in Straatsburg op 22 november 1984.

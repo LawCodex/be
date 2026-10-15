@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2010/12/09/2010031574/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 17-12-2010 en tekstbijwerking tot 18-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2010. - Ordonnantie betreffende de toepasselijke sancties in het geval van niet-naleving van de Verordening (EG) nr. 1907/2006 van het Europees Parlement en de Raad van 18 december 2006 inzake de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH)

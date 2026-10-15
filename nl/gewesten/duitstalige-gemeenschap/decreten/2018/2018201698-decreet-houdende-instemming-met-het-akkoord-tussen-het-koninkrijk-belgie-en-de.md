@@ -13,7 +13,7 @@ entry_into_force: 2018-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/26/2018201698/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2018. - Decreet houdende instemming met het Akkoord tussen het Koninkrijk België en de Caymaneilanden inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te George Town, Grand Cayman, op 24 april 2014

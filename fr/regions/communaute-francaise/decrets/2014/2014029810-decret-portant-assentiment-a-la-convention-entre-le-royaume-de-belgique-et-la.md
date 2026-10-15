@@ -13,7 +13,7 @@ entry_into_force: 2015-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/12/04/2014029810/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2014. - Décret portant assentiment à la Convention entre le Royaume de Belgique et la République d'Islande tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et au Protocole, signés à Bruxelles le 23 mai 2000, ainsi qu'à son Protocole modificatif, fait à Bruxelles le 15 septembre 2009

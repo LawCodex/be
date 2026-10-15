@@ -12,7 +12,7 @@ entry_into_force: 2013-09-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/08/19/2011015095/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AOUT 2011. - Loi portant assentiment au Protocole, fait à Bruxelles le 7 juillet 2009, modifiant la Convention entre la Belgique et le Danemark en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune signée à Bruxelles le 16 octobre 1969, telle que modifiée et complétée par le Protocole signé à Copenhague le 27 septembre 1999, et adaptant la législation fiscale belge à certaines dispositions dudit Protocole

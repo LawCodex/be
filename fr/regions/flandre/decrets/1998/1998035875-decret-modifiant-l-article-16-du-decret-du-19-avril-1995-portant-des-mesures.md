@@ -13,7 +13,7 @@ entry_into_force: 1998-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/14/1998035875/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1998. - Décret modifiant l'article 16 du décret du 19 avril 1995 portant des mesures visant à lutter contre et à prévenir la désaffectation et l'abandon de sites d'activité économique (TRADUCTION).

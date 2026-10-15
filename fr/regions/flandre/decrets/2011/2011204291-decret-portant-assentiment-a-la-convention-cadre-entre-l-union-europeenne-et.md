@@ -13,7 +13,7 @@ entry_into_force: 2011-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/15/2011204291/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2011. - Décret portant assentiment à la convention cadre entre l'Union européenne et ses Etats membres, d'une part, et la République de Corée, d'autre part, signée à Bruxelles le 10 mai 2010

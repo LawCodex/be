@@ -12,7 +12,7 @@ published: 1982-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1982/06/30/1982001285/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1982. \_ Decreet inzake de bescherming van de vrijheid van het taalgebruik van de Franse taal in de sociale betrekkingen tussen de werkgevers en hun personeel, alsook van akten en dokumenten van ondernemingen opgelegd door de wet en de reglementen. (nota 1. : in artikel 1 van het decreet werden de woorden " of werkers die zich in het Frans uitdrukken" vernietigd door het arrest van het Arbitragehof van 30-01-1986, gepubliceerd in het B.St. van 12-02-1986) (nota 2. : Bij arrest van 18-11-1986 (B.St. 10-12-1986), heeft het Arbitragehof besloten dat het decreet vernietigd wordt in zoverre het toepassingsgebied ervan, zoals het is omschreven in artikel 1, omvat de gemeenten of groepen van gemeenten van het Franse taalgebied, palend aan een ander taalgebied en waar de wet het gebruik van een andere taal dan die van het gebied waarin zij gelegen zijn, voorschrift of toelaat).

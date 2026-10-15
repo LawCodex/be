@@ -11,7 +11,7 @@ date: 2020-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/07/17/2020031296/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2020. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 5 maart 2020 tot wijziging van het samenwerkingsakkoord van 4 november 2008 betreffende de preventie en het beheer van verpakkingsafval . (Dez tekst vernietigt en vervangt degene die verschene is in het Belgisch Staatsblad van 24 augustus 2020, p.63769)

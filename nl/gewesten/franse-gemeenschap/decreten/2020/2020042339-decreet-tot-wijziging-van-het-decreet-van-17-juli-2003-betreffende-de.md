@@ -13,7 +13,7 @@ entry_into_force: 2020-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/09/2020042339/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2020. - Decreet tot wijziging van het decreet van 17 juli 2003 betreffende de ontwikkeling van de actie inzake permanente opvoeding in het kader van het verenigingsleven

@@ -13,7 +13,7 @@ entry_into_force: 2010-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/06/2009201372/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2009. - Decreet tot wijziging van Hoofdstuk II van Titel III van Boek II van Deel I van het Wetboek van de plaatselijke democratie en de decentralisatie betreffende de begraafplaatsen en de lijkbezorging

@@ -12,7 +12,7 @@ entry_into_force: 2001-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/02/16/2000015115/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2000. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et le Gouvernement de la République d'Ouzbékistan, d'autre part, concernant l'encouragement et la protection réciproques des investissements, fait à Tachkent le 17 avril 1998.

@@ -12,7 +12,7 @@ entry_into_force: 2018-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/12/13/2017206840/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2017. - Loi portant modification de la loi du 15 avril 1994 relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de Contrôle nucléaire

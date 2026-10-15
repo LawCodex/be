@@ -12,7 +12,7 @@ entry_into_force: 1991-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/07/18/1991009965/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 1991. - Wet tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen.

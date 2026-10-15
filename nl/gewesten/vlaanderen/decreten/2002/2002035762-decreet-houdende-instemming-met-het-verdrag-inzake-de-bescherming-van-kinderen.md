@@ -13,7 +13,7 @@ entry_into_force: 2002-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/05/08/2002035762/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2002. - Decreet houdende instemming met het verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie, ondertekend te Den Haag op 29 mei 1993.

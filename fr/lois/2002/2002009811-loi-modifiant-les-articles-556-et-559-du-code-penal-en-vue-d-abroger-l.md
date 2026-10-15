@@ -12,7 +12,7 @@ entry_into_force: 2002-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/08/02/2002009811/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AOUT 2002. - Loi modifiant les articles 556 et 559 du Code pénal en vue d'abroger l'assimilation des fous ou furieux aux animaux féroces.

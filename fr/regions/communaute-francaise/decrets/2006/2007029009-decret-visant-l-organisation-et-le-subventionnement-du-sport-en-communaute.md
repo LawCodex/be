@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/08/2007029009/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 20-02-2007 et mise à jour au 07-10-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2006. - Décret visant l'organisation et le subventionnement du sport en Communauté française.

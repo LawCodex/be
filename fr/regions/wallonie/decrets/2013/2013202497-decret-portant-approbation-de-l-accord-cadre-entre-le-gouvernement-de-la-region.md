@@ -13,7 +13,7 @@ entry_into_force: 2013-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/04/18/2013202497/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2013. - Décret portant approbation de l'accord-cadre entre le Gouvernement de la Région wallonne du Royaume de Belgique et le Gouvernement de la République française sur l'accueil des personnes handicapées, fait à Neufvilles, le 21 décembre 2011

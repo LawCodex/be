@@ -13,7 +13,7 @@ entry_into_force: 2006-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/14/2006036353/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2006. - Décret portant assentiment à l'accord entre les Etats membres de l'Union européenne, d'une part, et la République de Bulgarie et de la Roumanie, d'autre part, concernant l'adhésion de la République de Bulgarie et de la Roumanie à l'Union européenne, au protocole, à l'acte et à l'acte final, signés à Luxembourg le 25 avril 2005 (TRADUCTION).

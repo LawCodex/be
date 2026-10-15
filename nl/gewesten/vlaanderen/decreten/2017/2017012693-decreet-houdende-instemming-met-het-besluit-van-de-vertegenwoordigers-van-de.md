@@ -13,7 +13,7 @@ entry_into_force: 2017-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/02/2017012693/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2017. - Decreet houdende instemming met het Besluit van de Vertegenwoordigers van de Regeringen der Lidstaten, in het kader van de Raad bijeen, van 28 april 2004, betreffende voorrechten en immuniteiten die aan ATHENA worden verleend, ondertekend te Brussel op 28 april 2004

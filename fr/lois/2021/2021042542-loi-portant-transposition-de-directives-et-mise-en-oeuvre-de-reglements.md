@@ -12,7 +12,7 @@ entry_into_force: 2021-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/07/04/2021042542/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2021. - Loi portant transposition de directives et mise en oeuvre de règlements européens en matière financière (I)

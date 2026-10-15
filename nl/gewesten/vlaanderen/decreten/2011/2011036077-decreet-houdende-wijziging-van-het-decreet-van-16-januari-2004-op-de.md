@@ -13,7 +13,7 @@ entry_into_force: 2012-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/12/09/2011036077/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2011. - Decreet houdende wijziging van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging, wat de bestemming van de asurne betreft

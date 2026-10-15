@@ -12,7 +12,7 @@ published: 2023-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/14/2023044566/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2023. - Decreet tot wijziging van het Energiedecreet van 8 mei 2009, wat de activiteiten van de netbeheerders betreft, en tot opheffing van artikel 22 van het decreet van 2 april 2021 tot wijziging van het Energiedecreet van 8 mei 2009 tot gedeeltelijke omzetting van Richtlijn (EU) 2018/2001 van het Europees Parlement en de Raad van 11 december 2018 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en tot omzetting van Richtlijn (EU) 2019/944 van het Europees Parlement en de Raad van 5 juni 2019 betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot wijziging van Richtlijn 2012/27/EU

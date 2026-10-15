@@ -12,7 +12,7 @@ entry_into_force: 2022-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/19/2021034486/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2021. - Loi concernant les médecins spécialistes en formation et les médecins en formation

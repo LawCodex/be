@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/19/2002036019/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-08-2002 en tekstbijwerking tot 28-05-2004."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2002. - Decreet houdende goedkeuring van het samenwerkingsakkoord tussen de Federale Staat, de Duitstalige Gemeenschap, de Franse Gemeenschap en de Vlaamse Gemeenschap betreffende het gesloten centrum voor voorlopige plaatsing van minderjarigen die een als misdrijf omschreven feit hebben gepleegd. -

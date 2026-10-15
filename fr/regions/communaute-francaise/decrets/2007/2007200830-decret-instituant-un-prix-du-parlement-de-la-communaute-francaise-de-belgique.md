@@ -13,7 +13,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/01/25/2007200830/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2007. - Décret instituant un prix du Parlement de la Communauté française de Belgique en vue de récompenser un(e) jeune artiste de la Communauté française dans le domaine des arts plastiques.

@@ -12,7 +12,7 @@ published: 2020-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/11/29/2019042770/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2019. - Ordonnantie houdende de aanpassing van de Algemene Uitgavenbegroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2019 (1)

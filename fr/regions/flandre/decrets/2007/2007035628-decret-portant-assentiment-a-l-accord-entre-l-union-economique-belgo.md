@@ -13,7 +13,7 @@ entry_into_force: 2007-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/04/20/2007035628/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2007. - Décret portant assentiment à l'accord entre l'Union économique belgo-luxembourgeoise, d'une part, et le gouvernement de la République du Pérou, d'autre part, concernant l'encouragement et la protection réciproques des investissements, signé à Bruxelles le 12 octobre 2005 (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2008-09-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/20/2008202834/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2008. - Décret portant modification du titre X des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 4 mars 2005 (TRADUCTION).

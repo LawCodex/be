@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035864/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2006 et mise à jour au 06-03-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant création de l'agence autonomisée interne dotée de la personnalité juridique "Vlaams Agentschap Ondernemen" (Agence flamande de l'Entrepreneuriat) (TRADUCTION).

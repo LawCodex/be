@@ -10,7 +10,7 @@ date: 2022-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/10/30/2022034022/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 OKTOBER 2022. - Wet tot wijziging van de wet van 4 april 2014 betreffende de verzekeringen met het oog op het uitbreiden van het recht om vergeten te worden

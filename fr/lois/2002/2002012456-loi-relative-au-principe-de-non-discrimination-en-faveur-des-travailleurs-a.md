@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/03/05/2002012456/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 13-03-2002 et mise à jour au 30-05-2007"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2002. - Loi relative au principe de non-discrimination en faveur des travailleurs à temps partiel.

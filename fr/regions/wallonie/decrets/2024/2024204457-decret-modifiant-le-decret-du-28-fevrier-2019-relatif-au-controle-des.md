@@ -13,7 +13,7 @@ entry_into_force: 2024-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/29/2024204457/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2024. - Décret modifiant le décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la reconversion et au recyclage professionnels ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations en vue d'y instaurer les tests de situation

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/30/2016029344/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 03-03-2017 et mise à jour au 03-03-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2016. - Décret modifiant [l'article 3 du décret du 27 mars 2002 relatif au pilotage du système éducatif de la Communauté française] en vue d'intégrer la référence à la lutte contre les discriminations entre les femmes et hommes et la promotion de l'égalité des sexes comme critères d'agrément des manuels scolaires &lt;DCFR 2017-02-23/05 , art. 1, 002; En vigueur : 13-03-2017&gt;

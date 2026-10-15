@@ -11,7 +11,7 @@ published: 2022-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/01/26/2019013108/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2018. - Wet houdende instemming met de Overeenkomst inzake een strategisch partnerschap tussen de Europese Unie en haar lidstaten, enerzijds, en Canada, anderzijds, gedaan te Brussel op 30 oktober 2016

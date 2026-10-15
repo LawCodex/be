@@ -13,7 +13,7 @@ entry_into_force: 2001-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/12/2001027440/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2001. - Decreet houdende instemming met het Protocol tot aanpassing van de institutionele aspecten van de Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en Roemenië, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie, en de Bijlagen I en II, opgemaakt te Brussel op 28 juni 1999 (VERTALING).

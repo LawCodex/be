@@ -13,7 +13,7 @@ entry_into_force: 2014-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/04/03/2014031323/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2014. - Ordonnance modifiant l'ordonnance du 1er mars 2007 relative à la protection de l'environnement contre les éventuels effets nocifs et nuisances provoqués par les radiations non ionisantes et modifiant l'ordonnance du 5 juin 1997 relative aux permis d'environnement

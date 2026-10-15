@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/11/26/2011009809/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 23-01-2012 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2011. - Wet tot wijziging en aanvulling van het Strafwetboek teneinde het misbruik van de zwakke toestand van personen strafbaar te stellen, en de strafrechtelijke bescherming van kwetsbare personen tegen mishandeling uit te breiden

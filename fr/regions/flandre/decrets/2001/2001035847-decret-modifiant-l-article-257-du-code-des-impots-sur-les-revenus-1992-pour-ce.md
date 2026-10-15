@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/13/2001035847/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2001. - Décret modifiant l'article 257 du Code des impôts sur les revenus 1992, pour ce qui concerne le précompte immobilier. (Traduction).HI:??2,Session 2000-2001. Documents. - Proposition de décret n° 587/1. - Amendements nos 587/2 et 3. - Rapport n° 587/4. - Texte adopté par l'assemblée plénière n° 587/5. Annales. - Discussion et adoption : séances des 9 et 10 juillet 2001.

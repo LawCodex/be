@@ -12,7 +12,7 @@ published: 2006-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/03/24/2006201474/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2006. - Décret portant approbation de l'accord de coopération entre l'Etat, la Communauté flamande, la Région flamande, la Communauté française, la Région wallonne, la Communauté germanophone, la Région de Bruxelles-Capitale, la Commission communautaire commune et la Commission communautaire française portant création d'une Commission nationale pour les droits de l'enfant, conclu à Bruxelles le 19 septembre 2005.

@@ -17,7 +17,7 @@ department: "Communauté française"
 justel_notes:
   - "Intitulé modifié par ACF 2025-07-18/42 , art. 22, 009; En vigueur : 25-08-2025"
   - "Consultation des versions antérieures à partir du 03-04-2008 et mise à jour au 18-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2008. - Décret réglant l'organisation et le fonctionnement des instances chargées de la coordination et de la gestion des Fonds structurels que l'Union européenne met à la disposition de [l'enseignement secondaire], l'enseignement secondaire en alternance, de l'enseignement secondaire technique et professionnel de plein exercice, de l'enseignement secondaire spécialisé, [de l'Enseignement pour Adultes] et de l'enseignement supérieur.

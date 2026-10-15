@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1984/05/29/1984024249/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 01-06-1994 en tekstbijwerking tot 31-05-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 1984. - Decreet houdende oprichting van de instelling Kind en Gezin.

@@ -12,7 +12,7 @@ entry_into_force: 2016-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/05/31/2016009275/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2016. - Loi modifiant la loi du 1er août 1985 portant des mesures fiscales et autres, concernant l'aide aux victimes d'actes intentionnels de violence

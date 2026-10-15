@@ -12,7 +12,7 @@ entry_into_force: 2019-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/01/15/2019030068/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 2019. - Wet tot wijziging van de wet van 1 augustus 1985 houdende fiscale en andere bepalingen wat de occasionele redders en de slachtoffers van zogenaamde "cold cases" betreft

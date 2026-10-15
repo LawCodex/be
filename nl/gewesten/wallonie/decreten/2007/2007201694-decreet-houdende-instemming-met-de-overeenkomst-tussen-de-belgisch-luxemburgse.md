@@ -13,7 +13,7 @@ entry_into_force: 2007-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/05/03/2007201694/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2007. - Decreet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Republiek Mauritius, anderzijds, inzake de wederzijdse bevordering en bescherming van investeringen, opgemaakt te Brussel op 30 november 2005 (VERTALING).

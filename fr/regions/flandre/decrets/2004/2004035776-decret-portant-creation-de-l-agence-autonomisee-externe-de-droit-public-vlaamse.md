@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/30/2004035776/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-11-2006 et mise à jour au 05-08-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2004. - Décret portant création de l'agence autonomisée externe de droit public " Vlaamse Reguleringsinstantie voor de Elektriciteits- en Gasmarkt " (Autorité de régulation flamande pour le marché de l'Electricité et du Gaz) (TRADUCTION).

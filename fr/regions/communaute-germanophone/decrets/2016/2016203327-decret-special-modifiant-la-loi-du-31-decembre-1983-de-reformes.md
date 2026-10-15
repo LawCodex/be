@@ -13,7 +13,7 @@ entry_into_force: 2016-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/05/30/2016203327/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2016. - Décret spécial modifiant la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone ainsi que la loi du 6 juillet 1990 règlant les modalités de l'élection du parlement de la Communauté germanophone

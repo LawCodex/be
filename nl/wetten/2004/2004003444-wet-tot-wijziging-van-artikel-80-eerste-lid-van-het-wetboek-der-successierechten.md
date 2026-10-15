@@ -11,7 +11,7 @@ entry_into_force: 2004-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/11/10/2004003444/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2004. - Wet tot wijziging van artikel 80, eerste lid, van het Wetboek der successierechten.

@@ -13,7 +13,7 @@ entry_into_force: 2021-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/04/02/2021031100/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2021. - Décret modifiant le Décret sur l'Energie du 8 mai 2009, en ce qui concerne l'échange de données entre les prêteurs et VEKA

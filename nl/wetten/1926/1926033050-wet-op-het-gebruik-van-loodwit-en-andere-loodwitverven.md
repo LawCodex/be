@@ -13,7 +13,7 @@ last_amended: 2010-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1926/03/30/1926033050/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 22-04-1926 en tekstbijwerking tot 01-07-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 1926. - Wet op het gebruik van loodwit en andere loodwitverven

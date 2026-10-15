@@ -11,7 +11,7 @@ published: 2026-05-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/05/11/2023A43163/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2026. - Convention internationale de 2010 sur la responsabilité et l'indemnisation pour les dommages liés au transport par mer de substances nocives et potentiellement dangereuses, faite à Londres le 30 avril 2010, et portant modification du Code belge de navigation

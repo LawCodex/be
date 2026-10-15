@@ -13,7 +13,7 @@ entry_into_force: 2017-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/24/2017011135/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2017. - Decreet tot wijziging van artikel 8 en 10 van de wet van 25 juni 1993 betreffende de uitoefening en de organisatie van ambulante en kermisactiviteiten

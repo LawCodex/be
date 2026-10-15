@@ -12,7 +12,7 @@ published: 2015-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/09/2015029345/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2015. - Decreet tot wijziging van het decreet van 16 april 1991 houdende organisatie van het onderwijs voor sociale promotie

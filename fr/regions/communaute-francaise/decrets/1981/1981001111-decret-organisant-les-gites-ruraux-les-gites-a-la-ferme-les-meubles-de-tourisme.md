@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1981/06/16/1981001111/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 01-01-1987 et mise à jour au 11-03-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 1981. - Décret organisant les gîtes ruraux, les gîtes à la ferme, les meublés de tourisme et les chambres d'hôte. - (NOTE 1 : Cesse d'être applicable en ce qui concerne les chambres d'hôtes pour la Commission communautaire française &lt;DEC 1999-01-14/34, art. 10, En vigueur : indéterminée &gt;) - (NOTE 2 : Abrogé pour la Région wallonne par &lt;DRW 2003-12-18/93, art. 156, 003; En vigueur : 01-01-2005&gt;) -

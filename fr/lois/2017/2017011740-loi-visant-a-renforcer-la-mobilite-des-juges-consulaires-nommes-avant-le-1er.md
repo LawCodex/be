@@ -12,7 +12,7 @@ entry_into_force: 2017-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/04/09/2017011740/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 AVRIL 2017. - Loi visant à renforcer la mobilité des juges consulaires nommés avant le 1er avril 2014

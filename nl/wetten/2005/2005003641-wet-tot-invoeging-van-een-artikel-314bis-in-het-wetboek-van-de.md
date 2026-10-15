@@ -10,7 +10,7 @@ date: 2005-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/08/10/2005003641/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2005. - Wet tot invoeging van een artikel 314bis in het Wetboek van de inkomstenbelastingen 1992.

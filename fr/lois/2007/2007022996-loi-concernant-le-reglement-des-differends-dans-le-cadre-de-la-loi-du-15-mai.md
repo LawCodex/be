@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/15/2007022996/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2007 et mise à jour au 02-04-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2007. - Loi concernant le règlement des différends dans le cadre de la loi du 15 mai 2007 relative à l'indemnisation des dommages résultant de soins de santé. .

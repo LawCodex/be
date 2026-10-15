@@ -12,7 +12,7 @@ entry_into_force: 2020-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/12/20/2021020015/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2020. - Wet tot wijziging van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap, houdende de aanpassing van het leeftijdscriterium van 21 naar 18 jaar

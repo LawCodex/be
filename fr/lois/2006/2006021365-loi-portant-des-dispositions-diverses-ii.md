@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/27/2006021365/justel"
 department: "Chancellerie du Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 28-12-2006 et mise à jour au 22-08-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 2006. - Loi portant des dispositions diverses (II)

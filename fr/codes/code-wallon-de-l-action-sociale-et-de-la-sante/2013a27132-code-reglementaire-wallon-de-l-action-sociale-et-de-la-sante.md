@@ -17,7 +17,7 @@ justel_notes:
   - "art. 1458-1503 abrogés avec effet à une date indéterminée par ARW 2019-05-16/87 , art. 57, 075; En vigueur : indéterminée "
   - "art. 1504-1513 abrogés avec effet à une date indéterminée par ARW 2019-05-16/87 , art. 59, 075; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 30-08-2013 et mise à jour au 16-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2013. - Code réglementaire wallon de l'Action sociale et de la Santé

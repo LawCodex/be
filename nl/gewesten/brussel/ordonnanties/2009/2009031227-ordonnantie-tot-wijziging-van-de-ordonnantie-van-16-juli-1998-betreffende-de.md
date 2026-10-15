@@ -13,7 +13,7 @@ entry_into_force: 2009-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/04/30/2009031227/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Ordonnantie tot wijziging van de ordonnantie van 16 juli 1998 betreffende de toekenning van subsidies om investeringen van openbaar nut aan te moedigen en de ordonnantie van 19 juli 2001 betreffende de organisatie van de elektriciteitsmarkt in het Brussels Hoofdstedelijk Gewest

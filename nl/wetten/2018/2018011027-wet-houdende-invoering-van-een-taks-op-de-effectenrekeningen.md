@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/02/07/2018011027/justel"
 department: "Financiën"
 justel_note: "bij arrest nr 138/2019 van 17-10-2019 (BS van 05-11-2019, p. 103582) heeft het Grondwettelijk hof dit wet vernietigd en haandhaaft de gevolgen van de vernietigde bepalingen voor de taks die verschuldigd is voor de referentieperiodes die eindigen vóór of op 30 september 2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEBRUARI 2018. - Wet houdende invoering van een taks op de effectenrekeningen.

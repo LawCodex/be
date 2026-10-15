@@ -16,7 +16,7 @@ department: "Franse Gemeenschapscommissie"
 justel_notes:
   - "voor de wijzigingen aangebracht bij DEC 2006-02-17/56 , zie Franse versie"
   - "Raadpleging van vroegere versies vanaf 09-07-1997 en tekstbijwerking tot 26-02-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUNI 1997. - Decreet houdende oprichting van de Brusselse Franstalige Adviesraad voor Welzijnszorg en Gezondheid. (VERTALING).

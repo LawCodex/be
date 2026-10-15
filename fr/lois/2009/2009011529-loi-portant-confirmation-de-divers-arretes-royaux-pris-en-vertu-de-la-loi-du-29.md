@@ -12,7 +12,7 @@ entry_into_force: 2010-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/12/15/2009011529/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2009. - Loi portant confirmation de divers arrêtés royaux pris en vertu de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité et de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations

@@ -12,7 +12,7 @@ entry_into_force: 2007-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/21/2007011006/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2006. - Wet houdende diverse bepalingen met het oog op de oprichting van de ombudsdienst voor de postsector en tot wijziging van de wet van 13 juni 2005 betreffende de elektronische communicatie.

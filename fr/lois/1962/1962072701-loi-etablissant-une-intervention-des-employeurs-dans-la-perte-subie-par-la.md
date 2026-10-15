@@ -11,7 +11,7 @@ published: 1962-07-31
 entry_into_force: 1962-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1962/07/27/1962072701/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUILLET 1962. - Loi établissant une intervention des employeurs dans la perte subie par la Société nationale des Chemins de fer belges par l'émission d'abonnements pour ouvriers et employés.

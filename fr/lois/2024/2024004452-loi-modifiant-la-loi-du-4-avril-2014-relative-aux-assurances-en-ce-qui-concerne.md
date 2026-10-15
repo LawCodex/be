@@ -12,7 +12,7 @@ entry_into_force: 2024-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/21/2024004452/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2024. - Loi modifiant la loi du 4 avril 2014 relative aux assurances en ce qui concerne les motifs d'exclusion liés à une tentative de suicide dans l'assurance maladie non obligatoire

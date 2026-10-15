@@ -13,7 +13,7 @@ entry_into_force: 2015-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/07/02/2015031431/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2015. - Ordonnance portant assentiment au : Traité entre le Royaume de Belgique et le Royaume des Pays-Bas pour le développement de la coopération et de l'entraide administrative en matière de sécurité sociale, fait à Bruxelles le 6 décembre 2010

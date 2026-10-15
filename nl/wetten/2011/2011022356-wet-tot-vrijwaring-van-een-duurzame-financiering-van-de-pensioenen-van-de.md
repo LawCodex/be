@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/10/24/2011022356/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg - Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 03-11-2011 en tekstbijwerking tot 22-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2011. - Wet tot vrijwaring van een duurzame financiering van de pensioenen van de vastbenoemde personeelsleden van de provinciale en plaatselijke overheidsdiensten en van de lokale politiezones, tot wijziging van de wet van 6 mei 2002 tot oprichting van het fonds voor de pensioenen van de geïntegreerde politie en houdende bijzondere bepalingen inzake sociale zekerheid en houdende diverse wijzigingsbepalingen

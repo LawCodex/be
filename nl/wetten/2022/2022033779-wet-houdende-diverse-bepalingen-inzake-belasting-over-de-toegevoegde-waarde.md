@@ -11,7 +11,7 @@ published: 2022-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/10/16/2022033779/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 2022. - Wet houdende diverse bepalingen inzake belasting over de toegevoegde waarde

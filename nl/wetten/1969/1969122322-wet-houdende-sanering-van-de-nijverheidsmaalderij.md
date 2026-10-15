@@ -11,7 +11,7 @@ published: 1969-12-30
 entry_into_force: 1970-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1969/12/23/1969122322/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1969. - Wet houdende sanering van de nijverheidsmaalderij.

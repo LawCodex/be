@@ -12,7 +12,7 @@ published: 2012-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/29/2012035844/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2012. - Decreet betreffende de noodzakelijke bepalingen voor de organisatie van het onderwijs

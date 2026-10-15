@@ -13,7 +13,7 @@ entry_into_force: 2024-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/22/2024000134/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2023. - Décret portant assentiment à l'Accord-cadre global de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et le Royaume de Thaïlande, d'autre part, fait à Bruxelles le 14 décembre 2022

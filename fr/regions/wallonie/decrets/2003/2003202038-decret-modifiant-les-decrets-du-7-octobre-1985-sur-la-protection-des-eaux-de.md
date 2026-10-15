@@ -13,7 +13,7 @@ entry_into_force: 2001-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/10/22/2003202038/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2003. - Décret modifiant les décrets du 7 octobre 1985 sur la protection des eaux de surface contre la pollution, du 30 avril 1999 instituant une taxe sur le déversement des eaux usées industrielles et domestiques, du 15 avril 1999 relatif au cycle de l'eau et instituant une Société publique de Gestion de l'Eau, et du 7 mars 2001 portant réforme de la Société wallonne des Distributions d'Eau.

@@ -12,7 +12,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/06/20/2005003649/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2005. - Wet houdende wijziging van de wet van 9 juli 1975 betreffende de controle der verzekeringsondernemingen, de wet van 22 maart 1993 op het statuut van en het toezicht op de kredietinstellingen, de wet van 6 april 1995 inzake het statuut van en het toezicht op de beleggingsondernemingen, de bemiddelaars en de beleggingsadviseurs en de wet van 20 juli 2004 betreffende bepaalde vormen van collectief beheer van beleggingsportefeuilles, en houdende andere diverse bepalingen.

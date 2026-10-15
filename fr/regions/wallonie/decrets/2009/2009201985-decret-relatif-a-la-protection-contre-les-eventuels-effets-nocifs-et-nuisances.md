@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/03/2009201985/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 06-05-2009 et mise à jour au 16-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2009. - Décret relatif à la protection contre les éventuels effets nocifs et nuisances provoqués par les rayonnements non ionisants générés par des antennes émettrices stationnaires

@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/12/14/2017032092/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2017. - Ordonnance modifiant l'ordonnance du 26 juillet 2013 transposant la Directive 2011/16/UE du Conseil du 15 février 2011 relative à la coopération administrative dans le domaine fiscal, abrogeant la Directive 77/799/CEE et modifiant l'article 40, § 1er, de l'ordonnance du 12 décembre 2016 portant la deuxième partie de la réforme fiscale

@@ -12,7 +12,7 @@ entry_into_force: 2020-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/04/2020202185/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2020. - Loi modifiant l'arrêté royal du 25 novembre 1991 portant réglementation du chômage en ce qui concerne les allocations de chômage temporaire pour les travailleurs des entreprises de travail adapté

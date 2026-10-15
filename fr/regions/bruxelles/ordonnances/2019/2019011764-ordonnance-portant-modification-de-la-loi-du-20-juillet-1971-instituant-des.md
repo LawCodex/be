@@ -12,7 +12,7 @@ published: 2019-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/04/04/2019011764/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2019. - Ordonnance portant modification de la loi du 20 juillet 1971 instituant des prestations familiales garanties

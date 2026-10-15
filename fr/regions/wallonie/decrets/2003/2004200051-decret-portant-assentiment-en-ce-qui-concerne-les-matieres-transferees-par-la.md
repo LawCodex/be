@@ -13,7 +13,7 @@ entry_into_force: 2004-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/04/2004200051/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2003. - Décret portant assentiment, en ce qui concerne les matières transférées par la Communauté française, à l'Accord de coopération entre, d'une part, la Région wallonne et la Communauté française de Belgique, et, d'autre part, la République de Lettonie, fait à Riga, le 12 juillet 2002.

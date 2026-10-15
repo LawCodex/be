@@ -11,7 +11,7 @@ published: 2014-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/28/2014015108/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2014. - Wet houdende instemming met de Overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk Belgie en de Republiek Servië, opgemaakt te Brussel op 15 juli 2010

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/05/14/2001011189/justel"
 department: "Economische Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 22-12-2001 en tekstbijwerking tot 21-06-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MEI 2001. - Wet tot regeling van de debetrente op zichtrekeningen. .

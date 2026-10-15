@@ -13,7 +13,7 @@ entry_into_force: 2007-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/03/30/2007029145/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2007. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, de Franse Gemeenschap en het Waalse Gewest betreffende het administratief en financieel beheer van de provinciale coördinaties voor de gelijkheid tussen mannen en vrouwen (VERTALING).

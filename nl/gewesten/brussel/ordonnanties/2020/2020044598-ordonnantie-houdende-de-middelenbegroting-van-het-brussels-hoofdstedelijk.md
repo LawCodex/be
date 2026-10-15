@@ -13,7 +13,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/12/18/2020044598/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2020. - Ordonnantie houdende de Middelenbegroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2021

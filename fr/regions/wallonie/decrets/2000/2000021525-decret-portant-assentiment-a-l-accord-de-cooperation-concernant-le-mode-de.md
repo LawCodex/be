@@ -13,7 +13,7 @@ entry_into_force: 1997-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/06/23/2000021525/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2000. - Décret portant assentiment à l'accord de coopération concernant le mode de répartition des frais des receveurs régionaux et le mode de prélèvement de la contribution dans ces frais par les administrations, conclu à Bruxelles, le 9 décembre 1997, entre l'Etat, la Communauté flamande, la Région wallonne et la Communauté germanophone.

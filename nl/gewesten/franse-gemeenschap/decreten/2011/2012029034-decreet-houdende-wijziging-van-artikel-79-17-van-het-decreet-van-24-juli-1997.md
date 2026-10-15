@@ -13,7 +13,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/12/20/2012029034/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2011. - Decreet houdende wijziging van artikel 79/17 van het decreet van 24 juli 1997 dat de prioritaire taken bepaalt van het basisonderwijs en van het secundair onderwijs en de structuren organiseert die het mogelijk maken ze uit te voeren, met als doel de inachtneming van het arrest nr. 4/2011 van het Grondwettelijk Hof van 13 januari 2011

@@ -13,7 +13,7 @@ entry_into_force: 2022-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/03/31/2022040715/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2022. - Ordonnance modifiant le Code bruxellois du Logement en matière de droit de gestion publique et de logements inoccupés

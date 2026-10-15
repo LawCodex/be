@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/10/14/2019204910/justel"
 department: "Volksgezondheid"
 justel_note: "Raadpleging van vroegere versies vanaf 18-12-2019 en tekstbijwerking tot 16-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2019. - Decreet houdende erkenning van assistentiedieren en betreffende het recht van personen in begeleiding van een assistentiedier om toegang te hebben tot publieke plaatsen

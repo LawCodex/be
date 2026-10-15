@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/01/22/2015200349/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 2015. - Décret modifiant certaines dispositions du Code wallon de l'Action sociale et de la Santé relatives aux accords sociaux dits " du non-marchand "

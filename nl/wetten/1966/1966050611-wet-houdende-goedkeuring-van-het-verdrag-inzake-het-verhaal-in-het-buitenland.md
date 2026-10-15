@@ -11,7 +11,7 @@ published: 1966-07-30
 entry_into_force: 1966-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1966/05/06/1966050611/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 1966. - Wet houdende goedkeuring van het verdrag inzake het verhaal in het buitenland van uitkeringen tot onderhoud, opgemaakt op 20 juni 1958, te New York.

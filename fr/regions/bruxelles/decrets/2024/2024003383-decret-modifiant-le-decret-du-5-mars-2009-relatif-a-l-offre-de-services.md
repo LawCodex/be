@@ -13,7 +13,7 @@ entry_into_force: 2024-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/02/01/2024003383/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2024. - Décret modifiant le décret du 5 mars 2009 relatif à l'offre de services ambulatoires dans les domaines de l'Action sociale, de la Famille et de la Santé

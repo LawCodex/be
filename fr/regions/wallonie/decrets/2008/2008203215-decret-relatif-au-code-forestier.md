@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/15/2008203215/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 12-09-2008 et mise à jour au 25-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2008. - Décret relatif au Code forestier

@@ -12,7 +12,7 @@ entry_into_force: 2005-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/05/11/2005015076/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2005. - Loi portant assentiment à la Convention, établie par le Conseil conformément à l'article 34 du Traité sur l'Union européenne, relative à l'entraide judiciaire en matière pénale entre les Etats membres de l'Union européenne, faite à Bruxelles le 29 mai 2000 et au Protocole à la Convention relative à l'entraide judiciaire en matière pénale entre les Etats membres de l'Union européenne, établi par le Conseil conformément à l'article 34 du Traité sur l'Union européenne, fait à Luxembourg le 16 octobre 2001.

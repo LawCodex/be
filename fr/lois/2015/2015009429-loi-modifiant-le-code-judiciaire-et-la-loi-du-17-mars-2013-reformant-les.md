@@ -12,7 +12,7 @@ entry_into_force: 2015-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/08/10/2015009429/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2015. - Loi modifiant le Code judiciaire et la loi du 17 mars 2013 réformant les régimes d'incapacité et instaurant un nouveau statut de protection conforme à la dignité humaine

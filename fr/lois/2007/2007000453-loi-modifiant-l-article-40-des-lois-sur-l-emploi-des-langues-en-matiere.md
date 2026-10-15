@@ -12,7 +12,7 @@ entry_into_force: 2007-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/21/2007000453/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2007. - Loi modifiant l'article 40 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966.

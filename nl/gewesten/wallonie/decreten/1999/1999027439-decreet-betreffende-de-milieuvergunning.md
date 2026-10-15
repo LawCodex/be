@@ -17,7 +17,7 @@ department: "Waalse Gewest"
 justel_notes:
   - "art. 14 ; 15 ; 16 ; 18 ; 19 ; 20 ; 23 ; 35 ; 37 ; 38 ; 40 ; 45 ; 50 ; 53 ; 55 ; 58 ; 60 ; 65 ; 70 ; 71 ; 76quater ; 82 ; 84 ; 85 ; 86 ; 92 ; 93 ; 94 ; 94bis ; 95 ; 176 ; 177 gewijzigd met ingang op een onbepaalde datum bij DWG 2018-05-24/14 , art. 3 en z., 036; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 08-06-1999 en tekstbijwerking tot 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 1999. - Decreet betreffende de milieuvergunning

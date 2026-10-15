@@ -13,7 +13,7 @@ entry_into_force: 2024-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/22/2024003624/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2024. - Décret modifiant le décret du 8 mai 2002 relatif à la participation proportionnelle sur le marché de l'emploi et le décret du 10 juillet 2008 portant le cadre de la politique flamande de l'égalité des chances et de traitement

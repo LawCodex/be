@@ -12,7 +12,7 @@ published: 1996-10-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/06/25/1996033078/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 1996. - Decreet betreffende het loopbaaneinde en het bijzonder verlof wegens verminderde dienstprestaties in het onderwijs en in de psycho-medische centra alsmede tot wijziging van Art. 10 van het koninklijk besluit nr. 63 van 20 juli 1982 houdende wijziging van de bezoldigingsregels van toepassing op het onderwijzend en daarmee gelijkgesteld personeel van het onderwijs met volledig leerplan en van het onderwijs voor sociale promotie of met beperkt leerplan (VERTALING).

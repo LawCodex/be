@@ -12,7 +12,7 @@ entry_into_force: 2013-11-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/03/20/2013015245/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2013. - Loi portant assentiment à l'Accord entre la Communauté européenne et ses Etats membres, d'une part, et la République d'Afrique du Sud, d'autre part, modifiant l'Accord sur le commerce, le développement et la coopération, fait à Kleinmond, Afrique du Sud, le 11 septembre 2009

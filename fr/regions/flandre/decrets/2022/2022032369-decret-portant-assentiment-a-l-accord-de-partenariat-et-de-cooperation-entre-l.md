@@ -13,7 +13,7 @@ entry_into_force: 2022-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/03/2022032369/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2022. - Décret portant assentiment à l'accord de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la République de Singapour, d'autre part, signé à Bruxelles le 19 octobre 2018

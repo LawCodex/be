@@ -13,7 +13,7 @@ entry_into_force: 1999-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/01/1999027313/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 1999. - Decreet tot wijziging van het decreet van 11 juli 1996 betreffende het Interdepartementaal Begrotingsfonds ter bevordering van de werkgelegenheid in de niet-commerciële sector (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 1984-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/05/04/1984009660/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 1984. - Loi portant modification du Code judiciaire en vue de la constitution de deux ordres d'avocats dans l'arrondissement judiciaire de Bruxelles.

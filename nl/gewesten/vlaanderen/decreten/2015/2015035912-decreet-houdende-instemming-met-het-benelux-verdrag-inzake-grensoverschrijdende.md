@@ -13,7 +13,7 @@ entry_into_force: 2015-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/26/2015035912/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2015. - Decreet houdende instemming met het Benelux-Verdrag inzake grensoverschrijdende en interterritoriale samenwerking, ondertekend te 's-Gravenhage op 20 februari 2014

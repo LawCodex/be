@@ -13,7 +13,7 @@ last_amended: 2026-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1923/07/24/1923072450/justel"
 justel_note: "Consultation des versions antérieures à partir du 23-02-2005 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 1923. - LOI sur la protection des pigeons militaires et la répression de l'emploi des pigeons pour l'espionnage.

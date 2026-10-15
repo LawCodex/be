@@ -13,7 +13,7 @@ entry_into_force: 2009-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/08/2009035676/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2009. - Décret portant assentiment à la convention sur les droits de personnes handicapées et au protocole facultatif à la convention sur les droits de personnes handicapées, faits à New York le 13 décembre 2006

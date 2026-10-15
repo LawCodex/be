@@ -12,7 +12,7 @@ entry_into_force: 2001-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/04/2001009622/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2001. - Loi modifiant certaines dispositions du Code d'instruction criminelle et modifiant la loi du 19 février 2001 relative à la médiation en matière familiale dans le cadre d'une procédure judiciaire.

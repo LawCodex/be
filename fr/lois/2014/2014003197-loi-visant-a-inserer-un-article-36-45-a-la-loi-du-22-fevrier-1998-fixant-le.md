@@ -12,7 +12,7 @@ entry_into_force: 2014-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/08/2014003197/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2014. - Loi visant à insérer un article 36/45 à la loi du 22 février 1998 fixant le statut organique de la Banque nationale de Belgique

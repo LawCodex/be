@@ -13,7 +13,7 @@ entry_into_force: 2018-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/29/2018013014/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2018. - Decreet houdende instemming met de brede en versterkte partnerschapsovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en de Republiek Armenië, anderzijds, ondertekend te Brussel op 24 november 2017

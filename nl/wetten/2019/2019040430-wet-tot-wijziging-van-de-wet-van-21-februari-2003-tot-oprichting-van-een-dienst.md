@@ -12,7 +12,7 @@ entry_into_force: 2019-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/02/11/2019040430/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEBRUARI 2019. - Wet tot wijziging van de wet van 21 februari 2003 tot oprichting van een dienst voor alimentatievorderingen bij de FOD Financiën wat de automatisering van de uitvoerbare titel betreft

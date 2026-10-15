@@ -12,7 +12,7 @@ entry_into_force: 1967-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1967/04/01/1967040151/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 1967. - Loi portant approbation de la Convention générale entre le Royaume de Belgique et la République populaire de Pologne sur la sécurité sociale, signée à Bruxelles, le 26 novembre 1965.

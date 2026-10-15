@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/03/14/2023041135/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 03-04-2023 en tekstbijwerking tot 24-11-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2023. - Wet houdende oprichting en organisatie van het Gezondheids(zorg)data-agentschap

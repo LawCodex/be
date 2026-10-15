@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/18/2021021422/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 26-07-2021 en tekstbijwerking tot 27-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2021. - Decreet tot wijziging van regelgeving in het kader van de Vlaamse sociale bescherming

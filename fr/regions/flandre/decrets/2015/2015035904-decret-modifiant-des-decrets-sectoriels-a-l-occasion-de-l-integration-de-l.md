@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/19/2015035904/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2015. - Décret modifiant des décrets sectoriels à l'occasion de l'intégration de l'agence autonomisée interne " Zorginspectie " (Inspection des Soins) dans le Département du Bien-Etre, de la Santé publique et de la Famille

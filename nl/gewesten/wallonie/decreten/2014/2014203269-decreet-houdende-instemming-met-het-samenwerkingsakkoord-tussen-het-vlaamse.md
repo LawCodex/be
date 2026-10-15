@@ -13,7 +13,7 @@ entry_into_force: 2014-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/27/2014203269/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Decreet houdende instemming met het samenwerkingsakkoord tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de invoering van de kilometerheffing op het gebied van de drie Gewesten en betreffende de oprichting van een publiekrechtelijk interregionaal samenwerkingsverband Viapass in de vorm van een gemeenschappelijke instelling zoals bedoeld in artikel 92bis, § 1, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen

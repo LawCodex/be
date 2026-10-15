@@ -12,7 +12,7 @@ entry_into_force: 2004-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/05/2003012206/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2003. - Bijzondere wet op de gewaarborgde aanwezigheid van personen van verschillend geslacht in de Vlaamse Regering, de Franse Gemeenschapsregering, de Waalse Regering, de Brusselse Hoofdstedelijke Regering en onder de Gewestelijke Staatssecretarissen van het Brussels Hoofdstedelijk Gewest.

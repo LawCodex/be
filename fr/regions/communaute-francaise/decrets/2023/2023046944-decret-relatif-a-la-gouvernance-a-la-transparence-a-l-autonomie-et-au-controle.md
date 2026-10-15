@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/05/2023046944/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 12-01-2024 et mise à jour au 07-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 OCTOBRE 2023. - Décret relatif à la gouvernance, à la transparence, à l'autonomie et au contrôle des organismes, des sociétés de bâtiments scolaires et des sociétés de gestion patrimoniale qui dépendent de la Communauté française

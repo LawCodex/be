@@ -12,7 +12,7 @@ entry_into_force: 2006-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/01/2006022456/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MEI 2006. - Wet tot wijziging van de wet van 19 februari 1965 betreffende de uitoefening van de zelfstandige beroepsactiviteiten der vreemdelingen.

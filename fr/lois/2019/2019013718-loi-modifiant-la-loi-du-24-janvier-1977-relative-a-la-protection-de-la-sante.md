@@ -12,7 +12,7 @@ entry_into_force: 2019-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/07/12/2019013718/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2019. - Loi modifiant la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits afin d'interdire la vente de tabac et de produits similaires à des mineurs

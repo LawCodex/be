@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/24/2014203301/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2014. - Decreet houdende instemming met het samenwerkingsakkoord van 7 januari 2014 tussen de Federale Staat, de Gemeenschappen en de Gewesten betreffende het strafrechtelijk beleid en het veiligheidsbeleid voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet

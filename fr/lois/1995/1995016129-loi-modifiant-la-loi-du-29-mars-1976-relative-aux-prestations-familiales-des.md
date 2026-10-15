@@ -12,7 +12,7 @@ entry_into_force: 1995-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/06/1995016129/justel"
 department: "Classes Moyennes - Agriculture"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1995. - Loi modifiant la loi du 29 mars 1976 relative aux prestations familiales des travailleurs indépendants.

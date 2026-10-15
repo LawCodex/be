@@ -11,7 +11,7 @@ published: 1980-02-20
 entry_into_force: 1980-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1980/01/31/1980013101/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 1980. Wet houdende goedkeuring van de Benelux-Overeenkomst houdende eenvormige wet betreffende de dwangsom, en van de Bijlage (eenvormige wet betreffende de dwangsom), ondertekend te 's-Gravenhage op 26 november 1973.

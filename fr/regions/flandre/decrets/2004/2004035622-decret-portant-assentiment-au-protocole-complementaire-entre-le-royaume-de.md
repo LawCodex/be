@@ -13,7 +13,7 @@ entry_into_force: 2004-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/19/2004035622/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2004. - Décret portant assentiment au Protocole complémentaire entre le Royaume de Belgique et l'Autorité de surveillance de l'Association européenne de libre-échange, signé à Bruxelles le 6 juillet 2001 (TRADUCTION).

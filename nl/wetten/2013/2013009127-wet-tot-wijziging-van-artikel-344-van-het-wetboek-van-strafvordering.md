@@ -12,7 +12,7 @@ entry_into_force: 2013-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/03/17/2013009127/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2013. - Wet tot wijziging van artikel 344 van het wetboek van strafvordering

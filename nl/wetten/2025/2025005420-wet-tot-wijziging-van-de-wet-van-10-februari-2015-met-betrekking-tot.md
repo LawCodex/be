@@ -12,7 +12,7 @@ entry_into_force: 2025-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/07/16/2025005420/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2025. - Wet tot wijziging van de wet van 10 februari 2015 met betrekking tot geautomatiseerde verwerkingen van persoonsgegevens die noodzakelijk zijn voor de Belgische paspoorten en reisdocumenten

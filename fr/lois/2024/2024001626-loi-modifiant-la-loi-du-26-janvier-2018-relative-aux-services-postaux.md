@@ -12,7 +12,7 @@ entry_into_force: 2024-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/02/21/2024001626/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2024. - Loi modifiant la loi du 26 janvier 2018 relative aux services postaux

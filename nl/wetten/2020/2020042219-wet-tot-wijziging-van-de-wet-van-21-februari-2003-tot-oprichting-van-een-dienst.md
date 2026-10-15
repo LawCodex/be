@@ -12,7 +12,7 @@ entry_into_force: 2020-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/07/09/2020042219/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2020. - Wet tot wijziging van de wet van 21 februari 2003 tot oprichting van een Dienst voor alimentatievorderingen bij de FOD Financiën met het oog op de afschaffing van de inkomensvoorwaarde voor de toekenning van voorschotten op het onderhoudsgeld dat verschuldigd is aan kinderen en het toepasbaar maken van sommige bepalingen van het Wetboek van de minnelijke en gedwongen invordering van fiscale en niet-fiscale schuldvorderingen en tot wijziging van artikel 11 van de wet van 29 maart 2018 tot uitbreiding van de opdrachten en versterking van de rol van de fiscale bemiddelingsdienst

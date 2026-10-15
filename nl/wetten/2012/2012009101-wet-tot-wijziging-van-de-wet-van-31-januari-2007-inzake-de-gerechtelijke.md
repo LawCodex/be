@@ -12,7 +12,7 @@ entry_into_force: 2011-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/02/23/2012009101/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 FEBRUARI 2012. - Wet tot wijziging van de wet van 31 januari 2007 inzake de gerechtelijke opleiding en tot oprichting van het Instituut voor gerechtelijke opleiding

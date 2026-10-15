@@ -12,7 +12,7 @@ entry_into_force: 2022-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/05/05/2022A20788/justel"
 department: "Federale Kamers"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2020. - Overeenkomst tot beëindiging van bilaterale investeringsverdragen tussen de lidstaten van de Europese Unie, gedaan te Brussel op 5 mei 2020

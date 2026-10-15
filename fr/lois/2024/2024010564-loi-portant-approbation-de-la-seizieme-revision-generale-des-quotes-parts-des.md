@@ -12,7 +12,7 @@ entry_into_force: 2024-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/11/19/2024010564/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2024. - Loi portant approbation de la seizième révision générale des quotes-parts des membres du Fonds monétaire international, suivant la Résolution 79-1 du 15 décembre 2023 du Conseil des Gouverneurs du Fonds monétaire international

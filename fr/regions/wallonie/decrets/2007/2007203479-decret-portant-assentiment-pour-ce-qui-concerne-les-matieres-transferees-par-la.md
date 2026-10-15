@@ -13,7 +13,7 @@ entry_into_force: 2007-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/22/2007203479/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2007. - Décret portant assentiment, pour ce qui concerne les matières transférées par la Communauté française, à l'Accord interne entre les représentants des Gouvernements des Etats membres, réunis au sein du Conseil, modifiant l'Accord interne du 18 septembre 2000 relatif aux mesures à prendre et aux procédures à suivre pour la mise en oeuvre de l'Accord de partenariat ACP-CE, fait à Luxembourg, le 10 avril 2006.

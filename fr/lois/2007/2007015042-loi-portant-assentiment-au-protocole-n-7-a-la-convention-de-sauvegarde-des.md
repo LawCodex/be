@@ -12,7 +12,7 @@ entry_into_force: 2012-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/06/2007015042/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2007. - Loi portant assentiment au Protocole n° 7 à la Convention de Sauvegarde des Droits de l'Homme et des Libertés fondamentales, fait à Strasbourg le 22 novembre 1984

@@ -12,7 +12,7 @@ entry_into_force: 1997-09-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/06/10/1997015121/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 1996. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République de Géorgie concernant la promotion et la protection réciproques des investissements, signés à Bruxelles le 23 juin 1993.

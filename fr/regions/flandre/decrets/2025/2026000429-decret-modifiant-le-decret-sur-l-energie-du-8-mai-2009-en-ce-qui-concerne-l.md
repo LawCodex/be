@@ -13,7 +13,7 @@ entry_into_force: 2026-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/12/2026000429/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2025. - Décret modifiant le Décret sur l'Energie du 8 mai 2009, en ce qui concerne l'introduction d'un cadre réglementaire pour les contrats de raccordement flexibles

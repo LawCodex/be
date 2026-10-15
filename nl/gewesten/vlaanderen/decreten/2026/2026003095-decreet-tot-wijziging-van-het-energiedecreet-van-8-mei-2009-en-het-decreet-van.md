@@ -13,7 +13,7 @@ entry_into_force: 2026-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/04/03/2026003095/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2026. - Decreet tot wijziging van het Energiedecreet van 8 mei 2009 en het decreet van 19 april 2024 over de operationalisering van een Vlaamse Nutsregulator, wat betreft energie-efficiëntie

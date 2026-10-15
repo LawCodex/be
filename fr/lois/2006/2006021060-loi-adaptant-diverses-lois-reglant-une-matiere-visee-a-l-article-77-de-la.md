@@ -12,7 +12,7 @@ entry_into_force: 2006-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/03/27/2006021060/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2006. - Loi adaptant diverses lois réglant une matière visée à l'article 77 de la Constitution à la nouvelle dénomination des assemblées législatives des Communautés et des Régions.

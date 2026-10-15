@@ -11,7 +11,7 @@ last_amended: 2019-09-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1970/07/07/1970070701/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-07-2003 en tekstbijwerking tot 19-09-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 1970. - Wet betreffende de algemene structuur van het hoger onderwijs. (NOTA 1 : Opgeheven voor het hoger onderwijs met volledig leerplan bij DVR 13-07-1994, art. 365, 23° BS 31-08-1994, Inwerkingtreding : 01-09-1995, behalve hoofdstuk V dat in werking treedt op 01-09-1996 (BVR 09-05-1996, art. 1 en 2, BS 25-07-1996)). (NOOT 2 : De artikelen 2, 1° lid, 2bis, 2ter, 2quater, 3, 5, 5bis, § 1, a, b, c, e, § 2, § 3, a, b, 6, 7, 8, 9, 9bis, § 2, 11, 12, 13, 14 en 15 gelden niet voor de hogescholen (DFG 27-10-1994, art. 71, BS 05-11-1994), Inwerkingtreding : 05-11-1994 (BFG 27-10-1994, art. 1, BS 05-11-1994) en (DFG 05-08-1995, art. 96, BS 01-09-1995, Inwerkingtreding : 01-09-1995 (art. 107)). (NOTA 3 : opgeheven voor de Vlaamse Gemeenschap bij DVR 2004-03-19/84 , art. 4.1, 049; Inwerkingtreding : 01-09-2004, met uitzondering van artikel 1, § 1, en 2° artikel 2, derde, vierde en vijfde lid, voor zover deze voorschrijven dat : a) de studiën binnen de opleidingsvormen van het korte type van het hoger onderwijs ten minste twee jaar bedragen; b) de studiën binnen de opleidingsvormen van het lange type van het hoger onderwijs ten minste vier jaar bedragen) (NOTA 4 : opgeheven voor de Vlaamse overheid - met uitzondering van art. 1, § 1 - door DFG 2007-06-15/48 , art. 176, 1°, ; Inwerkingtreding : 01-09-2007&gt;)

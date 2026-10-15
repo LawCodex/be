@@ -13,7 +13,7 @@ entry_into_force: 2016-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/13/2016029340/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2016. - Décret relatif à la mise en oeuvre d'un cours de philosophie et de citoyenneté dans l'enseignement fondamental ainsi qu'au maintien de l'encadrement pédagogique alternatif dans l'enseignement secondaire

@@ -13,7 +13,7 @@ entry_into_force: 2018-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/29/2018013009/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2018. - Décret portant assentiment à l'accord économique et commercial global (AECG) entre l'Union européenne et ses Etats membres, d'une part, et le Canada, d'autre part, signé à Bruxelles le 30 octobre 2016 et à l'instrument interprétatif commun

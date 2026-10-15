@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/12/22/1990007012/justel"
 department: "Landsverdediging"
 justel_note: "Raadpleging van vroegere versies vanaf 19-01-1990 en tekstbijwerking tot 02-06-1995"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1989. - Wet betreffende het statuut van de dienstplichtigen.

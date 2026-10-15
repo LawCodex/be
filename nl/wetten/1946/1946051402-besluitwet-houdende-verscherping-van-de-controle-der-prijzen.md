@@ -11,7 +11,7 @@ published: 1946-05-16
 entry_into_force: 1946-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1946/05/14/1946051402/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MEI 1946. - BESLUITWET houdende verscherping van de controle der prijzen.

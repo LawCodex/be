@@ -13,7 +13,7 @@ entry_into_force: 2023-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/11/23/2023047521/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Ordonnance portant assentiment à l'accord de coopération du 22 septembre 2023 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à certaines dispositions du partage des objectifs belges climat et énergie pour le début de la période 2021-2030 et au partage des revenus fédéraux de la mise aux enchères des quotas d'émissions pour les années 2015 à 2020 incluse

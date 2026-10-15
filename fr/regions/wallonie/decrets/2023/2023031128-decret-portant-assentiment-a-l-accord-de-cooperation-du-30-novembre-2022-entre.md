@@ -13,7 +13,7 @@ entry_into_force: 2023-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/20/2023031128/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2023. - Décret portant assentiment à l'accord de coopération du 30 novembre 2022 entre, d'une part, la Région wallonne et, d'autre part, l'Etat Fédéral ainsi que les autres entités fédérées de la Belgique visant à instaurer un mécanisme de filtrage des investissements directs étrangers

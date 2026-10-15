@@ -13,7 +13,7 @@ entry_into_force: 2006-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/03/17/2006035711/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2006. - Decreet tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden.

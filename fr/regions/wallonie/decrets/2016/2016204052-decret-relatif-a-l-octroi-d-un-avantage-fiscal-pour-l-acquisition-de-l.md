@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/20/2016204052/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2016. - Décret relatif à l'octroi d'un avantage fiscal pour l'acquisition de l'habitation propre : le Chèque Habitat

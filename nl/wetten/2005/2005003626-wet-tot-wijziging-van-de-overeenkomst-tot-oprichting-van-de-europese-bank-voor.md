@@ -11,7 +11,7 @@ published: 2005-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/07/14/2005003626/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2005. - Wet tot wijziging van de Overeenkomst tot oprichting van de Europese Bank voor Wederopbouw en Ontwikkeling.

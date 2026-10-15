@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/22/2010027184/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 20-08-2010 et mise à jour au 20-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2010. - Décret-programme portant des mesures diverses en matière de bonne gouvernance, de simplification administrative, d'énergie, de logement, de fiscalité, d'emploi, de politique aéroportuaire, d'économie, d'environnement, d'aménagement du territoire, de pouvoirs locaux, d'agriculture et de travaux publics

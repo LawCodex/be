@@ -13,7 +13,7 @@ entry_into_force: 2019-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/17/2019013590/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2019. - Décret portant diverses dispositions en matière de primes spécifiques au patrimoine immobilier

@@ -12,7 +12,7 @@ entry_into_force: 2012-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/02/15/2012000142/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2012. - Wet tot wijziging van de wet van 4 juli 1989 betreffende de beperking en de controle van de verkiezingsuitgaven voor de verkiezingen van de Federale Kamers, de financiering en de open boekhouding van de politieke partijen teneinde de dotaties voor de politieke partijen voor de begrotingsjaren 2012 en 2013 te bevriezen

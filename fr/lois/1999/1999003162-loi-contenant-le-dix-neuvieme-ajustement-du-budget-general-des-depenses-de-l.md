@@ -12,7 +12,7 @@ entry_into_force: 1999-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/10/1999003162/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 1999. - Loi contenant le dix-neuvième ajustement du budget général des dépenses de l'année budgétaire 1998 - Section 51 "Dette publique".

@@ -13,7 +13,7 @@ entry_into_force: 2017-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/04/27/2017012123/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2017. - Decreet houdende instemming met het Akkoord tussen het Koninkrijk België en het Koninkrijk der Nederlanden, ten behoeve van Aruba, inzake de uitwisseling van inlichtingen met betrekking tot belastingen, gedaan te Den Haag op 24 april 2014

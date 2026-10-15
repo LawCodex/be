@@ -12,7 +12,7 @@ published: 1972-05-27
 entry_into_force: 1972-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1972/05/03/1972050301/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 1972. - Decreet tot regeling van het gebruik van de Nederlandse taal bij de eedaflegging.

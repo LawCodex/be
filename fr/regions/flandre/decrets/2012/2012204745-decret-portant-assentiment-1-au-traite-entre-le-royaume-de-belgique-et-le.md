@@ -13,7 +13,7 @@ entry_into_force: 2012-09-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/13/2012204745/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2012. - DECRET portant assentiment : 1° au Traité entre le Royaume de Belgique et le Royaume des Pays-Bas en vue d'éviter les doubles impositions et de prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, aux Protocoles I et II, signés à Luxembourg le 5 juin 2001, tels que modifiés par le Protocole, signé à Berlin le 23 juin 2009, 2° au Protocole modifiant le Traité et aux Protocoles mentionnés au point 1°, signés à Berlin le 23 juin 200

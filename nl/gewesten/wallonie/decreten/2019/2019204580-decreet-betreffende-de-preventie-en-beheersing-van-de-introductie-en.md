@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019204580/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 16-10-2019 en tekstbijwerking tot 21-12-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten

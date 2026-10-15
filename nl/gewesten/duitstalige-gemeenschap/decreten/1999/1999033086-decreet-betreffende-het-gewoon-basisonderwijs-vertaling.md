@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/26/1999033086/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 06-10-1999 en tekstbijwerking tot 31-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 1999. - Decreet betreffende het gewoon basisonderwijs (Vertaling)

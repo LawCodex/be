@@ -13,7 +13,7 @@ last_amended: 2023-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/02/24/1978022402/justel"
 justel_note: "Consultation des versions antérieures à partir du 30-08-2007 et mise à jour au 05-06-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 1978. - Loi relative au contrat de travail du sportif rémunéré.

@@ -13,7 +13,7 @@ entry_into_force: 2020-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/16/2020015777/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2020. - Décret modifiant les articles 2, 10 et 15 du Décret flamand sur les expropriations du 24 février 2017, en ce qui concerne l'instauration d'un délai de négociation à l'amiable

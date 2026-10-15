@@ -12,7 +12,7 @@ entry_into_force: 2009-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/03/08/2009003097/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 2009. - Wet tot vaststelling van de totale kostprijs van de dienst van de gewestelijke belastingen, in uitvoering van artikel 68ter van de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten

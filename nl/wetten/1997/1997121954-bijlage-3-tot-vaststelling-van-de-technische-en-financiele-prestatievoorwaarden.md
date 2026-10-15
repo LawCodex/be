@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/19/1997121954/justel"
 department: "Verkeerswezen"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-1997 en tekstbijwerking tot 01-09-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1997. - Bijlage 3 tot vaststelling van de technische en financiële prestatievoorwaarden betreffende de diensten die worden aangeboden met het oog op de tegemoetkoming aan de bijzondere sociale behoeften bedoeld in artikel [86, §§ 2 en 4] van de wet van 21 maart 1991 betreffende de hervorming van sommige economische overheidsbedrijven &lt;Opschrift gewijzigd bij W 2001-07-19/38 , art. 35, 002; Inwerkingtreding : 28-07-2001&gt;

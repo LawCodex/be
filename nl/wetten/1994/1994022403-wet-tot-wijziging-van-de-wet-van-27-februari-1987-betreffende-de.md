@@ -12,7 +12,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/07/25/1994022403/justel"
 department: "Sociale Voorzorg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JULI 1994. - Wet tot wijziging van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan gehandicapten met het oog op een snellere afwerking van de dossiers.

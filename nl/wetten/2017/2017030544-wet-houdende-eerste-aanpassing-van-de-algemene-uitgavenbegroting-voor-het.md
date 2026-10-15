@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/07/10/2017030544/justel"
 department: "Beleid en Ondersteuning"
 justel_note: "Raadpleging van vroegere versies vanaf 24-07-2017 en tekstbijwerking tot 27-11-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2017. - Wet houdende eerste aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 2017

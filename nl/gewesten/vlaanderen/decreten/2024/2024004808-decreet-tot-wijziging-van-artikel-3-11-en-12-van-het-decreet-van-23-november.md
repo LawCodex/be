@@ -13,7 +13,7 @@ entry_into_force: 2024-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/03/2024004808/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2024. - Decreet tot wijziging van artikel 3, 11 en 12 van het decreet van 23 november 2018 betreffende het Vlaams Pensioenfonds en het publieke pensioenstelsel voor de werknemers van de diensten van de Vlaamse overheid en andere besturen

@@ -12,7 +12,7 @@ entry_into_force: 2014-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/17/2013015219/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2013. - [Loi portant assentiment à l']Accord euro-méditerranéen relatif aux services aériens entre la Communauté européenne et ses Etats membres , d'une part, et le Royaume du Maroc, d'autre part, fait à Bruxelles le 12 décembre 2006

@@ -13,7 +13,7 @@ entry_into_force: 2013-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/28/2013027259/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2013. - Décret portant assentiment au Traité sur le commerce des armes, fait à New York le 2 avril 2013

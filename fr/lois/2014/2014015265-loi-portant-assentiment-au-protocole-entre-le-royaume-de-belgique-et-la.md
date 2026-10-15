@@ -12,7 +12,7 @@ entry_into_force: 2015-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/08/2014015265/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2014. - Loi portant assentiment au Protocole entre le Royaume de Belgique et la République tchèque à la Convention entre le Royaume de Belgique et la République tchèque tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, fait à Bruxelles le 15 mars 2010

@@ -13,7 +13,7 @@ entry_into_force: 2010-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/01/29/2010029164/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2010. - Decreet houdende instemming met de Overeenkomst betreffende de deelname van de Republiek Bulgarije en Roemenië aan de Europese Economische Ruimte, en met de Slotakte, gedaan te Brussel op 25 juli 2007

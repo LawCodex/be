@@ -13,7 +13,7 @@ entry_into_force: 1997-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/02/05/1998027121/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 1998. - Decreet houdende goedkeuring van het samenwerkingsakkoord tussen het Waalse Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende doorstromingsprogramma's (VERTALING).

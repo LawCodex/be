@@ -12,7 +12,7 @@ entry_into_force: 2006-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/02/09/2006015036/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2006. - Wet houdende instemming met de Overeenkomst tussen de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Zwitserse Bondsstaat betreffende de overname van onregelmatig binnengekomen en verblijvende personen, met het Uitvoeringsprotocol, en met de Bijlagen 1 en 2, gedaan te Bern op 12 december 2003.

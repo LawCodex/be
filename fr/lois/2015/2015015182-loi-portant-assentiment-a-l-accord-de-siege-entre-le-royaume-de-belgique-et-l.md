@@ -12,7 +12,7 @@ entry_into_force: 2012-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/11/23/2015015182/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2015. - Loi portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'Union Benelux, fait à Bruxelles le 3 février 2012

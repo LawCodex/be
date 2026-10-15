@@ -11,7 +11,7 @@ published: 2003-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/13/2003009436/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2003. - Wet tot wijziging van het Gerechtelijk Wetboek wat de adoptie betreft.

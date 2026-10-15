@@ -12,7 +12,7 @@ entry_into_force: 2005-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/09/17/2005014175/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBER 2005. - Wet houdende wijziging van de wet van 20 januari 1999 ter bescherming van het mariene milieu in de zeegebieden onder de rechtsbevoegdheid van België.

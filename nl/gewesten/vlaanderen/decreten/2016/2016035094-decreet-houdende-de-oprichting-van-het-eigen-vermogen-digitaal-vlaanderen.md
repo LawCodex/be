@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/01/15/2016035094/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 05-02-2016 en tekstbijwerking tot 14-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 2016. - Decreet houdende [...] de oprichting van het Eigen Vermogen [Digitaal] Vlaanderen (Opschrift gewijzigd door DVR 2021-04-02/35 , art. 2, 003; Inwerkingtreding : 10-05-2021)

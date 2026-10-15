@@ -12,7 +12,7 @@ entry_into_force: 2001-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/01/19/2001011006/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JANUARI 2001. - Wet tot wijziging van diverse bepalingen betreffende de regeling inzake automatische vergoeding van de schade, geleden door zwakke weggebruikers en passagiers van motorrijtuigen.

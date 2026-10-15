@@ -11,7 +11,7 @@ published: 1980-03-28
 entry_into_force: 1980-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1980/03/24/1980032401/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 1980. - Wet tot wijziging van de artikelen 19, 20, 21, 22 en 43bis van de wet van 15 juni 1935 op het gebruik der talen in gerechtszaken en van de artikelen 121, 166, 223, 226 en 229 van het Gerechtelijk Wetboek.

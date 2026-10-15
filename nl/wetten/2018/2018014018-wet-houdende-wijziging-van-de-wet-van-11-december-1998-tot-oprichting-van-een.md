@@ -12,7 +12,7 @@ entry_into_force: 2018-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/09/13/2018014018/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 SEPTEMBER 2018. - Wet houdende wijziging van de wet van 11 december 1998 tot oprichting van een beroepsorgaan inzake veiligheidsmachtigingen, veiligheidsattesten en veiligheidsadviezen

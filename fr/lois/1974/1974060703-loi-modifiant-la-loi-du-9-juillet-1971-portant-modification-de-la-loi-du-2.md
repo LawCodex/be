@@ -10,7 +10,7 @@ date: 1974-06-07
 published: 1974-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1974/06/07/1974060703/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 1974. - Loi modifiant la loi du 9 juillet 1971 portant modification de la loi du 2 avril 1965 relative à la prise en charge des secours accordés par les commissions d'assistance publique

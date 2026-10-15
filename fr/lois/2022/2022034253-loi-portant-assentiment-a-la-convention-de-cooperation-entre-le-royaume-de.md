@@ -12,7 +12,7 @@ entry_into_force: 2023-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/07/2022034253/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 2022. - Loi portant assentiment à la Convention de coopération entre le Royaume de Belgique et le Grand-Duché de Luxembourg en matière de médicaments et de produits de santé, faite à Luxembourg le 17 janvier 2018

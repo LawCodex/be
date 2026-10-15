@@ -11,7 +11,7 @@ entry_into_force: 2015-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/10/12/2009A15020/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 OKTOBER 2006. - Aanvullende Overeenkomst nr. 6 gesloten tussen de Regering van het Koninkrijk België en de Regering van de Franse Republiek betreffende de gezamenlijke uitvoering van een programma voor de observatie van de aarde, ondertekend te Parijs op 12 oktober 2006

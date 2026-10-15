@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/03/31/2011202086/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 06-05-2011 et mise à jour au 17-11-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2011. - Décret relatif au mérite wallon pour les matières réglées en vertu de l'article 138 de la Constitution

@@ -13,7 +13,7 @@ entry_into_force: 2022-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/05/23/2022204058/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2022. - Decreet tot wijziging van het decreet van 22 november 2021 betreffende het elektronisch toezicht in het kader van de strafuitvoering

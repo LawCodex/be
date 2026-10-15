@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/08/15/2012002044/justel"
 department: "Informatie- en Communicatietechnologie"
 justel_note: "Raadpleging van vroegere versies vanaf 29-08-2012 en tekstbijwerking tot 31-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 AUGUSTUS 2012. - Wet houdende oprichting en organisatie van een federale dienstenintegrator

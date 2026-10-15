@@ -12,7 +12,7 @@ entry_into_force: 1983-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1983/01/11/1983015119/justel"
 department: "Buitenlandse Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JANUARI 1983. - Wet houdende goedkeuring van het verdrag houdende eenvormige wet nopens de vorm van een internationaal testament, en van de bijlage, opgemaakt te Washington op 26 oktober 1973.

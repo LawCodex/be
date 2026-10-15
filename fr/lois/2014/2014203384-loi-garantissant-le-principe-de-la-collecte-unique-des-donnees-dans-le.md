@@ -12,7 +12,7 @@ entry_into_force: 2014-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/05/2014203384/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2014. - Loi garantissant le principe de la collecte unique des données dans le fonctionnement des services et instances qui relèvent de ou exécutent certaines missions pour l'autorité et portant simplification et harmonisation des formulaires électroniques et papier

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/17/2022030262/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 11-03-2022 et mise à jour au 29-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2021. - Décret modifiant le Décret sur l'Energie du 8 mai 2009, en ce qui concerne des allocations au Fonds de l'Energie, des modifications relatives à la flexibilité et le partage d'énergie, le développement de la plateforme de données énergétiques et la révision des amendes administratives en matière d'exigences d'installation

@@ -13,7 +13,7 @@ entry_into_force: 2021-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/14/2021042672/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2021. - Décret modifiant le décret du 10 novembre 2011 relatif au soutien au cinéma et à la création audiovisuelle

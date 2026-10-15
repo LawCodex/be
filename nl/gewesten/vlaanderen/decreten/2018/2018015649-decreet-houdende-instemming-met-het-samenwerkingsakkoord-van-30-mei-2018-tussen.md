@@ -13,7 +13,7 @@ entry_into_force: 2018-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/12/21/2018015649/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2018. - Decreet houdende instemming met het samenwerkingsakkoord van 30 mei 2018 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de oprichting van het interregionaal orgaan voor de gezinsbijslagen

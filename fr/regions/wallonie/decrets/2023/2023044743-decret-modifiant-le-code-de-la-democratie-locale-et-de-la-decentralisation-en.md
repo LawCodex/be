@@ -13,7 +13,7 @@ entry_into_force: 2023-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/01/2023044743/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2023. - Décret modifiant le Code de la démocratie locale et de la décentralisation en ce qui concerne les élections communales et provinciales

@@ -12,7 +12,7 @@ published: 2014-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/28/2014202524/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2014. - Décret modifiant l'article 5 du décret du 30 mars 1999 portant création d'un " Vlaams Fonds voor de Letteren " (Fonds flamand des Lettres)

@@ -13,7 +13,7 @@ entry_into_force: 2009-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/05/2009200191/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 2008. - Décret portant assentiment à l'accord de coopération modifiant l'accord de coopération entre la Région wallonne et la Communauté germanophone du 26 novembre 1998, signé à Namur le 3 juillet 2008.

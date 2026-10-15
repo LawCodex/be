@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/09/26/2016205127/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 19-10-2016 en tekstbijwerking tot 12-05-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 SEPTEMBER 2016. - Decreet betreffende de slachtofferhulp en de gespecialiseerde slachtofferhulp

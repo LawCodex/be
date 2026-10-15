@@ -13,7 +13,7 @@ entry_into_force: 2024-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/02/23/2024001970/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 FEBRUARI 2024. - Decreet tot wijziging van het decreet van 31 juli 1990 betreffende het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Vervoermaatschappij - De Lijn en het decreet van 26 april 2019 betreffende de basisbereikbaarheid en tot intrekking van het decreet van 25 februari 2022 betreffende de Vervoersautoriteit

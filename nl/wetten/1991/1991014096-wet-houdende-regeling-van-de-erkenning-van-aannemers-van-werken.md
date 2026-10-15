@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/03/20/1991014096/justel"
 department: "Verkeerswezen"
 justel_note: "Raadpleging van vroegere versies vanaf 04-09-1992 en tekstbijwerking tot 06-10-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 1991. - Wet houdende regeling van de erkenning van aannemers van werken.

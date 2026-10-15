@@ -12,7 +12,7 @@ entry_into_force: 2022-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/04/01/2022031876/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2022. - Loi modifiant l'article 19 des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973

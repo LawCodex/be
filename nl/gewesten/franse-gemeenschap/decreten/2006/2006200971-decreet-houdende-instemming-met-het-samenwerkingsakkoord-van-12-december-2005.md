@@ -12,7 +12,7 @@ published: 2006-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/02/17/2006200971/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2006. - Decreet houdende instemming met het samenwerkingsakkoord van 12 december 2005 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie inzake de tenuitvoerlegging van de wet van 24 april 2003 tot hervorming van de adoptie (VERTALING).

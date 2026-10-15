@@ -13,7 +13,7 @@ entry_into_force: 2007-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/22/2007201248/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2007. - Décret modifiant le décret du 27 juin 1996 relatif aux déchets

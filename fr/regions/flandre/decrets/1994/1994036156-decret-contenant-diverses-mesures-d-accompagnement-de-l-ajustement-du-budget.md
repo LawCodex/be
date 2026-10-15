@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "Consultation des versions antérieur à partir du 23-09-1994 et mis à jour au 28-07-2010"
   - "Consultation des versions antérieures à partir du 30-12-1995 et mise à jour au 13-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 1994. - Décret contenant diverses mesures d'accompagnement de l'ajustement du budget 1994. &lt;Traduction&gt;

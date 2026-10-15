@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/23/2010036014/justel"
 department: "Vlaamse Overheid"
 justel_note: "bij arrest nr 48/2012 van 22-03-2012 (B.St. 18-07-2012, p. 39210-39212), heeft het Grondwettelijk Hof dit decreet vernietigd, in zoverre het niet de teruggave van de registratierechten toestaat bij de aankoop van een nieuwe woning met bijbehorende grond onder het btw-stelsel."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2010. - Decreet houdende wijziging van het Wetboek der registratie-, hypotheek- en griffierechten, wat het vermijden van een gelijktijdige heffing van btw en registratierechten op eenzelfde terrein betreft

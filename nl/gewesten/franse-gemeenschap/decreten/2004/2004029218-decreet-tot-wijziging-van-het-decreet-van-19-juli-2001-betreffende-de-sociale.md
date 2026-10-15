@@ -12,7 +12,7 @@ published: 2004-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/28/2004029218/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2004. - Decreet tot wijziging van het decreet van 19 juli 2001 betreffende de sociale hulpverlening aan de gedetineerden met het oog op hun sociale reïntegratie (VERTALING).

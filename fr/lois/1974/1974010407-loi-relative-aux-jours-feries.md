@@ -13,7 +13,7 @@ last_amended: 2020-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1974/01/04/1974010407/justel"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1989 et mise à jour au 31-12-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JANVIER 1974. - Loi relative aux jours fériés. -

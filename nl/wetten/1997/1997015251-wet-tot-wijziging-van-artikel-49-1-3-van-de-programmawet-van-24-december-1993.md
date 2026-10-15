@@ -12,7 +12,7 @@ entry_into_force: 1997-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/22/1997015251/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1997. - Wet tot wijziging van artikel 49, § 1, 3° van de programmawet van 24 december 1993.

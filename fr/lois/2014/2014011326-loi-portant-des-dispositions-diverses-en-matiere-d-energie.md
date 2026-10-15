@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/08/2014011326/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 04-06-2014 et mise à jour au 01-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2014. - Loi portant des dispositions diverses en matière d'énergie

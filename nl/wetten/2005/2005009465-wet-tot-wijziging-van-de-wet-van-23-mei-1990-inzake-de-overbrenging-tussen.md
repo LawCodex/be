@@ -12,7 +12,7 @@ entry_into_force: 2005-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/05/26/2005009465/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 2005. - Wet tot wijziging van de wet van 23 mei 1990 inzake de overbrenging tussen Staten van de gevonniste personen en van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen.

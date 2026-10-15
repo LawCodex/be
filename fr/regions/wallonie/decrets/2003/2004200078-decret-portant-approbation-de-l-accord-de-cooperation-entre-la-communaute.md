@@ -13,7 +13,7 @@ entry_into_force: 2004-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/11/27/2004200078/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2003. - Décret portant approbation de l'Accord de coopération entre la Communauté française et la Région wallonne relatif à l'éducation à l'environnement.

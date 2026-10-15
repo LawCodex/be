@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/08/2022015597/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 16-09-2022 et mise à jour au 16-05-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2022. - Décret portant création de la plate-forme Vitalink

@@ -12,7 +12,7 @@ entry_into_force: 1981-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1980/11/27/1981000376/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 1980. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en het Koninkrijk Thailand tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Bangkok op 16 oktober 1918 (1).

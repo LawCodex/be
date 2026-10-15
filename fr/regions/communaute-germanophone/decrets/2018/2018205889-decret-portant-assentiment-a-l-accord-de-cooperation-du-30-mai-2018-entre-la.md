@@ -13,7 +13,7 @@ entry_into_force: 2018-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/19/2018205889/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2018. - Décret portant assentiment à l'accord de coopération du 30 mai 2018 entre la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone portant sur la répartition des réserves des caisses libres agréées en vertu de la LGAF au moment de la reprise de la gestion et du paiement des allocations familiales par une entité fédérée

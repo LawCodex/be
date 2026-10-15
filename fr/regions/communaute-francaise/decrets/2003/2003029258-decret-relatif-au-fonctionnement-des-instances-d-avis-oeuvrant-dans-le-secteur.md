@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/04/10/2003029258/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 14-09-2005 et mise à jour au 30-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2003. - Décret relatif au fonctionnement des instances d'avis oeuvrant dans le secteur culturel.

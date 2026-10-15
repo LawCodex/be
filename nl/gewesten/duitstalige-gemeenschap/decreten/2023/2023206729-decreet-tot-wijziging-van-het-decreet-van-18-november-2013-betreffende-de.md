@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/10/16/2023206729/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 2023. - Decreet tot wijziging van het decreet van 18 november 2013 betreffende de ondersteuning van cultuur in de Duitstalige Gemeenschap

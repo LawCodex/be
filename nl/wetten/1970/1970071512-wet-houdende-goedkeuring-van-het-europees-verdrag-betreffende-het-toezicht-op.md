@@ -11,7 +11,7 @@ published: 1970-10-31
 entry_into_force: 1970-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1970/07/15/1970071512/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 1970. - Wet houdende goedkeuring van het Europees Verdrag betreffende het toezicht op de voorwaardelijk veroordeelde of in vrijheid gestelde personen en van de bijlage, opgemaakt te Straatsburg op 30 november 1964.

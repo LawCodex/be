@@ -12,7 +12,7 @@ entry_into_force: 2013-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/01/14/2013009050/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 2013. - Wet tot wijziging van artikel 405quater van het Strafwetboek en artikel 2 van de wet van 4 oktober 1867 op de verzachtende omstandigheden

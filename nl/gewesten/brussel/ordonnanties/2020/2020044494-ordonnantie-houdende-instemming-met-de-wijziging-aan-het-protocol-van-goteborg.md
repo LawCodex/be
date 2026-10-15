@@ -13,7 +13,7 @@ entry_into_force: 2021-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/12/17/2020044494/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2020. - Ordonnantie houdende instemming met de wijziging aan het Protocol van Göteborg van 30 november 1999 bij het Verdrag van 13 november 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, inzake vermindering van verzuring, eutrofiëring en ozon op leefniveau, op 4 mei 2012 gesloten te Genève

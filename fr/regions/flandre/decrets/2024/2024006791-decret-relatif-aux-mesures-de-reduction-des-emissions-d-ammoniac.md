@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/19/2024006791/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 12-07-2024 et mise à jour au 17-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2024. - Décret relatif aux mesures de réduction des émissions d'ammoniac

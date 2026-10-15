@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/08/2002036509/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 17-12-2002 en tekstbijwerking tot 24-11-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 2002. - Decreet houdende de oprichting van de v.z.w. ESF-Agentschap.

@@ -12,7 +12,7 @@ entry_into_force: 2024-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/22/2024000157/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2023. - Loi portant sur le financement complémentaire du Fonds social pour le gaz et l'électricité

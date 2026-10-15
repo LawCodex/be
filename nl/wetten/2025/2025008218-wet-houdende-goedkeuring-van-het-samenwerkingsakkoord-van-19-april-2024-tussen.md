@@ -10,7 +10,7 @@ date: 2025-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/10/23/2025008218/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 OKTOBER 2025. - Wet houdende goedkeuring van het samenwerkingsakkoord van 19 april 2024 tussen de Federale Staat en de Duitstalige Gemeenschap inzake slachtofferzorg

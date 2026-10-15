@@ -10,7 +10,7 @@ date: 1985-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/08/02/1985022258/justel"
 department: "Sociale Voorzorg"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AUGUSTUS 1985. - Wet houdende oprichting van een Commissie Arbeid ten behoeve van het Gezin.

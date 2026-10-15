@@ -12,7 +12,7 @@ entry_into_force: 2004-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/08/23/2004002104/justel"
 department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AOUT 2004. - Loi modifiant la loi du 8 juillet 1976 organique des centres publics d'action sociale et visant à étendre le champ d'application personnel de la prime d'installation.

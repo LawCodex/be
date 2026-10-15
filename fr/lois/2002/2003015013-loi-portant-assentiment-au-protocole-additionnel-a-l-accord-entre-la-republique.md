@@ -12,7 +12,7 @@ entry_into_force: 2003-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/11/13/2003015013/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2002. - Loi portant assentiment au Protocole additionnel à l'Accord entre la République d'Autriche, le Royaume de Belgique, le Royaume du Danemark, la République de Finlande, la République fédérale d'Allemagne, la République hellénique, l'Irlande, la République italienne, le Grand-duché de Luxembourg, le Royaume des Pays-Bas, la République portugaise, le Royaume d'Espagne, le Royaume de Suède, la Communauté européenne de l'énergie atomique et l'Agence internationale de l'énergie atomique en application des paragraphes 1er et 4 de l'Article III du Traité sur la non-prolifération des armes nucléaires et aux Annexes Ier, II et III, faits à Vienne le 22 septembre 1998.

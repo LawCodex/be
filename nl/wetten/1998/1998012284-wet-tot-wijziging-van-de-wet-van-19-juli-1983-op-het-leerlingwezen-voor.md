@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/05/06/1998012284/justel"
 department: "Tewerkstelling en Arbeid"
 justel_note: "Raadpleging van vroegere versies vanaf 29-05-1998 en tekstbijwerking tot 29-11-2001."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 1998. - Wet tot wijziging van de wet van 19 juli 1983 op het leerlingwezen voor beroepen uitgeoefend door werknemers in loondienst. -

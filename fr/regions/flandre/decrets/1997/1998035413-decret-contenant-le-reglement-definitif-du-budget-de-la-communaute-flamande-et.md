@@ -13,7 +13,7 @@ entry_into_force: 1998-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/11/12/1998035413/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 1997. - Décret contenant le règlement définitif du budget de la Communauté flamande et des organismes d'intérêt public pour l'année budgétaire 1993. (TRADUCTION)

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/10/2016029013/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 27-01-2016 et mise à jour au 28-08-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2015. - Décret-programme portant diverses mesures relatives à l'enseignement spécialisé, aux Bâtiments scolaires, à l'Enfance, à la Culture, à l'enseignement supérieur, au financement de l'enseignement supérieur universitaire et non universitaire et à l'enseignement de promotion sociale

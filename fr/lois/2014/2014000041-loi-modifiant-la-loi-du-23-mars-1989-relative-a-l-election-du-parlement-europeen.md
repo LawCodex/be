@@ -12,7 +12,7 @@ entry_into_force: 2014-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/07/2014000041/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANVIER 2014. - Loi modifiant la loi du 23 mars 1989 relative à l'élection du Parlement européen

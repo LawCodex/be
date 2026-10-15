@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/25/2024204417/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2024. - Decreet tot wijziging van het decreet van 10 november 2004 tot invoering van een regeling voor de handel in broeikasgasemissierechten, tot oprichting van een "Fonds wallon Kyoto" (Waals Kyotofonds) en betreffende de flexibiliteitsmechanismen van het Protocol van Kyoto, om richtlijnen (EU) 2023/959 en 2023/958 van het Europees Parlement en de Raad van 10 mei 2023 gedeeltelijk om te zetten

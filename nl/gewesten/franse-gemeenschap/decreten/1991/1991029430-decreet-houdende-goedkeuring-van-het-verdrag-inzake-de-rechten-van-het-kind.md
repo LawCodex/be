@@ -11,7 +11,7 @@ date: 1991-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/07/03/1991029430/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 1991. - Decreet houdende goedkeuring van het Verdrag inzake de rechten van het kind, aangenomen te New York op 20 november 1989.

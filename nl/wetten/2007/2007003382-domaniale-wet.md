@@ -12,7 +12,7 @@ entry_into_force: 2007-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/21/2007003382/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2007. - Domaniale wet.

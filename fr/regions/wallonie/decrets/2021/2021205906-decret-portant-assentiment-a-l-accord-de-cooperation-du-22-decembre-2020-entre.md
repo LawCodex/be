@@ -13,7 +13,7 @@ entry_into_force: 2021-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/09/2021205906/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2021. - Décret portant assentiment à l'accord de coopération du 22 décembre 2020 entre l'Etat fédéral, la Communauté flamande, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Communauté française et la Communauté germanophone concernant l'utilisation de SURE

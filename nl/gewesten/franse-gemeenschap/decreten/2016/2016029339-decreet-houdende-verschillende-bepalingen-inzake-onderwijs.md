@@ -13,7 +13,7 @@ entry_into_force: 2016-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/13/2016029339/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2016. - Decreet houdende verschillende bepalingen inzake onderwijs

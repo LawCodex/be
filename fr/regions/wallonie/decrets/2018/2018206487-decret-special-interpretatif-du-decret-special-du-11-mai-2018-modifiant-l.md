@@ -13,7 +13,7 @@ entry_into_force: 2018-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/20/2018206487/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2018. - Décret spécial interprétatif du décret spécial du 11 mai 2018 modifiant l'article 28 de la loi spéciale du 8 août 1980 de réformes institutionnelles en vue d'instaurer l'obligation d'alterner systématiquement le genre des candidats sur les listes pour l'élection des Membres du Parlement wallon

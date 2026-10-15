@@ -13,7 +13,7 @@ entry_into_force: 2013-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/04/2013029432/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2013. - Decreet houdende instemming met de globale Kaderovereenkomst inzake een partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds, gedaan te Brussel op 27 juni 2012

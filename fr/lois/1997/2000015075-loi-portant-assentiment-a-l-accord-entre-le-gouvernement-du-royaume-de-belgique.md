@@ -12,7 +12,7 @@ entry_into_force: 2000-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/08/19/2000015075/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AOUT 1997. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Slovénie, concernant le transport routier, signé à Ljubljana le 23 mars 1994.

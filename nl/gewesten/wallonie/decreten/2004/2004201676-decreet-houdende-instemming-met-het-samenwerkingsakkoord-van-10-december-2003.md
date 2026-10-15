@@ -13,7 +13,7 @@ entry_into_force: 2004-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/29/2004201676/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2004. - Decreet houdende instemming met het Samenwerkingsakkoord van 10 december 2003 tussen de federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest voor de samenwerking tussen de beleidsdomeinen van milieu en gezondheid (VERTALING).

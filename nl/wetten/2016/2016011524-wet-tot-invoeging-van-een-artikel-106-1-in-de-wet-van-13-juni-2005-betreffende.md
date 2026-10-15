@@ -12,7 +12,7 @@ entry_into_force: 2016-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/07/2016011524/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2016. - Wet tot invoeging van een artikel 106/1 in de wet van 13 juni 2005 betreffende de elektronische communicatie

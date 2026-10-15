@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/11/2026005033/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2026. - Decreet tot omzetting van richtlijn (EU) 2023/2226 van de Raad van 17 oktober 2023 tot wijziging van richtlijn 2011/16/EU betreffende de administratieve samenwerking op het gebied van de belastingen en houdende diverse bepalingen

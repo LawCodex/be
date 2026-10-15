@@ -12,7 +12,7 @@ entry_into_force: 1994-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/12/23/1994003746/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1994. - Wet tot wijziging van de besluitwet van 18 mei 1945 houdende oprichting van een Rentenfonds.

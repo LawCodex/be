@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=fr&numac_search=2019A41000"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 30-04-2019 et mise à jour au 27-02-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 2019. - Code du recouvrement amiable et forcé des créances fiscales et non fiscales

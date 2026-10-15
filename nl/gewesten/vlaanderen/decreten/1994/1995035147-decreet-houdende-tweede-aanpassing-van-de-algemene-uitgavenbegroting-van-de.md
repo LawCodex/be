@@ -13,7 +13,7 @@ entry_into_force: 1995-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/21/1995035147/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 1994. - DECREET houdende tweede aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 1994

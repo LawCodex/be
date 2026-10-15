@@ -13,7 +13,7 @@ entry_into_force: 1995-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/03/23/1995027204/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1995. - Decreet houdende goedkeuring van het Protocol betreffende milieubescherming bij het Verdrag inzake Antarctica, van het Aanhangsel en de Bijlagen I, II, III, IVen V ervan, gedaan te Madrid op 4 oktober 1991. (VERTALING)

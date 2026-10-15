@@ -13,7 +13,7 @@ entry_into_force: 2002-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/19/2002036057/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2002. - Decreet tot wijziging van de wet van 21 april 1965 houdende het statuut van de reisbureaus.

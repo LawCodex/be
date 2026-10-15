@@ -12,7 +12,7 @@ entry_into_force: 2007-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/02/21/2006015050/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2006. - Loi portant assentiment à la Convention sur le marquage des explosifs plastiques et en feuilles aux fins de détection, faite à Montréal le 1er mars 1991.

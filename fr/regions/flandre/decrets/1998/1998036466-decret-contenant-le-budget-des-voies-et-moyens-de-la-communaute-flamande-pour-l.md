@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/12/19/1998036466/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-12-1998 et mis à jour au 30-09-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1998. - Décret contenant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 1999 (TRADUCTION).

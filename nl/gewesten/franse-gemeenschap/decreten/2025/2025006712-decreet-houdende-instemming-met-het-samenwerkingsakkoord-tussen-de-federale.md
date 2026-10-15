@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/09/05/2025006712/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 SEPTEMBER 2025. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Federale Overheid, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de maximumfactuur, de forfaitaire toelage voor chronisch zieken en het statuut van persoon met een chronische aandoening

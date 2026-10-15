@@ -13,7 +13,7 @@ entry_into_force: 2003-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/21/2003031013/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2002. - Décret portant assentiment par l'Assemblée de la Commission communautaire française au Protocole portant adaptation des aspects institutionnels de l'Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Bulgarie, d'autre part, afin de tenir compte de l'adhésion de la République d'Autriche, de la République de Finlande et du Royaume de Suède à l'Union européenne, aux Annexes Ire et II.

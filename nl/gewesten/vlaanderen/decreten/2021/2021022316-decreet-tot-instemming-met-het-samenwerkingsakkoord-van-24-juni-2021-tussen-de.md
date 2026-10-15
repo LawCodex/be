@@ -12,7 +12,7 @@ published: 2021-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/15/2021022316/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 OKTOBER 2021. - Decreet tot instemming met het samenwerkingsakkoord van 24 juni 2021 tussen de Vlaamse Gemeenschap, het Vlaamse Gewest en het Brusselse Hoofdstedelijke Gewest over de afstemming van het arbeidsmarktbeleid, opleiding, vorming en de bevordering van de mobiliteit van werkzoekenden

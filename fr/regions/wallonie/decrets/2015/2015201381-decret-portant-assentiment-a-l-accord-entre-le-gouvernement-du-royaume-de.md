@@ -13,7 +13,7 @@ entry_into_force: 2015-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/03/12/2015201381/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MARS 2015. - Décret portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de Montserrat, autorisé par le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, en vue de l'échange de renseignements en matière fiscale, fait à Londres, le 16 février 2010

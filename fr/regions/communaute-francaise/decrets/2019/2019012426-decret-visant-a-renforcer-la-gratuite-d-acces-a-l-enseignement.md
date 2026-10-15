@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/14/2019012426/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 16-05-2019 et mise à jour au 01-07-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2019. - Décret visant à renforcer la gratuité d'accès à l'enseignement

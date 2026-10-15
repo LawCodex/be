@@ -12,7 +12,7 @@ published: 2023-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/09/2023203213/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2023. - Besluit betreffende de "inventaire centralisé des adresses et des rues" (gecentraliseerde inventaris van adressen en straten)

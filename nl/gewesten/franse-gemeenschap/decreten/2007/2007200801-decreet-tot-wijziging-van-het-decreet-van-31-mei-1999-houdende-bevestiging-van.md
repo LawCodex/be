@@ -13,7 +13,7 @@ entry_into_force: 2007-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/01/25/2007200801/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2007. - Decreet tot wijziging van het decreet van 31 mei 1999 houdende bevestiging van de opleidingsprofielen voor de tuinbouwtechnicus, de schrijnwerker, de polyvalent restaurantmedewerker, de technicus slagerij-spekslagerij, de geschoold werkman-kapper, de technisch apothekersassistent, zoals bepaald in artikel 6 van het decreet van 27 oktober 1994 tot regeling van het overleg in het secundair onderwijs. (VERTALING).

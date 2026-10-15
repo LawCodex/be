@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/17/2013029476/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 05-02-2015 et mise à jour au 30-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2013. - Décret relatif au financement de la Recherche par le Fonds national de la Recherche scientifique

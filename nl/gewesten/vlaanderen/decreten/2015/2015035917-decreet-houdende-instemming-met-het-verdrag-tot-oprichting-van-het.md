@@ -13,7 +13,7 @@ entry_into_force: 2015-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/26/2015035917/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2015. - Decreet houdende instemming met het verdrag tot oprichting van het Internationaal Instituut voor Democratie en Verkiezingsondersteuning, en de slotakte, gedaan te Stockholm op 27 februari 1995, zoals gewijzigd op 24 januari 2006

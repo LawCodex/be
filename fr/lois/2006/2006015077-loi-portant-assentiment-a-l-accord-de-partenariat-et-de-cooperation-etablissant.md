@@ -12,7 +12,7 @@ entry_into_force: 2008-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/01/2006015077/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MAI 2006. - Loi portant assentiment à l'Accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats membres, d'une part, et la République du Tadjikistan, d'autre part, fait à Luxembourg le 11 octobre 2004.

@@ -11,7 +11,7 @@ published: 1846-03-26
 entry_into_force: 1846-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1846/03/24/1846032450/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 1846. - Wet betreffende het verkopen van militaire voorwerpen.

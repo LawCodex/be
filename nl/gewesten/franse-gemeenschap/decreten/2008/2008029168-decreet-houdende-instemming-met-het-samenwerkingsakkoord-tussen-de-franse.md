@@ -13,7 +13,7 @@ entry_into_force: 2008-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/02/01/2008029168/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2008. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschap en het Waalse Gewest over het gezamenlijk gebruik van infrastructuren in landelijke gebieden (VERTALING).

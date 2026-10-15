@@ -13,7 +13,7 @@ entry_into_force: 2001-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/06/2001035935/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2001. - Decreet tot wijziging van het decreet van 9 juni 1993 houdende subsidiëring van gemeentebesturen en de Vlaamse Gemeenschapscommissies inzake het voeren van een jeugdwerkbeleid.

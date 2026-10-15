@@ -12,7 +12,7 @@ published: 2005-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/06/06/2005033071/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2005. - Décret contenant le premier ajustement du budget des recettes de la Communauté germanophone pour l'année budgétaire 2005 (TRADUCTION).

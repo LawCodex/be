@@ -12,7 +12,7 @@ published: 2012-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/13/2012204755/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2012. - Decreet houdende instemming met : 1° de overeenkomst tussen het Koninkrijk België en de Bondsrepubliek Duitsland tot voorkoming van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen van inkomen en van vermogen met inbegrip van de ondernemingsbelasting en de grondbelastingen, en van het Slotprotocol, ondertekend te Brussel op 11 april 1967, zoals gewijzigd door de aanvullende overeenkomst, ondertekend te Brussel op 5 november 2002, en door het Protocol, ondertekend te Brussel op 21 januari 2010; 2° het Protocol tot wijziging van de overeenkomst en het Slotprotocol, zoals gewijzigd, vermeld onder 1°, ondertekend te Brussel op 21 januari 2010

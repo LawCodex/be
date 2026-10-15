@@ -13,7 +13,7 @@ entry_into_force: 2024-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/19/2024004286/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2024. - Decreet tot wijziging van het decreet van 25 april 2014 betreffende de omgevingsvergunning, wat de uitvoering van de taken voor de project-MER-screening betreft

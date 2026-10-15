@@ -13,7 +13,7 @@ entry_into_force: 2024-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/02/22/2024001675/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2024. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 22 december 2023 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waals Gewest en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot CoBRHA

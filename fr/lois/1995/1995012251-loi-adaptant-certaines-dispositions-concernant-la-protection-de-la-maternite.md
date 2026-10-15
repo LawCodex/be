@@ -12,7 +12,7 @@ entry_into_force: 1995-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/03/1995012251/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 1995. - Loi adaptant certaines dispositions concernant la protection de la maternité.

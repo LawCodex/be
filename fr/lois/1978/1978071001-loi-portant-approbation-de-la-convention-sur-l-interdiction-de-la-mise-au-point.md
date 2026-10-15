@@ -13,7 +13,7 @@ last_amended: 2026-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/07/10/1978071001/justel"
 justel_note: "Consultation des versions antérieures à partir du 10-03-2026 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 1978. - Loi portant approbation de la Convention sur l'interdiction de la mise au point, de la fabrication et du stockage des armes bactériologiques (biologiques) ou à toxines et sur leur destruction, faite à Londres, Moscou et Washington le 10 avril 1972. &lt;Voir CN : 1972-04-10/30&gt;

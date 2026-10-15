@@ -11,7 +11,7 @@ date: 2025-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/10/23/2025008257/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OKTOBER 2025. - Decreet houdende instemming met het samenwerkingsakkoord van 4 april 2024 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest tot wijziging van het samenwerkingsakkoord van 2 september 2013 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de opneming van luchtvaartactiviteiten in de regeling voor de handel in broeikasgasemissierechten overeenkomstig Richtlijn 2008/101/EG van het Europees Parlement en de Raad van 19 november 2008 tot wijziging van Richtlijn 2003/87/EG teneinde ook luchtvaartactiviteiten op te nemen in de regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap

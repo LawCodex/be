@@ -13,7 +13,7 @@ entry_into_force: 2022-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/01/27/2022030540/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JANVIER 2022. - Ordonnance modifiant l'ordonnance du 11 mai 2017 concernant le parcours d'accueil des primo-arrivants

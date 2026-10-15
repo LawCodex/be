@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/09/1999003156/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 02-04-1999 en tekstbijwerking tot 27-04-2007"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 1999. - Wet tot omzetting van de richtlijn 95/26/EG van het Europees Parlement en de Raad van 29 juni 1995 over de financiële instellingen.

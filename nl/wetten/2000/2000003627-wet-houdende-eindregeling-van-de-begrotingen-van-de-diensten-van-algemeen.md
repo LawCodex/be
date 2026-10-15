@@ -12,7 +12,7 @@ entry_into_force: 2000-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/03/12/2000003627/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAART 2000. - Wet houdende eindregeling van de begrotingen van de diensten van algemeen bestuur van de Staat en van instellingen van openbaar nut van het jaar 1989 of voorgaande jaren.

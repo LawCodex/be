@@ -12,7 +12,7 @@ entry_into_force: 2004-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/08/2004015125/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2004. - Wet houdende instemming met de Europees-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lid-Staten, enerzijds, en de Republiek Libanon, anderzijds, met de Bijlagen 1 en 2, met de Protocollen 1, 2, 3, 4 en 5, en met de Slotakte, gedaan te Luxemburg op 17 juni 2002.

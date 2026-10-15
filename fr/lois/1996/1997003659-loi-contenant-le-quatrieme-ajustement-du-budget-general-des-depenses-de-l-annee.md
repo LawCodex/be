@@ -12,7 +12,7 @@ entry_into_force: 1997-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/16/1997003659/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 1996. - Loi contenant le quatrième ajustement du Budget général des dépenses de l'année budgétaire 1996 et le deuxième ajustement du Budget des voies et moyens de l'année budgétaire 1996.

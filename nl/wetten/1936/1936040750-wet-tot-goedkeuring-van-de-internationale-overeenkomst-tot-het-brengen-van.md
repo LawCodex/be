@@ -10,7 +10,7 @@ date: 1936-04-07
 entry_into_force: 1936-10-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1936/04/07/1936040750/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 1936. - Wet tot goedkeuring van de Internationale Overeenkomst tot het brengen van eenheid in eenige bepalingen inzake het internationaal luchtvervoer, en van het Additioneel Protocol, geteekend te Warschau op 12 October 1929.

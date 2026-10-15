@@ -13,7 +13,7 @@ entry_into_force: 2018-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/06/23/2017020462/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2017. - Ordonnantie houdende instemming met het samenwerkingsakkoord tussen het Brussels Hoofdstedelijk Gewest en de federale Staat tot uitvoering van artikel 306, § 2, van het koninklijk besluit van 19 april 2014 betreffende het administratief statuut van het operationeel personeel van de hulpverleningszones

@@ -13,7 +13,7 @@ entry_into_force: 2012-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/23/2012029169/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2012. - Décret réorganisant les études du secteur de la santé

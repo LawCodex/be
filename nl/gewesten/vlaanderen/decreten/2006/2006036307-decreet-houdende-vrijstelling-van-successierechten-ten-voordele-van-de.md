@@ -12,7 +12,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/07/07/2006036307/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2006. - Decreet houdende vrijstelling van successierechten ten voordele van de langstlevende partner voor de nettowaarde van de gezinswoning.

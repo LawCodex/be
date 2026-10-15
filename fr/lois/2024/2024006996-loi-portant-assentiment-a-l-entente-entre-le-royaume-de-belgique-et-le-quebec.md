@@ -12,7 +12,7 @@ entry_into_force: 2025-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/07/01/2024006996/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUILLET 2024. - Loi portant assentiment à l'Entente entre le Royaume de Belgique et le Québec modifiant l'Entente en matière de sécurité sociale entre le Royaume de Belgique et le Québec signée à Québec le 28 mars 2006, faite à Québec le 19 avril 2023

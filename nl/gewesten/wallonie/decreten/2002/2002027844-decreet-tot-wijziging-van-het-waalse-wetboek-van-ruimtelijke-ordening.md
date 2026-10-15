@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/18/2002027844/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 21-09-2002 en tekstbijwerking tot 14-11-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2002. - Decreet tot wijziging van het Waalse Wetboek van Ruimtelijke Ordening, Stedenbouw en Patrimonium (VERTALING).

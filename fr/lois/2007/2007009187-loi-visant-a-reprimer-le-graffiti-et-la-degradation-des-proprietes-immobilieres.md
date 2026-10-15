@@ -12,7 +12,7 @@ entry_into_force: 2007-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/25/2007009187/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2007. - Loi visant à réprimer le graffiti et la dégradation des propriétés immobilières et modifiant la nouvelle loi communale.

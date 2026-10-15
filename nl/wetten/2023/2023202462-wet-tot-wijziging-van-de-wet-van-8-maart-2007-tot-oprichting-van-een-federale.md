@@ -12,7 +12,7 @@ entry_into_force: 2023-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/04/16/2023202462/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 APRIL 2023. - Wet tot wijziging van de wet van 8 maart 2007 tot oprichting van een Federale Adviesraad voor Ouderen

@@ -13,7 +13,7 @@ entry_into_force: 2014-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/03/27/2014031309/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Ordonnantie houdende instemming met : 1° het Internationaal Verdrag inzake de voorbereiding op, de bestrijding van en de samenwerking bij olieverontreiniging, gedaan te Londen op 30 november 1990 en 2° het Protocol inzake de voorbereiding op, de bestrijding van en de samenwerking bij de voorvallen van verontreiniging door schadelijke en potentieel gevaarlijke stoffen, gedaan te Londen op 15 maart 2000

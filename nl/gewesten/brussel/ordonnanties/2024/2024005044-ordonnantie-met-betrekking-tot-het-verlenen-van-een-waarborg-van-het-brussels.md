@@ -13,7 +13,7 @@ entry_into_force: 2024-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/05/16/2024005044/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Ordonnantie met betrekking tot het verlenen van een waarborg van het Brussels Hoofdstedelijk Gewest aan de Brusselse Hoofdstedelijke Dienst voor Brandweer en Dringende Medische Hulp (DBDMH), onder de vorm van een borgstelling, in de context van de DBFM-overeenkomst voor de bouw van de nieuwe hoofdkazerne in Brussel

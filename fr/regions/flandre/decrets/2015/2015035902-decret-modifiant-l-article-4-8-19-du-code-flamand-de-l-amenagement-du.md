@@ -13,7 +13,7 @@ entry_into_force: 2015-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/07/03/2015035902/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2015. - Décret modifiant l'article 4.8.19 du Code flamand de l'Aménagement du Territoire et le décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes

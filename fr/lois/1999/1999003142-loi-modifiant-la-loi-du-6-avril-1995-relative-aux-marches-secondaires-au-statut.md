@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/10/1999003142/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 14-04-1999 et mise à jour au 01-02-2005"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 1999. - Loi modifiant la loi du 6 avril 1995 relative aux marchés secondaires, au statut des entreprises d'investissement et à leur contrôle, aux intermédiaires et conseillers en placements, fixant le régime fiscal des opérations de prêt d'actions et portant diverses autres dispositions.

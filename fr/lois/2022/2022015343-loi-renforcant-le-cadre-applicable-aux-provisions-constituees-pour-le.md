@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/12/2022015343/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 22-07-2022 et mise à jour au 14-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2022. - Loi renforçant le cadre applicable aux provisions constituées pour le démantèlement des centrales nucléaires et de la gestion du combustible usé et abrogeant partiellement et modifiant la loi du 11 avril 2003 sur les provisions constituées pour le démantèlement des centrales nucléaires et pour la gestion de matières fissiles irradiées dans ces centrales nucléaires

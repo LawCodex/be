@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/11/21/2021033908/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 26-11-2021 et mise à jour au 16-12-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2021. - Loi modifiant la loi du 15 juillet 2016 portant exécution du Règlement (UE) n° 98/2013 du Parlement européen et du Conseil du 15 janvier 2013 sur la commercialisation et l'utilisation de précurseurs d'explosifs et portant des dispositions relatives aux prêts octroyés aux organisateurs de voyages et destinés à procéder aux remboursements des bons à valoir émis conformément à l'arrêté ministériel du 19 mars 2020 relatif au remboursement des voyages à forfait annulés

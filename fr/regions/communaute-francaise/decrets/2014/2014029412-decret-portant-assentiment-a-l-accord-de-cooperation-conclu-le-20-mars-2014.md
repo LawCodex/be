@@ -13,7 +13,7 @@ entry_into_force: 2014-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029412/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret portant assentiment à l'accord de coopération conclu le 20 mars 2014 entre la Communauté française et la Région wallonne et la Commission communautaire française, relatif à la mise en oeuvre des bassins Enseignement qualifiant - Formation Emploi

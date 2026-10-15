@@ -13,7 +13,7 @@ entry_into_force: 2024-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/19/2024004649/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2024. - Décret portant assentiment à l'accord de coopération du 16 février 2024 modifiant l'accord de coopération du 21 décembre 2018 entre la Communauté française et la Communauté flamande relatif à l'utilisation de fréquences numériques pour le DAB+ sur le territoire de l'autre partie

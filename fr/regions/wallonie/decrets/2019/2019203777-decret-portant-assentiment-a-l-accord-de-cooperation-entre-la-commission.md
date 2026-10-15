@@ -13,7 +13,7 @@ entry_into_force: 2019-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019203777/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret portant assentiment à l'accord de coopération entre la Commission communautaire française et la Région wallonne du 24 janvier 2019 visant à garantir la libre circulation des personnes handicapées

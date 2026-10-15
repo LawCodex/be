@@ -12,7 +12,7 @@ entry_into_force: 2018-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/30/2018015181/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2018. - Loi modifiant la loi du 22 mai 2014 relative au chiffrage par le Bureau fédéral du Plan des programmes électoraux présentés par les partis politiques lors de l'élection pour la Chambre des représentants

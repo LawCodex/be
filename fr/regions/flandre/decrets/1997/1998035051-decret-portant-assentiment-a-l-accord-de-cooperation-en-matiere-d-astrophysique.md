@@ -13,7 +13,7 @@ entry_into_force: 1998-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/19/1998035051/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1997. - Décret portant assentiment à l'Accord de coopération en matière d'astrophysique et l'Annexe, signé à Santa Cruz de la Palma le 26 mai 1979; le Protocole de coopération en matière de recherche astrophysique en Espagne, signé à Santa Cruz de la Palma le 26 mai 1979; l'Addendum au Protocole de coopération en matière de recherche astrophysique en Espagne, signé à Madrid le 8 avril 1983; le Protocole à l'Accord de coopération en matière d'astrophysique, signé à Madrid le 18 avril 1988; le Protocole modifiant le Protocole de coopération en matière de recherche astrophysique en Espagne, signé à Madrid le 18 avril 1988 et le Protocole modifiant l'Addendum au Protocole de coopération en matière de recherche astrophysique en Espagne, signé à Madrid le 18 avril 1988 (TRADUCTION).

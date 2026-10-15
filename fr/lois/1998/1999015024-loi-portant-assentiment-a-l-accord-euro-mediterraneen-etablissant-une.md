@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/02/09/1999015024/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 1998. - Loi portant assentiment à l'Accord euro-méditerranéen établissant une association entre les Communautés européennes et les Etats membres, d'une part, et le Royaume du Maroc, d'autre part, Annexes 1, 2, 3, 4, 5, 6 et 7, Protocoles 1, 2, 3, 4 et 5, et Acte final, faits à Bruxelles le 26 février 1996.

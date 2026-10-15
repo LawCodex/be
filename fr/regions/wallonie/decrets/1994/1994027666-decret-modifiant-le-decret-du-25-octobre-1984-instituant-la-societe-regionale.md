@@ -13,7 +13,7 @@ entry_into_force: 1994-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/11/24/1994027666/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 1994. - DECRET modifiant le décret du 25 octobre 1984 instituant la Société régionale wallonne du Logement

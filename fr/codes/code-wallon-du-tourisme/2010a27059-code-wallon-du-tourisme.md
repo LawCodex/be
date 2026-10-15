@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/04/01/2010A27059/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 17-05-2010 et mise à jour au 12-02-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2010. - Code wallon du Tourisme

@@ -12,7 +12,7 @@ entry_into_force: 2019-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/02/2019012643/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Wet houdende wijziging van de wet van 11 december 1998 betreffende de classificatie en de veiligheidsmachtigingen, veiligheidsattesten en veiligheidsadviezen

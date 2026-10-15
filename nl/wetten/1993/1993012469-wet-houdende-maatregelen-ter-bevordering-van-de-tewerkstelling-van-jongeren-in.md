@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/07/23/1993012469/justel"
 department: "Tewerkstelling en Arbeid"
 justel_note: "Raadpleging van vroegere versies vanaf 06-08-1993 en tekstbijwerking tot 06-02-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 1993. - Wet houdende maatregelen ter bevordering van de tewerkstelling van jongeren in het raam van het jongerenbanenplan.

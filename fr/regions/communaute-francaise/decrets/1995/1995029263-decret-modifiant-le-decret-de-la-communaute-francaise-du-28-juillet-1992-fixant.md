@@ -13,7 +13,7 @@ entry_into_force: 1995-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/10/1995029263/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1995. - Décret modifiant le décret de la Communauté française du 28 juillet 1992 fixant les conditions de reconnaissance et de subvention des centres culturels.

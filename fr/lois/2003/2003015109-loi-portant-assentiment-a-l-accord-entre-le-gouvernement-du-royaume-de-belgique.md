@@ -12,7 +12,7 @@ entry_into_force: 2003-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/13/2003015109/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2003. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement du Royaume de Norvège concernant la pose du gazoduc " Norfra " sur le plateau continental belge, et les Annexes 1re, 2 et 3, signés à Bruxelles le 20 décembre 1996.

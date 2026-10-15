@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/05/15/2003027513/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 01-07-2003 en tekstbijwerking tot 09-03-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2003. - Decreet tot wijziging van de Waalse Huisvestingscode en artikel 174 van het Waals Wetboek van Ruimtelijke Ordening, Stedenbouw en Patrimonium (VERTALING)

@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/07/2018015301/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2018. - Décret modifiant le Code flamand de la Fiscalité du 13 décembre 2013, en ce qui concerne la taxe sur les jeux et les paris et sur les appareils automatiques de divertissement

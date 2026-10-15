@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/11/1999011094/justel"
 department: "Affaires économiques"
 justel_note: "Consultation des versions antérieures à partir du 21-02-2001 et mise à jour au 16-09-2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 1999. - Loi relative aux contrats portant sur l'acquisition d'un droit d'utilisation d'immeubles à temps partagé.

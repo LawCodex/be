@@ -12,7 +12,7 @@ entry_into_force: 2003-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/04/2003009338/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2003. - Wet tot invoeging van een artikel 328bis en tot wijziging van de artikelen 328 en 331bis van het Strafwetboek.

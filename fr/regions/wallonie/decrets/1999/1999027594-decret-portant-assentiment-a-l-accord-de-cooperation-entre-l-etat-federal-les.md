@@ -13,7 +13,7 @@ entry_into_force: 1999-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/01/1999027594/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er AVRIL 1999. - Décret portant assentiment à l'accord de coopération entre l'Etat fédéral, les Communautés et les Régions relatif à la continuité de la politique en matière de pauvreté.

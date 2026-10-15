@@ -13,7 +13,7 @@ entry_into_force: 2008-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/23/2008202569/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2008. - Decreet houdende instemming met de avenant van 20 september 2007 aan het samenwerkingsakkoord van 30 mei 2005 tussen de Federale Staat, het Vlaamse, het Waalse en het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie.

@@ -13,7 +13,7 @@ entry_into_force: 2018-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/23/2018011592/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2018. - Décret modifiant l'article 8 du décret du 20 avril 2012 portant organisation de l'accueil de bébés et de bambins, pour ce qui concerne l'introduction du tarif minimum de la cotisation parentale pour la garde d'enfants de mères adolescentes mineures

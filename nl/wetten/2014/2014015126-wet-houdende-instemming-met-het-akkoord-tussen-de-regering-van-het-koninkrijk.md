@@ -12,7 +12,7 @@ entry_into_force: 2014-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/26/2014015126/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2014. - Wet houdende instemming met het Akkoord tussen de Regering van het Koninkrijk België, de Regering van de Bondsrepubliek Duitsland, de Regering van de Franse Republiek en de Regering van het Groothertogdom Luxemburg, betreffende de inwerkingstelling en de exploitatie van een gemeenschappelijk centrum voor politie- en douanesamenwerking in de gemeenschappelijke grensstreek, gedaan te Luxemburg op 24 oktober 2008

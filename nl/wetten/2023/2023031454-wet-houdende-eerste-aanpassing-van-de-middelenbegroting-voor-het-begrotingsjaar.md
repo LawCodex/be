@@ -12,7 +12,7 @@ entry_into_force: 2023-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/05/2023031454/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2023. - Wet houdende eerste aanpassing van de Middelenbegroting voor het begrotingsjaar 2023

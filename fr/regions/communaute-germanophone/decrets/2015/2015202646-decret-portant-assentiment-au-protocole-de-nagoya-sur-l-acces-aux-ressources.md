@@ -13,7 +13,7 @@ entry_into_force: 2015-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/05/18/2015202646/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2015. - Décret portant assentiment au Protocole de Nagoya sur l'accès aux ressources génétiques et le partage juste et équitable des avantages découlant de leur utilisation relatif à la Convention sur la diversité biologique, et à l'annexe, faits à Nagoya le 29 octobre 2010

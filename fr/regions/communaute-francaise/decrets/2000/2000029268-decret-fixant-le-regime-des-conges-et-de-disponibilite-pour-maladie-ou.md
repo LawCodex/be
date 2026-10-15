@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/07/05/2000029268/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 18-08-2000 et mise à jour au 02-08-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2000. - Décret fixant le régime des congés et de disponibilité pour maladie ou infirmité de certains membres du personnel de l'enseignement.

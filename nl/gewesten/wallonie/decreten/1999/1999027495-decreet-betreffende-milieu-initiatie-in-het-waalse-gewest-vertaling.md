@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/06/1999027495/justel"
 department: "Waalse Gewest"
 justel_note: "deze tekst werd opgeheven bij DWG 2004-05-27/63, art. 2, 4°, 002; Inwerkingtreding : onbepaald ; zie B.S. 09-07-2004, p. 54697"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 1999. - Decreet betreffende milieu-initiatie in het Waalse Gewest (VERTALING).

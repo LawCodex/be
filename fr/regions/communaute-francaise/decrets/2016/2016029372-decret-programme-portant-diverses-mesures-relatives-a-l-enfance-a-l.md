@@ -13,7 +13,7 @@ entry_into_force: 2016-09-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/13/2016029372/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2016. - Décret-programme portant diverses mesures relatives à l'Enfance, à l'Enseignement obligatoire, aux Bâtiments scolaires

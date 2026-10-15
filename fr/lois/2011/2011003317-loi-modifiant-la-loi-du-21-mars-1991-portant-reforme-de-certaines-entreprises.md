@@ -12,7 +12,7 @@ entry_into_force: 2011-09-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/07/28/2011003317/justel"
 department: "Finances - Emploi, Travail et Concertation sociale - Justice - Personnel et Organisation"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUILLET 2011. - Loi modifiant la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques, le Code des sociétés et la loi du 19 avril 2002 relative à la rationalisation du fonctionnement et la gestion de la Loterie Nationale afin de garantir la présence des femmes dans le conseil d'administration des entreprises publiques autonomes, des sociétés cotées et de la Loterie Nationale

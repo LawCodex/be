@@ -13,7 +13,7 @@ entry_into_force: 1995-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/02/08/1996027072/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 1996. - Décret modifiant le décret du 10 mars 1994 relatif à la création de la Société wallonne de financement complémentaire des infrastructures.

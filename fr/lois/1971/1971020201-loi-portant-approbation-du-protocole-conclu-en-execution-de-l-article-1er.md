@@ -11,7 +11,7 @@ published: 1973-12-11
 entry_into_force: 1973-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/02/02/1971020201/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEVRIER 1971. - Loi portant approbation du Protocole conclu en exécution de l'article 1er, alinéa 2, du Traité relatif à l'institution et au statut d'une Cour de justice Benelux, signé à La Haye le 29 avril 1969.

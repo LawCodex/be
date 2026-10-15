@@ -13,7 +13,7 @@ entry_into_force: 2022-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/23/2022015095/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2022. - Decreet betreffende de steun aan de kringen die aangesloten zijn bij een sportfederatie of -vereniging erkend door de Franse Gemeenschap

@@ -13,7 +13,7 @@ entry_into_force: 2004-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/19/2004029191/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2004. - Décret portant assentiment à l'Accord de coopération entre la Communauté française et la Région wallonne portant sur le développement de politiques concertées en matière d'alphabétisation des adultes et sur le financement en 2003 et 2004 de la coopération dans le cadre des politiques croisées, fait à Namur le 19 décembre 2003.

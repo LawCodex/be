@@ -13,7 +13,7 @@ entry_into_force: 2018-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/03/2018012065/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2018. - Decreet houdende instemming met de Overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk België en het Koninkrijk Marokko, ondertekend op 18 februari 2014 te Brussel

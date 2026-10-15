@@ -13,7 +13,7 @@ entry_into_force: 2023-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/04/13/2023031126/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 2023. - Ordonnantie houdende instemming met het samenwerkings-akkoord van 30 november 2022 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest, het Brusselse Hoofdstedelijk Gewest, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie tot het invoeren van een mechanisme voor de screening van buitenlandse directe investeringen

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/12/20/2019031116/justel"
 department: "Stratégie et Appui"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2019 et mise à jour au 30-07-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2019. - Loi de finances pour l'année budgétaire 2020

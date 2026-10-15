@@ -11,7 +11,7 @@ published: 2009-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/07/12/2009009551/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2009. - Wet tot wijziging van het Burgerlijk Wetboek wat de plaats van het huwelijk betreft

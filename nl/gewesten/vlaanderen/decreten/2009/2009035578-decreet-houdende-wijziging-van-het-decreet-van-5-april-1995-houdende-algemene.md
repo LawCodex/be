@@ -13,7 +13,7 @@ entry_into_force: 2009-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/05/08/2009035578/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2009. - Decreet houdende wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, wat de verplichting tot het opstellen van een milieueffectrapportage betreft

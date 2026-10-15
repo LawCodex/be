@@ -12,7 +12,7 @@ entry_into_force: 1997-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/02/28/1997021070/justel"
 department: "Premier Ministre - Justice - Fonction publique"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 1997. - Loi modifiant la loi du 17 décembre 1996 portant exécution temporaire et partielle de l'article 103 de la Constitution.

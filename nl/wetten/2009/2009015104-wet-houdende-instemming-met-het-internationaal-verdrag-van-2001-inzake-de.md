@@ -11,7 +11,7 @@ published: 2009-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/07/12/2009015104/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2009. - Wet houdende instemming met het Internationaal Verdrag van 2001 inzake de burgerlijke aansprakelijkheid voor schade door verontreiniging door bunkerolie, en met de Bijlage, gedaan te Londen op 23 maart 2001

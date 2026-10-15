@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/10/10/2013205647/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 22-10-2013 et mise à jour au 06-11-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 2013. - Décret visant à promouvoir la prise en compte des personnes en situation de handicap dans le cadre d'un contrat de gestion ou de leurs obligations d'information

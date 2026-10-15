@@ -12,7 +12,7 @@ entry_into_force: 2014-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/02/2014011218/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2014. - Loi portant insertion du livre X "Contrats d'agence commerciale, contrats de coopération commerciale et concessions de vente" dans le Code de droit économique, et portant insertion des définitions propres au livre X, dans le livre Ier du Code de droit économique

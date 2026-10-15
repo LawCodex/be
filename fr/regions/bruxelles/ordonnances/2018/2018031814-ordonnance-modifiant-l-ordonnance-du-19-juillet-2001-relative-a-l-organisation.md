@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/07/23/2018031814/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 20-09-2018 et mise à jour au 20-04-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 2018. - Ordonnance modifiant l'ordonnance du 19 juillet 2001 relative à l'organisation du marché de l'électricité en Région de Bruxelles-Capitale, l'ordonnance du 1er avril 2004 relative à l'organisation du marché du gaz en Région de Bruxelles-Capitale, concernant des redevances de voiries en matière de gaz et d'électricité et portant modification de l'ordonnance du 19 juillet 2001 relative à l'organisation du marché de l'électricité en Région de Bruxelles-Capitale et l'ordonnance du 12 décembre 1991 créant des fonds budgétaires

@@ -13,7 +13,7 @@ entry_into_force: 2012-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/03/02/2012035393/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2012. - Decreet houdende wijziging van het decreet van 8 mei 2009 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap NV Vlaamse Havens en houdende wijziging van het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens

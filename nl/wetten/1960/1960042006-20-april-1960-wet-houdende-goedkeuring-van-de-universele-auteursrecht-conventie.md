@@ -10,7 +10,7 @@ date: 1960-04-20
 published: 1960-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1960/04/20/1960042006/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 1960. \_ Wet houdende goedkeuring van de Universele Auteursrecht-Conventie, en van de Bijgevoegde Protocollen, ondertekend te Genève, op 6 september 1952.

@@ -12,7 +12,7 @@ entry_into_force: 2024-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/25/2024005601/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2024. - Loi portant dispositions diverses en matière d'agriculture et de santé animale

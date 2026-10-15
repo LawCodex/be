@@ -12,7 +12,7 @@ entry_into_force: 2000-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/03/01/2000015037/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er MARS 2000. - Loi portant assentiment à la convention entre le Royaume de Belgique et la République du Kazakhstan tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et au Protocole, signés à Almaty le 16 avril 1998.

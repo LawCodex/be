@@ -15,7 +15,7 @@ justel_notes:
   - "art. 6 en 6bis gewijzigd met ingang op een onbepaalde datum bij W 2018-07-30/54 , art. 5; Inwerkingtreding : onbepaald "
   - "art. 6 gewijzigd met ingang op een onbepaalde datum bij W 2020-06-18/29 , art. 2, 024; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 09-07-1991 en tekstbijwerking tot 05-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 1991. - [Wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten] &lt;Opschrift vervangen door L 2018-11-25/05 , art.22, 022; Inwerkingtreding : 23-12-2018)&gt;

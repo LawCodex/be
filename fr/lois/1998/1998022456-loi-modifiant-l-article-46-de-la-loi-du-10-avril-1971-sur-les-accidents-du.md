@@ -12,7 +12,7 @@ entry_into_force: 1998-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/05/20/1998022456/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 1998. - Loi modifiant l'article 46 de la loi du 10 avril 1971 sur les accidents du travail.

@@ -13,7 +13,7 @@ entry_into_force: 2007-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/23/2007037155/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2007. - Décret portant introduction d'un droit fixe spécifique pour la résolution ou l'annulation amiable des compromis de vente (TRADUCTION).

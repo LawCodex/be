@@ -12,7 +12,7 @@ entry_into_force: 2010-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/02/21/2010200323/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2010. - Wet tot aanpassing van verschillende wetten die een aangelegenheid regelen als bedoeld in artikel 78 van de Grondwet, aan de benaming "Grondwettelijk Hof"

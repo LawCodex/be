@@ -12,7 +12,7 @@ entry_into_force: 2025-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/11/28/2025009493/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2025. - Wet tot herstel van artikel 31bis van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, met betrekking tot de elektronische procesvoering voor de afdeling bestuursrechtspraak van de Raad van State

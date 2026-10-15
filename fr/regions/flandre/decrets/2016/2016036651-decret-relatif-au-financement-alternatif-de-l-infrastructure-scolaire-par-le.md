@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/11/25/2016036651/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 10-01-2017 et mise à jour au 29-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2016. - Décret relatif au financement alternatif de l'infrastructure scolaire par le biais de conventions DBFM spécifiques d'un projet

@@ -12,7 +12,7 @@ published: 2003-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/05/08/2003029316/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2003. - Decreet houdende wijziging van het decreet tot regeling, voor de Franse Gemeenschap, van de toekenning van de studietoelagen en de studieleningen, gecoördineerd op 7 november 1983 (VERTALING).

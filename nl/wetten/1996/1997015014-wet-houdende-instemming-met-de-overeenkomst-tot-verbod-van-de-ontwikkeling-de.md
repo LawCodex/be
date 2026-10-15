@@ -12,7 +12,7 @@ entry_into_force: 1997-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/12/20/1997015014/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 1996. - Wet houdende instemming met de Overeenkomst tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens, en van de drie Bijlagen, gedaan te Parijs op 13 januari 1993.

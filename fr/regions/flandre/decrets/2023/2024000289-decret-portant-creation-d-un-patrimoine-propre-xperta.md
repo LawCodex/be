@@ -12,7 +12,7 @@ published: 2024-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/22/2024000289/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2023. - Décret portant création d'un Patrimoine propre Xperta

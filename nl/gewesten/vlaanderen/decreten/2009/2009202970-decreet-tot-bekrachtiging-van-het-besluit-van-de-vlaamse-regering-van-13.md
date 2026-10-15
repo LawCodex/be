@@ -13,7 +13,7 @@ entry_into_force: 2009-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202970/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 13 februari 2009 betreffende de eindtermen en ontwikkelingsdoelen in het basis- en secundair onderwijs

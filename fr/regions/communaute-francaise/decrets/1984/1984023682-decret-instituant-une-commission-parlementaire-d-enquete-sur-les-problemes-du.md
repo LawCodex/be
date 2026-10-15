@@ -13,7 +13,7 @@ entry_into_force: 1984-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1984/04/06/1984023682/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1984. - Décret instituant une commission parlementaire d'enquête sur les problèmes du quart monde.

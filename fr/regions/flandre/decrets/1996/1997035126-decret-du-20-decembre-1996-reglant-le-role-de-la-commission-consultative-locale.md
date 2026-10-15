@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/20/1997035126/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-02-1997 et mise à jour au 19-06-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1996. - [Décret du 20 décembre 1996 réglant le rôle de la commission consultative locale dans le cadre de la livraison minimale d'électricité, de gaz et d'eau][et d'énergie thermique].(TRADUCTION) &lt;Intitulé modifié par DCFL 2013-07-19/56 , art. 3, 005; En vigueur : 02-09-2013&gt;&lt;Intitulé modifié par DCFL 2017-03-10/15 , art. 1, 006; En vigueur : 01-04-2019&gt;

@@ -13,7 +13,7 @@ entry_into_force: 2025-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/11/2024203609/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2024. - Décret visant la mise à disposition par les communes d'un lieu public neutre permettant d'organiser des cérémonies funéraires

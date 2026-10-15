@@ -12,7 +12,7 @@ entry_into_force: 2007-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/21/2007022150/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2006. - Wet houdende oprichting van Kamers van eerste aanleg en Kamers van beroep bij de Dienst voor geneeskundige evaluatie en controle van het RIZIV.

@@ -12,7 +12,7 @@ entry_into_force: 2021-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/12/10/2020044664/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2020. - Loi modifiant la loi du 4 avril 2014 relative aux assurances en vue d'établir dans le domaine de l'assurance maladie et de l'assurance individuelle sur la vie une restriction de traitement des données à caractère personnel concernant le mode de vie ou la santé issues des objets connectés

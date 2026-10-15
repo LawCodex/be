@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/06/2012204483/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2012. - Décret modifiant diverses dispositions du décret du 7 mai 2004 relatif à l'organisation matérielle et au fonctionnement des cultes reconnus

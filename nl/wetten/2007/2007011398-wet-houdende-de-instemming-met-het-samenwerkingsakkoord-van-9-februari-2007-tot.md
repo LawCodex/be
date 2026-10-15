@@ -10,7 +10,7 @@ date: 2007-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/15/2007011398/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2007. - Wet houdende de instemming met het samenwerkingsakkoord van 9 februari 2007 tot wijziging van het samenwerkingsakkoord van 13 december 2002 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering en financiering van de bodemsanering van tankstations.

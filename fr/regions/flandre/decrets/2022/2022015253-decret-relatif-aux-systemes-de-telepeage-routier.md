@@ -13,7 +13,7 @@ entry_into_force: 2022-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/03/2022015253/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2022. - Décret relatif aux systèmes de télépéage routier

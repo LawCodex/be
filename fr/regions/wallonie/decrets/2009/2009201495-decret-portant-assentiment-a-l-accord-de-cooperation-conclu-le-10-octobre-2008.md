@@ -13,7 +13,7 @@ entry_into_force: 2009-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/19/2009201495/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2009. - Décret portant assentiment à l'Accord de coopération conclu le 10 octobre 2008 entre la Communauté française et la Région wallonne en matière de soutien à la scolarité pour les jeunes présentant un handicap

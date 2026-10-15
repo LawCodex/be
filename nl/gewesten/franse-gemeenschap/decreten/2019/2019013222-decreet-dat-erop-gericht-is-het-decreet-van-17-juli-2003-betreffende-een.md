@@ -12,7 +12,7 @@ published: 2019-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/25/2019013222/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Decreet dat erop gericht is het decreet van 17 juli 2003 betreffende een bijdrage in de kosten voor het gebruik van openbare gemeenschappelijke vervoermiddelen en/of van de fiets door de personeelsleden te wijzigen om inzonderheid de fiets met elektrische trapondersteuning erbij in te sluiten

@@ -10,7 +10,7 @@ date: 2001-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/06/10/2001009614/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2001. - Wet tot aanvulling van artikel 591 van het Gerechtelijk Wetboek.

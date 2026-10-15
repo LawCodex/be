@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/14/2021042664/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 08-12-2021 et mise à jour au 23-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2021. - Décret relatif à la capacité de placement de la Communauté française pour assurer la mise en oeuvre et le suivi de la surveillance électronique, et au programme-horaire des justiciables condamnés à une peine privative de liberté de trois ans ou moins

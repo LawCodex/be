@@ -13,7 +13,7 @@ entry_into_force: 2007-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/15/2006037096/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2006. - Decreet houdende instemming met het Verdrag van de Raad van Europa en UNESCO betreffende de erkenning van diploma's hoger onderwijs in de Europese regio, opgemaakt in Lissabon op 11 april 1997.

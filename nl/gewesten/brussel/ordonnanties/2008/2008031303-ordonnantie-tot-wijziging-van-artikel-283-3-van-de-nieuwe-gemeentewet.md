@@ -13,7 +13,7 @@ entry_into_force: 2008-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/06/12/2008031303/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2008. - Ordonnantie tot wijziging van artikel 283, 3° van de nieuwe gemeentewet.

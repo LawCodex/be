@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/10/21/1998033093/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OKTOBER 1996. - Decreet houdende goedkeuring van het entente- en samenwerkingsverdrag tussen de Russische Federatie en het Koninkrijk België, ondertekend te Brussel op 8 december 1993 (VERTALING).

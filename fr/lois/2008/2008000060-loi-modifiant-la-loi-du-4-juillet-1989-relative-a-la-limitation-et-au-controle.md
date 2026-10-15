@@ -12,7 +12,7 @@ entry_into_force: 2008-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/01/18/2008000060/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2008. - Loi modifiant la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour les élections des Chambres fédérales, ainsi qu'au financement et à la comptabilité ouverte des partis politiques, en ce qui concerne les délais fixés pour l'exercice des compétences de la Commission de contrôle.

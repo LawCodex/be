@@ -13,7 +13,7 @@ entry_into_force: 2006-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/02/2006036043/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2006. - Decreet tot bekrachtiging van de decretale specifieke eindtermen " topsport " algemeen en technisch secundair onderwijs.

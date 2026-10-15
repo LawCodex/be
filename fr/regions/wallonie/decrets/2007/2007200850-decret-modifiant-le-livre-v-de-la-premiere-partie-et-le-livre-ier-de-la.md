@@ -13,7 +13,7 @@ entry_into_force: 2007-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/09/2007200850/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2007. - Décret modifiant le Livre V de la première partie et le Livre Ier de la troisième partie du Code de la démocratie locale et de la décentralisation.

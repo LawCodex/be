@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2003/07/17/2003031392/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 09-09-2003 et mise à jour au 02-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2003. - Ordonnance portant le Code bruxellois du Logement (version 2003).

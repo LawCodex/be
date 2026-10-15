@@ -12,7 +12,7 @@ entry_into_force: 1999-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/08/10/1999015091/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1998. - Wet houdende instemming met het Protocol bij de Partnerschaps- en Samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Russische Federatie, anderzijds, gedaan te Brussel op 21 mei 1997.

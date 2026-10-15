@@ -12,7 +12,7 @@ entry_into_force: 1999-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/25/1999000279/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 1999. - Loi modifiant les articles 140-1 à 140-6 de la loi provinciale relatifs à la consultation populaire provinciale.

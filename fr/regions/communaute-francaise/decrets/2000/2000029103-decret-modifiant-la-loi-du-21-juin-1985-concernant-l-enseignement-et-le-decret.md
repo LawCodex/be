@@ -13,7 +13,7 @@ entry_into_force: 2000-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/03/02/2000029103/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 2000. - Décret modifiant la loi du 21 juin 1985 concernant l'enseignement et le décret du 14 juillet 1997 portant diverses mesures en matière d'enseignement universitaire.

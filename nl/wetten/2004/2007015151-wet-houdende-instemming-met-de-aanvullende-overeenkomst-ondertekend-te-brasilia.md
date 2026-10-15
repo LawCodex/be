@@ -11,7 +11,7 @@ entry_into_force: 2007-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/12/17/2007015151/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2004. - Wet houdende instemming met de Aanvullende Overeenkomst, ondertekend te Brasilia op 20 november 2002, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Federatieve Republiek Brazilië tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen, en het Slotprotocol, ondertekend te Brasilia op 23 juni 1972

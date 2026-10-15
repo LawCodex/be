@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/12/21/2005029223/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 27-10-2005 et mise à jour au 05-01-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2004. - Décret contenant le budget général des dépenses de la Communauté française pour l'année budgétaire 2005.

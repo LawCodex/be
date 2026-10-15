@@ -11,7 +11,7 @@ published: 1998-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/07/15/1998003441/justel"
 department: "Finances - Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 1998. - Loi modifiant diverses dispositions légales en matière d'instruments financiers et de systèmes de compensation de titres.

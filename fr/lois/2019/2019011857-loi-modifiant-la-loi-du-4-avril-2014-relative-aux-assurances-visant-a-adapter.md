@@ -12,7 +12,7 @@ entry_into_force: 2019-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/22/2019011857/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2019. - Loi modifiant la loi du 4 avril 2014 relative aux assurances, visant à adapter les règles relatives à la résiliation des contrats d'assurance afin de mieux protéger le consommateur

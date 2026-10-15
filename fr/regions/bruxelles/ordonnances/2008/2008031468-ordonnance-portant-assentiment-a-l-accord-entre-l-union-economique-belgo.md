@@ -13,7 +13,7 @@ entry_into_force: 2008-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/09/04/2008031468/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBRE 2008. - Ordonnance portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République de Corée concernant l'encouragement et la protection réciproques des investissements, fait à Bruxelles le 12 décembre 2006.

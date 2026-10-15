@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/30/2006202766/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 01-02-2011 en tekstbijwerking tot 01-02-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2006. - Decreet betreffende de sociale integratie van jongeren door de sport, waarbij een sportcheque wordt ingevoerd (VERTALING)

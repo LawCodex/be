@@ -12,7 +12,7 @@ entry_into_force: 2016-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/26/2014015256/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBRE 2013. - Loi portant assentiment au Protocole, fait à Bruxelles le 8 mars 2010, modifiant la Convention entre le Royaume de Belgique et la République de Corée tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Bruxelles le 29 août 1977, telle que modifiée par la Convention additionnelle signée à Bruxelles le 20 avril 1994

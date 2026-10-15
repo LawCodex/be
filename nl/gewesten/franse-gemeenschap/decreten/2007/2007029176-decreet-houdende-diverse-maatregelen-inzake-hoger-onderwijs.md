@@ -13,7 +13,7 @@ entry_into_force: 2007-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/06/2007029176/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2007. - Decreet houdende diverse maatregelen inzake hoger onderwijs

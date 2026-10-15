@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/02/26/2015003086/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 23-03-2015 en tekstbijwerking tot 26-11-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2015. - Wet houdende eindregeling van de begrotingen van de diensten van algemeen bestuur van de Staat van het jaar 2008 en van de Staatsdiensten met afzonderlijk beheer van voorafgaande jaren

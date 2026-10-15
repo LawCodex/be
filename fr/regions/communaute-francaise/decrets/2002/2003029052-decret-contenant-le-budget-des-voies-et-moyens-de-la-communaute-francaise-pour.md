@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/19/2003029052/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 10-02-2003 et mise à jour au 04-05-2004."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2002. - Décret contenant le budget des Voies et Moyens de la Communauté française pour l'année budgétaire 2003. -

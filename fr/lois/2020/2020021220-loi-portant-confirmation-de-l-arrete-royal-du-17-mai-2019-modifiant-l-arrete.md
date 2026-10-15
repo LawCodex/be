@@ -12,7 +12,7 @@ entry_into_force: 2020-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/12/2020021220/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2020. - Loi portant confirmation de l'arrêté royal du 17 mai 2019 modifiant l'arrêté royal du 18 février 2005 fixant les cotisations obligatoires à payer au Fonds budgétaire pour la santé et la qualité des animaux et des produits animaux, secteur lait et de l'arrêté royal du 8 juillet 2019 modifiant l'arrêté royal du 13 novembre 2011 fixant les rétributions et cotisations dues au Fonds budgétaire des matières premières et des produits

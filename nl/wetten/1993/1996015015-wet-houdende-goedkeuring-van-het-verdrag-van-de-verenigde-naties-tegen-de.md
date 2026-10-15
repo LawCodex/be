@@ -12,7 +12,7 @@ entry_into_force: 1996-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/08/06/1996015015/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AUGUSTUS 1993. - WET houdende goedkeuring van het Verdrag van de Verenigde Naties tegen de sluikhandel in verdovende middelen, psychotrope stoffen, en van de Bijlage, opgemaakt te Wenen op 20 december 1988

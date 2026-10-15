@@ -12,7 +12,7 @@ entry_into_force: 2007-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/28/2007000024/justel"
 department: "Justice - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBRE 2006. - Loi modifiant la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, et la loi sur la fonction de police.

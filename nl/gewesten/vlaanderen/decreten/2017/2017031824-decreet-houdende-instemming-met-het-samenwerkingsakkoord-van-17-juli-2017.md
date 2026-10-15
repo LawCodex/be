@@ -13,7 +13,7 @@ entry_into_force: 2017-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/12/01/2017031824/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2017. - Decreet houdende instemming met het Samenwerkingsakkoord van 17 juli 2017 tussen het Vlaamse Gewest, het Waalse Gewest, het Brusselse Hoofdstedelijke Gewest en de Duitstalige Gemeenschap met betrekking tot de erkende plaatselijke geloofsgemeenschappen van de erkende erediensten, waarvan het grondgebied meer dan één deelstaat bestrijkt

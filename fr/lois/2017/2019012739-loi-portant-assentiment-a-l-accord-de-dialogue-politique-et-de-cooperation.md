@@ -12,7 +12,7 @@ entry_into_force: 2019-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/31/2019012739/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2017. - Loi portant assentiment à l'Accord de dialogue politique et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la République de Cuba, d'autre part, fait à Bruxelles le 12 décembre 2016

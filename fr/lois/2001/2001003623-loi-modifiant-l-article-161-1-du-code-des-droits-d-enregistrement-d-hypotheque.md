@@ -12,7 +12,7 @@ entry_into_force: 2001-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/12/05/2001003623/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 2001. - Loi modifiant l'article 161, 1°, du Code des droits d'enregistrement, d'hypothèque et de greffe et l'article 149 du Code des droits de succession.

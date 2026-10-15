@@ -13,7 +13,7 @@ entry_into_force: 2015-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/07/02/2015031429/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2015. - Ordonnance portant assentiment à la Convention du Conseil de l'Europe sur la prévention et la lutte contre la violence à l'égard des femmes et la violence domestique, faite à Istanbul le 11 mai 2011

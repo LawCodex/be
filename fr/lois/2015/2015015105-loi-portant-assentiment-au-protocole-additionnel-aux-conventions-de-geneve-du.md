@@ -12,7 +12,7 @@ entry_into_force: 2015-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/04/20/2015015105/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2015. - Loi portant assentiment au Protocole additionnel aux Conventions de Genève du 12 août 1949 relatif à l'adoption d'un signe distinctif additionnel (Protocole III), adopté à Genève le 8 décembre 2005

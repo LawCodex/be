@@ -12,7 +12,7 @@ entry_into_force: 2025-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/12/20/2024206261/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2024. - Loi modifiant la loi du 26 juin 2002 relative aux fermetures d'entreprises adaptant la condition d'octroi concernant l'âge du travailleur pour bénéficier de l'indemnité de fermeture

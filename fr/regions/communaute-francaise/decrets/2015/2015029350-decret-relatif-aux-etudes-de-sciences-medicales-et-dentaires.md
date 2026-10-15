@@ -13,7 +13,7 @@ entry_into_force: 2015-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/07/09/2015029350/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2015. - Décret relatif aux études de sciences médicales et dentaires

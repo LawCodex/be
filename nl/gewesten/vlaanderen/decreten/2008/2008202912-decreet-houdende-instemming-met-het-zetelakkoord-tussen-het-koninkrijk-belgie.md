@@ -12,7 +12,7 @@ published: 2008-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/20/2008202912/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2008. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Economische Gemeenschap van West-Afrikaanse Staten, ondertekend in Brussel, op 12 juli 2006.

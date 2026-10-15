@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/19/2014000570/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 23-07-2014 et mise à jour au 30-11-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2014. - Loi fixant certains aspects de l'aménagement du temps de travail des membres professionnels opérationnels des zones de secours et du Service d'incendie et d'aide médicale urgente de la Région Bruxelles-Capitale et modifiant la loi du 15 mai 2007 relative à la sécurité civile

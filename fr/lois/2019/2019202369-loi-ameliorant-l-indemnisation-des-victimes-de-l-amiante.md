@@ -12,7 +12,7 @@ entry_into_force: 2019-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/05/2019202369/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2019. - Loi améliorant l'indemnisation des victimes de l'amiante

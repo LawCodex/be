@@ -12,7 +12,7 @@ entry_into_force: 2010-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/01/18/2010003034/justel"
 department: "Binnenlandse Zaken - Economie, KMO, Middenstand en Energie - Financiën - Justitie - Personeel en Organisatie - Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu - Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2010. - Wet tot wijziging van de wet van 11 januari 1993 tot voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld en de financiering van terrorisme, en het Wetboek van vennootschappen

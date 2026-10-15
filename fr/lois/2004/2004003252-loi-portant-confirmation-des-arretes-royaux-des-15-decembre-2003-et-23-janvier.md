@@ -12,7 +12,7 @@ entry_into_force: 2004-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/08/2004003252/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2004. - Loi portant confirmation des arrêtés royaux des 15 décembre 2003 et 23 janvier 2004 modifiant, en matière de précompte professionnel, l'AR/CIR 1992.

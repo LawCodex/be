@@ -15,7 +15,7 @@ justel_notes:
   - "De artikelen 63, 64, 65, L1 en 106 opgeheven voor de Franse Gemeenschap, wat betreft de universitaire ziekenhuizen, bij DFG 2015-12-10/18 , art. 48, §1, 012; Inwerkingtreding : 01-01-2016; zie ook art. 48, §2, voor wat de artikelen 63 en 64 betreft"
   - "art. 10 gewijzigd voor het Vlaams Gewest met ingang op een onbepaalde datum bij DVR 2016-07-15/17 , art. 38, 014; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 07-11-2008 en tekstbijwerking tot 31-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2008. - [Gecoördineerde wet op de ziekenhuizen en andere verzorgingsinrichtingen] &lt;Opschrift vervangen bij W 2013-03-19/03 , art. 46, 007; Inwerkingtreding : 08-04-2013&gt;

@@ -12,7 +12,7 @@ entry_into_force: 2007-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/02/15/2007015131/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2007. - Loi portant assentiment au Protocole portant modification de la Convention relative aux transports internationaux ferroviaires (COTIF) du 9 mai 1980, fait à Vilnius le 3 juin 1999

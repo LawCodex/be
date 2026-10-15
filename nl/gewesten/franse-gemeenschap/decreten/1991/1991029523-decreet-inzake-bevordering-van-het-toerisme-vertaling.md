@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/07/19/1991029523/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 18-10-1991 en tekstbijwerking tot 25-01-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 1991. - Decreet inzake bevordering van het toerisme. &lt;Vertaling&gt;

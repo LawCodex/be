@@ -13,7 +13,7 @@ entry_into_force: 2017-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/07/27/2017040673/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUILLET 2017. - Ordonnance modifiant la Nouvelle loi communale en vue de préciser les règles de compétences en matière de marchés publics communaux

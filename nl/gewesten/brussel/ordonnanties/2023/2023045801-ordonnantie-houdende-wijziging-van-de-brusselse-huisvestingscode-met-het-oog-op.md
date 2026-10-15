@@ -13,7 +13,7 @@ entry_into_force: 2024-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/09/28/2023045801/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBER 2023. - Ordonnantie houdende wijziging van de Brusselse Huisvestingscode met het oog op de invoering van een voorkeurrecht voor huurders van wie de woning te koop wordt aangeboden

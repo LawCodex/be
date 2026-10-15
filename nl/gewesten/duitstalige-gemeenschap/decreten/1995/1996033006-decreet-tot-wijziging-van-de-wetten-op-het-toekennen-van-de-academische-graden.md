@@ -13,7 +13,7 @@ entry_into_force: 1995-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/07/17/1996033006/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 1995. - Decreet tot wijziging van de wetten op het toekennen van de academische graden en het programma van de universitaire examens, gecoördineerd op 31 december 1949, en van het decreet van 18 april 1994 betreffende de inrichting van een examencommissie van de Duitstalige Gemeenschap voor het secundair onderwijs en de organisatie van de examens afgelegd voor deze examencommissie (VERTALING).

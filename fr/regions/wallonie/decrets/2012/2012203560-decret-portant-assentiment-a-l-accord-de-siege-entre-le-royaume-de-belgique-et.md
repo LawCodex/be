@@ -13,7 +13,7 @@ entry_into_force: 2012-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/21/2012203560/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2012. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et le Secrétariat du "Regional Cooperation Council", signé à Bruxelles le 29 août 2008

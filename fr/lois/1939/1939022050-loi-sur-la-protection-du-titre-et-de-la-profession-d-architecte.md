@@ -13,7 +13,7 @@ last_amended: 2024-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1939/02/20/1939022050/justel"
 justel_note: "Consultation des versions antérieures à partir du 28-07-1990 et mise à jour au 12-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 1939. - Loi sur la protection du titre et de la profession d'architecte.

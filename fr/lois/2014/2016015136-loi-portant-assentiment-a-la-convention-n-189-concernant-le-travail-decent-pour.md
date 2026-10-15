@@ -12,7 +12,7 @@ entry_into_force: 2018-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/29/2016015136/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2014. - Loi portant assentiment à la Convention n° 189 concernant le travail décent pour les travailleuses et travailleurs domestiques, adoptée à Genève le 16 juin 2011 par la Conférence internationale du travail à sa 100 e session

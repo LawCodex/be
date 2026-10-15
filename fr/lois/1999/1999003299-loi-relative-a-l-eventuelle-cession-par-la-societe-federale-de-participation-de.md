@@ -12,7 +12,7 @@ entry_into_force: 1999-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/23/1999003299/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 1999. - Loi relative à l'éventuelle cession par la Société fédérale de Participation de ses actions de l'Office central de Crédit hypothécaire.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/08/21/1987027856/justel"
 department: "Région Bruxelloise"
 justel_note: "Consultation des versions antérieures à partir du 11-03-2024 et mise à jour au 11-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AOUT 1987. - Loi modifiant la loi organisant les agglomérations et les fédérations de communes et portant des dispositions relatives à la Région bruxelloise

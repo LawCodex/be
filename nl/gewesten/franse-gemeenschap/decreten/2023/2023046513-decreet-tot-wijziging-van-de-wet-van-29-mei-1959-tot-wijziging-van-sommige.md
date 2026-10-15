@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/10/18/2023046513/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 OKTOBER 2023. - Decreet tot wijziging van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving met betrekking tot de financiering van de Hogere kunstscholen

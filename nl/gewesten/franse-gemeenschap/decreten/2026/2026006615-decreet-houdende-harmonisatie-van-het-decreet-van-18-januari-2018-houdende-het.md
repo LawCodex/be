@@ -11,7 +11,7 @@ date: 2026-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/09/04/2026006615/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBER 2026. - Decreet houdende harmonisatie van het decreet van 18 januari 2018 houdende het Wetboek van preventie, hulpverlening aan de jeugd en jeugdbescherming met het nieuwe Strafwetboek van 29 februari 2024

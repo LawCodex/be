@@ -13,7 +13,7 @@ entry_into_force: 2012-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/08/2012203962/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2012. - Décret portant adaptations techniques et pratiques au décret relatif à l'inscription

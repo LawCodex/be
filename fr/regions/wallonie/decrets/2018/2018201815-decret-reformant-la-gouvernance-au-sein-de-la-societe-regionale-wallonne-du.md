@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/29/2018201815/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 16-04-2018 et mise à jour au 08-10-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2018. - Décret réformant la gouvernance au sein de la Société régionale wallonne du Transport et modifiant le décret du 21 décembre 1989 relatif au service de transport public de personnes en Région wallonne

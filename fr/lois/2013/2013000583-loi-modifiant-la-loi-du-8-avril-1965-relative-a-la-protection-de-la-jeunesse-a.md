@@ -12,7 +12,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/19/2013000583/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2013. - Loi modifiant la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait

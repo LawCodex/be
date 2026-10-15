@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/04/2024004444/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-05-2024 en tekstbijwerking tot 07-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2024. - Decreet inzake de financiering van onderzoek [...](Opschrift gewijzigd door DFG 2025-12-17/08 , art. 56, 004; Inwerkingtreding : 01-01-2026)

@@ -13,7 +13,7 @@ entry_into_force: 2015-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/11/20/2015031815/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2015. - Ordonnance portant assentiment à : la Convention internationale de Nairobi sur l'enlèvement des épaves, 2007, faite à Nairobi le 18 mai 2007

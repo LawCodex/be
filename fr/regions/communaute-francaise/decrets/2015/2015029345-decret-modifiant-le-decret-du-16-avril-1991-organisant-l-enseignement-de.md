@@ -13,7 +13,7 @@ entry_into_force: 2015-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/07/09/2015029345/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2015. - Décret modifiant le décret du 16 avril 1991 organisant l'enseignement de promotion sociale

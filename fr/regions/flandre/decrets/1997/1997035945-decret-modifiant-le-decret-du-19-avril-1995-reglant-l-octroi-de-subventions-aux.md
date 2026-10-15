@@ -13,7 +13,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/06/24/1997035945/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 1997. - Décret modifiant le décret du 19 avril 1995 réglant l'octroi de subventions aux institutions d'éducation populaire (TRADUCTION).

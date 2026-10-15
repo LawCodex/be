@@ -12,7 +12,7 @@ entry_into_force: 2016-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/06/27/2016000457/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2016. - Wet tot wijziging van de wet van 21 december 1998 betreffende de veiligheid bij voetbalwedstrijden

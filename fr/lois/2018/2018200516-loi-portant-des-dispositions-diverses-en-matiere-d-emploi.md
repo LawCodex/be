@@ -12,7 +12,7 @@ entry_into_force: 2018-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/01/15/2018200516/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 2018. - Loi portant des dispositions diverses en matière d'emploi

@@ -12,7 +12,7 @@ entry_into_force: 2023-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/11/2023031132/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2023. - Loi abrogeant la loi du 6 janvier 2014 relative au mécanisme de responsabilisation climat (II)

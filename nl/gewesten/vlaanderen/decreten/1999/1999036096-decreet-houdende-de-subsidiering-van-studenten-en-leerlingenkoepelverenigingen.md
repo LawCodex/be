@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/03/30/1999036096/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 15-09-1999 en tekstbijwerking tot 26-08-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 1999. - Decreet houdende de subsidiëring van studenten- en leerlingenkoepelverenigingen.

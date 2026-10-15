@@ -12,7 +12,7 @@ published: 2015-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/02/26/2015201079/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2015. - Decreet houdende goedkeuring van het samenwerkingsakkoord van 18 april 2014 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot de Coördinatiestructuur voor patrimoniuminformatie

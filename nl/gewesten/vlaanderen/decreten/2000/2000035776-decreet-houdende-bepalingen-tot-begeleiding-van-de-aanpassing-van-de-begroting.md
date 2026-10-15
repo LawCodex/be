@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/06/30/2000035776/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 17-08-2000 en tekstbijwerking tot 24-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2000. - Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2000. -

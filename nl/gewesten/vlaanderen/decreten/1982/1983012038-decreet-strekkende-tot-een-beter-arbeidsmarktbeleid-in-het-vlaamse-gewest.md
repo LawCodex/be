@@ -13,7 +13,7 @@ entry_into_force: 1983-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1982/12/15/1983012038/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 1982. - Decreet strekkende tot een beter arbeidsmarktbeleid in het Vlaamse Gewest.

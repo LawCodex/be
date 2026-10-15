@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/11/1998031022/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 12-02-1998 et mis à jour au 19-02-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 1997. - Décret contenant le budget des voies et moyens de la Commission communautaire française pour l'année budgétaire 1998.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/03/13/2003200560/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 31-03-2003 et mise à jour au 05-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2003. - Décret relatif à l'agrément des agences de placement

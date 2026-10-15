@@ -12,7 +12,7 @@ entry_into_force: 2024-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/12/2024004620/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2024. - Loi portant la contribution de la Belgique à l'instrument établi par le règlement (UE) 2022/2463 du Parlement européen et du Conseil du 14 décembre 2022 établissant un instrument de soutien à l'Ukraine pour 2023 (assistance macrofinancière +).

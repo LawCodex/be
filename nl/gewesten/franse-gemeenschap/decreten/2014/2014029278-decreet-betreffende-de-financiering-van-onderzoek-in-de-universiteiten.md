@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/30/2014029278/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 05-02-2015 en tekstbijwerking tot 30-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2014. - Decreet betreffende de financiering van onderzoek in de universiteiten

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/24/1996036149/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 05-10-1996 et mise à jour au 21-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 1996. - [Décret réglant l'agrément et le subventionnement des institutions de médiation de dettes [...]] (TRADUCTION) &lt;DCFL 2008-07-10/47 , art. 2, 003; En vigueur : 23-08-2008&gt; &lt;Intitulé modifié par DCFL 2017-02-17/06 , art. 16, 005; En vigueur : 01-01-2018&gt;

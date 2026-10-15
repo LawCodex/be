@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/06/01/2004033084/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-12-2004 en tekstbijwerking tot 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2004. - Decreet betreffende de gezondheidspromotie [en inzake medische preventie] (VERTALING). &lt;DDG 2009-04-27/19 , art. 21, §1, 004; Inwerkingtreding : 25-06-2009&gt;

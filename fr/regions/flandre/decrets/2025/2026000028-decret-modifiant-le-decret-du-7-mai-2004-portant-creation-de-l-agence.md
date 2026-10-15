@@ -13,7 +13,7 @@ entry_into_force: 2026-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/19/2026000028/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2025. - Décret modifiant le décret du 7 mai 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique " Vlaams Agentschap voor Personen met een Handicap " (Agence flamande pour les Personnes handicapées) et le décret du 25 avril 2014 portant le financement personnalisé pour des personnes handicapées et portant réforme du mode de financement des soins et du soutien pour des personnes handicapées, en ce qui concerne le traitement des données à caractère personnel, la demande d'un budget personnalisé, la concomitance de procédures et l'obligation de présenter un extrait du casier judiciaire

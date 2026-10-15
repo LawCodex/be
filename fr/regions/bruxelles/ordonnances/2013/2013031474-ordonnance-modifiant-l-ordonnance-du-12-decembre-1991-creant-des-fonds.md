@@ -13,7 +13,7 @@ entry_into_force: 2013-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/05/30/2013031474/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2013. - Ordonnance modifiant l'ordonnance du 12 décembre 1991 créant des fonds budgétaires

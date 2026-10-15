@@ -12,7 +12,7 @@ entry_into_force: 2009-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/07/16/2009003286/justel"
 department: "Finances - Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2009. - Loi modifiant la loi du 8 juin 2006 réglant des activités économiques et individuelles avec des armes, en vue d'interdire le financement de la fabrication, de l'utilisation ou de la détention des armes à uranium

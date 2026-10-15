@@ -12,7 +12,7 @@ entry_into_force: 2017-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/22/2016011538/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2016. - Loi modifiant certaines dispositions du livre XI du Code de droit économique

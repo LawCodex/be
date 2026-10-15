@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/07/14/1998011227/justel"
 department: "Affaires économiques"
 justel_note: "Consultation des versions antérieures à partir du 14-04-1999 et mise à jour au 21-06-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1998. - Loi portant obligation d'information quant aux intérêts débiteurs dus sur les comptes ouverts auprès des établissements de crédit ou d'autres personnes morales.

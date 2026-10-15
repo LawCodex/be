@@ -13,7 +13,7 @@ entry_into_force: 2021-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/06/19/2020041989/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2020. - Décret portant abrogation de l'agence autonomisée externe de droit public " Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen " (Agence flamande pour la Formation d'Entrepreneurs - Syntra Flandre), réglant les missions et compétences et portant modification du nom " Hermesfonds " (Fonds Hermès)

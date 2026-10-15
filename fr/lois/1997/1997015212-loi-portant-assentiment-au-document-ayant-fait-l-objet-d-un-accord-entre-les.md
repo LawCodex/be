@@ -12,7 +12,7 @@ entry_into_force: 1997-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/25/1997015212/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 1997. - Loi portant assentiment au Document ayant fait l'objet d'un accord entre les Etats parties au Traité sur les forces armées conventionnelles en Europe en date du 19 novembre 1990, fait à Vienne le 31 mai 1996.

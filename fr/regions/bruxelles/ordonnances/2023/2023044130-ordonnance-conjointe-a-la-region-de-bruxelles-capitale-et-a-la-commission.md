@@ -13,7 +13,7 @@ entry_into_force: 2023-10-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/07/20/2023044130/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2023. - Ordonnance conjointe à la Région de Bruxelles-Capitale et à la Commission communautaire commune modifiant l'ordonnance conjointe à la Région de Bruxelles-Capitale et à la Commission communautaire commune du 14 décembre 2017 portant création d'une Commission bruxelloise de déontologie

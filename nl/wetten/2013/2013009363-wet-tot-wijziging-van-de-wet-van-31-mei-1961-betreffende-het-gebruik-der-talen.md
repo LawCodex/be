@@ -12,7 +12,7 @@ entry_into_force: 2013-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/21/2013009363/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JULI 2013. - Wet tot wijziging van de wet van 31 mei 1961 betreffende het gebruik der talen in wetgevingszaken, het opmaken, bekendmaken en inwerkingtreden van wetten en verordeningen

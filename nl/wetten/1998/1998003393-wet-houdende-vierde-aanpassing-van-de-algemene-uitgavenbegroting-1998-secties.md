@@ -10,7 +10,7 @@ date: 1998-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/07/05/1998003393/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1998. - Wet houdende vierde aanpassing van de algemene uitgavenbegroting 1998 - Secties 19 - "Ministerie van Ambtenarenzaken" en 18 "Ministerie van Financiën".

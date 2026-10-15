@@ -12,7 +12,7 @@ entry_into_force: 2019-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/01/2019011442/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2019. - Wet tot wijziging van de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus en tot wijziging van de wet van 15 mei 2007 betreffende de civiele veiligheid, ter precisering van de voor de politiezones geldende bevoegdheidsregels inzake overheidsopdrachten

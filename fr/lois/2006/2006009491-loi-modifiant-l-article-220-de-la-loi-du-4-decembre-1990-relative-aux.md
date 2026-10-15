@@ -12,7 +12,7 @@ entry_into_force: 2006-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/13/2006009491/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 2006. - Loi modifiant l'article 220 de la loi du 4 décembre 1990 relative aux opérations financières et aux marchés financiers et les articles 121, § 1er, 1°, et 122 de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers.

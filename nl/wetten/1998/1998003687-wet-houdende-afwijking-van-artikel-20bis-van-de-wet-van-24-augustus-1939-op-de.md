@@ -12,7 +12,7 @@ entry_into_force: 1998-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/18/1998003687/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 1998. - Wet houdende afwijking van artikel 20bis van de wet van 24 augustus 1939 op de Nationale Bank van België en tot wijziging van de wet van 22 februari 1998 tot vaststelling van het organiek statuut van de Nationale Bank van België.

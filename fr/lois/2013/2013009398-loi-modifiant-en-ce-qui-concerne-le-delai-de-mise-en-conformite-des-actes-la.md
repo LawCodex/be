@@ -12,7 +12,7 @@ entry_into_force: 2013-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/08/17/2013009398/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 AOUT 2013. - Loi modifiant, en ce qui concerne le délai de mise en conformité des actes, la loi du 2 juin 2010 modifiant le Code civil afin de moderniser le fonctionnement des copropriétés et d'accroître la transparence de leur gestion

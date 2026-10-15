@@ -13,7 +13,7 @@ entry_into_force: 2003-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/19/2003200059/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2002. - Decreet tot wijziging van het decreet van 7 september 1989 betreffende de toekenning van het Waalse kwaliteitslabel, de aanduiding van lokale herkomst en de aanduiding van Waalse herkomst (VERTALING).

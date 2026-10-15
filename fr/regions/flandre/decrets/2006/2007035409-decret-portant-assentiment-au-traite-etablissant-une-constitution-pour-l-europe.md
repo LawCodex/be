@@ -13,7 +13,7 @@ entry_into_force: 2007-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/09/2007035409/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 2006. - Décret portant assentiment au Traité établissant une Constitution pour l'Europe et à l'Acte final, faits à Rome, le 29 octobre 2004 (TRADUCTION).

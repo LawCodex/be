@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/02/22/1998021087/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 03-03-1998 en tekstbijwerking tot 07-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 1998. - Wet houdende sociale bepalingen. (NOTA 1 : De woorden " Kas der geneeskundige verzorging van de Nationale Maatschappij der Belgische Spoorwegen " worden vervangen door de woorden " Kas der geneeskundige verzorging van N.M.B.S. Holding " ; zie KB 2004-10-18/32 , art. 38 ; Inwerkingtreding : 01-01-2005)

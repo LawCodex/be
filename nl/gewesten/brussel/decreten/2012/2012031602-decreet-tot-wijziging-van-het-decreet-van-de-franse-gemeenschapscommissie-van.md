@@ -11,7 +11,7 @@ date: 2012-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/19/2012031602/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2012. - Decreet tot wijziging van het decreet van de Franse Gemeenschapscommissie van 17 maart 1994 houdende oprichting van het Franstalig Brussels Instituut voor Beroepsopleiding

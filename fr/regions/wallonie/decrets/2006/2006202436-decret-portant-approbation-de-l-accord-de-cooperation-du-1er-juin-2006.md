@@ -13,7 +13,7 @@ entry_into_force: 2006-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/07/2006202436/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2006. - Décret portant approbation de l'accord de coopération du 1er juin 2006 modifiant l'accord de coopération du 21 juin 1999 entre l'Etat fédéral, les Régions flamande et wallonne et la Région de Bruxelles-Capitale concernant la maîtrise des dangers liés aux accidents majeurs impliquant des substances dangereuses.

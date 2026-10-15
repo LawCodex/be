@@ -13,7 +13,7 @@ last_amended: 2019-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1964/06/03/1964060303/justel"
 justel_note: "Consultation des versions antérieures à partir du 20-03-1990 et mise à jour au 14-01-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 1964. - Loi modifiant l'arrêté royal n° 42 du 31 août 1939 réorganisant l'Office national du ducroire et autorisant le Ministre des Finances [et le Ministre qui a les Relations commerciales extérieures dans ses attributions, à consentir des prêts à des états ou à des organismes étrangers.] &lt;AR 75 10-11-1975, art. 3&gt; -

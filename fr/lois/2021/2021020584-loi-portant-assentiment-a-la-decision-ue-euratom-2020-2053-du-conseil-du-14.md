@@ -12,7 +12,7 @@ entry_into_force: 2021-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/03/16/2021020584/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2021. - Loi portant assentiment à la Décision (UE, Euratom) 2020/2053 du Conseil du 14 décembre 2020 relative au système des ressources propres de l'Union européenne et abrogeant la Décision 2014/335/UE. - Euratom

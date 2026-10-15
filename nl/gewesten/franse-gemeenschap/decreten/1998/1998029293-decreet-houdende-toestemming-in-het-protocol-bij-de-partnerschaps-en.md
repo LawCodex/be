@@ -13,7 +13,7 @@ entry_into_force: 1998-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/03/23/1998029293/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1998. - Decreet houdende toestemming in het protocol bij de partnerschaps- en samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en Oekraïne, anderzijds, gedaan te Brussel op 10 april 1997 (VERTALING).

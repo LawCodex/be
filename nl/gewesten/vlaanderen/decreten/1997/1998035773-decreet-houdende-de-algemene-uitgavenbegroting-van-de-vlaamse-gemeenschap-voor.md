@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/19/1998035773/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 14-02-1998 en tekstbijwerking tot 22-08-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1997. - Decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 1998.

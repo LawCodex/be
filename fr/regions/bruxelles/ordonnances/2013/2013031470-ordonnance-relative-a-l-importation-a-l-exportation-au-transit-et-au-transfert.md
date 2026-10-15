@@ -13,7 +13,7 @@ entry_into_force: 2013-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/06/20/2013031470/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2013. - Ordonnance relative à l'importation, à l'exportation, au transit et au transfert de produits liés à la défense, d'autre matériel pouvant servir à un usage militaire, de matériel lié au maintien de l'ordre, d'armes à feu à usage civil, de leurs pièces, accessoires et munitions (Ordonnance sur les armes)

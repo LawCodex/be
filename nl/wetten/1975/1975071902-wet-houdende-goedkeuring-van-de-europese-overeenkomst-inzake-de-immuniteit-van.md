@@ -11,7 +11,7 @@ published: 1976-06-10
 entry_into_force: 1976-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1975/07/19/1975071902/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 1975. - Wet houdende goedkeuring van de Europese Overeenkomst inzake de immuniteit van Staten, van de Bijlage en van het Aanvullend Protocol bij de Overeenkomst opgemaakt te Bazel op 16 mei 1972. (Vertaling).

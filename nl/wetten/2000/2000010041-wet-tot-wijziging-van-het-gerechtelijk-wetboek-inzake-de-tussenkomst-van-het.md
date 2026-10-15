@@ -12,7 +12,7 @@ entry_into_force: 2000-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/11/14/2000010041/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2000. - Wet tot wijziging van het Gerechtelijk Wetboek inzake de tussenkomst van het openbaar ministerie in de procedure voor het Hof van Cassatie en, in burgerlijke zaken, voor de feitenrechters en tot wijziging van de artikelen 420bis en 420ter van het Wetboek van strafvordering.

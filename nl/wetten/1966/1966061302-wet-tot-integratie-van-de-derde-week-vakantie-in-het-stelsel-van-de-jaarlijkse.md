@@ -11,7 +11,7 @@ published: 1966-06-18
 entry_into_force: 1967-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1966/06/13/1966061302/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 1966. - Wet tot integratie van de derde week vakantie in het stelsel van de jaarlijkse vakantie der werknemers.

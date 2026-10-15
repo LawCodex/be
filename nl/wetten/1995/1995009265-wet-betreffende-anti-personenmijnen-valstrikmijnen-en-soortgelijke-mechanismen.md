@@ -12,7 +12,7 @@ entry_into_force: 1995-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/03/09/1995009265/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 1995. - Wet betreffende anti-personenmijnen, valstrikmijnen en soortgelijke mechanismen.

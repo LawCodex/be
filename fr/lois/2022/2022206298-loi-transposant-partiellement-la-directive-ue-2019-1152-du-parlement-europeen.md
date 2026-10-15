@@ -12,7 +12,7 @@ entry_into_force: 2022-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/10/07/2022206298/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 OCTOBRE 2022. - Loi transposant partiellement la Directive (UE) 2019/1152 du Parlement européen et du Conseil du 20 juin 2019 relative à des conditions de travail transparentes et prévisibles dans l'Union européenne

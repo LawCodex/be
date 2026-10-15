@@ -12,7 +12,7 @@ entry_into_force: 1975-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1973/07/18/1973071802/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1973. - Loi portant approbation des traités suivants :

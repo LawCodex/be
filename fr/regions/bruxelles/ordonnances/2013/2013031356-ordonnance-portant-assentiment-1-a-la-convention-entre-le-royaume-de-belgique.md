@@ -13,7 +13,7 @@ entry_into_force: 2013-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/05/02/2013031356/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2013. - Ordonnance portant assentiment : 1° à la Convention entre le Royaume de Belgique et le Gouvernement de la République de Singapour tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Singapour le 6 novembre 2006, modifiée par le Protocole fait à Singapour le 6 novembre 2006 et par le Protocole fait à Bruxelles le 16 juillet 2009; 2° au Protocole, fait à Bruxelles le 16 juillet 2009, modifiant la Convention entre le Royaume de Belgique et le Gouvernement de la République de Singapour tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Singapour le 6 novembre 2006; 3° à l'échange de lettres du 9 février et du 25 avril 2011

@@ -12,7 +12,7 @@ entry_into_force: 2018-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/06/03/2018012741/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2018. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique, le Gouvernement du Grand-Duché de Luxembourg, le Gouvernement de la République française et le Gouvernement du Royaume des Pays-Bas relatif à la coopération en matière de défense aérienne contre les menaces aériennes non militaires, fait à Bruxelles le 16 février 2017

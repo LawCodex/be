@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/04/29/1991035703/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 09-07-1991 et mise à jour au 30-12-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 1991. - Décret relatif au Fonds flamand des Provinces. &lt;Traduction&gt;

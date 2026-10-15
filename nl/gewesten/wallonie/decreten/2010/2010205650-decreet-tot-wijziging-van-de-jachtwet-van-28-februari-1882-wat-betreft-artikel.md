@@ -11,7 +11,7 @@ date: 2010-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/10/21/2010205650/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OKTOBER 2010. - Decreet tot wijziging van de jachtwet van 28 februari 1882 wat betreft artikel 1quater ervan, met betrekking tot het afschotplan

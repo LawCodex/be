@@ -13,7 +13,7 @@ entry_into_force: 2015-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/11/02/2015205495/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 NOVEMBRE 2015. - Décret portant assentiment à la convention-cadre du Conseil de l'Europe sur la valeur du patrimoine culturel pour la société, faite à Faro le 27 octobre 2005

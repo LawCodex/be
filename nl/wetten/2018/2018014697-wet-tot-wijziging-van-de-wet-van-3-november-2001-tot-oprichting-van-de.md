@@ -11,7 +11,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/10/25/2018014697/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 OKTOBER 2018. - Wet tot wijziging van de wet van 3 november 2001 tot oprichting van de Belgische Investeringsmaatschappij voor Ontwikkelingslanden en van de wet van 23 november 2017 tot wijziging van de naam van de Belgische Technische Coöperatie en tot vaststelling van de opdrachten en de werking van Enabel, Belgisch Ontwikkelingsagentschap

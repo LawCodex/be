@@ -12,7 +12,7 @@ published: 2007-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/19/2007029182/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2007. - Decreet tot wijziging van het decreet van 2 juni 1998 houdende organisatie van het secundair kunstonderwijs met beperkt leerplan gesubsidieerd door de Franse Gemeenschap (VERTALING).

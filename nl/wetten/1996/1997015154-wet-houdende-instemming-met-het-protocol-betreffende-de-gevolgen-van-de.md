@@ -12,7 +12,7 @@ entry_into_force: 1997-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/06/27/1997015154/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 1996. - Wet houdende instemming met het Protocol betreffende de gevolgen van de inwerkingtreding van de Overeenkomst van Dublin voor een aantal bepalingen van de Overeenkomst ter uitvoering van het Akkoord van Schengen, gedaan te Bonn op 26 april 1994.

@@ -12,7 +12,7 @@ entry_into_force: 2002-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/12/11/2002009072/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2001. - Loi modifiant les articles 80, 471 et 472 du Code pénal et l'article 90ter, § 2, 8°, du Code d'instruction criminelle.

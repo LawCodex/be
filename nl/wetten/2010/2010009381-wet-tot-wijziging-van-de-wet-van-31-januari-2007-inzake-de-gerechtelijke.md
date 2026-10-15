@@ -12,7 +12,7 @@ entry_into_force: 2010-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/03/22/2010009381/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2010. - Wet tot wijziging van de wet van 31 januari 2007 inzake de gerechtelijke opleiding en tot oprichting van het Instituut voor gerechtelijke opleiding wat de controle door het Rekenhof betreft

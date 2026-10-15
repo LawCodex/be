@@ -10,7 +10,7 @@ date: 2017-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/06/12/2017013943/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2017. - Wet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat en het Brussels Hoofdstedelijk Gewest tot uitvoering van artikel 306, § 2, van het koninklijk besluit van 19 april 2014 betreffende het administratief statuut van het operationeel personeel van de hulpverleningszones

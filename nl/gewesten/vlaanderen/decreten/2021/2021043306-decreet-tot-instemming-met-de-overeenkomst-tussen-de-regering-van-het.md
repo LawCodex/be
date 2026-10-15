@@ -13,7 +13,7 @@ entry_into_force: 2021-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/26/2021043306/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2021. - Decreet tot instemming met de overeenkomst tussen de regering van het Koninkrijk België, de regering van de Vlaamse gemeenschap, de regering van de Franse gemeenschap, de regering van de Duitstalige gemeenschap, de regering van het Vlaamse gewest, de regering van het Waalse gewest, de regering van het Brussels hoofdstedelijk gewest en de regering van de Franse Republiek inzake het vervoer van lijken over land, gedaan te Parijs op 9 maart 2020

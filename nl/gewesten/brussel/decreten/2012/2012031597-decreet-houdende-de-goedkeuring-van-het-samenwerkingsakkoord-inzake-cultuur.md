@@ -12,7 +12,7 @@ entry_into_force: 2012-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/14/2012031597/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUNI 2012. - Decreet houdende de goedkeuring van het Samenwerkingsakkoord inzake cultuur, opleiding en wetenschappelijk onderzoek tussen de Regering van de Franse Gemeenschap, de Regering van Wallonië en het College van de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest, enerzijds, en de Republiek Turkije, anderzijds, gedaan te Brussel op 7 juni 2011

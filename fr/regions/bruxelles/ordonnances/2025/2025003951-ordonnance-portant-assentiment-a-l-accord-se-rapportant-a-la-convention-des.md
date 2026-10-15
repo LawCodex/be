@@ -13,7 +13,7 @@ entry_into_force: 2025-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/05/19/2025003951/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2025. - Ordonnance portant assentiment à l'Accord se rapportant à la Convention des Nations unies sur le droit de la mer et portant sur la conservation et l'utilisation durable de la diversité biologique marine des zones ne relevant pas de la juridiction nationale, fait à New York le 19 juin 2023

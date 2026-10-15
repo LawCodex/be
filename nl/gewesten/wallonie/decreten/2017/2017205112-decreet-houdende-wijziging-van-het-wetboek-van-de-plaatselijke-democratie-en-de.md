@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/09/07/2017205112/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 09-10-2017 en tekstbijwerking tot 28-05-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBER 2017. - Decreet houdende wijziging van het Wetboek van de Plaatselijke Democratie en de Decentralisatie om een evenwichtige aanwezigheid van mannen en vrouwen te waarborgen binnen de Waalse gemeente- en provinciecolleges

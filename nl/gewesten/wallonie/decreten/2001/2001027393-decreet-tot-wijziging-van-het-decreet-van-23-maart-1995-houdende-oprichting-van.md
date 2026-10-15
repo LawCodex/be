@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/06/28/2001027393/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 11-07-2001 en tekstbijwerking tot 08-02-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2001. - Decreet tot wijziging van het decreet van 23 maart 1995 houdende oprichting van een Gewestelijk Hulpcentrum voor gemeenten dat instaat voor de follow-up van en de controle op de beheersplannen van de gemeenten en provincies dat het financiële evenwicht van de gemeenten en provincies van het Waalse Gewest moet helpen handhaven (VERTALING).

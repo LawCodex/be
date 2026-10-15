@@ -12,7 +12,7 @@ entry_into_force: 1998-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/11/1998007130/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 1998. - Wet tot wijziging van de wet van 1 maart 1958 betreffende het statuut der beroepsofficieren van de land-, de lucht-, de zeemacht en de medische dienst en der reserveofficieren van alle krijgsmachtdelen en van de medische dienst.

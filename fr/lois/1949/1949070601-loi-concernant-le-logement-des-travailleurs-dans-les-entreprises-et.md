@@ -13,7 +13,7 @@ last_amended: 2016-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1949/07/06/1949070601/justel"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1989 et mise à jour au 21-04-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 1949. - Loi concernant le logement des travailleurs dans les entreprises et exploitations industrielles, agricoles ou commerciales. -

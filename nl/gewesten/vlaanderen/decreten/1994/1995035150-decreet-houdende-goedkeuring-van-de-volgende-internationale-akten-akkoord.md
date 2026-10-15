@@ -13,7 +13,7 @@ entry_into_force: 1995-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/21/1995035150/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 1994. - DECREET houdende goedkeuring van de volgende internationale akten : Akkoord houdende oprichting van de Wereldhandelsorganisatie, Slotakte, Bijlagen 1A, 1B, 1C, 2, 3 en 4, Besluiten en Verklaringen, en Memorandum van Akkoord inzake de verbintenissen betreffende financiële diensten, ondertekend te Marrakech op 15 april 1994

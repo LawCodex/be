@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/10/13/2016029607/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 12-01-2018 et mise à jour au 23-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OCTOBRE 2016. - Décret relatif à l'agrément et au subventionnement des partenaires apportant de l'aide aux justiciables

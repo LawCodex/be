@@ -13,7 +13,7 @@ entry_into_force: 1997-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/05/15/1997027271/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 1997. - Decreet tot instelling van een wettelijke subrogatie ten gunste van het Waalse Gewest of van de publiekrechtelijke rechtspersonen die ervan afhangen (VERTALING).

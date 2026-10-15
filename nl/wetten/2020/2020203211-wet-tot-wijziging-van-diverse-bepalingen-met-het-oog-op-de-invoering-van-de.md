@@ -12,7 +12,7 @@ entry_into_force: 2020-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/07/31/2020203211/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2020. - Wet tot wijziging van diverse bepalingen met het oog op de invoering van de elektronische consumptiecheques

@@ -12,7 +12,7 @@ entry_into_force: 2021-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/07/30/2021033462/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2021. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, concernant la communication électronique des pièces de procédure et l'adaptation de la procédure purement écrite existante devant le Conseil du Contentieux des étrangers

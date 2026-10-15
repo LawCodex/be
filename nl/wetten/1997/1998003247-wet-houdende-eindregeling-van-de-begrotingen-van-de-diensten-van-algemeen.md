@@ -12,7 +12,7 @@ entry_into_force: 1998-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/06/19/1998003247/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 1997. - Wet houdende eindregeling van de begrotingen van de diensten van algemeen bestuur van de Staat en van instellingen van openbaar nut van het jaar 1987 of van voorgaande jaren.

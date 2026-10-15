@@ -12,7 +12,7 @@ entry_into_force: 1997-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/01/21/1997009171/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JANVIER 1997. - Loi modifiant l'article 79, alinéa 5, du Code judiciaire.

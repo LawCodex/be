@@ -12,7 +12,7 @@ entry_into_force: 1998-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/08/04/1998015016/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AUGUSTUS 1996. - Wet houdende goedkeuring van de Overeenkomst over het Wegvervoer tussen het Koninkrijk België, de Republiek Estland, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, ondertekend te Athene op 11 juni 1992.

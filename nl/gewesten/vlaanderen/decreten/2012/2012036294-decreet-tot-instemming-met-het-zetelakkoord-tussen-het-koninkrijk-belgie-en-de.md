@@ -13,7 +13,7 @@ entry_into_force: 2013-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/11/30/2012036294/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2012. - Decreet tot instemming met het zetelakkoord tussen het Koninkrijk België en de Internationale Federatie van Rode Kruis- en Rode Halvemaanverenigingen, ondertekend in Brussel op 29 juni 2012 en in Genève op 9 juli 2012

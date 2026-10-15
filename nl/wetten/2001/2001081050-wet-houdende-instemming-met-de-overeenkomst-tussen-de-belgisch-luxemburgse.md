@@ -12,7 +12,7 @@ entry_into_force: 2005-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/08/10/2001081050/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2001. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Gabon inzake de wederzijdse bevordering en bescherming van investeringen [...], ondertekend te Brussel op 27 mei 1998 (Erratum, B.S. 08-06-2005, p. 26405).

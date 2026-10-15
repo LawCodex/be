@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/02/04/1997029137/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 23-05-1997 et mise à jour au 05-11-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 1997. - Décret modifiant la législation dans le domaine de l'enseignement réformant l'organisation et le financement de l'enseignement supérieur.

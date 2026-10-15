@@ -13,7 +13,7 @@ entry_into_force: 2009-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/23/2009201429/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2009. - Decreet houdende instemming met het Protocol tot wijziging aan de Conventie voor het Europees Centrum voor Weervoorspellingen op Middellange Termijn, en aan het Protocol over de voorrechten en immuniteiten van het Europees Centrum voor Weersvoorspellingen op Middellange Termijn, ondertekend in Brussel, op 11 oktober 1973, aangenomen op 22 april 2005

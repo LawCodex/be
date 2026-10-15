@@ -13,7 +13,7 @@ entry_into_force: 2021-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/01/28/2021020409/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 2021. - Ordonnantie tot wijziging van hoofdstuk IIIbis van titel IV van het Brussels Wetboek van Ruimtelijke Ordening

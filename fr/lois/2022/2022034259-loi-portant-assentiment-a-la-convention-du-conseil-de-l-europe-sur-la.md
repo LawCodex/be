@@ -12,7 +12,7 @@ entry_into_force: 2022-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/07/2022034259/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 2022. - Loi portant assentiment à la Convention du Conseil de l'Europe sur la coproduction cinématographique (révisée), et les Annexes I et II, faites à Rotterdam le 30 janvier 2017

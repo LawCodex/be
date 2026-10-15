@@ -12,7 +12,7 @@ published: 1998-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/16/1998027443/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 1998. - Decreet tot wijziging van het decreet van 18 juli 1997 houdende creatie van een doorstromingsprogramma (VERTALING).

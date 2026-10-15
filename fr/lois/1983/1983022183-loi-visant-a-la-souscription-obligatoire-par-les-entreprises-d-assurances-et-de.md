@@ -12,7 +12,7 @@ entry_into_force: 1983-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/06/08/1983022183/justel"
 department: "Prévoyance Sociale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 1983. - Loi visant à la souscription obligatoire par les entreprises d'assurances et de réassurances d'un emprunt de 5 milliards de francs en faveur de l'Institut national d'Assurance Maladie-Invalidité.

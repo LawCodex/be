@@ -12,7 +12,7 @@ entry_into_force: 2010-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/03/02/2010009383/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 2010. - Loi modifiant la loi de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus

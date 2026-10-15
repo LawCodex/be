@@ -13,7 +13,7 @@ entry_into_force: 1991-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/25/1996027437/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUILLET 1996. - Décret relatif à la mise à la disposition du Gouvernement, de membres du personnel de l'Office belge du commerce extérieur, transférés à la Région.

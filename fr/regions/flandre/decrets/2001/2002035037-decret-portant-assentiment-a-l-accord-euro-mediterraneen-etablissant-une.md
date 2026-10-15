@@ -13,7 +13,7 @@ entry_into_force: 2002-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/21/2002035037/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2001. - Décret portant assentiment à l'Accord euro-méditerranéen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et le Royaume hachémite de Jordanie, d'autre part, aux Annexes I à VII, aux Protocoles 1 à 4 et à l'Acte final, faits à Bruxelles le 24 novembre 1997 (TRADUCTION).

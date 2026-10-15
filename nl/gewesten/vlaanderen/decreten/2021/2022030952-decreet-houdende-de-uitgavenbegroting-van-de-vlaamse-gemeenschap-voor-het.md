@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/12/23/2022030952/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 17-03-2022 en tekstbijwerking tot 30-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2021. - Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2022

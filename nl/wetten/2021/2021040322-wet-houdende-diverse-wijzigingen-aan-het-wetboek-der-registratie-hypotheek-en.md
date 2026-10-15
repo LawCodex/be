@@ -12,7 +12,7 @@ entry_into_force: 2021-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/02/07/2021040322/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEBRUARI 2021. - Wet houdende diverse wijzigingen aan het Wetboek der registratie-, hypotheek- en griffierechten, aan het Wetboek der successierechten, aan het Wetboek diverse rechten en taksen en aan de hypotheekwet van 16 december 1851, alsook aan het Wetboek van de minnelijke en gedwongen invordering van fi scale en niet-fiscale schuldvorderingen

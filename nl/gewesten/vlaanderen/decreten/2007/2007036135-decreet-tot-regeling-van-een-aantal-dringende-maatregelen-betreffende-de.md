@@ -13,7 +13,7 @@ entry_into_force: 2006-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/06/29/2007036135/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2007. - Decreet tot regeling van een aantal dringende maatregelen betreffende de medezeggenschap van het personeel in het hoger onderwijs in Vlaanderen.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035939/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2006 et mise à jour au 05-08-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret réglant les budgets, la comptabilité, le contrôle des subventions, et le contrôle par la Cour des Comptes (TRADUCTION).

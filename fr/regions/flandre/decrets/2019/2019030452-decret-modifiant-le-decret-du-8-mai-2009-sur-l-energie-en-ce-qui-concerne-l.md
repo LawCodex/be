@@ -13,7 +13,7 @@ entry_into_force: 2019-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/26/2019030452/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2019. - Décret modifiant le Décret du 8 mai 2009 sur l'énergie, en ce qui concerne l'obtention de certificats verts pour les extensions des installations de production d'énergie solaire

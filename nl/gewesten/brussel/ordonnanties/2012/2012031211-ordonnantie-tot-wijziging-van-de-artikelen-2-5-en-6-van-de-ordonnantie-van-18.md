@@ -13,7 +13,7 @@ entry_into_force: 2012-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/04/19/2012031211/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2012. - Ordonnantie tot wijziging van de artikelen 2, 5 en 6 van de ordonnantie van 18 december 2008 betreffende de toegang van assistentiehonden tot voor het publiek toegankelijke plaatsen

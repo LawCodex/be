@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/04/21/2006035726/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 12-05-2006 et mise à jour au 19-06-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2006. - Décret modifiant le décret du 7 mai 2004 portant création de l'agence autonomisée externe de droit public "Agentschap voor Geografische Informatie Vlaanderen" (Agence des Informations géographiques de la Flandre) et modifiant divers décrets (TRADUCTION).

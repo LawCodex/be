@@ -13,7 +13,7 @@ last_amended: 2026-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1964/03/25/1964032508/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-1989 en tekstbijwerking tot 04-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 1964. - Wet op de geneesmiddelen [voor menselijk gebruik]. &lt;W 2022-05-05/13 , art. 73, 049; Inwerkingtreding : 21-05-2022&gt;

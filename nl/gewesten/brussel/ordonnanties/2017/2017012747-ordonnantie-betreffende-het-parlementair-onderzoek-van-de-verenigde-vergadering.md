@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/06/16/2017012747/justel"
 department: "Brussels Hoofdstedelijk Gewest - Gemeenschappelijke Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 21-06-2017 en tekstbijwerking tot 22-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2017. - Ordonnantie betreffende het parlementair onderzoek van de Verenigde Vergadering van de Gemeenschappelijke Gemeenschapscommissie

@@ -13,7 +13,7 @@ entry_into_force: 1996-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/11/26/1996036470/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 1996. - Décret portant approbation du Protocole portant amendement à la Charte sociale européenne, fait à Turin le 21 octobre 1991. (TRADUCTION).

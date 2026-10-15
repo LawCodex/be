@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/12/27/2001000029/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 2000. - Loi modifiant l'article 71, alinéa 1er, 4°, de la nouvelle loi communale.

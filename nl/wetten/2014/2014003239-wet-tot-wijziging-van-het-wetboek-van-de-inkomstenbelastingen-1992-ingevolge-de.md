@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/08/2014003239/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 28-05-2014 en tekstbijwerking tot 28-12-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2014. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992 ingevolge de invoering van de gewestelijke aanvullende belasting op de personenbelasting als bedoeld in titel III/1 van de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten, tot wijziging van de regels op het stuk van de belasting van niet-inwoners en tot wijziging van de wet van 6 januari 2014 met betrekking tot de Zesde Staatshervorming inzake de aangelegenheden bedoeld in artikel 78 van de Grondwet

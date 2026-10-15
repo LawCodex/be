@@ -13,7 +13,7 @@ entry_into_force: 2013-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/05/27/2013203473/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2013. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'"International Plant Genetic Resources Institute", signé à Bruxelles le 15 octobre 2003

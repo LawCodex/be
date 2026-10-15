@@ -10,7 +10,7 @@ date: 1985-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/09/02/1985015311/justel"
 department: "Buitenlandse Zaken - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 SEPTEMBER 1985. - Wet houdende goedkeuring van het Verdrag tot oprichting van een Europese Organisatie voor de exploitatie van meteorologische satellieten (EUMETSAT) en van de Bijlagen, opgemaakt te Genève op 24 mei 1983.

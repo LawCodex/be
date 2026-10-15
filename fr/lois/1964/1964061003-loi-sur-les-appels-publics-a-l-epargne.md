@@ -13,7 +13,7 @@ last_amended: 2022-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1964/06/10/1964061003/justel"
 justel_note: "Consultation des versions antérieures à partir du 09-06-1989 et mise à jour au 01-07-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 1964. - Loi sur les appels publics à l'épargne.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/07/13/1995027410/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 21-07-1995 et mis à jour au 30-12-2000"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 1995. - Décret organisant le remplacement des Ministres par leur suppléant parlementaire.

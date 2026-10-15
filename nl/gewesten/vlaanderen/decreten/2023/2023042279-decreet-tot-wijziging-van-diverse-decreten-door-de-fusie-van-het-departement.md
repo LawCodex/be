@@ -13,7 +13,7 @@ entry_into_force: 2023-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/04/21/2023042279/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2023. - Decreet tot wijziging van diverse decreten door de fusie van het Departement Welzijn, Volksgezondheid en Gezin en het intern verzelfstandigd agentschap Zorg en Gezondheid tot het Departement Zorg

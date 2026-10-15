@@ -13,7 +13,7 @@ entry_into_force: 1992-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1992/07/23/1992035850/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 1992. - Décret modifiant en ce qui concerne les droits d'inscriptions, le décret du 12 juin 1991 relatif aux universités dans la Communauté flamande. (TRADUCTION)

@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/30/2013011417/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "bij arrest nr 84/2015 van 11-06-2015 (B.St. 11-08-2015, p. 50983) heeft het Grondwettelijk Hof deze Wet vernietigd"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2013. - Wet houdende wijziging van de artikelen 2, 126 en 145 van de wet van 13 juni 2005 betreffende de elektronische communicatie en van artikel 90decies van het Wetboek van strafvordering

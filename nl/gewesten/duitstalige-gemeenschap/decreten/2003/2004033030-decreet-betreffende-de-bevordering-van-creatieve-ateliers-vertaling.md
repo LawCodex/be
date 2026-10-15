@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/16/2004033030/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 26-10-2007 en tekstbijwerking tot 12-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2003. - Decreet betreffende de bevordering van creatieve ateliers (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2014-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/28/2014009267/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2014. - Loi modifiant l'article 19 du code judiciaire relatif à la réparation d'erreurs matérielles ou d'omissions dans les jugements ainsi qu'a l'interprétation des jugements

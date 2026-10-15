@@ -13,7 +13,7 @@ entry_into_force: 2017-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/04/27/2017012126/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2017. - Décret portant assentiment à l'Avenant entre le Royaume de Belgique et la Confédération suisse modifiant la Convention du 28 août 1978 entre le Royaume de Belgique et la Confédération suisse en vue d'éviter les doubles impositions en matière d'impôts sur le revenu et sur la fortune, signé à Bruxelles le 10 avril 2014

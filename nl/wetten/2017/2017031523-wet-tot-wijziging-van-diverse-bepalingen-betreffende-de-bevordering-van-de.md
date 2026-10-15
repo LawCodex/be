@@ -11,7 +11,7 @@ entry_into_force: 2017-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/11/19/2017031523/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2017. - Wet tot wijziging van diverse bepalingen betreffende de bevordering van de militairen

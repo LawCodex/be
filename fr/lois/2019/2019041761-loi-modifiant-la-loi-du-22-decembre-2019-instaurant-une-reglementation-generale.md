@@ -12,7 +12,7 @@ entry_into_force: 2019-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/07/08/2019041761/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2019. - Loi modifiant la loi du 22 décembre 2019 instaurant une réglementation générale relative à l'interdiction de fumer dans les lieux fermés accessibles au public et à la protection des travailleurs contre la fumée du tabac, dans le but d'instaurer une interdiction de fumer dans les véhicules couverts en présence de mineurs de moins de 16 ans

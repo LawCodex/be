@@ -13,7 +13,7 @@ entry_into_force: 2021-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/01/28/2022020181/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 2022. - DECREET tot wijziging van artikel 4.3.3 van het Energiedecreet van 8 mei 2009, wat betreft de maximale termijn voor de netbeheerder om als noodleverancier op te treden

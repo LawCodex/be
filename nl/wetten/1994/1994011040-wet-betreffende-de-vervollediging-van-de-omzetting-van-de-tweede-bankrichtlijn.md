@@ -12,7 +12,7 @@ entry_into_force: 1994-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/02/11/1994011040/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEBRUARI 1994. - Wet betreffende de vervollediging van de omzetting van de tweede bankrichtlijn in het Belgische recht.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/07/1999021323/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 20-08-1999 en tekstbijwerking tot 20-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 1999. - Wet houdende oprichting van het Paleis voor Schone Kunsten in de vorm van een naamloze vennootschap van publiek recht [...]. &lt;W 2023-12-08/09 , art. 2, 007; Inwerkingtreding : 30-12-2023&gt;

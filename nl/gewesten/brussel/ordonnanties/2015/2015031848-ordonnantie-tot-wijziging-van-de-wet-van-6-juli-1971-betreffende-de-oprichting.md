@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/12/03/2015031848/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2015. - Ordonnantie tot wijziging van de wet van 6 juli 1971 betreffende de oprichting van bpost en betreffende sommige postdiensten

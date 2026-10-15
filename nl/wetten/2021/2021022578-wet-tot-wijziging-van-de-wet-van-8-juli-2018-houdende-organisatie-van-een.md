@@ -12,7 +12,7 @@ entry_into_force: 2021-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/02/2021022578/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2021. - Wet tot wijziging van de wet van 8 juli 2018 houdende organisatie van een centraal aanspreekpunt van rekeningen en financiële contracten en tot uitbreiding van de toegang tot het centraal bestand van berichten van beslag, delegatie, overdracht, collectieve schuldenregeling en protest

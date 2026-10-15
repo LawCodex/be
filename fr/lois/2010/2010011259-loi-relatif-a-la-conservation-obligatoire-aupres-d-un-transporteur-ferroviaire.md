@@ -12,7 +12,7 @@ entry_into_force: 2010-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/04/06/2010011259/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 2010. - Loi relatif à la conservation obligatoire auprès d'un transporteur ferroviaire des bagages et marchandises perdus, abandonnés ou non réclamés

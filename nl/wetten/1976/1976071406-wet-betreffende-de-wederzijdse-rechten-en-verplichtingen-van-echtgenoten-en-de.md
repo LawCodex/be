@@ -9,7 +9,7 @@ language: nl
 date: 1976-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/07/14/1976071406/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1976. - Wet betreffende de wederzijdse rechten en verplichtingen van echtgenoten en de huwelijksvermogensstelsels.

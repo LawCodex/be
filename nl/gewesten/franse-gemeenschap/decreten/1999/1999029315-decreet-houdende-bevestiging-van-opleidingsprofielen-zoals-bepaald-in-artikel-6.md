@@ -11,7 +11,7 @@ date: 1999-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/03/08/1999029315/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 1999. - [Decreet houdende bevestiging van opleidingsprofielen zoals bepaald in artikel 6 van het decreet van 27 oktober 1994 tot regeling van het overleg in het secundair onderwijs] (VERTALING). &lt;DFG 2007-01-25/44 , art. 1, 003; Inwerkingtreding : 21-03-2007&gt;

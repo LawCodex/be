@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/05/20/2022032281/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 08-06-2022 en tekstbijwerking tot 23-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 2022. - Decreet tot regeling van de toekenning van een jobbonus

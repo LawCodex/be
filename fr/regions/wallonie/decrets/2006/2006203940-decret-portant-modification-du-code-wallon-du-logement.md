@@ -13,7 +13,7 @@ entry_into_force: 2006-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/11/23/2006203940/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2006. - Décret portant modification du Code wallon du Logement.

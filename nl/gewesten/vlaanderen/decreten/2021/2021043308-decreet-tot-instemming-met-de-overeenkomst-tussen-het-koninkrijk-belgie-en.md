@@ -13,7 +13,7 @@ entry_into_force: 2021-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/26/2021043308/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2021. - Decreet tot instemming met de overeenkomst tussen het Koninkrijk België en Oekraïne inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het diplomatiek en consulair personeel, ondertekend te Brussel op 10 februari 2021

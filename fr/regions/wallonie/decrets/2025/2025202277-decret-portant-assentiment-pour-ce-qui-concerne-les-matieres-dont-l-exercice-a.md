@@ -13,7 +13,7 @@ entry_into_force: 2025-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/07/09/2025202277/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2025. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, à l'Accord-cadre entre le Royaume de Belgique et le Grand-Duché de Luxembourg sur la coopération sanitaire transfrontalière, signé à Bruxelles le 29 mars 2023

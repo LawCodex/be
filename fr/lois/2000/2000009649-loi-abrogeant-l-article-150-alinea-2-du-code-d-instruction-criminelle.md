@@ -12,7 +12,7 @@ entry_into_force: 2000-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/05/31/2000009649/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2000. - Loi abrogeant l'article 150, alinéa 2, du Code d'instruction criminelle.

@@ -11,7 +11,7 @@ entry_into_force: 2025-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/03/09/2022A20852/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2017. - Protocol, gedaan te New Delhi op 9 maart 2017, tot wijziging van de Overeenkomst en van het Protocol tussen de Regering van het Koninkrijk België en de Regering van de Republiek India tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, beide ondertekend te Brussel op 26 april 1993

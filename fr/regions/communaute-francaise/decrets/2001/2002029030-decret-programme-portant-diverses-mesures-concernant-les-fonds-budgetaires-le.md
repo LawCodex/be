@@ -13,7 +13,7 @@ entry_into_force: 1999-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/20/2002029030/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2001. - Décret-programme portant diverses mesures concernant les fonds budgétaires, le passage à l'euro, l'enseignement et les bâtiments scolaires.

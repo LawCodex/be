@@ -12,7 +12,7 @@ entry_into_force: 2006-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/15/2006009679/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2006. - Loi modifiant les articles 259bis, 314bis, 504quater, 550bis et 550ter du Code pénal.

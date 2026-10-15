@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/07/16/1993021256/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 31-12-1998 et mise à jour au 31-01-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 1993. - Loi spéciale visant à achever la structure fédérale de l'Etat et à compléter la législation électorale relative aux Régions et aux Communautés.

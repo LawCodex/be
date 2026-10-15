@@ -12,7 +12,7 @@ entry_into_force: 1999-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/26/1999016040/justel"
 department: "Middenstand - Landbouw"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 1999. - Wet tot wijziging van artikel 13 van de wet van 19 december 1950 tot instelling van de Orde der Dierenartsen.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/18/2014009085/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 04-03-2014 et mise à jour au 29-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 2014. - Loi relative à l'introduction d'une gestion autonome pour l'organisation judiciaire

@@ -11,7 +11,7 @@ published: 1975-08-13
 entry_into_force: 1975-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1975/04/15/1975041503/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 AVRIL 1975. - Loi portant approbation de la Convention entre le gouvernement de la Belgique et le gouvernement de la Malaisie tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, et du Protocole, signés à Kuala Lumpur le 24 octobre 1973.

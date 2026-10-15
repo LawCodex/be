@@ -12,7 +12,7 @@ entry_into_force: 2000-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/03/07/2002003137/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2002. - Loi modifiant, en ce qui concerne les conseillers provinciaux, l'article 27, alinéa 2, du Code des impôts sur les revenus 1992 et, en ce qui concerne les députés permanents, l'article 53, 17°, du même Code.

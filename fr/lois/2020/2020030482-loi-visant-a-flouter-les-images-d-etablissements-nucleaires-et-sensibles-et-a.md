@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/03/23/2020030482/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 02-04-2020 et mise à jour au 23-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2020. - Loi visant à flouter les images d'établissements nucléaires et sensibles et à limiter la prise ou la diffusion de photographies aériennes de ces établissements dans l'intérêt de la sécurité publique

@@ -12,7 +12,7 @@ published: 2020-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/03/2020042552/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2020. - Decreet over het onderwijs XXX

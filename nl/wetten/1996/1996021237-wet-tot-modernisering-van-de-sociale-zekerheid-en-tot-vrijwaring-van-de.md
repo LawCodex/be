@@ -16,7 +16,7 @@ department: "Eerste Minister"
 justel_notes:
   - "De woorden \" Kas der geneeskundige verzorging van de Nationale Maatschappij der Belgische Spoorwegen \" worden vervangen door de woorden \" Kas der geneeskundige verzorging van N.M.B.S. Holding \" ; zie KB 2004-10-18/32, art. 38 ; Inwerkingtreding : 01-01-2005"
   - "Raadpleging van vroegere versies vanaf 01-08-1996 en tekstbijwerking tot 12-02-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JULI 1996. - Wet tot modernisering van de sociale zekerheid en tot vrijwaring van de leefbaarheid van de wettelijke pensioenstelsels.

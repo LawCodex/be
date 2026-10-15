@@ -12,7 +12,7 @@ entry_into_force: 2022-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/10/2022042676/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2022. - Loi visant à permettre à l'Office national de Sécurité sociale d'accorder des délais de paiements pour les cotisations dues pour le troisième et quatrième trimestre 2022 et le premier trimestre 2023 sans application de sanctions

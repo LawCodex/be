@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/17/2019041360/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-07-2019 et mise à jour au 06-07-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2019. - Décret portant modification du décret du 25 février 1997 relatif à l'enseignement fondamental, du Code de l'Enseignement secondaire du 17 décembre 2010 et de la Codification de certaines dispositions relatives à l'enseignement du 28 octobre 2016, en ce qui concerne le droit d'inscription

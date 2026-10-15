@@ -11,7 +11,7 @@ date: 2016-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/30/2016029348/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2016. - Decreet tot wijziging van het decreet van 18 juli 2008 tot vaststelling van de voorwaarden voor het behalen van de diploma's van bachelor-vroedvrouw en bachelor verpleegzorg, ter versterking van de studentenmobiliteit en houdende diverse maatregelen inzake hoger onderwijs

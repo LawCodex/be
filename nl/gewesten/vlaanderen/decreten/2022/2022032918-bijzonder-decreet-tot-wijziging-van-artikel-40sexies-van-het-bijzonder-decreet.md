@@ -13,7 +13,7 @@ entry_into_force: 2022-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/15/2022032918/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2022. - Bijzonder decreet tot wijziging van artikel 40sexies van het bijzonder decreet van 26 juni 1991 betreffende de Universiteit Gent en het Universitair Centrum Antwerpen

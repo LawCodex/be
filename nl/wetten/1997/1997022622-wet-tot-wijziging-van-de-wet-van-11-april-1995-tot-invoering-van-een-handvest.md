@@ -11,7 +11,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/06/25/1997022622/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 1997. - Wet tot wijziging van de wet van 11 april 1995 tot invoering van een handvest van de sociaal verzekerde.

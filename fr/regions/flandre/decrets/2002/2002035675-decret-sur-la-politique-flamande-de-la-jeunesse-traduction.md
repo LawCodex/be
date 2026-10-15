@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/29/2002035675/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 14-06-2002 et mise à jour au 26-09-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2002. - Décret sur la politique flamande de la jeunesse (TRADUCTION).

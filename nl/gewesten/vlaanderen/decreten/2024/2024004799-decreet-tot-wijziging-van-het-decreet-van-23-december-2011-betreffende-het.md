@@ -13,7 +13,7 @@ entry_into_force: 2024-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/26/2024004799/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2024. - Decreet tot wijziging van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, wat betreft de dringende verwijdering van afvalstoffen

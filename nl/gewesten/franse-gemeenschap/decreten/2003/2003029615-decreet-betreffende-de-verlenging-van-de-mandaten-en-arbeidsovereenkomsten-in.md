@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/17/2003029615/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2003 en tekstbijwerking tot 01-08-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2003. - [Decreet betreffende de verlenging van de mandaten en arbeidsovereenkomsten in verband met de onderzoeksactiviteiten na een pre- of postnatale rust].&lt;Opschrift gewijzigd bij DFG 2012-07-12/18 , art. 63, 002; Inwerkingtreding : 11-08-2012&gt;

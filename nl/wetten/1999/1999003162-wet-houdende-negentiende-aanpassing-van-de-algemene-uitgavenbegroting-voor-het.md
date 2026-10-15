@@ -10,7 +10,7 @@ date: 1999-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/10/1999003162/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 1999. - Wet houdende negentiende aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 1998 Sectie 51 - "Rijksschuld".

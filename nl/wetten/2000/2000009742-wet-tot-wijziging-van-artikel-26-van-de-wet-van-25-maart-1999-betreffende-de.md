@@ -11,7 +11,7 @@ published: 2000-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/08/12/2000009742/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AUGUSTUS 2000. - Wet tot wijziging van artikel 26 van de wet van 25 maart 1999 betreffende de hervorming van de gerechtelijke kantons.

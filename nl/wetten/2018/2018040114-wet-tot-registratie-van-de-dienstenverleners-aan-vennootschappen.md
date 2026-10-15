@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/29/2018040114/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 02-05-2018 en tekstbijwerking tot 21-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2018. - Wet tot registratie van de dienstenverleners aan vennootschappen

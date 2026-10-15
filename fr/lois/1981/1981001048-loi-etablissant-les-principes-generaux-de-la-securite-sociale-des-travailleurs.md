@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1981/06/29/1981001048/justel"
 department: "Prévoyance Sociale"
 justel_note: "Consultation des versions antérieures à partir du 13-04-1984 et mise à jour au 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 1981. - Loi établissant les principes généraux de la sécurité sociale des travailleurs salariés.

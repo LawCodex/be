@@ -13,7 +13,7 @@ entry_into_force: 2010-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/05/27/2010029374/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2010. - Decreet houdende instemming met het Internationaal Verdrag inzake de bescherming van alle personen tegen gedwongen verdwijning, aangenomen te New York op 20 december 2006

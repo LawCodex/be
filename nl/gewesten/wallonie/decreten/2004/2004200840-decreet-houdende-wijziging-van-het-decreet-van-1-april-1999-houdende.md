@@ -13,7 +13,7 @@ entry_into_force: 2004-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/02/12/2004200840/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2004. - Decreet houdende wijziging van het decreet van 1 april 1999 houdende organisatie van het toezicht op de gemeenten, de provincies en de intercommunales van het Waalse Gewest (VERTALING).

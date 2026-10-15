@@ -12,7 +12,7 @@ published: 2007-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/10/19/2007036905/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OKTOBER 2007. - Decreet houdende instemming met het Intern Akkoord tussen de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, houdende wijziging van het Intern Akkoord van 18 september 2000 inzake maatregelen en procedures voor de uitvoering van de ACS-EG-Partnerschapsovereenkomst, ondertekend in Luxemburg op 10 april 2006.

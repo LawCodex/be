@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/27/2003029190/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 18-04-2003 et mise à jour au 10-02-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2003. - Décret instituant l'Ecole d'Administration publique de la Communauté française en service de la Communauté française à gestion séparée et portant diverses mesures modificatives en vue de l'instauration d'un régime de mandats pour les Fonctionnaires généraux dans les Services du Gouvernement de la Communauté française, certains organismes d'intérêt public qui en dépendent et dans les Universités organisées par la Communauté française.

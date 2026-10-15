@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/13/2003009289/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 19-05-2003 et mise à jour au 31-12-2003."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2003. - Loi insérant un article 10, 6°, à la loi du 17 avril 1878 contenant le Titre préliminaire du Code de procédure pénale. -

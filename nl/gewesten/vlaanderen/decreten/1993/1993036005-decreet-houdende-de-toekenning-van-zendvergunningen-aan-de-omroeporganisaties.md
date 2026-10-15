@@ -11,7 +11,7 @@ date: 1993-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/07/14/1993036005/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1993. - Decreet houdende de toekenning van zendvergunningen aan de omroeporganisaties.

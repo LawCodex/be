@@ -12,7 +12,7 @@ entry_into_force: 2019-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/13/2019040988/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 2019. - Loi modifiant la loi du 21 février 2003 créant un Service des créances alimentaires au sein du SPF Finances en vue d'augmenter le plafond de revenus pour pouvoir bénéficier d'avances sur pension alimentaire

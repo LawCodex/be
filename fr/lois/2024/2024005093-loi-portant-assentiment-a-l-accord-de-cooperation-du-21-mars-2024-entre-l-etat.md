@@ -12,7 +12,7 @@ entry_into_force: 2024-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/18/2024005093/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2024. - Loi portant assentiment à l'accord de coopération du 21 mars 2024 entre l'Etat fédéral et la Communauté française relatif à la reconnaissance de la Caisse auxiliaire d'assurance maladie-invalidité et de la Caisse des soins de santé de HR Rail en qualité d'organismes assureurs de la Communauté française, et au contrôle des organismes assureurs de la Communauté française par l'Office de contrôle des mutualités et des unions nationales de mutualités

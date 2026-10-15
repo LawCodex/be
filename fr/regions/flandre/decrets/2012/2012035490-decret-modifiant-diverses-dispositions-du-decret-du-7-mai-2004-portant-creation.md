@@ -13,7 +13,7 @@ entry_into_force: 2012-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/20/2012035490/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2012. - Décret modifiant diverses dispositions du décret du 7 mai 2004 portant création de l'agence autonomisée externe de droit public " Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen " (Agence flamande pour la formation d'entrepreneurs - Syntra Flandre)

@@ -12,7 +12,7 @@ entry_into_force: 2014-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/03/19/2014202560/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2014. - [Wet met betrekking tot de aanwijzing en de bevoegdheden van de personeelsleden van het Federaal Agentschap voor Nucleaire Controle belast met de nucleaire inspecties]

@@ -12,7 +12,7 @@ entry_into_force: 2021-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/05/10/2021041369/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 2021. - Wet houdende dringende bepalingen tot wijziging van het Gerechtelijk Wetboek en tot regeling van de telewerkvergoeding van het gerechtspersoneel in het kader van de gezondheidscrisis ten gevolge van het coronavirus COVID-19

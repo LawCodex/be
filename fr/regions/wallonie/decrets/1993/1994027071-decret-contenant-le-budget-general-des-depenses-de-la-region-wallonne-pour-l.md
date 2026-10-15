@@ -13,7 +13,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/12/23/1994027071/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1993. - Décret contenant le budget général des dépenses de la Région wallonne pour l'année budgétaire 1994.

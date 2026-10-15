@@ -13,7 +13,7 @@ entry_into_force: 2024-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/14/2024002699/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2024. - Décret portant assentiment aux accords de coopération du 2 février 2005 et du 20 octobre 2023 relatifs au développement de politiques concertées en matière d'alphabétisation des adultes, conclus entre la Communauté française, la Région wallonne et la Commission communautaire française de la Région de Bruxelles-Capitale

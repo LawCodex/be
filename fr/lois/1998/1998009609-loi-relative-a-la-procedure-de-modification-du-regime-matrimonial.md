@@ -12,7 +12,7 @@ entry_into_force: 1998-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/07/09/1998009609/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 1998. - Loi relative à la procédure de modification du régime matrimonial.

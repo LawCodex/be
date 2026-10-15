@@ -12,7 +12,7 @@ entry_into_force: 2026-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/06/17/2026004052/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2026. - Loi relatif au Conseil du contentieux des étrangers

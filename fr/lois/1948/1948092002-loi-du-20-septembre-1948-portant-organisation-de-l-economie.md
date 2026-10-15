@@ -13,7 +13,7 @@ last_amended: 2024-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1948/09/20/1948092002/justel"
 justel_note: "Consultation des versions antérieures à partir du 24-01-1985 et mise à jour au 20-12-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBRE 1948. - Loi du 20 septembre 1948 portant organisation de l'économie.

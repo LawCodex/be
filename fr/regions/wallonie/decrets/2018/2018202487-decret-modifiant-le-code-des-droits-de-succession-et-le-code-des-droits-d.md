@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/04/26/2018202487/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2018. - Décret modifiant le Code des droits de succession et le Code des droits d'enregistrement, d'hypothèque et de greffe en vue d'exempter de droits de partage, de donation et de succession des biens immobiliers classés comme monument

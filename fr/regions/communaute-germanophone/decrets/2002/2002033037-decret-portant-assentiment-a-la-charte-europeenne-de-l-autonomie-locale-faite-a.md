@@ -13,7 +13,7 @@ entry_into_force: 2002-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/02/18/2002033037/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 2002. - Décret portant assentiment à la Charte européenne de l'autonomie locale, faite à Strasbourg le 15 octobre 1985 (TRADUCTION).

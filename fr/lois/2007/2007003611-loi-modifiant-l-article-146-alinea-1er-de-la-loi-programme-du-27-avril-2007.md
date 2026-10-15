@@ -12,7 +12,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/12/21/2007003611/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2007. - Loi modifiant l'article 146, alinéa 1er, de la loi-programme du 27 avril 2007.

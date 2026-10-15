@@ -13,7 +13,7 @@ entry_into_force: 2024-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/15/2024000219/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2023. - Décret visant à modifier le décret relatif à l'offre de services ambulatoires dans les domaines de l'action sociale, de la famille et de la santé afin de leur permettre de fournir les médicaments nécessaires à leur mission de réduction des risques

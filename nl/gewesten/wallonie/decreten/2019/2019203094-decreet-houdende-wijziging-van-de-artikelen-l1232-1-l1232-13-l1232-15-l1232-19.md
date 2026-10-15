@@ -12,7 +12,7 @@ published: 2019-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019203094/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet houdende wijziging van de artikelen L1232-1, L1232-13, L1232-15, L1232-19, L1232-20 en L1232-21 van het Wetboek van de Plaatselijke Democratie en de Decentralisatie om de begraving van lijken, in volle grond, in lijkomhulsels mogelijk te maken

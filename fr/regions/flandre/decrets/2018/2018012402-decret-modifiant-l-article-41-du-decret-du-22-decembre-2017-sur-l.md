@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/18/2018012402/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2018. - Décret modifiant l'article 41 du décret du 22 décembre 2017 sur l'administration locale, en ce qui concerne l'affinement de la compétence fiscale du conseil communal

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/10/2006011270/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 29-06-2006 et mise à jour au 05-09-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2006. - Loi instituant un [Autorité belge de la concurrence]. &lt;L 2013-04-03/18 , art. 20, 002; En vigueur : 06-09-2013 (AR 2013-08-30/14 , art. 1)&gt;

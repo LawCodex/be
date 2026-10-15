@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/06/25/1996033084/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 19-10-1996 et mise à jour au 30-08-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 1996. - Décret relatif à l'organisation d'un enseignement à horaire réduit dans l'enseignement secondaire professionnel ordinaire. (TRADUCTION).

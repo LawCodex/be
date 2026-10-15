@@ -13,7 +13,7 @@ entry_into_force: 2003-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/07/03/2003029511/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2003. - Décret portant assentiment à l'accord de coopération entre d'une part, la Communauté française de Belgique et la Région wallonne et, d'autre part, la République de Lettonie, fait à Riga le 12 juillet 2002.

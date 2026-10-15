@@ -13,7 +13,7 @@ last_amended: 2024-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/07/20/1971072005/justel"
 justel_note: "Consultation des versions antérieures à partir du 28-10-1998 et mise à jour au 16-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 1971. - Loi sur les funérailles et sépultures. (NOTE 1 : abrogée pour la Communauté germanophone - à l'exception des art. 2, alinéas 1er à 3; 15bis, § 2, alinéa 2; 23bis; 24, alinéa 2, 2°; 27 - par DCG 2011-02-14/07 , art. 33, 009; En vigueur : 07-04-2011&gt; (NOTE 2: abrogé pour la Région Bruxelloise - à l'exception des art. 15bis, § 2, alinéa 2 et 23bis- par ORD 2018-11-29/15 , art. 38,1°, 013; En vigueur : 06-01-2019)

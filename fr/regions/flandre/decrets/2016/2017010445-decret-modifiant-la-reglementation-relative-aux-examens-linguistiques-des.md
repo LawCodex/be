@@ -13,7 +13,7 @@ entry_into_force: 2017-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/23/2017010445/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2016. - Décret modifiant la réglementation relative aux examens linguistiques des personnels, aux disciplines et à la procédure de programmation pour l'enseignement secondaire des adultes, à la programmation de formations dans l'enseignement supérieur professionnel hbo5, au gel des nominations dans l'enseignement supérieur professionnel hbo5 et la formation spécifique des enseignants proposée par les centres d'éducation des adultes et à certains aspects de formations en alternance

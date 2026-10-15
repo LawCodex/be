@@ -13,7 +13,7 @@ entry_into_force: 2012-09-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/13/2012204756/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2012. - DECRET portant assentiment à : 1° la Convention entre le Royaume de Belgique et le grand-duché de Luxembourg en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, et au Protocole final y relatif, signé à Luxembourg le 17 septembre 1970, tel que modifié par les Avenants des 11 décembre 2002 et 16 juillet 2009; 2° l'Avenant modifiant la Convention antérieurement modifiée, mentionnée au point 1°, et à la correspondance y annexée, signée à Bruxelles le 16 juillet 2009

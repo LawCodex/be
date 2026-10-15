@@ -13,7 +13,7 @@ entry_into_force: 2023-09-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/12/2023045351/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2023. - Décret portant des dispositions fiscales diverses et transposant la directive 2021/514/UE du Conseil du 22 mars 2021 modifiant la directive 2011/16/UE relative à la coopération administrative dans le domaine fiscal

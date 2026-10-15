@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/03/04/1999031162/justel"
 department: "Franse Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 19-03-2004 en tekstbijwerking tot 03-10-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 1999. - Decreet betreffende de sociale integratie van de gehandicapten en hun inschakeling in het arbeidsproces (VERTALING)

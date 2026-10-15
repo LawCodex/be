@@ -13,7 +13,7 @@ last_amended: 2018-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1937/06/27/1937062750/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 27-05-1987 en tekstbijwerking tot 02-07-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 1937. - Wet houdende herziening van de wet van 16 November 1919, betreffende de regeling der Luchtvaart

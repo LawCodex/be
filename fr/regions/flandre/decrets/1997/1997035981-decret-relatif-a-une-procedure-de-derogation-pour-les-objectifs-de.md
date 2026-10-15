@@ -13,7 +13,7 @@ entry_into_force: 1997-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/15/1997035981/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 1997. - Décret relatif à une procédure de dérogation pour les objectifs de développement et les objectifs finaux (TRADUCTION).

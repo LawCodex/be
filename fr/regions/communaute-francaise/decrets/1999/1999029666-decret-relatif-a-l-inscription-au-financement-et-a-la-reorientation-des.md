@@ -13,7 +13,7 @@ entry_into_force: 1999-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/10/28/1999029666/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OCTOBRE 1999. - Décret relatif à l'inscription, au financement et à la réorientation des étudiants de l'enseignement supérieur

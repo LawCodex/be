@@ -12,7 +12,7 @@ published: 2024-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/02/01/2024001041/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2024. - Ordonnantie betreffende het toeristische verblijf

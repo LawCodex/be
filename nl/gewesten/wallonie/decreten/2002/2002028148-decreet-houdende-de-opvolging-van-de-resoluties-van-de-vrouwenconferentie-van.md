@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/28/2002028148/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 06-06-2014 en tekstbijwerking tot 06-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2002. - Decreet houdende de opvolging van de resoluties van de Vrouwenconferentie van de Verenigde Naties die in Peking heeft plaatsgehad (VERTALING)

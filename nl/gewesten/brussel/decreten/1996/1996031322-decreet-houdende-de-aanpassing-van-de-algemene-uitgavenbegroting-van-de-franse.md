@@ -12,7 +12,7 @@ entry_into_force: 1996-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/11/1996031322/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 1996. - Decreet houdende de aanpassing van de algemene uitgavenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 1996 (Vertaling).

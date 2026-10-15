@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/19/1998035415/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 18-04-1998 et mise à jour au 25-04-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1997. - Décret portant création d'une société anonyme "Mijnschade en Bemaling Limburgs Mijngebied" (Dommages miniers et Drainage de la Zone minière limbourgeoise) (TRADUCTION).

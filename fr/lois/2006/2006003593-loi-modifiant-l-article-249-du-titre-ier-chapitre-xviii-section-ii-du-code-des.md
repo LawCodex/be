@@ -12,7 +12,7 @@ entry_into_force: 2006-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/07/2006003593/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2006. - Loi modifiant l'article 249 du Titre Ier, Chapitre XVIII, section II, du Code des droits d'enregistrement, d'hypothèque et de greffe.

@@ -12,7 +12,7 @@ entry_into_force: 2023-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/06/07/2023042718/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2023. - Wet houdende de steun voor het reizigersvervoer per nachttreinen

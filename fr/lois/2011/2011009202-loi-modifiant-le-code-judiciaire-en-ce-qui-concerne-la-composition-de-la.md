@@ -12,7 +12,7 @@ entry_into_force: 2011-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/03/03/2011009202/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2011. - Loi modifiant le Code judiciaire en ce qui concerne la composition de la commission d'avis pour les nominations des avocats à la Cour de Cassation

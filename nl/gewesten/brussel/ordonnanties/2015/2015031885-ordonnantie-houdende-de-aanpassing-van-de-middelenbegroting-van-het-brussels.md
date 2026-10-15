@@ -13,7 +13,7 @@ entry_into_force: 2015-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/12/04/2015031885/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2015. - Ordonnantie houdende de aanpassing van de Middelenbegroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2015

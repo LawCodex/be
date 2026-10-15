@@ -12,7 +12,7 @@ entry_into_force: 1998-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/09/19/1997A15118/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBER 1996. - Wet houdende instemming van de Aanvullende Overeenkomst ondertekend te Brussel op 20 april 1994 tot wijziging van de Overeenkomst en tot opheffing van het Protocol tussen de Republiek Korea en het Koninkrijk België tot vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Brussel op 29 augustus 1977.

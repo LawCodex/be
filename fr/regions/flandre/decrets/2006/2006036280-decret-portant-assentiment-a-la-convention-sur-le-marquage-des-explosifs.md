@@ -13,7 +13,7 @@ entry_into_force: 2006-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/07/2006036280/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2006. - Décret portant assentiment à la Convention sur le marquage des explosifs plastiques et en feuilles aux fins de détection, faite à Montréal le 1er mars 1991 (TRADUCTION).

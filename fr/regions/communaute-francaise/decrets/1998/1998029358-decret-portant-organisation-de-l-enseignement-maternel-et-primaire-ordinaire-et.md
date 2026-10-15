@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/13/1998029358/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 28-08-1998 et mise à jour au 09-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 1998. - Décret portant organisation de l'enseignement maternel et primaire ordinaire et modifiant la réglementation de l'enseignement.

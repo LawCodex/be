@@ -12,7 +12,7 @@ entry_into_force: 1999-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/18/1999009526/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 1999. - Loi modifiant l'article 1410, § 2, du Code judiciaire et l'article 2071 du Code civil.

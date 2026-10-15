@@ -12,7 +12,7 @@ entry_into_force: 1999-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/04/1999000424/justel"
 department: "Binnenlandse Zaken - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 1999. - Wet betreffende de burgerrechtelijke aansprakelijkheid van burgemeesters, schepenen en leden van de bestendige deputatie.

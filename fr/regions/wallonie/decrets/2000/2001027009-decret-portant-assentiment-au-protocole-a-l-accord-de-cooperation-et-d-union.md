@@ -13,7 +13,7 @@ entry_into_force: 2001-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/12/14/2001027009/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2000. - Décret portant assentiment au Protocole à l'Accord de coopération et d'union douanière entre la Communauté économique européenne et la République de Saint-Marin à la suite de l'adhésion de la République d'Autriche, de la République de Finlande et du Royaume de Suède à l'Union européenne, et Acte final, faits à Bruxelles, le 30 octobre 1997.

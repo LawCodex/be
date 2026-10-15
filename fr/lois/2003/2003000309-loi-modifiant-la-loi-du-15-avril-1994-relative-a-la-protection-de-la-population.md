@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/02/2003000309/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 02-05-2003 et mise à jour au 18-04-2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2003. - Loi modifiant la loi du 15 avril 1994, relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de Contrôle nucléaire, et réglant le transfert de certains agents du Service de la Sûreté de l'Etat dans le domaine de l'énergie nucléaire

@@ -12,7 +12,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/05/21/2015022184/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MEI 2015. - Wet tot wijziging van de wet van 28 december 2011 houdende diverse bepalingen, wat betreft bepaalde personeelsleden van de geïntegreerde politie

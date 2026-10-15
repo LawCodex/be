@@ -12,7 +12,7 @@ entry_into_force: 1985-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/07/17/1985003008/justel"
 department: "Finances"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 1985. - Loi modifiant les lois sur les établissements de crédit, principalement pour les adapter au droit des Communautés européennes.

@@ -13,7 +13,7 @@ entry_into_force: 2006-11-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/11/23/2006203896/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2006. - Décret modifiant les dispositions légales concernant les débits de boissons fermentées, coordonnées le 3 avril 1953.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/07/04/1989000418/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
 justel_note: "Raadpleging van vroegere versies vanaf 30-08-2000 en tekstbijwerking tot 21-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 1989. - Wet betreffende de beperking en de controle van de verkiezingsuitgaven [voor de verkiezingen van de Kamer van volksvertegenwoordigers], de financiering en de open boekhouding van de politieke partijen. (Opschrift vervangen door W 1994-05-19/62 , art. 1, Inwerkingtreding : 25-05-1994 en gewijzigd door W 2014-01-06/56 , art. 2, 013; Inwerkingtreding : 25-05-2014)

@@ -12,7 +12,7 @@ entry_into_force: 2006-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/07/20/2006015085/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 1998. - Loi portant assentiment au Protocole d'accord entre le Royaume de Belgique et le Conseil de coopération douanière relatif au maintien du siège de l'Organisation mondiale des Douanes à Bruxelles, signé à Bruxelles le 7 février 1997.

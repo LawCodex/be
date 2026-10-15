@@ -12,7 +12,7 @@ entry_into_force: 2000-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/08/12/2000003573/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AOUT 2000. - Loi relative à l'exécution de l'Avenant, signé à Bruxelles le 8 février 1999, à la Convention entre la Belgique et la France tendant à éviter les doubles impositions et à établir des règles d'assistance administrative et juridique réciproque en matière d'impôts sur les revenus, signée à Bruxelles le 10 mars 1964.

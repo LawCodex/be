@@ -12,7 +12,7 @@ entry_into_force: 1997-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/04/1996021353/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 1996. - Loi spéciale modifiant la loi spéciale du 8 août 1980 de réformes institutionnelles et la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises, en vue d'organiser les incompatibilités édictées entre les fonctions de membre d'une assemblée parlementaire et de membre d'un Gouvernement fédéral, communautaire ou régional.

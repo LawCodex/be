@@ -13,7 +13,7 @@ entry_into_force: 2000-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/07/17/2000035814/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2000. - Décret modifiant le décret du 28 avril 1993 portant réglementation, pour la Région flamande, de la tutelle administrative des communes et du décret du 22 février 1995 portant réglementation de la tutelle administrative des provinces en Région flamande (TRADUCTION).

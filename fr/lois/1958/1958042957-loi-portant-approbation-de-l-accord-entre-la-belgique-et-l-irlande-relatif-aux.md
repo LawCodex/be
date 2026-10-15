@@ -11,7 +11,7 @@ published: 1959-06-27
 entry_into_force: 1959-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1958/04/29/1958042957/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 1958. - Loi portant approbation de l'Accord entre la Belgique et l'Irlande, relatif aux transports aériens, et de l'Annexe, signés à Bruxelles, le 10 septembre 1955.

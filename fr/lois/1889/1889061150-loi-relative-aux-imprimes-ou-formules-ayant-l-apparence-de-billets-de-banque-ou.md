@@ -13,7 +13,7 @@ last_amended: 2026-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1889/06/11/1889061150/justel"
 justel_note: "Consultation des versions antérieures à partir du 10-03-2026 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 1889. - Loi relative aux imprimés ou formules ayant l'apparence de billets de banque ou autres valeurs fiduciaires

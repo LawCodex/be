@@ -13,7 +13,7 @@ entry_into_force: 2013-11-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/11/07/2013031870/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 2013. - Ordonnance portant assentiment à l'Accord, fait à Paris le 16 décembre 2009, entre la Belgique et Gibraltar en vue de l'échange de renseignements en matière fiscale

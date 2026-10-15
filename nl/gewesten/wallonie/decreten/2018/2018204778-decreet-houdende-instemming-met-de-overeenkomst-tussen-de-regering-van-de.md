@@ -12,7 +12,7 @@ entry_into_force: 2018-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/09/06/2018204778/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 SEPTEMBER 2018. - Decreet houdende instemming met de Overeenkomst tussen de Regering van de Franse Republiek en het Waalse Gewest van België betreffende de verbetering van de Grensleie tussen Frankrijk en Wallonië en de inrichting van het kanaal van Pommeroeul in Condé, ondertekend te Namen, op 19 juli 2007, en met het Aanhangsel, ondertekend te Parijs, op 2 mei 2017, bij de Overeenkomst tussen de Regering van de Franse Republiek en het Waalse Gewest van België betreffende de verbetering van de Grensleie tussen Frankrijk en Wallonië en de inrichting van het kanaal van Pommeroeul in Condé, ondertekend te Namen, op 19 juli 2007

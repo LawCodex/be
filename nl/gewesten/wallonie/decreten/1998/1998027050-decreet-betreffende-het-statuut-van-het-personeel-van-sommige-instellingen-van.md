@@ -17,7 +17,7 @@ department: "Waalse Gewest"
 justel_notes:
   - "gewijzigd in de toekomst op een onbepaalde datum door DWG 2004-04-29/60 , art. 1 tot 7, 013 ; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 04-02-1998 en tekstbijwerking tot 01-03-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 1998. - Decreet betreffende het statuut van het personeel van sommige instellingen van openbaar nut die onder het Waalse Gewest ressorteren (VERTALING).

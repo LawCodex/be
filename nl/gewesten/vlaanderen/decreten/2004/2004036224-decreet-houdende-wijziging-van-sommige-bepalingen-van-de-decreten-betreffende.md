@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004036224/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 09-08-2004 en tekstbijwerking tot 2005-08-05"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende wijziging van sommige bepalingen van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 25 januari 1995, en van sommige andere bepalingen betreffende de radio-omroep en de televisie.

@@ -13,7 +13,7 @@ entry_into_force: 1995-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/03/08/1995035525/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 1995. - Decreet houdende goedkeuring van de overeenkomst tot instelling van samenwerking en een douane-unie tussen de Europese Economische Gemeenschap en de Republiek San Marino, de Bijlage en vijf Verklaringen, ondertekend in Brussel op 16 december 1991.

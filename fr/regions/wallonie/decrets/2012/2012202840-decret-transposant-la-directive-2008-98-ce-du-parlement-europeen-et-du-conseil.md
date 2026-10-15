@@ -13,7 +13,7 @@ entry_into_force: 2012-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/05/10/2012202840/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAI 2012. - Décret transposant la Directive 2008/98/CE du Parlement européen et du Conseil du 19 novembre 2008 relative aux déchets et abrogeant certaines directives

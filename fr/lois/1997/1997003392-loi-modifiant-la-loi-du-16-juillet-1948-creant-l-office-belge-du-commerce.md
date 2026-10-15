@@ -12,7 +12,7 @@ entry_into_force: 1997-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/06/24/1997003392/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 1997. - Loi modifiant la loi du 16 juillet 1948 créant l'Office belge du Commerce extérieur.

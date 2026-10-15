@@ -13,7 +13,7 @@ entry_into_force: 2012-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/05/2012203924/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2012. - Décret ratifiant le permis unique délivré le 30 mai 2012 par arrêté ministériel à la SA SNCB Holding pour la démolition de la gare existante, la construction et l'exploitation de la nouvelle gare multimodale de Mons

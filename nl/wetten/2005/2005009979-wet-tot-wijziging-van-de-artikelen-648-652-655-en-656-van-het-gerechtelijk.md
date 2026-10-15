@@ -12,7 +12,7 @@ entry_into_force: 2006-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/12/06/2005009979/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2005. - Wet tot wijziging van de artikelen 648, 652, 655 en 656 van het Gerechtelijk Wetboek, met het oog op de invoering van een vereenvoudigde onttrekking van de zaak aan de rechter die gedurende meer dan zes maanden verzuimt de zaak die hij in beraad heeft genomen, te berechten.

@@ -11,7 +11,7 @@ date: 2012-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/10/25/2012029474/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 OKTOBER 2012. - Decreet betreffende sommige internaten en opvangtehuizen ingericht of gesubsidieerd door de Franse Gemeenschap

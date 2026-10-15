@@ -12,7 +12,7 @@ entry_into_force: 1994-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/03/22/1994022169/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 1994. - Wet tot wijziging van artikel 2, § 1, eerste en derde lid, van de wet van 16 juni 1970 betreffende de bonificaties wegens diploma's inzake pensioenen van leden van het onderwijs.

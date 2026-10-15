@@ -12,7 +12,7 @@ entry_into_force: 2016-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/06/27/2016003242/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2016. - Loi autorisant le ministre des Finances à consentir des prêts au Conseil de résolution unique

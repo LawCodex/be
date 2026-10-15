@@ -13,7 +13,7 @@ entry_into_force: 2019-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/12/21/2019010202/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2018. - Ordonnance portant assentiment à l'accord de coopération du 30 mai 2018 entre la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone portant sur la répartition des réserves des caisses libres agréées en vertu de la LGAF au moment de la reprise de la gestion et du paiement des allocations familiales par une entité fédérée

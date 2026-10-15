@@ -13,7 +13,7 @@ entry_into_force: 2022-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/02/17/2022040337/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2022. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Internationale Federatie van Rode Kruis- en Rode Halvemaanverenigingen, gedaan te Brussel op 29 juni 2012 en in Genève op 9 juli 2012

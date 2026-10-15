@@ -12,7 +12,7 @@ entry_into_force: 2012-09-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/25/2012021115/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AOUT 2012. - Loi modifiant le Titre XIII de la loi-programme (I) du 27 décembre 2006, en ce qui concerne la nature des relations de travail

@@ -12,7 +12,7 @@ entry_into_force: 2025-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/09/28/2025B05489/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBER 2023. - Overeenkomst ter uitvoering van artikel 16 van het verdrag tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake politiesamenwerking, , gedaan te Brussel op 23 juli 2018 (1). - Addendum

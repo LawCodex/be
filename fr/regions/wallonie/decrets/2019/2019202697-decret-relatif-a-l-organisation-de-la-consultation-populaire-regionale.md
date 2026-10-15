@@ -13,7 +13,7 @@ entry_into_force: 2019-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019202697/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret relatif à l'organisation de la consultation populaire régionale

@@ -13,7 +13,7 @@ entry_into_force: 2010-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/06/11/2010035481/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2010. - Decreet tot opheffing van het decreet van 10 november 1993 houdende maatregelen tot kwaliteitsverbetering van de dienstverlening door huwelijks- en relatiebemiddelaars

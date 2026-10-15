@@ -12,7 +12,7 @@ entry_into_force: 2020-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/06/12/2020021220/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2020. - Wet houdende bekrachtiging van het koninklijk besluit van 17 mei 2019 tot wijziging van het koninklijk besluit van 18 februari 2005 tot vaststelling van de verplichte bijdragen verschuldigd aan het Begrotingsfonds voor de gezondheid en de kwaliteit van de dieren en de dierlijke producten, sector zuivel en het koninklijk besluit van 8 juli 2019 tot wijziging van het koninklijk besluit van 13 november 2011 tot vaststelling van de retributies en bijdragen verschuldigd aan het Begrotingsfonds voor de grondstoffen en de producten

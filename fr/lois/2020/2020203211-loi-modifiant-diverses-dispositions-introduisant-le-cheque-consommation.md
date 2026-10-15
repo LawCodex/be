@@ -12,7 +12,7 @@ entry_into_force: 2020-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/07/31/2020203211/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2020. - Loi modifiant diverses dispositions introduisant le chèque consommation électronique

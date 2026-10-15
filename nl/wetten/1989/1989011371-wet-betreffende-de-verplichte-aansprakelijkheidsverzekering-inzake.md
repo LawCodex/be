@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/11/21/1989011371/justel"
 department: "Economische Zaken - Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 27-03-1991 en tekstbijwerking tot 23-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 1989. - Wet betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen.

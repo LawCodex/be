@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/11/2004201173/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 20-12-2007 et mise à jour au 02-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2004. - Décret relatif à l'agrément et au subventionnement des missions régionales pour l'emploi.

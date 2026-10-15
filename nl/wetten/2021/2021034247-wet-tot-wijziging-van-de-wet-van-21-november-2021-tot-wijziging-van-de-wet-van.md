@@ -11,7 +11,7 @@ published: 2021-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/09/2021034247/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2021. - Wet tot wijziging van de wet van 21 november 2021 tot wijziging van de wet van 15 juli 2016 tot uitvoering van de Verordening (EU) nr. 98/203 van het Europees Parlement en de Raad van 15 januari 2013 over het op de markt brengen en het gebruik van precursoren voor explosieven en houdende bepalingen bettrefende de leningen toegekend aan reisorganiseren voor de terugbetalingen van de tegoedbonnen uitgegeven conform het ministerieel besluit van 19 maart 2020 betreffende de terugbetaling van opgezegde pakketreizen

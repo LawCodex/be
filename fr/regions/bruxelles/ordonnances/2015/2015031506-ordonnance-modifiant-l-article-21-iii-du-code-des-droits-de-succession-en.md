@@ -13,7 +13,7 @@ entry_into_force: 2015-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/07/29/2015031506/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUILLET 2015. - Ordonnance modifiant l'article 21, III, du Code des droits de succession en Région de Bruxelles-Capitale

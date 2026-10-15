@@ -12,7 +12,7 @@ entry_into_force: 2021-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/27/2021021178/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2021. - Loi portant modification de l'article 30 de la loi du 13 juin 2005 relative aux communications électroniques

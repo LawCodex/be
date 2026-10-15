@@ -12,7 +12,7 @@ entry_into_force: 2019-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/03/01/2019041027/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 1998. - Wet houdende instemming met de Overeenkomst nr. 128 betreffende uitkeringen inzake invaliditeit, ouderdom en nagelaten betrekkingen, aangenomen te Genève op 29 juni 1967 door de Internationale Arbeidsconferentie tijdens haar eenenvijftigste zitting

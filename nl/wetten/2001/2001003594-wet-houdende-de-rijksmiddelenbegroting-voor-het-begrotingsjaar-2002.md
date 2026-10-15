@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/12/24/2001003594/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-2001 en tekstbijwerking tot 01-09-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2001. - Wet houdende de Rijksmiddelenbegroting voor het begrotingsjaar 2002

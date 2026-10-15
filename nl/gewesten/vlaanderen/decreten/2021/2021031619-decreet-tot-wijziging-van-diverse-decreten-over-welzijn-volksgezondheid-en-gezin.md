@@ -12,7 +12,7 @@ published: 2021-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/05/21/2021031619/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MEI 2021. - Decreet tot wijziging van diverse decreten over welzijn, volksgezondheid en gezin

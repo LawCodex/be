@@ -11,7 +11,7 @@ published: 1885-12-31
 entry_into_force: 1886-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1885/12/30/1885123050/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 1885. - Loi approuvant l'acte du 12 décembre 1885 par lequel la Belgique adhère à la convention monétaire conclue à Paris, le 6 novembre 1885, entre la France, la Grèce, l'Italie et la Suisse, ainsi qu'à l'arrangement et à la déclaration y annexés. (Note : Le gouvernement belge a dénoncé cette convention monétaire par la dénonciation du 28-12-1925 (M.B. 04-02-1926); les articles suivants n'ont pas été explicitement abrogés.)

@@ -13,7 +13,7 @@ entry_into_force: 2024-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/13/2024200471/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2023. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et l'Organisation des Nations Unies pour l'Education, la Science et la Culture sur l'établissement en Belgique par cette organisation d'un Bureau de Liaison auprès des institutions de l'Union Européenne, avec Annexe, faits à Paris le 3 juillet 2013

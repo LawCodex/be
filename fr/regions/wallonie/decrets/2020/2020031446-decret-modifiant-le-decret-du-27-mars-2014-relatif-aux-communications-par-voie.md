@@ -13,7 +13,7 @@ entry_into_force: 2019-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/01/2020031446/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 OCTOBRE 2020. - Décret modifiant le décret du 27 mars 2014 relatif aux communications par voie électronique entre les usagers et les autorités publiques wallonnes

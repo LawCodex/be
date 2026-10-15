@@ -12,7 +12,7 @@ entry_into_force: 1993-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/08/06/1993009816/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AOUT 1993. - LOI modifiant le Code de la nationalité belge et les lois relatives à la naturalisation

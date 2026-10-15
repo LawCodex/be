@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/07/31/2009009602/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 27-08-2009 en tekstbijwerking tot 29-12-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2009. - Wet betreffende diverse bepalingen met betrekking tot het Centraal Strafregister

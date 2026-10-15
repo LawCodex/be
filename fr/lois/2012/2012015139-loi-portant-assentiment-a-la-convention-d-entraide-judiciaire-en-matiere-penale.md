@@ -12,7 +12,7 @@ entry_into_force: 2012-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/10/2012015139/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2012. - Loi portant assentiment à la Convention d'entraide judiciaire en matière pénale entre le Royaume de Belgique et la République de Corée, faite à Bruxelles le 17 janvier 2007

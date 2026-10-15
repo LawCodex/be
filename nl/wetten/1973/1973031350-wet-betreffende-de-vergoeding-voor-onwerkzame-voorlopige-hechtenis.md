@@ -16,7 +16,7 @@ department: "Justitie"
 justel_notes:
   - "Wet gebaseerd op de W 1874-07-20/30 die bij de W 1973-03-13/31 gewijzigd werd en waardoor het opschrift vervangen werd bij W 1990-07-20/35 , art. 48"
   - "Raadpleging van vroegere versies vanaf 15-01-2010 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 1973. - Wet [betreffende de vergoeding voor onwerkzame voorlopige hechtenis]. -

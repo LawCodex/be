@@ -13,7 +13,7 @@ entry_into_force: 2016-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/10/06/2016205148/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OKTOBER 2016. - Decreet houdende wijziging van het decreet van 26 mei 2016 betreffende het herstel van sommige schade veroorzaakt door algemene natuurrampen

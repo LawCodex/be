@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/10/2014011324/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2014. - [Loi portant insertion des dispositions réglant des matières visées à l'article 77 de la Constitution dans le livre XI "Propriété intellectuelle" du Code de droit économique, portant insertion d'une disposition spécifique au livre XI dans le livre XVII du même Code, et modifiant le Code judiciaire en ce qui concerne l'organisation des cours et tribunaux en matière d'actions relatives aux droits de propriété intellectuelle et à la transparence du droit d'auteur et des droits voisins] (ERRATUM, voir M.B. 27-06-2014, p. 48237)

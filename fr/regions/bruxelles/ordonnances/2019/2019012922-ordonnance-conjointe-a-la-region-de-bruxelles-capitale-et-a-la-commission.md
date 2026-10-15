@@ -13,7 +13,7 @@ entry_into_force: 2019-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/05/16/2019012922/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2019. - Ordonnance conjointe à la Région de Bruxelles-Capitale et à la Commission communautaire commune modifiant l'ordonnance conjointe à la Région de Bruxelles-Capitale et à la Commission communautaire commune du 14 décembre 2017 sur la transparence des rémunérations et avantages des mandataires publics bruxellois, et l'ordonnance conjointe à la Région de Bruxelles-Capitale et à la Commission communautaire commune du 14 décembre 2017 portant création d'une Commission bruxelloise de déontologie

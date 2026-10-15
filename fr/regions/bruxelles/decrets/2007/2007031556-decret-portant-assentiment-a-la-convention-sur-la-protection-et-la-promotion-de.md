@@ -13,7 +13,7 @@ entry_into_force: 2007-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/22/2007031556/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2007. - Décret portant assentiment à la Convention sur la protection et la promotion de la diversité des expressions culturelles, adoptée le 20 octobre 2005 et faite à Paris le 9 décembre 2005.

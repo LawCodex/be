@@ -12,7 +12,7 @@ entry_into_force: 2018-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/11/25/2018032324/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2018. - Loi portant des dispositions diverses concernant le Registre national et les registres de population

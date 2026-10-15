@@ -13,7 +13,7 @@ entry_into_force: 2015-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/04/2015036560/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2015. - Décret portant assentiment à l'accord de coopération du 15 mai 2014 entre la Communauté flamande, la Communauté française et la Communauté germanophone relatif à l'adhésion à l'Accord partiel élargi sur le Sport (APES), institué par la résolution du Conseil de l'Europe du 11 mai 2007, telle que modifiée le 13 octobre 2010

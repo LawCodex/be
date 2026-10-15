@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/02/09/2024001491/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2024. - Decreet tot wijziging van artikel 166, 166/1, 167, 168, 169 en 170 van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft de regionale televisieomroeporganisaties

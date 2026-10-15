@@ -12,7 +12,7 @@ entry_into_force: 2017-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/21/2017020569/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUILLET 2017. - Loi adaptant diverses législations à la directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles, modifiée par la directive 2013/55/UE

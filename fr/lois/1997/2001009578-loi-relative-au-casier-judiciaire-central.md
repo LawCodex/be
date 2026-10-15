@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/08/08/2001009578/justel"
 department: "Justice"
 justel_note: "consultation des versions antérieures à partir du 24-08-2001 et mise à jour au 27-08-2009."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 AOUT 1997. - Loi relative au Casier judiciaire central.

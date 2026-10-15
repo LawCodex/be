@@ -13,7 +13,7 @@ entry_into_force: 2009-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009029347/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet tot wijziging van het decreet van 12 mei 2004 betreffende de registratie van wapenschilden van natuurlijke personen of familieverenigingen in de Franse Gemeenschap

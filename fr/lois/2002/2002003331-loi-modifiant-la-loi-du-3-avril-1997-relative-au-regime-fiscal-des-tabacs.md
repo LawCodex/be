@@ -12,7 +12,7 @@ entry_into_force: 2000-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/26/2002003331/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2002. - Loi modifiant la loi du 3 avril 1997 relative au régime fiscal des tabacs manufacturés.

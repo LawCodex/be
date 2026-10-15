@@ -12,7 +12,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/19/1997014278/justel"
 department: "Communications"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1997. - Loi modifiant la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques afin d'adapter le cadre réglementaire aux obligations en matière de libre concurrence et d'harmonisation sur le marché des télécommunications découlant des décisions de l'Union européenne.

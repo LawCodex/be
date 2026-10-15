@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/17/2024005323/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 07-06-2024 en tekstbijwerking tot 07-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2024. - decreet tot wijziging van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs, wat betreft het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht

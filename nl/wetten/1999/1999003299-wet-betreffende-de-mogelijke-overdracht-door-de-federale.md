@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/23/1999003299/justel"
 department: "Financiën"
 justel_note: "Erratum, zie B.St. 11-09-1999, p. 34.104, wijziging van de indeling in artikelen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 1999. - Wet betreffende de mogelijke overdracht door de Federale Participatiemaatschappij van haar aandelen van het Centraal Bureau voor Hypothecair Krediet.

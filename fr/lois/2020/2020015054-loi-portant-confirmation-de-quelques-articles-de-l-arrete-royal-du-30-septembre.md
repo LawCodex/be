@@ -12,7 +12,7 @@ entry_into_force: 2020-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/23/2020015054/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2020. - Loi portant confirmation de quelques articles de l'arrêté royal du 30 septembre 2005 désignant les infractions par degré aux règlements généraux pris en exécution de la loi relative à la police de la circulation routière

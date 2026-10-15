@@ -12,7 +12,7 @@ entry_into_force: 1995-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/08/07/1995015145/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AUGUSTUS 1995. - Wet houdende vierde aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 1994 - Sectie " 14. - Buitenlandse Zaken en Buitenlandse Handel".

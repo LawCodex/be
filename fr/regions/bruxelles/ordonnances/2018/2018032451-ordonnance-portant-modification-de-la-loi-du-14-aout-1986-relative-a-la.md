@@ -13,7 +13,7 @@ entry_into_force: 2018-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/12/06/2018032451/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2018. - Ordonnance portant modification de la loi du 14 août 1986 relative à la protection et au bien-être des animaux visant à la reconnaissance du statut spécifique de l'animal

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/14/2019040891/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 23-04-2019 en tekstbijwerking tot 30-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2019. - Decreet betreffende de opvang, in een "Centre communautaire" (Gemeenschappelijk centrum), van uithandengegeven jongeren

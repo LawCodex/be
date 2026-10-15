@@ -13,7 +13,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/03/07/1996027116/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 1996. - Decreet houdende wijziging van het decreet van 30 april 1990 tot instelling van een belasting op het lozen van industrieel en huishoudelijk afvalwater (VERTALING).

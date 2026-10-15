@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/11/17/1998036364/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-1998 en tekstbijwerking tot 29-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 1998. - Decreet houdende begrotingstechnische aanpassingen in het licht van de bijstandverlening ingevolge de watersnood van september 1998

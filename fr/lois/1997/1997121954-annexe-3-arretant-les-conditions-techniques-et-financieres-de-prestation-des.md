@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/19/1997121954/justel"
 department: "Communications"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1997 et mise à jour au 01-09-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1997. - Annexe 3. - Arrêtant les conditions techniques et financières de prestation des services offerts en vue de rencontrer les besoins sociaux particuliers visés à [l'article 86ter, §§ 2 et 4], de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques &lt;Intitulé modifié par L 2001-07-19/38 , art. 35, 002; En vigueur : 28-07-2001&gt;

@@ -13,7 +13,7 @@ entry_into_force: 1998-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/02/17/1998035629/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 1998. - Décret contenant le règlement définitif du budget de la Communauté flamande et des organismes d'intérêt public pour l'année budgétaire 1994. (Traduction)

@@ -12,7 +12,7 @@ entry_into_force: 1991-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/03/23/1991015045/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1990. - Wet houdende goedkeuring van de Benelux-Overeenkomst inzake grensoverschrijdende samenwerking tussen territoriale samenwerkingsverbanden of autoriteiten, gedaan te Brussel op 12 september 1986.

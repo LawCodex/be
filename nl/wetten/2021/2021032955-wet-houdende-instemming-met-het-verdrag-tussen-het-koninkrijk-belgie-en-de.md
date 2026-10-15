@@ -11,7 +11,7 @@ published: 2021-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/08/31/2021032955/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 AUGUSTUS 2021. - Wet houdende instemming met het Verdrag tussen het Koninkrijk België en de Republiek Servië betreffende de politiesamenwerking, opgesteld te Belgrado op 7 februari 2017

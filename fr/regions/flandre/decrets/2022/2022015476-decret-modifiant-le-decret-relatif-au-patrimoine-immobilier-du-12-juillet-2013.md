@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/10/2022015476/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 04-10-2022 et mise à jour au 11-10-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2022. - Décret modifiant le décret relatif au patrimoine immobilier du 12 juillet 2013, en ce qui concerne la mise en oeuvre de la note de vision de la politique locale du patrimoine immobilier et l'attribution à l'entité verbalisante régionale d'une compétence pour infliger des amendes

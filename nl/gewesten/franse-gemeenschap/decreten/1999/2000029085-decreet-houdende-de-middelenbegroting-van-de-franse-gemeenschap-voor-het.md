@@ -13,7 +13,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/12/23/2000029085/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1999. - Decreet houdende de Middelenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2000.

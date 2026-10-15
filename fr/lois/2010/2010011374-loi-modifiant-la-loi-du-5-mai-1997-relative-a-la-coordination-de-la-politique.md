@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/07/30/2010011374/justel"
 department: "Développement Durable"
 justel_note: "Consultation des versions antérieures à partir du 14-10-2010 et mise à jour au 11-01-2012"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2010. - Loi modifiant la loi du 5 mai 1997 relative à la coordination de la politique fédérale de développement durable

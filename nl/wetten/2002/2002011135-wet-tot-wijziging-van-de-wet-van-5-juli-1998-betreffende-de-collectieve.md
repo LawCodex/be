@@ -12,7 +12,7 @@ entry_into_force: 2002-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/04/19/2002011135/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2002. - Wet tot wijziging van de wet van 5 juli 1998 betreffende de collectieve schuldenregeling en de mogelijkheid van verkoop uit de hand van de in beslag genomen onroerende goederen.

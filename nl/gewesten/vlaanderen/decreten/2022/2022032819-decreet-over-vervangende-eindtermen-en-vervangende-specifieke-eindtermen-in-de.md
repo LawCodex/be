@@ -12,7 +12,7 @@ published: 2022-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/05/13/2022032819/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2022. - Decreet over vervangende eindtermen en vervangende specifieke eindtermen in de tweede en derde graad van het secundair onderwijs, op initiatief van de Federatie Steinerscholen Vlaanderen vzw

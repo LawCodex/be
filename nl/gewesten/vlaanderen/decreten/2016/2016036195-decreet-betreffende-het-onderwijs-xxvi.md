@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/17/2016036195/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 10-08-2016 en tekstbijwerking tot 18-08-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2016. - Decreet betreffende het onderwijs XXVI

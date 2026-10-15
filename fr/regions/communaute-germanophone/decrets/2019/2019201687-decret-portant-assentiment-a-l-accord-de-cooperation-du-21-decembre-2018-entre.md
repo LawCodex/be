@@ -13,7 +13,7 @@ entry_into_force: 2019-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/25/2019201687/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 2019. - Décret portant assentiment à l'accord de coopération du 21 décembre 2018 entre la Communauté flamande et la Communauté germanophone relatif à la mise à disposition de la radiofréquence Brussegem 95.2 MHz

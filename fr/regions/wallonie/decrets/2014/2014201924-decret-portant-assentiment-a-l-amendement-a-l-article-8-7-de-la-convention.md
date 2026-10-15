@@ -13,7 +13,7 @@ entry_into_force: 2014-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/13/2014201924/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2014. - Décret portant assentiment à l'amendement à l'article 8, § 7, de la Convention internationale du 7 mars 1966 sur l'élimination de toutes les formes de discrimination raciale, à l'amendement à l'article 20, § 1er, de la Convention du 18 décembre 1979 sur l'élimination de toutes les formes de discrimination à l'égard des femmes, et aux amendements à l'article 17, § 7, et à l'article 18, § 5, de la Convention du 10 décembre 1984 contre la torture et autres peines ou traitements cruels, inhumains ou dégradants

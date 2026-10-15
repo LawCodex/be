@@ -13,7 +13,7 @@ last_amended: 2018-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1970/07/15/1970071509/justel"
 justel_note: "Consultation des versions antérieures à partir du 27-04-2018 et mise à jour au 27-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 1970. - Loi modifiant la loi du 10 octobre 1967 contenant le Code judiciaire ainsi que d'autres dispositions légales

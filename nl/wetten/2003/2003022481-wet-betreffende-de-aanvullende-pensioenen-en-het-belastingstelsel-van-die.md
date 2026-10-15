@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/28/2003022481/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 15-05-2003 en tekstbijwerking tot 22-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2003. - Wet betreffende de aanvullende pensioenen en het belastingstelsel van die pensioenen en van sommige aanvullende voordelen inzake sociale zekerheid. (NOTA 1 : De woorden "Controledienst voor de Verzekeringen", "Controledienst" en "Dienst" worden vervangen door ofwel "CBFA", ofwel "Commissie voor het Bank-, Financie- en Assurantiewezen", volgens de art. 27 en 33 van KB 2003-03-25/34 ; Inwerkingtreding : 01-01-2004)

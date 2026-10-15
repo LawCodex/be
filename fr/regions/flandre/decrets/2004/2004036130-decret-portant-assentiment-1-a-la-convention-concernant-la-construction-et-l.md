@@ -13,7 +13,7 @@ entry_into_force: 2004-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036130/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant assentiment : 1. à la Convention concernant la construction et l'exploitation d'une installation européenne de rayonnement synchrotron, aux annexes 1re à 4, à l'Acte final et aux résolutions 1er à 5, signés à Paris le 16 décembre 1988; 2. à la Convention entre le Royaume de Belgique et le Royaume des Pays-Bas concernant leur participation conjointe à l'installation européenne de rayonnement synchrotron, ainsi qu'aux modalités d'exécution et à l'échange de lettres y afférente, signés à Bruxelles le 12 novembre 1990; 3. au Protocole d'adhésion du Royaume des Pays-Bas à la Convention du 16 décembre 1988 relative à la construction et à l'exploitation d'une installation européenne de rayonnement synchrotron et à l'annexe 1re au protocole, signés à Paris le 9 décembre 1991; 4. à l'Addendum à l'Acte final de la Conférence des plénipotentiaires pour l'établissement d'une installation européenne de rayonnement synchrotron, signé à Paris le 16 décembre 1988 (1) (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2007-11-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/25/2007035960/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2007. - Décret modifiant certaines dispositions des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 4 mars 2005 (TRADUCTION).

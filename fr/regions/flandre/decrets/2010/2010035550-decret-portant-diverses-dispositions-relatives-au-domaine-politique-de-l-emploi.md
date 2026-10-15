@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/16/2010035550/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 06-09-2010 et mise à jour au 01-07-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2010. - Décret portant diverses dispositions relatives au domaine politique de l'Emploi et de l'Economie sociale

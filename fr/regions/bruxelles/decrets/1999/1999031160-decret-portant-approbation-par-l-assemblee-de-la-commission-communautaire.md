@@ -13,7 +13,7 @@ entry_into_force: 1999-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/11/1999031160/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 1999. - Décret portant approbation par l'Assemblée de la Commission communautaire française de l'aliénation de l'immeuble sis rue Ducale 59-61, à Bruxelles.

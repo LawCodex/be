@@ -13,7 +13,7 @@ entry_into_force: 2008-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/21/2008200699/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2008. - Décret portant assentiment à la Convention consulaire entre le Royaume de Belgique et la Fédération de Russie, signée à Moscou, le 22 décembre 2004.

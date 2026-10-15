@@ -12,7 +12,7 @@ entry_into_force: 2000-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/06/09/2000000517/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 2000. - Wet tot wijziging van artikel 345 van de nieuwe gemeentewet en artikel 86 van de gemeentekieswet.

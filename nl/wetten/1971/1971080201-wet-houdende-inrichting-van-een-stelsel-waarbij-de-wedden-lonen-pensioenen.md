@@ -13,7 +13,7 @@ last_amended: 2025-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/08/02/1971080201/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 18-01-1983 en tekstbijwerking tot 29-07-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AUGUSTUS 1971. - Wet houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarmee rekening dient gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der arbeiders, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen, aan het indexcijfer van de consumptieprijzen worden gekoppeld. (Deze wet is niet meer van toepassing op uitgaven die onder de wet van 1 maart 1977 vallen. (CN:1977-03-01/02)).

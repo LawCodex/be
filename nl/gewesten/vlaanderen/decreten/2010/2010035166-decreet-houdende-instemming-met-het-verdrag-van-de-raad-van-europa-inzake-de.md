@@ -13,7 +13,7 @@ entry_into_force: 2010-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/02/12/2010035166/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2010. - Decreet houdende instemming met het Verdrag van de Raad van Europa inzake de bescherming van kinderen tegen seksuele uitbuiting en seksueel misbruik, opgemaakt in Lanzarote op 25 oktober 2007

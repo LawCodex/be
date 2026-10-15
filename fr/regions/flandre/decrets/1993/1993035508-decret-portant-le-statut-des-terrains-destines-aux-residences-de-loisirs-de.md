@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/03/03/1993035508/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-12-1994 et mise à jour au 26-08-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 1993. - Décret portant le statut des terrains destinés aux résidences de loisirs de plein air. (TRADUCTION)

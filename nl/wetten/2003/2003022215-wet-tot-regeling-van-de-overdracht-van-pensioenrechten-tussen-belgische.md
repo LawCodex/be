@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/10/2003022215/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 27-03-2003 en tekstbijwerking tot 30-03-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2003. - Wet tot regeling van de overdracht van pensioenrechten tussen Belgische pensioenregelingen en die van instellingen van internationaal publiek recht

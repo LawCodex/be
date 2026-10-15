@@ -11,7 +11,7 @@ published: 1953-09-05
 entry_into_force: 1953-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1953/06/20/1953062002/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 1953. - Loi modifiant la procédure en cassation.

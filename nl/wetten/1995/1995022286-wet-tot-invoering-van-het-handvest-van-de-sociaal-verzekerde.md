@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/11/1995022286/justel"
 department: "Sociale Voorzorg"
 justel_note: "Raadpleging van vroegere versies vanaf 06-09-1995 en tekstbijwerking tot 27-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 1995. - Wet tot invoering van het "handvest" van de sociaal verzekerde. -

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/03/2021200050/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 13-01-2021 en tekstbijwerking tot 21-02-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2020. - Decreet houdende toekenning van subsidies voor bepaalde investeringen inzake sportinfrastructuur en tot opheffing van het decreet van 25 februari 1999 houdende toekenning van subsidies voor bepaalde investeringen inzake sportinfrastructuur

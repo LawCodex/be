@@ -13,7 +13,7 @@ entry_into_force: 2020-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/29/2020031679/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OCTOBRE 2020. - Décret modifiant la loi du 12 février 2008 instaurant un cadre général pour la reconnaissance des qualifications professionnelles UE

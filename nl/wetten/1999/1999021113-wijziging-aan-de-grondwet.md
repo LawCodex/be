@@ -12,7 +12,7 @@ entry_into_force: 1999-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/12/1999021113/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAART 1999. - Wijziging aan de Grondwet.

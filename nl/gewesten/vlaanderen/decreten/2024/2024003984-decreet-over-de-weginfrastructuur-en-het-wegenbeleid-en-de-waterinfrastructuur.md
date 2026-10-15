@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/22/2024003984/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 26-04-2024 en tekstbijwerking tot 13-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2024. - Decreet over de weginfrastructuur en het wegenbeleid en de waterinfrastructuur en het waterbeleid

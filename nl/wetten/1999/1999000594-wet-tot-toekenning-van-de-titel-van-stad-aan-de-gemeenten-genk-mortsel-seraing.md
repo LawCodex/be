@@ -11,7 +11,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/23/1999000594/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 1999. - Wet tot toekenning van de titel van stad aan de gemeenten Genk, Mortsel, Seraing en Waregem.

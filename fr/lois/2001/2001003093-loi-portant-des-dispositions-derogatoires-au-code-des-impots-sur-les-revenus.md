@@ -12,7 +12,7 @@ entry_into_force: 2003-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/02/02/2001003093/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 FEVRIER 2001. - Loi portant des dispositions dérogatoires au Code des impôts sur les revenus 1992 nécessaires à l'exécution de la Convention additionnelle signée à Bruxelles le 23 juin 1993, modifiant la Convention entre le Royaume de Belgique et l'Etat de Malte, tendant à éviter la double imposition et à prévenir l'évasion fiscale et le Protocole, signés à Bruxelles le 28 juin 1974.

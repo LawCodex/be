@@ -13,7 +13,7 @@ entry_into_force: 1995-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/18/1995033055/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 1995. - Decreet houdende goedkeuring van het Zetelakkoord tussen het Koninkrijk België en de Europese Vrijhandelsassociatie, ondertekend te Brussel op 27 januari 1993 (VERTALING).

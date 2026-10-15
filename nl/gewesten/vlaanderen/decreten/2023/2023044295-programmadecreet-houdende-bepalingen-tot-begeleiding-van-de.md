@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/30/2023044295/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 29-08-2023 en tekstbijwerking tot 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2023. - Programmadecreet houdende bepalingen tot begeleiding van de begrotingsaanpassing 2023

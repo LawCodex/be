@@ -13,7 +13,7 @@ entry_into_force: 2013-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/05/30/2013203383/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2013. - Decreet tot wijziging van het decreet van 17 juli 2013 tot oprichting van een "Institut wallon de formation en alternance et des indépendants et des petites et moyennes entreprises" (Waals Instituut voor alternerende vorming, zelfstandigen en kleine en middelgrote ondernemingen)

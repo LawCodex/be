@@ -12,7 +12,7 @@ entry_into_force: 2007-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/25/2007011183/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2007. - Wet tot wijziging van de wet van 14 juli 1991 betreffende de handelspraktijken en de voorlichting en bescherming van de consument, betreffende de stilzwijgende verlenging van overeenkomsten van bepaalde duur.

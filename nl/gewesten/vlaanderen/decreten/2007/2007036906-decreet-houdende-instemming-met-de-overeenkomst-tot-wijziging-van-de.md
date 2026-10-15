@@ -12,7 +12,7 @@ published: 2007-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/10/19/2007036906/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OKTOBER 2007. - Decreet houdende instemming met de Overeenkomst tot wijziging van de partnerschapsovereenkomst, ondertekend in Cotonou op 23 juni 2000 tussen de leden van de Groep van Afrika, het Caribisch Gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, en met de Slotakte, ondertekend in Luxemburg op 25 juni 2005.

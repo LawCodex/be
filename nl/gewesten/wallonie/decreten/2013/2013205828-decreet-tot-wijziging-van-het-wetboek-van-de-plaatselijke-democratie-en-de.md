@@ -12,7 +12,7 @@ published: 2013-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/10/10/2013205828/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 2013. - Decreet tot wijziging van het Wetboek van de plaatselijke democratie en de decentralisatie en van het decreet van 12 februari 2004 tot organisatie van de Waalse provincies

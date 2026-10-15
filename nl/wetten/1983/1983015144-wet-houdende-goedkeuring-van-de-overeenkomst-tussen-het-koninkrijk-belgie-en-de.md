@@ -12,7 +12,7 @@ entry_into_force: 1983-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1983/04/21/1983015144/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 1983. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en de Socialistische Federale Republiek Joegoslavië tot het vermijden van dubbele belasting van het inkomen en van het vermogen, en van het Protocol, ondertekend te Belgrado op 21 november 1980.

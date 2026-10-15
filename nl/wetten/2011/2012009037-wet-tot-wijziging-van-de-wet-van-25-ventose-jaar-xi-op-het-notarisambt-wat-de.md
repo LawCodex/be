@@ -12,7 +12,7 @@ entry_into_force: 2012-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/11/14/2012009037/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2011. - Wet tot wijziging van de wet van 25 ventôse jaar XI op het notarisambt wat de vereisten om tot notaris benoemd te worden betreft

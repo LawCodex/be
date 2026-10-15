@@ -12,7 +12,7 @@ published: 2008-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/15/2008202828/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2008. - Décret visant à garantir la coordination en langues française et allemande du Code wallon de l'Aménagement du Territoire, de l'Urbanisme, du Patrimoine et de l'Energie.

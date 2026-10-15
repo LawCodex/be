@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/04/28/2022A32057/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 01-07-2022 en tekstbijwerking tot 27-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2022. - BURGERLIJK WETBOEK - BOEK 1. : "Algemene bepalingen"

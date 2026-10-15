@@ -13,7 +13,7 @@ entry_into_force: 2009-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/04/30/2009031248/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Ordonnance relative au contrôle parlementaire des organismes régionaux

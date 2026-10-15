@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/04/1999009647/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 1999. - Wet tot wijziging van een aantal bepalingen betreffende het huwelijk.

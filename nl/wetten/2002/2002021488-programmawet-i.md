@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/24/2002021488/justel"
 department: "Kanselarij van de Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2002 en tekstbijwerking tot 11-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2002. - Programmawet (I).

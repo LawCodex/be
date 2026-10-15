@@ -12,7 +12,7 @@ entry_into_force: 2024-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/11/19/2024010564/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2024. - Wet tot goedkeuring van de zestiende algemene herziening van de quota van de leden van het Internationaal Monetair Fonds, naar aanleiding van de Resolutie 79-1 van 15 december 2023 van de Raad van Gouverneurs van het Internationaal Monetair Fonds

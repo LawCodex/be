@@ -13,7 +13,7 @@ entry_into_force: 2002-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/04/19/2002035704/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2002. - Décret portant approbation de l'accord de coopération entre le Gouvernement flamand et le Gouvernement de la République de Bulgarie, signé à Sofia le 18 mai 2001 (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2026-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/04/03/2026003034/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2026. - Décret relatif à l'imputation sur les centimes additionnels en cas de régularisation fiscale fédérale et modifiant divers décrets en matière de fiscalité, de bonus emploi et de recouvrement des créances non fiscales

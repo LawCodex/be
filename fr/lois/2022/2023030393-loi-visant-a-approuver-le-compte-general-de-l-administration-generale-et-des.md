@@ -12,7 +12,7 @@ entry_into_force: 2023-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/29/2023030393/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2022. - Loi visant à approuver le compte général de l'Administration générale et des comptes généraux des organismes administratifs publics à gestion ministérielle et des services administratifs à comptabilité autonome pour l'année 2021

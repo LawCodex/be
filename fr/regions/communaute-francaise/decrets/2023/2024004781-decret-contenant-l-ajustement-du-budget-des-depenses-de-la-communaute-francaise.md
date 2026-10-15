@@ -13,7 +13,7 @@ entry_into_force: 2024-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/20/2024004781/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2023. - Décret contenant l'ajustement du budget des dépenses de la Communauté française pour l'année budgétaire 2023

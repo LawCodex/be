@@ -13,7 +13,7 @@ entry_into_force: 2002-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/21/2002035048/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2001. - Décret modifiant le décret du 27 juin 1990 portant création d'un " Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap " (Fonds flamand pour l'intégration sociale des personnes handicapées), en vue d'allouer un budget personnalisé et d'introduire un subventionnement en fonction des besoins des structures et des soins sur mesure pour personnes handicapées (TRADUCTION).

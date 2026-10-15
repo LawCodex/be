@@ -12,7 +12,7 @@ entry_into_force: 2020-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/12/16/2020016360/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2020. - Loi modifiant, en ce qui concerne le rapport financier, la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour l'élection de la Chambre des représentants, ainsi qu'au financement et à la comptabilité ouverte des partis politiques

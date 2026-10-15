@@ -12,7 +12,7 @@ entry_into_force: 2001-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/03/23/2001003193/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2001. - Loi modifiant la loi du 22 octobre 1997 relative à la structure et aux taux des droits d'accise sur les huiles minérales.

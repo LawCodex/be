@@ -13,7 +13,7 @@ entry_into_force: 2020-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/03/20/2020040710/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2020. - Décret contenant des mesures en cas d'urgence civile en matière de santé publique

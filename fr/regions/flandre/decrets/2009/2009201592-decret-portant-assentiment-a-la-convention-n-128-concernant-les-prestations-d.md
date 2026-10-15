@@ -13,7 +13,7 @@ entry_into_force: 2009-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/13/2009201592/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2009. - Décret portant assentiment à la convention n° 128 concernant les prestations d'invalidité, de vieillesse et de survivants, et à l'annexe, adoptées par la Conférence internationale du Travail lors de sa cinquante et unième session à Génève le 29 juin 1967

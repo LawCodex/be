@@ -13,7 +13,7 @@ entry_into_force: 2022-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/01/27/2022020237/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JANVIER 2022. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française du 11 février 2021 modifiant l'arrêté du Gouvernement de la Communauté française du 5 juin 2014 relatif aux fonctions, titres de capacité et barèmes portant exécution des articles 7, 16, 50 et 263 du décret du 11 avril 2014 règlementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française et de l'arrêté du Gouvernement de la Communauté française du 11 février 2021 modifiant l'arrêté du Gouvernement de la Communauté française du 5 juin 2014 relatif aux accroches cours-fonction pris en exécution de l'article 10 du décret du 11 avril 2014 réglementant les titres et les fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française

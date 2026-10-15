@@ -12,7 +12,7 @@ entry_into_force: 2003-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/23/2003009477/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2003. - Wet tot wijziging van de artikelen 173, 182 en 185 van het Gerechtelijk Wetboek.

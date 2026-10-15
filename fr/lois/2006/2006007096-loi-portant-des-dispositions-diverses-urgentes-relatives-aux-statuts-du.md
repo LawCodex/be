@@ -12,7 +12,7 @@ entry_into_force: 2006-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/03/05/2006007096/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2006. - Loi portant des dispositions diverses urgentes relatives aux statuts du personnel de la Défense.

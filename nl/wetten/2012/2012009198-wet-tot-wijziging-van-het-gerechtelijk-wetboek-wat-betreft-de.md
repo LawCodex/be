@@ -12,7 +12,7 @@ entry_into_force: 2012-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/04/22/2012009198/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2012. - Wet tot wijziging van het Gerechtelijk Wetboek wat betreft de vereffeningsprocedure van vennootschappen

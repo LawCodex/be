@@ -12,7 +12,7 @@ entry_into_force: 2021-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/27/2021203289/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2021. - Loi allongeant le congé de deuil accordé lors du décès du partenaire ou d'un enfant et flexibilisant la prise du congé de deuil

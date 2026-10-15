@@ -13,7 +13,7 @@ entry_into_force: 2007-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/22/2006037074/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2006. - Décret modifiant le décret du 18 juillet 2003 réglant les conseils consultatifs stratégiques, divers décrets de création de conseils consultatifs stratégiques et le décret cadre Politique administrative (TRADUCTION).

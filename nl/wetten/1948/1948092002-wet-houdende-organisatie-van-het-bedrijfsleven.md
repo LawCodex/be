@@ -12,7 +12,7 @@ last_amended: 2024-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1948/09/20/1948092002/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 24-01-1985 en tekstbijwerking tot 20-12-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBER 1948. - Wet houdende organisatie van het bedrijfsleven.

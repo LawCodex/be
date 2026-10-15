@@ -12,7 +12,7 @@ entry_into_force: 1997-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/23/1997015068/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1994. - Loi portant approbation des Actes internationaux suivants : A. Accord instituant l'Organisation mondiale du Commerce, Acte final, Annexes 1A, 1B, 1C, 2, 3 et 4, Décisions et Déclarations, et Mémorandum d'Accord sur les engagements relatifs aux services financiers, et B. Accord sur les marchés publics et Appendices I, II, III et IV, faits à Marrakech le 15 avril 1994

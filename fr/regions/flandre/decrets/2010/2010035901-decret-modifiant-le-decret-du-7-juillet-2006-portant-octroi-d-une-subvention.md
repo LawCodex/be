@@ -13,7 +13,7 @@ entry_into_force: 2011-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/11/19/2010035901/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2010. - Décret modifiant le décret du 7 juillet 2006 portant octroi d'une subvention-intérêt aux entreprises souffrant d'une accessibilité perturbée suite à des travaux publics

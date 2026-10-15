@@ -12,7 +12,7 @@ entry_into_force: 2024-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/03/2024005008/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2024. - Loi relatif à l'indemnisation des victimes d'un acte de terrorisme et relatif à l'assurance contre les dommages causés par le terrorisme

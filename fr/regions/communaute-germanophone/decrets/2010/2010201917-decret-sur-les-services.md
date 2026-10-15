@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/03/15/2010201917/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 13-04-2010 et mise à jour au 13-01-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2010. - Décret sur les services

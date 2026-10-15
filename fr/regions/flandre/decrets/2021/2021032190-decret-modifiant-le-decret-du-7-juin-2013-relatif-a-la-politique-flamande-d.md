@@ -13,7 +13,7 @@ entry_into_force: 2022-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/09/2021032190/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2021. - Décret modifiant le décret du 7 juin 2013 relatif à la politique flamande d'intégration et d'insertion civique

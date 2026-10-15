@@ -13,7 +13,7 @@ entry_into_force: 2017-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/08/2017012820/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2017. - Décret modifiant le décret du 17 juillet 2003 relatif à une intervention dans les frais de transport en commun public et/ou dans l'utilisation de la bicyclette des membres du personnel

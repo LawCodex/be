@@ -11,7 +11,7 @@ entry_into_force: 2011-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/09/12/2011000705/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 SEPTEMBER 2011. - Wet tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen met het oog op de toekenning van een tijdelijke machtiging tot verblijf aan de niet-begeleide minderjarige vreemdeling

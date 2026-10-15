@@ -13,7 +13,7 @@ entry_into_force: 2003-11-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/10/22/2003201656/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2003. - Décret portant assentiment à l'accord de coopération entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'introduction de l'euro en matière de taxe de circulation.

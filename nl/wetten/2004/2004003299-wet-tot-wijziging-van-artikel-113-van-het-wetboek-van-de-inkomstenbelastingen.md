@@ -12,7 +12,7 @@ entry_into_force: 2004-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/06/2004003299/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2004. - Wet tot wijziging van artikel 113 van het Wetboek van de inkomstenbelastingen 1992 inzake de aftrek van opvangkosten van kinderen die de leeftijd van 12 jaar niet hebben.

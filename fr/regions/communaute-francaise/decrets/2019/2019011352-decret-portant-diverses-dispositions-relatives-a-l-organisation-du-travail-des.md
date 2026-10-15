@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/14/2019011352/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 27-03-2019 et mise à jour au 04-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2019. - Décret portant diverses dispositions relatives à l'organisation du travail des membres du personnel de l'enseignement et octroyant plus de souplesse organisationnelle aux Pouvoirs organisateurs

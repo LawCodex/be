@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/12/22/2004003030/justel"
 department: "Begroting en Beheerscontrole"
 justel_note: "Raadpleging van vroegere versies vanaf 12-02-2004 en tekstbijwerking tot 01-09-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2003. - Wet houdende de algemene uitgavenbegroting voor het begrotingsjaar 2004.

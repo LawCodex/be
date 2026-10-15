@@ -13,7 +13,7 @@ entry_into_force: 2022-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/01/20/2022200575/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2022. - Décret portant assentiment à l'Accord portant extinction des traités bilatéraux d'investissement entre Etats membres de l'Union européenne, fait à Bruxelles le 5 mai 2020

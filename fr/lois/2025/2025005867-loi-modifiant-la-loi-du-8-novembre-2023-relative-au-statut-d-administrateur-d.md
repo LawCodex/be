@@ -12,7 +12,7 @@ entry_into_force: 2025-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/07/18/2025005867/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2025. - Loi modifiant la loi du 8 novembre 2023 relative au statut d'administrateur d'une personne protégée

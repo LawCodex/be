@@ -12,7 +12,7 @@ entry_into_force: 2022-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/02/01/2022020262/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2022. - Wet tot wijziging van de wet van 18 september 2017 tot voorkoming van het witwassen van geld en de financiering van terrorisme en tot beperking van het gebruik van contanten om bepalingen in te voeren rond het statuut van en het toezicht op aanbieders van diensten voor het wisselen tussen virtuele valuta en fiduciaire valuta en aanbieders van bewaarportemonnees

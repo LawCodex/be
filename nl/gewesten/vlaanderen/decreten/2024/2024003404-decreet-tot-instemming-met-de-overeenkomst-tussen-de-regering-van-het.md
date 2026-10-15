@@ -13,7 +13,7 @@ entry_into_force: 2024-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/29/2024003404/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2024. - Decreet tot instemming met de overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Sierra Leone betreffende het luchtvervoer, ondertekend te Freetown op 3 juli 2019

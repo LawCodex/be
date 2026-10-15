@@ -12,7 +12,7 @@ entry_into_force: 2006-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/22/2006009432/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2006. - Loi modifiant les articles 161, alinéa 2, 164, alinéa 2, et 182, alinéa 8, du Code judiciaire, la loi du 16 juillet 1970 déterminant le cadre du personnel des tribunaux de police et la loi du 2 juillet 1975 déterminant le cadre du personnel des tribunaux de première instance.

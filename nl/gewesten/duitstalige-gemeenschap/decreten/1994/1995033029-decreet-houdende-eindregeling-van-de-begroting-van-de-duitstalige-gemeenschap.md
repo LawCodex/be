@@ -13,7 +13,7 @@ entry_into_force: 1995-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/11/28/1995033029/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 1994. - Decreet houdende eindregeling van de begroting van de Duitstalige gemeenschap voor het begrotingsjaar 1992 (VERTALING).

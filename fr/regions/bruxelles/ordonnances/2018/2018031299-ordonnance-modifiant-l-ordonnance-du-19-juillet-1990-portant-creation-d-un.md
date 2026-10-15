@@ -13,7 +13,7 @@ entry_into_force: 2018-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/06/14/2018031299/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 2018. - Ordonnance modifiant l'ordonnance du 19 juillet 1990 portant création d'un Service d'Incendie et d'Aide médicale urgente de la Région de Bruxelles-Capitale

@@ -13,7 +13,7 @@ entry_into_force: 2001-09-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/06/2001035953/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2001. - Décret ajustant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 2001 (TRADUCTION).

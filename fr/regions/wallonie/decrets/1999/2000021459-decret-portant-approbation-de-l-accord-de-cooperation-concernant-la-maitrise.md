@@ -13,7 +13,7 @@ entry_into_force: 2000-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/12/16/2000021459/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 1999. - Décret portant approbation de l'accord de coopération concernant la maîtrise des dangers liés aux accidents majeurs impliquant des substances dangereuses.

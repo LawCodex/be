@@ -11,7 +11,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/26/2016003318/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBER 2015. - Wet tot wijziging van de wet van 31 december 1983 tot hervorming der instellingen voor de Duitstalige Gemeenschap

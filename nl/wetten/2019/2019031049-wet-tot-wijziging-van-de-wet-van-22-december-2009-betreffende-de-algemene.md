@@ -12,7 +12,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/12/20/2019031049/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2019. - Wet tot wijziging van de wet van 22 december 2009 betreffende de algemene regeling inzake accijnzen ter omzetting van richtlijn (EU) 2019/475

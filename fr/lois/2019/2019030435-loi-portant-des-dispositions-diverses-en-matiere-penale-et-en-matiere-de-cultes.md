@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/05/2019030435/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 24-05-2019 et mise à jour au 23-03-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2019. - Loi portant des dispositions diverses en matière pénale et en matière de cultes, et modifiant la loi du 28 mai 2002 relative à l'euthanasie et le Code pénal social

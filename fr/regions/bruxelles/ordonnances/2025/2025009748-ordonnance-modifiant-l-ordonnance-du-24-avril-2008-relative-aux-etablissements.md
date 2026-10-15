@@ -13,7 +13,7 @@ entry_into_force: 2025-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/12/18/2025009748/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2025. - Ordonnance modifiant l'ordonnance du 24 avril 2008 relative aux établissements pour aînés

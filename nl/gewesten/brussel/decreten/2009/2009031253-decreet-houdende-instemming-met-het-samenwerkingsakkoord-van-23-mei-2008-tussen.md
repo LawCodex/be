@@ -13,7 +13,7 @@ entry_into_force: 2009-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/19/2009031253/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2009. - Decreet houdende instemming met het Samenwerkingsakkoord van 23 mei 2008 tussen de Franse Gemeenschap en de Franse Gemeenschapscommissie inzake ondersteuning van schoolintegratie van jongeren met een handicap

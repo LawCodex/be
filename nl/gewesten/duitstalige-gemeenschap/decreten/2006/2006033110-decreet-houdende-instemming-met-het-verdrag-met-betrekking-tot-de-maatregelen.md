@@ -13,7 +13,7 @@ entry_into_force: 2007-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/10/30/2006033110/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OKTOBER 2006. - Decreet houdende instemming met het Verdrag met betrekking tot de maatregelen die moeten worden genomen om de ongeoorloofde invoer, uitvoer en overdracht van eigendom van cultuurgoederen te voorkomen, aangenomen te Parijs op 14 november 1970 (VERTALING).

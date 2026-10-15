@@ -13,7 +13,7 @@ last_amended: 2026-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1878/04/17/1878041750/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-1993 en tekstbijwerking tot 18-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 APRIL 1878. - WET HOUDENDE DE VOORAFGAANDE TITEL VAN HET WETBOEK VAN STRAFVORDERING. (Om technische redenen is het Wetboek van Strafvordering ingedeeld in 8 delen waarvan de voorafgaande titel het eerste deel inhoudt)

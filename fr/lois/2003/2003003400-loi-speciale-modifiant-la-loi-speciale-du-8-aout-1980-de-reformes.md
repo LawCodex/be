@@ -12,7 +12,7 @@ entry_into_force: 2003-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/07/10/2003003400/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2003. - Loi spéciale modifiant la loi spéciale du 8 août 1980 de réformes institutionnelles et la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises, en vue de régler la représentation des communautés et des régions par les Conseils dans les actes judiciaires et extrajudiciaires.

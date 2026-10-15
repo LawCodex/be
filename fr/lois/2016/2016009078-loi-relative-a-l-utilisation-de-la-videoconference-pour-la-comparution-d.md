@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/01/29/2016009078/justel"
 department: "Justice"
 justel_note: "par son arrêt n° 76/2018 du 21-06-2018 (M.B. 02-07-2018, p. 53419), la Cour constitutionnelle a annulé cette loi"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2016. - Loi relative à l'utilisation de la vidéoconférence pour la comparution d'inculpés en détention préventive

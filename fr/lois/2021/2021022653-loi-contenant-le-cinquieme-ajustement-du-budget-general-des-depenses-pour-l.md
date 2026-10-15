@@ -12,7 +12,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/09/2021022653/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2021. - Loi contenant le cinquième ajustement du Budget général des dépenses pour l'année budgétaire 2021

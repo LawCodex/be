@@ -12,7 +12,7 @@ entry_into_force: 2016-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/06/10/2014015243/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2014. - Loi portant assentiment aux actes internationaux suivants: 1° la Convention entre le Royaume de Belgique et le Royaume de Bahreïn tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, faite à Manama le 4 novembre 2007, et 2° le Protocole, fait à Manama le 23 novembre 2009, modifiant la Convention entre le Royaume de Belgique et le Royaume de Bahreïn tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et adaptant la législation fiscale belge à certaines dispositions desdits actes internationaux

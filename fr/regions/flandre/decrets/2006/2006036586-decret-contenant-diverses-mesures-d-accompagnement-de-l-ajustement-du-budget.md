@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/30/2006036586/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 13-12-2006 et mise à jour au 07-07-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2006. - Décret contenant diverses mesures d'accompagnement de l'ajustement du budget 2006. (Traduction)

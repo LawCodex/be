@@ -13,7 +13,7 @@ entry_into_force: 2026-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/03/2026005715/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2026. - Décret modifiant le Décret Energie du 8 mai 2009 et le décret du 19 avril 2024 relatif à l'opérationnalisation d'un Régulateur flamand des services d'utilité publique, en ce qui concerne l'implémentation de la réglementation européenne concernant l'amélioration de l'organisation du marché de l'électricité et les fournisseurs de dernier recours

@@ -12,7 +12,7 @@ entry_into_force: 2009-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/03/30/2009015059/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2009. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en het Koninkrijk Marokko tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan en het ontduiken van belasting inzake belastingen naar het inkomen, ondertekend te Brussel op 31 mei 2006

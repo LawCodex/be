@@ -16,7 +16,7 @@ department: "Emploi et Travail - Affaires sociales - Santé Publique et Environn
 justel_notes:
   - "art. 15 modifié dans le futur pour la communauté germanophone par DCG 2016-04-25/10 , art. 64, ; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 15-09-2001 et mise à jour au 29-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 SEPTEMBRE 2001. - Loi visant à améliorer le taux d'emploi des travailleurs.

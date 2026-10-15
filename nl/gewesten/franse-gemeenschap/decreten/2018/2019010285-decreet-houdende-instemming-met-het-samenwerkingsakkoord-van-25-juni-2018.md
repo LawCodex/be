@@ -13,7 +13,7 @@ entry_into_force: 2019-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/12/12/2019010285/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2018. - Decreet houdende instemming met het samenwerkingsakkoord van 25 juni 2018 tussen de Federale Staat, de Franse Gemeenschap en de Vlaamse Gemeenschap betreffende de culturele bescherming van het boek

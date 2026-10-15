@@ -12,7 +12,7 @@ entry_into_force: 2018-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/30/2018031595/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2018. - Loi relative à la protection des secrets d'affaires

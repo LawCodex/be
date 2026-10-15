@@ -12,7 +12,7 @@ entry_into_force: 2017-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/06/2016007497/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2016. - Loi modifiant la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des forces armées

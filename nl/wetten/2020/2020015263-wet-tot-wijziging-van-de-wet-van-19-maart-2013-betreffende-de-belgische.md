@@ -11,7 +11,7 @@ published: 2020-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/07/20/2020015263/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2020. - Wet tot wijziging van de wet van 19 maart 2013 betreffende de Belgische Ontwikkelingssamenwerking en tot verheffing van het bestaande integriteitscharter inzake de ontwikkelingssamenwerking tot nationale standaard voor het integriteitsbeleid

@@ -12,7 +12,7 @@ entry_into_force: 1993-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/01/26/1993015029/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 1993. - Loi portant approbation de la Convention entre le Royaume de Belgique et le Royaume de Suède tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Stockholm le 5 février 1991.

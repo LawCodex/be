@@ -13,7 +13,7 @@ entry_into_force: 2014-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/20/2014200745/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2014. - Décret portant assentiment à l'accord de coopération du 1er juin 2011 entre l'Etat fédéral et les Régions et les Communautés concernant la coordination des contrôles en matière de travail illégal et de fraude sociale

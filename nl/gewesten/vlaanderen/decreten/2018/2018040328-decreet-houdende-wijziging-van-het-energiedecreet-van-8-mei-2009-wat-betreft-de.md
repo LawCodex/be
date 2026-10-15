@@ -13,7 +13,7 @@ entry_into_force: 2018-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/13/2018040328/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2018. - Decreet houdende wijziging van het Energiedecreet van 8 mei 2009, wat betreft de vastlegging van het afschrijvingsritme voor investeringen bij een aanvraag tot verlenging van groenestroomcertificaten

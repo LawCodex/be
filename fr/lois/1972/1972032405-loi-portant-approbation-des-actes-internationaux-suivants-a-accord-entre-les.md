@@ -11,7 +11,7 @@ published: 1972-06-08
 entry_into_force: 1972-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1972/03/24/1972032405/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 1972. - Loi portant approbation des actes internationaux suivants : a) accord entre les Etats parties à la Convention internationale de coopération pour la sécurité de la navigation aérienne "Eurocontrol" relatif à la perception des redevances de route, fait à Bruxelles le 8 septembre 1970

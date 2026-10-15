@@ -13,7 +13,7 @@ entry_into_force: 2001-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/12/2001029277/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2001. - Décret contenant l'ajustement du budget général des dépenses de la Communauté française pour l'année budgétaire 2001.

@@ -12,7 +12,7 @@ published: 2003-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/19/2003201048/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2002. - Decreet houdende aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 2002 (VERTALING).

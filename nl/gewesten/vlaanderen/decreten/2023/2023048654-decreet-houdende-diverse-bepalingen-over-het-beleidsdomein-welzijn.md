@@ -13,7 +13,7 @@ entry_into_force: 2024-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/01/2023048654/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2023. - Decreet houdende diverse bepalingen over het beleidsdomein Welzijn, Volksgezondheid en Gezin

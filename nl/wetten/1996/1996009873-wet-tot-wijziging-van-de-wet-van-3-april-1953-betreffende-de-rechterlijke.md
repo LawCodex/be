@@ -12,7 +12,7 @@ entry_into_force: 1996-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/11/21/1996009873/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 1996. - Wet tot wijziging van de wet van 3 april 1953 betreffende de rechterlijke inrichting.

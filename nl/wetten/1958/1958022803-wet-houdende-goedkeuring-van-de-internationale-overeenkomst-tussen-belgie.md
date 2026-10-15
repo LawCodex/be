@@ -11,7 +11,7 @@ published: 1958-03-19
 entry_into_force: 1958-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1958/02/28/1958022803/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 1958. - Wet houdende goedkeuring van de internationale overeenkomst tussen België, Duitsland, Frankrijk en Italië met het oog op de vaststelling van gelijkvormige regels tot wederzijdse erkenning der officiële keurstempels voor de vuurwapens en van het reglement, ondertekend op 15 juli 1914, te Brussel.

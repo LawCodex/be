@@ -12,7 +12,7 @@ entry_into_force: 2000-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/22/1999009059/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1998. - Loi sur l'intégration verticale du ministère public, le parquet fédéral et le Conseil des procureurs du Roi.

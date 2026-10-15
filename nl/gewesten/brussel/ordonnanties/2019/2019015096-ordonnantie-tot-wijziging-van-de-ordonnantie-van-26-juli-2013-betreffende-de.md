@@ -13,7 +13,7 @@ entry_into_force: 2019-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/10/17/2019015096/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OKTOBER 2019. - Ordonnantie tot wijziging van de ordonnantie van 26 juli 2013 betreffende de toegang tot en de uitwisseling van informatie over ondergrondse kabels, buizen en leidingen

@@ -10,7 +10,7 @@ date: 1997-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/04/03/1997015109/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 1997. - Wet houdende instemming met de Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en Oekraïne, anderzijds, de Bijlagen I tot V, het Protocol, de Slotakte en de Verklaringen, gedaan te Luxemburg op 14 juni 1994.

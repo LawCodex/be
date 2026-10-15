@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/27/1995031313/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 20-09-1995 en tekstbijwerking tot 08-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 1995. - Decreet betreffende de erkenning en de subsidies van de diensten actief op het gebied van het druggebruik. (Vertaling) .

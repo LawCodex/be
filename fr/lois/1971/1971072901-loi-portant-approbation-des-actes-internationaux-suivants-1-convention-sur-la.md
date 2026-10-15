@@ -11,7 +11,7 @@ published: 1972-02-02
 entry_into_force: 1972-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/07/29/1971072901/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUILLET 1971. - Loi portant approbation des actes internationaux suivants : 1. Convention sur la mer territoriale et la zone contiguë; 2. Convention sur la haute mer; 3. Convention sur la pêche et la conservation des ressources biologiques de haute mer; 4. Protocole de signature facultative concernant le règlement obligatoire des différends, faits à Genève le 29 avril 1958; 5. Convention internationale sur l'intervention en haute mer en cas d'accident entraînant ou pouvant entraîner une pollution par les hydrocarbures et annexe, faites à Bruxelles le 29 novembre 1969.

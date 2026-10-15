@@ -12,7 +12,7 @@ entry_into_force: 2003-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/19/2003009013/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2002. - Loi modifiant certains articles du Code judiciaire en ce qui concerne le fonctionnement du Conseil supérieur de la Justice.

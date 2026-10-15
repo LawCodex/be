@@ -17,7 +17,7 @@ department: "Région de Bruxelles-Capitale"
 justel_notes:
   - "art. 3.2.22; 3.2.26; 2.30.60; 2.30.61 modifiés avec effet à une date indéterminée par ORD 2019-03-06/03 , art. 140 et 143, 008; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 21-05-2013 et mise à jour au 28-03-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2013. - Ordonnance portant le Code bruxellois de l'Air, du Climat et de la Maîtrise de l'Energie

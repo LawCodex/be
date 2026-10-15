@@ -12,7 +12,7 @@ entry_into_force: 2010-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/11/17/2009009864/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2009. - Loi modifiant le Code judiciaire quant à la répartition des dépens entre parties dans le cadre d'une procédure en divorce

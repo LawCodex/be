@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/19/2024004486/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 13-05-2024 en tekstbijwerking tot 18-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2024. - Decreet tot wijziging van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht, wat betreft de opheffing van de leeftijdsgrens en de mogelijkheid van elektronische monitoring in de fase van de voorlopige rechtspleging en overige wijzigingen

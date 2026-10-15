@@ -12,7 +12,7 @@ entry_into_force: 2014-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/15/2014011040/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 2014. - Loi portant modification de la loi portant dispositions diverses du 25 avril 2007 (IV)

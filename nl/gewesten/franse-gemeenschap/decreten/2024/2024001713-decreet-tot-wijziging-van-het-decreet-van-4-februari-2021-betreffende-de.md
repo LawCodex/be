@@ -13,7 +13,7 @@ entry_into_force: 2024-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/02/15/2024001713/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2024. - Decreet tot wijziging van het decreet van 4 februari 2021 betreffende de audiovisuele mediadiensten en videoplatformdiensten en tot gedeeltelijk uitvoering van de digitaledienstenverordening

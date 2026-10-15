@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/03/17/2008033050/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 26-06-2008 et mise à jour au 27-01-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2008. - Décret relatif à la dotation pour les voiries communales. (Traduction)

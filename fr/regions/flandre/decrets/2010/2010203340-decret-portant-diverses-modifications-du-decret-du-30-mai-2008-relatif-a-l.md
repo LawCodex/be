@@ -13,7 +13,7 @@ entry_into_force: 2010-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/05/28/2010203340/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAI 2010. - Décret portant diverses modifications du décret du 30 mai 2008 relatif à l'établissement, au recouvrement et à la procédure contentieuse des taxes provinciales et communales

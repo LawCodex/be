@@ -12,7 +12,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/12/18/2007007336/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2007. - Loi fixant le contingent de l'armée pour l'année 2008.

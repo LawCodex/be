@@ -12,7 +12,7 @@ entry_into_force: 2021-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/03/15/2021030693/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2021. - Wet tot wijziging van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt en tot wijziging van de wet van 22 april 2019 tot wijziging van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt teneinde een capaciteitsvergoedingsmechanisme in te stellen

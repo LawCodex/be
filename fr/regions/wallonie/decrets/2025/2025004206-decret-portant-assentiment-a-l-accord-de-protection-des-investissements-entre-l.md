@@ -13,7 +13,7 @@ entry_into_force: 2025-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/05/15/2025004206/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2025. - Décret portant assentiment à l'Accord de Protection des Investissements entre l'Union européenne et ses Etats membres, d'une part, et la République de Singapour, d'autre part, fait à Bruxelles le 19 octobre 2018

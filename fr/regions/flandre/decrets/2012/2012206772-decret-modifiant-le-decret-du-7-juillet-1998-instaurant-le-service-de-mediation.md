@@ -13,7 +13,7 @@ entry_into_force: 2012-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/11/09/2012206772/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBRE 2012. - DECRET modifiant le décret du 7 juillet 1998 instaurant le service de médiation flamand

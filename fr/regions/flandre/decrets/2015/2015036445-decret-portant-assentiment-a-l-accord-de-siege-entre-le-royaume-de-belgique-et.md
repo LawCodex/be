@@ -13,7 +13,7 @@ entry_into_force: 2014-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/10/30/2015036445/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OCTOBRE 2015. - Décret portant assentiment à l'accord de siège entre le Royaume de Belgique et l'Institut international pour la démocratie et l'assistance électorale, signé à Bruxelles le 15 mai 2014

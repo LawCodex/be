@@ -13,7 +13,7 @@ entry_into_force: 1990-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1990/02/07/1990029335/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 FEBRUARI 1990. - Decreet houdende goedkeuring van de Benelux-Overeenkomst inzake grensoverschrijdende samenwerking tussen territoriale samenwerkingsverbanden of autoriteiten, gedaan te Brussel op 12 september 1986.

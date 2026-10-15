@@ -12,7 +12,7 @@ entry_into_force: 2004-10-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/08/2004015120/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2004. - Loi portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement du Canada en vue d'éviter les doubles impositions et de prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et le Protocole, faits à Ottawa le 23 mai 2002.

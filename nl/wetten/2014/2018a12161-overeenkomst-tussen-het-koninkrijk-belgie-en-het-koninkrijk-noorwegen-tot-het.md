@@ -12,7 +12,7 @@ entry_into_force: 2018-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/23/2018A12161/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 2014. - Overeenkomst tussen het Koninkrijk België en het Koninkrijk Noorwegen tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en tot het voorkomen van het ontduiken van belasting, en met het Protocol, ondertekend te Oslo op 23 april 2014

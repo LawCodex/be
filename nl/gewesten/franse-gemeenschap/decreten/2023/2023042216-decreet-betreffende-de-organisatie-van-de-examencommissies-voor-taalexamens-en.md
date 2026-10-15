@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/04/13/2023042216/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 05-07-2023 en tekstbijwerking tot 11-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 2023. - Decreet betreffende de organisatie van de examencommissies voor taalexamens en houdende diverse maatregelen inzake taalvaardigheid

@@ -13,7 +13,7 @@ entry_into_force: 2007-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/03/22/2007031555/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2007. - Decreet houdende instemming met de volgende internationale Akten : - de Overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Andesgemeenschap en haar lidstaten (Bolivia, Colombia, Ecuador, Peru en Venezuela), anderzijds, en de Bijlage, gedaan te Rome op 15 december 2003; - de Overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de republieken Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua en Panama, anderzijds, en de Bijlage, gedaan te Rome op 15 december 2003 (VERTALING).

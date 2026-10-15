@@ -13,7 +13,7 @@ entry_into_force: 2011-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/03/2011200076/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2010. - Decreet houdende wijziging van het decreet van 27 april 2007 houdende vaststelling van het wapen en de vlag van de provincies, gemeenten en districten en de Vlaamse Gemeenschapscommissie

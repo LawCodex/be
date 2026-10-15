@@ -11,7 +11,7 @@ published: 2020-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/02/19/2020031396/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 FEBRUARI 2020. - Wet tot aanpassing van de wet van 4 april 2014 betreffende de verzekeringen aan de afschaffing van de doodstraf

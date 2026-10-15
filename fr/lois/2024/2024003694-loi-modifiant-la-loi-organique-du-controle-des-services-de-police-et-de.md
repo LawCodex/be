@@ -12,7 +12,7 @@ entry_into_force: 2024-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/29/2024003694/justel"
 department: "Justice - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2024. - Loi modifiant la loi organique du contrôle des services de police et de renseignement et de l'Organe de coordination pour l'analyse de la menace du 18 juillet 1991 en ce qui concerne la composition des Comités permanents P et R

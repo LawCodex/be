@@ -13,7 +13,7 @@ entry_into_force: 2005-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/15/2005203367/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2005. - Décret portant diverses modifications au Code des droits d'enregistrement, d'hypothèque et de greffe, et au Code des droits de succession. (Note : Erratum intégré dans ce décret et ce, à partir de l'article 6 jusqu'à l'article 30; M.B. 30/01/2006, p. 4984 et suivantes).

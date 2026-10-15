@@ -12,7 +12,7 @@ entry_into_force: 2010-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/04/06/2010009427/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 2010. - Loi modifiant diverses dispositions en ce qui concerne la signification et la notification par pli judiciaire

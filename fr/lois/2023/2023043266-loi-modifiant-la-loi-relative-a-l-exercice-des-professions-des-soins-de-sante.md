@@ -12,7 +12,7 @@ entry_into_force: 2023-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/28/2023043266/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2023. - Loi modifiant la loi relative à l'exercice des professions des soins de santé, coordonnée le 10 mai 2015, en vue d'y préciser l'intitulé actuel du titre d'infirmier conformément à la directive 2005/36/CE et d'y insérer l'assistant en soins infirmiers et l'infirmier chercheur clinicien

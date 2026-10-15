@@ -12,7 +12,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/01/12/2006000516/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 2006. - Wet tot wijziging van de wet van 1 augustus 1985 houdende fiscale en andere bepalingen, teneinde het voor de feitelijk samenwonenden mogelijk te maken te worden erkend als rechthebbende van een lid van de politie- en hulpdiensten dat overleden is als gevolg van een ongeval in het kader van zijn taak.

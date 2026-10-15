@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/05/2019030472/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 14-06-2019 en tekstbijwerking tot 04-08-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2019. - Wet tot wijziging van de wet van 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden tot een vrijheidsstraf en de aan het slachtoffer toegekende rechten in het raam van de strafuitvoeringsmodaliteiten tot aanpassing van de procedure voor de strafuitvoeringsrechter voor de vrijheidsstraffen van drie jaar of minder

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/28/2019202056/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 03-05-2019 en tekstbijwerking tot 17-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2019. - Decreet betreffende de controle van de wetgevingen en reglementeringen inzake het economisch beleid, het tewerkstellingsbeleid en het wetenschappelijk onderzoek alsook de invoering van administratieve geldboeten toepasselijk in geval van inbreuk op deze wetgevingen en reglementeringen

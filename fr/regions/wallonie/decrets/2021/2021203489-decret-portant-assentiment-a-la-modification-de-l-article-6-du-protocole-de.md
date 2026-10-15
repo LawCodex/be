@@ -13,7 +13,7 @@ entry_into_force: 2021-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/08/2021203489/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2021. - Décret portant assentiment à la modification de l'article 6 du Protocole de Londres de 1996 à la Convention sur la prévention de la pollution marine par immersion de déchets et autres matières de 1972, adopté à Londres le 30 octobre 2009

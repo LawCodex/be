@@ -13,7 +13,7 @@ entry_into_force: 2003-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/21/2003035278/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2003. - Décret portant approbation de l'Accord de coopération entre le Gouvernement flamand et le Gouvernement de la République tchèque, signé à Prague le 12 février 2002 (TRADUCTION).

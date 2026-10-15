@@ -13,7 +13,7 @@ entry_into_force: 2012-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/20/2012029011/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2011. - Décret portant assentiment à l'Accord de stabilisation et d'association entre les Communautés européennes et leurs Etats-membres, d'une part, et la République de Serbie, d'autre part, y compris l'Acte final, faits à Luxembourg le 29 avril 2008

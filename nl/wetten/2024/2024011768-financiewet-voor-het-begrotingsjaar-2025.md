@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/12/20/2024011768/justel"
 department: "Beleid en Ondersteuning"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2024 en tekstbijwerking tot 18-04-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2024. - Financiewet voor het begrotingsjaar 2025

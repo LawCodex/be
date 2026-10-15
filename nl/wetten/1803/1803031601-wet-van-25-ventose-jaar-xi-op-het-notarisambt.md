@@ -15,7 +15,7 @@ justel_notes:
   - "art. 18quinquies gewijzigd met ingang op een onbepaalde datum bij W 2020-04-30/03 , art. 16, 026; Inwerkingtreding : onbepaald "
   - "art. 9-10 gewijzigd tot 03-06-2020 door W 2020-04-30/03 , art. 10-11, 026; Inwerkingtreding : 04-05-2020"
   - "Raadpleging van vroegere versies vanaf 07-09-2006 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 1803. - Wet van 25 ventôse jaar XI op het notarisambt.

@@ -12,7 +12,7 @@ entry_into_force: 2004-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/12/05/2004014272/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 2004. - Loi visant à restructurer des obligations légales de pension de Brussels International Airport Company et de Belgocontrol.

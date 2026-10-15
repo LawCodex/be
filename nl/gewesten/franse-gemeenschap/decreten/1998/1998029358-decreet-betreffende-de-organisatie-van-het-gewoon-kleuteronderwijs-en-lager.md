@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/13/1998029358/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 28-08-1998 en tekstbijwerking tot 09-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 1998. - Decreet betreffende de organisatie van het gewoon kleuteronderwijs en lager onderwijs en de wijziging van de onderwijswetgeving. (Vertaling).

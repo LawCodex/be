@@ -13,7 +13,7 @@ entry_into_force: 2019-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/09/23/2019204524/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBRE 2019. - Décret portant assentiment à l'accord de partenariat économique entre l'Union européenne et ses Etats membres, d'une part, et les Etats de l'APE CDAA, d'autre part, fait à Kasane le 10 juin 2016

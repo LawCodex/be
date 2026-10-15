@@ -12,7 +12,7 @@ entry_into_force: 2016-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/05/20/2016009245/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 2016. - Loi modifiant le Code pénal en vue d'incriminer l'entrée ou l'intrusion de toute personne non habilitée ou non autorisée dans une installation portuaire ou dans un bien immobilier ou mobilier situé à l'intérieur du périmètre d'un port

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/07/2017020491/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 09-08-2017 en tekstbijwerking tot 06-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2017. - Decreet betreffende wijk-werken en diverse bepalingen in het kader van de zesde staatshervorming

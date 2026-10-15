@@ -13,7 +13,7 @@ entry_into_force: 2023-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/27/2023047351/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2023. - Décret modifiant la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers, le décret du 30 avril 2004 relatif au contrôle des lois sociales, le décret du 22 décembre 2017 portant une prime pour stimuler la transition de demandeurs d'emploi à l'entrepreneuriat et le décret du 10 décembre 2010 relatif au placement privé

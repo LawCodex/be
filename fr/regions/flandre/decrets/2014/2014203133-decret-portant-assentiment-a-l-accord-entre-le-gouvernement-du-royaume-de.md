@@ -13,7 +13,7 @@ entry_into_force: 2014-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014203133/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret portant assentiment à l'Accord entre le gouvernement du Royaume de Belgique et le gouvernement de la République de Moldavie sur le transport routier, signé à Chisinau le 21 mai 1996

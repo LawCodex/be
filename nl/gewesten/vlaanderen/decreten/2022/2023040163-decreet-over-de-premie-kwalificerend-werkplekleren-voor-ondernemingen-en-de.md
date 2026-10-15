@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/23/2023040163/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 31-01-2023 en tekstbijwerking tot 07-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2022. - Decreet over de premie kwalificerend werkplekleren voor ondernemingen en de leerlingenpremie alternerende opleiding

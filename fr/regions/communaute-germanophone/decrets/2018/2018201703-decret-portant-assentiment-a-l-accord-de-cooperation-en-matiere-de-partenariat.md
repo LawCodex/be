@@ -13,7 +13,7 @@ entry_into_force: 2018-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/02/26/2018201703/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2018. - Décret portant assentiment à l'Accord de coopération en matière de partenariat et de développement entre l'Union européenne et ses Etats membres, d'une part, et la République islamique d'Afghanistan, d'autre part, fait à Munich le 18 février 2017

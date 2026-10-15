@@ -13,7 +13,7 @@ entry_into_force: 2012-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/02/01/2012029082/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2012. - Décret modifiant le décret du 16 avril 1975 instituant un prix littéraire du Conseil de la Communauté française

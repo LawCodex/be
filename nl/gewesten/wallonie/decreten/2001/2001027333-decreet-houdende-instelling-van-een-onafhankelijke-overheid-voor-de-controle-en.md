@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/06/08/2001027333/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 16-06-2001 en tekstbijwerking tot 26-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2001. - Decreet houdende instelling van een onafhankelijke overheid voor de controle en de opvolging inzake geluidshinder van luchthavens in het Waalse Gewest (VERTALING)

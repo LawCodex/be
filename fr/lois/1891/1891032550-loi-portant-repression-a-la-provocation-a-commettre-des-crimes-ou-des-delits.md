@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1891/03/25/1891032550/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 08-07-2014 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 1891. - Loi portant répression à la provocation à commettre des crimes ou des délits

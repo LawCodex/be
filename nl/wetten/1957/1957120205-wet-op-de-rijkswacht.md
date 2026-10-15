@@ -13,7 +13,7 @@ last_amended: 2005-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1957/12/02/1957120205/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1990 en tekstbijwerking tot 29-07-2005"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 1957. - Wet op de Rijkswacht.

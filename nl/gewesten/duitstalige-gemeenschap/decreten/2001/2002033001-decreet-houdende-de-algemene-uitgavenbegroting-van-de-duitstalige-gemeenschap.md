@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/03/2002033001/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2001. - Decreet houdende de algemene uitgavenbegroting van de Duitstalige Gemeenschap voor het begrotingsjaar 2002. (Vertaling). (AANDACHT : voor de wijzigingen aangebracht door de eerste aanpassing, zie (A HREF=article.pl?language=nl&lg\_txt=n&cn\_search=2002062440 target=\_blank)2002-06-24/40(/A)) (AANDACHT : voor de wijzigingen aangebracht door de tweede aanpassing, zie (A HREF=article.pl?language=nl&lg\_txt=n&cn\_search=2002111846 target=\_blank)2002-11-18/46(/A))

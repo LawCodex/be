@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/15/2004015118/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
 justel_note: "Consultation des versions antérieures à partir du 19-04-2006 et mise à jour au 17-06-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2004. - Loi portant assentiment au Protocole de 1997, modifiant la Convention internationale de 1973 pour la prévention de la pollution par les navires, telle que modifiée par le Protocole de 1978 y relatif, et à l'Annexe, faits à Londres le 26 septembre 1997

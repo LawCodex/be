@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/03/31/2022040819/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 27-05-2022 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2022. - Décret portant création du dossier d'accompagnement de l'élève (DACCE)

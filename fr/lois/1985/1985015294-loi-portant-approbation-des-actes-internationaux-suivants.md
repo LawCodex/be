@@ -12,7 +12,7 @@ entry_into_force: 1985-11-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/06/20/1985015294/justel"
 department: "Affaires étrangères - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 1985. - Loi portant approbation des Actes internationaux suivants.

@@ -13,7 +13,7 @@ entry_into_force: 2016-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/01/28/2016031283/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 2016. - Décret portant assentiment à l'accord de coopération conclu le 29 octobre 2015 entre la Communauté française, la Région wallonne et la Commission communautaire française concernant le Service francophone des Métiers et des Qualifications, en abrégé " SFMQ "

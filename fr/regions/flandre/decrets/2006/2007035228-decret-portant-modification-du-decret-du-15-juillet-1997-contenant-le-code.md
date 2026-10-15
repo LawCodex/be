@@ -13,7 +13,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/15/2007035228/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2006. - Décret portant modification du décret du 15 juillet 1997 contenant le Code flamand du Logement (TRADUCTION)

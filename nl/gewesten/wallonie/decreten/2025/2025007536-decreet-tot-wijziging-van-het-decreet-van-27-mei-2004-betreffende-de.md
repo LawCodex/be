@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/09/25/2025007536/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 SEPTEMBER 2025. - Decreet tot wijziging van het decreet van 27 mei 2004 betreffende de uitoefening door de Duitstalige Gemeenschap van sommige bevoegdheden van het Waalse Gewest inzake de ondergeschikte besturen

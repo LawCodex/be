@@ -12,7 +12,7 @@ entry_into_force: 2011-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/07/04/2011203555/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2011. - Programmawet (II)

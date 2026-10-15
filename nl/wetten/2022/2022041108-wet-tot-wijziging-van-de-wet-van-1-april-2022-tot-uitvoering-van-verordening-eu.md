@@ -12,7 +12,7 @@ entry_into_force: 2022-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/05/05/2022041108/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2022. - Wet tot wijziging van de wet van 1 april 2022 tot uitvoering van Verordening (EU) 2017/821 van het Europees Parlement en de Raad van 17 mei 2017 tot vaststelling van verplichtingen inzake passende zorgvuldigheid in de toeleveringsketen voor Unie-importeurs van tin, tantaal en wolfraam, de overeenkomstige ertsen, en goud uit conflict- en hoogrisicogebieden

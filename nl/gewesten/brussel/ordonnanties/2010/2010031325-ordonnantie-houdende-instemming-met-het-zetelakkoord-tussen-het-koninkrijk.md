@@ -13,7 +13,7 @@ entry_into_force: 2010-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2010/06/17/2010031325/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2010. - Ordonnantie houdende instemming met : het Zetelakkoord tussen het Koninkrijk België en het Secretariaat van de "Regional Cooperation Council", ondertekend te Brussel op 29 augustus 2008

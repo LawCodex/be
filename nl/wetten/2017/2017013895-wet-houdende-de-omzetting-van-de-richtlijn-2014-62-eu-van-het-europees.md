@@ -10,7 +10,7 @@ date: 2017-10-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/10/18/2017013895/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 OKTOBER 2017. - Wet houdende de omzetting van de richtlijn 2014/62/EU van het Europees parlement en de Raad van 15 mei 2014 betreffende de strafrechtelijke bescherming van de euro en andere munten tegen valsemunterij en ter vervanging van Kaderbesluit 2000/383/JBZ van de Raad

@@ -11,7 +11,7 @@ date: 2007-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/02/2007029259/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 2007. - Decreet houdende instemming met het samenwerkingsakkoord van 17 november 2006 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franstalige Gemeenschap en de Duitstalige Gemeenschap betreffende het wederzijds consulteren bij het opstellen van regelgeving inzake elektronische communicatienetwerken, het uitwisselen van informatie en de uitoefening van de bevoegdheden met betrekking tot elektronische communicatienetwerken door de regulerende instanties bevoegd voor telecommunicatie of radio-omroep en televisie, gesloten te Brussel op 17 november 2006 (VERTALING).

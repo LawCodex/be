@@ -13,7 +13,7 @@ entry_into_force: 2014-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/13/2013203734/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 2013. - Decreet houdende instemming met de samenwerkingsovereenkomst van 21 februari 2013 tussen het Waalse Gewest en de Franse Gemeenschap inzake de administratieve vereenvoudiging en elektronische administratie en tot organisatie van een netwerk van correspondenten belast met de administratieve vereenvoudiging en de elektronische administratie

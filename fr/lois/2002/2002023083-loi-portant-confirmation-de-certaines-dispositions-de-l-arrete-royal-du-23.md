@@ -12,7 +12,7 @@ entry_into_force: 2002-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/17/2002023083/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2002. - Loi portant confirmation de certaines dispositions de l'arrêté royal du 23 octobre 2001 modifiant l'arrêté royal du 19 août 1998 fixant les rétributions et cotisations dues au Fonds budgétaire des Matières premières.

@@ -13,7 +13,7 @@ entry_into_force: 2013-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/12/2013204599/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2013. - Decreet houdende instemming met het verdrag tussen het Vlaams Gewest en het Koninkrijk der Nederlanden tot wijziging van het verdrag (van 24 februari 1961) tussen het Koninkrijk België en het Koninkrijk der Nederlanden tot verbetering van de verbinding tussen het Julianakanaal en het Albertkanaal, ondertekend te Brussel op 27 februari 2013

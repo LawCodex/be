@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/15/2007011335/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2010 en tekstbijwerking tot 28-09-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2007. - Wet tot vaststelling van een juridisch kader voor sommige verleners van vertrouwensdiensten.

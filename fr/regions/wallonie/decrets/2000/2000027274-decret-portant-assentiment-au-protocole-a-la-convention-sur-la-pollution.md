@@ -13,7 +13,7 @@ entry_into_force: 2000-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/06/23/2000027274/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2000. - Décret portant assentiment au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance de 1979 relatif à une nouvelle réduction des émissions de soufre, aux Annexes et à la décision adoptée par l'organe exécutif, faits à Oslo le 14 juin 1994.

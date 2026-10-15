@@ -13,7 +13,7 @@ entry_into_force: 2025-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/11/27/2025009464/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2025. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Senegal betreffende het luchtvervoer, gedaan te Dakar op 18 januari 2013

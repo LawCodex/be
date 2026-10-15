@@ -12,7 +12,7 @@ entry_into_force: 2017-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/11/29/2017040914/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2017. - Loi modifiant le Code de la taxe sur la valeur ajoutée, en ce qui concerne l'exigibilité de la taxe, les opérations assimilées à des prestations de services, le régime du perfectionnement actif à l'importation et l'exemption de la taxe pour la livraison de bateaux affectés à la navigation en haute mer

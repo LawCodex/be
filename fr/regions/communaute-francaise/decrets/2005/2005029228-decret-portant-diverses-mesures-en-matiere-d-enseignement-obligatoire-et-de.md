@@ -13,7 +13,7 @@ entry_into_force: 2005-09-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/01/2005029228/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUILLET 2005. - Décret portant diverses mesures en matière d'enseignement obligatoire et de promotion sociale, d'enseignement supérieur, de promotion de la santé à l'école, de la coordination de l'accueil des enfants durant leur temps libre et au soutien de l'accueil extrascolaire, de l'aide à la jeunesse, d'éducation permanente et de fonds budgétaires.

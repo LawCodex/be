@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/22/2010204202/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 21-12-2011 et mise à jour au 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2010. - Décret-programme portant des mesures diverses en matière de bonne gouvernance, de simplification administrative, de budget et de formation dans les matières visées par l'article 138 de la Constitution

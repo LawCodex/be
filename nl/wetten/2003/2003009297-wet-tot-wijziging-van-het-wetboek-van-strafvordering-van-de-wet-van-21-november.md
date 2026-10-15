@@ -11,7 +11,7 @@ published: 2003-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/19/2003009297/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2003. - Wet tot wijziging van het Wetboek van strafvordering, van de wet van 21 november 1989 betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen en het koninklijk besluit van 28 december 1950 houdende algemeen reglement op de gerechtskosten in strafzaken.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/12/12/2014027266/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2014 et mise à jour au 21-08-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2014. - Décret-programme portant des mesures diverses liées au budget en matière de calamité naturelle, de sécurité routière, de travaux publics, d'énergie, de logement, d'environnement, d'aménagement du territoire, de bien-être animal, d'agriculture et de fiscalité

@@ -11,7 +11,7 @@ published: 1975-07-03
 entry_into_force: 1975-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1975/06/20/1975062005/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 1975. - Wet tot instelling van een rentebijslag voor de begunstigden met een, om redenen van nationale erkentelijkheid , niet of slechts gedeeltelijk verminderd rustpensioen.

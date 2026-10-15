@@ -12,7 +12,7 @@ entry_into_force: 2023-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/04/07/2023202456/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2023. - Wet tot wijziging van de wet van 10 mei 2007 ter bestrijding van discriminatie tussen vrouwen en mannen, de wet van 30 juli 1981 tot bestraffing van bepaalde door racisme of xenofobie ingegeven daden, de wet van 10 mei 2007 ter bestrijding van bepaalde vormen van discriminatie, en de wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk, wat de bescherming tegen nadelige maatregelen betreft

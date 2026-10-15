@@ -18,7 +18,7 @@ justel_notes:
   - "art. 101 modifié avec effet à une date indéterminée par DCFL 2005-07-15/51 , art. 300, 015; ; En vigueur : indéterminée "
   - "une version consolidée de ce texte est consultable en néerlandais gratuitement sur l'internet dans la base de données Vlaamse Codex"
   - "Consultation des versions antérieures à partir du 08-06-1999 et mise à jour au 24-07-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1999. - Décret portant organisation de l'aménagement du territoire. (TRADUCTION)

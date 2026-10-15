@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/25/2007009412/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 01-06-2007 et mise à jour au 13-05-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2007. - Loi modifiant le Code judiciaire, notamment les dispositions relatives au personnel judiciaire de niveau A, aux greffiers et aux secrétaires ainsi que les dispositions relatives à l'organisation judiciaire.

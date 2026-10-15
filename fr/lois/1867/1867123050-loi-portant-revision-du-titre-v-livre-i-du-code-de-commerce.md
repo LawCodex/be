@@ -10,7 +10,7 @@ date: 1867-12-30
 published: 1868-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1867/12/30/1867123050/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 1867. - Loi portant révision du Titre V, Livre I du Code de commerce.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/06/2014200326/justel"
 department: "Kanselarij van de Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 31-01-2014 en tekstbijwerking tot 02-05-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANUARI 2014. - Wet tot wijziging van de wet van 31 december 1983 tot hervorming der instellingen voor de Duitstalige Gemeenschap ten gevolge van de hervorming van de Senaat

@@ -12,7 +12,7 @@ entry_into_force: 1998-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/01/07/1998009214/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANVIER 1998. - Loi relative à l'assistance judiciaire pour la délivrance de copies de pièces du dossier judiciaire en matière pénale.

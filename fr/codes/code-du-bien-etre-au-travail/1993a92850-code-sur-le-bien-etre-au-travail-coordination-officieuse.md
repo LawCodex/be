@@ -11,7 +11,7 @@ published: 1993-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/09/28/1993A92850/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBRE 1993. - Code sur le bien-être au travail (Coordination officieuse)

@@ -13,7 +13,7 @@ entry_into_force: 2018-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/22/2018206202/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2018. - Decreet houdende instemming met het Protocol, gedaan te Luxemburg op 14 april 2014, tot wijziging van de Overeenkomst tussen België en Ierland tot het vermijden van dubbele belasting en van het ontgaan van belasting over belastingen naar het inkomen, ondertekend te Brussel op 24 juni 1970

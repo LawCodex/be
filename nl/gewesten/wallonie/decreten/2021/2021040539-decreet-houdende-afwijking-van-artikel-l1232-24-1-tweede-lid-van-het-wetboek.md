@@ -13,7 +13,7 @@ entry_into_force: 2021-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/02/11/2021040539/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 FEBRUARI 2021. - Decreet houdende afwijking van artikel L1232-24, § 1, tweede lid, van het Wetboek van plaatselijke democratie en decentralisatie betreffende de vaststelling van de doodsoorzaak door een geneesheer

@@ -11,7 +11,7 @@ date: 2020-11-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/11/19/2020043705/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2020. - Decreet tot wijziging van artikel 5 van het decreet van 29 oktober 2020 tot toekenning van bijzondere machten aan de Waalse Regering om te reageren op de tweede golf van de gezondheidscrisis COVID-19 voor de aangelegenheden geregeld bij artikel 138 van de Grondwet

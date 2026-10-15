@@ -13,7 +13,7 @@ entry_into_force: 2023-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/15/2022033029/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2022. - Decreet tot wijziging van de wet van 8 april 1965 betreffende de jeugdbescherming, het decreet van 12 juli 2013 betreffende de integrale jeugdhulp en het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht, met het oog op de inwerkingtreding van de gesloten oriëntatie en de gesloten begeleiding in de gemeenschapsinstellingen

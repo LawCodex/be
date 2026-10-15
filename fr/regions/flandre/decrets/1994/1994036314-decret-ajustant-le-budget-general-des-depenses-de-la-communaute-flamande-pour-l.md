@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/07/06/1994036314/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 18-11-1994 et mise à jour au 22-09-1995."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 1994. - Décret ajustant le budget général des dépenses de la Communauté flamande pour l'année budgétaire 1994. &lt;Traduction&gt;

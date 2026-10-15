@@ -12,7 +12,7 @@ entry_into_force: 2023-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/02/08/2023040384/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 2023. - Loi portant modification de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces

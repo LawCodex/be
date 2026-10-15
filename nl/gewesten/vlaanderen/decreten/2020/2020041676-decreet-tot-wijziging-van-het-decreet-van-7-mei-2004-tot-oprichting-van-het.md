@@ -13,7 +13,7 @@ entry_into_force: 2020-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/05/29/2020041676/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2020. - Decreet tot wijziging van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding", wat betreft de activerings-, loopbaan- en dataregie

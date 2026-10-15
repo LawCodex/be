@@ -12,7 +12,7 @@ entry_into_force: 2018-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/06/13/2018031131/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 2014. - Loi portant assentiment à l'Amendement au Protocole de Kyoto à la Convention-cadre des Nations Unies sur les changements climatiques, adopté à Doha le 8 décembre 2012

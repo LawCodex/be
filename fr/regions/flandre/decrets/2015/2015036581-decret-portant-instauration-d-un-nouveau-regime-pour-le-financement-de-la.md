@@ -13,7 +13,7 @@ entry_into_force: 2015-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/11/2015036581/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2015. - Décret portant instauration d'un nouveau régime pour le financement de la " Vlaamse Maatschappij voor Sociaal Wonen " (Société flamande du Logement social) et du " Vlaams Woningfonds " (Fonds flamand du Logement)

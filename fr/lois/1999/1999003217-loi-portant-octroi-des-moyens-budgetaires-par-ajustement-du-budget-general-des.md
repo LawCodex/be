@@ -12,7 +12,7 @@ entry_into_force: 1999-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/20/1999003217/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 1999. - Loi portant octroi des moyens budgétaires par ajustement du Budget général des dépenses pour l'année budgétaire 1998 pour le règlement financier de l'augmentation de la quote-part de la Belgique liée à l'approbation de la résolution relative à la onzième révision générale des quotes-parts des membres au Fonds monétaire international.

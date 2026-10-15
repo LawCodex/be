@@ -12,7 +12,7 @@ entry_into_force: 2010-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/02/02/2008015012/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 2009. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Republiek Mozambique inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 18 juli 2006

@@ -13,7 +13,7 @@ entry_into_force: 2011-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/06/09/2011031319/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 2011. - Ordonnantie tot gedeeltelijke omzetting van de Richtlijn 2006/123/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende de diensten, wat de bevoegdheden van de Gemeenschappelijke Gemeenschapscommissie aangaat

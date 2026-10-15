@@ -12,7 +12,7 @@ entry_into_force: 2023-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/29/2022043185/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2022. - Loi modifiant la loi du 2 mai 2019 relative aux pétitions adressées à la Chambre des représentants en ce qui concerne l'introduction d'un formulaire standard de pétition pour être entendu

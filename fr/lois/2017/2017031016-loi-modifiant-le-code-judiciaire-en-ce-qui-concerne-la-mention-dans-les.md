@@ -12,7 +12,7 @@ entry_into_force: 2017-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/21/2017031016/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUILLET 2017. - Loi modifiant le Code judiciaire en ce qui concerne la mention, dans les jugements relatifs à la fixation d'une contribution alimentaire, de la possibilité d'autoriser le créancier à percevoir les sommes dues au débiteur d'aliments

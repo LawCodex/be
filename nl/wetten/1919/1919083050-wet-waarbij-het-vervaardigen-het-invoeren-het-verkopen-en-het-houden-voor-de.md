@@ -11,7 +11,7 @@ last_amended: 2026-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1919/08/30/1919083050/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-1989 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AUGUSTUS 1919. - Wet waarbij het vervaardigen, het invoeren, het verkopen en het houden voor de verkoop van wit-fosforhoudende lucifers wordt verboden

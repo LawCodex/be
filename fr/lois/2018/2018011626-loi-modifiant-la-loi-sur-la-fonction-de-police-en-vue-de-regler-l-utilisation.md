@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/21/2018011626/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 16-04-2018 et mise à jour au 15-07-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2018. - Loi modifiant la loi sur la fonction de police, en vue de régler l'utilisation de caméras par les services de police, et modifiant la loi du 21 mars 2007 réglant l'installation et l'utilisation de caméras de surveillance, la loi du 30 novembre 1998 organique des services de renseignement et de sécurité et la loi du 2 octobre 2017 réglementant la sécurité privée et particulière

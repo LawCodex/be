@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/05/07/2004022376/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 18-05-2004 et mise à jour au 04-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Loi relative aux expérimentations sur la personne humaine

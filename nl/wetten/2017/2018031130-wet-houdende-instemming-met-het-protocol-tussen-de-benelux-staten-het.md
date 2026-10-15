@@ -12,7 +12,7 @@ entry_into_force: 2021-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/09/03/2018031130/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBER 2017. - Wet houdende instemming met het Protocol tussen de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en Bosnië en Herzegovina ter uitvoering van de Overeenkomst tussen de Europese Gemeenschap en Bosnië en Herzegovina betreffende de overname van personen die zonder vergunning op het grondgebied verblijven (Uitvoeringsprotocol), gedaan te Brussel op 5 december 2013

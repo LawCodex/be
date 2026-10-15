@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/09/15/2006000703/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 06-10-2006 et mise à jour au 28-12-2006"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 SEPTEMBRE 2006. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.

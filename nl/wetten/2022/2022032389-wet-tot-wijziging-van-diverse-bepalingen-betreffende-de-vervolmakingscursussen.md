@@ -12,7 +12,7 @@ entry_into_force: 2022-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/06/02/2022032389/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2022. - Wet tot wijziging van diverse bepalingen betreffende de vervolmakingscursussen van de beroepsmilitairen van het actief kader en tot opheffing van de beroepsproeven van de vorming voor kandidaat hoofdofficier voor de beroepsofficieren van niveau A

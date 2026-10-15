@@ -13,7 +13,7 @@ entry_into_force: 2012-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/20/2012029018/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2011. - Décret portant assentiment à l'accord de coopération entre la Communauté française et la Région wallonne créant une Ecole d'Administration publique commune à la Communauté française et à la Région wallonne

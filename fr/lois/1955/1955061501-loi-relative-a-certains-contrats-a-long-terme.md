@@ -11,7 +11,7 @@ published: 1955-06-23
 entry_into_force: 1955-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1955/06/15/1955061501/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 1955. - Loi relative à certains contrats à long terme.

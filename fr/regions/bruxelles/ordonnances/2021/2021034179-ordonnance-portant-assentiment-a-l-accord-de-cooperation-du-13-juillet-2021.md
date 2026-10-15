@@ -13,7 +13,7 @@ entry_into_force: 2021-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/12/02/2021034179/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2021. - Ordonnance portant assentiment à l'accord de coopération du 13 juillet 2021 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale portant coordination de la politique de transfert transfrontalier des déchets

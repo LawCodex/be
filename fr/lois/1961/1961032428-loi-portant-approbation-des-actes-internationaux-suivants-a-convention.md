@@ -11,7 +11,7 @@ published: 1961-07-19
 entry_into_force: 1961-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1961/03/24/1961032428/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 1961. - Loi portant approbation des actes internationaux suivants : A) Convention internationale pour l'unification de certaines règles relatives à la compétence civile en matière d'abordage; B) Convention internationale pour l'unification de certaines règles relatives à la compétence pénale en matière d'abordage et autres événements de navigation; C) Convention internationale pour l'unification de certaines règles sur la saisie conservatoire des navires de mer, signées à Bruxelles, le 10 mai 1952.

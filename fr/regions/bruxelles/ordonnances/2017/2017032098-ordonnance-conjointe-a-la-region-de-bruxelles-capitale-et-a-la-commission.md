@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/12/14/2017032098/justel"
 department: "Commission communautaire commune"
 justel_note: "Consultation des versions antérieures à partir du 24-01-2018 et mise à jour au 29-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2017. - Ordonnance conjointe à la Région de Bruxelles-Capitale et à la Commission communautaire commune sur la transparence des rémunérations et avantages des mandataires publics bruxellois

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/20/1997035124/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 15-07-1999 et mise à jour au 21-12-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1996. - Décret portant création d'un Conseil flamand de la Santé et d'un Conseil consultatif flamand pour l'agrément des établissements de soins (TRADUCTION).

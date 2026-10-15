@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1978/07/03/1978070303/justel"
 justel_notes:
   - "art. 3bis-3ter modifiés avec effet à une date indéterminée par L 2018-01-15/02 , art. 11 et 18; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 28-04-1981 et mise à jour au 15-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 1978. - Loi relative aux contrats de travail

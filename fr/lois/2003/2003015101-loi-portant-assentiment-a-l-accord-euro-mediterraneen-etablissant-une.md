@@ -12,7 +12,7 @@ entry_into_force: 2004-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/13/2003015101/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2003. - Loi portant assentiment à l'Accord euro-méditerranéen établissant une association entre la Communauté européenne et ses états membres, d'une part, et la République algérienne démocratique et populaire, d'autre part, aux Annexes 1re, 2, 3, 4, 5 et 6, aux Protocoles 1, 2, 3, 4, 5 en 6, et à l'Acte final, faits à Valence le 22 avril 2002.

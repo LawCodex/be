@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/12/2014203605/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 06-06-2014 et mise à jour au 01-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2014. - [Loi du 12 mai 2014 relative à la reconnaissance de l'aidant proche] &lt;L 2019-05-17/36 , art. 2, 003; En vigueur : 01-10-2019&gt;

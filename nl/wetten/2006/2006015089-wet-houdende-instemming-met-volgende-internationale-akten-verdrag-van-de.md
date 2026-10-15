@@ -12,7 +12,7 @@ entry_into_force: 2006-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/15/2006015089/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2006. - Wet houdende instemming met volgende Internationale Akten : Verdrag van de Wereldorganisatie voor de intellectuele eigendom inzake auteursrecht (WCT), gedaan te Genève op 20 december 1996; Verdrag van de Wereldorganisatie voor de intellectuele eigendom inzake uitvoeringen en fonogrammen (WPPT), gedaan te Genève op 20 december 1996.

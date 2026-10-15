@@ -11,7 +11,7 @@ published: 1975-08-13
 entry_into_force: 1975-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1975/04/15/1975041503/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 APRIL 1975. - Wet houdende goedkeuring van de Overeenkomst tussen de regering van België en de regering van Maleisië tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, en van het Protocol, ondertekend te Kuala Lumpur op 24 oktober 1973.

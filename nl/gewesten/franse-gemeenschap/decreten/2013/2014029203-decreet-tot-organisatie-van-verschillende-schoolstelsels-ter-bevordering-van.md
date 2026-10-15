@@ -16,7 +16,7 @@ department: "Franse Gemeenschap"
 justel_notes:
   - "artikelen 7-18, 22, 23, 25 en 26 gewijzigd in de toekomst door <DFG 2024-05-16/96 , art. 53, 013; Inwerkingtreding : 24-08-2026 en 23-08-2027>"
   - "Raadpleging van vroegere versies vanaf 03-04-2014 en tekstbijwerking tot 24-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2013. - Decreet tot organisatie van verschillende schoolstelsels ter bevordering van het welzijn van jongeren op school, schoolherinschakeling, preventie van geweld op school en begeleiding van studieoriëntatie

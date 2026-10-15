@@ -13,7 +13,7 @@ entry_into_force: 2002-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/21/2002035185/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2001. - Decreet tot wijziging van het decreet van 16 april 1996 houdende bescherming van landschappen.

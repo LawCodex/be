@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/13/2007036532/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 13-09-2007 en tekstbijwerking tot 31-01-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2007. - Decreet inzake medisch [en ethisch] verantwoorde sportbeoefening. &lt;Opschrift gewijzigd door DVR 2008-11-21/43 , art. 3; Inwerkingtreding : 08-01-2009&gt;

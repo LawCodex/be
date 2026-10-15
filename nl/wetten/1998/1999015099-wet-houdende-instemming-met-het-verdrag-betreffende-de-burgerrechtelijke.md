@@ -12,7 +12,7 @@ entry_into_force: 1999-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/08/10/1999015099/justel"
 department: "Binnenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1998. - Wet houdende instemming met het Verdrag betreffende de burgerrechtelijke aspecten van internationale ontvoering van kinderen, opgemaakt te `s Gravenhage op 25 oktober 1980, tot opheffing van de artikelen 2 en 3 van de wet van 1 augustus 1985 houdende goedkeuring van het Europees Verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen over het gezag over kinderen en betreffende het herstel van het gezag over kinderen, opgemaakt te Luxemburg op 20 mei 1980, alsook tot wijziging van het Gerechtelijk Wetboek.

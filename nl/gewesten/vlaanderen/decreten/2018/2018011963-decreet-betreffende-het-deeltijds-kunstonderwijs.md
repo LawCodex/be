@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/09/2018011963/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 11-05-2018 en tekstbijwerking tot 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2018. - Decreet betreffende het deeltijds kunstonderwijs

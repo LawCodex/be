@@ -12,7 +12,7 @@ entry_into_force: 1994-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/05/18/1995015105/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 1993. - Wet houdende goedkeuring van de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Argentijnse Republiek betreffende de wederzijdse bevordering en bescherming van investeringen, en de uitwisseling van brieven, ondertekend te Brussel op 28 juni 1990.

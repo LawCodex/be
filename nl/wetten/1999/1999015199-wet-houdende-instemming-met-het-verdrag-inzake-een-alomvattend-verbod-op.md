@@ -11,7 +11,7 @@ published: 1999-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/13/1999015199/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 1999. - Wet houdende instemming met het Verdrag inzake een alomvattend verbod op kernproeven, en met het Protocol, ondertekend te New York op 24 september 1996.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/11/27/1998027056/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 12-02-1998 et mise à jour au 14-11-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 1997. - Décret modifiant le Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/12/06/2018206456/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 16-01-2019 en tekstbijwerking tot 10-05-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2018. - Wet houdende wijziging van de wet van 15 april 1994 betreffende de bescherming van de bevolking en van het leefmilieu tegen de uit ioniserende stralingen voortspruitende gevaren en betreffende het Federaal Agenschap voor Nucleaire controle met betrekking tot de milieueffectbeoordeling

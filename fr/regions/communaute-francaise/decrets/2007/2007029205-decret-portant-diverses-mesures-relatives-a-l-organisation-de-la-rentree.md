@@ -13,7 +13,7 @@ entry_into_force: 2007-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/19/2007029205/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2007. - Décret portant diverses mesures relatives à l'organisation de la rentrée scolaire 2007-2008.

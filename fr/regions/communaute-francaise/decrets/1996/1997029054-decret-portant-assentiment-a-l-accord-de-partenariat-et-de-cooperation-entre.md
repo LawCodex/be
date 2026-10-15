@@ -13,7 +13,7 @@ entry_into_force: 1996-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/02/1997029054/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 1996. - Décret portant assentiment à l'Accord de partenariat et de coopération entre les Communautés européennes et leurs Etats membres, d'une part et l'Ukraine, d'autre part, les annexes I, II, III, IV et V, à l'appendice, au Protocole et à l'Acte final, signés à Luxembourg le 14 juin 1994.

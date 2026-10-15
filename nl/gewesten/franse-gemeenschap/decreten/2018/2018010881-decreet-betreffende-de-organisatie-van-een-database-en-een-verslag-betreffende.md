@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/01/18/2018010881/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2018. - Decreet betreffende de organisatie van een database en een verslag betreffende de subsidies in de Franse Gemeenschap

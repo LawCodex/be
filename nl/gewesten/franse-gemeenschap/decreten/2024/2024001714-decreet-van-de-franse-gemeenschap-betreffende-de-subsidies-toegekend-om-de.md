@@ -13,7 +13,7 @@ entry_into_force: 2024-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/02/15/2024001714/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2024. - Decreet van de Franse Gemeenschap betreffende de subsidies toegekend om de internationale dimensie van de culturele operatoren van de Franse Gemeenschap te bevorderen

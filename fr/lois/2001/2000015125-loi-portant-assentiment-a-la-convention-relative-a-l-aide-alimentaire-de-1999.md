@@ -12,7 +12,7 @@ entry_into_force: 1999-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/09/21/2000015125/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 SEPTEMBRE 2001. - Loi portant assentiment à la Convention relative à l'aide alimentaire de 1999, et les Annexes, faites à Londres le 13 avril 1999.HI:??2,Session 2000-2001. Sénat Documents. - Projet de loi déposé le 14 mars 2001, n° 2-685/1. - Rapport n° 2-685/2. - Texte adopté par la Commission. Annales parlementaires. - Discussion et Vote. Séance du 3 mai 2001. Session 2000-2001. Chambre Documents. - Projet transmis par le Sénat, n° 50-1236/1. - Rapport n° 50-1236/2. - Texte adopté en séance plénière et soumis à la sanction royale, n° 50-1236/3. Annales parlementaires. - Discussion et Vote. Séance du 14 juin 2001.

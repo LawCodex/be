@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/06/2012035866/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2012. - Décret modifiant diverses dispositions du décret du 28 avril 1998 relatif à la politique flamande de l'intégration et du décret du 30 avril 2009 modifiant le décret du 28 avril 1998 relatif à la politique flamande à l'encontre de minorités ethnoculturelles

@@ -13,7 +13,7 @@ entry_into_force: 2006-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/05/05/2006201867/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2006. - Décret relatif à la prévention du tabagisme et l'interdiction de fumer à l'école.

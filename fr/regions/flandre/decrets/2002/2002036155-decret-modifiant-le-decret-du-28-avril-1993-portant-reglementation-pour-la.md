@@ -13,7 +13,7 @@ entry_into_force: 2002-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/15/2002036155/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2002. - Décret modifiant le décret du 28 avril 1993 portant réglementation, pour la Région flamande, de la tutelle administrative des communes (TRADUCTION).

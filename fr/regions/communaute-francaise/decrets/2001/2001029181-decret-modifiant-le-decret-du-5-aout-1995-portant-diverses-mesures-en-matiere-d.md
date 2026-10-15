@@ -13,7 +13,7 @@ entry_into_force: 2001-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/03/29/2001029181/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2001. - Décret modifiant le décret du 5 août 1995 portant diverses mesures en matière d'enseignement supérieur.

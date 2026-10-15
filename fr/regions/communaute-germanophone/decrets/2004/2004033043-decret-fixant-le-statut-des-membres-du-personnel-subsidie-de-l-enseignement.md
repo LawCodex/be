@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/29/2004033043/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 24-06-2004 et mise à jour au 31-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2004. - Décret fixant le statut des membres du personnel subsidié de l'enseignement officiel subventionné et des centres psycho-médico-sociaux officiels subventionnés (TRADUCTION)

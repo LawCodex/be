@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/15/2013014763/justel"
 department: "Mobiliteit en Vervoer"
 justel_note: "Raadpleging van vroegere versies vanaf 18-02-2014 en tekstbijwerking tot 28-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2013. - Wet betreffende het goederenvervoer over de weg en houdende uitvoering van de Verordening (EG) nr. 1071/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels betreffende de voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van richtlijn 96/26/EG van de Raad en houdende uitvoering van de Verordening (EG) nr. 1072/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels voor toegang tot de markt voor internationaal goederenvervoer over de weg

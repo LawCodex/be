@@ -13,7 +13,7 @@ entry_into_force: 2014-10-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/21/2014035927/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2014. - Décret sanctionnant le règlement de l'Organisation d'accréditation néerlandaise-flamande fixant les principes d'administration s'appliquant à la prise de décision relative à l'accréditation, à l'évaluation institutionnelle et à l'évaluation nouvelle formation pour ce qui est des formations ou des institutions au sein de la Communauté flamande

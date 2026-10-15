@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/12/27/2000001125/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 06-01-2001 et mise à jour au 31-12-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 2000. - Loi portant diverses dispositions relatives à la position juridique du personnel des services de police

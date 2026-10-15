@@ -13,7 +13,7 @@ entry_into_force: 2022-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/03/17/2022020645/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2022. - Ordonnantie tot afschaffing van de instelling van openbaar nut Fonds voor de financiering van het waterbeleid

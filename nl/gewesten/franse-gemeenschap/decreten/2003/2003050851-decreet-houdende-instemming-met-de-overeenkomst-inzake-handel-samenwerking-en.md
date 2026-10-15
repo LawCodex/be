@@ -13,7 +13,7 @@ entry_into_force: 2003-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/05/08/2003050851/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2003. - Decreet houdende instemming met de Overeenkomst inzake handel, samenwerking en ontwikkeling tussen de Europese Gemeenschap en haar lid-Staten, enerzijds, en de Republiek Zuid-Afrika, anderzijds, en met de Slotakte, opgemaakt te Pretoria op 11 oktober 1999 (VERTALING).

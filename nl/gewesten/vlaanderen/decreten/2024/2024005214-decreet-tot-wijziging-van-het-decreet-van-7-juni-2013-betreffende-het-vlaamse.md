@@ -13,7 +13,7 @@ entry_into_force: 2024-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/03/2024005214/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2024. - Decreet tot wijziging van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid, wat betreft de verwerking van persoonsgegevens, de verplichting tot inburgering voor bedienaars van de erkende erediensten en een afwijking van het taalniveau voor NT2 voor personen met een handicap

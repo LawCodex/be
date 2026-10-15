@@ -13,7 +13,7 @@ entry_into_force: 2000-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/06/23/2000027273/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2000. - Decreet houdende goedkeuring van de Overeenkomst tussen de Belgische-Luxemburgse Economische Unie en de Republiek Tunesië inzake de wederzijdse bevordering en bescherming van investeringen, opgemaakt te Tunis op 8 januari 1997, en van het proces-verbaal tot rechtzetting, opgemaakt te Brussel op 8 juli 1998 (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2008-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/19/2008200427/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2007. - Décret concernant les exigences de sécurité minimales applicables aux tunnels du réseau routier transeuropéen.

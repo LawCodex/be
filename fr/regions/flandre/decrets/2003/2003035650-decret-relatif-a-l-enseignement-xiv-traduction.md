@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/14/2003035650/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 01-07-2003 et mise à jour au 13-02-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEVRIER 2003. - Décret relatif à l'enseignement XIV. (TRADUCTION)

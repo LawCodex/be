@@ -12,7 +12,7 @@ entry_into_force: 2021-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/14/2021033650/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2021. - Decreet tot wijziging van het decreet van 17 juli 2002 betreffende de hervorming van het Office de la Naissance et de l'Enfance om te voorzien in een openbare raadpleging in het kader van de sluiting van een nieuwe beheersovereenkomst

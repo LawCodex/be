@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1858/03/12/1858031250/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 13-03-2003 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAART 1858. - WET betreffende de misdaden en de wanbedrijven die afbreuk doen aan de internationale betrekkingen.

@@ -13,7 +13,7 @@ entry_into_force: 1990-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/06/18/1990027873/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 1990. - Décret organisant la tutelle sur la Commission communautaire française. (ERR 13-09-1990, p. 17518)

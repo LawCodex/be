@@ -12,7 +12,7 @@ entry_into_force: 2012-03-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/01/30/2012014052/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2012. - Wet tot regeling van aangelegenheden als bedoeld door artikel 77 van de Grondwet inzake de verzekering van scheepseigenaren tegen maritieme vorderingen

@@ -13,7 +13,7 @@ entry_into_force: 2021-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/28/2021205509/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2021. - Décret portant des mesures en matière d'enseignement 2021

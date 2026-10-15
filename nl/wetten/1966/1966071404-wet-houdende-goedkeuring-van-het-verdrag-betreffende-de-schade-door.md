@@ -11,7 +11,7 @@ entry_into_force: 1966-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1966/07/14/1966071404/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1966. - Wet houdende goedkeuring van het Verdrag betreffende de schade door buitenlandse luchtvaartuigen aan derden op het aardoppervlak veroorzaakt, ondertekend op 7 oktober 1952, te Rome.

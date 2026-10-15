@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/07/2013204197/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 26-07-2013 en tekstbijwerking tot 06-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2013. - Decreet betreffende het Vlaamse integratie- en inburgeringsbeleid

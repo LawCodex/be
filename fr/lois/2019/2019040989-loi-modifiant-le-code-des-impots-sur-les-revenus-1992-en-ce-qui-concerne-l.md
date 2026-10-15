@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/22/2019040989/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2019. - Loi modifiant le Code des impôts sur les revenus 1992, en ce qui concerne l'exonération d'impôt pour la cession de l'emphytéose

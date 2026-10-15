@@ -12,7 +12,7 @@ entry_into_force: 2017-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/11/21/2016007493/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2016. - Loi modifiant diverses dispositions relatives au statut des militaires

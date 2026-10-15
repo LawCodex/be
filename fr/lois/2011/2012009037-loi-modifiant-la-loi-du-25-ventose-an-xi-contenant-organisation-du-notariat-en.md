@@ -12,7 +12,7 @@ entry_into_force: 2012-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/11/14/2012009037/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 2011. - Loi modifiant la loi du 25 ventôse an XI contenant organisation du notariat, en ce qui concerne les conditions de nomination du notaire

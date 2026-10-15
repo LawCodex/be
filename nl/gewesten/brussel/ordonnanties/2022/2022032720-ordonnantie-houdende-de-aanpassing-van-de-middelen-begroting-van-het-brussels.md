@@ -12,7 +12,7 @@ entry_into_force: 2022-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/07/06/2022032720/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2022. - Ordonnantie houdende de aanpassing van de Middelen-begroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2022

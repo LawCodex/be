@@ -11,7 +11,7 @@ published: 1977-02-22
 entry_into_force: 1977-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1977/01/05/1977010503/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JANUARI 1977. - Wet houdende uitgifte van een tweede tranche van de lening van het Belgisch-Kongolees fonds voor delging en beheer en tot regeling van de problemen betreffende de leningen in Kongolese frank " Koloniale Schuld 4 1/4 pct. 1954-1974 " en " Kongolese Schuld 4 pct. 1955-1975 "

@@ -13,7 +13,7 @@ entry_into_force: 2011-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/11/29/2013029002/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2012. - Décret portant modification des dispositions relatives à l'intervention dans les frais de transport en commun public exposés par les membres du personnel de l'enseignement supérieur

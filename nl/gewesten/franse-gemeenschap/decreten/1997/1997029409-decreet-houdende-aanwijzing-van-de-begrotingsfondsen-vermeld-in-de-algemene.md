@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/10/27/1997029409/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 28-01-1998 en tekstbijwerking tot 09-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 1997. - Decreet houdende aanwijzing van de begrotingsfondsen vermeld in de algemene uitgavenbegroting van de Franse Gemeenschap (VERTALING).

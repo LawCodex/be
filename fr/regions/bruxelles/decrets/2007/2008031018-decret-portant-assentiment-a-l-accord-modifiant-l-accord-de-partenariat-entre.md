@@ -13,7 +13,7 @@ entry_into_force: 2008-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/21/2008031018/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2007. - Décret portant assentiment à l'accord modifiant l'accord de partenariat entre les membres du groupe des Etats d'Afrique, des Caraïbes et du Pacifique, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, signé à Cotonou le 23 juin 2000, fait à Luxembourg le 25 juin 2005.

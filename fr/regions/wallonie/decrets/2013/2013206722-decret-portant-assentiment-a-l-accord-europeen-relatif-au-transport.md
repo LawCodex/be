@@ -13,7 +13,7 @@ entry_into_force: 2013-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/28/2013206722/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2013. - Décret portant assentiment à l'Accord européen relatif au transport international de marchandises dangereuses par voies de navigation intérieures (ADN), fait à Genève le 26 mai 2000

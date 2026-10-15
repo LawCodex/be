@@ -13,7 +13,7 @@ entry_into_force: 2015-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/02/2015205495/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 NOVEMBER 2015. - Decreet houdende instemming met de Kaderconventie van de Raad van Europa over de Waarde van Cultureel Erfgoed voor de Samenleving, gedaan te Faro op 27 oktober 2005

@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/11/2024011223/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2018. - Wet van 11 maart 2018 inzake de financiering van het Federaal agentschap voor geneesmiddelen en gezondheidsproducten. Bekendmaking overeenkomstig artikel 53 van de geïndexeerde bedragen van de heffingen en retributies.

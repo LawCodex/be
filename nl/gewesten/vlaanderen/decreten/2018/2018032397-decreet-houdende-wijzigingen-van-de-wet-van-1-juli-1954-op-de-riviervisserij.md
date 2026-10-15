@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/23/2018032397/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2018. - Decreet houdende wijzigingen van de wet van 1 juli 1954 op de riviervisserij

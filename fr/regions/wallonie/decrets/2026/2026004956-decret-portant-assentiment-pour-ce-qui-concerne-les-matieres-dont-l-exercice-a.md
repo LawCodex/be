@@ -13,7 +13,7 @@ entry_into_force: 2026-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/18/2026004956/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2026. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, à l'Accord économique et commercial global (AECG) entre le Canada, d'une part, et l'Union européenne et ses Etats membres, d'autre part, fait à Bruxelles le 30 octobre 2016, et à son instrument interprétatif commun

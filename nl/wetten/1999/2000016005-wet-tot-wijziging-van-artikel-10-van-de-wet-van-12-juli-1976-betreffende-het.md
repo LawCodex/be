@@ -11,7 +11,7 @@ published: 2000-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/12/23/2000016005/justel"
 department: "Middenstand - Landbouw"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1999. - Wet tot wijziging van artikel 10 van de wet van 12 juli 1976 betreffende het herstel van zekere schade veroorzaakt aan private goederen door natuurrampen.

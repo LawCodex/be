@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/20/2005202164/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2005. - Décret créant un Fonds budgétaire d'assainissement des sites d'activité économique à réhabiliter et des sites de réhabilitation paysagère et environnementale.

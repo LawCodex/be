@@ -12,7 +12,7 @@ entry_into_force: 2009-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/05/13/2009011242/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2009. - Wet betreffende de officiële meesterschapwedstrijden

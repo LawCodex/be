@@ -12,7 +12,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/04/06/2026002780/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 2026. - Wet tot invoering van een belasting op meerwaarden op financiële activa

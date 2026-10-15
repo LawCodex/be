@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/04/04/2024003460/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 25-04-2024 et mise à jour au 03-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2024. - Ordonnance portant le Code des finances publiques de la Région de Bruxelles-Capitale

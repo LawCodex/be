@@ -13,7 +13,7 @@ entry_into_force: 2003-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/07/2003035257/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 2003. - Décret portant assentiment au Protocole facultatif à la Convention relative aux droits de l'enfant, concernant la vente d'enfants, la prostitution des enfants et la pornographie mettant en scène des enfants, fait à New York le 25 mai 2000 (TRADUCTION).

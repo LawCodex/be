@@ -12,7 +12,7 @@ entry_into_force: 2018-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/11/19/2017040880/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2017. - Loi portant assentiment à l'Accord instituant la Fondation internationale UE-ALC, fait à Saint-Domingue le 25 octobre 2016

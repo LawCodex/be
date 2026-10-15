@@ -13,7 +13,7 @@ entry_into_force: 2018-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/12/20/2018015733/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2018. - Ordonnantie houdende aanpassing van de algemene Uitgavenbegroting van de Gemeenschappelijke Gemeenschapscommissie voor het begrotingsjaar 2018

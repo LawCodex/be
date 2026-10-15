@@ -12,7 +12,7 @@ entry_into_force: 2026-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/22/2026005882/justel"
 department: "Economie, PME, Classes moyennes et Energie - Finances - Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2026. - Loi visant à assurer la transposition de la directive (UE) 2024/1619 du Parlement européen et du Conseil du 31 mai 2024 modifiant la directive 2013/36/UE en ce qui concerne les pouvoirs de surveillance, les sanctions, les succursales de pays tiers et les risques environnementaux, sociaux et de gouvernance, la directive (UE) 2023/2864 du Parlement européen et du Conseil du 13 décembre 2023 modifiant certaines directives en ce qui concerne l'établissement et le fonctionnement du point d'accès unique européen, la directive (UE) 2024/2994 du Parlement européen et du Conseil du 27 novembre 2024 modifiant les directives 2009/65/CE, 2013/36/UE et (UE) 2019/2034 en ce qui concerne le traitement du risque de concentration découlant d'expositions sur des contreparties centrales et du risque de contrepartie des transactions sur instruments dérivés faisant l'objet d'une compensation centrale, et portant dispositions diverses

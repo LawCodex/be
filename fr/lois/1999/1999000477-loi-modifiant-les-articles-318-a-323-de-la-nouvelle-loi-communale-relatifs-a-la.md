@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/13/1999000477/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 1999. - Loi modifiant les articles 318 à 323 de la nouvelle loi communale, relatifs à la consultation populaire communale.

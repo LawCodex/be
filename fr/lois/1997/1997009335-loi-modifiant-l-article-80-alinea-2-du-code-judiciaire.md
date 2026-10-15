@@ -12,7 +12,7 @@ entry_into_force: 1997-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/03/10/1997009335/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 1997. - Loi modifiant l'article 80, alinéa 2, du Code judiciaire.

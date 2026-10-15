@@ -12,7 +12,7 @@ entry_into_force: 2016-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/06/27/2016011277/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2016. - Loi modifiant le Code de droit économique en vue de l'introduction de la liberté de panorama

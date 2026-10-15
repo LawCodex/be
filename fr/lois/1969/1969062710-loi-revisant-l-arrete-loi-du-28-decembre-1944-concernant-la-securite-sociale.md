@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1969/06/27/1969062710/justel"
 justel_notes:
   - "art. 30bis modifié avec effet à une date indéterminée par L 2022-12-26/01 , art. 49, 088; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 24-01-1985 et mise à jour au 02-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 1969. - Loi révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs

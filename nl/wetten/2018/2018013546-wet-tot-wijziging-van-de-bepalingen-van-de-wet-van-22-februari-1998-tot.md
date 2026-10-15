@@ -10,7 +10,7 @@ date: 2018-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/09/05/2018013546/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 SEPTEMBER 2018. - Wet tot wijziging van de bepalingen van de wet van 22 februari 1998 tot vaststelling van het organiek statuut van de Nationale Bank van België en van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten betreffende het beroep dat kan worden ingesteld tegen bepaalde beslissingen van de FSMA en van de NBB inzake financiële instrumenten en centrale effectenbewaarinstellingen

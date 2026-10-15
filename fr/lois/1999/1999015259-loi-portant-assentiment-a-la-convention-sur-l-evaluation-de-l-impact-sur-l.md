@@ -12,7 +12,7 @@ entry_into_force: 2000-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/09/1999015259/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 1999. - Loi portant assentiment à la Convention sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière, et aux Appendices I, II, III, IV, V, VI et VII, faits à Espoo le 25 février 1991.

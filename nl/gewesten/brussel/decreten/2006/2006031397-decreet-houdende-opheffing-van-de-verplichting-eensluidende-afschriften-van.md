@@ -13,7 +13,7 @@ entry_into_force: 2006-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/01/2006031397/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2006. - Decreet houdende opheffing van de verplichting eensluidende afschriften van documenten voor te leggen (VERTALING).

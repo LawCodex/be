@@ -12,7 +12,7 @@ entry_into_force: 2009-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/02/18/2009015028/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 2009. - Loi portant assentiment au Deuxième Protocole additionnel à la Convention européenne d'entraide judiciaire en matière pénale, fait à Strasbourg le 8 novembre 2001

@@ -17,7 +17,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "art. 51 gewijzigd met ingang op een onbepaalde datum bij <DVR 2008-12-19/33 , art. 277, 2°, b) ; Inwerkingtreding : onbepaald >"
   - "Raadpleging van vroegere versies vanaf 30-08-2006 en tekstbijwerking tot 24-12-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2006. - Decreet tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn.

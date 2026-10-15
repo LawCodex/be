@@ -12,7 +12,7 @@ entry_into_force: 2010-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/04/18/2010009469/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2010. - Loi modifiant le Code civil en ce qui concerne l'autorisation pour une constitution de partie civile dans le cadre de la tutelle

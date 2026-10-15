@@ -13,7 +13,7 @@ entry_into_force: 2008-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/06/2008202167/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2008. - Décret portant modification du décret du 4 février 1997 portant les normes de qualité et de sécurité pour chambres et chambres d'étudiants en vue du logement temporaire de travailleurs saisonniers. (Traduction)

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/19/2014011298/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 12-06-2014 et mise à jour au 30-10-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2014. - Loi portant insertion du Livre XI "Propriété intellectuelle" dans le Code de droit économique, et portant insertion des dispositions propres au Livre XI dans les Livres I, XV et XVII du même Code

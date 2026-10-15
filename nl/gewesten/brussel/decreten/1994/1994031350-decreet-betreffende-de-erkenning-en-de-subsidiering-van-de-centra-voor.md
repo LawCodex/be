@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/07/16/1994031350/justel"
 department: "Franse Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 27-04-2005 en tekstbijwerking tot 08-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 1994. - Decreet betreffende de erkenning en de subsidiëring van de centra voor gezinsplanning. &lt;VERTALING&gt; .

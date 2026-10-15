@@ -12,7 +12,7 @@ entry_into_force: 2003-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/10/22/2003029549/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2003. - Decreet betreffende de erkenning van de gebarentaal (VERTALING).

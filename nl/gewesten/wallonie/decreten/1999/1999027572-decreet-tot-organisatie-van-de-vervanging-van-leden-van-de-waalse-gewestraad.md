@@ -13,7 +13,7 @@ entry_into_force: 1999-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/07/12/1999027572/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 1999. - Decreet tot organisatie van de vervanging van leden van de Waalse Gewestraad die door de Koning tot federale Minister of Staatssecretaris worden benoemd (VERTALING).

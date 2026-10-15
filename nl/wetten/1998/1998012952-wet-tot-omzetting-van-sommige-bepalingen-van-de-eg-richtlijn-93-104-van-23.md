@@ -12,7 +12,7 @@ entry_into_force: 1998-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/04/1998012952/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 1998. - Wet tot omzetting van sommige bepalingen van de EG-richtlijn 93/104 van 23 november 1993 betreffende een aantal aspecten van de organisatie van de arbeidstijd.

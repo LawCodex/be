@@ -13,7 +13,7 @@ entry_into_force: 2014-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/25/2014203225/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Decreet houdende instemming met het akkoord over het wegvervoer tussen de Belgische Regering en de Macedonische Regering, ondertekend in Skopje op 10 september 1998

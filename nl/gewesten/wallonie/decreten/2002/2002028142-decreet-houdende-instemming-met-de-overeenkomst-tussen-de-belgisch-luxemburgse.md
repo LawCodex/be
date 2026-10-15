@@ -13,7 +13,7 @@ entry_into_force: 2002-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/13/2002028142/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2002. - Decreet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Kroatië, inzake de wederzijdse bevordering en bescherming van investeringen, opgemaakt te Brussel op 31 oktober 2001 (VERTALING).

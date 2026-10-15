@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/06/23/2017012969/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2017. - Ordonnance portant assentiment à l'Accord entre le Royaume de Belgique et les Bermudes en vue de l'échange de renseignements en matière fiscale, fait à Bruxelles le 11 avril 2013 et à Hamilton le 23 mai 2013

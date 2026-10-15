@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/12/19/2014031047/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2013. - Ordonnantie tot wijziging van de ordonnantie van 27 april 1995 betreffende de taxidiensten en de diensten voor het verhuren van voertuigen met chauffeur

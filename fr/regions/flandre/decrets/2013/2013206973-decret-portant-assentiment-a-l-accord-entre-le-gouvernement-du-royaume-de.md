@@ -13,7 +13,7 @@ entry_into_force: 2014-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/29/2013206973/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2013. - Décret portant assentiment à l'accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République française pour le développement de la coopération et de l'entraide administrative en matière de sécurité sociale, signé à Paris le 17 novembre 2008

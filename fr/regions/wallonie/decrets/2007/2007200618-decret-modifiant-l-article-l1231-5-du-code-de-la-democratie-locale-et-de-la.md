@@ -13,7 +13,7 @@ entry_into_force: 2007-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/02/15/2007200618/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2007. - Décret modifiant l'article L1231-5 du Code de la démocratie locale et de la décentralisation.

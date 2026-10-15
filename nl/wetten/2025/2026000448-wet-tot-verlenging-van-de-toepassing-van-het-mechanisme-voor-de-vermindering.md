@@ -12,7 +12,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/12/16/2026000448/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2025. - Wet tot verlenging van de toepassing van het mechanisme voor de vermindering van de retributie voor het gebruik van de spoorweginfrastructuur ten voordele van het goederenvervoer per spoor, zoals vastgesteld in titel 6 van de programmawet van 27 december 2021

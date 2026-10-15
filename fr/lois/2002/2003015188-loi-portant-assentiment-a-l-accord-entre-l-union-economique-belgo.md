@@ -12,7 +12,7 @@ entry_into_force: 2004-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/24/2003015188/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 2002. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement du Burkina Faso concernant l'encouragement et la protection réciproques des investissements, signé à Bruxelles le 18 mai 2001.

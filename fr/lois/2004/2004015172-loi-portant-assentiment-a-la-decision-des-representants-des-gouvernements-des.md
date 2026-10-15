@@ -12,7 +12,7 @@ entry_into_force: 2004-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/13/2004015172/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2004. - Loi portant assentiment à la Décision des représentants des Gouvernements des Etats membres de l'Union européenne, réunis au sein du Conseil, concernant les privilèges et immunités accordés à l'Institut d'études de sécurité et au Centre satellitaire de l'Union européenne, ainsi qu'à leurs organes et aux membres de leur personnel, faite à Bruxelles le 15 octobre 2001.

@@ -13,7 +13,7 @@ entry_into_force: 2003-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/21/2003031034/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2002. - Decreet houdende instemming door de Vergadering van de Franse Gemeenschapscommissie met de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en het Hasjemitisch Koninkrijk Jordanië, anderzijds, en met de Slotakte (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2003-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/27/2003012112/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2003. - Wet tot wijziging van de wet van 16 december 2002 tot oprichting van het Instituut voor de gelijkheid van vrouwen en mannen.

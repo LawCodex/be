@@ -12,7 +12,7 @@ entry_into_force: 2010-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/01/21/2010003056/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JANVIER 2010. - Loi portant approbation des modifications des statuts de la Banque internationale pour la reconstruction et le développement par la résolution 596 du 30 janvier 2009 du Conseil des gouverneurs de la Banque internationale pour la reconstruction et le développement en vue de renforcer la voix et la participation des pays en développement et des pays en transition au sein de la Banque internationale pour la reconstruction et le développement

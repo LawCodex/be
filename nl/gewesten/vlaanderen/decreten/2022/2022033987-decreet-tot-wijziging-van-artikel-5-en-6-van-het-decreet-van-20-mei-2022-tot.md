@@ -12,7 +12,7 @@ published: 2022-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/10/21/2022033987/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OKTOBER 2022. - Decreet tot wijziging van artikel 5 en 6 van het decreet van 20 mei 2022 tot regeling van de toekenning van een jobbonus

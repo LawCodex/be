@@ -12,7 +12,7 @@ entry_into_force: 2000-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/08/12/2000000703/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AOUT 2000. - Loi modifiant l'article 73 de la nouvelle loi communale.

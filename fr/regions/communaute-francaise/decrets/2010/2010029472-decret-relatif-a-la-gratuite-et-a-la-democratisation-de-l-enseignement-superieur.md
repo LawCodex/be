@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/19/2010029472/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 31-08-2010 et mise à jour au 09-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2010. - Décret relatif à la gratuité et à la démocratisation de l'enseignement supérieur

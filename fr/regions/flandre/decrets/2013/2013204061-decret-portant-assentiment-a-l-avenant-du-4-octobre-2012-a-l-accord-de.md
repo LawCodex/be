@@ -13,7 +13,7 @@ entry_into_force: 2013-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/21/2013204061/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2013. - Décret portant assentiment à l'avenant du 4 octobre 2012 à l'Accord de Coopération du 30 mai 2005 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale et la Communauté germanophone concernant l'Economie plurielle

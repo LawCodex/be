@@ -12,7 +12,7 @@ published: 2019-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/03/06/2019030196/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2019. - Ordonnantie tot wijziging van artikel 191 van de Brusselse Huisvestingscode

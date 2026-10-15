@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/03/09/2017201708/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 03-04-2017 et mise à jour au 17-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2017. - Décret relatif au prix d'hébergement et au financement de certains appareillages des services médico-techniques lourds en hôpital

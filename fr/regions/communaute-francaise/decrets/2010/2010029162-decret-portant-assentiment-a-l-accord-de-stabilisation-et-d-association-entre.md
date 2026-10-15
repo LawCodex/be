@@ -13,7 +13,7 @@ entry_into_force: 2010-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/01/29/2010029162/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2010. - Décret portant assentiment à l'Accord de Stabilisation et d'Association entre les Communautés européennes et leurs Etats membres, d'une part, et la Bosnie-et-Herzégovine, d'autre part, et l'Acte final, faits à Luxembourg, le 16 juin 2008

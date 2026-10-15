@@ -12,7 +12,7 @@ entry_into_force: 2012-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/12/02/2011206365/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2011. - [Wet tot wijziging van de wet betreffende de politie over het wegverkeer, gecoördineerd op 16 maart 1968, wat de termijnen voor herhaling van verkeersmisdrijven betreft] (ERRATUM, zie B.St. 02-02-2012, p. 7976)

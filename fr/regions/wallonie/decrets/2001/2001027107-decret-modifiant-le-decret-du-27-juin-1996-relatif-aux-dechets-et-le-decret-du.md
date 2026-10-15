@@ -13,7 +13,7 @@ entry_into_force: 2001-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/02/15/2001027107/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2001. - Décret modifiant le décret du 27 juin 1996 relatif aux déchets et le décret du 11 mars 1999 relatif au permis d'environnement.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017020491/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 09-08-2017 et mise à jour au 06-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2017. - Décret relatif au travail de proximité et à diverses dispositions dans le cadre de la sixième réforme de l'Etat

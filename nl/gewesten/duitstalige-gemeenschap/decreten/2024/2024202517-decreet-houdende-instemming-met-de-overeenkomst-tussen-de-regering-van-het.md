@@ -13,7 +13,7 @@ entry_into_force: 2024-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/22/2024202517/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2024. - Decreet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Staat Qatar tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, gedaan te Doha op 6 november 2007, en houdende instemming met het Protocol, gedaan te Doha op 22 maart 2015, tot wijziging van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Staat Qatar tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Doha op 6 november 2007

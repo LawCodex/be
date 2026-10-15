@@ -12,7 +12,7 @@ entry_into_force: 1994-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/06/14/1994000362/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 1994. - Loi portant sixième ajustement du budget général des dépenses de l'année budgétaire 1993.

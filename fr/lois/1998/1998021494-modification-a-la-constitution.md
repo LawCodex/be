@@ -12,7 +12,7 @@ entry_into_force: 1998-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/11/1998021494/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 1998. - Modification à la Constitution.

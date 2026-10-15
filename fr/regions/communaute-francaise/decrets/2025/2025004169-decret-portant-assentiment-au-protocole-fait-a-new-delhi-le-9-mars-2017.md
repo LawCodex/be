@@ -13,7 +13,7 @@ entry_into_force: 2025-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/05/22/2025004169/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2025. - Décret portant assentiment au protocole, fait à New Delhi le 9 mars 2017, modifiant la Convention et le protocole entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de l'Inde tendant à éviter la Double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu signés à Bruxelles le 26 avril 1993

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/25/2017010166/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 25-01-2017 et mise à jour au 23-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2016. - Loi relative au traitement des données des passagers

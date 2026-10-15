@@ -11,7 +11,7 @@ published: 2008-10-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/10/15/2008003425/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 OKTOBER 2008. - Wet houdende maatregelen ter bevordering van de financiële stabiliteit en inzonderheid tot instelling van een staatsgarantie voor verstrekte kredieten en andere verrichtingen in het kader van de financiële stabiliteit.

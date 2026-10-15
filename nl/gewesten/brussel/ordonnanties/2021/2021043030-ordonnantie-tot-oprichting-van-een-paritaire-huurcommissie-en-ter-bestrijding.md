@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/10/28/2021043030/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 22-11-2021 en tekstbijwerking tot 30-04-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2021. - Ordonnantie tot oprichting van een paritaire huurcommissie en ter bestrijding van buitensporige huurprijzen

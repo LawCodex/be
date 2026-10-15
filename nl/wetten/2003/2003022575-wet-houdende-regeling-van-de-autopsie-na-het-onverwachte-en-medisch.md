@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/26/2003022575/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 22-05-2003 en tekstbijwerking tot 14-06-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2003. - Wet houdende regeling van de autopsie na het onverwachte en medisch onverklaarde overlijden van een kind van minder dan achttien maanden. (NOTA 1 : art. 5 gewijzigd met inwerkingtredingdatum vastgesteld op 01-06-2014 bij W 2013-03-17/14 , art. 219&gt;

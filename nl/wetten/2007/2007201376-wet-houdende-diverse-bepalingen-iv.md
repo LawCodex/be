@@ -16,7 +16,7 @@ department: "Kanselarij van de Eerste Minister"
 justel_notes:
   - "bij arrest nr 7/2011 van 27-01-2011 (B.St. 11-03-2011, p. 15987-15991), heeft het Grondwettelijk Hof de artikelen 173, 3° en 4°, 200, 202 en 203 vernietigd"
   - "Raadpleging van vroegere versies vanaf 08-05-2007 en tekstbijwerking tot 29-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2007. - Wet houdende diverse bepalingen (IV).

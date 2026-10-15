@@ -12,7 +12,7 @@ entry_into_force: 2023-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/16/2022043186/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 2022. - Wet tot wijziging van de wet van 2 mei 2019 betreffende de bij de Kamer van volksvertegenwoordigers ingediende verzoekschriften, teneinde de in het buitenland verblijvende Belgen de mogelijkheid te bieden om een verzoekschrift te steunen

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/16/2024006838/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 02-08-2024 et mise à jour au 04-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Décret portant diverses mesures relatives à l'enseignement et à la lutte contre la pénurie d'enseignants

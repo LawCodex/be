@@ -12,7 +12,7 @@ entry_into_force: 2002-09-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/01/30/2002015045/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 2002. - Loi portant assentiment à la Convention entre la Communauté européenne et ses Etats membres, d'une part, et la Confédération suisse, d'autre part, sur la libre circulation des personnes, faite à Luxembourg le 21 juin 1999.

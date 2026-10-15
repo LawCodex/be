@@ -11,7 +11,7 @@ date: 1998-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/07/1998035921/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 1998. - Decreet houdende aanpassing van de Middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 1998.

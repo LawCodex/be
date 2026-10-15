@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/12/21/2019040083/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 18-01-2019 et mise à jour au 19-05-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2018. - Ordonnance contenant le Budget des Voies et Moyens de la Région de Bruxelles-Capitale pour l'année budgétaire 2019

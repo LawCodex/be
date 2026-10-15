@@ -13,7 +13,7 @@ entry_into_force: 2024-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/02/15/2024001712/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2024. - Decreet houdende bekrachtiging van het besluit van de Regering van Franse Gemeenschap van 1 juni 2023 tot wijziging van het besluit van de Regering van de Franse Gemeenschap van 5 juni 2014 betreffende de ambten, bekwaamheidsbewijzen en barema's tot uitvoering van de artikelen 7, 16, 50 en 263 van het decreet van 11 april 2014 tot regeling van de bekwaamheidsbewijzen en ambten in het door de Franse Gemeenschap georganiseerde of gesubsidieerde basis- en secundair onderwijs en van het besluit van de Regering van Franse Gemeenschap van 1 juni 2023 tot wijziging van het besluit van de Regering van de Franse Gemeenschap van 5 juni 2014 betreffende de verbindingen cursus/ambt genomen ter uitvoering van artikel 10 van het decreet van 11 april 2014 tot regeling van de bekwaamheidsbewijzen en ambten in het door de Franse Gemeenschap georganiseerde en gesubsidieerde basis- en secundair onderwijs en houdende wijziging van het besluit van de Regering van Franse Gemeenschap van 1 juni 2023 tot wijziging van het besluit van de Regering van de Franse Gemeenschap van 5 juni 2014 betreffende de ambten, bekwaamheidsbewijzen en barema's tot uitvoering van de artikelen 7, 16, 50 en 263 van het decreet van 11 april 2014 tot regeling van de bekwaamheidsbewijzen en ambten in het door de Franse Gemeenschap georganiseerde of gesubsidieerde basis- en secundair onderwijs

@@ -12,7 +12,7 @@ entry_into_force: 1997-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/06/10/1997009598/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 1997. - Loi octroyant la qualité d'officier de police judiciaire aux fonctionnaires des administrations fiscales mis à la disposition du procureur du Roi et de l'auditeur du travail.

@@ -14,7 +14,7 @@ end_of_validity: 2026-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/17/2025009819/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2025. - Décret contenant le budget des recettes de la Communauté française pour l'année budgétaire 2026

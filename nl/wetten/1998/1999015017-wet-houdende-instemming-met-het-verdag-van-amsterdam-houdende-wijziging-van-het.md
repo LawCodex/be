@@ -12,7 +12,7 @@ entry_into_force: 1999-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/08/10/1999015017/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1998. - Wet houdende instemming met het verdag van Amsterdam houdende wijziging van het verdrag betreffende de Europese Unie, de verdragen tot oprichting van de Europese Gemeenschappen en sommige bijhorende akten, Bijlage, Protocollen A, B, C en D, en slotakte, gedaan te Amsterdam op 2 oktober 1997.

@@ -13,7 +13,7 @@ entry_into_force: 1991-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1990/11/29/1991027042/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 1990. - Decreet houdende wijziging van de wet van 10 maart 1925 op de electriciteitsvoorziening.

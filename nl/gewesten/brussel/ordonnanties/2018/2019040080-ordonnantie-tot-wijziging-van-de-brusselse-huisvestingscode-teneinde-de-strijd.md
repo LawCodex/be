@@ -12,7 +12,7 @@ published: 2019-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/12/21/2019040080/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2018. - Ordonnantie tot wijziging van de Brusselse Huisvestingscode teneinde de strijd tegen discriminatie bij de toegang tot huisvesting te versterken

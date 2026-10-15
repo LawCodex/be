@@ -13,7 +13,7 @@ entry_into_force: 2018-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/02/26/2018201698/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2018. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et les Iles Caïmans en vue de l'échange de renseignements en matière fiscale, fait à George Town, Grand Cayman, le 24 avril 2014'TITEL'

@@ -15,7 +15,7 @@ department: "Economie, PME, Classes moyennes et Energie"
 justel_notes:
   - "En vigueur : 01-01-2015, voir AR 2014-04-19/61 , art. 1). En ce qui concerne l'ED du présent texte : se référer à l'arrêt du CE"
   - "Consultation des versions antérieures à partir du 16-02-2011 et mise à jour au 29-12-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2011. - Loi d'exécution du Traité sur le droit des brevets d'invention et de l'Acte portant révision de la Convention sur la délivrance de brevets européens, et portant modification de diverses dispositions en matière de brevets d'invention

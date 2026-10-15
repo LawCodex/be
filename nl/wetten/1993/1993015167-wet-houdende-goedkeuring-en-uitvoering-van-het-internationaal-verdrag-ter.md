@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/08/06/1993015167/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
 justel_note: "Raadpleging van vroegere versies vanaf 16-03-1999 en tekstbijwerking tot 01-08-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AUGUSTUS 1993. - [Wet houdende goedkeuring en uitvoering van het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie, opgemaakt te Brussel op 18 december 1971, en houdende uitvoering van de Protocollen bij dit Verdrag, opgemaakt te Londen op 27 november 1992 en 16 mei 2003.] &lt;W 2005-10-06/35, art.3, 003; Inwerkingtreding : 14-06-2006&gt; -

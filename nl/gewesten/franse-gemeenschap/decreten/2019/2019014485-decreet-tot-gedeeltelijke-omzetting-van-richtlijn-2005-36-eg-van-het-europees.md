@@ -11,7 +11,7 @@ date: 2019-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/14/2019014485/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2019. - Decreet tot gedeeltelijke omzetting van richtlijn 2005/36/EG van het Europees Parlement en van de Raad van de Europese Unie van 7 september 2005 betreffende de erkenning van beroepskwalificaties, gewijzigd door richtlijn 2013/55/ UE van het Europees Parlement en de Raad van 20 november 2013

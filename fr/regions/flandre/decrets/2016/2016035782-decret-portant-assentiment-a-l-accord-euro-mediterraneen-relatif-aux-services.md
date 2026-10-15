@@ -13,7 +13,7 @@ entry_into_force: 2016-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/04/22/2016035782/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2016. - Décret portant assentiment à l'accord euro-méditerranéen relatif aux services aériens entre l'Union européenne, d'une part, et le Gouvernement de l'Etat d'Israël, d'autre part, signé au Luxembourg le 10 juin 2013

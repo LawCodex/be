@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/09/13/2018014153/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 09-10-2018 en tekstbijwerking tot 22-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 SEPTEMBER 2018. - Decreet tot oprichting van de Algemene sturingsdienst voor de scholen en psycho-medisch-sociale centra en tot bepaling van het statuut van de zonedirecteurs en afgevaardigden voor de doelstellingenovereenkomst

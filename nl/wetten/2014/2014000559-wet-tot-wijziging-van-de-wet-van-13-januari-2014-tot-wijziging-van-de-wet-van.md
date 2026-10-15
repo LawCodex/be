@@ -12,7 +12,7 @@ entry_into_force: 2014-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/12/2014000559/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2014. - Wet tot wijziging van de wet van 13 januari 2014 tot wijziging van de wet van 10 april 1990 tot regeling van de private en bijzondere veiligheid

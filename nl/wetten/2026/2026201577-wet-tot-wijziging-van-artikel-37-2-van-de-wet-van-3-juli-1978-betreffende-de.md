@@ -12,7 +12,7 @@ entry_into_force: 2026-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/06/03/2026201577/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2026. - Wet tot wijziging van artikel 37/2 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten, wat de opzeggingstermijnen betreft wanneer de werknemer niet meer dan zes maanden anciënniteit telt

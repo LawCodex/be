@@ -12,7 +12,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/12/21/2007023604/justel"
 department: "Sécurité sociale - Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2007. - Loi modifiant la loi du 26 mars 2007 portant des dispositions diverses en vue de la réalisation de l'intégration des petits risques dans l'assurance obligatoire soins de santé pour les travailleurs indépendants.

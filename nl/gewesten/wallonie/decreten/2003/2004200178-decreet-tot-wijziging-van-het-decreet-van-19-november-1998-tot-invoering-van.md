@@ -13,7 +13,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/04/2004200178/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2003. - Decreet tot wijziging van het decreet van 19 november 1998 tot invoering van een belasting op de verlaten woningen in het Waalse Gewest. (Vertaling).

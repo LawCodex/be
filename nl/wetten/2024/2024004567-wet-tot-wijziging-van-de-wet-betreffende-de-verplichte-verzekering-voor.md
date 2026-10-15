@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/12/2024004567/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 21-05-2024 en tekstbijwerking tot 11-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2024. - Wet tot wijziging van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, wat betreft de vernieuwing van terugbetalingsprocedures met het oog op snelle en duurzame toegang tot geneesmiddelen

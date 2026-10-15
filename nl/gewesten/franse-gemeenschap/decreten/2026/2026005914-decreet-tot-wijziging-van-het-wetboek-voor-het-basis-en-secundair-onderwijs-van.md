@@ -13,7 +13,7 @@ entry_into_force: 2026-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/17/2026005914/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2026. - Decreet tot wijziging van het Wetboek voor het basis- en secundair onderwijs, van het decreet van 31 maart 2022 tot aanlegging van het begeleidingsdossier voor de leerling (DAccE), en van het decreet van 16 mei 2024 betreffende de vermindering van de schooluitval en tot bestrijding van het schoolverzuim van leerlingen

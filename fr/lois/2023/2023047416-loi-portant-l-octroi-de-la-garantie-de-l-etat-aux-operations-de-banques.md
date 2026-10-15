@@ -12,7 +12,7 @@ entry_into_force: 2023-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/11/27/2023047416/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2023. - Loi portant l'octroi de la garantie de l'Etat aux opérations de banques multilatérales de développement et d'investissement

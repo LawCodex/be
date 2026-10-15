@@ -12,7 +12,7 @@ entry_into_force: 2005-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/03/16/2006000204/justel"
 department: "Justitie - Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2006. - Wet tot wijziging van bepaalde basisregels van de evaluatie van de personeelsleden van de politiediensten.

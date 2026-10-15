@@ -12,7 +12,7 @@ entry_into_force: 2015-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/04/28/2015003178/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2015. - Loi modifiant le Code des droits d'enregistrement, d'hypothèque et de greffe en vue de réformer les droits de greffe

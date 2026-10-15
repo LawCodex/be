@@ -13,7 +13,7 @@ entry_into_force: 2002-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/17/2002029388/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2002. - Décret relatif à l'inscription régulière des élèves de l'enseignement fondamental ordinaire et modifiant le décret du 13 juillet 1998 portant organisation de l'enseignement maternel et primaire ordinaire et modifiant la réglementation de l'enseignement.

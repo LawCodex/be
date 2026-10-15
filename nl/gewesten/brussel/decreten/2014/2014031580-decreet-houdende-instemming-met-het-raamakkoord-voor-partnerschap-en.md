@@ -13,7 +13,7 @@ entry_into_force: 2015-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/05/08/2014031580/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2014. - Decreet houdende instemming met het raamakkoord voor partnerschap en samenwerking tussen de Europese Unie en haar Lidstaten enerzijds en Mongolië anderzijds, opgemaakt te Ulaanbaatar op 30 april 2013

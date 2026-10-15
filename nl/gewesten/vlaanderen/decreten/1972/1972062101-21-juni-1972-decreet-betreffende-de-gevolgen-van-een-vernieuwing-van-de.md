@@ -12,7 +12,7 @@ published: 1972-06-29
 entry_into_force: 1972-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1972/06/21/1972062101/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 1972. Decreet betreffende de gevolgen van een vernieuwing van de cultuurraad voor de Nederlandse cultuurgemeenschap ten aanzien van de bij de cultuurraad aanhangige ontwerpen en voorstellen van decreet (Staatsbl., 29 juni 1972).

@@ -12,7 +12,7 @@ published: 2003-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/11/19/2003029613/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2003. - Décret portant assentiment à l'accord de coopération entre la Communauté française et la Région wallonne en matière de soutien à l'intégration scolaire pour les jeunes en situation de handicap.

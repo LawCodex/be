@@ -13,7 +13,7 @@ last_amended: 2024-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1969/02/18/1969021803/justel"
 justel_note: "Consultation des versions antérieures à partir du 24-09-1987 et mise à jour au 01-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 1969. - [Loi relative aux mesures d'exécution des traités et actes internationaux en matière de transport par mer, par route, par chemin de fer ou par voie navigable.] (intitulé remplacé par L 2006-05-15/38, art. 2, 005; En vigueur : 18-06-2006)

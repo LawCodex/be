@@ -12,7 +12,7 @@ entry_into_force: 2012-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/19/2012204201/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2012. - Loi spéciale modifiant l'article 16bis de la loi spéciale du 8 août 1980 de réformes institutionnelles et l'article 5bis de la loi spéciale du 12 janvier 1989 relative aux Institutions bruxelloises

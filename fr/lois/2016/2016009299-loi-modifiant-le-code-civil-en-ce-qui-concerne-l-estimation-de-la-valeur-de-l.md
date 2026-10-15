@@ -12,7 +12,7 @@ entry_into_force: 2016-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/06/19/2016009299/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2016. - Loi modifiant le Code civil en ce qui concerne l'estimation de la valeur de l'usufruit

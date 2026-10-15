@@ -12,7 +12,7 @@ entry_into_force: 2023-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/11/21/2023047868/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2023. - Wet tot wijziging van de wet van 11 april 2003 tot instelling van een vrijwillige dienst van collectief nut

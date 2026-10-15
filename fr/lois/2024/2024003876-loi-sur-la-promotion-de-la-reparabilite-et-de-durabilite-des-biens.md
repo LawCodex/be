@@ -12,7 +12,7 @@ entry_into_force: 2025-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/17/2024003876/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2024. - Loi sur la promotion de la réparabilité et de durabilité des biens

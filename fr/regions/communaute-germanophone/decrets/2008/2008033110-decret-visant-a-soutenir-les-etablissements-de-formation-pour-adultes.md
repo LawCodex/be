@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/17/2008033110/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2008 et mise à jour au 06-06-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2008. - Décret visant à soutenir les établissements de formation pour adultes

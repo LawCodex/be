@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/11/1999035968/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-08-1999 et mise à jour au 08-05-2003"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 1999. - Décret modifiant le décret du 23 janvier 1991 relatif à la protection de l'environnement contre la pollution due aux engrais et modifiant le décret du 28 juin 1985 relatif à l'autorisation écologique. (TRADUCTION).

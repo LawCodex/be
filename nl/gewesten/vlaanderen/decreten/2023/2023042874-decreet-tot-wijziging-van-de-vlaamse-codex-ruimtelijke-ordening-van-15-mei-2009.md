@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/05/26/2023042874/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 27-06-2023 en tekstbijwerking tot 17-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 2023. - Decreet tot wijziging van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, wat de woonreservegebieden betreft

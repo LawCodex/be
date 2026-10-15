@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/18/2015036643/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2015 et mise à jour au 12-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - Décret portant diverses dispositions en matière d'environnement, de nature, d'agriculture et d'énergie

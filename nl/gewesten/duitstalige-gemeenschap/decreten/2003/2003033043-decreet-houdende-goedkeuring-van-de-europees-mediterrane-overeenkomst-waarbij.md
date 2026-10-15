@@ -13,7 +13,7 @@ entry_into_force: 2003-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/04/28/2003033043/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2003. - Decreet houdende goedkeuring van de Europees-Mediterrane overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar Lid-Staten enerzijds, en de Democratische Volksrepubliek Algerije, anderzijds, en Slotakte, gedaan te Valencia op 22 april 2002. (Vertaling).

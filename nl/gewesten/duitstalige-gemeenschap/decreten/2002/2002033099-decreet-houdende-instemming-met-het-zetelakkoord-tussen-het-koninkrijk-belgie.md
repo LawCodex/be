@@ -11,7 +11,7 @@ date: 2002-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/10/07/2002033099/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 OKTOBER 2002. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de West-Afrikaanse Economische en Monetaire Unie, opgemaakt te Brussel op 26 maart 2002 (VERTALING).

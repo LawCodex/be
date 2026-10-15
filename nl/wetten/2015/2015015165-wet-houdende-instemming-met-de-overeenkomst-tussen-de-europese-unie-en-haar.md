@@ -12,7 +12,7 @@ entry_into_force: 2016-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/11/09/2015015165/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBER 2015. - Wet houdende instemming met de Overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en IJsland, anderzijds, betreffende de deelname van IJsland aan de gezamenlijke nakoming van de verbintenissen van de Europese Unie, haar lidstaten en IJsland voor de tweede verbintenisperiode van het Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering, gedaan te Brussel op 1 april 2015

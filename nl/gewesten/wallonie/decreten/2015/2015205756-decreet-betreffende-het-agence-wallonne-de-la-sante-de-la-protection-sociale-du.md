@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/03/2015205756/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 14-12-2015 en tekstbijwerking tot 05-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2015. - Decreet betreffende het "Agence wallonne de la santé, de la protection sociale, du handicap et des familles" (Waals agentschap voor gezondheid, sociale bescherming, handicap en gezinnen)

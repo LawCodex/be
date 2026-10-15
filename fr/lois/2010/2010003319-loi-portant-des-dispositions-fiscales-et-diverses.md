@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/05/19/2010003319/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 28-05-2010 et mise à jour au 31-12-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2010. - Loi portant des dispositions fiscales et diverses

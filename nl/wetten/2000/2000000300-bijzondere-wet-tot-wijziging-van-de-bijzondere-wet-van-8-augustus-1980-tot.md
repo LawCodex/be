@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/03/21/2000000300/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2000. - Bijzondere wet tot wijziging van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.

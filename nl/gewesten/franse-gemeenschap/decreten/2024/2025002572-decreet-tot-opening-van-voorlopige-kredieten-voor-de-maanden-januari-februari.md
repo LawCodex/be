@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/12/16/2025002572/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2024. - Decreet tot opening van voorlopige kredieten voor de maanden januari, februari, maart en april van de Franse Gemeenschapscommissie voor het begrotingsjaar 2025

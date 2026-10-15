@@ -12,7 +12,7 @@ entry_into_force: 1999-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/17/1999003216/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 1999. - Loi portant approbation de la résolution relative à la onzième révision générale des quotes-parts des membres du Fonds monétaire international.

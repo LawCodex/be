@@ -13,7 +13,7 @@ entry_into_force: 2017-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/12/07/2017014285/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2017. - Ordonnance portant assentiment à l'Accord de coopération du 17 juillet 2017 entre la Région de Bruxelles-Capitale, la Région flamande, la Région wallonne et la Communauté germanophone, relatif aux communautés religieuses locales reconnues de cultes reconnus, dont le ressort territorial s'étend sur le territoire de plus d'une entité fédérée

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/15/2013024422/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 20-12-2013 et mise à jour au 13-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2013. - Loi en matière de dispositifs médicaux

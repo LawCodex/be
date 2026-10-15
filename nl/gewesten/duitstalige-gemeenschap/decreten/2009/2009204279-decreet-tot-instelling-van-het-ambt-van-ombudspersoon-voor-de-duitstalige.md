@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/05/26/2009204279/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 07-10-2009 en tekstbijwerking tot 25-04-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 2009. - Decreet tot instelling van het ambt van [ombudspersoon] voor de Duitstalige Gemeenschap (&lt;DDG 2022-02-21/10 , art. 43, 005; Inwerkingtreding : 01-09-2022&gt;

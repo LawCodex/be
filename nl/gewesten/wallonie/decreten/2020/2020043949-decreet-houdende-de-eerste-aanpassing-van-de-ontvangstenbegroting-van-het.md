@@ -13,7 +13,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/15/2020043949/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 OKTOBER 2020. - Decreet houdende de eerste aanpassing van de ontvangstenbegroting van het Waalse Gewest voor het begrotingsjaar 2020

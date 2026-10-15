@@ -13,7 +13,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/05/2013035657/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2013. - Décret portant modification de diverses dispositions du décret du 13 avril 1999 réglant le statut du personnel statutaire et contractuel de l'Orchestre philharmonique de la VRT et du Choeur de la VRT

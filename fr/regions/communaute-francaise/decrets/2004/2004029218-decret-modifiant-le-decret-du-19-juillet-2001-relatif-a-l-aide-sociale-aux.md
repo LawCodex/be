@@ -13,7 +13,7 @@ entry_into_force: 2004-09-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/28/2004029218/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2004. - Décret modifiant le décret du 19 juillet 2001 relatif à l'aide sociale aux détenus en vue de leur réinsertion sociale.

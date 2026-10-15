@@ -13,7 +13,7 @@ entry_into_force: 2021-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/04/15/2021020826/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 APRIL 2021. - Ordonnantie houdende instemming met de overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Democratische Republiek Congo betreffende het luchtvervoer, gedaan te Kinshasa op 2 februari 2013

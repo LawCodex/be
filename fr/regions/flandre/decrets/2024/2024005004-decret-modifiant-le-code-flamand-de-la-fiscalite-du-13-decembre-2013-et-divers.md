@@ -13,7 +13,7 @@ entry_into_force: 2024-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/19/2024005004/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2024. - Décret modifiant le Code flamand de la Fiscalité du 13 décembre 2013 et divers autres décrets, en ce qui concerne la protection des personnes physiques à l'égard du traitement des données à caractère personnel

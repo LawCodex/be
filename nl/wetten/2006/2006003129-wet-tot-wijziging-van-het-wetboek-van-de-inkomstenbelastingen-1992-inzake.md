@@ -12,7 +12,7 @@ entry_into_force: 2006-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/01/31/2006003129/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2006. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992 inzake gelijkstelling van winstbewijzen met gestort kapitaal.

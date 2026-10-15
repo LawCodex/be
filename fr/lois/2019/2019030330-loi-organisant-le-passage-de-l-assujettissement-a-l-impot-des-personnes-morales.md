@@ -12,7 +12,7 @@ entry_into_force: 2019-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/17/2019030330/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2019. - Loi organisant le passage de l'assujettissement à l'impôt des personnes morales à l'assujettissement à l'impôt des sociétés

@@ -12,7 +12,7 @@ entry_into_force: 2005-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/03/14/2005015052/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2005. - Wet houdende instemming met volgende Internationale Akten : 1° Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de zeevaart; 2° Protocol tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van vaste platforms op het continentale plat, gedaan te Rome op 10 maart 1988.

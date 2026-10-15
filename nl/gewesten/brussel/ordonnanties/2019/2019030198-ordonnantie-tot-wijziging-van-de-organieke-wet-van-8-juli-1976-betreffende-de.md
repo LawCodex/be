@@ -13,7 +13,7 @@ entry_into_force: 2019-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/03/14/2019030198/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2019. - Ordonnantie tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn

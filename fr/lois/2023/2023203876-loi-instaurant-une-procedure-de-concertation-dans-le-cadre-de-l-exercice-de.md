@@ -11,7 +11,7 @@ published: 2023-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/18/2023203876/justel"
 department: "Emploi, Travail et Concertation sociale - Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2023. - Loi instaurant une procédure de concertation dans le cadre de l'exercice de prestations techniques par des aidants qualifiés visés à l'article 124, 1°, alinéa 6, de la loi relative à l'exercice des professions des soins de santé, coordonnée le 10 mai 2015

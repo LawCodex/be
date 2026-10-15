@@ -13,7 +13,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/27/2004201826/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2004. - Décret relatif à l'intégration à l'Agence wallonne à l'Exportation des membres du personnel de l'Office belge du Commerce extérieur transférés à la Région.

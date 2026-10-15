@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/07/13/2006022848/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 01-09-2006 en tekstbijwerking tot 02-04-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2006. - Wet houdende diverse bepalingen inzake beroepsziekten en arbeidsongevallen en inzake beroepsherinschakeling.

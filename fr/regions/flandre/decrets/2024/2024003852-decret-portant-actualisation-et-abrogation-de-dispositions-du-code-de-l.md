@@ -13,7 +13,7 @@ entry_into_force: 2024-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/22/2024003852/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2024. - Décret portant actualisation et abrogation de dispositions du Code de l'Enseignement supérieur

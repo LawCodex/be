@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/08/28/1991016144/justel"
 department: "Agriculture - Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 03-03-1998 et mise à jour au 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AOUT 1991. - Loi sur l'exercice de la médecine vétérinaire.

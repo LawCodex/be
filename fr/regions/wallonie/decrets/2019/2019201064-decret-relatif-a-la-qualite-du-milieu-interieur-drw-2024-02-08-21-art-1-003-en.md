@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/01/31/2019201064/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 12-03-2019 et mise à jour au 10-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2019. - Décret relatif à la qualité [ du milieu intérieur] &lt;DRW 2024-02-08/21 , art. 1, 003; En vigueur : 20-05-2024&gt;

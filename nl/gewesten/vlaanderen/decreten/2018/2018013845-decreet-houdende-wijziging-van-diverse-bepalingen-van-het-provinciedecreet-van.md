@@ -12,7 +12,7 @@ entry_into_force: 2018-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/06/2018013845/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2018. - Decreet houdende wijziging van diverse bepalingen van het Provinciedecreet van 9 december 2005

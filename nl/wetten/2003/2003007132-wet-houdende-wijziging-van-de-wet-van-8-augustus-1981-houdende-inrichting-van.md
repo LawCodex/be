@@ -12,7 +12,7 @@ entry_into_force: 2003-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/10/2003007132/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2003. - Wet houdende wijziging van de wet van 8 augustus 1981 houdende inrichting van het Nationaal Instituut voor oorlogsinvaliden, oud-strijders en oorlogsslachtoffers evenals van de Hoge Raad voor oorlogsinvaliden, oud-strijders en oorlogsslachtoffers en houdende inrichting van het Instituut voor veteranen.

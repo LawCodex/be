@@ -12,7 +12,7 @@ entry_into_force: 1995-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/13/1995009479/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 1995. - Wet tot wijziging van artikel 20 van de wet van 26 februari 1947 het statuut regelende van de politieke gevangenen en hun rechthebbenden.

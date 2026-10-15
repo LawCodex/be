@@ -12,7 +12,7 @@ entry_into_force: 1998-11-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/11/1998015133/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 1998. - Loi portant assentiment à l'Accord relatif au statut juridique du Service international de Recherches à Arolsen, fait à Bonn le 15 juillet 1993.

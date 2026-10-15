@@ -12,7 +12,7 @@ entry_into_force: 2010-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/09/10/2009015127/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 SEPTEMBER 2009. - Wet houdende instemming met het Protocol van 1996 tot wijziging van het Verdrag van 1976 inzake beperking van aansprakelijkheid voor maritieme vorderingen, gedaan te Londen op 2 mei 1996

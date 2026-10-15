@@ -12,7 +12,7 @@ entry_into_force: 2022-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/09/27/2019A15125/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 SEPTEMBRE 2012. - Convention de Strasbourg de 2012 sur la limitation de la responsabilité en navigation intérieure (CLNI 2012)

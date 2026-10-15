@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/04/2014035452/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2014. - Décret modifiant l'article 42, § 1er du décret du 20 avril 2001 relatif à l'organisation du transport de personnes par la route

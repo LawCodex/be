@@ -12,7 +12,7 @@ published: 2020-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/06/22/2020203159/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2020. - Décret portant assentiment à l'accord de coopération du 28 décembre 2018 entre l'Etat fédéral, la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone portant sur la collaboration entre services d'Inspection dans le cadre de la Compétence en matière de protestations familiales

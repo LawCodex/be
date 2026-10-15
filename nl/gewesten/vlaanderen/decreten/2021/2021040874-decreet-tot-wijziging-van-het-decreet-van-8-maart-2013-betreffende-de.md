@@ -12,7 +12,7 @@ published: 2021-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/02/26/2021040874/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2021. - Decreet tot wijziging van het decreet van 8 maart 2013 betreffende de organisatie van hulp- en dienstverlening aan gedetineerden, wat betreft de bepalingen over gegevensverwerking en informatie-uitwisseling

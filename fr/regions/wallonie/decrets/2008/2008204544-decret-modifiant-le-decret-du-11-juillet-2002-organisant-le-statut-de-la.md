@@ -13,7 +13,7 @@ entry_into_force: 2008-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/20/2008204544/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2008. - Décret modifiant le décret du 11 juillet 2002 organisant le statut de la Société wallonne de Financement et de Garantie des Petites et Moyennes Entreprises, en abrégé, "SOWALFIN".

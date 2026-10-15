@@ -12,7 +12,7 @@ entry_into_force: 2003-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/01/22/2003003094/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 2003. - Wet houdende tweede aanpassing van de Algemene uitgavenbegroting voor het begrotingsjaar 2002 - Sectie 16 " Landsverdediging ".

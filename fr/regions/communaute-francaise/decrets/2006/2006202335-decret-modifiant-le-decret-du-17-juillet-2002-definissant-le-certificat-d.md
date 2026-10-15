@@ -13,7 +13,7 @@ entry_into_force: 2006-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/02/2006202335/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2006. - Décret modifiant le décret du 17 juillet 2002 définissant le certificat d'aptitude pédagogique approprié à l'enseignement supérieur (CAPAES) en hautes écoles et ses conditions d'obtention.

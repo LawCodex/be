@@ -12,7 +12,7 @@ entry_into_force: 2017-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/08/30/2016003474/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AOUT 2016. - Loi domaniale

@@ -12,7 +12,7 @@ entry_into_force: 2019-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/06/11/2019011028/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2018. - Loi portant assentiment à l'Accord visant la reconnaissance et l'échange des permis de conduire entre le Royaume de Belgique et la Principauté d'Andorre, fait à Bruxelles le 1er avril 2009

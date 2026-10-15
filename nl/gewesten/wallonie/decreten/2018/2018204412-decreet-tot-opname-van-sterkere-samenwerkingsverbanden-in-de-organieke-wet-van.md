@@ -11,7 +11,7 @@ date: 2018-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/19/2018204412/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2018. - Decreet tot opname van sterkere samenwerkingsverbanden in de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn

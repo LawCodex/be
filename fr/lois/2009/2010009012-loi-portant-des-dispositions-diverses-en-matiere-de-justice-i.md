@@ -12,7 +12,7 @@ entry_into_force: 2010-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/12/30/2010009012/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 2009. - Loi portant des dispositions diverses en matière de Justice (I)

@@ -13,7 +13,7 @@ entry_into_force: 2024-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/25/2024203065/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2024. - Décret modifiant le décret du 15 mars 2018 relatif au bail d'habitation et visant à insérer la grille indicative des loyers du logement étudiant

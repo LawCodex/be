@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/02/09/2004033028/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2004. - Décret portant assentiment à la Convention n° 181 sur les agences d'emplois privées, adoptée à Genève le 19 juin 1997 par la Conférence générale de l'Organisation internationale du Travail (TRADUCTION)

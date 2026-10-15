@@ -13,7 +13,7 @@ entry_into_force: 2005-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/11/17/2005203294/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2005. - Décret modifiant les articles 22 et 24bis du décret du 6 mai 1999 relatif à l'Office wallon de la formation professionnelle et de l'emploi, tel que modifié par le décret du 13 mars 2003 et le décret programme du 18 décembre 2003.

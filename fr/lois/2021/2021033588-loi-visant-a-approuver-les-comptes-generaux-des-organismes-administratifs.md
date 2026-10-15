@@ -12,7 +12,7 @@ entry_into_force: 2021-11-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/10/17/2021033588/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 OCTOBRE 2021. - Loi visant à approuver les comptes généraux des organismes administratifs publics à gestion ministérielle et des services administratifs à comptabilité autonome pour l'année 2020

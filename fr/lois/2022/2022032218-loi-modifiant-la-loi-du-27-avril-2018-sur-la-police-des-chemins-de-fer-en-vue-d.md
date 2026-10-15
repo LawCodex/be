@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/05/15/2022032218/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2022. - Loi modifiant la loi du 27 avril 2018 sur la police des chemins de fer en vue d'instaurer une interdiction totale de fumer sur les quais

@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/12/22/2018010200/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2017. - Decreet houdende wijziging van diverse bepalingen van het decreet van 31 januari 2014 betreffende opdracht van de bevoegdheid inzake het voeren van een specifiek grond- en woonbeleid voor Vlaams-Brabant aan de Provincie Vlaams-Brabant, het decreet van 15 juli 1997 houdende de Vlaamse Wooncode en het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid

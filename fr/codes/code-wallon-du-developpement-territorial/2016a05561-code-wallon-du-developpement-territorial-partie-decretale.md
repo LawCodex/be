@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/20/2016A05561/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 14-11-2016 et mise à jour au 13-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2016. - Code wallon du Développement territorial - Partie décrétale

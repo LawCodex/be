@@ -13,7 +13,7 @@ entry_into_force: 2022-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/03/24/2022031948/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2022. - Decreet tot instemming met de wijziging van het Verdrag van 9 september 1996 inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart (CDNI), aangenomen op 22 juni 2017 en tot wijziging van het decreet van 15 juli 2008 houdende instemming met het Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart, gedaan te Straatsburg, op 9 september 1996

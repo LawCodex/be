@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/10/03/2022206360/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 10-11-2022 en tekstbijwerking tot 01-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 OKTOBER 2022. - Wet houdende diverse arbeidsbepalingen

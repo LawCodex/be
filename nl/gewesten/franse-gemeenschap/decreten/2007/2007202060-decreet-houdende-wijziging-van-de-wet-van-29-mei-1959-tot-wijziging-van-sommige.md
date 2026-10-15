@@ -13,7 +13,7 @@ entry_into_force: 2007-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/04/26/2007202060/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2007. - Decreet houdende wijziging van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving (VERTALING).

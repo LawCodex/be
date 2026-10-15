@@ -13,7 +13,7 @@ entry_into_force: 1998-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/02/03/1998035232/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 1998. - Décret instituant un " Dienst voor Taaladvies " (Service de Consultation linguistique) (TRADUCTION).

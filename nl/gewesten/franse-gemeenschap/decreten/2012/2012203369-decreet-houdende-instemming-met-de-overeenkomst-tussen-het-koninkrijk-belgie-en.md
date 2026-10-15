@@ -13,7 +13,7 @@ entry_into_force: 2012-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/19/2012203369/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2012. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en het Groothertogdom Luxemburg tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en het vermogen, en het desbetreffende Slotprotocol, ondertekend te Luxemburg op 17 september 1970, zoals gewijzigd bij het Avenant, ondertekend te Brussel op 11 december 2002, en bij het Avenant, ondertekend te Brussel op 16 juli 2009

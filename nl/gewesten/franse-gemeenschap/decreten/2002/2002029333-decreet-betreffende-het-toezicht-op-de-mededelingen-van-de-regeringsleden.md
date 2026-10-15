@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/06/20/2002029333/justel"
 department: "Franse Gemeenschap"
 justel_note: "Na de aanneming van het voorstel van het decreet DFG 2004-12-21/47, luidt het opschrift van het decreet van 20 juni 2002 voortaan als volgt : \" Decreet betreffende het toezicht op de mededelingen van de voorzitter van het Parlement en van de Regeringsleden \"; zie DFG 2004-12-21/47 , einde artikel 3, N.B."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2002. - Decreet betreffende het toezicht op de mededelingen van de Regeringsleden (VERTALING).

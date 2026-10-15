@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/07/1998021488/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 05-01-1999 en tekstbijwerking tot 22-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 1998. - Wet tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus.

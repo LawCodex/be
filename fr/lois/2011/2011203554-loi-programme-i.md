@@ -12,7 +12,7 @@ entry_into_force: 2011-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/07/04/2011203554/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2011. - Loi-programme (I)

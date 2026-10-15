@@ -13,7 +13,7 @@ entry_into_force: 2002-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/06/20/2002029334/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2002. - Décret autorisant la R.T.B.F. à participer au régime de pensions institué par la loi du 28 avril 1958 relative à la pension des membres du personnel de certains organismes d'intérêt public et leurs ayants droit.

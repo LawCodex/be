@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/12/08/1999035050/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-01-1999 et mise à jour au 28-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 1998. - Décret contenant diverses dispositions dans le cadre du contrôle budgétaire 1998 (TRADUCTION)

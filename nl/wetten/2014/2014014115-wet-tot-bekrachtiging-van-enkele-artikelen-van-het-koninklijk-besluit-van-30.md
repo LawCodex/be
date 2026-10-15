@@ -12,7 +12,7 @@ entry_into_force: 2014-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/24/2014014115/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2014. - Wet tot bekrachtiging van enkele artikelen van het koninklijk besluit van 30 september 2005 tot aanwijzing van de overtredingen per graad van de algemene reglementen genomen ter uitvoering van de wet betreffende de politie over het wegverkeer

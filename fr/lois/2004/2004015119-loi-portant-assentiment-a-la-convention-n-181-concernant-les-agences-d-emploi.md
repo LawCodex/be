@@ -12,7 +12,7 @@ entry_into_force: 2004-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/08/2004015119/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2004. - Loi portant assentiment à la Convention n° 181 concernant les agences d'emploi privées, adoptée à Genève le 19 juin 1997.

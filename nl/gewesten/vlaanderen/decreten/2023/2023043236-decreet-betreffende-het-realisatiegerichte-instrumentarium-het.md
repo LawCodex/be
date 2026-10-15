@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/05/26/2023043236/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 03-07-2023 en tekstbijwerking tot 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 2023. - Decreet betreffende het realisatiegerichte instrumentarium (het Instrumentendecreet van 26 mei 2023)

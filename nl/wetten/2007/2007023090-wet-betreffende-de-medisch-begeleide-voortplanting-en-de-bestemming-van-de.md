@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/07/06/2007023090/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 17-07-2007 en tekstbijwerking tot 17-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2007. - Wet betreffende de medisch begeleide voortplanting en de bestemming van de overtallige embryo's en de gameten.

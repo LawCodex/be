@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/07/05/2000029268/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 18-08-2000 en tekstbijwerking tot 02-08-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2000. - Decreet houdende de regeling inzake verlof en disponibiliteit wegens ziekte of invaliditeit van sommige personeelsleden uit het onderwijs (VERTALING).

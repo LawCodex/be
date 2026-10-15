@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/19/2025009879/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2025. - Programmadecreet houdende verscheidene maatregelen voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet

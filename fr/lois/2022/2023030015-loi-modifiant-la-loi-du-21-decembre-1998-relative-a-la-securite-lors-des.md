@@ -12,7 +12,7 @@ entry_into_force: 2023-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/16/2023030015/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2022. - Loi modifiant la loi du 21 décembre 1998 relative à la sécurité lors des matches de football en vue de prévoir une aggravation de la peine pour l'incitation à la violence commise à l'égard des stewards de football, des responsables de la sécurité ou des services de secours

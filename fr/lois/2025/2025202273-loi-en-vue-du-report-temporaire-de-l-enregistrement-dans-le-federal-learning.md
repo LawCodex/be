@@ -12,7 +12,7 @@ entry_into_force: 2025-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/07/28/2025202273/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUILLET 2025. - Loi en vue du report temporaire de l'enregistrement dans le Federal Learning Account

@@ -12,7 +12,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/03/14/2021030553/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2021. - Loi relative aux délais de paiement pour les cotisations dues à l'Office national de sécurité sociale pour le premier et le deuxième trimestre 2021

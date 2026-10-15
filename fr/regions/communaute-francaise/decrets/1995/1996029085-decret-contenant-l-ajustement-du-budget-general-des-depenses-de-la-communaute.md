@@ -13,7 +13,7 @@ entry_into_force: 1995-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/20/1996029085/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1995. - Décret contenant l'ajustement du budget général des dépenses de la Communauté française de l'année budgétaire 1995.

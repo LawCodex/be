@@ -12,7 +12,7 @@ entry_into_force: 2020-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/12/17/2019031221/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2019. - Loi modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité en ce qui concerne la composition du Conseil disciplinaire de la Commission de régulation de l'électricité et du gaz

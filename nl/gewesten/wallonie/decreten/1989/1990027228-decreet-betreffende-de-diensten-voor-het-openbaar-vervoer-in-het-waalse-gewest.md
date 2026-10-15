@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1989/12/21/1990027228/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 21-11-1991 en tekstbijwerking tot 28-09-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 1989. - Decreet betreffende de diensten voor het openbaar vervoer in het Waalse Gewest. &lt;Vertaling&gt;

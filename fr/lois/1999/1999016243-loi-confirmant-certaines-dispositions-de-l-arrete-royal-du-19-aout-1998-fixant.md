@@ -12,7 +12,7 @@ entry_into_force: 1999-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/01/1999016243/justel"
 department: "Classes Moyennes - Agriculture"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er JUIN 1999. - Loi confirmant certaines dispositions de l'arrêté royal du 19 août 1998 fixant les rétributions et cotisations dues au Fonds budgétaire des matières premières et modifiant l'article 25 de la loi du 13 avril 1995 relative au contrat d'agence commerciale.

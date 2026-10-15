@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/22/2020015883/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 29-10-2020 et mise à jour au 24-12-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2020. - Décret relatif aux aides pour le journalisme d'investigation en Communauté française

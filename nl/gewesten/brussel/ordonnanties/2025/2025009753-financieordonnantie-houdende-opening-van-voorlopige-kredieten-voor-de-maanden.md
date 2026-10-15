@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/12/18/2025009753/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 03-04-2026 en tekstbijwerking tot 03-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2025. - Financieordonnantie houdende opening van voorlopige kredieten voor de maanden januari, februari en maart 2026 op de begroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2026

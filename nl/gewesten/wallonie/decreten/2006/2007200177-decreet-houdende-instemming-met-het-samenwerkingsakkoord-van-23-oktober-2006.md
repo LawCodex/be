@@ -13,7 +13,7 @@ entry_into_force: 2007-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/21/2007200177/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2006. - Decreet houdende instemming met het samenwerkingsakkoord van 23 oktober 2006 tussen het Waalse Gewest en de Franse Gemeenschapscommissie tot wijziging van het decreet van de Franse Gemeenschap van 19 juli 1991 inzake bevordering van het toerisme en tot opheffing van het besluit van de Executieve van de Franse Gemeenschap van 1 oktober 1991 met het oog op het toevertrouwen van zekere opdrachten aan het "Office de Promotion du Tourisme" en op het delegeren van zekere bevoegdheden voor de toepassing van het decreet van 19 juli 1991 inzake bevordering van het toerisme (VERTALING).

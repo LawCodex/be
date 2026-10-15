@@ -13,7 +13,7 @@ entry_into_force: 2022-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/02/2022034598/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2022. - Decreet tot instemming met de overeenkomst tussen het Koninkrijk België en het Groothertogdom Luxemburg inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het personeel van de diplomatieke missies en consulaire posten, ondertekend te Brussel op 17 november 2021

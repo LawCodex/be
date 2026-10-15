@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/05/2009031234/justel"
 department: "Franse Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 08-05-2009 en tekstbijwerking tot 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2009. - Decreet betreffende het aanbod van ambulante diensten in de domeinen van de sociale actie, het gezin en de gezondheid

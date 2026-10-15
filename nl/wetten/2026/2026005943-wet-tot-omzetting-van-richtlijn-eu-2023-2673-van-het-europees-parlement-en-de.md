@@ -12,7 +12,7 @@ entry_into_force: 2026-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/19/2026005943/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2026. - Wet tot omzetting van Richtlijn (EU) 2023/2673 van het Europees Parlement en de Raad van 22 november 2023 tot wijziging van Richtlijn 2011/83/EU wat betreft op afstand gesloten overeenkomsten inzake financiële diensten, en tot intrekking van Richtlijn 2002/65/EG en tot wijziging van het Wetboek van economisch recht en van de wet van 4 april 2014 betreffende de verzekeringen

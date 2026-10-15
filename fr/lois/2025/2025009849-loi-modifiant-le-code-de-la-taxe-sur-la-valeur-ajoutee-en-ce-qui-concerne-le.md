@@ -12,7 +12,7 @@ entry_into_force: 2025-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/12/19/2025009849/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2025. - Loi modifiant le Code de la taxe sur la valeur ajoutée en ce qui concerne le lieu de certaines prestations de services et le régime de la marge bénéficiaire applicable à la livraison d'objets d'art, de collection et d'antiquité

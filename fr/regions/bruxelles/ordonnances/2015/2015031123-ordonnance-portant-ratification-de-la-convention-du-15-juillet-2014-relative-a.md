@@ -13,7 +13,7 @@ entry_into_force: 2015-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/02/26/2015031123/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2015. - Ordonnance portant ratification de la convention du 15 juillet 2014 relative à l'obligation de continuité de paiement, conclue entre la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, le Single Service Provider et le Bailleur de fonds

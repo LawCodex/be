@@ -13,7 +13,7 @@ entry_into_force: 2017-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/02/2017020428/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2017. - Décret portant assentiment à l'accord de coopération du 14 juillet 2016 entre la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone concernant la fixation des facteurs de rattachement déterminant le champ d'application personnel des dispositions légales et règlementaires prises par les entités fédérées ainsi que la budgétisation, l'imputation des prestations familiales payées pour les entités fédérées et la mise en oeuvre effective des dispositions modificatives communes proposées par le Comité de gestion de FAMIFED

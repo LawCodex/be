@@ -12,7 +12,7 @@ entry_into_force: 1995-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/11/24/1995003694/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 1995. - Wet houdende aanpassing van de Algemene Uitgavenbegroting voor het begrotingsjaar 1994 - Sectie 18 - "Financiën".

@@ -12,7 +12,7 @@ entry_into_force: 2016-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/07/12/2015015191/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2015. - Loi portant assentiment à l'Accord entre les Etats membres de l'Union européenne concernant les demandes d'indemnités présentées par un Etat membre à l'encontre d'un autre Etat membre en cas de dommages causés aux biens lui appartenant, qu'il utilise ou qu'il exploite, ou de blessure ou de décès d'un membre du personnel militaire ou civil de ses services dans le cadre d'une opération de gestion de crises menée par l'UE, fait à Bruxelles le 28 avril 2004

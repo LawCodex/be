@@ -12,7 +12,7 @@ entry_into_force: 2004-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/02/02/2004015059/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 FEVRIER 2004. - Loi portant assentiment à l'Accord entre les Etats parties à la Convention portant création d'une Agence spatiale européenne et l'Agence spatiale européenne concernant la protection et l'échange d'informations classifiées, fait à Paris le 19 août 2002.

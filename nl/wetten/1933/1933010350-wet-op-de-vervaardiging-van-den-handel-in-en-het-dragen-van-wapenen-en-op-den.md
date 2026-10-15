@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1933/01/03/1933010350/justel"
 justel_notes:
   - "De wijzigingen in de artikelen 3, 4 en 22 aangebracht bij de wetten 2006-05-18/45 , art. 2, en %%2006-05-18/46, art. 2 tot 5, zijn zonder gevolg, gezien hun datum van inwerkingtreding op 6-07-2006 op een later tijdstip valt dan de datum van inwerkingtreding van hun opheffing, vastgesteld op 9-06-2006, aangebracht bij W 2006-06-08/30 , art. 47"
   - "Raadpleging van vroegere versies vanaf 01-01-1990 en tekstbijwerking tot 09-01-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JANUARI 1933. - Wet op de vervaardiging van den handel in en het dragen van wapenen en op den handel in munitie.

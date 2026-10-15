@@ -13,7 +13,7 @@ entry_into_force: 2011-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/06/16/2011203154/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2011. - Decreet houdende wijziging van het decreet van 30 april 2009 betreffende de informatie, de coördinatie en de organisaties van de werven onder, op of boven de wegen of waterlopen

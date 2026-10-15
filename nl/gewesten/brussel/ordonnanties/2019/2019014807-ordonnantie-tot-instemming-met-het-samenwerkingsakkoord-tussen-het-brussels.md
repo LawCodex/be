@@ -11,7 +11,7 @@ date: 2019-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/05/16/2019014807/justel"
 department: "Brussels Hoofdstedelijk Gewest - Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2019. - Ordonnantie tot instemming met het samenwerkingsakkoord tussen het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschapscommissie voor een sterkere samenwerking op het gebied van statistieken en tot aanwijzing van de gewestelijke statistische autoriteit als statistische autoriteit van de Gemeenschappelijke Gemeenschapscommissie

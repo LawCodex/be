@@ -12,7 +12,7 @@ entry_into_force: 2023-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/28/2023043712/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2023. - Loi portant modification de la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme ou la xénophobie, de la loi du 10 mai 2007 tendant à lutter contre certaines formes de discrimination et de la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes

@@ -13,7 +13,7 @@ entry_into_force: 2021-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/11/2020044431/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2020. - Decreet houdende tweede aanpassing van de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2020

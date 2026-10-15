@@ -11,7 +11,7 @@ published: 1975-01-29
 entry_into_force: 1975-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1974/09/26/1974092601/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 SEPTEMBRE 1974. \_ Loi portant approbation des actes internationaux suivants: 1. Convention instituant l'organisation mondiale de la propriété intellectuelle, faite à Stockholm le 14 juillet 1967; 2. Convention de Paris pour la protection de la propriété industrielle du 20 mars 1883, revisée à Stockholm le 14 juillet 1967; 3. Arrangement de Madrid concernant l'enregistrement international des marques du 14 avril 1891, revisé à Stockholm le 14 juillet 1967; 4. Arrangement de Nice concernant la classification internationale des produits et des services aux fins de l'enregistrement des marques du 15 juin 1957, revisé à Stockholm le 14 juillet 1967; 5. Acte de Stockholm du 14 juillet 1967 complémentaire à l'arrangement de La Haye concernant le dépôt international des dessins et modèles industriels du 6 novembre 1925; 6. Convention de Berne pour la protection des oeuvres littéraires et artistiques du 9 septembre 1886, revisée à Stockholm le 14 juillet 1967.

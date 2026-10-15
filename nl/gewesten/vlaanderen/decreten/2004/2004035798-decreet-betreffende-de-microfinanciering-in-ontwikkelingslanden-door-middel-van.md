@@ -12,7 +12,7 @@ published: 2004-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/02/2004035798/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2004. - Decreet betreffende de microfinanciering in ontwikkelingslanden door middel van waarborgverlening aan ontwikkelingsfondsen.

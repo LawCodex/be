@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/03/23/1989000145/justel"
 department: "Buitenlandse Zaken - Ontwikkelingssamenwerking - Binnenlandse Zaken - Openbaar Ambt"
 justel_note: "Raadpleging van vroegere versies vanaf 20-12-2016 en tekstbijwerking tot 29-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1989. - WET betreffende de verkiezing van het Europese Parlement

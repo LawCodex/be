@@ -13,7 +13,7 @@ entry_into_force: 2015-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/12/11/2015031012/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2014. - Decreet ter wijziging van het decreet van 17 maart 1994 van de Franse Gemeenschapscommissie betreffende de oprichting van het 'Institut bruxellois francophone pour la Formation professionnelle'

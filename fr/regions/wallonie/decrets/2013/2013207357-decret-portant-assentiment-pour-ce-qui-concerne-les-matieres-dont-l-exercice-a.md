@@ -13,7 +13,7 @@ entry_into_force: 2014-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/23/2013207357/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2013. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, à l'accord de coopération du 13 décembre 2013 entre l'Etat fédéral, les Communautés, les Régions et les Commissions communautaires relatif à la mise en oeuvre de l'article 3, § 1er, du Traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire

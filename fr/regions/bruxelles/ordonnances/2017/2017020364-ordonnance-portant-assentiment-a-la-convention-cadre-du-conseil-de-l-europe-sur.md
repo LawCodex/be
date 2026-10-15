@@ -13,7 +13,7 @@ entry_into_force: 2017-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/05/11/2017020364/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2017. - Ordonnance portant assentiment à : la Convention-cadre du Conseil de l'Europe sur la valeur du patrimoine culturel pour la société, faite à Faro le 27 octobre 2005

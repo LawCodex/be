@@ -12,7 +12,7 @@ entry_into_force: 2005-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/12/13/2005009983/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2005. - Loi portant des dispositions diverses relatives aux délais, à la requête contradictoire et à la procédure en règlement collectif de dette.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/09/2021030816/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 12-04-2021 et mise à jour au 02-09-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2020. - Décret contenant le budget des dépenses de la Communaute française pour l'année budgétaire 2021

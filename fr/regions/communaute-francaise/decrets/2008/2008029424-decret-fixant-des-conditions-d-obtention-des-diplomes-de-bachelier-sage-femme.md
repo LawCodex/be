@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/18/2008029424/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 10-09-2008 et mise à jour au 13-05-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2008. - Décret fixant des conditions d'obtention des diplômes de bachelier sage-femme et de [bachelier infirmier responsable de soins généraux], renforçant la mobilité étudiante et portant diverses mesures en matière d'enseignement supérieur. &lt;DCFR 2016-06-30/19 , art. 1, 003; En vigueur : 15-09-2016&gt;

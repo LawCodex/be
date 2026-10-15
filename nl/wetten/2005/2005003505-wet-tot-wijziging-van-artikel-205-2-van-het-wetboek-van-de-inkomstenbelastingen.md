@@ -12,7 +12,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/05/02/2005003505/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2005. - Wet tot wijziging van artikel 205, § 2, van het Wetboek van de inkomstenbelastingen 1992 inzake aftrekken van de belastbare winst.

@@ -11,7 +11,7 @@ published: 1978-11-17
 entry_into_force: 1978-11-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/09/04/1978090423/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBRE 1978. \_ Loi portant approbation du Protocole concernant la protection juridictionnelle des personnes au service du Bureau Benelux des marques et du Bureau Benelux des dessins ou modèles, signé à Bruxelles le 11 mai 1974.

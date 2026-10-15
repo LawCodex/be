@@ -13,7 +13,7 @@ entry_into_force: 2023-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/17/2023047405/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2023. - Décret spécial modifiant le décret spécial du 26 juin 1991 relatif à l'" Universiteit Gent " et à l'" Universitair Centrum Antwerpen ", en ce qui concerne la délégation par le conseil d'administration

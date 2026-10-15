@@ -13,7 +13,7 @@ entry_into_force: 2024-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/14/2024200692/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2023. - Decreet houdende eindregeling van de begroting van de Duitstalige Gemeenschap voor het begrotingsjaar 2022

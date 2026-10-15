@@ -13,7 +13,7 @@ entry_into_force: 2027-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/07/18/2025006320/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2025. - Décret modifiant le décret du 21 novembre 2003 relatif à la politique de santé préventive, en ce qui concerne l'obligation de déclaration, la recherche des sources d'infection et le suivi des contacts dans le cadre des maladies infectieuses, la politique d'immunisation et le traitement des données à caractère personnel dans le cadre des dépistages de population et des initiatives relatives aux facteurs liés aux habitudes de vie

@@ -13,7 +13,7 @@ entry_into_force: 2017-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/01/20/2017020211/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2017. - Décret portant assentiment au protocole d'adhésion du Gouvernement de la Fédération de Russie à la Convention du 16 décembre 1988 relative à la construction et à l'exploitation d'une Installation européenne de rayonnement synchrotron, signée à Grenoble le 23 juin 2014 et à Paris le 15 juillet 2014

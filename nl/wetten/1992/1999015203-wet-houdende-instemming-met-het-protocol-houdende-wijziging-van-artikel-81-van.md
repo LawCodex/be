@@ -12,7 +12,7 @@ entry_into_force: 1999-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1992/08/05/1999015203/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AUGUSTUS 1992. - Wet houdende instemming met het Protocol houdende wijziging van artikel 81 van het Verdrag tot instelling van de Benelux Economische Unie van 3 februari 1958, opgemaakt te Brussel op 16 februari 1990.

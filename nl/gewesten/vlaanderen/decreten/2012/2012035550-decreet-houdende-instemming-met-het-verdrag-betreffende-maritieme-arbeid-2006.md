@@ -13,7 +13,7 @@ entry_into_force: 2012-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/05/04/2012035550/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2012. - Decreet houdende instemming met het Verdrag betreffende maritieme arbeid, 2006, aangenomen door de Internationale Arbeidsconferentie in haar vierennegentigste zitting in Genève op 23 februari 2006

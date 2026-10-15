@@ -13,7 +13,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/12/21/1995122152/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 1995. - Bijlage bij de algemene begroting van de ontvangsten van de Duitstalige Gemeenschap voor het begrotingsjaar 1996.

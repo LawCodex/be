@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/07/20/1990022394/justel"
 department: "Prévoyance Sociale"
 justel_note: "Consultation des versions antérieures à partir du 09-01-1991 et mise à jour au 19-06-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 1990. - Loi instaurant un âge flexible de la retraite pour les travailleurs salariés et adaptant les pensions des travailleurs salariés à l'évolution du bien-être général.

@@ -12,7 +12,7 @@ entry_into_force: 2013-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/04/29/2013003150/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2013. - Loi modifiant le Code des impôts sur les revenus 1992 en vue d'étendre la conciliation fiscale aux demandes de dégrèvement d'office

@@ -13,7 +13,7 @@ entry_into_force: 2008-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/09/2008202563/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2007. - Décret portant assentiment au traité entre la Région flamande et le Royaume des Pays-Bas relatif à la cessation de l'interconnexion des tarifs des droits de pilotage, signé à Middelburg le 21 décembre 2005, au traité entre la Région flamande et le Royaume des Pays-Bas relatif à l'exécution du plan de développement 2010 estuaire de l'Escaut, et aux annexes A, B, C, D et E, signés à Middelburg le 21 décembre 2005, au traité entre la Région flamande et le Royaume des Pays-Bas relatif à la gestion nautique commune dans le bassin de l'Escaut, signé à Middelburg le 21 décembre 2005, au traité entre la Communauté flamande et la Région flamande d'une part et le Royaume des Pays-Bas, d'autre part, relatif à la coopération dans le domaine de la politique et de la gestion dans l'estuaire de l'Escaut, signé à Middelburg le 21 décembre 2005. (TRADUCTION)

@@ -12,7 +12,7 @@ entry_into_force: 1995-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/10/1995000337/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1995. - Loi modifiant l'article 1er de la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour les élections des Chambres fédérales, ainsi qu'au financement et à la comptabilité ouverte des partis politiques.

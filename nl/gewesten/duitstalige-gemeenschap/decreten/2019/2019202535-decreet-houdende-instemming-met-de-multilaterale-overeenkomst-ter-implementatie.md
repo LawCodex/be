@@ -13,7 +13,7 @@ entry_into_force: 2019-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/06/2019202535/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2019. - Decreet houdende instemming met de multilaterale overeenkomst ter implementatie van aan belastingverdragen gerelateerde maatregelen ter voorkoming van grondslaguitholling en winstverschuiving en met de verklarende nota, gedaan te Parijs op 24 november 2016

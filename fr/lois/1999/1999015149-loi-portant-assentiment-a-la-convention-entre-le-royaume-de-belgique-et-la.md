@@ -12,7 +12,7 @@ entry_into_force: 1999-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/09/1999015149/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 1999. - Loi portant assentiment à la Convention entre le Royaume de Belgique et la République socialiste du Vietnam tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et au Protocole, signés à Hanoi le 28 février 1996.

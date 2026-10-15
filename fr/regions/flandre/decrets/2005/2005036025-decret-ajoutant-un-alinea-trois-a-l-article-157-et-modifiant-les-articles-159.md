@@ -12,7 +12,7 @@ published: 2005-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/15/2005036025/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2005. - Décret ajoutant un alinéa trois à l'article 157 et modifiant les articles 159 et 161 des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 4 mars 2005 (TRADUCTION).

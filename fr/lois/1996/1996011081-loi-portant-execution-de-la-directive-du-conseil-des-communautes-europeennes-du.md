@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/03/25/1996011081/justel"
 department: "Affaires économiques"
 justel_note: "Consultation des versions antérieures à partir du 20-01-2014 et mise à jour au 20-01-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 1996. - Loi portant exécution de la directive du Conseil des Communautés européennes du 21 décembre 1988 relative au rapprochement des dispositions législatives, réglementaires et administratives des Etats membres concernant les produits de construction

@@ -13,7 +13,7 @@ entry_into_force: 2018-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/29/2018040461/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2018. - Decreet houdende instemming met het verdrag van de Raad van Europa inzake cinematografische coproductie (herzien), opgemaakt te Rotterdam op 30 januari 2017

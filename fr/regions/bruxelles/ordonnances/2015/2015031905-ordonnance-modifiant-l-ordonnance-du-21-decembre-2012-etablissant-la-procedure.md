@@ -13,7 +13,7 @@ entry_into_force: 2016-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/12/18/2015031905/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - Ordonnance modifiant l'ordonnance du 21 décembre 2012 établissant la procédure fiscale en Région de Bruxelles-Capitale et quelques dispositions procédurales d'autres ordonnances

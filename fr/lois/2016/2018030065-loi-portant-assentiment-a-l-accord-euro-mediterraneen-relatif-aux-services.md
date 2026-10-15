@@ -12,7 +12,7 @@ entry_into_force: 2018-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/02/24/2018030065/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2016. - Loi portant assentiment à l'Accord euro-méditerranéen relatif aux services aériens entre l'Union européenne et ses Etats membres, d'une part, et le Gouvernement de l'Etat d'Israël, d'autre part, fait à Luxembourg le 10 juin 2013

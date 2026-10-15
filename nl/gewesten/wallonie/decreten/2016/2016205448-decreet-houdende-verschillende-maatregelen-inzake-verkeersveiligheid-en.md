@@ -12,7 +12,7 @@ published: 2016-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/10/20/2016205448/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OKTOBER 2016. - Decreet houdende verschillende maatregelen inzake verkeersveiligheid en waterwegen

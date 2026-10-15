@@ -12,7 +12,7 @@ entry_into_force: 1993-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/07/13/1994036004/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 1994. - Decreet tot wijziging van het decreet van 24 juli 1991 houdende de subsidieregeling van verenigingen voor amateuristische kunstbeoefening in het kader van het nederlandstalig sociaal-cultureel vormings- en ontwikkelingswerk.

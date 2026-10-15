@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/05/31/2011011220/justel"
 department: "Justitie - Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 21-06-2011 en tekstbijwerking tot 01-09-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2011. - Wet houdende diverse bepalingen inzake telecommunicatie

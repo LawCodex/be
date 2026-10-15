@@ -12,7 +12,7 @@ entry_into_force: 2004-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/01/11/2002015011/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JANUARI 2002. - Wet houdende instemming met de Overeenkomst over de toepassing van de bepalingen van het Verdrag van de Verenigde Naties inzake het recht van de zee van 10 december 1982 die betrekking hebben op de instandhouding en het beheer van de grensoverschrijdende en de over grote afstanden trekkende visbestanden, en met de Bijlagen I en II, voor ondertekening opengesteld te New York op 4 december 1995.

@@ -13,7 +13,7 @@ entry_into_force: 2012-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/21/2012203659/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2012. - Decreet tot wijziging van het Wetboek van de plaatselijke democratie en de decentralisatie betreffende de controle op de verkiezingsuitgaven aangegaan voor de gemeenteraads-, de provincieraads- en de sectorraadsverkiezingen

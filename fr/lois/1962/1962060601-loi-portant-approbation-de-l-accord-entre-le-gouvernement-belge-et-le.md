@@ -11,7 +11,7 @@ published: 1964-09-26
 entry_into_force: 1964-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1962/06/06/1962060601/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 1962. - Loi portant approbation de l'Accord entre le Gouvernement belge et le Gouvernement de l'Union de Birmanie relatif aux transports aériens et de l'Annexe, signés à Rangoon, le 17 août 1960.

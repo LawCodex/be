@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/02/2016036644/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2016. - Décret modifiant le Décret sur les soins et le logement du 13 mars 2009, pour ce qui est de la prise en charge par les centres de services de soins et de logement de certaines personnes en dehors de la capacité agréée

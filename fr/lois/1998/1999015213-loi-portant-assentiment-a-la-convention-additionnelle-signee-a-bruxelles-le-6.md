@@ -12,7 +12,7 @@ entry_into_force: 2001-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/08/10/1999015213/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1998. - Loi portant assentiment à la Convention additionnelle, signée à Bruxelles le 6 mars 1995, modifiant la Convention entre la Belgique et le Portugal en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu, et le Protocole final, signés à Bruxelles le 16 juillet 1969.

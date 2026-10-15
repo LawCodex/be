@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/06/2016022324/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 28-12-2017 et mise à jour au 16-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2016. - Loi accordant une prime à certains bénéficiaires d'une pension minimum et portant augmentation de certaines pensions minima, dans les régimes des travailleurs salariés et des travailleurs indépendants

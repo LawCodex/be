@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/11/23/2006203939/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 19-12-2008 et mise à jour au 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2006. - Décret relatif à l'accessibilité aux personnes handicapées accompagnées de chiens d'assistance des établissements et installations destinées au public

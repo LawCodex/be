@@ -13,7 +13,7 @@ entry_into_force: 2019-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/04/26/2018202569/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2018. - Decreet betreffende het Waalse Erfgoedwetboek

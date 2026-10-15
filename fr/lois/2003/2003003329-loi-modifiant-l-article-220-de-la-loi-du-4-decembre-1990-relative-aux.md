@@ -12,7 +12,7 @@ entry_into_force: 2003-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/03/2003003329/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2003. - Loi modifiant l'article 220 de la loi du 4 décembre 1990 relative aux opérations financières et aux marchés financiers et l'article 121, § 1er, 1°, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers.

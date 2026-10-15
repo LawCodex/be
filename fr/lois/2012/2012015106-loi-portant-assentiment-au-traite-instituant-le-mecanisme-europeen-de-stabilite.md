@@ -12,7 +12,7 @@ entry_into_force: 2012-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/06/20/2012015106/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2012. - Loi portant assentiment au Traité instituant le Mécanisme européen de Stabilité (MES), signé à Bruxelles le 2 février 2012

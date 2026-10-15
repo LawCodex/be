@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/22/2018040546/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 27-07-2018 en tekstbijwerking tot 14-03-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 2018. - Wet tot wijziging van het Burgerlijk Wetboek en diverse andere bepalingen wat het huwelijksvermogensrecht betreft en tot wijziging van de wet van 31 juli 2017 tot wijziging van het Burgerlijk Wetboek wat de erfenissen en de giften betreft en tot wijziging van diverse bepalingen ter zake

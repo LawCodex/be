@@ -12,7 +12,7 @@ entry_into_force: 2005-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/07/03/2005000427/justel"
 department: "Justitie - Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2005. - Wet tot wijziging van bepaalde aspecten van het statuut van de personeelsleden van de politiediensten en houdende diverse bepalingen met betrekking tot de politiediensten.

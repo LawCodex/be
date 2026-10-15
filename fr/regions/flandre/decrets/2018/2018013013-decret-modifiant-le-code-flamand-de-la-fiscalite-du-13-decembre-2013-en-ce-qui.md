@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/29/2018013013/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2018. - Décret modifiant le Code flamand de la Fiscalité du 13 décembre 2013, en ce qui concerne l'exonération du précompte immobilier des biens immobiliers protégés en tant que monument et donnés en bail emphytéotique par le Gouvernement flamand

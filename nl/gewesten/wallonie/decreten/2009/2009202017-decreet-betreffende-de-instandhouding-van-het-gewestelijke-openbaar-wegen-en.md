@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/19/2009202017/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 08-05-2009 en tekstbijwerking tot 12-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2009. - Decreet betreffende de instandhouding van het gewestelijke openbaar wegen- en waterwegendomein

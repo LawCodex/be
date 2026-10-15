@@ -13,7 +13,7 @@ entry_into_force: 2017-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/23/2017020118/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2016. - Décret modifiant le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, le décret du 27 octobre 2006 relatif à l'assainissement du sol et à la protection du sol, le décret du 25 avril 2014 relatif au permis d'environnement et le décret du 25 avril 2014 relatif aux projets complexes, en ce qui concerne l'évaluation des incidences de certains projets publics et privés sur l'environnement

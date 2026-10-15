@@ -11,7 +11,7 @@ entry_into_force: 1999-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/13/1999015206/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 1999. Wet houdend instemming met de Overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk België en de Republiek Chili, en administratieve schikking houdende de modaliteiten van toepassing van de Overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk België en de Republiek Chili, gedaan te Brussel op 9 september 1996.

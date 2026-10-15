@@ -13,7 +13,7 @@ entry_into_force: 2022-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/02/04/2022030770/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2022. - Decreet tot wijziging van artikel 10, 12, 13 en 14 van het decreet van 27 maart 2009 betreffende radio-omroep en televisie

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/23/2021043649/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2021 et mise à jour au 22-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2021. - Loi modifiant la loi du 4 novembre 2020 portant diverses mesures sociales suite à la pandémie de COVID-19

@@ -13,7 +13,7 @@ entry_into_force: 2019-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/15/2019011450/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2019. - Décret contenant diverses dispositions modificatives concernant le décret relatif au statut du mineur dans l'aide intégrale à la jeunesse et le décret relatif à l'aide intégrale à la jeunesse

@@ -13,7 +13,7 @@ entry_into_force: 2014-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/14/2014035291/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2014. - Decreet houdende wijziging van het Energiedecreet van 8 mei 2009, wat betreft de energieprestaties van gebouwen

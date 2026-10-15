@@ -12,7 +12,7 @@ entry_into_force: 1978-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/09/04/2008031466/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBER 2008. - Ordonnantie tot wijziging van de ordonnantie van 20 mei 1999 betreffende de Gewestelijke Ontwikkelingsmaatschappij voor het Brussels Hoofdstedelijk Gewest.

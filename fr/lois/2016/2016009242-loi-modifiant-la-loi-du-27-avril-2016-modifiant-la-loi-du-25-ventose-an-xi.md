@@ -12,7 +12,7 @@ entry_into_force: 2016-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/05/20/2016009242/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 2016. - Loi modifiant la loi du 27 avril 2016 modifiant la loi du 25 ventôse an XI contenant organisation du notariat en ce qui concerne les commissions de nomination pour le notariat

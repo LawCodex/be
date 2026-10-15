@@ -13,7 +13,7 @@ entry_into_force: 2017-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/16/2017201540/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2017. - Décret portant assentiment au Traité Benelux relatif à la coopération transfrontalière en matière d'inspection du transport routier, fait à Liège le 3 octobre 2014

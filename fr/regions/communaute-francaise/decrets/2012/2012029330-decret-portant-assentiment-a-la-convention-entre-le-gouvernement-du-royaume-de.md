@@ -13,7 +13,7 @@ entry_into_force: 2012-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/19/2012029330/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2012. - Décret portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Singapour tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, faite à Singapour le 6 novembre 2006, telle que modifiée par le Protocole fait à Singapour le 6 novembre 2006 et par le Protocole fait à Bruxelles le 16 juillet 2009

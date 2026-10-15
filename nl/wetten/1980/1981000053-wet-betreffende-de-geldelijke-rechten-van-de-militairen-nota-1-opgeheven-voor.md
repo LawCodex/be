@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1980/12/19/1981000053/justel"
 department: "Landsverdediging"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1990 en tekstbijwerking tot 06-01-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1980. - Wet betreffende de geldelijke rechten van de militairen. - (NOTA 1 : opgeheven voor de militairen in de zin van artikel 1 van W 1994-05-20/33, art. 16, 003; Inwerkingtreding : 15-08-1994) - (NOTA 2 : Opgeheven door W 2000-12-27/32, art. 16, Inwerkingtreding : 01-04-2001; sommige bepalingen van deze wet blijven evenwel van kracht voor het vastleggen van de wetten en reglementen die van toepassing blijven op de personeelsleden van het operationeel kader van de politiediensten die beslist hebben onderworpen te blijven aan de wetten en reglementen die van toepassing waren op de personeelsleden van het operationeel korps van de rijkswacht, krachtens de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus.) -

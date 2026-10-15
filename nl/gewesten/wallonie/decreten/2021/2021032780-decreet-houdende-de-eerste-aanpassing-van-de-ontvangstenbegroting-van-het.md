@@ -12,7 +12,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/15/2021032780/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2021. - Decreet houdende de eerste aanpassing van de ontvangstenbegroting van het Waalse Gewest voor het begrotingsjaar 2021

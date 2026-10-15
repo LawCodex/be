@@ -11,7 +11,7 @@ published: 1971-02-11
 entry_into_force: 1971-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/01/22/1971012202/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 1971. - Wet tot regeling van de bevoegdheid van de ambtenaren van het Bestuur van Waters en Bossen belast met het toezicht op de staatsnatuurreservaten.

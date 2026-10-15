@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019013366/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-06-2019 et mise à jour au 05-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Décret relatif à la carte sociale

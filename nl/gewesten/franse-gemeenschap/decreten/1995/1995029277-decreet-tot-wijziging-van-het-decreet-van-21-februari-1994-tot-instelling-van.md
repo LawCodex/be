@@ -11,7 +11,7 @@ date: 1995-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/03/27/1995029277/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 1995. - Decreet tot wijziging van het decreet van 21 februari 1994 tot instelling van een prijs van de Raad voor de bekroning van een origineel werk inzake beeldende kunsten gecreëerd door een jong kunstenaar van de Franse Gemeenschap (VERTALING).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/03/28/2021201597/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 09-04-2021 en tekstbijwerking tot 12-01-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2021. - Wet houdende toekenning van een recht op klein verlet voor werknemers met het oog op het toegediend krijgen van een vaccin ter bescherming tegen het coronavirus COVID-19

@@ -13,7 +13,7 @@ entry_into_force: 2011-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/02/03/2011031072/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2011. - Ordonnance mettant la législation environnementale et énergétique en conformité avec les exigences de la Directive 2006/123/CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans le marché intérieur

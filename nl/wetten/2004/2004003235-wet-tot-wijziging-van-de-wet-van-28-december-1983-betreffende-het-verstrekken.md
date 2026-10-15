@@ -12,7 +12,7 @@ entry_into_force: 2004-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/05/17/2004003235/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2004. - Wet tot wijziging van de wet van 28 december 1983 betreffende het verstrekken van sterke dranken en betreffende het vergunningsrecht.

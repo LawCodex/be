@@ -13,7 +13,7 @@ entry_into_force: 2003-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/10/02/2003201458/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 OKTOBER 2003. - Decreet houdende instemming met het Financieel Protocol van 4 oktober 2002 bij het Samenwerkingsakkoord van 5 april 1995 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest inzake het internationaal milieubeleid (VERTALING).

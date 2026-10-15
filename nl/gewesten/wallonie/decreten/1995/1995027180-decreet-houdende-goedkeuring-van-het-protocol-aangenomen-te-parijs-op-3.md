@@ -13,7 +13,7 @@ entry_into_force: 1995-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/03/23/1995027180/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1995. - Decreet houdende goedkeuring van het Protocol, aangenomen te Parijs op 3 december 1982, tot wijziging van de Conventie van 1971 inzake het behoud van "natte gebieden" van internationale betekenis, in het bijzonder als woongebied voor het waterwild, alsmede van de amendementen van de Conventie inzake het behoud van "natte gebieden" van internationale betekenis, in het bijzonder als woongebied voor het waterwild, die op 28 mei 1987 te Regina aanvaard werd. (VERTALING)

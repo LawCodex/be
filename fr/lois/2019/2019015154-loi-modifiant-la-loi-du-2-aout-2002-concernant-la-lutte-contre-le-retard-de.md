@@ -12,7 +12,7 @@ entry_into_force: 2020-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/28/2019015154/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MAI 2019. - Loi modifiant la loi du 2 août 2002 concernant la lutte contre le retard de paiement dans les transactions commerciales

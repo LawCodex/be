@@ -13,7 +13,7 @@ entry_into_force: 2017-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/21/2016027345/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2016. - Décret portant assentiment à : 1) l'amendement à la Convention sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière, signé à Sofia, le 27 février 2001 et 2) à l'amendement à la Convention sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière, signé à Cavtat, le 4 juin 2004

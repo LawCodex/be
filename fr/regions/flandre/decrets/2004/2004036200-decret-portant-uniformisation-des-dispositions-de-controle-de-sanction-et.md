@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/30/2004036200/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 05-08-2004 et mise à jour au 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2004. - Décret portant uniformisation des dispositions de contrôle, de sanction et pénales reprises dans la réglementation des matières de législation sociale qui relèvent de la compétence de la Communauté flamande et de la Région flamande (cité comme : le décret relatif au contrôle des lois sociales) (TRADUCTION)

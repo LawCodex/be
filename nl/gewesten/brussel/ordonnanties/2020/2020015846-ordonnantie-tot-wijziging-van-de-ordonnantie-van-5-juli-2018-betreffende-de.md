@@ -12,7 +12,7 @@ published: 2020-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/10/22/2020015846/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2020. - Ordonnantie tot wijziging van de ordonnantie van 5 juli 2018 betreffende de specifieke gemeentelijke bestuursvormen en de samenwerking tussen gemeenten

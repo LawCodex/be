@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/07/13/2017030683/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 30-01-2023 en tekstbijwerking tot 30-01-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2017. - Ordonnantie strekkende tot instelling van een moratorium van het aantal bedden voor bepaalde voorzieningen voor opvang of huisvesting van bejaarde personen

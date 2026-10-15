@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/17/2019030319/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 29-03-2019 et mise à jour au 29-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2019. - Loi concernant l'instauration d'un budget mobilité

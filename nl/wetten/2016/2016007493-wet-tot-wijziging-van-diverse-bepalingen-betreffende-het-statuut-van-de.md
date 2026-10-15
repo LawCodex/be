@@ -12,7 +12,7 @@ entry_into_force: 2017-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/11/21/2016007493/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2016. - Wet tot wijziging van diverse bepalingen betreffende het statuut van de militairen

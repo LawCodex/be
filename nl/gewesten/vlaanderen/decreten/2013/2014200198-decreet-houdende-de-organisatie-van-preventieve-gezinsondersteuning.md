@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/29/2014200198/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 29-01-2014 en tekstbijwerking tot 18-06-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2013. - Decreet houdende de organisatie van preventieve gezinsondersteuning

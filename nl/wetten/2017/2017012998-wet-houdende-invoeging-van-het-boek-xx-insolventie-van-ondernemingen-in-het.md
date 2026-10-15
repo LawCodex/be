@@ -11,7 +11,7 @@ entry_into_force: 2018-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/08/11/2017012998/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AUGUSTUS 2017. - Wet houdende invoeging van het Boek XX "Insolventie van ondernemingen", in het Wetboek van economisch recht, en houdende invoeging van de definities eigen aan Boek XX en van de rechtshandhavingsbepalingen eigen aan Boek XX in het Boek I van het Wetboek van economisch recht

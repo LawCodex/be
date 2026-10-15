@@ -12,7 +12,7 @@ entry_into_force: 2001-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/07/04/2001009666/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2001. - Wet tot aanvulling van artikel 447 van het Strafwetboek en tot wijziging van artikel 24, 3°, van de wet van 17 april 1878 houdende de voorafgaande titel van het Wetboek van strafvordering.

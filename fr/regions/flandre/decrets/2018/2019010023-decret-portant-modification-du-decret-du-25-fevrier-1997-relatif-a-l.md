@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/21/2019010023/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2018. - Décret portant modification du décret du 25 février 1997 relatif à l'enseignement fondamental et du Code de l'Enseignement secondaire du 17 décembre 2010, en ce qui concerne les délais de la procédure de préinscription

@@ -13,7 +13,7 @@ entry_into_force: 1999-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/07/19/1999029433/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 1999. - Décret organisant le remplacement du membre du Conseil de la Communauté francaise nommé par le Roi en qualité de Ministre ou de Secrétaire d'Etat fédéral.

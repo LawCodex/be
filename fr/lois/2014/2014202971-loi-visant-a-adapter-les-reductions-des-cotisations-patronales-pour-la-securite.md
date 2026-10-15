@@ -12,7 +12,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/24/2014202971/justel"
 department: "Sécurité sociale - Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2014. - Loi visant à adapter les réductions des cotisations patronales pour la sécurité sociale à la suite de la 6 e réforme de l'Etat

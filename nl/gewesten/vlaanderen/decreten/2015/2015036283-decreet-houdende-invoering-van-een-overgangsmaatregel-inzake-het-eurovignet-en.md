@@ -12,7 +12,7 @@ published: 2015-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/10/16/2015036283/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 2015. - Decreet houdende invoering van een overgangsmaatregel inzake het eurovignet en houdende wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013 in dat verband

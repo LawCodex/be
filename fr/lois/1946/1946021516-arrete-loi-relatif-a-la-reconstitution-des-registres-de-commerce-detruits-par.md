@@ -13,7 +13,7 @@ last_amended: 2018-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1946/02/15/1946021516/justel"
 justel_note: "Consultation des versions antérieures à partir du 27-04-2018 et mise à jour au 27-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 1946. - ARRETE-LOI relatif à la reconstitution des registres de commerce détruits par faits de guerre

@@ -12,7 +12,7 @@ entry_into_force: 2005-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/07/14/2005003600/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2005. - Wet houdende aanpassing van de Rijksmiddelenbegroting voor het begrotingsjaar 2005.

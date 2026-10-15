@@ -13,7 +13,7 @@ entry_into_force: 2024-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/03/07/2024002046/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 2024. - Ordonnantie houdende instemming met het samenwerkings-akkoord van 8 januari 2024 tussen het Brussels Hoofdstedelijk Gewest en de Franse Gemeenschapscommissie betreffende de aanstelling van een gemeenschappelijke dienstenintegrator voor de elektronische uitwisseling van gegevens

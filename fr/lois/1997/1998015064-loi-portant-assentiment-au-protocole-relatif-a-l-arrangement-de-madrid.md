@@ -12,7 +12,7 @@ entry_into_force: 1998-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/08/29/1998015064/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AOUT 1997. - Loi portant assentiment au Protocole relatif à l'Arrangement de Madrid concernant l'enregistrement international des marques, adopté à Madrid le 27 juin 1989.

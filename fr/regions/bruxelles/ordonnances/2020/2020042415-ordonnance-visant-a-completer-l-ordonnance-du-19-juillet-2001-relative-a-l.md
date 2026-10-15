@@ -13,7 +13,7 @@ entry_into_force: 2020-09-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/07/17/2020042415/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2020. - Ordonnance visant à compléter l'ordonnance du 19 juillet 2001 relative à l'organisation du marché de l'électricité en Région de Bruxelles-Capitale

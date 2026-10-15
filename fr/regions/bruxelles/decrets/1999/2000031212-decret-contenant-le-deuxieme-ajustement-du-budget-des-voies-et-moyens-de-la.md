@@ -13,7 +13,7 @@ entry_into_force: 1999-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/12/15/2000031212/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 1999. - Décret contenant le deuxième ajustement du budget des Voies et moyens de la Commission communautaire française pour l'année budgétaire 1999.

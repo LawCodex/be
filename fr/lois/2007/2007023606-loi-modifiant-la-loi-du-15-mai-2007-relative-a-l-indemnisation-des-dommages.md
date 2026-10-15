@@ -12,7 +12,7 @@ entry_into_force: 2007-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/12/21/2007023606/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2007. - Loi modifiant la loi du 15 mai 2007 relative à l'indemnisation des dommages résultant de soins de santé en ce qui concerne la date d'entrée en vigueur.

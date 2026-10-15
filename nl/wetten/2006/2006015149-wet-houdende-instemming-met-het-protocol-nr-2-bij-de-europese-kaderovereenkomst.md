@@ -10,7 +10,7 @@ date: 2006-09-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/09/24/2006015149/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 SEPTEMBER 2006. - Wet houdende instemming met het Protocol nr. 2 bij de Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten betreffende interterritoriale samenwerking, gedaan te Straatsburg op 5 mei 1998 ( 1)

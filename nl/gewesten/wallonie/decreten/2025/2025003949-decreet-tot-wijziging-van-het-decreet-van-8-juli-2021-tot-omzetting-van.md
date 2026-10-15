@@ -12,7 +12,7 @@ published: 2025-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/05/15/2025003949/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2025. - Decreet tot wijziging van het decreet van 8 juli 2021 tot omzetting van Richtlijn (EU) 2018/958 van het Europees Parlement en de Raad van 28 juni 2018 betreffende een evenredigheidsbeoordeling voorafgaand aan een nieuwe reglementering van beroepen voor de aangelegenheden geregeld bij artikel 138 van de Grondwet

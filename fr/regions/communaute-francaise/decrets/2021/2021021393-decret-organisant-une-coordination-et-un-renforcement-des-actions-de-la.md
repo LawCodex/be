@@ -13,7 +13,7 @@ entry_into_force: 2021-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/01/2021021393/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUILLET 2021. - Décret organisant une coordination et un renforcement des actions de la Communauté française en faveur d'une transition écologique

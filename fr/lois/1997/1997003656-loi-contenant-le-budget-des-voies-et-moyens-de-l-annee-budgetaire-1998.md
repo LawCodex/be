@@ -12,7 +12,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/19/1997003656/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1997. - Loi contenant le budget des Voies et Moyens de l'année budgétaire 1998.

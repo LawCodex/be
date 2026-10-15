@@ -12,7 +12,7 @@ entry_into_force: 2019-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/01/15/2019030127/justel"
 department: "Binnenlandse Zaken - Justitie - Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 2019. - Wet tot wijziging van bepalingen betreffende het wetenschapsbeleid, de geïntegreerde politie en defensie

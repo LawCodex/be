@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/28/2019042103/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 09-10-2019 et mise à jour au 24-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2019. - Décret relatif aux cellules de soutien et d'accompagnement de l'enseignement organisé ou subventionné par la Communauté française et au statut des conseillers au soutien et à l'accompagnement

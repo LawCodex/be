@@ -11,7 +11,7 @@ published: 1963-01-26
 entry_into_force: 1963-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1962/04/26/1962042601/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 1962. - Loi conférant des attributions de police judiciaire à certains agents du Comité supérieur de contrôle.

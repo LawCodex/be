@@ -12,7 +12,7 @@ entry_into_force: 2025-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/01/2022020852/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2022. - Loi portant assentiment au Protocole, fait à New Delhi le 9 mars 2017, modifiant la Convention et le Protocole entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de l`Inde tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signés à Bruxelles le 26 avril 1993

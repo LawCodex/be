@@ -12,7 +12,7 @@ entry_into_force: 2023-10-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/06/22/2023044665/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2023. - Wet betreffende de toegang tot de genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik en tot wijziging aan de organieke wet van 27 december 1990 houdende oprichting van begrotingsfondsen

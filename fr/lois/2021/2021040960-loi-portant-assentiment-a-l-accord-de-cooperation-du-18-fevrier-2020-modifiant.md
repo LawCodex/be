@@ -12,7 +12,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/03/09/2021040960/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2021. - Loi portant assentiment à l'accord de coopération du 18 février 2020 modifiant l'accord de coopération du 12 décembre 2005 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune relatif à la mise en oeuvre de la loi du 24 avril 2003 réformant l'adoption

@@ -13,7 +13,7 @@ entry_into_force: 1995-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/18/1996031166/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 1995. - Décret contenant le deuxième ajustement du budget général des dépenses de la Commission communautaire française pour l'année budgétaire 1995.

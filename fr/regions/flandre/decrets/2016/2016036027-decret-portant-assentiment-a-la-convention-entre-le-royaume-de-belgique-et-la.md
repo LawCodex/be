@@ -13,7 +13,7 @@ entry_into_force: 2016-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/03/2016036027/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2016. - Décret portant assentiment à la convention entre le Royaume de Belgique et la République Orientale de l'Uruguay en vue d'éviter les doubles impositions en matière d'impôt sur le revenu et la fortune et en vue d'éviter la fraude fiscale, et au protocole, signés à Montevideo le 23 août 2013

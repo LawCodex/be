@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/09/30/1999027742/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 04-04-2000 en tekstbijwerking tot 21-01-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 SEPTEMBER 1999. - Decreet inzake het toekennen van een tegemoetkoming van het Waarborgfonds en van een rentetoelage aan de bedrijven die schade ondervonden hebben naar aanleiding van de dioxinecrisis van 1999 (VERTALING).

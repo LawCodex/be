@@ -13,7 +13,7 @@ entry_into_force: 2018-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/12/15/2017032182/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2017. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 17 juni 2016 tussen de Vlaamse Gemeenschap, het Waals Gewest, de Gemeenschappelijke Gemeenschapscommisie en de Duitstalige Gemeenschap houdende omzetting in de gezinsbijslagwetgeving van de richtlijn 2011/98/EU van het Europees Parlement en de Raad van 13 december 2011 betreffende één enkele aanvraagprocedure voor een gecombineerde vergunning voor onderdanen van derde landen om te verblijven en te werken op het grondgebied van een lidstaat alsmede inzake een gemeenschappelijk pakket rechten voor werknemers uit derde landen die legaal in een lidstaat verblijven

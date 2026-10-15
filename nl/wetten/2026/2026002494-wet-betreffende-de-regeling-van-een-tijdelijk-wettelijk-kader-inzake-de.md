@@ -13,7 +13,7 @@ end_of_validity: 2029-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/03/30/2026002494/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2026. - Wet betreffende de regeling van een tijdelijk wettelijk kader inzake de uitvoering van de straf onder elektronisch toezicht, de probatiestraf, de werkstraf, de opschorting en de probatieopschorting, het uitstel en het probatie-uitstel, de bijkomende straf bedoeld in artikel 50 van het Strafwetboek en bepaalde straffen opgelegd aan rechtspersonen en tot wijziging van het Wetboek van strafvordering, de wet van 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden tot een vrijheidsstraf en de aan het slachtoffer toegekende rechten in het raam van de strafuitvoeringsmodaliteiten en de wet van 29 februari 2024 tot invoering van boek I van het Strafwetboek, met het oog op de inwerkingtreding van het nieuw Strafwetboek. (Wet houdende een tijdelijk kader inzake de uitvoering van de straffen)

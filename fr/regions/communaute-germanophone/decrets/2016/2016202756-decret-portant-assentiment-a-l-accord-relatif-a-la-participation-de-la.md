@@ -13,7 +13,7 @@ entry_into_force: 2016-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/04/25/2016202756/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2016. - Décret portant assentiment à l'Accord relatif à la participation de la République de Croatie à l'Espace économique européen, à l'Acte final et aux trois accords y afférents, signés à Bruxelles les 11 avril 2014 et 5 novembre 2014

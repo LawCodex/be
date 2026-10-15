@@ -12,7 +12,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/12/08/2025009746/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2025. - Loi relative au soutien financier de certains militaires étrangers qui suivent une formation dans un établissement d'enseignement militaire belge

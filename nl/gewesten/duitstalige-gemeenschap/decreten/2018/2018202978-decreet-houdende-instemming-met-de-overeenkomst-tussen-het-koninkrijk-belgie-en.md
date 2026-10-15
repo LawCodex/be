@@ -13,7 +13,7 @@ entry_into_force: 2018-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/28/2018202978/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MEI 2018. - Decreet houdende instemming met de overeenkomst tussen het Koninkrijk België en Japan tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en tot het voorkomen van het ontduiken en het ontwijken van belasting, en het protocol, gedaan te Tokio op 12 oktober 2016

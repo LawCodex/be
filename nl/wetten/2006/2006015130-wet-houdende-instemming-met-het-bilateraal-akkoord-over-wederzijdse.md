@@ -12,7 +12,7 @@ entry_into_force: 2008-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/08/05/2006015130/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 AUGUSTUS 2006. - Wet houdende instemming met het Bilateraal Akkoord over wederzijdse administratieve bijstand in douanezaken tussen de Regering van het Koninkrijk België en de Regering van de Democratische Republiek Kongo, ondertekend te Brussel op 12 februari 2004.

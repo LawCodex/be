@@ -12,7 +12,7 @@ entry_into_force: 2014-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/28/2014009267/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2014. - Wet tot wijziging van artikel 19 van het gerechtelijk wetboek met betrekking tot de rechtzetting van materiële vergissingen of omissies in de vonnissen alsook tot de uitlegging van de vonnissen

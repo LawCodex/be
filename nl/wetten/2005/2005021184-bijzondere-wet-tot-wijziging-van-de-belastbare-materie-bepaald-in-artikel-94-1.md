@@ -12,7 +12,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/12/27/2005021184/justel"
 department: "Kanselarij van de Eerste Minister - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 2005. - Bijzondere wet tot wijziging van de belastbare materie bepaald in artikel 94, 1°, van het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen inzake de belasting op de inverkeersstelling.

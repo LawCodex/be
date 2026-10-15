@@ -13,7 +13,7 @@ entry_into_force: 2007-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/09/20/2007203054/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBER 2007. - Decreet houdende instemming met de Overeenkomst inzake zeevervoer tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Regering van de Volksrepubliek China, anderzijds, gedaan te Brussel op 6 december 2002 (VERTALING).

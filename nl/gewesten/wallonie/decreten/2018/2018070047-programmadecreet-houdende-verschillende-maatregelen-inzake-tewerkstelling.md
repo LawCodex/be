@@ -13,7 +13,7 @@ entry_into_force: 2018-10-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/17/2018070047/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2018. - Programmadecreet houdende verschillende maatregelen inzake tewerkstelling, vorming, economie, industrie, onderzoek, innovatie, digitale technologieën, leefmilieu, ecologische overgang, ruimtelijke ordening, openbare werken, mobiliteit en vervoer, energie, klimaat, luchthavenbeleid, toerisme, landbouw, natuur, bossen, plaatselijke besturen en huisvesting

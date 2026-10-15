@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/08/04/1996012650/justel"
 department: "Tewerkstelling en Arbeid"
 justel_note: "Raadpleging van vroegere versies vanaf 18-09-1996 en tekstbijwerking tot 01-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AUGUSTUS 1996. - Wet betreffende het welzijn van de werknemers bij de uitvoering van hun werk. (NOTA 1 : art. 3; 31bis tot en met 31septies gewijzigd in de toekomst bij W 2012-12-27/12 , art. 2 tot en met 10, 026; Inwerkingtreding : onbepaald . Artikelen 2 tot en met 10 ingetrokken door W 2013-12-08/07 , art. 15; Inwerkingtreding : 20-12-2013)

@@ -11,7 +11,7 @@ published: 2026-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/22/2026005912/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 2026. - Wet tot omzetting van Richtlijn (EU) 2024/825 van het Europees Parlement en de Raad van 28 februari 2024 tot wijziging van de Richtlijnen 2005/29/EG en 2011/83/EU wat betreft het versterken van de positie van de consument voor de groene transitie door middel van betere informatie en door middel van bescherming tegen oneerlijke praktijken

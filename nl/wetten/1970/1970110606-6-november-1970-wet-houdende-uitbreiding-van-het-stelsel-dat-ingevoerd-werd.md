@@ -11,7 +11,7 @@ published: 1970-12-18
 entry_into_force: 1970-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1970/11/06/1970110606/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBER 1970. \_ Wet houdende uitbreiding van het stelsel dat ingevoerd werd door de wet van 24 december 1968, tot voorlopige uitbreiding van de bevoegdheid van het Gemeenschappelijk Waarborgfonds, toegelaten bij het koninklijk besluit van 31 januari 1957.

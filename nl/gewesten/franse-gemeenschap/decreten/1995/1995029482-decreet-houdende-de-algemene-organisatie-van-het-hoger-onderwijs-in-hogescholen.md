@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/08/05/1995029482/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 01-09-1995 en tekstbijwerking tot 02-08-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AUGUSTUS 1995. - [Decreet houdende de algemene organisatie van het hoger onderwijs in hogescholen.] (Vertaling) (Erratum. Zie B.St. 21.09.1995, p. 26845)

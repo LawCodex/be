@@ -13,7 +13,7 @@ entry_into_force: 2002-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/06/13/2002027592/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 2002. - Décret portant assentiment à l'Accord de coopération entre la République libanaise, d'une part, la Communauté française de Belgique, la Région wallonne et la Commission communautaire française de la Région de Bruxelles-Capitale, d'autre part, fait à Bruxelles le 26 septembre 2000.

@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/01/12/2023200551/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 2023. - Wet tot invoering van het "Terug Naar Werk-traject" onder de coördinatie van de "Terug Naar Werk-coördinator" in de uitkeringsverzekering voor zelfstandigen en meewerkende echtgenoten

@@ -13,7 +13,7 @@ entry_into_force: 2012-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/03/19/2012201968/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2012. - Decreet houdende instemming met de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds, tot wijziging van de overeenkomst inzake handel, ontwikkeling en samenwerking, ondertekend in Kleinmond, Zuid-Afrika, op 11 september 2009

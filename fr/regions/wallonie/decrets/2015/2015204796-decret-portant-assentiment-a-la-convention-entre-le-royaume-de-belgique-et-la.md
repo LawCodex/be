@@ -13,7 +13,7 @@ entry_into_force: 2015-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/10/16/2015204796/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2015. - Décret portant assentiment à la Convention entre le Royaume de Belgique et la République orientale de l'Uruguay tendant à éviter la double imposition en matière d'impôts sur le revenu et sur la fortune et à prévenir la fraude fiscale, signée à Montevideo le 23 août 2013

@@ -13,7 +13,7 @@ entry_into_force: 2010-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/02/12/2010035166/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2010. - Décret portant assentiment de la Convention du Conseil de l'Europe sur la protection des enfants contre l'exploitation et les abus sexuels, établie à Lanzarote le 25 octobre 2007

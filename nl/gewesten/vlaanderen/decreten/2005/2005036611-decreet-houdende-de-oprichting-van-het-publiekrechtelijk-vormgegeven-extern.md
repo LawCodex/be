@@ -13,7 +13,7 @@ entry_into_force: 2006-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/16/2005036611/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2005. - Decreet houdende de oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Regulator voor de Media en houdende wijziging van sommige bepalingen van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005.

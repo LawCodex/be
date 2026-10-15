@@ -12,7 +12,7 @@ entry_into_force: 2005-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/02/24/2005015048/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2005. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en het Koninkrijk Marokko betreffende uitlevering, ondertekend te Brussel op 7 juli 1997.

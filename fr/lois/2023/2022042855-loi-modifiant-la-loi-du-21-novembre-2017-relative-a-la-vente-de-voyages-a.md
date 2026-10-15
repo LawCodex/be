@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/05/2022042855/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 2023. - Loi modifiant la loi du 21 novembre 2017 relative à la vente de voyages à forfait, de prestations de voyages liées et de services de voyage

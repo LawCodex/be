@@ -13,7 +13,7 @@ entry_into_force: 2020-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/11/26/2020043857/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2020. - Decreet houdende bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 11 van 14 mei 2020 betreffende de steun aan de sector van het hoger onderwijs in het kader van de COVID-19-gezondheidscrisis

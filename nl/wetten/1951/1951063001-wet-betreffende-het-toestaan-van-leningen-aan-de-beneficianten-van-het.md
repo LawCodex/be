@@ -10,7 +10,7 @@ date: 1951-06-30
 published: 1952-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1951/06/30/1951063001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1951. - Wet betreffende het toestaan van leningen aan de beneficianten van het Nationaal Werk voor oorlogsinvaliden en van het Nationaal Werk voor oudstrijders en oorlogsslachtoffers.

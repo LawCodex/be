@@ -12,7 +12,7 @@ entry_into_force: 2024-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/11/23/2023045904/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2023. - Wet betreffende maatregelen van bestuurlijke politie inzake reisbeperkingen en het passagier lokalisatie formulier en houdende wijzigingen van diverse wetsbepalingen betreffende het informatieveiligheidscomité

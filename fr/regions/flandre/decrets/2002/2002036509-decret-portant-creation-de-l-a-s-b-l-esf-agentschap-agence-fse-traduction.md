@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/08/2002036509/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 17-12-2002 et mise à jour au 24-11-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 2002. - Décret portant création de l'a.s.b.l. ESF-Agentschap (Agence FSE) (TRADUCTION).

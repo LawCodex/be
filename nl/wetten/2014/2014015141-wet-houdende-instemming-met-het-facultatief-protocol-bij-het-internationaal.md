@@ -12,7 +12,7 @@ entry_into_force: 2014-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/05/2014015141/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2014. - Wet houdende instemming met het Facultatief Protocol bij het Internationaal Verdrag inzake economische, sociale en culturele rechten, aangenomen te New York op 10 december 2008

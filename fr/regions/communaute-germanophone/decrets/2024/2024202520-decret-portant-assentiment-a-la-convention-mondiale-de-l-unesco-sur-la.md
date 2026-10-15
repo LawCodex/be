@@ -13,7 +13,7 @@ entry_into_force: 2024-10-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/22/2024202520/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2024. - Décret portant assentiment à la Convention mondiale de l'UNESCO sur la reconnaissance des qualifications relatives à l'enseignement supérieur, faite à Paris le 25 novembre 2019

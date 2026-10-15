@@ -12,7 +12,7 @@ entry_into_force: 2020-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/29/2020030392/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2018. - Wet tot wijziging van de artikelen 2 en 9ter van de wet van 2 april 1965 betreffende het ten laste nemen van de steun verleend door de openbare centra voor maatschappelijk welzijn

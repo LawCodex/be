@@ -12,7 +12,7 @@ published: 2021-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/07/22/2021042611/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 2021. - Ordonnantie houdende instemming met het samenwerkings-akkoord van 7 mei 2021 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie tot wijziging van het samenwerkingsakkoord van 9 december 2011 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende dopingpreventie en -bestrijding in de sport

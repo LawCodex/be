@@ -13,7 +13,7 @@ entry_into_force: 2013-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/05/02/2013202970/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2013. - Decreet houdende instemming met het aanhangsel van 4 oktober 2012 bij het samenwerkingsakkoord van 30 mei 2005 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest, het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie

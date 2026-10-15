@@ -12,7 +12,7 @@ entry_into_force: 2025-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/10/16/2025008159/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2025. - Loi portant approbation de la souscription de la Belgique à l'augmentation générale de capital de la Banque européenne pour la Reconstruction et le Développement

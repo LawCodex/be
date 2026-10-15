@@ -13,7 +13,7 @@ entry_into_force: 1998-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/02/05/1998027109/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 1998. - Décret portant assentiment à l'Accord de partenariat et de coopération entre les Communautés européennes et leurs Etats membres, d'une part, et la République Kirghize, d'autre part, aux Annexes I, II, au Protocole et à l'Acte final, faits à Bruxelles le 9 février 1995.

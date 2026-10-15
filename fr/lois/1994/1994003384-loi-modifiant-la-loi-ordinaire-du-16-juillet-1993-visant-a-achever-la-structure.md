@@ -12,7 +12,7 @@ entry_into_force: 1994-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/06/03/1994003384/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 1994. - Loi modifiant la loi ordinaire du 16 juillet 1993 visant à achever la structure fédérale de l'Etat.

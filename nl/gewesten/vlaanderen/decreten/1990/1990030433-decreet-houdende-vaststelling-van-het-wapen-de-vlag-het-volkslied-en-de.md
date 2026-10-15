@@ -13,7 +13,7 @@ entry_into_force: 1990-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1990/11/07/1990030433/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 1990. - Decreet houdende vaststelling van het wapen, de vlag, het volkslied en de feestdag van de Vlaamse gemeenschap.

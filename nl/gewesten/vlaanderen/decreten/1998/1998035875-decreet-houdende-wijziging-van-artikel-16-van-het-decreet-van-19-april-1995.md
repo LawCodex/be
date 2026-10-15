@@ -12,7 +12,7 @@ published: 1998-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/14/1998035875/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1998. - Decreet houdende wijziging van artikel 16 van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten.

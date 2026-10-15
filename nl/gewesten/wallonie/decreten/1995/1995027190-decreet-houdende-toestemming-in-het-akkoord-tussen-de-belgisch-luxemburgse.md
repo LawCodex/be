@@ -13,7 +13,7 @@ entry_into_force: 1995-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/03/30/1995027190/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 1995. - Decreet houdende toestemming in het Akkoord tussen de Belgisch-Luxemburgse Ekonomische Unie en de Republiek Mongolië betreffende de wederkerige bevordering en bescherming van de investeringen, ondertekend in Brussel op 3 maart 1992. (VERTALING)

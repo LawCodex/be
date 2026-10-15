@@ -12,7 +12,7 @@ entry_into_force: 2006-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/03/22/2006015067/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2006. - Loi portant assentiment à l'Amendement au Protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone, fait à Beijing le 3 décembre 1999.

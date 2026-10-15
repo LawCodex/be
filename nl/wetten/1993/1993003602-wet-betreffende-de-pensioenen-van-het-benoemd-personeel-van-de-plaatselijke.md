@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/08/06/1993003602/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 03-03-1998 en tekstbijwerking tot 03-11-2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AUGUSTUS 1993. - Wet betreffende de pensioenen van het benoemd personeel van de plaatselijke besturen.

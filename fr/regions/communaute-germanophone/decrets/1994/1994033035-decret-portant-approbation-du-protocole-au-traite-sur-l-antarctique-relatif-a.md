@@ -13,7 +13,7 @@ entry_into_force: 1994-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/03/14/1994033035/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 1994. - Décret portant approbation du protocole au traité sur l'Antarctique, relatif à la protection de l'environnement, appendice, annexes I, II, III, IV et V, faits à Madrid le 4 octobre 1991. (Traduction)

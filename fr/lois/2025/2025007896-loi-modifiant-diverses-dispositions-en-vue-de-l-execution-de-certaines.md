@@ -11,7 +11,7 @@ published: 2025-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/09/23/2025007896/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBRE 2025. - Loi modifiant diverses dispositions en vue de l'exécution de certaines dispositions du règlement (UE) 2024/886 modifiant les règlements (UE) n° 260/2012 et (UE) 2021/1230 et les directives 98/26/CE et (UE) 2015/2366 en ce qui concerne les virements instantanés en euros, et de la transposition de la directive (UE) 2024/1174 modifiant la directive 2014/59/UE et le règlement (UE) n° 806/2014 en ce qui concerne certains aspects de l'exigence minimale de fonds propres et d'engagements éligibles (1) - Avis rectificatif

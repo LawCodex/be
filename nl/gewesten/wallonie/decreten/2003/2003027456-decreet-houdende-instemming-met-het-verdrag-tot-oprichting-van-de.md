@@ -13,7 +13,7 @@ entry_into_force: 2003-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/06/06/2003027456/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2003. - Decreet houdende instemming met het Verdrag tot oprichting van de Internationale Organisatie voor Wijnstok en Wijn, en met de Slotakte, gedaan te Parijs op 3 april 2001 (VERTALING).

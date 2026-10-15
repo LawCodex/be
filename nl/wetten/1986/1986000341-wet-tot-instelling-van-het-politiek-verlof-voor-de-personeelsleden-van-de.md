@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1986/09/18/1986000341/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
 justel_note: "Raadpleging van vroegere versies vanaf 28-07-1999 en tekstbijwerking tot 21-06-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 SEPTEMBER 1986. - Wet tot instelling van het politiek verlof voor de personeelsleden van de overheidsdiensten.

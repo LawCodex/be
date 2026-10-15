@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/20/2005029230/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 08-09-2005 en tekstbijwerking tot 13-02-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2005. - Decreet houdende verbetering van de omkadering in het kleuter- en lager onderwijs (VERTALING).

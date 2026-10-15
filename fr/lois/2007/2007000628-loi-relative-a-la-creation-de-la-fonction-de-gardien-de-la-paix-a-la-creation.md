@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/15/2007000628/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 29-06-2007 et mise à jour au 23-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2007. - Loi relative à la création de la fonction de gardien de la paix, à la création du service des gardiens de la paix et à la modification de l'article 119bis de la nouvelle loi communale.

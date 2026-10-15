@@ -13,7 +13,7 @@ entry_into_force: 2010-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/06/11/2010035482/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2010. - Decreet houdende wijziging van het decreet van 28 juni 1985 betreffende de milieuvergunning, wat betreft de invoering van maatregelen tot aanpak van de milieuvergunningenpiek

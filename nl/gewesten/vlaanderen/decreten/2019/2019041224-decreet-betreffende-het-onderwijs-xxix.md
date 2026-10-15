@@ -12,7 +12,7 @@ published: 2019-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/05/2019041224/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 2019. - Decreet betreffende het Onderwijs XXIX

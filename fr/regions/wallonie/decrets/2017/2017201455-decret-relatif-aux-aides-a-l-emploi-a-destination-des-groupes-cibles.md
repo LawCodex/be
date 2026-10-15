@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/02/2017201455/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 08-10-2018 et mise à jour au 09-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEVRIER 2017. - Décret relatif aux aides à l'emploi à destination des groupes-cibles

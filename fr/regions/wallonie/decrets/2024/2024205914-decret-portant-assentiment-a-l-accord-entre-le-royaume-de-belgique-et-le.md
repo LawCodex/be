@@ -13,7 +13,7 @@ entry_into_force: 2024-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/11/07/2024205914/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 2024. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, signé à Bruxelles le 10 novembre 2023

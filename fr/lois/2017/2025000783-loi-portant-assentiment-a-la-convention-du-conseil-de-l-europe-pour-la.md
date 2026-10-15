@@ -12,7 +12,7 @@ entry_into_force: 2025-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/08/11/2025000783/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AOUT 2017. - Loi portant assentiment à la Convention du Conseil de l'Europe pour la prévention du terrorisme, faite à Varsovie le 16 mai 2005 (1). - Addendum

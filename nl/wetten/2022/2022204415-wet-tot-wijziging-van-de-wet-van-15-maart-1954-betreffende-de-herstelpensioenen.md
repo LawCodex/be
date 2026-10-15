@@ -12,7 +12,7 @@ entry_into_force: 2022-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/10/2022204415/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2022. - Wet tot wijziging van de wet van 15 maart 1954 betreffende de herstelpensioenen voor de burgerlijke slachtoffers van de oorlog 1940-1945 en hun rechthebbenden

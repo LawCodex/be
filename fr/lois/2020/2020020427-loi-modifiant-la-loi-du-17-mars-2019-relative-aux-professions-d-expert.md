@@ -12,7 +12,7 @@ entry_into_force: 2020-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/02/22/2020020427/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 2020. - Loi modifiant la loi du 17 mars 2019 relative aux professions d'expert-comptable et de conseiller fiscal en ce qui concerne l'Institut des Conseillers fiscaux et des Experts-Comptables

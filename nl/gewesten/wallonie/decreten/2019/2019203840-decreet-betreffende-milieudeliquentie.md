@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/06/2019203840/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 28-08-2019 en tekstbijwerking tot 21-12-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2019. - Decreet betreffende milieudeliquentie

@@ -12,7 +12,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/06/22/2020203778/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2020. - Decreet tot eerste wijziging van het decreet van 12 december 2019 houdende de begroting van de ontvangsten en de algemene begroting van de uitgaven van de Duitstalige Gemeenschap voor het begrotingsjaar 2020

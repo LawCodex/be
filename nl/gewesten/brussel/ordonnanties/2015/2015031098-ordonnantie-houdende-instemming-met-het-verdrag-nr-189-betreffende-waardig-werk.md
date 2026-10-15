@@ -13,7 +13,7 @@ entry_into_force: 2015-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/02/05/2015031098/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 2015. - Ordonnantie houdende instemming met : het Verdrag nr. 189 betreffende waardig werk voor het huispersoneel, aangenomen te Genève op 16 juni 2011 door de Internationale Arbeidsconferentie tijdens haar honderdste zitting

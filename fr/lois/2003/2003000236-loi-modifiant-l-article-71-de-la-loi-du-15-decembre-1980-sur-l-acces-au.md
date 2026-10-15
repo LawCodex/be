@@ -12,7 +12,7 @@ entry_into_force: 2003-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/18/2003000236/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 2003. - Loi modifiant l'article 71 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.

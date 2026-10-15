@@ -12,7 +12,7 @@ entry_into_force: 2007-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/19/2007021024/justel"
 department: "Wetenschapsbeleid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2006. - Wet tot wijziging van de artikelen 1 en 2 van de wet van 8 april 1965 tot instelling van het wettelijk depot bij de Koninklijke Bibliotheek van België, teneinde de toepassingssfeer uit te breiden tot microfilms en numerieke dragers.

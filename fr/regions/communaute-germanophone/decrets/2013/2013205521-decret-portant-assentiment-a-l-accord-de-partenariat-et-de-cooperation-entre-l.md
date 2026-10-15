@@ -13,7 +13,7 @@ entry_into_force: 2013-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/09/23/2013205521/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBRE 2013. - Décret portant assentiment à l'Accord de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la République d'Iraq, d'autre part, fait à Bruxelles le 11 mai 2012

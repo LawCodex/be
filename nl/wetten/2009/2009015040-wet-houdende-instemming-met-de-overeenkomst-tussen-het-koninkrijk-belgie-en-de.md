@@ -12,7 +12,7 @@ entry_into_force: 2010-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/02/13/2009015040/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2009. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Rwanda tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken en het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en met het Protocol, ondertekend te Kigali op 16 april 2007

@@ -13,7 +13,7 @@ entry_into_force: 2024-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/25/2024201614/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2024. - Décret modifiant le décret du 8 juin 2001 instituant une autorité indépendante chargée du contrôle et du suivi en matière de nuisances sonores aéroportuaires en Région wallonne

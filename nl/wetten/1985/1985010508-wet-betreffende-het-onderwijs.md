@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/06/21/1985010508/justel"
 department: "Onderwijs - Nationale Opvoeding"
 justel_note: "Raadpleging van vroegere versies vanaf 02-09-1988 en tekstbijwerking tot 11-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 1985. - Wet betreffende het onderwijs.

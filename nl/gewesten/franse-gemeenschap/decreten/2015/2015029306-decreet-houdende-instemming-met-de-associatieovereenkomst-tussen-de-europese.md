@@ -13,7 +13,7 @@ entry_into_force: 2015-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/25/2015029306/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2015. - Decreet houdende instemming met de associatieovereenkomst tussen de europese Unie en de europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en Oekraïne, anderzijds, ondertekend te Brussel op 21 maart 2014 en op 27 juni 2014

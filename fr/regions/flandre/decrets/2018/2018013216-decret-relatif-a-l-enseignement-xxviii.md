@@ -13,7 +13,7 @@ entry_into_force: 2018-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/15/2018013216/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2018. - Décret relatif à l'enseignement XXVIII

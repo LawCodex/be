@@ -13,7 +13,7 @@ entry_into_force: 1998-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/04/06/1998029295/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1998. - Decreet houdende instemming met het Verdrag inzake verstandhouding en samenwerking tussen het Koninkrijk België, de Vlaamse Gemeenschap van België, de Franse Gemeenschap van België, de Duitstalige Gemeenschap van België, het Vlaamse Gewest van België, het Waalse Gewest van België, het Brussels Hoofdstedelijk Gewest van België en Oekraïne, gedaan te Brussel op 23 april 1997 (VERTALING).

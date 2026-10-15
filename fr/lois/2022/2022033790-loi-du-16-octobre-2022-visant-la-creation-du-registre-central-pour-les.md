@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/10/16/2022033790/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 24-10-2022 et mise à jour au 29-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2022. - [Loi du 16 octobre 2022 visant la création du Registre central pour les décisions de l'ordre judiciaire et relative à la publication des jugements, tenant des assouplissements temporaires concernant la signature électronique par des membres ou entités de l'ordre judiciaire, et modifiant la procédure d'assises relative à la récusation des jurés] &lt;L 2023-07-31/02 , art. 37, 002; En vigueur : 01-09-2023&gt;

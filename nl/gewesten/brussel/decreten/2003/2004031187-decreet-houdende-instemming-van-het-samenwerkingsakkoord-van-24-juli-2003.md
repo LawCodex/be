@@ -12,7 +12,7 @@ published: 2004-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/11/07/2004031187/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2003. - Decreet houdende instemming van het Samenwerkingsakkoord van 24 juli 2003 betreffende de validering van de competenties op het vlak van de voortgezette beroepsopleiding, gesloten tussen de Franse Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie (VERTALING).

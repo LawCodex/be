@@ -13,7 +13,7 @@ entry_into_force: 1998-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/04/1999027091/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 1999. - Décret portant modification du décret du 5 décembre 1996 relatif aux intercommunales wallonnes.

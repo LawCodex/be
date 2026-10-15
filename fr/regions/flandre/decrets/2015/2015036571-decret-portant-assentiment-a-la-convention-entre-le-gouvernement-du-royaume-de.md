@@ -13,7 +13,7 @@ entry_into_force: 2016-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/11/27/2015036571/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2015. - Décret portant assentiment à la convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de l'Ile de Man en vue d'éviter les doubles impositions et de prévenir l'évasion fiscale en matière d'impôts sur le revenu, et au Protocole, les deux signés à Bruxelles le 16 juillet 2009

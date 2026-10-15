@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/02/19/2001003145/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 FEBRUARI 2001. - Wet tot wijziging van de artikelen 36bis, 36ter, 110 en 111 en tot invoering van artikel 36quater van het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen.

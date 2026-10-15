@@ -13,7 +13,7 @@ entry_into_force: 2013-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/20/2013029406/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2013. - Décret portant assentiment à l'accord de coopération entre la Communauté flamande et la Communauté française relatif à la gestion et au fonctionnement du " Jardin botanique national de Belgique "

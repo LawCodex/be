@@ -13,7 +13,7 @@ entry_into_force: 2015-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/03/12/2015201376/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MARS 2015. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et les Etats-Unis d'Amérique relatif au statut d'une catégorie de personnel relevant des Forces des Etats-Unis, fait à Bruxelles, le 13 juillet 2012

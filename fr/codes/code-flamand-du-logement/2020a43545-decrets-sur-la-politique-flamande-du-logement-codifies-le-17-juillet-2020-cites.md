@@ -16,7 +16,7 @@ department: "Finances"
 justel_notes:
   - "articles modifiés avec effet à une date indéterminée par DCFL 2021-07-09/37 , art. 158, 159, 161-195, 005; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 13-11-2020 et mise à jour au 12-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2020. - Décrets sur la politique flamande du logement, codifiés le 17 juillet 2020. Cités sous le titre suivant : Code flamand du Logement de 2021

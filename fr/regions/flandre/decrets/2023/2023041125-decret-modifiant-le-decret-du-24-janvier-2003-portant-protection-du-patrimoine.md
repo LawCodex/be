@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/10/2023041125/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 23-03-2023 et mise à jour au 03-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2023. - Décret modifiant le décret du 24 janvier 2003 portant protection du patrimoine culturel mobilier présentant un intérêt exceptionnel et le Code flamand de la Fiscalité du 13 décembre 2013, en ce qui concerne la dation en paiement de biens culturels en paiement des droits de succession

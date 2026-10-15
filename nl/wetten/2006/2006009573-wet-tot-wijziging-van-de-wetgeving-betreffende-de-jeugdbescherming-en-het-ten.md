@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/06/13/2006009573/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 19-07-2006 en tekstbijwerking tot 12-01-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 2006. - Wet tot wijziging van de wetgeving betreffende de jeugdbescherming en het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd.

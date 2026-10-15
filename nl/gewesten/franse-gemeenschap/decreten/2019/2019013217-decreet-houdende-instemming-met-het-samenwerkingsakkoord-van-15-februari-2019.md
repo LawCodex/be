@@ -13,7 +13,7 @@ entry_into_force: 2019-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/25/2019013217/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Decreet houdende instemming met het samenwerkingsakkoord van 15 februari 2019 tussen de Franse Gemeenschap, de Vlaamse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie van Brussel Hoofdstedelijk Gewest betreffende de classificatie van films, vertoond in Belgische bioscoopzalen

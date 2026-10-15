@@ -13,7 +13,7 @@ entry_into_force: 1994-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/04/20/1994035551/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 1994. - Decreet tot wijziging van het decreet van 2 juli 1981 betreffende het beheer van afvalstoffen

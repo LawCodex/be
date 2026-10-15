@@ -12,7 +12,7 @@ entry_into_force: 1992-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1992/06/12/1992003455/justel"
 department: "Financiën"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 1992. - Wet tot bekrachtiging van het Wetboek van de inkomstenbelastingen 1992, gecoördineerd op 10 april 1992.

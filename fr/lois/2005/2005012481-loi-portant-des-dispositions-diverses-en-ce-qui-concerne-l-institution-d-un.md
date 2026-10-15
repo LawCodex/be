@@ -12,7 +12,7 @@ entry_into_force: 2005-11-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/09/17/2005012481/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBRE 2005. - Loi portant des dispositions diverses en ce qui concerne l'institution d'un groupe spécial de négociation, d'un organe de représentation et de procédures relatives à l'implication des travailleurs au sein de la Société européenne.

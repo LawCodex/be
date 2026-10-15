@@ -13,7 +13,7 @@ entry_into_force: 2024-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/17/2024005279/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2024. - Decreet tot instemming met de overeenkomst tussen de regering van het Koninkrijk België en de regering van de Republiek Albanië betreffende het luchtvervoer, ondertekend te Brussel op 30 november 2006

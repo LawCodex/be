@@ -11,7 +11,7 @@ published: 1962-11-14
 entry_into_force: 1962-11-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1962/08/20/1962082008/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AOUT 1962. - Loi portant approbation des actes internationaux suivants : a) Arrangement concernant les colis postaux et protocole final, règlement d'exécution, protocole final et annexes; b) Arrangement sur le service international de l'épargne, règlement d'exécution et annexes, signés à Ottawa, le 3 octobre 1957, et modifiant la loi du 26 décembre 1956 sur le service des postes.

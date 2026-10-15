@@ -13,7 +13,7 @@ entry_into_force: 2009-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/09/15/2009204478/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 SEPTEMBRE 2009. - Décret portant assentiment à la décision des représentants des gouvernements des Etats membres, réunis au sein du Conseil, concernant les privilèges et les immunités accordés à l'Agence européenne de défense et à son personnel, fait à Bruxelles le 10 novembre 2004, ainsi qu'au protocole complémentaire entre le Royaume de Belgique et l'Agence européenne de défense, fait à Bruxelles le 22 juin 2005

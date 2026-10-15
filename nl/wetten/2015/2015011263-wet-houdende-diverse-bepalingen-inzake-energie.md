@@ -12,7 +12,7 @@ entry_into_force: 2015-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/06/28/2015011263/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2015. - Wet houdende diverse bepalingen inzake energie

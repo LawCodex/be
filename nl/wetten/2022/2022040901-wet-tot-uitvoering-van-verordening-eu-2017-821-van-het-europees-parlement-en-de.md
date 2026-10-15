@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/04/01/2022040901/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 18-05-2022 en tekstbijwerking tot 18-05-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2022. - Wet tot uitvoering van Verordening (EU) 2017/821 van het Europees Parlement en de Raad van 17 mei 2017 tot vaststelling van verplichtingen inzake passende zorgvuldigheid in de toeleveringsketen voor Unie-importeurs van tin, tantaal en wolfraam, de overeenkomstige ertsen, en goud uit conflict- en hoogrisicogebieden

@@ -13,7 +13,7 @@ entry_into_force: 2018-09-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/19/2018204390/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2018. - Décret modifiant les décrets du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité et du 19 janvier 2017 relatif à la méthodologie tarifaire applicable aux gestionnaires de réseau de distribution de gaz et d'électricité en vue du déploiement des compteurs intelligents et de la flexibilité

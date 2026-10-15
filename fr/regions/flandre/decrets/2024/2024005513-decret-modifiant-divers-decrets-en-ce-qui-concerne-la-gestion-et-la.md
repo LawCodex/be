@@ -13,7 +13,7 @@ entry_into_force: 2024-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/17/2024005513/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2024. - Décret modifiant divers décrets, en ce qui concerne la gestion et la conservation de documents administratifs et de données à caractère personnel

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2007/07/19/2007031343/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 01-04-2009 et mise à jour au 05-07-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2007. - Ordonnance relative à la promotion de la santé dans la pratique du sport, à l'interdiction du dopage et à sa prévention.

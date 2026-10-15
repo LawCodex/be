@@ -12,7 +12,7 @@ entry_into_force: 2019-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/04/2019201743/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2019. - Loi modifiant la loi du 4 décembre 2007 relative aux élections sociales, la loi du 20 septembre 1948 portant organisation de l'économie et la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail

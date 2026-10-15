@@ -12,7 +12,7 @@ entry_into_force: 2014-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/24/2014014285/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2014. - Wet tot bekrachtiging van de koninklijke besluiten genomen met toepassing van de wet van 30 augustus 2013 betreffende de hervorming van de Belgische spoorwegen

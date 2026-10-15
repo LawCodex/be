@@ -11,7 +11,7 @@ date: 2020-11-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/11/12/2020031686/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 2020. - Decreet tot wijziging van het decreet van 12 januari 2017 betreffende de administratieve samenwerking op het gebied van de belastingen met het oog op de omzetting van de Europese Richtlijn 2018/822/EU betreffende de administratieve samenwerking

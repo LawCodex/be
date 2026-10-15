@@ -13,7 +13,7 @@ entry_into_force: 2016-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/04/2015036574/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2015. - Décret portant modification du Décret sur les arts du 13 décembre 2013, en ce qui concerne les conditions du Règlement général d'exemption par catégorie

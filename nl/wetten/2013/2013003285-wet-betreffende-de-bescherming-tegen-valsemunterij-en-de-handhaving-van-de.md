@@ -10,7 +10,7 @@ date: 2013-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/17/2013003285/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2013. - Wet betreffende de bescherming tegen valsemunterij en de handhaving van de kwaliteit van de geldomloop

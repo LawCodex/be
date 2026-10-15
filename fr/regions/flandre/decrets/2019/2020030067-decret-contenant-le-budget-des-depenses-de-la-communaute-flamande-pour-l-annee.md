@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/12/20/2020030067/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 09-03-2020 et mise à jour au 09-09-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2019. - Décret contenant le budget des Dépenses de la Communauté flamande pour l'année budgétaire 2020

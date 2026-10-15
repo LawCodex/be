@@ -13,7 +13,7 @@ entry_into_force: 2017-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/10/2017010867/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2017. - Decreet houdende instemming met de wijzigingen van de Bijlagen II en III bij het Verdrag van Parijs van 22 september 1992 inzake de bescherming van het marien milieu van de Noordoostelijke Atlantische Oceaan, aangenomen te Oostende op 29 juni 2007

@@ -13,7 +13,7 @@ entry_into_force: 2024-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/29/2024003349/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2024. - Decreet tot wijziging van het Bestuursdecreet van 7 december 2018, wat betreft specifieke regelingen voor de toegang tot bestuursdocumenten

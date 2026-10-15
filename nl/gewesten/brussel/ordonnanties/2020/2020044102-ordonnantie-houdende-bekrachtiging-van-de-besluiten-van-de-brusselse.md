@@ -13,7 +13,7 @@ entry_into_force: 2020-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/12/04/2020044102/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2020. - Ordonnantie houdende bekrachtiging van de besluiten van de Brusselse Hoofdstedelijke Regering tot uitvoering van de ordonnantie van 19 maart 2020 om bijzondere machten toe te kennen aan de Brusselse Hoofdstedelijke Regering in het kader van de gezondheidscrisis COVID-19

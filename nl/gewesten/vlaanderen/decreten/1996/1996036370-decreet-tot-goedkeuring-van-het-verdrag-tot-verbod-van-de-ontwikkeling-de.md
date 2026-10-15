@@ -12,7 +12,7 @@ entry_into_force: 1996-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/10/24/1996036370/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 1996. - Decreet tot goedkeuring van het Verdrag tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens en van drie bijlagen, ondertekend in Parijs op 13 januari 1993.

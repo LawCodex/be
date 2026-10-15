@@ -13,7 +13,7 @@ last_amended: 2019-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1928/06/05/1928060550/justel"
 justel_note: "Consultation des versions antérieures à partir du 03-08-1995 et mise à jour au 01-08-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 1928. - Loi portant revision du Code disciplinaire et pénal pour la marine marchande et la pêche maritime.

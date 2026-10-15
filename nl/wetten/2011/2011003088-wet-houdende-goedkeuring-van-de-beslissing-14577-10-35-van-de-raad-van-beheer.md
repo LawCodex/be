@@ -12,7 +12,7 @@ entry_into_force: 2011-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/02/22/2011003088/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2011. - Wet houdende goedkeuring van de Beslissing 14577 - (10/35) van de raad van beheer van het Internationaal Monetair Fonds van 12 april 2010 betreffende de amendering van de Nieuwe Leningsovereenkomsten

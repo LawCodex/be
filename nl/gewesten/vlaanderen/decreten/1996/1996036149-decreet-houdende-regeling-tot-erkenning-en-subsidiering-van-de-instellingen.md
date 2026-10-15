@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/24/1996036149/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 05-10-1996 en tekstbijwerking tot 21-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1996. - [Decreet houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling [...]] &lt;DVR 2008-07-10/47 , art. 2, 003; Inwerkingtreding : 23-08-2008&gt; &lt;Opschrift gewijzigd door DVR 2017-02-17/06 , art. 16, 005; Inwerkingtreding : 01-01-2018&gt;

@@ -11,7 +11,7 @@ entry_into_force: 2015-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/11/23/2015009566/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2015. - Wet met betrekking tot de inwerkingtreding van diverse bepalingen betreffende justitie

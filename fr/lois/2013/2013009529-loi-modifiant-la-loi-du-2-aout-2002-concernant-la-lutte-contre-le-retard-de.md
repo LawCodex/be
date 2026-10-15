@@ -12,7 +12,7 @@ entry_into_force: 2013-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/11/22/2013009529/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2013. - Loi modifiant la loi du 2 août 2002 concernant la lutte contre le retard de paiement dans les transactions commerciales

@@ -10,7 +10,7 @@ date: 1955-12-31
 published: 1956-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1955/12/31/1955123102/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 DECEMBRE 1955. \_ Loi qui rectifie et interprète diverses dispositions de la loi du 10 août 1953 concernant l'introduction dans la législation nationale de la loi uniforme sur les lettres de change et billets à ordre et sa mise en vigueur, et qui la coordonne avec la dite loi uniforme.

@@ -13,7 +13,7 @@ entry_into_force: 2017-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/04/20/2017011746/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2017. - Ordonnantie houdende instemming met het Verdrag van Minamata inzake kwik, aangenomen in Kumamoto (Japan) op 10 oktober 2013

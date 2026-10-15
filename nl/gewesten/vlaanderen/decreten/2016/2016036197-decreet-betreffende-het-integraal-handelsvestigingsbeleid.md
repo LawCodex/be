@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/15/2016036197/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 29-07-2016 en tekstbijwerking tot 17-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2016. - Decreet betreffende het integraal handelsvestigingsbeleid

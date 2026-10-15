@@ -13,7 +13,7 @@ entry_into_force: 1995-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/07/24/1995036000/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1995. - Decreet houdende regeling van de vervanging van de ministers binnen de Raad van de Franse Gemeenschap. (VERTALING)

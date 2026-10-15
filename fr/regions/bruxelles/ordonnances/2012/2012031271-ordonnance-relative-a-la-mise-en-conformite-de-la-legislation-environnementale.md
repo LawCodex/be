@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/05/10/2012031271/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 18-06-2014 et mise à jour au 18-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAI 2012. - Ordonnance relative à la mise en conformité de la législation environnementale avec la Directive 2008/99/CE relative à la protection de l'environnement par le droit pénal

@@ -12,7 +12,7 @@ entry_into_force: 2020-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/07/31/2020042797/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2020. - Loi réglant le traitement de l'information policière opérationnelle par le cadre administratif et logistique de la police intégrée

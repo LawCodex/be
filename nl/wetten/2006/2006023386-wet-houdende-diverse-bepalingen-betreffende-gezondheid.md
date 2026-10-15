@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/13/2006023386/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 22-12-2006 en tekstbijwerking tot 10-09-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2006. - Wet houdende diverse bepalingen betreffende gezondheid.

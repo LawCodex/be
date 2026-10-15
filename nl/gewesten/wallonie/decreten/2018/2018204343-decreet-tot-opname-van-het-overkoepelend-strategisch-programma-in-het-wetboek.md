@@ -12,7 +12,7 @@ published: 2018-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/19/2018204343/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2018. - Decreet tot opname van het overkoepelend strategisch programma in het Wetboek van de plaatselijke democratie en de decentralisatie en tot wijziging van het koninklijk besluit nr. 519 van 31 maart 1987 tot regeling van de vrijwillige mobiliteit tussen de statutaire personeelsleden van de gemeenten en openbare centra voor maatschappelijk welzijn die eenzelfde werkgebied hebben

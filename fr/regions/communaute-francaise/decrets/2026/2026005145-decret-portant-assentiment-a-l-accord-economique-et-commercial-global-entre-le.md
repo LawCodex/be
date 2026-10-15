@@ -13,7 +13,7 @@ entry_into_force: 2026-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/25/2026005145/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2026. - Décret portant assentiment à l'Accord économique et commercial global entre le Canada, d'une part, et l'Union européenne et ses Etats membres, d'autre part, fait à Bruxelles le 30 octobre 2016, et à son instrument interprétatif commun

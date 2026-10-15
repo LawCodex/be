@@ -11,7 +11,7 @@ published: 1955-01-26
 entry_into_force: 1955-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1955/01/10/1955011001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANUARI 1955. - Wet betreffende de bekendmaking en de toepassing der uitvindingen en fabrieksgeheimen welke de verdediging van het grondgebied of de veiligheid van de staat aangaan.

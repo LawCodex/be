@@ -13,7 +13,7 @@ entry_into_force: 2010-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2010/02/04/2010031084/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2010. - Ordonnantie houdende instemming met de Overeenkomst betreffende de deelname van de Republiek Bulgarije en Roemenië aan de Europese Economische Ruimte, en met de Slotakte, gedaan te Brussel op 25 juli 2007

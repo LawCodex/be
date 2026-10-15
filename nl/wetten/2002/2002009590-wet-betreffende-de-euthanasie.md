@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/05/28/2002009590/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 22-06-2002 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MEI 2002. - Wet betreffende de euthanasie.

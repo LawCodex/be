@@ -13,7 +13,7 @@ entry_into_force: 2014-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014203532/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret visant à la mise en oeuvre des résolutions de la Conférence des Nations unies sur les femmes à Pékin de septembre 1995 et intégrant la dimension du genre dans l'ensemble des politiques régionales

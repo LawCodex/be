@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/02/27/2023205966/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 12-12-2023 et mise à jour au 06-06-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2023. - Décret visant à soutenir l'éducation culturelle extrascolaire

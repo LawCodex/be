@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/12/16/1998027702/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1999 et mise à jour au 18-11-2000."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 1998. - Décret-programme portant diverses mesures en matière d'impôts, de taxes, d'épuration des eaux usées et de pouvoirs locaux. -

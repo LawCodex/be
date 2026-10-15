@@ -13,7 +13,7 @@ entry_into_force: 2022-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/12/01/2022034510/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2022. - Ordonnance modifiant l'ordonnance du 9 juin 2022 relative aux services de taxis et l'ordonnance du 6 mars 2019 relative au Code bruxellois de procédure fiscale

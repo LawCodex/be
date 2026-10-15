@@ -12,7 +12,7 @@ entry_into_force: 2017-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/02/20/2017020246/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2017. - Loi modifiant le Code de droit économique et la loi du 25 décembre 2016 modifiant le statut juridique des détenus et la surveillance des prisons et portant des dispositions diverses en matière de justice

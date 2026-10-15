@@ -13,7 +13,7 @@ entry_into_force: 2023-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/21/2023040368/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2022. - Décret relatif à la levée du secret professionnel en cas de signalement d'informations sur une irrégularité suspectée au sein d'un service du Gouvernement wallon ou d'un organisme d'intérêt public auquel est applicable le décret du 22 janvier 1998 relatif au statut du personnel de certains organismes d'intérêt public relevant de la Région wallonne

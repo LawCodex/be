@@ -12,7 +12,7 @@ entry_into_force: 2021-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/05/20/2021042005/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 2021. - Loi modifiant l'ancien Code civil en ce qui concerne les liens personnels entre frères et soeurs

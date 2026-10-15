@@ -12,7 +12,7 @@ entry_into_force: 2004-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/03/30/2004015099/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2004. - Loi portant assentiment à la Convention internationale pour la répression du financement du terrorisme, et à l'Annexe, adoptées à New York le 9 décembre 1999.

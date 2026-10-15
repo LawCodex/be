@@ -13,7 +13,7 @@ entry_into_force: 2015-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/25/2015029339/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2015. - Decreet houdende instemming met het samenwerkingsakkoord van 18 februari 2015 tussen de Franse Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de aankoop van vaccins om de kinderen, de zwangere vrouwen en de adolescenten te beschermen

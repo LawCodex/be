@@ -12,7 +12,7 @@ entry_into_force: 2017-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/04/18/2017030176/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2017. - Loi portant dispositions diverses en matière d'économie

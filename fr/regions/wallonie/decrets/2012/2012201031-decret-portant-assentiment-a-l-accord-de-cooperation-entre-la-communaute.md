@@ -13,7 +13,7 @@ entry_into_force: 2012-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/02/09/2012201031/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2012. - Décret portant assentiment à l'accord de coopération entre la Communauté française, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'éducation à l'environnement, à la nature et au développement durable

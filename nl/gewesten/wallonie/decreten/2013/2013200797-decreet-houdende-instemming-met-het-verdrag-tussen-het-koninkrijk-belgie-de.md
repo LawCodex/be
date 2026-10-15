@@ -13,7 +13,7 @@ entry_into_force: 2013-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/01/31/2013200797/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2013. - Decreet houdende instemming met het Verdrag tussen het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, de Republiek Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland, het Koninkrijk Zweden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (lidstaten van de Europese Unie) en de Republiek Kroatië betreffende de toetreding van de Republiek Kroatië tot de Europese Unie en de Slotakte, gedaan te Brussel op 9 december 2011

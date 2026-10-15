@@ -12,7 +12,7 @@ entry_into_force: 2002-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/05/03/2002003368/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2002. - Wet tot wijziging van de onverenigbaarheidsregeling voor de leiders van kredietinstellingen en beleggingsondernemingen.

@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/07/12/2000022561/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2000. - Loi modifiant, en ce qui concerne la cotisation due par les employeurs pour le chômage résultant de causes économiques, la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés.

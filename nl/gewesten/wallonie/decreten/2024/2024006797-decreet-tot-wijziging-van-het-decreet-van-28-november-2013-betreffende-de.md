@@ -13,7 +13,7 @@ entry_into_force: 2024-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/28/2024006797/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2024. - Decreet tot wijziging van het decreet van 28 november 2013 betreffende de energieprestatie van gebouwen

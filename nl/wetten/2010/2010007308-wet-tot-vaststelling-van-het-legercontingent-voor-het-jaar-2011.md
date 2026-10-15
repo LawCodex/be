@@ -12,7 +12,7 @@ entry_into_force: 2011-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/12/22/2010007308/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2010. - Wet tot vaststelling van het legercontingent voor het jaar 2011

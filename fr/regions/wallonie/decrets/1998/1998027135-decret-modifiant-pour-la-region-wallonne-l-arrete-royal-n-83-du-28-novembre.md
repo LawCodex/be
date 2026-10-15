@@ -13,7 +13,7 @@ entry_into_force: 1998-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/02/19/1998027135/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 1998. - Décret modifiant pour la Région wallonne l'arrêté royal n° 83 du 28 novembre 1939, confirmé par la loi du 16 juin 1947, relatif à la recherche et à l'exploitation des roches bitumineuses, du pétrole et des gaz combustibles (1).

@@ -12,7 +12,7 @@ entry_into_force: 2010-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/01/21/2010003056/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JANUARI 2010. - Wet houdende goedkeuring van de wijzigingen van de statuten van de Internationale Bank voor wederopbouw en ontwikkeling bij resolutie 596 van 30 januari 2009 van de Raad van gouverneurs van de Internationale Bank voor wederopbouw en ontwikkeling met het oog op de hervorming van het stemgewicht en deelname van de ontwikkelings- en transitielanden in de Internationale Bank voor wederopbouw en ontwikkeling

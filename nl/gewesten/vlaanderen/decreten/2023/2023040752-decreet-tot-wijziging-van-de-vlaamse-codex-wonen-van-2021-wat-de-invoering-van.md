@@ -13,7 +13,7 @@ entry_into_force: 2023-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/02/10/2023040752/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2023. - Decreet tot wijziging van de Vlaamse Codex Wonen van 2021, wat de invoering van een normenkader voor de tijdelijke huisvesting van arbeidskrachten betreft

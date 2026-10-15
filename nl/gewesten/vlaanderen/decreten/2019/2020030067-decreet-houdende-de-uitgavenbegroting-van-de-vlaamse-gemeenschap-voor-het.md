@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/12/20/2020030067/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 09-03-2020 en tekstbijwerking tot 09-09-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2019. - DECREET houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2020

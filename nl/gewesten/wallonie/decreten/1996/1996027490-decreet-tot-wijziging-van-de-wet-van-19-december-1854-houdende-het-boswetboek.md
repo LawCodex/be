@@ -12,7 +12,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/18/1996027490/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 1996. - Decreet tot wijziging van de wet van 19 december 1854 houdende het Boswetboek voor wat betreft de bijdrage van de gemeenten, de openbare instellingen en de eigenaars van onverdeelde bossen in de kosten van instandhouding en van beheer (VERTALING).

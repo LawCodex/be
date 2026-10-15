@@ -12,7 +12,7 @@ entry_into_force: 2018-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/12/14/2018206252/justel"
 department: "Finances - Justice - Sécurité sociale - Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2018. - Loi portant des dispositions diverses relatives au travail

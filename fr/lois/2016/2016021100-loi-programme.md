@@ -16,7 +16,7 @@ department: "Chancellerie du Premier Ministre"
 justel_notes:
   - "par son arrêt n° 124/2018 du 15-10-2018 (M.B. 15-10-2018, p. 78069), la Cour constitutionnelle a annulé les articles 51 à 58, en ce qu'ils autorisent les fonctionnaires de l'Administration Générale des Douanes et Accises à procéder à la saisie d'un véhicule dont le titulaire de la plaque d'immatriculation n'est pas le propriétaire"
   - "Consultation des versions antérieures à partir du 29-12-2016 et mise à jour au 15-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2016. - Loi-programme

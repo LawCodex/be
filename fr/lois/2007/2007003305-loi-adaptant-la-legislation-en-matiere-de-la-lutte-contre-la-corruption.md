@@ -12,7 +12,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/11/2007003305/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2007. - Loi adaptant la législation en matière de la lutte contre la corruption.

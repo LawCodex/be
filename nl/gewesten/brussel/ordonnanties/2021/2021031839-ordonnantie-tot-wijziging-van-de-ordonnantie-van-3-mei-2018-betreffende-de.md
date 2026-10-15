@@ -13,7 +13,7 @@ entry_into_force: 2021-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/07/15/2021031839/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2021. - Ordonnantie tot wijziging van de ordonnantie van 3 mei 2018 betreffende de steun voor de economische ontwikkeling van ondernemingen, in geval van een natuurramp, een ernstige verstoring van de economie of een buitengewone gebeurtenis

@@ -12,7 +12,7 @@ entry_into_force: 1999-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/29/1999016140/justel"
 department: "Classes Moyennes - Agriculture"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 1999. - Loi modifiant la loi du 24 juillet 1973 instaurant la fermeture obligatoire du soir dans le commerce, l'artisanat et les services.

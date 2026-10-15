@@ -12,7 +12,7 @@ entry_into_force: 1995-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/03/1995009346/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 1995. - Wet houdende aanpassing van de wet van 30 juni 1994 betreffende het auteursrecht en de naburige rechten.

@@ -12,7 +12,7 @@ entry_into_force: 2012-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/03/19/2012009197/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2012. - Loi modifiant le Code des sociétés en ce qui concerne la procédure de liquidation

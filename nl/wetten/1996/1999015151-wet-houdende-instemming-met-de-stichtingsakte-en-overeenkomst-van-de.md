@@ -10,7 +10,7 @@ date: 1996-12-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/12/06/1999015151/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 1996. - Wet houdende instemming met de Stichtingsakte en Overeenkomst van de internationale Unie betreffende Televerbindingen en het facultatief Protocol inzake de verplichte beslechting van geschillen, opgemaakt te Genève op 22 december 1992.

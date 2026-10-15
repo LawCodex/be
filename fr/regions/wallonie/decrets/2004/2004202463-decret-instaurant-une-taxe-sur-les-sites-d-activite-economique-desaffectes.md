@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/27/2004202463/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 30-07-2004 et mise à jour au 14-11-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2004. - Décret instaurant une taxe sur les sites d'activité économique désaffectés

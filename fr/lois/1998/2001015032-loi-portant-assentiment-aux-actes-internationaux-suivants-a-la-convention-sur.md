@@ -12,7 +12,7 @@ entry_into_force: 1998-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/12/2001015032/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 1998. - Loi portant assentiment aux actes internationaux suivants : a) la Convention, sur la base de l'article K.3 du Traité sur l'Union européenne, portant création d'un Office européen de police (Convention Europol), Annexe et Déclarations, faites à Bruxelles le 26 juillet 1995; b) le Protocole, établi sur la base de l'article K.3 du Traité sur l'Union européenne, concernant l'interprétation, à titre préjudiciel, par la Cour de Justice des Communautés européennes de la Convention portant création d'un Office européen de police et Déclarations, faites à Bruxelles le 24 juillet 1996; c) et le Protocole établissant sur la base de l'article K.3 du Traité sur l'Union européenne et de l'article 41, § 3 de la Convention Europol, les privilèges et immunités d'Europol, des membres de ses organes, de ses directeurs adjoints et de ses agents, fait à Bruxelles le 19 juin 1997. - Addendum.

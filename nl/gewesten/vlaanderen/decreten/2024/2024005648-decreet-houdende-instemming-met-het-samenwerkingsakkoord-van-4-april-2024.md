@@ -13,7 +13,7 @@ entry_into_force: 2024-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/17/2024005648/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2024. - Decreet houdende instemming met het samenwerkingsakkoord van 4 april 2024 tussen de Vlaamse Gemeenschap, het Vlaamse Gewest, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie, het Waalse Gewest, het Brusselse Hoofdstedelijke Gewest en de Federale Staat over de interbestuurlijke uitvoering van verordening (EU) 2018/1724 van het Europees Parlement en de Raad van 2 oktober 2018 tot oprichting van één digitale toegangspoort voor informatie, procedures en diensten voor ondersteuning en probleemoplossing en houdende wijziging van Verordening (EU) nr. 1024/2012

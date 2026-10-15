@@ -11,7 +11,7 @@ date: 2022-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/15/2022015547/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2022. - Decreet tot instemming met het samenwerkingsakkoord van 12 mei 2022 tot wijziging van het samenwerkingsakkoord van 20 december 2018 tussen de Vlaamse Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie met betrekking tot het verplicht inburgeringstraject voor de nieuwkomers in Brussel-Hoofdstad

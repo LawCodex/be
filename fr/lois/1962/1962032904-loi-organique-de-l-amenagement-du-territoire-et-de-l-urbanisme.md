@@ -17,7 +17,7 @@ justel_notes:
   - "pour la Région flamande, cette loi a été remplacée par le DCFL 1996-10-22/40."
   - "la plupart des dispositions de cette loi ont cessé d'être applicables à la Région de Bruxelles-Capitale; voir ORD 1991-08-29/31, art. 195, En vigueur : indéterminée , au plus tard le 01-07-1992; ORD 2002-07-18/37, art. 63, En vigueur : 07-08-2002; ORD 2004-05-13/31, art. 33, En vigueur : 05-06-2004; en vertu de COBAT 2004-04-09/35, art. 315, En vigueur : 05-06-2004, la loi tout entière a cessé d'être applicable à la Région de Bruxelles-Capitale, à l'exception de l'article 70."
   - "Consultation des versions antérieures à partir du 01-01-1989 et mise à jour au 26-05-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 1962. - Loi organique de l'aménagement du territoire et de l'urbanisme.

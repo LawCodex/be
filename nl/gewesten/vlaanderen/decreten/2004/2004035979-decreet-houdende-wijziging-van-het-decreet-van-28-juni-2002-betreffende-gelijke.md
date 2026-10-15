@@ -13,7 +13,7 @@ entry_into_force: 2004-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/30/2004035979/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2004. - Decreet houdende wijziging van het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I.

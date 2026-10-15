@@ -12,7 +12,7 @@ entry_into_force: 2024-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/07/2024004344/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2024. - Loi portant des dispositions diverses relatives au statut du personnel judiciaire

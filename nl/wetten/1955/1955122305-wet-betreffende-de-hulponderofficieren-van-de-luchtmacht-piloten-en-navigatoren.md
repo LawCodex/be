@@ -13,7 +13,7 @@ last_amended: 2007-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1955/12/23/1955122305/justel"
 justel_note: "raadpleging van vroegere versies vanaf 12-03-1987 en tekstbijwerking tot 10-04-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1955. - Wet betreffende de hulponderofficieren van de Luchtmacht, piloten en navigatoren.

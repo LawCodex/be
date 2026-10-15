@@ -13,7 +13,7 @@ entry_into_force: 2016-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/04/28/2016202438/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2016. - Decreet tot uitvoering van de zesde Staatshervorming en houdende verschillende bepalingen inzake het tewerkstellingsbeleid

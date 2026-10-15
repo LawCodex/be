@@ -12,7 +12,7 @@ entry_into_force: 2016-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/06/23/2008015116/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2008. - Wet houdende instemming met volgende Internationale Akten : Aanvullende Overeenkomst nr. 5 bij de Overeenkomst tussen de Regering van de Franse Republiek en de Regering van het Koninkrijk België betreffende de gezamenlijke uitvoering van een programma voor de observatie van de aarde, en Bijlage, en Wijziging nr. 1 in de Aanvullende Overeenkomst nr. 4 tussen de Regering van de Franse Republiek en de Regering van het Koninkrijk België betreffende de gezamenlijke uitvoering van een programma voor de observatie van de aarde, gedaan te Parijs op 21 juni 2001

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/03/2024005080/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 31-05-2024 en tekstbijwerking tot 07-05-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2024. - Wet houdende diverse bepalingen inzake economie (I)

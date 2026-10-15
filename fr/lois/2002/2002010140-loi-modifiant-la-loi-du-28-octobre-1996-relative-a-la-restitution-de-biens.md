@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/11/26/2002010140/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2002. - Loi modifiant la loi du 28 octobre 1996 relative à la restitution de biens culturels ayant quitté illicitement le territoire de certains Etats étrangers.

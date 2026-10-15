@@ -12,7 +12,7 @@ entry_into_force: 2014-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/10/2014000107/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2014. - Loi portant dispositions diverses en matière électorale

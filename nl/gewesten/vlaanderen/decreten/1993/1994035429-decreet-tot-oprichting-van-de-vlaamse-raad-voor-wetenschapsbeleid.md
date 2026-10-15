@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/12/15/1994035429/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-11-2006 en tekstbijwerking tot 06-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 1993. - Decreet tot oprichting van de Vlaamse Raad voor Wetenschapsbeleid. .

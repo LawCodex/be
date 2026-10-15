@@ -13,7 +13,7 @@ entry_into_force: 2014-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/13/2014201919/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2014. - Décret portant assentiment à la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants, adoptée par l'Assemblée générale de l'ONU le 10 décembre 1984, ainsi que son Protocole facultatif adopté par l'Assemblée générale de l'ONU le 18 décembre 2002

@@ -13,7 +13,7 @@ entry_into_force: 2024-10-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/12/06/2024011305/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2024. - Decreet tot wijziging van artikel 6 van het decreet van 22 december 2017 over het lokaal bestuur, wat betreft een verbeterende akte als gevolg van een arrest dat de verkiezingsuitslag wijzigt

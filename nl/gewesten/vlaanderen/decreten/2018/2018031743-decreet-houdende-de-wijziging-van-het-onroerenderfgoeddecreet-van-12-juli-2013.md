@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/13/2018031743/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 27-08-2018 en tekstbijwerking tot 19-06-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2018. - Decreet houdende de wijziging van het Onroerenderfgoeddecreet van 12 juli 2013 naar aanleiding van de ex-post evaluatie

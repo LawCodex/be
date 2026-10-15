@@ -13,7 +13,7 @@ entry_into_force: 2001-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/12/2001027422/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2001. - Décret portant assentiment à l'Accord de coopération entre le Gouvernement de la Région wallonne et le Gouvernement de la Communauté française de Belgique et le Gouvernement de la République tunisienne et son Annexe, fait à Tunis le 30 septembre 1998.

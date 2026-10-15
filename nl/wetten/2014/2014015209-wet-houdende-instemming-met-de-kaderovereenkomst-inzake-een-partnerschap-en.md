@@ -11,7 +11,7 @@ entry_into_force: 2014-12-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/15/2014015209/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2014. - Wet houdende instemming met de Kaderovereenkomst inzake een partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en Mongolië, anderzijds, gedaan te Ulaanbaatar op 30 april 2013

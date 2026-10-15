@@ -13,7 +13,7 @@ entry_into_force: 2021-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/01/08/2021040323/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JANUARI 2021. - Decreet tot wijziging van het decreet van 10 juli 2008 betreffende het beheer en de uitbating van de regionale luchthavens Oostende-Brugge, Kortrijk-Wevelgem en Antwerpen, wat betreft de fusie van de LOM Antwerpen en de LOM Oostende-Brugge

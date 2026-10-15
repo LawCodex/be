@@ -13,7 +13,7 @@ entry_into_force: 2017-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/12/2016206371/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2016. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en Jersey inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te Londen op 13 maart 2014

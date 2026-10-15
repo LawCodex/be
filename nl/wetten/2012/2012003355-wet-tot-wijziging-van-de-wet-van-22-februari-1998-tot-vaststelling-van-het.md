@@ -10,7 +10,7 @@ date: 2012-11-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/11/27/2012003355/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2012. - Wet tot wijziging van de wet van 22 februari 1998 tot vaststelling van het organiek statuut van de Nationale Bank van België

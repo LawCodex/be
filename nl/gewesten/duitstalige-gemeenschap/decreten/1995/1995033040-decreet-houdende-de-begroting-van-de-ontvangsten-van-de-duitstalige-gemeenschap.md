@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/01/18/1995033040/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 19-08-1995 en tekstbijwerking tot 17-04-1996"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 1995. - Decreet houdende de begroting van de ontvangsten van de Duitstalige Gemeenschap voor het begrotingsjaar 1995 (VERTALING).

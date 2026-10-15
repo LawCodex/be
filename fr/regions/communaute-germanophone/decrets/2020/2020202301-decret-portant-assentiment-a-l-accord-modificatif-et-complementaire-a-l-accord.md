@@ -13,7 +13,7 @@ entry_into_force: 2020-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/04/27/2020202301/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2020. - Décret portant assentiment à l'accord modificatif et complémentaire à l'accord signé à Bruxelles le 12 mai 1967 entre le Royaume de Belgique et le Quartier général suprême des Forces alliées en Europe, concernant les conditions particulières d'installation et de fonctionnement de ce Quartier général sur le territoire belge, fait à Bruxelles le 10 septembre 2013

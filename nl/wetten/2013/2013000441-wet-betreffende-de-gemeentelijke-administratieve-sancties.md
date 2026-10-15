@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/06/24/2013000441/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 01-07-2013 en tekstbijwerking tot 03-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2013. - Wet betreffende de gemeentelijke administratieve sancties

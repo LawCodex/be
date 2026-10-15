@@ -12,7 +12,7 @@ entry_into_force: 1992-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/01/30/1996003142/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 1996. - Wet tot wijziging van diverse bepalingen inzake de belasting van niet-inwoners.

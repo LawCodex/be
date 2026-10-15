@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/05/08/2014031461/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2014. - Ordonnance modifiant l'ordonnance du 25 mars 1999 relative à la recherche, la constatation, la poursuite et la répression des infractions en matière d'environnement, d'autres législations en matière d'environnement et instituant un Code de l'inspection, la prévention, la constatation et la répression des infractions en matière d'environnement et de la responsabilité environnementale

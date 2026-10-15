@@ -12,7 +12,7 @@ entry_into_force: 2014-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/03/27/2014011220/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Loi portant insertion du Livre XVIII "Instruments de gestion de crise" dans le Code de droit économique et portant insertion des dispositions d'application de la loi propres au livre XVIII, dans le livre XV du Code de droit économique

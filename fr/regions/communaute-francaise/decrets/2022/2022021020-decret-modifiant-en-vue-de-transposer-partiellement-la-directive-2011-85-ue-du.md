@@ -13,7 +13,7 @@ entry_into_force: 2022-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/23/2022021020/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2022. - Décret modifiant, en vue de transposer partiellement la Directive 2011/85/UE du Conseil européen du 8 novembre 2011 sur les exigences applicables aux cadres budgétaires des Etats membres, le décret du 20 décembre 2011 portant organisation du budget et de la comptabilité des Services du Gouvernement de la Communauté française

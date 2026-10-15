@@ -11,7 +11,7 @@ entry_into_force: 2010-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/02/21/2010015044/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2010. - Wet houdende instemming met de Unidroit-Overeenkomst inzake de internationale factoring, gedaan te Ottawa op 28 mei 1988

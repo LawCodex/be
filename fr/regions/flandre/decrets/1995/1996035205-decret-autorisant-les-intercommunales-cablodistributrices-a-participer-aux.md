@@ -13,7 +13,7 @@ entry_into_force: 1996-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/20/1996035205/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1995. - Décret autorisant les intercommunales câblodistributrices à participer aux sociétés qui étendent le réseau câble en Flandre à un réseau de communication interactif et/ou en assurent l'exploitation (TRADUCTION).

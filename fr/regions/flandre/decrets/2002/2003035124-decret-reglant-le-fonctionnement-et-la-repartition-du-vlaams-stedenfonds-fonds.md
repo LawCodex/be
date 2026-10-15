@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/13/2003035124/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2003 et mise à jour au 30-12-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2002. - Décret réglant le fonctionnement et la répartition du " Vlaams Stedenfonds ". (Fonds flamand des Villes) (TRADUCTION)

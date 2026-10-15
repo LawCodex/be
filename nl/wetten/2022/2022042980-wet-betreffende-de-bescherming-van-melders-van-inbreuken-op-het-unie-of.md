@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/28/2022042980/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 15-12-2022 en tekstbijwerking tot 28-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2022. - Wet betreffende de bescherming van melders van inbreuken op het Unie- of nationale recht vastgesteld binnen een juridische entiteit in de private sector

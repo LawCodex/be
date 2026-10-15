@@ -12,7 +12,7 @@ entry_into_force: 2009-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/03/20/2009011182/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2009. - Loi modifiant la loi du 16 janvier 2003 portant création d'une Banque-Carrefour des Entreprises, modernisation du registre de commerce, création de guichets-entreprises agréés et portant diverses dispositions

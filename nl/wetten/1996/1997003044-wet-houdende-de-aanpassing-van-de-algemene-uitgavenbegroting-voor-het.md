@@ -12,7 +12,7 @@ entry_into_force: 1997-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/12/16/1997003044/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 1996. - Wet houdende de aanpassing van de Algemene Uitgavenbegroting voor het begrotingsjaar 1993.

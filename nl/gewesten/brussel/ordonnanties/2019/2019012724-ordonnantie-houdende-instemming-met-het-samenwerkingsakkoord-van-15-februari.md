@@ -13,7 +13,7 @@ entry_into_force: 2019-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/05/16/2019012724/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2019. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 15 februari 2019 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie van Brussel-Hoofdstad betreffende de classificatie van films, vertoond in Belgische bioscoopzalen

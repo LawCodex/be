@@ -12,7 +12,7 @@ entry_into_force: 2024-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/25/2024003966/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2024. - Loi portant organisation des audiences par vidéoconférence dans le cadre des procédures judiciaires

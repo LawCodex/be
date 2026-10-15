@@ -13,7 +13,7 @@ entry_into_force: 2015-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/03/27/2015031150/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Ordonnance portant assentiment : 1° à la Convention entre le Royaume de Belgique et la République d'Islande tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 23 mai 2000, telle que modifiée par le Protocole, fait à Bruxelles le 15 septembre 2009 ; et 2° au Protocole, fait à Bruxelles le 15 septembre 2009, modifiant la Convention entre le Royaume de Belgique et la République d'Islande tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 23 mai 2000

@@ -13,7 +13,7 @@ entry_into_force: 2000-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/07/17/2000035796/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2000. - Decreet houdende goedkeuring van het samenwerkingsakkoord van 21 juni 1999 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken.

@@ -12,7 +12,7 @@ entry_into_force: 2017-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/06/06/2016011265/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2016. - Loi modifiant le Code de droit économique, en ce qui concerne les extraits de la Banque-Carrefour des Entreprises

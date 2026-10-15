@@ -13,7 +13,7 @@ entry_into_force: 2025-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/06/27/2025005298/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2025. - Décret modifiant les articles 12/3 et 12/4 de la loi du 30 avril 1999 relative à l'occupation des travailleurs étrangers et l'article 13/6 du décret du 30 avril 2004 relatif au contrôle des lois sociales

@@ -13,7 +13,7 @@ entry_into_force: 1984-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1983/11/16/1983023701/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 1983. - Decreet houdende aanvulling van de examenmateries voor de kandidaturen in de wetenschappen, groep biologie, de farmaceutische wetenschappen, de geneeskundige wetenschappen, de diergeneeskundige wetenschappen, de tandheelkunde en landbouwkundig ingenieur, met alternatieve experimentele methodes zonder proefdieren.

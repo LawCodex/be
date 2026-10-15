@@ -12,7 +12,7 @@ entry_into_force: 2003-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/01/14/2003015062/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 1994. - Loi portant assentiment au Protocole, adopté à Darmstadt le 5 juin 1991 par le Conseil d'EUMETSAT, portant amendement à la Convention établissant l'Organisation européenne pour l'exploitation de satellites météorologiques (EUMETSAT) du 24 mai 1983.

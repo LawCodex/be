@@ -13,7 +13,7 @@ entry_into_force: 2011-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/10/20/2011029582/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 2011. - Décret instituant le Conseil supérieur des Sports

@@ -12,7 +12,7 @@ entry_into_force: 1981-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1981/02/10/1981000208/justel"
 department: "Prévoyance Sociale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 1981. - Loi de redressement relative à la sécurité sociale et au bien-être en 1981.

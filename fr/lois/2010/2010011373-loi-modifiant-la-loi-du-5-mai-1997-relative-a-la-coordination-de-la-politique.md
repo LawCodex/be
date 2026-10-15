@@ -12,7 +12,7 @@ entry_into_force: 2011-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/07/30/2010011373/justel"
 department: "Développement Durable"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2010. - Loi modifiant la loi du 5 mai 1997 relative à la coordination de la politique fédérale de développement durable en ce qui concerne l'évaluation d'incidence des décisions sur le développement durable

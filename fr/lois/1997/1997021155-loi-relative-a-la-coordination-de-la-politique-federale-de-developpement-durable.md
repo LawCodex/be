@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/05/05/1997021155/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 18-06-1997 et mise à jour au 04-02-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 1997. - Loi relative à la coordination de la politique fédérale de développement durable.

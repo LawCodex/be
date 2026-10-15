@@ -10,7 +10,7 @@ date: 1925-12-30
 published: 1926-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1925/12/30/1925123001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 1925. - Loi portant modification des lois relatives aux brevets d'invention, aux marques de fabrique et de commerce, aux dessins et modèles industriels et à la propriété industrielle en général.

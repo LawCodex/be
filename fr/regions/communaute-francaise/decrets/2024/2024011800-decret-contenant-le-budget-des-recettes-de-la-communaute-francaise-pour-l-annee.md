@@ -13,7 +13,7 @@ entry_into_force: 2025-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/12/11/2024011800/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2024. - Décret contenant le budget des recettes de la communauté française pour l'année budgétaire 2025

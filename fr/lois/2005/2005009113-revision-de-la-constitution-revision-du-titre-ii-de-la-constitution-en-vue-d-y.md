@@ -12,7 +12,7 @@ entry_into_force: 2005-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/02/02/2005009113/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 FEVRIER 2005. - Révision de la Constitution. - Révision du titre II de la Constitution en vue d'y insérer un article nouveau relatif à l'abolition de la peine de mort.

@@ -11,7 +11,7 @@ published: 1999-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/09/1999015195/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 1999. - Wet houdende instemming met het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing, aangenomen te New York op 10 december 1984.

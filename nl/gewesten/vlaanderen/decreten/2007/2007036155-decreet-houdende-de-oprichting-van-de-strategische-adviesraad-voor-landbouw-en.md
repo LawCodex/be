@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/06/2007036155/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 20-07-2007 en tekstbijwerking tot 30-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2007. - Decreet houdende de oprichting van de Strategische Adviesraad voor Landbouw en Visserij

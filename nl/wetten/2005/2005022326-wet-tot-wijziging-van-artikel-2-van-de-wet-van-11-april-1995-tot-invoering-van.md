@@ -12,7 +12,7 @@ entry_into_force: 2005-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/03/10/2005022326/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2005. - Wet tot wijziging van artikel 2 van de wet van 11 april 1995 tot invoering van het " handvest van de sociaal verzekerde ".

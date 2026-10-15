@@ -12,7 +12,7 @@ entry_into_force: 2009-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/12/19/2008022703/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2008. - Loi portant des dispositions diverses en matière de santé

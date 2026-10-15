@@ -13,7 +13,7 @@ entry_into_force: 2017-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/16/2017201628/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 2017. - Decreet met het oog op de wijziging van artikel 97 van het decreet van 11 maart 1999 betreffende de milieuvergunning en van artikel 30 van het decreet van 20 juli 2016 tot opheffing van het decreet van 24 april 2014 tot opheffing van de artikelen 1 tot 128 en 129quater tot 184 van het Waalse Wetboek van Ruimtelijke Ordening, Stedenbouw, Patrimonium en Energie, tot opheffing van de artikelen 1 tot 128 en 129quater tot 184 van het Waalse Wetboek van Ruimtelijke Ordening, Stedenbouw en Patrimonium en tot vorming van het Wetboek van Ruimtelijke Ontwikkeling

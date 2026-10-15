@@ -12,7 +12,7 @@ entry_into_force: 1989-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/07/18/1990021166/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 1990. - Wet tot wijziging van de wet van 31 december 1983 tot hervorming der instellingen van de Duitstalige Gemeenschap.

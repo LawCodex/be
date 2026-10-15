@@ -12,7 +12,7 @@ entry_into_force: 1991-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/10/17/1991015046/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OCTOBRE 1990. - Loi portant approbation de la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de l'Union des Républiques Socialistes Soviétiques pour éviter la double imposition des revenus et de la fortune, signée à Bruxelles le 17 décembre 1987.

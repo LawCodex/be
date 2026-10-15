@@ -12,7 +12,7 @@ entry_into_force: 2019-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/12/03/2018014287/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2017. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Zuid-Afrika inzake het verrichten van betaalde werkzaamheden door partners van het diplomatiek en consulair personeel, gedaan te Pretoria op 14 januari 2016

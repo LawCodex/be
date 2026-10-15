@@ -12,7 +12,7 @@ entry_into_force: 2006-10-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/01/10/2006015028/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2006. - Loi portant assentiment à la Convention générale de coopération entre le royaume de Belgique et le Burkina Faso, signée à Bruxelles le 14 janvier 2003.

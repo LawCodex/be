@@ -12,7 +12,7 @@ entry_into_force: 1999-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/13/1999011023/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JANUARI 1999. - Wet tot aanvulling van artikel 52, § 1, van de wet van 14 juli 1991 betreffende de handelspraktijken en de voorlichting en bescherming van de consument.

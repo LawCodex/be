@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/14/2017010277/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 25-01-2017 et mise à jour au 12-09-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2016. - Décret portant sur la création d'un Institut de promotion des formations sur l'islam

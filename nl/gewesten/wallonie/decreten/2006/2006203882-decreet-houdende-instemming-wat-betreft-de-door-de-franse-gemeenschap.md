@@ -12,7 +12,7 @@ entry_into_force: 2006-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/11/10/2006203882/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2006. - Decreet houdende instemming, wat betreft de door de Franse Gemeenschap overgedragen aangelegenheden, met het Instrument tot wijziging van het statuut van de Internationale Arbeidsorganisatie, aangenomen door de Internationale Arbeidsconferentie in haar vijfentachtigste zitting te Genève, op 19 juni 1997 (VERTALING).

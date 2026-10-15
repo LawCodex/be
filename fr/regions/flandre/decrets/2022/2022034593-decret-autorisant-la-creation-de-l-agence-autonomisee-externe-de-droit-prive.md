@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/02/2022034593/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 14-12-2022 et mise à jour au 18-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2022. - Décret autorisant la création de l'agence autonomisée externe de droit privé Service public flamand des données (" Vlaams Datanutsbedrijf ") sous forme de société anonyme

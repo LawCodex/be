@@ -12,7 +12,7 @@ entry_into_force: 2005-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/07/2005007103/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2005. - Loi contenant le deuxième ajustement du Budget général des dépenses pour l'année budgétaire 2004. - Section 16 "Défense nationale".

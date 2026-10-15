@@ -13,7 +13,7 @@ entry_into_force: 2013-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/07/02/2020042079/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2020. - Ordonnance portant assentiment à l'Accord entre le Royaume de Belgique et l'Organisation des Nations unies pour l'éducation, la science et la culture sur l'établissement en Belgique par cette organisation d'un bureau de liaison auprès des institutions de l'Union européenne, avec Annexe, faits à Paris le 3 juillet 2013

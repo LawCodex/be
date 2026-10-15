@@ -13,7 +13,7 @@ entry_into_force: 1998-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/06/25/1998027385/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 1998. - Décret modifiant l'article 186 de la loi du 19 décembre 1854 contenant le Code forestier.

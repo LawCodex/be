@@ -12,7 +12,7 @@ entry_into_force: 2004-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/04/2004003291/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2004. - Wet tot bekrachtiging van het koninklijk besluit van 22 december 2003 betreffende de bijdrage in de werkings-, personeels- en oprichtingskosten van de kansspelcommissie verschuldigd door de houders van de vergunningen klasse A, B, C en E.

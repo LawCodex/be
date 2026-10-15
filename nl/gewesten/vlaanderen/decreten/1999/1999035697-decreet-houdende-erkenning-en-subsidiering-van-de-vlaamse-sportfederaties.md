@@ -12,7 +12,7 @@ published: 1999-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/13/1999035697/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 1999. - Decreet houdende erkenning en subsidiëring van de Vlaamse sportfederaties.

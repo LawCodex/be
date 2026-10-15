@@ -13,7 +13,7 @@ entry_into_force: 2017-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/17/2017011141/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2017. - Décret modifiant diverses dispositions du décret du 7 mai 2004 portant transformation de l'a.s.b.l. " de Rand " en une agence autonomisée externe de droit privé et portant fixation des compétences de la province du Brabant flamand relatives à l'appui du " Vlaamse Rand "

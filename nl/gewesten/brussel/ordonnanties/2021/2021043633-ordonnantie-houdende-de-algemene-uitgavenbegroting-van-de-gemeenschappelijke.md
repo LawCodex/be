@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/12/24/2021043633/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 28-01-2022 en tekstbijwerking tot 12-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2021. - Ordonnantie houdende de Algemene Uitgavenbegroting van de Gemeenschappelijke Gemeenschapscommissie voor het begrotingsjaar 2022

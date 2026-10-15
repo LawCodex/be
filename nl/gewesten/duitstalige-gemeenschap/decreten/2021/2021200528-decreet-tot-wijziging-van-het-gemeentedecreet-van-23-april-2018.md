@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/01/25/2021200528/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 15-02-2021 en tekstbijwerking tot 31-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2021. - Decreet tot wijziging van het gemeentedecreet van 23 april 2018

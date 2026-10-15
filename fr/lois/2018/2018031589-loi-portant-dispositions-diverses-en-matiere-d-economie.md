@@ -12,7 +12,7 @@ entry_into_force: 2018-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/30/2018031589/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2018. - Loi portant dispositions diverses en matière d'Economie

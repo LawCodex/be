@@ -12,7 +12,7 @@ entry_into_force: 2022-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/23/2021022825/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2021. - Wet tot wijziging van het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg, teneinde de bijzondere overrijdbare beddingen open te stellen voor het schoolvervoer van personen met een handicap

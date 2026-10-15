@@ -13,7 +13,7 @@ entry_into_force: 2024-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/05/16/2024005049/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Ordonnance modifiant l'ordonnance du 19 juillet 2001 relative aux enquêtes parlementaire

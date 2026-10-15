@@ -13,7 +13,7 @@ entry_into_force: 2018-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/24/2018202791/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2018. - Décret portant assentiment à l'accord de coopération du 1er juin 2011 entre l'Etat fédéral et les Régions et Communautés concernant la coordination des contrôles en matière de travail illégal et de fraude sociale

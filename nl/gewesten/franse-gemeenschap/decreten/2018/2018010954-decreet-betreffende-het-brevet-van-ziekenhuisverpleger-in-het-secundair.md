@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/01/18/2018010954/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 28-02-2018 en tekstbijwerking tot 13-05-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2018. - Decreet betreffende het brevet van ziekenhuisverpleger in het secundair onderwijs voor sociale promotie van de vierde graad

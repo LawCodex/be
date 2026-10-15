@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/03/23/2017012043/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 19-05-2017 et mise à jour au 29-10-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2017. - Loi relative à l'application du principe de reconnaissance mutuelle aux décisions relatives à des mesures de contrôles prononcées à titre d'alternative à la détention préventive

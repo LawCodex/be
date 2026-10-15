@@ -13,7 +13,7 @@ entry_into_force: 2022-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/04/29/2022032041/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2022. - Decreet tot instemming met het verdrag betreffende de automatische erkenning van diploma's in het hoger onderwijs, gedaan te Brussel op 14 september 2021

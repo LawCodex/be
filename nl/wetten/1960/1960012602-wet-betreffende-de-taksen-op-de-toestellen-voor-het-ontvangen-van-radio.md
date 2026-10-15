@@ -11,7 +11,7 @@ published: 1960-02-06
 entry_into_force: 1960-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1960/01/26/1960012602/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 1960. - Wet betreffende de taksen op de toestellen voor het ontvangen van radio-omroepuitzendingen.

@@ -12,7 +12,7 @@ entry_into_force: 2021-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/07/12/2021031824/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2021. - Wet tot wijziging van het Wetboek van vennootschappen en verenigingen en van de wet van 16 maart 1803 tot regeling van het notarisambt en houdende diverse bepalingen ingevolge de omzetting van Richtlijn (EU) 2019/1151 van het Europees Parlement en de Raad van 20 juni 2019 tot wijziging van Richtlijn (EU) 2017/1132 met betrekking tot het gebruik van digitale instrumenten en processen in het kader van het vennootschapsrecht

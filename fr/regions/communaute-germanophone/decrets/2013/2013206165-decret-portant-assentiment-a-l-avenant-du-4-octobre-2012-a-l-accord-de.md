@@ -13,7 +13,7 @@ entry_into_force: 2013-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/10/14/2013206165/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OCTOBRE 2013. - Décret portant assentiment à l'avenant du 4 octobre 2012 à l'accord de coopération du 30 mai 2005 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale et la Communauté germanophone relatif à l'économie plurielle

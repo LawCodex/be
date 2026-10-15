@@ -12,7 +12,7 @@ entry_into_force: 2020-11-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/10/27/2020043572/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2020. - Loi modifiant l'arrêté royal du 10 novembre 2005 fixant les contributions visées à l'article 4 de la loi du 9 décembre 2004 relative au financement de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire

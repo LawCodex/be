@@ -13,7 +13,7 @@ entry_into_force: 2007-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/03/09/2007035498/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2007. - Decreet tot bekrachtiging van de eindtermen en ontwikkelingsdoelen "informatie- en communicatietechnologie" in het basis- en secundair onderwijs.

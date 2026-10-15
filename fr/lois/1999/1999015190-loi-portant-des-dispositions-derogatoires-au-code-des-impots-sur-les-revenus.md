@@ -12,7 +12,7 @@ entry_into_force: 1977-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/05/1999015190/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 1999. - Loi portant des dispositions dérogatoires au Code des impôts sur les revenus 1992 en ce qui concerne l'exécution de l'Accord de siège entre le Royaume de Belgique et le Groupe des Etats d'Afrique, des Caraïbes et du Pacifique, signé à Bruxelles le 26 avril 1993.

@@ -12,7 +12,7 @@ entry_into_force: 2022-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/01/26/2019013108/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2018. - Loi portant assentiment à l'Accord de partenariat stratégique entre l'Union européenne et ses Etats Membres, d'une part, et le Canada, d'autre part, fait à Bruxelles le 30 octobre 2016

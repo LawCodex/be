@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/11/1999007003/justel"
 department: "Défense Nationale"
 justel_note: "Consultation des versions antérieures à partir du 07-05-1999 et mise à jour au 16-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 1998. - [loi du 11 décembre 1998 portant création d'un organe de recours en matière d'habilitations et d'avis de sécurité] &lt;Intitulé remplacé par L 2024-06-16/13 , art. 2, 006; En vigueur : 01-02-2025&gt;

@@ -12,7 +12,7 @@ entry_into_force: 2014-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/19/2014011331/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2014. - Loi portant assentiment à l'Accord de coopération du 27 février 2014 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à la création d'un comité de coordination et de facilitation pour l'octroi des autorisations pour des projets d'infrastructures énergétiques transeuropéennes, en exécution du Règlement (UE) n° 347/2013

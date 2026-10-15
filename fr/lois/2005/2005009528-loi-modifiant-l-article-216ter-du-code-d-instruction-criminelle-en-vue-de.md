@@ -12,7 +12,7 @@ entry_into_force: 2005-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/06/22/2005009528/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2005. - Loi modifiant l'article 216ter du Code d'instruction criminelle en vue de réintroduire le travail d'intérêt général dans le cadre de la médiation pénale.

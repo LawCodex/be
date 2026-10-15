@@ -13,7 +13,7 @@ entry_into_force: 2013-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/17/2013029484/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2013. - Décret modifiant le décret du 10 novembre 2011 relatif au soutien au cinéma et à la création audiovisuelle

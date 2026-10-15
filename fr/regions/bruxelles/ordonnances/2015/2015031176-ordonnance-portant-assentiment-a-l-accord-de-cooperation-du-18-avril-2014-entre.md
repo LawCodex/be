@@ -13,7 +13,7 @@ entry_into_force: 2015-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/03/19/2015031176/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2015. - Ordonnance portant assentiment à l'accord de coopération du 18 avril 2014 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant la Structure de Coordination de l'information patrimoniale

@@ -12,7 +12,7 @@ entry_into_force: 2007-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/10/26/2007002042/justel"
 department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 OCTOBRE 2006. - Loi modifiant la loi du 26 mai 2002 concernant le droit à l'intégration sociale afin d'encourager l'effort d'intégration des personnes sans abri consenti par un centre public d'action sociale.

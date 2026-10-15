@@ -10,7 +10,7 @@ date: 2017-09-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/09/19/2017013845/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBER 2017. - Wet tot wijziging van artikel 39/73-1 van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen

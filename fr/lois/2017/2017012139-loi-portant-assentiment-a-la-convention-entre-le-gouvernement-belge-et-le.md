@@ -12,7 +12,7 @@ entry_into_force: 2017-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/02/24/2017012139/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2017. - Loi portant assentiment à la Convention entre le Gouvernement belge et le Gouvernement macédonien relative à la coopération policière, faite à Bruxelles, le 21 novembre 2013

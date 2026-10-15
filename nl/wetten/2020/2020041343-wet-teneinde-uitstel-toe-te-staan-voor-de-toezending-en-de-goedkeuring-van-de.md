@@ -12,7 +12,7 @@ entry_into_force: 2020-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/05/07/2020041343/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2020. - Wet teneinde uitstel toe te staan voor de toezending en de goedkeuring van de jaarrekening van skeyes voor het jaar 2019 ten gevolge van de maatregelen genomen in het kader van de COVID-19-crisis

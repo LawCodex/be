@@ -13,7 +13,7 @@ entry_into_force: 2020-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/02/06/2020200786/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 2020. - Décret portant confirmation de l'arrêté du Gouvernement wallon du 13 décembre 2018 remplaçant l'annexe 1re du décret du 1er mars 2018 relatif à la gestion et à l'assainissement des sols

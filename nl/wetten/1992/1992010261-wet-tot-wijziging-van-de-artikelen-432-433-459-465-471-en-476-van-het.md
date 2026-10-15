@@ -12,7 +12,7 @@ entry_into_force: 1992-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1992/11/19/1992010261/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 1992. - Wet tot wijziging van de artikelen 432, 433, 459, 465, 471 en 476 van het Gerechtelijk Wetboek en tot invoeging van een artikel 469bis in hetzelfde Wetboek.

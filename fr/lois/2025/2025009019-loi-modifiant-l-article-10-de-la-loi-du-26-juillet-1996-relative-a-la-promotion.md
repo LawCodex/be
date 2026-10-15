@@ -12,7 +12,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/11/19/2025009019/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2025. - Loi modifiant l'article 10 de la loi du 26 juillet 1996 relative à la promotion de l'emploi et à la sauvegarde préventive de la compétitivité

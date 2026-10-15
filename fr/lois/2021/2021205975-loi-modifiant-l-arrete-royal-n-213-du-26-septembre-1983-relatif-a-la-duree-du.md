@@ -12,7 +12,7 @@ entry_into_force: 2022-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/12/2021205975/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2021. - Loi modifiant l'arrêté royal n° 213 du 26 septembre 1983 relatif à la durée du travail dans les entreprises ressortissant à la Commission paritaire de la construction

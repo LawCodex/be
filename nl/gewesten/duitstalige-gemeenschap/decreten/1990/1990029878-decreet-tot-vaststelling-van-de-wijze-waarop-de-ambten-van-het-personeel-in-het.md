@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1990/06/27/1990029878/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 11-11-1994 en tekstbijwerking tot 31-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 1990. - Decreet tot vaststelling van de wijze waarop de ambten van het personeel [in het gespecialiseerd onderwijs] worden bepaald (VERTALING) &lt;Opschrift gewijzigd door DDG 2009-05-11/15 , art. 85, 009; Inwerkingtreding : 01-09-2009&gt;

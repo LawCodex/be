@@ -12,7 +12,7 @@ entry_into_force: 2017-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/02/20/2017011278/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2017. - Loi modifiant la loi du 26 juin 1990 relative à la protection de la personne des malades mentaux

@@ -13,7 +13,7 @@ entry_into_force: 1997-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/02/20/1997027129/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 1997. - Décret portant assentiment au Traité d'entente et de coopération entre le Royaume de Belgique et la Fédération de Russie, signé le 8 décembre 1993 à Bruxelles.

@@ -12,7 +12,7 @@ entry_into_force: 2023-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/04/07/2023041957/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2023. - Loi portant confirmation de huit arrêtés royaux sur l'énergie et portant la modification de l'arrêté royal du 26 octobre 2022 portant la création d'un mécanisme de garantie de l'Etat pour certains crédits contractés par les fournisseurs et intermédiaires de gaz naturel et d'électricité suite à la crise énergétique

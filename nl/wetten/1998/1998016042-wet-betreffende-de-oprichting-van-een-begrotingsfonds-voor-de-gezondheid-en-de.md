@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/03/23/1998016042/justel"
 department: "Middenstand - Landbouw"
 justel_note: "Raadpleging van vroegere versies vanaf 30-04-1998 en tekstbijwerking tot 28-03-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1998. - Wet betreffende de oprichting van een Begrotingsfonds voor de gezondheid en de kwaliteit van de dieren en de dierlijke producten.

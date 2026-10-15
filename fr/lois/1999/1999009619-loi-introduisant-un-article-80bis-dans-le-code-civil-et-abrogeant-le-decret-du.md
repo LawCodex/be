@@ -12,7 +12,7 @@ entry_into_force: 1999-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/27/1999009619/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 1999. - Loi introduisant un article 80bis dans le Code civil et abrogeant le décret du 4 juillet 1806 concernant le mode de rédaction de l'acte par lequel l'officier de l'état civil constate qu'il lui a été présenté un enfant sans vie.

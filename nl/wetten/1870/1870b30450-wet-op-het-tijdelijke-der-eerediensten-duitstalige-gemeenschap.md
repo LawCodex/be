@@ -13,7 +13,7 @@ last_amended: 2014-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1870/03/04/1870B30450/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 25-04-2014 en tekstbijwerking tot 25-04-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 1870. - Wet op het tijdelijke der eerediensten (DUITSTALIGE GEMEENSCHAP)

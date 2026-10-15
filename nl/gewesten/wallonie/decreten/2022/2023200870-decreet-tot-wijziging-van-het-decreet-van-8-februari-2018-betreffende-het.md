@@ -13,7 +13,7 @@ entry_into_force: 2023-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/21/2023200870/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2022. - Decreet tot wijziging van het decreet van 8 februari 2018 betreffende het beheer en de betaling van de gezinsbijslagen

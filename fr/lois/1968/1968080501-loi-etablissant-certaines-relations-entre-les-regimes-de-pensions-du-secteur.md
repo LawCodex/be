@@ -13,7 +13,7 @@ last_amended: 2016-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1968/08/05/1968080501/justel"
 justel_note: "Consultation des versions antérieures à partir du 22-05-1984 et mise à jour au 30-03-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AOUT 1968. - Loi établissant certaines relations entre les régimes de pensions du secteur public et ceux du secteur privé.

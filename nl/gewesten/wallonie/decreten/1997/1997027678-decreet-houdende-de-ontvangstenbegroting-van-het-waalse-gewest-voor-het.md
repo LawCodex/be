@@ -13,7 +13,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/17/1997027678/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 1997. - Decreet houdende de ontvangstenbegroting van het Waalse Gewest voor het begrotingsjaar 1998.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/06/2001031344/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 26-10-2001 en tekstbijwerking tot 08-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2001. - Decreet tot wijziging van de verschillende bepalingen betreffende de subsidies toegekend aan de gezondheids- en welzijnssector (VERTALING).

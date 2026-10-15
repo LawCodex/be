@@ -12,7 +12,7 @@ entry_into_force: 2012-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/03/19/2012009154/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2012. - Loi modifiant la loi du 5 août 2006 relative à l'application du principe de reconnaissance mutuelle des décisions judiciaires en matière pénale entre les Etats membres de l'Union européenne (I)

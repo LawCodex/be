@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/10/27/2006023149/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 10-11-2006 en tekstbijwerking tot 28-04-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 2006. - Wet betreffende het toezicht op de instellingen voor [bedrijfspensioenvoorziening]. (KB 2013-04-29/12 , art.2 , 008; Inwerkingtreding : 31-12-2011)

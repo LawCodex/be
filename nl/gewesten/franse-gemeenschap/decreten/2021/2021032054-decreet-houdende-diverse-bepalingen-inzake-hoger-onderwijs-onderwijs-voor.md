@@ -12,7 +12,7 @@ published: 2021-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/19/2021032054/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2021. - Decreet houdende diverse bepalingen inzake hoger onderwijs, onderwijs voor sociale promotie, wetenschappelijk onderzoek en universitaire ziekenhuizen

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/04/2014009215/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 14-05-2014 en tekstbijwerking tot 13-05-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2014. - Wet tot hervorming van de procedure van klachtenbehandeling bij de Hoge Raad voor de Justitie

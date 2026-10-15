@@ -17,7 +17,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "art. 5 gewijzigd met ingang op een onbepaalde datum bij DVR 2022-07-01/17 , art. 2; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 07-06-2004 en tekstbijwerking tot 13-01-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2004. - Decreet tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie. (Opschrift gewijzigd door DVR 2019-03-01/38 , art. 5, 016; Inwerkingtreding : 18-04-2019)

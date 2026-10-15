@@ -12,7 +12,7 @@ entry_into_force: 1998-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/07/05/1998003325/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 1998. - Loi ajustant le budget des Voies et Moyens de l'année budgétaire 1998.

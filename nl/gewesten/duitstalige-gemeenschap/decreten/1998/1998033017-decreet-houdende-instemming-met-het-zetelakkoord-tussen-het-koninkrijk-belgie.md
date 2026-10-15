@@ -13,7 +13,7 @@ entry_into_force: 1998-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/01/19/1998033017/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JANUARI 1998. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en het Europese Ruimte-Agentschap, ondertekend te Parijs op 26 januari 1993 (VERTALING).

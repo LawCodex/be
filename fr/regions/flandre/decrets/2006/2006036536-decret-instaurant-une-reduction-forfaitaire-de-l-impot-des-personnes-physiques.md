@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/30/2006036536/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-09-2006 et mise à jour au 31-12-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2006. - Décret instaurant une réduction forfaitaire de l'impôt des personnes physiques (TRADUCTION).

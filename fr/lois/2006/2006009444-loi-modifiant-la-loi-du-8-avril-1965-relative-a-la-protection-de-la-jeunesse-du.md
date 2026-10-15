@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/15/2006009444/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 02-06-2006 et mise à jour au 07-08-2008"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2006. - Loi modifiant la loi du 8 avril 1965 relative à la protection de la jeunesse, du Code d'instruction criminelle, le Code pénal, le Code civil, la nouvelle loi communale et la loi du [24 avril 2003] réformant l'adoption

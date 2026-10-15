@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/05/16/2001007141/justel"
 department: "Défense Nationale"
 justel_note: "Consultation des versions antérieures à partir du 29-06-2001 et mise à jour au 08-05-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2001. - Loi portant statut des militaires du cadre de réserve des forces armées.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/13/2003009289/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 19-05-2003 en tekstbijwerking tot 31-12-2003."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2003. - Wet tot invoeging van een artikel 10, 6°, in de wet van 17 april 1878 houdende de Voorafgaande Titel van het Wetboek van Strafvordering. -

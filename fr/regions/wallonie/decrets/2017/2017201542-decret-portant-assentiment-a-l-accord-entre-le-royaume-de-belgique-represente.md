@@ -13,7 +13,7 @@ entry_into_force: 2017-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/16/2017201542/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2017. - Décret portant assentiment à l'Accord entre le Royaume de Belgique, représenté par son Gouvernement, et l'Etat d'Israël, représenté par son Gouvernement, sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques ou de postes consulaires, fait à Jérusalem le 11 novembre 2013

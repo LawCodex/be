@@ -12,7 +12,7 @@ entry_into_force: 1998-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/08/08/1998015038/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 AUGUSTUS 1997. - Wet houdende instemming met de Overeenkomst inzake het witwassen, de opsporing, de inbeslagneming en de confiscatie van opbrengsten van misdrijven, opgemaakt te Straatsburg op 8 november 1990.

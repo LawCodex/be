@@ -11,7 +11,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/20/2022015617/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2022. - Wet tot wijziging van de wet van 23 mei 2017 houdende de militaire programmering van investeringen voor de periode 2016-2030

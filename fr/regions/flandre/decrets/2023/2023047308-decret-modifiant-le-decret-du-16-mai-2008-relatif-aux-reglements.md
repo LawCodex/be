@@ -13,7 +13,7 @@ entry_into_force: 2023-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/10/2023047308/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2023. - Décret modifiant le décret du 16 mai 2008 relatif aux règlements supplémentaires sur la circulation routière et sur la pose et le coût de la signalisation routière, en ce qui concerne l'imputation des rétributions et taxes de stationnement au conducteur habituel du véhicule à moteur et la délivrance de cartes de stationnement

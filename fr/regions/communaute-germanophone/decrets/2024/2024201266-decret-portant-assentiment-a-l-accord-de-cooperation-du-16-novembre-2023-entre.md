@@ -13,7 +13,7 @@ entry_into_force: 2024-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/29/2024201266/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2024. - Décret portant assentiment à l'accord de coopération du 16 novembre 2023 entre la Région wallonne et la Communauté germanophone relatif à la collaboration en matière de prestations familiales

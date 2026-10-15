@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/06/20/1996035911/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 09-08-1996 et mise à jour au 28-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 1996. - [DECRET relatif au subventionnement d'associations coordinatrices de parents] &lt;intitulé remplacé par DCFL 2004-04-02/75, art. 98, 002; En vigueur : 01-01-2005&gt;

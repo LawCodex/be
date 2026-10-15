@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/11/13/2023206751/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 19-01-2024 en tekstbijwerking tot 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2023. - Decreet houdende maatregelen ter bevordering van de werkgelegenheid en inzake arbeidsbemiddeling

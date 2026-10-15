@@ -12,7 +12,7 @@ entry_into_force: 2009-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/12/17/2008003517/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2008. - Loi instituant notamment un Comité d'audit dans les sociétés cotées et dans les entreprises financières.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/08/10/1998015183/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
 justel_note: "Consultation des versions antérieures à partir du 16-03-1999 et mise à jour au 17-06-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1998. - Loi portant assentiment au Protocole de 1992 modifiant la Convention internationale de 1969 sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures, et Annexe, faits à Londres le 27 novembre 1992

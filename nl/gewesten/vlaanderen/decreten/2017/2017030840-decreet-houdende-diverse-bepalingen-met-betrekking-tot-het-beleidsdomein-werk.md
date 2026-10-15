@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/07/2017030840/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 01-08-2017 en tekstbijwerking tot 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2017. - Decreet houdende diverse bepalingen met betrekking tot het beleidsdomein [Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie](Opschrift gewijzigd bij DVR 2026-06-26/19 , art. 47, 002; Inwerkingtreding : 07-08-2026)

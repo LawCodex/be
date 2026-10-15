@@ -12,7 +12,7 @@ last_amended: 2018-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1807/09/10/1807091050/justel"
 justel_note: "Consultation des versions antérieures à partir du 05-01-1989 et mise à jour au 27-04-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 SEPTEMBRE 1807. - CODE DE COMMERCE : LIVRE I. \_ Du commerce en général.

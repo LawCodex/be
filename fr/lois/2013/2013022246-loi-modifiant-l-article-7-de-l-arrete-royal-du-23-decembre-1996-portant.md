@@ -12,7 +12,7 @@ entry_into_force: 2013-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/04/23/2013022246/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2013. - Loi modifiant l'article 7 de l'arrêté royal du 23 décembre 1996 portant exécution des articles 15, 16 et 17 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions

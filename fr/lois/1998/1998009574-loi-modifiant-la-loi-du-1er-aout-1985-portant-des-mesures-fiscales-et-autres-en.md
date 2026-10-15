@@ -12,7 +12,7 @@ entry_into_force: 1998-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/08/1998009574/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 1998. - Loi modifiant la loi du 1er août 1985 portant des mesures fiscales et autres en ce qui concerne l'aide aux victimes d'actes intentionnels de violence commis avant le 6 août 1985.

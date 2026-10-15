@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/10/14/2019204910/justel"
 department: "Santé Publique"
 justel_note: "Consultation des versions antérieures à partir du 18-12-2019 et mise à jour au 16-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OCTOBRE 2019. - Décret portant reconnaissance des animaux d'assistance et relatif à l'accessibilité aux lieux publics pour les personnes accompagnées d'un animal d'assistance

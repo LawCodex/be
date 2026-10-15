@@ -13,7 +13,7 @@ entry_into_force: 2018-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/30/2018015177/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2018. - Décret portant assentiment 1° à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de l'Inde tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, et au Protocole, signés à Bruxelles le 26 avril 1993, 2° au Protocole, signé à New Delhi le 9 mars 2017, modifiant la Convention et le Protocole, visés sous 1°

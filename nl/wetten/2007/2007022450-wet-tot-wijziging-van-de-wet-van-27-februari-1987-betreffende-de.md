@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/06/2007022450/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
 justel_note: "Raadpleging van vroegere versies vanaf 23-03-2007 en tekstbijwerking tot 06-04-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2007. - Wet tot wijziging van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap

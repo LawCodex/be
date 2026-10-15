@@ -11,7 +11,7 @@ date: 2022-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/24/2022015459/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2022. - Decreet tot wijziging van diverse bepalingen in de wet van 28 december 1967 betreffende de onbevaarbare waterlopen, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018

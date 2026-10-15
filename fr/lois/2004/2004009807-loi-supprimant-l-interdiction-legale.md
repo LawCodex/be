@@ -12,7 +12,7 @@ entry_into_force: 2004-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/11/22/2004009807/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2004. - Loi supprimant l'interdiction légale.

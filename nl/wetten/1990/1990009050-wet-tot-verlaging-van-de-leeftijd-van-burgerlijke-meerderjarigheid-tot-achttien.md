@@ -12,7 +12,7 @@ entry_into_force: 1990-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/01/19/1990009050/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JANUARI 1990. - Wet tot verlaging van de leeftijd van burgerlijke meerderjarigheid tot achttien jaar.

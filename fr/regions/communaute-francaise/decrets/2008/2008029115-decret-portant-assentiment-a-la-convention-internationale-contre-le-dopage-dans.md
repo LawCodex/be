@@ -13,7 +13,7 @@ entry_into_force: 2008-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/01/2008029115/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er FEVRIER 2008. - Décret portant assentiment à la Convention internationale contre le dopage dans le sport, faite à Paris le 19 octobre 2005.

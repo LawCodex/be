@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/21/2004009510/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 02-08-2004 en tekstbijwerking tot 24-05-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2004. - Wet tot omzetting van het besluit van de raad van 28 februari 2002 betreffende de oprichting van Eurojust teneinde de strijd tegen ernstige vormen van criminaliteit te versterken

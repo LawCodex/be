@@ -12,7 +12,7 @@ entry_into_force: 2014-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/22/2014015137/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2014. - Wet houdende instemming met het Verdrag inzake handel in wapens, gedaan te New York op 2 april 2013

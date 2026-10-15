@@ -12,7 +12,7 @@ entry_into_force: 2014-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/04/2014202293/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2014. - Loi spéciale portant modification de la loi du 6 janvier 1989 sur la Cour constitutionnelle

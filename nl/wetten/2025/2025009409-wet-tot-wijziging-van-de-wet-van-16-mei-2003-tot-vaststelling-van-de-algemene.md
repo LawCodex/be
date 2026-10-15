@@ -12,7 +12,7 @@ entry_into_force: 2025-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/12/08/2025009409/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2025. - Wet tot wijziging van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, met het oog op de gedeeltelijke omzetting van de richtlijn (EU) 2024/1265

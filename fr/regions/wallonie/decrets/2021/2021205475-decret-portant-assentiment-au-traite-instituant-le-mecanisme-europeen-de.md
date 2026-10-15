@@ -13,7 +13,7 @@ entry_into_force: 2021-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/12/2021205475/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 2021. - Décret portant assentiment au Traité instituant le Mécanisme européen de stabilité, signé à Bruxelles le 2 février 2012 et à l'Accord modifiant le Traité instituant le Mécanisme européen de stabilité, signé à Bruxelles le 27 janvier 2021 et le 8 février 2021

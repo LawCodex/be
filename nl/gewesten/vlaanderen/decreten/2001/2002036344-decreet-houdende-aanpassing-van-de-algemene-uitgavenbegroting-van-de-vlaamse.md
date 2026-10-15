@@ -13,7 +13,7 @@ entry_into_force: 2002-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/06/2002036344/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2001. - Decreet houdende aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2001.

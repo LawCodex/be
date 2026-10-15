@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/15/2009033000/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 27-01-2009 et mise à jour au 10-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2008. - Décret portant financement des communes et des centres publics d'aide sociale par la Communauté germanophone. (Traduction)

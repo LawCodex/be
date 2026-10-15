@@ -13,7 +13,7 @@ entry_into_force: 2002-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/27/2002029172/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2002. - Décret portant assentiment à la Convention européenne sur la coproduction cinématographique et aux Annexes I et II, faites à Strasbourg, le 2 octobre 1992.

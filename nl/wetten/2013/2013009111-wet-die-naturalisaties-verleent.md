@@ -11,7 +11,7 @@ published: 2013-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/02/11/2013009111/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEBRUARI 2013. - Wet die naturalisaties verleent

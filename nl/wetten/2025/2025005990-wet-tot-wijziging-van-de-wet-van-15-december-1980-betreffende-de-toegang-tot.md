@@ -12,7 +12,7 @@ entry_into_force: 2025-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/07/18/2025005990/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2025. - Wet tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen wat de voorwaarden voor gezinshereniging betreft

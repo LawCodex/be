@@ -10,7 +10,7 @@ date: 1994-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/02/02/1994009284/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 1994. - Wet tot wijziging van de wet van 8 april 1965 betreffende de jeugdbescherming.

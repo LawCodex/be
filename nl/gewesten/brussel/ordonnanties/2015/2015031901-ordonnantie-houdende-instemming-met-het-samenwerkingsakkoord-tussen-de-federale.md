@@ -13,7 +13,7 @@ entry_into_force: 2016-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/12/18/2015031901/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2015. - Ordonnantie houdende instemming met het Samenwerkingsakkoord tussen de federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie en de Franse Gemeenschapscommissie betreffende de nadere regels voor de werking van het Interfederaal Instituut voor de Statistiek, van de raad van bestuur en de wetenschappelijke comités van het Instituut voor de Nationale Rekeningen

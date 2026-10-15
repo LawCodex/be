@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/06/27/1996027438/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 31-12-1996 et mise à jour au 31-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 1996. - Décret relatif aux déchets.

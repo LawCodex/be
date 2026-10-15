@@ -12,7 +12,7 @@ entry_into_force: 2009-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/06/17/2009202701/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2009. - Loi-programme

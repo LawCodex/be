@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/04/22/2016011178/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 04-05-2016 en tekstbijwerking tot 22-05-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2016. - Wet houdende wijziging en invoeging van bepalingen inzake consumentenkrediet en hypothecair krediet in verschillende boeken van het Wetboek van economisch recht

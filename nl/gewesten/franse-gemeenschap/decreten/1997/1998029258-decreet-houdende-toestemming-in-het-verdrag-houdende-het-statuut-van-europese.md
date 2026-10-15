@@ -13,7 +13,7 @@ entry_into_force: 1998-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/22/1998029258/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1997. - Decreet houdende toestemming in het Verdrag houdende het statuut van Europese scholen en in de Bijlagen I en II, gedaan te Luxemburg op 21 juni 1994 (VERTALING).

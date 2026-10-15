@@ -13,7 +13,7 @@ entry_into_force: 2005-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/05/20/2005035651/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 2005. - Decreet houdende diverse bepalingen inzake wonen, inburgering en stedelijk beleid.

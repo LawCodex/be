@@ -13,7 +13,7 @@ entry_into_force: 2025-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/05/30/2025004290/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2025. - Décret modifiant le Code des taxes assimilées aux impôts sur les revenus et portant adaptation de la taxe de mise en circulation

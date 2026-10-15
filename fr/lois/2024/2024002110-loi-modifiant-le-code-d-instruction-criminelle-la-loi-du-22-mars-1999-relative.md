@@ -12,7 +12,7 @@ entry_into_force: 2024-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/07/2024002110/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2024. - Loi modifiant le code d'instruction criminelle, la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale et la loi du 5 août 1992 sur la fonction de police

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/01/24/2002016041/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu - Middenstand - Landbouw"
 justel_note: "Raadpleging van vroegere versies vanaf 16-02-2002 en tekstbijwerking tot 29-08-2002"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JANUARI 2002. - Wet tot wijziging van het koninklijk besluit van 18 november 1996 houdende invoering van een sociale verzekering ten gunste van zelfstandigen, in geval van faillissement, en van gelijkgestelde personen, met toepassing van de artikelen 29 en 49 van de wet van 26 juli 1996 tot modernisering van de sociale zekerheid en tot vrijwaring van de leefbaarheid van de wettelijke pensioenstelsels.

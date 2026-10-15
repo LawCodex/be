@@ -13,7 +13,7 @@ entry_into_force: 2022-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/10/14/2022033950/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2022. - Decreet tot wijziging van artikel 2 van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen, wat de omschrijving van het begrip 'buurtwerken of -diensten' betreft

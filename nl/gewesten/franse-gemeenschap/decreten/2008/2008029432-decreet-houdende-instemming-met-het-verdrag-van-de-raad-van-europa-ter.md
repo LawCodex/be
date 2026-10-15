@@ -12,7 +12,7 @@ entry_into_force: 2008-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/18/2008029432/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2008. - Decreet houdende instemming met het Verdrag van de Raad van Europa ter bestrijding van mensenhandel, opgemaakt in Warschau op 16 mei 2005 (VERTALING).

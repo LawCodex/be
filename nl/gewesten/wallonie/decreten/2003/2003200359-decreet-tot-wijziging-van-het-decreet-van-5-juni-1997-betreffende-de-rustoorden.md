@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/02/06/2003200359/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 12-03-2003 en tekstbijwerking tot 16-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2003. - Decreet tot wijziging van het decreet van 5 juni 1997 betreffende de rustoorden, de serviceflats en de dagcentra voor bejaarden en houdende oprichting van de " Conseil wallon du troisième âge " (Waalse Raad voor de Derde Leeftijd) (VERTALING)

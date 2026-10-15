@@ -12,7 +12,7 @@ entry_into_force: 2019-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/05/2019013566/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2019. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers en ce qui concerne certaines catégories de travailleurs

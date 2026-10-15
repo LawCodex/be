@@ -13,7 +13,7 @@ entry_into_force: 2011-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/23/2011035177/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2010. - Décret portant diverses mesures en matière de l'environnement et de la nature

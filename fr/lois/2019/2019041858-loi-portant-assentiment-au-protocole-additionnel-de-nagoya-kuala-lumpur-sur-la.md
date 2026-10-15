@@ -12,7 +12,7 @@ entry_into_force: 2022-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/01/17/2019041858/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JANVIER 2019. - Loi portant assentiment au Protocole additionnel de Nagoya-Kuala Lumpur sur la responsabilité et la réparation relatif au Protocole de Cartagena sur la prévention des risques biotechnologiques, fait à Nagoya le 15 octobre 2010

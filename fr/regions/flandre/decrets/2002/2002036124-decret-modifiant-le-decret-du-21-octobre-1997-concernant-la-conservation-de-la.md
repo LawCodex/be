@@ -13,7 +13,7 @@ entry_into_force: 2002-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/19/2002036124/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2002. - Décret modifiant le décret du 21 octobre 1997 concernant la conservation de la nature et le milieu naturel, le décret forestier du 13 juin 1990, le décret du 16 avril 1996 portant la protection des sites ruraux, le décret du 21 décembre 1988 portant création d'une "Vlaamse Landmaatschappij" (Société flamande terrienne), la loi du 22 juillet 1970 relative au remembrement légal de biens ruraux en vertu de la loi telle que complétée par la loi du 11 août 1978 portant dispositions particulières pour la Région flamande, le décret du 23 janvier 1991 relatif à la protection de l'environnement contre la pollution due aux engrais et la loi relative à la police de la circulation routière, coordonnée par arrêté royal du 16 mars 1968 (TRADUCTION).

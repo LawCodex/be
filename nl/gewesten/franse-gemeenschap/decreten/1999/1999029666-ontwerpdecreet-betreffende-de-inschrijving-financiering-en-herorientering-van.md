@@ -11,7 +11,7 @@ date: 1999-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/10/28/1999029666/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 1999. - Ontwerpdecreet betreffende de inschrijving, financiering en heroriëntering van de studenten van het hoger onderwijs

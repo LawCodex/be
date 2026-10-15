@@ -13,7 +13,7 @@ entry_into_force: 2008-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/16/2008202092/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2008. - Decreet houdende instemming met het Verdrag van de Raad van Europa inzake de strijd tegen mensenhandel, opgemaakt in Warschau op 16 mei 2005.

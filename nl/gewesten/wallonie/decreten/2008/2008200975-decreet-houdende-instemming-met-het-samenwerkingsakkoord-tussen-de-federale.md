@@ -13,7 +13,7 @@ entry_into_force: 2008-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/03/05/2008200975/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2008. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Federale Overheid, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest inzake de uitvoering van sommige bepalingen van het protocol van Kyoto (VERTALING).

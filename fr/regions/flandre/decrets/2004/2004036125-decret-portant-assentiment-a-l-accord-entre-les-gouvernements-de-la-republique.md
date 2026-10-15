@@ -13,7 +13,7 @@ entry_into_force: 2004-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036125/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant assentiment à l'Accord entre les gouvernements de la République française, de la République fédérale d'Allemagne, du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, du Royaume d'Espagne et du Royaume de Belgique relatif au programme Airbus A330/A340, et aux annexes 1re et 2, signés à Madrid le 26 juillet 1995 (TRADUCTION).

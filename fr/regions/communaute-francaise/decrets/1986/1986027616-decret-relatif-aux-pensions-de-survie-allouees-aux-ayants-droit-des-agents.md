@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1986/07/03/1986027616/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 11-09-1986 et mise à jour au 16-07-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 1986. - Décret relatif aux pensions de survie allouées aux ayants droit des agents définitifs de la Radio-Télévision belge de la Communauté française (R.T.B.F.).

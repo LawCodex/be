@@ -12,7 +12,7 @@ entry_into_force: 1997-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/16/1996021354/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 1996. - Loi modifiant la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone.

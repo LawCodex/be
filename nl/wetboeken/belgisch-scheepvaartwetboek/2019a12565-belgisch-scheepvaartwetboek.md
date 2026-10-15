@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/08/2019A12565/justel"
 department: "Mobiliteit en Vervoer"
 justel_note: "Raadpleging van vroegere versies vanaf 01-08-2019 en tekstbijwerking tot 11-05-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2019. - Belgisch Scheepvaartwetboek

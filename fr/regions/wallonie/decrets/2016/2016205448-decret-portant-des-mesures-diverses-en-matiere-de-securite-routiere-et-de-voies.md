@@ -13,7 +13,7 @@ entry_into_force: 2016-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/10/20/2016205448/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 2016. - Décret portant des mesures diverses en matière de sécurité routière et de voies hydrauliques

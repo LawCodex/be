@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/30/2020041979/justel"
 department: "Stratégie et Appui"
 justel_note: "Consultation des versions antérieures à partir du 06-07-2020 et mise à jour au 31-07-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2020. - Loi ouvrant des crédits provisoires pour les mois de juillet, août, septembre et octobre 2020

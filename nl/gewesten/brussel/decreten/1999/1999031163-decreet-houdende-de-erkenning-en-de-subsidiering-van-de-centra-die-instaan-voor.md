@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/03/04/1999031163/justel"
 department: "Franse Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 03-04-1999 en tekstbijwerking tot 08-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 1999. - Decreet houdende de erkenning en de subsidiëring van de centra die instaan voor de coördinatie van de zorgverstrekking en de diensten voor thuisverpleging en de diensten voor palliatieve verzorging en nazorg. (VERTALING).

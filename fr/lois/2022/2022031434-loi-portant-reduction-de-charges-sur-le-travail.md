@@ -12,7 +12,7 @@ entry_into_force: 2022-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/03/28/2022031434/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2022. - Loi portant réduction de charges sur le travail

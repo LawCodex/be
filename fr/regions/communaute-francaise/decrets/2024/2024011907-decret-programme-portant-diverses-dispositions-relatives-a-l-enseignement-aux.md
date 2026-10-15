@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/12/11/2024011907/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2024. - Décret-programme portant diverses dispositions relatives à l'Enseignement, aux Bâtiments scolaires, à la Recherche et à la Culture

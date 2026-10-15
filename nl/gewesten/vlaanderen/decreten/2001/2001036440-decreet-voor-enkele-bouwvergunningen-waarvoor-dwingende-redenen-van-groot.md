@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/14/2001036440/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-12-2001 en tekstbijwerking tot 07-07-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2001. - Decreet voor enkele bouwvergunningen waarvoor dwingende redenen van groot algemeen belang gelden

@@ -13,7 +13,7 @@ entry_into_force: 1998-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/17/1998035050/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 1997. - Décret portant approbation de l'Accord de coopération entre l'Etat fédéral et les régions concernant la coordination administrative et scientifique au sujet de la sécurité biologique (TRADUCTION).

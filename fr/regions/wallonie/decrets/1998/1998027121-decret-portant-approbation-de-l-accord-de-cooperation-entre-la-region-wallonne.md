@@ -13,7 +13,7 @@ entry_into_force: 1997-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/02/05/1998027121/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 1998. - Décret portant approbation de l'accord de coopération entre la Région wallonne, la Communauté francaise et la Communauté germanophone relatif au programme de transition professionnelle.

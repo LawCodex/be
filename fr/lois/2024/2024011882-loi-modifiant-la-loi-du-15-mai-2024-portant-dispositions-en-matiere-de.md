@@ -12,7 +12,7 @@ entry_into_force: 2024-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/12/20/2024011882/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2024. - Loi modifiant la loi du 15 mai 2024 portant dispositions en matière de digitalisation de la justice et dispositions diverses II

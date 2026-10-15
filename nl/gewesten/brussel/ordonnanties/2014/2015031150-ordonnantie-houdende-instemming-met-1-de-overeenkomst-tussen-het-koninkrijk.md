@@ -13,7 +13,7 @@ entry_into_force: 2015-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/03/27/2015031150/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Ordonnantie houdende instemming met : 1° de Overeenkomst tussen het Koninkrijk België en de Republiek IJsland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 23 mei 2000, zoals gewijzigd door het Protocol, gedaan te Brussel op 15 september 2009 ; en 2° het Protocol, gedaan te Brussel op 15 september 2009, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Republiek IJsland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 23 mei 2000

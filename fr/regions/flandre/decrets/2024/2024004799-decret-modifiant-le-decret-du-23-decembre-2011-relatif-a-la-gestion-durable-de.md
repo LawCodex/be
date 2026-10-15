@@ -13,7 +13,7 @@ entry_into_force: 2024-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/26/2024004799/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2024. - Décret modifiant le décret du 23 décembre 2011 relatif à la gestion durable de cycles de matériaux et de déchets, en ce qui concerne l'élimination urgente de déchets

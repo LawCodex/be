@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/01/2012203372/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 22-06-2012 en tekstbijwerking tot 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2012. - Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2012

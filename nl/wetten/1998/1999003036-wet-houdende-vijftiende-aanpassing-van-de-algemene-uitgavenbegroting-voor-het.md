@@ -12,7 +12,7 @@ entry_into_force: 1999-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/23/1999003036/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1998. - Wet houdende vijftiende aanpassing van de Algemene uitgavenbegroting voor het begrotingsjaar 1998 - Sectie 11 - "Diensten van de Eerste Minister" en Sectie 32 - "Ministerie van Economische Zaken".

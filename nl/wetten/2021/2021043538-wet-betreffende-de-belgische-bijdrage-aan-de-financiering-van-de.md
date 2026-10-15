@@ -12,7 +12,7 @@ entry_into_force: 2022-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/20/2021043538/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2021. - Wet betreffende de Belgische bijdrage aan de financiering van de schuldkwijtschelding door het Internationaal Monetair Fonds ten gunste van Somalië

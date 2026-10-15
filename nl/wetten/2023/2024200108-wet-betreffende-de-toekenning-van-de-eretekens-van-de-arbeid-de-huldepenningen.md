@@ -12,7 +12,7 @@ entry_into_force: 2024-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/12/18/2024200108/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2023. - Wet betreffende de toekenning van de eretekens van de arbeid, de huldepenningen en de bijzondere Beroepsvereningseretekens

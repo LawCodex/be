@@ -13,7 +13,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1973/07/12/1973A71207/justel"
 justel_notes:
   - "deze versie van de Wet op het natuurbehoud, zoals geldig voor het Waalse Gewest, werd gecreërd ter gelegenheid van de wijziging ervan bij DWG 2001-06-28/38 , gepubliceerd op 05-07-2001. Voor de vroegere versies, zie archief van de federale vorm W 1973-07-12/30 ."
   - "Raadpleging van vroegere versies vanaf 22-01-2002 en tekstbijwerking tot 23-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 1973. - Wet op het natuurbehoud - Waals Gewest

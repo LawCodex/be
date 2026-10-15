@@ -12,7 +12,7 @@ entry_into_force: 2023-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/06/01/2022032290/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2022. - Wet tot wijziging van de wet van 23 maart 1989 betreffende de verkiezing van het Europees Parlement, teneinde de burgers vanaf de leeftijd van 16 jaar de mogelijkheid te geven om te stemmen

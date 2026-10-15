@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/30/2018015281/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 17-12-2018 et mise à jour au 10-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2018. - Décret relatif au passeport bâtiment

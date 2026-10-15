@@ -12,7 +12,7 @@ entry_into_force: 2007-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/06/03/2007015100/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2007. - Loi portant assentiment à la Convention entre le Royaume de Belgique et la République de Saint-Marin tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu, signée à Saint-Marin le 21 décembre 2005.

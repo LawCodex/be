@@ -13,7 +13,7 @@ entry_into_force: 2019-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/25/2019013221/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Decreet houdende instemming met het Protocol bij de Conventie betreffende de dwangarbeid, aangenomen te Genève op 11 juni 2014 door de Internationale Arbeidsconferentie tijdens haar honderd en derde zitting

@@ -12,7 +12,7 @@ entry_into_force: 1998-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/05/27/1998009553/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 1998. - Wet tot wijziging van artikel 631 van het Gerechtelijk Wetboek en van de artikelen 5, 6 en 7 van de wet van 17 juli 1997 betreffende het gerechtelijk akkoord.

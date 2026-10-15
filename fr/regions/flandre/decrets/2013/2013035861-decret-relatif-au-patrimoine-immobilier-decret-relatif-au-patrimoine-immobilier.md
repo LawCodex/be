@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/12/2013035861/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 17-10-2013 et mise à jour au 13-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2013. - Décret relatif au patrimoine immobilier (Décret relatif au Patrimoine immobilier)

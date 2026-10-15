@@ -12,7 +12,7 @@ entry_into_force: 2024-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/18/2024005092/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2024. - Wet tot wijziging van de wet van 22 april 2019 inzake de kwaliteitsvolle praktijkvoering in de gezondheidszorg en van de wet van 10 mei 2015 betreffende de uitoefening van de gezondheidszorgberoepen voor wat betreft de taalbeheersing van gezondheidszorgbeoefenaars

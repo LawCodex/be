@@ -13,7 +13,7 @@ entry_into_force: 2025-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/07/14/2025005539/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2025. - Décret relatif au SGS Programme d'investissement gestion de l'énergie et climat dans les bâtiments publics

@@ -13,7 +13,7 @@ entry_into_force: 2004-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/30/2004035797/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2004. - Decreet houdende instemming met de plechtige verklaring, het Protocol houdende wijziging van de gecoördineerde overeenkomst tot oprichting van de Belgisch-Luxemburgse Economische Unie, het Protocol houdende intrekking van het bijzonder Protocol tussen België en het Groothertogdom Luxemburg betreffende de landbouw van 29 januari 1963, en de Slotakte, ondertekend in Brussel op 18 december 2002.

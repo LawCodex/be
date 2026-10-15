@@ -13,7 +13,7 @@ entry_into_force: 2022-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/04/28/2022041048/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2022. - Décret modifiant le décret de la Communauté française du 30 septembre 2021 relatif au plan d'investissement dans les bâtiments scolaires établi dans le cadre du plan de reprise et résilience européen

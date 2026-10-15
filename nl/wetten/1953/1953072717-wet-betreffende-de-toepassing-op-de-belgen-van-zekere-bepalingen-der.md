@@ -9,7 +9,7 @@ language: nl
 date: 1953-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1953/07/27/1953072717/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JULI 1953. - Wet betreffende de toepassing op de Belgen van zekere bepalingen der internationale overeenkomst van 26 Juni 1948 voor de bescherming van kunst- en letterkundige werken.

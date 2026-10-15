@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/12/2017204498/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2017. - Décret érigeant l'Agence wallonne du Patrimoine en service administratif à comptabilité autonome et portant dissolution de l'Institut du Patrimoine wallon

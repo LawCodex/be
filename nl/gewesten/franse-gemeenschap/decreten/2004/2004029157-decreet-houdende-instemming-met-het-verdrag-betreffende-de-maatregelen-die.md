@@ -13,7 +13,7 @@ entry_into_force: 2004-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/12/2004029157/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Decreet houdende instemming met het Verdrag betreffende de maatregelen die genomen moeten worden om de invoer, de uitvoer en de ongeoorloofde eigendomsoverdracht van culturele goederen te verbieden en te voorkomen, aangenomen te Parijs, op 14 november 1970 (VERTALING).

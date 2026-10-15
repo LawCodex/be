@@ -13,7 +13,7 @@ entry_into_force: 1996-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/24/1996035944/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 1996. - Décret spécial modifiant l'article 32 de la loi spéciale du 8 août 1980 de réformes institutionnelles (TRADUCTION).

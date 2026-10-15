@@ -13,7 +13,7 @@ entry_into_force: 2018-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/04/19/2018011723/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2018. - Ordonnantie tot wijziging van de ordonnantie van 17 juli 1997 betreffende de strijd tegen geluidshinder in een stedelijke omgeving

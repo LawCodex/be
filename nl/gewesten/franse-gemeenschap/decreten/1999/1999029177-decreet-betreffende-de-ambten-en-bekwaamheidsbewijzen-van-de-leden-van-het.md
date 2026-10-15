@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/08/1999029177/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 29-04-1999 en tekstbijwerking tot 04-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 1999. - Decreet betreffende de ambten en bekwaamheidsbewijzen van de leden van het onderwijzend personeel in de Hogescholen ingericht of gesubsidieerd door de Franse Gemeenschap. (Vertaling)

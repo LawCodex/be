@@ -12,7 +12,7 @@ entry_into_force: 2013-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/03/19/2018012059/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2017. - Wet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Wereldorganisatie voor Diergezondheid, gedaan te Brussel op 14 maart 2013

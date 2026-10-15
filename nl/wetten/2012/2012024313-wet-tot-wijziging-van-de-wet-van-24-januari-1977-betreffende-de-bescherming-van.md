@@ -11,7 +11,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/09/04/2012024313/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBER 2012. - Wet tot wijziging van de wet van 24 januari 1977 betreffende de bescherming van de gezondheid van de gebruikers op het stuk van de voedingsmiddelen en andere producten, teneinde bisfenol A te verbieden in verpakkingen voor voedingsmiddelen

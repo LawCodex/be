@@ -15,7 +15,7 @@ justel_notes:
   - "art.18quinquies modifié avec effet à une date indéterminée par L 2020-04-30/03 , art. 16, 026; En vigueur : indéterminée "
   - "art. 9 et 10 modifié jusqu'au 03-06-2020 par L 2020-04-30/03 , art. 10-11, 026; En vigueur : 04-05-2020"
   - "Consultation des versions antérieures à partir du 07-09-2006 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 1803. - Loi du 25 ventôse an XI contenant organisation du notariat.

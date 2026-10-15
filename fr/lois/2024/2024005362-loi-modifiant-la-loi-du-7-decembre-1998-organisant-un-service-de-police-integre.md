@@ -12,7 +12,7 @@ entry_into_force: 2024-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/16/2024005362/justel"
 department: "Mobilité et Transports - Justice - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Loi modifiant la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, et modifiant la loi du 6 décembre 2005 relative à la répartition d'une partie des recettes fédérales en matière de sécurité routière, en vue de rendre les modalités de fusion ou de défusion des zones de police également applicables aux zones de police monocommunales et d'actualiser les règles transitoires

@@ -13,7 +13,7 @@ entry_into_force: 2020-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/03/2020015186/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2020. - Décret portant assentiment à l'accord de partenariat économique d'étape entre la Côte d'Ivoire, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, fait à Abidjan le 26 novembre 2008, respectivement à Bruxelles le 22 janvier 2009

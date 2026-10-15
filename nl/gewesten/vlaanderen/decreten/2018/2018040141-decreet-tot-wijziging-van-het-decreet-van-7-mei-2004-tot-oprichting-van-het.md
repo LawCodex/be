@@ -13,7 +13,7 @@ entry_into_force: 2018-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/08/2018040141/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2018. - Decreet tot wijziging van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen", wat betreft de beginselen van deugdelijk bestuur in de Vlaamse publieke sector

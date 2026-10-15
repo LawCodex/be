@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1928/08/12/1928081251/justel"
 justel_notes:
   - "ATTENTION pour le Code électoral à partir de 2003, voir CELECT 1894-04-12/30 "
   - "Consultation des versions antérieures à partir du 23-03-1999 et mise à jour au 08-05-2002"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AOUT 1928. - CODE ELECTORAL (Titre I et II : art. 1 à 86).

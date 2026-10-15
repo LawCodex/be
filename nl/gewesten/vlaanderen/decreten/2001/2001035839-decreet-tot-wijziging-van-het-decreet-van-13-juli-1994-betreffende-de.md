@@ -13,7 +13,7 @@ entry_into_force: 2002-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/06/2001035839/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2001. - Decreet tot wijziging van het decreet van 13 juli 1994 betreffende de herstructurering van de GIMV, Gimvindus, VMH, Mijnen en LIM en tot oprichting van het Limburgfonds en van de permanente werkgroep Limburg.

@@ -13,7 +13,7 @@ entry_into_force: 2023-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/23/2023044063/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2023. - Decreet tot wijziging van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator, het Bestuursdecreet van 7 december 2018 en het decreet van 2 december 2022 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Datanutsbedrijf in de vorm van een naamloze vennootschap ter versterking van het kader voor digitale gegevensuitwisselingen

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/11/24/1998009048/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 06-02-1998 en tekstbijwerking tot 31-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 1997. - Wet strekkende om het geweld tussen partners tegen te gaan

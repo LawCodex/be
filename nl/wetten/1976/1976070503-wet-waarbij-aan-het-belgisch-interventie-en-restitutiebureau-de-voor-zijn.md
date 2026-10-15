@@ -13,7 +13,7 @@ last_amended: 1995-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/07/05/1976070503/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-12-1995 en tekstbijwerking tot 01-12-1995"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1976. - Wet waarbij aan [het Belgisch Interventie- en Restitutiebureau] de voor zijn werking vereiste financiële middelen worden toegekend.

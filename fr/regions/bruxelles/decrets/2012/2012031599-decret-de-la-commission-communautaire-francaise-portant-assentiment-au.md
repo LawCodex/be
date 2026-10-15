@@ -13,7 +13,7 @@ entry_into_force: 2012-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/19/2012031599/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2012. - Décret de la Commission communautaire française portant assentiment au Protocole, fait à Bruxelles le 23 juin 2010, modifiant le Protocole sur les dispositions transitoires, annexé au Traité sur l'Union européenne, au Traité sur le fonctionnement de l'Union européenne et au Traité instituant la Communauté européenne de l'Energie atomique

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/13/1999035668/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 11-06-1999 en tekstbijwerking tot 14-04-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 1999. - Decreet tot regeling van de rechtspositie van het statutair en het contractueel personeel van het VRT-Filharmonisch orkest en het VRT-Koor

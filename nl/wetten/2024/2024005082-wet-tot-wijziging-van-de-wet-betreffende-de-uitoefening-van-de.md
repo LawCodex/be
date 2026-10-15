@@ -12,7 +12,7 @@ entry_into_force: 2024-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/18/2024005082/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2024. - Wet tot wijziging van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, teneinde de hervorming van de verpleegkunde, de afschaffing van de Technische Commissies voor verpleegkunde en de paramedische beroepen en de aanpassing van de taken van de Federale Raden voor verpleegkunde en paramedische beroepen hierin op te nemen

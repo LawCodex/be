@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/04/04/2019011780/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 06-05-2019 en tekstbijwerking tot 08-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2019. - [ 1 Ordonnantie betreffende het ziekenhuisbeleid ] 1 ( 1 )&lt;Ingevoegd bij ORD 2023-10-05/15 , art. 2, 004; Inwerkingtreding : 01-01-2025&gt;

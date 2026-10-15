@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/06/28/2002035863/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 11-07-2002 en tekstbijwerking tot 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2002. - Decreet betreffende de oprichting van de vennootschappen T-Groep en Werkholding.

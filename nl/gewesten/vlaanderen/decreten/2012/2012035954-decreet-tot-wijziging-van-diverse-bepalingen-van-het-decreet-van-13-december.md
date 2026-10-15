@@ -13,7 +13,7 @@ entry_into_force: 2012-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/13/2012035954/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2012. - Decreet tot wijziging van diverse bepalingen van het decreet van 13 december 2002 houdende de oprichting van de naamloze vennootschap van publiekrecht Beheersmaatschappij Antwerpen Mobiel (BAM)

@@ -16,7 +16,7 @@ department: "Finances"
 justel_notes:
   - "art. 6 à 9 modifiés dans le futur par L 2022-07-05/06 , art. 47-49, 004; En vigueur : 01-01-2025"
   - "Consultation des versions antérieures à partir du 20-07-2018 et mise à jour au 01-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2018. - Loi sur la Caisse des Dépôts et Consignations

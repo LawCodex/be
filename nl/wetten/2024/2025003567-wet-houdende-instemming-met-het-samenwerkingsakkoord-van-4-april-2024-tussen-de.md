@@ -12,7 +12,7 @@ entry_into_force: 2025-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/13/2025003567/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2024. - Wet houdende instemming met het samenwerkingsakkoord van 4 april 2024 tussen de Vlaamse Gemeenschap, het Vlaamse Gewest, de Franse Gemeenschap, de Duitstalige gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie, het Waals Gewest, het Brussels Hoofdstedelijk Gewest en de federale Staat over de interbestuurlijke uitvoering van Verordening (EU) 2018/1724 van het Europees Parlement en de Raad van 2 oktober 2018 tot oprichting van één digitale toegangspoort voor informatie, procedures en diensten voor ondersteuning en probleemoplossing en houdende wijziging van Verordening (EU) nr. 1024/2012

@@ -13,7 +13,7 @@ last_amended: 1999-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1947/02/05/1947020502/justel"
 justel_note: "Consultation des versions antérieures à partir du 15-02-1947 et mise à jour au 26-02-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 1947. - Loi organisant le statut des étrangers prisonniers politiques.

@@ -13,7 +13,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/23/2006035172/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2005. - Décret modifiant le décret du 7 mai 2004 modifiant le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement, le complétant par un titre Agences et modifiant divers autres lois et décrets et modifiant le décret du 23 janvier 1991 relatif à la protection de l'environnement contre la pollution due aux engrais (TRADUCTION).

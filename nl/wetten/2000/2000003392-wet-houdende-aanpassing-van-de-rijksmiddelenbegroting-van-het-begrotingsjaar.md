@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/07/10/2000003392/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 05-08-2000 en tekstbijwerking tot 21-12-2000."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2000. - Wet houdende aanpassing van de Rijksmiddelenbegroting van het begrotingsjaar 2000. -

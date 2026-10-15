@@ -12,7 +12,7 @@ entry_into_force: 2005-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/11/24/2005022100/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2004. - Wet houdende maatregelen inzake gezondheidszorg

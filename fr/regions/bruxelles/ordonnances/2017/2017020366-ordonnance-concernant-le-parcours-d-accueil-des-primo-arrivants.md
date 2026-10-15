@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/05/11/2017020366/justel"
 department: "Commission communautaire commune"
 justel_note: "Consultation des versions antérieures à partir du 30-05-2017 et mise à jour au 04-03-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2017. - Ordonnance concernant le parcours d'accueil des primo-arrivants

@@ -12,7 +12,7 @@ published: 1997-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/10/23/1997027570/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OKTOBER 1997. - Decreet houdende instemming van de Euro-Mediterrane overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en het Koninkrijk Marokko, anderzijds, de Bijlagen 1, 2, 3, 4, 5, 6, 7, de Protocollen 1, 2, 3, 4, 5 en de Slotakte, opgemaakt te Brussel op 26 februari 1996 (VERTALING).

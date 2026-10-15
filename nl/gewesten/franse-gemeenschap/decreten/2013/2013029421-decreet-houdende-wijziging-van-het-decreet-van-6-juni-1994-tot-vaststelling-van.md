@@ -12,7 +12,7 @@ published: 2013-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/04/2013029421/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2013. - Decreet houdende wijziging van het decreet van 6 juni 1994 tot vaststelling van de rechtspositie van de gesubsidieerde personeelsleden van het officieel gesubsidieerd onderwijs

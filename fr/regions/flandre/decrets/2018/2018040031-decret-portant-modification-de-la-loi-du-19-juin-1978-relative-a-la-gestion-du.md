@@ -13,7 +13,7 @@ entry_into_force: 2018-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/30/2018040031/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2018. - Décret portant modification de la loi du 19 juin 1978 relative à la gestion du territoire de la rive gauche de l'Escaut à hauteur d'Anvers et portant des mesures de gestion et d'exploitation du port d'Anvers

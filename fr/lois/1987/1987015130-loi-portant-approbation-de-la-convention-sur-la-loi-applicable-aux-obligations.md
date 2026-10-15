@@ -12,7 +12,7 @@ entry_into_force: 1988-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/07/14/1987015130/justel"
 department: "Affaires étrangères - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1987. - Loi portant approbation de la Convention sur la loi applicable aux obligations contractuelles, du Protocole et de deux Déclarations communes, faits à Rome le 19 juin 1980.

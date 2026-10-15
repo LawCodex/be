@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/06/20/2002029331/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 19-07-2002 et mise à jour au 24-12-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2002. - Décret relatif à la création du Fonds Ecureuil de la Communauté française.

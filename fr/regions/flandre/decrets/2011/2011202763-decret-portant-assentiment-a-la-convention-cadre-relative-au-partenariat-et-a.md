@@ -13,7 +13,7 @@ entry_into_force: 2011-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/05/06/2011202763/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2011. - Decret portant assentiment à la convention-cadre relative au partenariat et à la coopération larges entre la Communauté européenne et ses états-membres d'une part et la République d'Indonésie d'autre part et à l'acte final, faits à Jakarta le 9 novembre 2009

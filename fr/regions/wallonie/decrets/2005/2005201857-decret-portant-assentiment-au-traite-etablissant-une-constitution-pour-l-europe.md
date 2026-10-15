@@ -13,7 +13,7 @@ entry_into_force: 2005-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/06/30/2005201857/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2005. - Décret portant assentiment au Traité établissant une Constitution pour l'Europe, aux Protocoles annexés au Traité établissant une Constitution pour l'Europe, à ses Annexes et Acte final, faits à Rome, le 29 octobre 2004.

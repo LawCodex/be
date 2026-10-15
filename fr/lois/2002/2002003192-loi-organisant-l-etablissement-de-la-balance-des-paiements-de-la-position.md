@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/02/28/2002003192/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 03-05-2002 et mise à jour au 08-05-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2002. - [Loi organisant l'établissement de la balance des paiements, de la position extérieure globale et des statistiques du commerce international des services et des investissements directs étrangers de la Belgique et portant modification de l'arrêté-loi du 6 octobre 1944 relatif au contrôle des changes et de diverses dispositions légales.] &lt;L 2006-05-01/76, art. 2, 002; En vigueur : 17-07-2006&gt;

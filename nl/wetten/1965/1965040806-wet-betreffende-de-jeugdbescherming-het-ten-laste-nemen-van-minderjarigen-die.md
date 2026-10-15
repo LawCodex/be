@@ -14,7 +14,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1965/04/08/1965040806/justel"
 justel_notes:
   - "Voor de omzetting in euro, zie W 2000-06-26/42"
   - "Raadpleging van vroegere versies vanaf 30-01-1990 en tekstbijwerking tot 14-09-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 APRIL 1965. - [Wet betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade] (Opschrift vervangen bij W 2006-06-13/40 , art. 2, 023; Inwerkingtreding : 16-10-2006)

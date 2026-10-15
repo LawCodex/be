@@ -11,7 +11,7 @@ published: 1961-07-11
 entry_into_force: 1961-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1960/07/26/1960072602/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUILLET 1960. - Loi portant approbation de l'accord relatif aux services aériens entre la Belgique et le Japon, et de l'annexe, signés à Tokio le 20 juin 1959.

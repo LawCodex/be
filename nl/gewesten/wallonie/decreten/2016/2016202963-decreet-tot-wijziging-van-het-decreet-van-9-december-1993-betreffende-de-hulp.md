@@ -13,7 +13,7 @@ entry_into_force: 2016-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/05/26/2016202963/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 2016. - Decreet tot wijziging van het decreet van 9 december 1993 betreffende de hulp en de tegemoetkomingen van het Waalse Gewest voor de bevordering van rationeel energiegebruik, energiebesparingen en hernieuwbare energieën

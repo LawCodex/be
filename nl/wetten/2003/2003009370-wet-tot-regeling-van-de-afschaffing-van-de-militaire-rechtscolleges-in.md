@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/10/2003009370/justel"
 department: "Landsverdediging - Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 07-05-2003 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2003. - Wet tot regeling van de afschaffing van de militaire rechtscolleges in vredestijd alsmede van het behoud ervan in oorlogstijd.

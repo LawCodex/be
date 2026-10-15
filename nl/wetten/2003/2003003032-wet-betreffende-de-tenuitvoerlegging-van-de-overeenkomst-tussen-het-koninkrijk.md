@@ -12,7 +12,7 @@ entry_into_force: 2003-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/01/14/2003003032/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 2003. - Wet betreffende de tenuitvoerlegging van de overeenkomst tussen het Koninkrijk België en de Verenigde Arabische Emiraten tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en van het Protocol, ondertekend te Washington op 30 september 1996.

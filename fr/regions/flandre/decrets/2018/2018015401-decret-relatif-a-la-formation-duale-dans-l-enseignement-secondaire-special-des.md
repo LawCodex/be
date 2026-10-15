@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/30/2018015401/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 21-12-2018 et mise à jour au 24-06-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2018. - Decret relatif à la formation duale dans l'enseignement secondaire spécial des formes d'enseignement 3 et 4

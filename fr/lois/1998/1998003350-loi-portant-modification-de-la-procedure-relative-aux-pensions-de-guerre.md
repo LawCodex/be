@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/16/1998003350/justel"
 department: "Finances - Prévoyance Sociale - Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 11-08-1998 et mise à jour au 23-01-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 1998. - Loi portant modification de la procédure relative aux pensions de guerre

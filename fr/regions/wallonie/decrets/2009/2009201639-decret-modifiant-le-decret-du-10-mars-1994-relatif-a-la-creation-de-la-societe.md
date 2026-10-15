@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/03/2009201639/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 14-04-2009 et mise à jour au 09-03-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2009. - Décret modifiant le décret du 10 mars 1994 relatif à la création de la Société wallonne de Financement complémentaire des Infrastructures et portant des dispositions relatives à l'octroi de la garantie de la Région

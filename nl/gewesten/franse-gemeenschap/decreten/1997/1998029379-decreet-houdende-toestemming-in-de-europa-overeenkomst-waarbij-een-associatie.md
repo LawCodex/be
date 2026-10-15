@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/14/1998029379/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1997. - Decreet houdende toestemming in de Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Estland, anderzijds, in de Bijlagen I tot X, in de Protocollen 1 tot 5, en in de Slotakte, gedaan te Luxemburg op 12 juni 1995 (VERTALING).

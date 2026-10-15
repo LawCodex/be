@@ -12,7 +12,7 @@ entry_into_force: 2005-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/06/20/2005003555/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2005. - Loi modifiant le Code des impôts sur les revenus 1992 et le Code des taxes assimilées au timbre en matière d'assistance mutuelle des autorités compétentes des Etats membres dans le domaine des impôts directs et des taxes sur les primes d'assurance.

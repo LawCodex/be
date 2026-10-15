@@ -13,7 +13,7 @@ entry_into_force: 2024-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/03/21/2024002878/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2024. - Ordonnance modifiant l'ordonnance du 4 avril 2019 portant sur la plate-forme d'échange électronique des données de santé

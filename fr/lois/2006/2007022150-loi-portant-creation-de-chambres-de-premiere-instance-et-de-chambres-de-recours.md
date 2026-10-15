@@ -12,7 +12,7 @@ entry_into_force: 2007-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/21/2007022150/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2006. - Loi portant création de Chambres de première instance et de Chambres de recours auprès du Service d'évaluation et de contrôle médicaux de l'INAMI.

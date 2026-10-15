@@ -12,7 +12,7 @@ entry_into_force: 2000-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/06/30/2000003439/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2000. - Loi relative à l'introduction de l'euro dans la législation concernant les matières visées à l'article 77 de la Constitution.

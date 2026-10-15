@@ -12,7 +12,7 @@ entry_into_force: 1965-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1961/03/24/1961032401/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 1961. - Loi portant approbation de la Convention européenne d'Etablissement et du Protocole, signés à Paris, le 13 décembre 1955.

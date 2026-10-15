@@ -12,7 +12,7 @@ entry_into_force: 2024-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/12/17/2024001908/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2023. - Wet houdende instemming met het Verdrag van de Raad van Europa inzake de manipulatie van sportwedstrijden, gedaan te Macolin op 18 september 2014

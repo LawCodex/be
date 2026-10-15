@@ -11,7 +11,7 @@ published: 1999-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/11/1999015173/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 1999. - Wet houdende instemming met Memorandum van Overeenkomst over de ontwikkelingssamenwerking tussen het Koninkrijk België en de Republiek Zuid-Afrika, ondertekend te Brussel op 16 maart 1995.

@@ -13,7 +13,7 @@ entry_into_force: 2017-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/01/2017031825/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2017. - Décret portant modification du décret du 15 juillet 1997 portant création d'un Commissariat aux Droits de l'Enfant et instituant la fonction de Commissaire aux Droits de l'Enfant

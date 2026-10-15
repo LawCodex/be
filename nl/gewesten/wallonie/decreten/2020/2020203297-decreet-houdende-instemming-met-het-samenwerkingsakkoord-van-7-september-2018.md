@@ -13,7 +13,7 @@ entry_into_force: 2020-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/16/2020203297/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2020. - Decreet houdende instemming met het samenwerkingsakkoord van 7 september 2018 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussel Hoofdstedelijk Gewest betreffende de uitvoering van verschillende bepalingen van het Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, ter bestrijding van verzuring, eutrofiëring en ozon op leefniveau, met bijlagen, ondertekend in Göteborg op 30 november 1999, zoals gewijzigd op 4 mei 2012 in Genève

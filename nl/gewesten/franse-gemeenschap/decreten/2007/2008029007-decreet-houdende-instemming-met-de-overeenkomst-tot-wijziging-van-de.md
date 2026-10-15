@@ -13,7 +13,7 @@ entry_into_force: 2008-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/16/2008029007/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 2007. - Decreet houdende instemming met de Overeenkomst tot wijziging van de Partnerschapsovereenkomst tussen de leden van de groep van Afrika, het Caribisch Gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, ondertekend te Cotonou op 23 juni 2000, gedaan te Luxemburg op 25 juni 2005 (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2026-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/05/2026005587/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2026. - Wet tot wijziging van de wet van 31 juli 2017 tot instelling van een beroepsprocedure tegen de beslissing inzake de selectieprocedure voor de beperkte categorieën van de grondafhandelingsdiensten op de luchthaven Brussel-Nationaal

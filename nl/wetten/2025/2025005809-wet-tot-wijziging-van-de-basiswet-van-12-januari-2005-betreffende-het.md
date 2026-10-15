@@ -12,7 +12,7 @@ entry_into_force: 1999-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/07/14/2025005809/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2025. - Wet tot wijziging van de basiswet van 12 januari 2005 betreffende het gevangeniswezen en de rechtspositie van de gedetineerden, de wet van 12 mei 2019 tot oprichting van een federaal instituut voor de bescherming en de bevordering van de rechten van de mens en de wet van 22 maart 1995 tot instelling van federale ombudsmannen, teneinde pensioenrechten toe te kennen

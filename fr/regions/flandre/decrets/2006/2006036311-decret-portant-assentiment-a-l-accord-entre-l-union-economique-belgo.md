@@ -13,7 +13,7 @@ entry_into_force: 2006-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/07/2006036311/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2006. - Décret portant assentiment à l'accord entre l'Union économique belgo-luxembourgeoise, d'une part, et la Serbie-et-Monténégro, d'autre part, concernant l'encouragement et la protection réciproques des investissements, signé à Belgrade le 4 mars 2004 (TRADUCTION).

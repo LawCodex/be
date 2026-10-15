@@ -12,7 +12,7 @@ entry_into_force: 2026-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/15/2026201894/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2026. - Bijzondere wet tot wijziging van de gewone wet van 9 augustus 1980 tot hervorming der instellingen

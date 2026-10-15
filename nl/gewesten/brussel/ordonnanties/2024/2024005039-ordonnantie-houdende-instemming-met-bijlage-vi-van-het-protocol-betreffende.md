@@ -13,7 +13,7 @@ entry_into_force: 2024-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/05/16/2024005039/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Ordonnantie houdende instemming met bijlage VI van het Protocol betreffende milieubescherming bij het Verdrag inzake Antarctica, opgesteld te Stockholm op 17 juni 2005

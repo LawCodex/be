@@ -12,7 +12,7 @@ entry_into_force: 2012-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/03/19/2012000295/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2012. - Wet tot wijziging van de wet van 2 maart 1954 tot voorkoming en beteugeling der aanslagen op de vrije uitoefening van de door de Grondwet ingestelde soevereine machten, met het oog op een wijziging van de neutrale zone

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/21/2002035058/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 22-02-2013 en tekstbijwerking tot 22-02-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2001. - Decreet houdende vermindering van het gebruik van bestrijdingsmiddelen door openbare diensten in het Vlaamse Gewest

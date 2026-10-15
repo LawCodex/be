@@ -13,7 +13,7 @@ last_amended: 2024-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1939/02/20/1939022050/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 28-07-1990 en tekstbijwerking tot 12-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 1939. - Wet op de bescherming van den titel en van het beroep van architect.

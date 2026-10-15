@@ -12,7 +12,7 @@ entry_into_force: 2019-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/01/11/2019010560/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JANVIER 2019. - Loi modifiant le Code ferroviaire

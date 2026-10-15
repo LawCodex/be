@@ -12,7 +12,7 @@ entry_into_force: 1992-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/06/13/1991010036/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 1991. - Loi modifiant le Code de la nationalité belge et les articles 569 et 628 du Code judiciaire.

@@ -13,7 +13,7 @@ entry_into_force: 1998-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/04/09/1998027266/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 AVRIL 1998. - Décret portant assentiment à l'Accord-cadre interrégional de coopération entre la Communauté européenne et ses Etats membres, d'une part, et le Marché Commun du Sud et ses Etats parties, d'autre part, à la déclaration commune, à l'échange de lettres et au procès-verbal de signature, faits à Madrid le 15 décembre 1995.

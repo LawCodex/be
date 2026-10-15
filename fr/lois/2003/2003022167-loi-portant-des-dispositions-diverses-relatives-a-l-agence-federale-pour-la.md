@@ -12,7 +12,7 @@ entry_into_force: 2003-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/07/2003022167/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANVIER 2003. - Loi portant des dispositions diverses relatives à l'Agence fédérale pour la Sécurité de la Chaîne alimentaire.

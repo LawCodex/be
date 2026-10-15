@@ -9,7 +9,7 @@ language: nl
 date: 1976-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/08/30/1976083002/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AUGUSTUS 1976. - Wet betreffende de bijkomende taken van de medisch-psychotechnische centra van de Rijksdienst voor arbeidsvoorziening.

@@ -12,7 +12,7 @@ entry_into_force: 2002-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/02/17/2002015030/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2002. - Wet houdende instemming met de volgende Internationale Akten : 1° Overeenkomst, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen, gedaan te Brussel op 26 juli 1995. 2° Protocol, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, bij de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen, gedaan te Dublin op 27 september 1996. 3° Tweede Protocol, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, bij de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen, en gezamenlijke Verklaring, gedaan te Brussel op 19 juni 1997. 4° Protocol, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, betreffende de prejudiciële uitlegging, door het Hof van Justitie van de Europese Gemeenschappen, van de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen, en Verklaring, gedaan te Brussel op 29 november 1996. 5° Overeenkomst, opgesteld op basis van artikel K.3, lid 2, onder c), van het Verdrag betreffende de Europese Unie, ter bestrijding van corruptie waarbij ambtenaren van de Europese Gemeenschappen of van de Lidstaten van de Europese Unie betrokken zijn, gedaan te Brussel op 26 mei 1997.

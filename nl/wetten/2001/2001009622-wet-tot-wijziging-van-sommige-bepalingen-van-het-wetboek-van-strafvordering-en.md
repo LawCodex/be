@@ -12,7 +12,7 @@ entry_into_force: 2001-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/07/04/2001009622/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2001. - Wet tot wijziging van sommige bepalingen van het Wetboek van strafvordering en tot wijziging van de wet van 19 februari 2001 betreffende de proceduregebonden bemiddeling in familiezaken.

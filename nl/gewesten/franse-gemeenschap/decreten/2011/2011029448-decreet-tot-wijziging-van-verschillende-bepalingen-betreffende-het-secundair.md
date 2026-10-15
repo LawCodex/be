@@ -12,7 +12,7 @@ published: 2011-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/19/2011029448/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2011. - Decreet tot wijziging van verschillende bepalingen betreffende het secundair onderwijs

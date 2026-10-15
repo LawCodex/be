@@ -12,7 +12,7 @@ entry_into_force: 2009-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/08/22/2009015115/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AOUT 2006. - Loi portant assentiment au Protocole n° 14 à la Convention de sauvegarde des Droits de l'Homme et des Libertés fondamentales, amendant le système de contrôle de la Convention, faite à Strasbourg le 13 mai 2004. - Addendum

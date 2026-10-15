@@ -12,7 +12,7 @@ entry_into_force: 2024-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/21/2024004454/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2024. - Wet tot uitvoering van Verordening (EU) 2022/2065 van het Europees Parlement en de Raad van 19 oktober 2022 betreffende een eengemaakte markt voor digitale diensten en tot wijziging van Richtlijn 2000/31/EG, houdende wijzigingen van boek XII en boek XV van het Wetboek van economisch recht en houdende wijzigingen van de wet van 17 januari 2003 met betrekking tot het statuut van de regulator van de Belgische post- en telecommunicatiesector

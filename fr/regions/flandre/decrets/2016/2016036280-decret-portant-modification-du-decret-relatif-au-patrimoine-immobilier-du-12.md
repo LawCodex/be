@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/15/2016036280/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2016. - Décret portant modification du décret relatif au patrimoine immobilier du 12 juillet 2013 et de divers décrets relatifs à l'exécution du plan relatif aux tâches essentielles de l'Agence flamande du Patrimoine immobilier et relatifs à des adaptations financières et techniques

@@ -12,7 +12,7 @@ entry_into_force: 1995-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/03/22/1995012231/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 1995. - Wet houdende vijfde aanpassing van de algemene uitgavenbegroting van het begrotingsjaar 1994.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/06/2001035865/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 11-08-2001 et mise à jour au 01-11-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2001. - Décret modifiant le décret du 14 juillet 1993 portant création d'un Fonds gravier et réglant l'exploitation de gravier. (Traduction).

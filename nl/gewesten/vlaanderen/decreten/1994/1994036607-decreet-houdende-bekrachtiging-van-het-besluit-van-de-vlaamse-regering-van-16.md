@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/21/1994036607/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 30-12-1994 en tekstbijwerking tot 09-02-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 1994. - Decreet houdende bekrachtiging van het besluit van de Vlaamse regering van 16 november 1994 betreffende de definitieve aanwijzing van de beschermde duingebieden en van de voor het duingebied belangrijke landbouwgebieden, en houdende wijziging van de wet van 12 juli 1973 op het natuurbehoud.

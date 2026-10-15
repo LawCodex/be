@@ -12,7 +12,7 @@ entry_into_force: 2023-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/09/2023045026/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2023. - Loi portant assentiment à l'accord de coopération du 19 décembre 2022 entre l'Etat fédéral, la Communauté flamande, la Région flamande, la Ré-gion wallonne, la Région de Bruxelles-Capitale, la Communauté française et la Communauté germanophone relatif à l'utilisation de la facilité pour la reprise et la résilience, annexé à la présente loi

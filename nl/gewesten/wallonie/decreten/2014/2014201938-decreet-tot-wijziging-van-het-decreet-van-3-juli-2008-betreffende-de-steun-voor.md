@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/13/2014201938/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2014. - Decreet tot wijziging van het decreet van 3 juli 2008 betreffende de steun voor onderzoek, ontwikkeling en innovatie in Wallonië

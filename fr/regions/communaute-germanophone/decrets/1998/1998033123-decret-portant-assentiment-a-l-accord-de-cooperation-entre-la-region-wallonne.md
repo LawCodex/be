@@ -13,7 +13,7 @@ entry_into_force: 1998-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/10/26/1998033123/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 OCTOBRE 1998. - Décret portant assentiment à l'accord de coopération entre la Région wallonne, la Communauté francaise et la Communauté germanophone relatif au programme de transition professionnelle (TRADUCTION).

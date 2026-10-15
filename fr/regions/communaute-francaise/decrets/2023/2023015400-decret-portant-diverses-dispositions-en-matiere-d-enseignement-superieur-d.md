@@ -13,7 +13,7 @@ entry_into_force: 2023-09-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/05/25/2023015400/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2023. - Décret portant diverses dispositions en matière d'Enseignement supérieur, d'Enseignement de Promotion sociale et d'Hôpitaux universitaires

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/01/31/2003035259/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 26-02-2003 en tekstbijwerking tot 27-11-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2003. - Decreet betreffende de oprichting van een Eigen Vermogen "Flanders Hydraulics".

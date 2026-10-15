@@ -13,7 +13,7 @@ entry_into_force: 2001-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/12/21/2001029076/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2000. - Décret modifiant la loi du 7 juillet 1970 relative à la structure générale de l'enseignement supérieur.

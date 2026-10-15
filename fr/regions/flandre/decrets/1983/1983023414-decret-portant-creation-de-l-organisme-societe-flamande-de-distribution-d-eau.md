@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1983/06/28/1983023414/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-10-1998 et mise à jour au 07-07-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 1983. - Décret portant création de l'organisme "Société flamande de Distribution d'Eau". &lt;Traduction&gt; -

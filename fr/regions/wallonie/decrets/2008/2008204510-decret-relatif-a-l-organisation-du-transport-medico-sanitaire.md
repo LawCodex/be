@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/20/2008204510/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 23-02-2009 et mise à jour au 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2008. - Décret relatif à l'organisation du transport médico-sanitaire

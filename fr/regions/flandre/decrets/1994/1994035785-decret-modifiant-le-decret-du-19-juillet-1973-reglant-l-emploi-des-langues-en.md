@@ -13,7 +13,7 @@ entry_into_force: 1994-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/06/01/1994035785/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 1994. - Décret modifiant le décret du 19 juillet 1973 réglant l'emploi des langues en matière de relations sociales entre employeurs et travailleurs, ainsi qu'en matière d'actes et de documents d'entreprises, prescrits par la loi et les règlements.

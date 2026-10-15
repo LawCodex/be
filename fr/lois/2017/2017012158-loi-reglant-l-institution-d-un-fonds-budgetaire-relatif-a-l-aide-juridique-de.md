@@ -11,7 +11,7 @@ published: 2017-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/04/26/2017012158/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2017. - Loi réglant l'institution d'un fonds budgétaire relatif à l'aide juridique de deuxième ligne en ce qui concerne le Conseil d'Etat et le Conseil du Contentieux des Etrangers

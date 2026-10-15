@@ -12,7 +12,7 @@ entry_into_force: 1987-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/07/14/1987009653/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1987. - Loi apportant des modifications, en ce qui concerne notamment les réfugiés, à la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.

@@ -13,7 +13,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/21/1995035232/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 1994. - DECREET tot wijziging van het decreet van 22 januari 1975 houdende regeling van de erkenning en subsidiëring van het landelijk georganiseerd jeugdwerk

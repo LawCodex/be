@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/12/20/2025000401/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 24-01-2025 en tekstbijwerking tot 06-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2024. - Decreet houdende de uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2025

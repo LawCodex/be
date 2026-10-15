@@ -12,7 +12,7 @@ entry_into_force: 2021-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/04/02/2021041096/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2021. - Wet tot wijziging van het Wetboek van de belasting over de toegevoegde waarde wat de regeling betreft die van toepassing is op afstandsverkopen van goederen en op bepaalde leveringen van goederen en diensten

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/22/2014009373/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 23-07-2014 et mise à jour au 30-06-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2014. - Loi modifiant diverses dispositions afin de prévenir l'enlèvement parental international d'enfants

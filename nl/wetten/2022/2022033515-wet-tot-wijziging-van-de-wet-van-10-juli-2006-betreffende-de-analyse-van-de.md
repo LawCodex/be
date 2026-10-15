@@ -12,7 +12,7 @@ entry_into_force: 2022-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/05/31/2022033515/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2022. - Wet tot wijziging van de wet van 10 juli 2006 betreffende de analyse van de dreiging

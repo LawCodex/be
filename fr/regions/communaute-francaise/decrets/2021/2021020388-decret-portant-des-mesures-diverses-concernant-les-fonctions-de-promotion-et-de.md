@@ -13,7 +13,7 @@ entry_into_force: 2021-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/02/04/2021020388/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2021. - Décret portant des mesures diverses concernant les fonctions de promotion et de sélection dans l'enseignement

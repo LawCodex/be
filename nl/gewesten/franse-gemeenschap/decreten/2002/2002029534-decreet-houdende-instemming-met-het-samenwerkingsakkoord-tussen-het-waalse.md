@@ -11,7 +11,7 @@ date: 2002-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/10/24/2002029534/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2002. - Decreet houdende instemming met het Samenwerkingsakkoord tussen het Waalse Gewest en de Franse Gemeenschap van België, enerzijds, en het Koninkrijk Marokko, anderzijds, gedaan te Rabat op 26 oktober 1999 (VERTALING).

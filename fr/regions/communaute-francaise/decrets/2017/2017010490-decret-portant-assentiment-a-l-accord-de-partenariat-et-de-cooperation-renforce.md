@@ -13,7 +13,7 @@ entry_into_force: 2017-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/01/26/2017010490/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2017. - Décret portant assentiment à l'Accord de Partenariat et de Coopération renforcé entre l'Union européenne et ses Etats membres, d'une part, et la République du Kazakhstan, d'autre part, signé à Astana le 21 décembre 2015

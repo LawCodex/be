@@ -13,7 +13,7 @@ entry_into_force: 2012-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/01/12/2012200444/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 2012. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening van de Franse Gemeenschap naar het Waalse Gewest is overgedragen, met de statuten van het Internationaal Agentschap voor Hernieuwbare Energie (IRENA), opgemaakt te Bonn op 26 januari 2009

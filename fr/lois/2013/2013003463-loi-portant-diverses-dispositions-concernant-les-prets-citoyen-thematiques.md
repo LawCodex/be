@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/26/2013003463/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 28-12-2015 et mise à jour au 24-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBRE 2013. - Loi portant diverses dispositions concernant les prêts-citoyen thématiques

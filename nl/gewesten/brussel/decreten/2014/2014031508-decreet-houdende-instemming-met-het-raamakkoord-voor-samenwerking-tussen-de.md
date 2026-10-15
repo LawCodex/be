@@ -13,7 +13,7 @@ entry_into_force: 2014-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/27/2014031508/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2014. - Decreet houdende instemming met het raamakkoord voor samenwerking tussen de Franse Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende het overleg tussen de Franstaligen inzake gezondheid en bijstand aan personen en de gemeenschappelijke principes die in deze materies van toepassing zijn

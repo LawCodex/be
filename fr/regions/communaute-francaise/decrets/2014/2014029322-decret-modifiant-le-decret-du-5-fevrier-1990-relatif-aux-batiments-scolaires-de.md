@@ -13,7 +13,7 @@ entry_into_force: 2014-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/20/2014029322/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2014. - Décret modifiant le décret du 5 février 1990 relatif aux bâtiments scolaires de l'enseignement non universitaire organisé ou subventionné par la Communauté française et modifiant le décret-programme du 18 décembre 2013 portant diverses mesures relatives aux Fonds budgétaires figurant au Budget général des dépenses de la Communauté française, à la Culture, à l'Enseignement obligatoire et de promotion sociale, à l'Agence d'évaluation de la qualité de l'Enseignement supérieur organisé ou subventionné par la Communauté française, aux Bâtiments scolaires et à la Recherche

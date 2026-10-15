@@ -13,7 +13,7 @@ entry_into_force: 2009-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/25/2009203227/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2009. - Décret portant assentiment à la Convention du Conseil de l'Europe et de l'UNESCO sur la reconnaissance des qualifications relatives à l'enseignement supérieur dans la Région européenne, adoptée à Lisbonne le 11 avril 1997

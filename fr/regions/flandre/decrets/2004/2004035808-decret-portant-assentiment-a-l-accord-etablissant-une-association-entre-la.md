@@ -13,7 +13,7 @@ entry_into_force: 2004-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/02/2004035808/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2004. - Décret portant assentiment à l'Accord établissant une association entre la Communauté européenne et ses Etats membres, d'une part, et la République du Chili, d'autre part, aux Annexes Ire à XVII et à l'Acte final, signés à Bruxelles, le 18 novembre 2002 (TRADUCTION).

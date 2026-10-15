@@ -12,7 +12,7 @@ entry_into_force: 2024-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/02/29/2024201439/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 FEBRUARI 2024. - Wet tot wijziging van het koninklijk besluit van 27 april 1997 tot instelling van een Ombudsdienst Pensioenen met toepassing van artikel 15, 5°, van de wet van 26 juli 1996 tot modernisering van de sociale zekerheid en tot vrijwaring van de leefbaarheid van de wettelijke pensioenstelsels

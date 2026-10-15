@@ -13,7 +13,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/08/2009202688/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2009. - Décret modifiant le décret du 21 décembre 1988 portant création d'une Société flamande terrienne et du décret du 16 juin 2006 portant création d'une "Vlaamse Grondenbank" (Banque foncière flamande) et portant modification de diverses dispositions, en ce qui concerne le principe de remise de paiement

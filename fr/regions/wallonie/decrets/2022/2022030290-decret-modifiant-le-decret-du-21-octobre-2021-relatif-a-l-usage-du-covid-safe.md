@@ -13,7 +13,7 @@ entry_into_force: 2022-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/01/14/2022030290/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 2022. - Décret modifiant le décret du 21 octobre 2021 relatif à l'usage du COVID Safe Ticket et à l'obligation du port du masque

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/07/17/2000035848/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 13-03-2003 et mise à jour au 10-12-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2000. - [Décret portant création d'un " Instituut Samenleving en Technologie " (Institut Société et Technologie) (TRADUCTION)]. &lt;Intitulé remplacé par DCFL 2008-12-05/46 , art. 8 et 9, 004 ; En vigueur : indéterminée ; voir également l'art. 11&gt;)

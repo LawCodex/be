@@ -13,7 +13,7 @@ entry_into_force: 2009-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009202220/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret modifiant certaines dispositions du Code de la Démocratie locale et de la Décentralisation et de la loi du 8 juillet 1976 organique des centres publics d'action sociale

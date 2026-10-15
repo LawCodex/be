@@ -13,7 +13,7 @@ entry_into_force: 2018-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/07/2018010181/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2017. - Décret relatif à l'accueil, à l'accompagnement et au maintien dans l'enseignement ordinaire fondamental et secondaire des élèves présentant des besoins spécifiques

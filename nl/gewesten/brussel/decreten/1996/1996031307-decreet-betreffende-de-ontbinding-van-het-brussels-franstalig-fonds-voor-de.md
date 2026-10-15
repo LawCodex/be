@@ -12,7 +12,7 @@ published: 1996-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/18/1996031307/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 1996. - Decreet betreffende de ontbinding van het Brussels Franstalig Fonds voor de sociale integratie van gehandicapte personen en hun inschakeling in het arbeidsproces (VERTALING).

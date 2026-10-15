@@ -13,7 +13,7 @@ entry_into_force: 2012-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/26/2012202689/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2012. - Decreet houdende instemming met het Verdrag ter bescherming van het cultureel erfgoed onder water, aangenomen op 2 november 2001 en opgemaakt te Parijs op 6 november 2001

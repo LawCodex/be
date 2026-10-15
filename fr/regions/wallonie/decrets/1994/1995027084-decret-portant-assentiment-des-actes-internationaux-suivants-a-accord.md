@@ -13,7 +13,7 @@ entry_into_force: 1995-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/22/1995027084/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1994. - Décret portant assentiment des actes internationaux suivants : A. Accord instituant l'Organisation mondiale du Commerce, Acte final, Annexes 1a, 1b, 1c, 2, 3 et 4, Décisions et Déclarations, et mémorandum d'accord sur les engagements relatifs aux services financiers, et B. Accord sur les marchés publics et Appendices I, II, III et IV, faits à Marrakech le 15 avril 1994.

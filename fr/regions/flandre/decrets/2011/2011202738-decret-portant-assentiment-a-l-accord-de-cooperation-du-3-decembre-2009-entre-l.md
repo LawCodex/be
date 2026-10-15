@@ -13,7 +13,7 @@ entry_into_force: 2011-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/05/13/2011202738/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2011. - Décret portant assentiment à l'accord de coopération du 3 décembre 2009 entre l'Etat fédéral et les Régions concernant la mise en oeuvre de la Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure, signée à Strasbourg le 9 septembre 1996

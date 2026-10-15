@@ -12,7 +12,7 @@ entry_into_force: 2001-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/05/22/2001000594/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2001. - Wet tot aanvulling van artikel 317 van de nieuwe gemeentewet.

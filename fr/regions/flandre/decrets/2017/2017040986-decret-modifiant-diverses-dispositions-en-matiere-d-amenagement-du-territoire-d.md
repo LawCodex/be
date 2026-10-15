@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/08/2017040986/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-12-2017 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2017. - Décret modifiant diverses dispositions en matière d'aménagement du territoire, d'écologie, d'environnement et d'aménagement du territoire

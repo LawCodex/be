@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/07/10/1997011260/justel"
 department: "Affaires économiques"
 justel_note: "Consultation des versions antérieures à partir du 19-05-1999 et mise à jour au 15-01-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 1997. - Loi relative aux dates de valeur des opérations bancaires. -

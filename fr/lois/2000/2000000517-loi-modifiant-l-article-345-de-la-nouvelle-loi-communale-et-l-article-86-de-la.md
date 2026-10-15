@@ -12,7 +12,7 @@ entry_into_force: 2000-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/06/09/2000000517/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 2000. - Loi modifiant l'article 345 de la nouvelle loi communale et l'article 86 de la loi électorale communale.

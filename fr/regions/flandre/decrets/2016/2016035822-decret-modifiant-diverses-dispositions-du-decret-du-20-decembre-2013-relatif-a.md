@@ -13,7 +13,7 @@ entry_into_force: 2016-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/05/04/2016035822/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2016. - Décret modifiant diverses dispositions du décret du 20 décembre 2013 relatif à la pratique du sport dans le respect de la santé et de l'éthique

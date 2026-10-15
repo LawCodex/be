@@ -13,7 +13,7 @@ entry_into_force: 1999-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/26/1999029442/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 1999. - Decreet houdende oprichting van nieuwe studies in de hogescholen georganiseerd of gesubsidieerd door de Franse Gemeenschap (Vertaling).

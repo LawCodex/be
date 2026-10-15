@@ -12,7 +12,7 @@ entry_into_force: 2007-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/03/2007015044/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 1999. - Wet houdende instemming met de Overeenkomst tot herziening van de Overeenkomst houdende oprichting van een Europees Universitair Instituut, en met de Slotakte, gedaan te Florence op 18 juni 1992 en 17 september 1992.

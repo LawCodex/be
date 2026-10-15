@@ -12,7 +12,7 @@ entry_into_force: 2009-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/09/10/2009011477/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 SEPTEMBRE 2009. - Loi portant modification de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations

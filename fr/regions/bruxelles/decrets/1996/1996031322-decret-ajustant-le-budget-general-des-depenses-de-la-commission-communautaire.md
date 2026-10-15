@@ -13,7 +13,7 @@ entry_into_force: 1996-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/11/1996031322/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 1996. - Décret ajustant le budget général des dépenses de la Commission communautaire française pour l'année budgétaire 1996.

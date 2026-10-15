@@ -13,7 +13,7 @@ last_amended: 2013-11-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1969/03/27/1969032710/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 26-04-2013 en tekstbijwerking tot 29-11-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 1969. - [Wet betreffende de reglementering van het zee- en luchtvervoer.] &lt;Opschrift vervangen door W 21-06-1976, art. 1&gt;

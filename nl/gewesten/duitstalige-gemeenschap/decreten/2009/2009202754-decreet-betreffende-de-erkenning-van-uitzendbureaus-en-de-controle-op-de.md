@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/05/11/2009202754/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 13-07-2009 en tekstbijwerking tot 06-06-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2009. - Decreet betreffende de erkenning van uitzendbureaus en de controle op de particuliere arbeidsbemiddelingsbureaus. &lt;Erratum, B.St. 29-01-2010, Ed. 3, p. 4186-4192&gt;

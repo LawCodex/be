@@ -13,7 +13,7 @@ entry_into_force: 1994-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/10/27/1994029529/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 1994. - Décret contenant l'ajustement du budget des Voies et Moyens de la Communauté française pour l'année budgétaire 1994.

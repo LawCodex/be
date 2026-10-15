@@ -12,7 +12,7 @@ published: 2002-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/04/2002027641/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2002. - Décret modifiant le décret du 11 mars 1999 relatif au permis d'environnement.

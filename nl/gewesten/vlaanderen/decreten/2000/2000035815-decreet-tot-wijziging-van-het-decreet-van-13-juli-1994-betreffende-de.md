@@ -13,7 +13,7 @@ entry_into_force: 2000-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/07/17/2000035815/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2000. - Decreet tot wijziging van het decreet van 13 juli 1994 betreffende de herstructurering van GIMV, Gimvindus, VMH, Mijnen en LIM en tot oprichting van het Limburgfonds en van de permanente werkgroep Limburg.

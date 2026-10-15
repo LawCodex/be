@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/19/2008033067/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 01-09-2008 et mise à jour au 15-03-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2008. - Décret relatif à l'organisation matérielle et au fonctionnement des cultes reconnus (TRADUCTION)

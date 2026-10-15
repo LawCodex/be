@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/18/1998000798/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-1998 en tekstbijwerking tot 24-05-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 1998. - Wet tot regeling van de gelijktijdige of kort opeenvolgende verkiezingen voor de [Kamer van volksvertegenwoordigers], het Europees Parlement en [de Gemeenschaps- en Gewestparlementen]. &lt;Opschrift gewijzigd bij W 2006-03-27/34 , art. 188, 003; Inwerkingtreding : 21-04-2006&gt; &lt;W 2014-01-06/62 , art. 151, 006; Inwerkingtreding : 25-05-2014&gt;

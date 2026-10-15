@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/02/2006029100/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 23-08-2006 en tekstbijwerking tot 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2006. - Decreet betreffende de personeelsformatie en het statuut van de kinderverzorgers van de inrichtingen voor gewoon kleuteronderwijs die door de Franse Gemeenschap worden georganiseerd en gesubsidieerd (VERTALING)

@@ -12,7 +12,7 @@ entry_into_force: 2003-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/07/11/2003015020/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2002. - Loi portant assentiment aux Actes internationaux suivants : 1. Instrument d'amendement à la Constitution de l'Union internationale des télécommunications; 2. Instrument d'amendement à la Convention de l'Union internationale des télécommunications, faits à Kyoto le 14 octobre 1994; 3. Instrument d'amendement à la Constitution de l'Union internationale des télécommunications; 4. Instrument d'amendement à la Convention de l'Union internationale des télécommunications, faits à Minneapolis le 6 novembre 1998.

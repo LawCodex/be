@@ -12,7 +12,7 @@ entry_into_force: 2006-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/04/04/2006002052/justel"
 department: "Personnel et Organisation"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2006. - Loi portant modification de l'article 43 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966.

@@ -13,7 +13,7 @@ entry_into_force: 2004-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036120/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant approbation de l'Accord de coopération du 10 décembre 2003, conclu entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune, la Commission communautaire française, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale visant la collaboration entre les domaines de l'environnement et de la santé (TRADUCTION).

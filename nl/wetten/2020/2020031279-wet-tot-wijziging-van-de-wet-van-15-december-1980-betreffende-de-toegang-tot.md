@@ -11,7 +11,7 @@ published: 2020-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/07/31/2020031279/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2020. - Wet tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen wat binnen een onderneming overgeplaatste personen betreft en tot wijziging van de wet van 6 mei 2009 houdende diverse bepalingen betreffende asiel en immigratie wat de inhaling van de achterstand met betrekking tot de betwistingen betreft

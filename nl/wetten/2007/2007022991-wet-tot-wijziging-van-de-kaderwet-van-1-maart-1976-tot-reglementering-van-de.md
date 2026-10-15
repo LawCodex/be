@@ -12,7 +12,7 @@ entry_into_force: 2007-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/11/2007022991/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2007. - Wet tot wijziging van de kaderwet van 1 maart 1976 tot reglementering van de bescherming van de beroepstitel en van de uitoefening van de dienstverlenende intellectuele beroepen.

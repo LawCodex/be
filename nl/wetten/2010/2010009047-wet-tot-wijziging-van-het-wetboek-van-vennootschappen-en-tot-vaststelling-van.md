@@ -12,7 +12,7 @@ entry_into_force: 2010-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/01/12/2010009047/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 2010. - Wet tot wijziging van het Wetboek van vennootschappen en tot vaststelling van de modaliteiten van de besloten vennootschap met beperkte aansprakelijkheid " Starter "

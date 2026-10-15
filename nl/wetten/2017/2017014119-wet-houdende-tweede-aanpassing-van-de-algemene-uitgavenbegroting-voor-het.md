@@ -10,7 +10,7 @@ date: 2017-11-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/11/21/2017014119/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2017. - Wet houdende tweede aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 2017

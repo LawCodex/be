@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/10/05/2023046186/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 OCTOBRE 2023. - Ordonnance portant modification de l'ordonnance du 4 avril 2019 relative à la constitution, à l'agrément, à la programmation et aux procédures d'agrément des hôpitaux, des formes de collaboration hospitalière ou des activités hospitalières, en ce qui concerne les organisations représentatives du secteur hospitalier

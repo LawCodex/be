@@ -11,7 +11,7 @@ date: 1998-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/02/1998033071/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 1998. - Decreet houdende instemming tot de overeenkomst tussen het Land Noordrijnland-Westfalen, het Land Rijnland-Palts, het Waalse Gewest en de Duitstalige Gemeenschap van België inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen en andere openbare instanties, ondertekend te Mainz op 8 maart 1996 (VERTALING).

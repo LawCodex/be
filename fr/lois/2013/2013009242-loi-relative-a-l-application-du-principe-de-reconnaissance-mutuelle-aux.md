@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/05/21/2013009242/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 13-06-2013 et mise à jour au 29-10-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 2013. - Loi relative à l'application du principe de reconnaissance mutuelle aux jugements et décisions de probation aux fins de la surveillance des mesures de probation et des peines de substitution prononcées dans un Etat membre de l'Union européenne

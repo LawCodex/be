@@ -13,7 +13,7 @@ entry_into_force: 2014-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/23/2014200877/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 2014. - Decreet tot wijziging van het decreet van 6 maart 2009 tot wijziging van Hoofdstuk II, van Titel III, van Boek II, van Deel I, van het Wetboek van de plaatselijke democratie en de decentralisatie betreffende de begraafplaatsen en de lijkbezorging

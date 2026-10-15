@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/20/2005202131/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 25-08-2005 en tekstbijwerking tot 09-03-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2005. - Decreet tot wijziging van de Waalse huisvestingscode (VERTALING)

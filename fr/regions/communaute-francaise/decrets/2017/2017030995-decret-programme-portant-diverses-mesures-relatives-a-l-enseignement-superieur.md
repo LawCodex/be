@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/19/2017030995/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 21-08-2017 et mise à jour au 25-01-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2017. - Décret-programme portant diverses mesures relatives à l'enseignement supérieur et à la Recherche, à la Culture, aux Fonds budgétaires, aux Bâtiments scolaires, à la Jeunesse

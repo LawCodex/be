@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/18/2008202941/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-08-2008 et mise à jour au 21-02-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2008. - Décret relatif à la délivrance d'aide et de soins (TRADUCTION)

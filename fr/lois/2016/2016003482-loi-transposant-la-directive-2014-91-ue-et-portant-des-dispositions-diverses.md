@@ -12,7 +12,7 @@ entry_into_force: 2017-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/25/2016003482/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2016. - Loi transposant la directive 2014/91/UE et portant des dispositions diverses

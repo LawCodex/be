@@ -16,7 +16,7 @@ department: "Mobiliteit en Vervoer"
 justel_notes:
   - "Opschrift vervangen door L 2016-12-25/01 , art. 61, 006; Inwerkingtreding : 01-01-2016"
   - "Raadpleging van vroegere versies vanaf 21-12-2005 en tekstbijwerking tot 10-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2005. - Wet betreffende de verdeling van een deel van de federale ontvangsten inzake verkeersveiligheid.

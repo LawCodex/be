@@ -13,7 +13,7 @@ entry_into_force: 2027-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/16/2026006220/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2026. - Besluit betreffende het informatieportaal voor ondergrondse kabels en leidingen

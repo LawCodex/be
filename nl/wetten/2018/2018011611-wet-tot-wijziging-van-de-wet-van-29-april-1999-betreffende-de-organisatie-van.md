@@ -12,7 +12,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/18/2018011611/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 2018. - Wet tot wijziging van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt met betrekking tot de nadere regels betreffende de federale bijdrage tot financiering van sommige openbare dienstverplichtingen en van de kosten verbonden aan de regulering van en controle op de elektriciteitsmarkt

@@ -13,7 +13,7 @@ entry_into_force: 2015-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/07/02/2015031423/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 2015. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 24 april 2015 tot wijziging van het samenwerkingsakkoord van 31 januari 2014 tussen het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de invoering van de kilometerheffing op het grondgebied van de drie Gewesten en tot oprichting van een publiekrechtelijk vormgegeven Interregionaal Samenwerkingsverband Viapass onder de vorm van een gemeenschappelijke instelling zoals bedoeld in artikel 92bis, § 1, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen

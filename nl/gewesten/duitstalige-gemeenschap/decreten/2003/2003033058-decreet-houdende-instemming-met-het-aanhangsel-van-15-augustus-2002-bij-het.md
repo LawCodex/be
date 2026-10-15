@@ -13,7 +13,7 @@ entry_into_force: 2003-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/03/24/2003033058/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2003. - Decreet houdende instemming met het aanhangsel van 15 augustus 2002 bij het samenwerkingsakkoord tussen de Staat, de Gewesten en de Duitstalige Gemeenschap betreffende de sociale economie van 4 juli 2000 (VERTALING).HI:??2,Zitting 2002-2003 : Bescheiden van de Ra Opheffing : 123 (2002-2003). Nr. 1. Ontwerp van decreet. - 123 (2002-2003). Nr. 2. Verslag. Integraal verslag. - Bespreking en aanneming. Zitting van 24 maart 2003.

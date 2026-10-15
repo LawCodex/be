@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029364/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 03-07-2014 et mise à jour au 05-08-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret finalisant le transfert des études de traduction et interprétation à l'université

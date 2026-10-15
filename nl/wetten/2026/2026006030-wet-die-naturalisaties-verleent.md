@@ -12,7 +12,7 @@ entry_into_force: 2026-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/15/2026006030/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2026. - Wet die naturalisaties verleent

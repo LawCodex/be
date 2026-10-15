@@ -13,7 +13,7 @@ entry_into_force: 2020-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/03/23/2020030544/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2020. - Décret accordant des pouvoirs spéciaux au Collège de la Commission communautaire française dans le cadre de la pandémie de COVID-19

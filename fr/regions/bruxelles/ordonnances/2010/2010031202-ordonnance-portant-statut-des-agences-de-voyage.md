@@ -17,7 +17,7 @@ department: "Région de Bruxelles-Capitale"
 justel_notes:
   - "modifié par ORD 2017-12-07/16 , art. 2, 003; En vigueur : 01-03-2018"
   - "Consultation des versions antérieures à partir du 03-05-2010 et mise à jour au 20-12-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2010. - Ordonnance " portant statut des agences de voyage " [...]

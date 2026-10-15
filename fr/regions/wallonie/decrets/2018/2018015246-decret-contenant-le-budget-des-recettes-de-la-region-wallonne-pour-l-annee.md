@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/29/2018015246/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 14-12-2018 et mise à jour au 30-12-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2018. - Décret contenant le budget des recettes de la Région wallonne pour l'année budgétaire 2019

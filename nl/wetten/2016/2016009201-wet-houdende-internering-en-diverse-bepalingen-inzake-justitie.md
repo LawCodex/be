@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/05/04/2016009201/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 13-05-2016 en tekstbijwerking tot 30-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2016. - Wet houdende internering en diverse bepalingen inzake Justitie

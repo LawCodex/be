@@ -12,7 +12,7 @@ entry_into_force: 2013-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/12/27/2013009020/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 2012. - Wet tot wijziging van de wet van 17 mei 2006 betreffende de externe rechtspositie van de veroordeelden tot een vrijheidsstraf en de aan het slachtoffer toegekende rechten in het kader van de strafuitvoeringsmodaliteiten en van de wet van 5 augustus 1992 op het politieambt

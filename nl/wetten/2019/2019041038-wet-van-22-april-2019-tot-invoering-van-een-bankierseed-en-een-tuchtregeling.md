@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/22/2019041038/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 02-05-2019 en tekstbijwerking tot 24-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2019. - [Wet van 22 april 2019 tot invoering van een bankierseed en een tuchtregeling voor de banksector] . &lt;W 2023-12-20/08 , art. 63, 002; Inwerkingtreding : 15-01-2025; 15-07-2026&gt;

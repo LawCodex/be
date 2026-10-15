@@ -12,7 +12,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/12/2017070163/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2017. - Decreet houdende de eerste aanpassing van de uitgavenbegroting van het Waalse Gewest voor het begrotingsjaar 2017

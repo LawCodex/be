@@ -12,7 +12,7 @@ entry_into_force: 2021-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/22/2021022370/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2021. - Decreet tot wijziging van artikel 2.10 en 2.11 van de Vlaamse Codex Wonen van 2021, wat de definitie betreft van leegstaande gebouwen die in hoofdzaak gediend hebben voor een economische functie

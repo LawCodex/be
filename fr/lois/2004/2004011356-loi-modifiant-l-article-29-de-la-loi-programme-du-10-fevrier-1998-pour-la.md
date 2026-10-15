@@ -12,7 +12,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/04/2004011356/justel"
 department: "Economie, PME, Classes moyennes et Energie - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2004. - Loi modifiant l'article 29 de la loi-programme du 10 février 1998 pour la promotion de l'entreprise indépendante, en ce qui concerne l'exonération pour personnel supplémentaire

@@ -12,7 +12,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/03/22/1995003260/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 1995. - Loi modifiant la loi du 24 juillet 1921 relative à la dépossession involontaire des titres au porteur.

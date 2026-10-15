@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/24/2003011117/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 02-05-2003 en tekstbijwerking tot 31-08-2005"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2003. - Wet tot wijziging van de wet van 12 juni 1991 op het consumentenkrediet.

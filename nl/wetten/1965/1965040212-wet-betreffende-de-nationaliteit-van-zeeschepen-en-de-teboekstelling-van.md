@@ -11,7 +11,7 @@ published: 1965-05-06
 entry_into_force: 1965-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1965/04/02/1965040212/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 1965. - Wet betreffende de nationaliteit van zeeschepen en de teboekstelling van zeeschepen en binnenschepen.

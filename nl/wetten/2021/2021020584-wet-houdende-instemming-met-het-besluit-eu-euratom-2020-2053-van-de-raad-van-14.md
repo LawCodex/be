@@ -12,7 +12,7 @@ entry_into_force: 2021-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/03/16/2021020584/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2021. - Wet houdende instemming met het Besluit (EU, Euratom) 2020/2053 van de Raad van 14 december 2020 betreffende het stelsel van eigen middelen van de Europese Unie en tot intrekking van Besluit 2014/335/EU. - Euratom

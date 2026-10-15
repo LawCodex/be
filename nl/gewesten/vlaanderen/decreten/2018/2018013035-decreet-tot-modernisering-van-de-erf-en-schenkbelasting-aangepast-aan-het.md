@@ -12,7 +12,7 @@ published: 2018-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/06/2018013035/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2018. - Decreet tot modernisering van de erf- en schenkbelasting, aangepast aan het nieuwe erfrecht

@@ -12,7 +12,7 @@ entry_into_force: 2023-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/26/2023200441/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBRE 2022. - Loi modifiant diverses lois du droit du travail

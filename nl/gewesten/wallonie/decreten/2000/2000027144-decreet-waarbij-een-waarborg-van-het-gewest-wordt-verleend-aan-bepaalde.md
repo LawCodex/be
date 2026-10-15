@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/03/24/2000027144/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 21-01-2013 en tekstbijwerking tot 21-01-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2000. - Decreet waarbij een waarborg van het Gewest wordt verleend aan bepaalde bedrijven die door de dioxinecrisis van 1999 werden getroffen (VERTALING)

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/03/03/2016201296/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "bij arrest nr 32/2018 van 15 maart 2018, B.St. 30-05-2018 heeft het Grondwettelijk hof dit decreet vernietigd en handhaaft definitief de gevolgen van dat decreet tot de volgende verjaardagsdatum van de huurovereenkomsten die volgt op 31 maart 2018."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 2016. - Decreet tot invoering van een indexsprong van de huurprijzen

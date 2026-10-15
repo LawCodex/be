@@ -13,7 +13,7 @@ entry_into_force: 1998-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/22/1998029264/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1997. - Decreet houdende toestemming in de Overeenkomst tot wijziging van de vierde ACS-EG-Overeenkomst van Lomé van 15 december 1989, in de Slotakte, en in het Protocol bij de vierde ACS-EG-Overeenkomst van Lomé, naar aanleiding van de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie, gedaan te Mauritius op 4 november 1995 (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 1996-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/06/30/1996009521/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 1996. - Loi modifiant la loi du 3 mai 1880 sur les enquêtes parlementaires et l'article 458 du Code pénal.

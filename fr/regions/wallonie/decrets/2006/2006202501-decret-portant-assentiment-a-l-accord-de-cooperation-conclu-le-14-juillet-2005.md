@@ -13,7 +13,7 @@ entry_into_force: 2006-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/19/2006202501/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2006. - Décret portant assentiment à l'accord de coopération conclu le 14 juillet 2005 entre le Gouvernement fédéral et les Gouvernements régionaux relatif à l'utilisation des systèmes de vote automatisé lors des élections provinciales et communales 2006 et lors des élections des chambres législatives fédérales 2007.

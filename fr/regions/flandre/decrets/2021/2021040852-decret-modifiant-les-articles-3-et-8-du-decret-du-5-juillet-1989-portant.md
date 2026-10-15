@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/02/26/2021040852/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2021. - Décret modifiant les articles 3 et 8 du décret du 5 juillet 1989 portant organisation de la tutelle sur la Commission communautaire flamande

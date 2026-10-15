@@ -13,7 +13,7 @@ entry_into_force: 2021-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/08/2021203489/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2021. - Decreet houdende instemming met de wijziging van artikel 6 van het Protocol van London van 1996 bij het Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolg van storten van afval en andere stoffen van 1972, aangenomen te Londen op 30 oktober 2009

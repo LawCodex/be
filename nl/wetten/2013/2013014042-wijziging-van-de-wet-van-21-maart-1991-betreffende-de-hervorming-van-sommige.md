@@ -12,7 +12,7 @@ entry_into_force: 2013-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/01/29/2013014042/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2013. - Wijziging van de wet van 21 maart 1991 betreffende de hervorming van sommige economische overheidsbedrijven en van de wet van 19 april 2002 tot rationalisering van de werking en het beheer van de Nationale Loterij

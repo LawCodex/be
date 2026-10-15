@@ -13,7 +13,7 @@ entry_into_force: 2011-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/03/31/2011201670/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2011. - Decreet houdende wijziging van het decreet van 6 mei 1999 betreffende de "Office wallon de la Formation professionnelle et de l'Emploi" (Waalse Dienst voor Beroepsopleiding en Arbeidsbemiddeling) met het oog op de oprichting van een strategisch comité, een enig uitvoerend bureau en een auditcomité

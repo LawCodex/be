@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/20/2006009617/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 01-09-2006 et mise à jour au 14-05-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2006. - [Loi instaurant le Conseil général des partenaires de l'Ordre judiciaire]&lt;Intitulé remplacé par L 2014-05-08/02 , art. 132, 002; En vigueur : 01-07-2014&gt;

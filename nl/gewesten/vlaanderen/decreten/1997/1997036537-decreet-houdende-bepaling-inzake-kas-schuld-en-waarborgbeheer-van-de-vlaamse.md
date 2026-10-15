@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/16/1997036537/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2000 en tekstbijwerking tot 16-07-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 1997. - Decreet houdende bepaling inzake kas-, schuld- en waarborgbeheer van de Vlaamse Gemeenschap. -

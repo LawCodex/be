@@ -13,7 +13,7 @@ entry_into_force: 2001-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/03/23/2001035418/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2001. - Decreet houdende instemming met de overeenkomst betreffende de instandhouding van vleermuizen in Europa, ondertekend in Londen op 4 december 1991.

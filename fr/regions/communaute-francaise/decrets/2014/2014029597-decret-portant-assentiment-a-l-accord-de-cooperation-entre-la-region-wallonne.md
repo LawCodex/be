@@ -13,7 +13,7 @@ entry_into_force: 2014-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029597/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret portant assentiment à l'accord de coopération entre la Région wallonne et la Communauté française relatif à l'équipement mis à disposition dans le cadre de la refondation de l'enseignement qualifiant et à la collaboration entre les centres de technologies avancées et les centres de compétence

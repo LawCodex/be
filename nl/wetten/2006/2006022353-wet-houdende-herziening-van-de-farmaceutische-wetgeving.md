@@ -12,7 +12,7 @@ entry_into_force: 2006-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/01/2006022353/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MEI 2006. - Wet houdende herziening van de farmaceutische wetgeving.

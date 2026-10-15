@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/10/05/2023046946/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 22-11-2023 en tekstbijwerking tot 04-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 OKTOBER 2023. - Bijzonder decreet houdende diverse bepalingen inzake het bestuur, de transparantie, de autonomie en de controle in verband met de instellingen die onder de Franse Gemeenschap ressorteren

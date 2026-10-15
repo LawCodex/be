@@ -12,7 +12,7 @@ entry_into_force: 2019-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/01/11/2019010396/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JANUARI 2019. - Wet houdende maatregelen van bestrijding van de belastingfraude en -ontwijking inzake roerende voorheffing

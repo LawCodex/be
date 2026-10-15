@@ -13,7 +13,7 @@ entry_into_force: 1996-01-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/04/16/1996035568/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 AVRIL 1996. - Décret portant restriction temporaire de la possibilité de programmation et de la nomination dans certains secteurs de l'enseignement (TRADUCTION).

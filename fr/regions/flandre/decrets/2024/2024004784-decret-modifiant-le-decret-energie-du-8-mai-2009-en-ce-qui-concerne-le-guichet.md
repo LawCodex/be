@@ -13,7 +13,7 @@ entry_into_force: 2024-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/19/2024004784/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2024. - Décret modifiant le Décret Energie du 8 mai 2009, en ce qui concerne le guichet unique pour la demande, l'examen, le traitement et le paiement des primes pour bâtiments ou primes pour installations de production d'énergie et établissant une obligation de rapport pour les centres de données

@@ -13,7 +13,7 @@ entry_into_force: 2021-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/12/17/2020044496/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2020. - Ordonnance spéciale modifiant la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises et visant à instaurer l'obligation d'alterner systématiquement le sexe des candidats sur les listes pour l'élection des membres du Parlement de la Région de Bruxelles-Capitale

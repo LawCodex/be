@@ -13,7 +13,7 @@ entry_into_force: 2025-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/22/2024003510/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2024. - Décret modifiant la réglementation aux fins de l'application de la notion de fonction d'autorité au statut du personnel des services de l'Autorité flamande

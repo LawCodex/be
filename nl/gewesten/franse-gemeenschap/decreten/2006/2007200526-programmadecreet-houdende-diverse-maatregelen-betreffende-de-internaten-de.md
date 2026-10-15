@@ -12,7 +12,7 @@ published: 2007-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/15/2007200526/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2006. - Programmadecreet houdende diverse maatregelen betreffende de internaten, de psycho-medisch-sociale centra, de schoolgebouwen, de financiering van de universiteiten en van de Hogescholen, de sociale subsidies van de hogescholen en van de hogere kunstscholen, de begrotingsfondsen, de waarborg verleend door de Franse Gemeenschap voor de financiële producten van de RTBF en het " Fonds Ecureuil " van de Franse Gemeenschap (VERTALING).

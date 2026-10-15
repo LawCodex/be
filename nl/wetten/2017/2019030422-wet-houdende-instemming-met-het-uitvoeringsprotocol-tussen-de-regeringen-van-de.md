@@ -12,7 +12,7 @@ entry_into_force: 2021-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/09/03/2019030422/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBER 2017. - Wet houdende instemming met het Uitvoeringsprotocol tussen de regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de regering van de Republiek Moldavië bij de Overeenkomst tussen de Europese gemeenschap en de Republiek Moldavië betreffende de overname van personen die zonder vergunning op het grondgebied verblijven, gedaan te Brussel op 25 januari 2013

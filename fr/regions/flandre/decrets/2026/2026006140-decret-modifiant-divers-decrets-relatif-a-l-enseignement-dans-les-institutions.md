@@ -13,7 +13,7 @@ entry_into_force: 2026-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/03/2026006140/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2026. - Décret modifiant divers décrets relatif à l'enseignement dans les institutions communautaires créées en exécution du droit en matière de délinquance juvénile

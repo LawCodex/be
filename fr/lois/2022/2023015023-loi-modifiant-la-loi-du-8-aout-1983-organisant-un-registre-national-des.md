@@ -12,7 +12,7 @@ entry_into_force: 2023-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/08/13/2023015023/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AOUT 2022. - Loi modifiant la loi du 8 août 1983 organisant un Registre national des personnes physiques et la loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes des étrangers et aux documents de séjour afin que, dans l'exercice de leurs missions légales, les membres du Comité permanent P, du Service d'enquêtes des services de police et du personnel administratif du Comité permanent P soient dispensés de l'obligation d'obtenir des autorisations pour accéder à des données à caractère personnel et les traiter

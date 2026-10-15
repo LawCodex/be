@@ -13,7 +13,7 @@ entry_into_force: 2024-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/17/2024006752/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2024. - Decreet houdende diverse bepalingen over omgeving, leefmilieu en natuur en ruimtelijke ordening

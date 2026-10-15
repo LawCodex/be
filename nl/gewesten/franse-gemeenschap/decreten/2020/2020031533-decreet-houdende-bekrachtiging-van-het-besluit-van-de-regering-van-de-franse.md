@@ -13,7 +13,7 @@ entry_into_force: 2020-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/08/2020031533/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 OKTOBER 2020. - Decreet houdende bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 21 van 11 juni 2020 houdende de aangepaste begroting van het " Centre du Cinéma et de l'Audiovisuel " (Centrum voor de filmsector en de audiovisuele sector) ter ondersteuning van het herstel van de filmsector in het kader van de COVID-19-crisis

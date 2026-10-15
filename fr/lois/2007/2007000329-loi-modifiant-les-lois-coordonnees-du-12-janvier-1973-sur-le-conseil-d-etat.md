@@ -12,7 +12,7 @@ entry_into_force: 2008-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/23/2007000329/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2007. - Loi modifiant les lois coordonnées du 12 janvier 1973 sur le Conseil d'Etat.

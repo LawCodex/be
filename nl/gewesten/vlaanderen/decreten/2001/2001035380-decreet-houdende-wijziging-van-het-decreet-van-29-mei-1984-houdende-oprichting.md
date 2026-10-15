@@ -13,7 +13,7 @@ entry_into_force: 2001-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/03/09/2001035380/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2001. - Decreet houdende wijziging van het decreet van 29 mei 1984 houdende oprichting van de instelling van Kind en Gezin.

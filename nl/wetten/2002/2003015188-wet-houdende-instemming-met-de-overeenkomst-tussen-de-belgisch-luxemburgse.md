@@ -12,7 +12,7 @@ entry_into_force: 2004-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/24/2003015188/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2002. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van Burkina Faso inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 18 mei 2001.

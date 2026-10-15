@@ -12,7 +12,7 @@ entry_into_force: 2013-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/05/23/2013009286/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2013. - Wet tot wijziging van artikel 658 van het Gerechtelijk Wetboek, teneinde het mogelijk te maken dat een zaak nadat die aan de rechter is onttrokken, door het Hof van Cassatie wordt verwezen naar een rechtbank van een ander rechtsgebied

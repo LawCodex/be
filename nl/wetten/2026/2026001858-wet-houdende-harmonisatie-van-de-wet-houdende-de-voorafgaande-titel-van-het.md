@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/03/11/2026001858/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 18-03-2026 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2026. - Wet houdende harmonisatie van de wet houdende de voorafgaande titel van het Wetboek van Strafvordering, het Wetboek van strafvordering en de wet van 20 juli 1990 betreffende de voorlopige hechtenis met het Strafwetboek van 29 februari 2024

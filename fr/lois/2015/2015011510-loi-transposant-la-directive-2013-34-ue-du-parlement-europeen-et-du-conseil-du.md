@@ -12,7 +12,7 @@ entry_into_force: 2016-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/18/2015011510/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - Loi transposant la Directive 2013/34/UE du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d'entreprises, modifiant la Directive 2006/43/CE du Parlement européen et du Conseil et abrogeant les Directives 78/660/CEE et 83/349/CEE du Conseil

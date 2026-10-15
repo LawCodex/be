@@ -13,7 +13,7 @@ entry_into_force: 2017-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/04/27/2017012121/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2017. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et les Etats de Guernesey en vue de l'échange de renseignements en matière fiscale, fait à Bruxelles le 24 avril 2014 et à Saint-Pierre-Port le 7 mai 2014

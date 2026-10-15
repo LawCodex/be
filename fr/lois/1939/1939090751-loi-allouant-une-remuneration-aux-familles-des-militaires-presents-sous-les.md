@@ -11,7 +11,7 @@ published: 1939-09-08
 entry_into_force: 1939-09-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1939/09/07/1939090751/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBRE 1939. - LOI allouant une rémunération aux familles des militaires présents sous les drapeaux.

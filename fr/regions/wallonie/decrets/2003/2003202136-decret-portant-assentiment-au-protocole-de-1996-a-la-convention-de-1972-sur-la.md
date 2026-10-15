@@ -13,7 +13,7 @@ entry_into_force: 2003-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/11/27/2003202136/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2003. - Décret portant assentiment au Protocole de 1996 à la Convention de 1972 sur la prévention de la pollution des mers résultant de l'immersion de déchets, fait à Londres, le 7 novembre 1996.

@@ -12,7 +12,7 @@ entry_into_force: 2004-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/06/2004003300/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2004. - Loi portant modification des articles 132 et 143 du Code des impôts sur les revenus 1992 en matière de prise en charge de certaines personnes âgées de plus de 65 ans.

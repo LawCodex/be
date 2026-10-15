@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/05/25/2007036057/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 06-12-2007 en tekstbijwerking tot 22-08-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2007. - Decreet tot wijziging van het decreet van 20 december 1996 tot regeling van het recht op minimumlevering van elektriciteit, gas en water, wat betreft elektriciteit en gas, van het decreet van 17 juli 2000 houdende de organisatie van de elektriciteitsmarkt, wat betreft de openbaredienstverplichtingen, en van het decreet van 6 juli 2001 houdende de organisatie van de gasmarkt, wat betreft de openbaredienstverplichtingen.

@@ -13,7 +13,7 @@ entry_into_force: 2026-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/04/2026004372/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUIN 2026. - Décret modifiant les articles 3, 4, 8, et 8/1 du décret du 28 avril 2016 Prêt " Coup de Pouce "

@@ -12,7 +12,7 @@ entry_into_force: 1998-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/19/1998003014/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1997. - Loi portant le onzième ajustement du budget général des dépenses de l'année budgétaire 1997 - Section 32 - " Affaires économiques ".

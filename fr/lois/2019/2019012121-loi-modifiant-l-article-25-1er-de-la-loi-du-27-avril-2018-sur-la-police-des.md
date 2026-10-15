@@ -12,7 +12,7 @@ entry_into_force: 2019-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/13/2019012121/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 2019. - Loi modifiant l'article 25, § 1er, de la loi du 27 avril 2018 sur la police des chemins de fer

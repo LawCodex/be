@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/03/23/2012202120/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 20-04-2012 en tekstbijwerking tot 17-11-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2012. - Decreet tot overname van personeelsleden van de vzw Vlaams Overleg Bewonersbelangen door de VMSW en het Agentschap Wonen-Vlaanderen en houdende wijziging van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode wat de huurdiensten betreft

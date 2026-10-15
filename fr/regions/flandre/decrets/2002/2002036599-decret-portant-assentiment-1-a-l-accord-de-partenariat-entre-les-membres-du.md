@@ -13,7 +13,7 @@ entry_into_force: 2003-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/06/2002036599/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2002. - Décret portant assentiment 1. A l'accord de partenariat entre les membres du groupe des Etats d'Afrique, des Caraïbes et du Pacifique, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, aux Annexes Ire à VI, aux Protocoles 1, 2 et 3 et à l'Acte final, faits à Cotonou le 22 juin 2000 (" Accord de Cotonou "), et 2. à l'accord interne entre les représentants des gouvernements des Etats membres réunis au sein du Conseil sur la mise en oeuvre de l'accord de partenariat entre les Etats d'Afrique, des Caraïbes et du pacifique et la Communauté européenne et l'Annexe faits à Bruxelles le 18 septembre 2000. (TRADUCTION)

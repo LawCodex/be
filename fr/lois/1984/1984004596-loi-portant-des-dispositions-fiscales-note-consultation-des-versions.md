@@ -12,7 +12,7 @@ entry_into_force: 1984-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/12/27/1984004596/justel"
 department: "Finances"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 1984. - Loi portant des dispositions fiscales. (Note : consultation des versions antérieures à partir du 01-01-1989 et mise à jour au 11-08-2001)

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1988/12/21/1988030140/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 21-12-1990 et mise à jour au 10-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 1988. - Décret portant création d'une Société flamande terrienne. (Traduction)

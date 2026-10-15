@@ -10,7 +10,7 @@ date: 2000-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/07/09/2000003442/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2000. - Wet houdende dertiende aanpassing van de Algemene uitgavenbegroting voor het begrotingsjaar 1999, sectie 31, " Ministerie van Landbouw en Middenstand ".

@@ -11,7 +11,7 @@ date: 2023-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/13/2023204513/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2023. - Decreet tot wijziging van het decreet van 6 november 2008 ter bestrijding van bepaalde vormen van discriminatie

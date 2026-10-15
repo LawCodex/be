@@ -12,7 +12,7 @@ entry_into_force: 1982-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1982/08/16/1982001674/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 AOUT 1982. \_ Loi portant approbation de la Convention internationale de Torremolinos sur la sécurité des navires de pêche, et de l'Annexe, faites à Torremolinos le 2 avril 1977.

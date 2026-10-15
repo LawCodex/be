@@ -13,7 +13,7 @@ entry_into_force: 1994-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/03/02/1994035374/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 1994. - Décret contenant des dispositions complémentaires relatives au budget général des dépenses de la Communauté flamande pour les années budgétaires 1993 et 1994.

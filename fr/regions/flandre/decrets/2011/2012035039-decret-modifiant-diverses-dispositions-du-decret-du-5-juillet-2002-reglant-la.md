@@ -13,7 +13,7 @@ entry_into_force: 2012-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/23/2012035039/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2011. - Décret modifiant diverses dispositions du décret du 5 juillet 2002 réglant la dotation et la répartition du " Vlaams Gemeentefonds " (Fonds flamand des Communes)

@@ -12,7 +12,7 @@ entry_into_force: 2007-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/06/03/2007011277/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2007. - Wet met betrekking tot de kosteloze borgtocht.

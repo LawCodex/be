@@ -13,7 +13,7 @@ entry_into_force: 2009-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/28/2008204702/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2008. - Decreet houdende instemming met het verdrag inzake de bevoegdheid, het toepasselijk recht, de erkenning, de tenuitvoerlegging en de samenwerking op het gebied van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen, opgemaakt in Den Haag op 19 oktober 1996.

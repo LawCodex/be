@@ -12,7 +12,7 @@ entry_into_force: 2022-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/06/2022042945/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBRE 2022. - Loi contenant le quatrième ajustement du Budget général des dépenses pour l'année budgétaire 2022

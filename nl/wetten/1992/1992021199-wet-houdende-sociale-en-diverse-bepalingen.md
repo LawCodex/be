@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1992/06/26/1992021199/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 09-01-1993 en tekstbijwerking tot 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 1992. - Wet houdende sociale en diverse bepalingen. -

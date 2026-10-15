@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/09/2020042348/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 22-07-2020 et mise à jour au 20-10-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2020. - [Décret du 9 juillet 2020 portant confirmation de l'arrêté du gouvernement de la Communauté française du 23 janvier 2020 déterminant le référentiel des compétences initiales]

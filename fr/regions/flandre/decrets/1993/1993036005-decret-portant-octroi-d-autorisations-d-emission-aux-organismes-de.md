@@ -13,7 +13,7 @@ entry_into_force: 1993-09-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/07/14/1993036005/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1993. - Décret portant octroi d'autorisations d'émission aux organismes de radiodiffusion.

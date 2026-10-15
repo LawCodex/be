@@ -12,7 +12,7 @@ entry_into_force: 2017-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/26/2017011774/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBER 2015. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België, vertegenwoordigd door zijn Regering, en de Staat Israël, vertegenwoordigd door zijn Regering, inzake het verrichten van betaalde werkzaamheden door gezinsleden van personeel van een diplomatieke zending of een consulaire post, gedaan te Jeruzalem op 11 november 2013

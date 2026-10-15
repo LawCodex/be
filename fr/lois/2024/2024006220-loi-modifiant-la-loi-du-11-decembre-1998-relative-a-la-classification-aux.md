@@ -11,7 +11,7 @@ published: 2024-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/06/02/2024006220/justel"
 department: "Justice - Défense Nationale - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2024. - Loi modifiant la loi du 11 décembre 1998 relative à la classification, aux habilitations de sécurité, attestations de sécurité, avis de sécurité et au service public réglementé et la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel

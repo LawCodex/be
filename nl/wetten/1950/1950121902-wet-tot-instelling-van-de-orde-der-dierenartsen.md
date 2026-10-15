@@ -13,7 +13,7 @@ last_amended: 2015-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1950/12/19/1950121902/justel"
 justel_note: "Art. 8, 10 en 12 zijn gewijzigd met ingang op een onbepaalde datum door <W 2007-03-01/37 , art. 124 tot 126, 004; Inwerkingtreding : onbepaald >) - (NOTA : Raadpleging van vroegere versies vanaf 18-03-1999 en tekstbijwerking tot 21-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1950. - WET tot instelling van de Orde der Dierenartsen.

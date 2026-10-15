@@ -13,7 +13,7 @@ entry_into_force: 2023-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/03/2022032477/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2022. - Decreet houdende de verplichting voor bepaalde organisaties om een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, te controleren voor bepaalde nieuwe medewerkers

@@ -12,7 +12,7 @@ entry_into_force: 2008-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/07/24/2008022432/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 2008. - Loi portant assentiment à l'avenant du 28 décembre 2006 à l'Accord de Coopération du 30 mai 2005 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale et la Communauté germanophone relatif à l'économie plurielle, approuvé par la loi du 10 mai 2006.

@@ -13,7 +13,7 @@ entry_into_force: 2007-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/09/2007035497/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2007. - Décret modifiant le décret du 8 mai 2002 relatif à la participation proportionnelle sur le marché de l'emploi et le décret du 30 avril 2004 relatif au contrôle des lois sociales (TRADUCTION).

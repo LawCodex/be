@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/26/1999033086/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 06-10-1999 et mise à jour au 31-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 1999. - Décret relatif à l'enseignement fondamental ordinaire (Traduction)

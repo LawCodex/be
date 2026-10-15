@@ -13,7 +13,7 @@ last_amended: 2010-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1936/12/22/1936122250/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-1989 en tekstbijwerking tot 01-07-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1936. - Wet tot instelling van het regime der vier ploegen in de automatische vensterglasblazerijen.

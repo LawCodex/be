@@ -12,7 +12,7 @@ entry_into_force: 2007-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/10/2007009689/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAI 2007. - Loi portant diverses mesures en matière de recèlement et de saisie.

@@ -13,7 +13,7 @@ entry_into_force: 1998-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/05/26/1998035804/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 1998. - Décret portant modification du décret du 22 février 1995 relatif à l'assainissement du sol (TRADUCTION).

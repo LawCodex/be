@@ -13,7 +13,7 @@ entry_into_force: 2012-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/19/2012201966/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2012. - Décret portant assentiment aux statuts de l'Agence internationale pour les énergies renouvelables, faits à Bonn le 26 janvier 2009

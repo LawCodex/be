@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/07/06/2005011329/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 11-08-2005 en tekstbijwerking tot 30-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2005. - Wet betreffende sommige juridische bepalingen inzake elektronische communicatie

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/01/23/1991035146/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 11-07-1992 et mise à jour au 06-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 1991. - Décret concernant la " Vlaamse Instelling voor Technologisch Onderzoek ". &lt;Traduction&gt;

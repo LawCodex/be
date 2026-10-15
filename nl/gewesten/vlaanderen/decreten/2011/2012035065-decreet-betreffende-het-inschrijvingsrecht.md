@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/11/25/2012035065/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 23-02-2012 en tekstbijwerking tot 23-07-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2011. - Decreet betreffende het inschrijvingsrecht

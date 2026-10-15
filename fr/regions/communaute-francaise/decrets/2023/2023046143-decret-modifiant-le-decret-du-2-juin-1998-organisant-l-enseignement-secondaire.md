@@ -13,7 +13,7 @@ entry_into_force: 2023-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/09/21/2023046143/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 SEPTEMBRE 2023. - Décret modifiant le décret du 2 juin 1998 organisant l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française

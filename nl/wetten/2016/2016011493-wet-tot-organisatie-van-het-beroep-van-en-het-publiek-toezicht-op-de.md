@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/07/2016011493/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 13-12-2016 en tekstbijwerking tot 20-12-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2016. - Wet tot organisatie van het beroep van en het publiek toezicht op de bedrijfsrevisoren

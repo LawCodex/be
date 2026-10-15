@@ -13,7 +13,7 @@ last_amended: 2024-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1980/02/20/1980022050/justel"
 justel_note: "Consultation des versions antérieures à partir du 12-01-1993 et mise à jour au 01-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 1980. - Lois coordonnées portant le statut des objecteurs de conscience.

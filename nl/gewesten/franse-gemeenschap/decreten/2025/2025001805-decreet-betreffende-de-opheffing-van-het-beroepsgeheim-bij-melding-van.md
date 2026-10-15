@@ -13,7 +13,7 @@ entry_into_force: 2025-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/02/20/2025001805/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 2025. - Decreet betreffende de opheffing van het beroepsgeheim bij melding van informatie over een vermoede onregelmatigheid binnen Wallonie-Bruxelles International

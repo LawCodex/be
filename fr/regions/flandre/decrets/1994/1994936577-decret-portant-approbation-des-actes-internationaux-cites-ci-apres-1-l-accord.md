@@ -13,7 +13,7 @@ entry_into_force: 1995-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/11/23/1994936577/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 1994. - DECRET portant approbation des actes internationaux cités ci-après : 1. l'Accord européen établissant une association entre les Communautés européennes et leurs Etats-membres, d'une part, et la Roumanie d'autre part, aux Protocoles 1, 2, 3, 4, 5, 6 et 7, aux Annexes I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII et XIX et à l'Acte final, faits à Bruxelles le 1er février 1993; 2. l'Accord européen établissant une association entre les Communautés européennes et leurs Etats-membres, d'une part, et la République de Bulgarie d'autre part, aux Protocoles 1, 2, 3, 4, 5, 6, 7 et 8, aux Annexes I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV et XVI et l'Acte final, faits à Bruxelles le 8 mars 1993

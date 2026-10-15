@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/30/2004036148/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 21-02-2005 et mise à jour au 08-01-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2004. - Décret encourageant une politique flamande inclusive des seniors et la participation des seniors à la politique (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2015-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/25/2015029309/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2015. - Decreet houdende instemming met de Overeenkomst, tussen het Koninkrijk België en de Republiek Oostenrijk en met het Aanvullend Protocol, gedaan te Brussel op 10 september 2009, tot wijziging van de Overeenkomst tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en naar het vermogen, met inbegrip van de ondernemingsbelasting en de grondbelastingen, ondertekend te Wenen op 29 december 1971

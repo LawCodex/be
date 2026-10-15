@@ -13,7 +13,7 @@ last_amended: 2021-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1949/12/22/1949122210/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 06-05-2016 en tekstbijwerking tot 28-12-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1949. - Domaniale wet

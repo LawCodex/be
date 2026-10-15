@@ -12,7 +12,7 @@ entry_into_force: 2017-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/04/09/2017011847/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 2017. - Wet tot wijziging van het Wetboek van strafvordering en van de wet van 22 maart 1999 betreffende de identificatieprocedure via DNA-onderzoek in strafzaken (ERR. B.St. 10-05-2017, p. 55768)

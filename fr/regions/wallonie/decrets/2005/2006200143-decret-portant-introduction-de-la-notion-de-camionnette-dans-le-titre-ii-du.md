@@ -13,7 +13,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/15/2006200143/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2005. - Décret portant introduction de la notion de "camionnette" dans le Titre II du Code des taxes assimilées aux impôts sur les revenus.

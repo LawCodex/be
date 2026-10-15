@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/01/18/2018011568/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 03-04-2018 et mise à jour au 14-09-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2018. - Décret portant le code de la prévention, de l'Aide à la jeunesse et de la protection de la Jeunesse

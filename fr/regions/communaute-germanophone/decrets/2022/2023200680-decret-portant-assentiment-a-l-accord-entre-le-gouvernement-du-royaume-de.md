@@ -13,7 +13,7 @@ entry_into_force: 2023-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/14/2023200680/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2022. - Décret portant assentiment à l'accord entre le Gouvernement du Royaume de Belgique, le Gouvernement de la Communauté flamande, le Gouvernement de la Communauté française, le Gouvernement de la Communauté germanophone, le Gouvernement de la Région flamande, le Gouvernement de la Région wallonne, le Gouvernement de la Région de Bruxelles-Capitale et le Gouvernement de la République française en matière de transferts de corps par voie terrestre des personnes décédées, fait à Paris le 9 mars 2020

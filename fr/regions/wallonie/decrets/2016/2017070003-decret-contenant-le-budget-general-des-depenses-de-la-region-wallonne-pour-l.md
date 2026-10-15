@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/21/2017070003/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 27-01-2017 et mise à jour au 21-09-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2016. - Décret contenant le budget général des dépenses de la Région wallonne pour l'année budgétaire 2017

@@ -13,7 +13,7 @@ entry_into_force: 2018-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/16/2018011585/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2018. - DECRET portant modification du décret du 20 janvier 2012 réglant l'adoption internationale d'enfants

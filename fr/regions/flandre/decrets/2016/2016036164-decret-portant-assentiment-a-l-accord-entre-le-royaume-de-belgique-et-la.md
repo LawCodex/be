@@ -13,7 +13,7 @@ entry_into_force: 2016-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/01/2016036164/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUILLET 2016. - Décret portant assentiment à l'accord entre le Royaume de Belgique et la République d'Afrique du Sud sur l'exercice d'activités à but lucratif des partenaires des agents diplomatiques et consulaires, signé à Pretoria le 14 janvier 2016

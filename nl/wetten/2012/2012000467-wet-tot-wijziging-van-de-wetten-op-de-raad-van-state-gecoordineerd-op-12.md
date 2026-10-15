@@ -12,7 +12,7 @@ entry_into_force: 2012-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/19/2012000467/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2012. - Wet tot wijziging van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, wat de behandeling van geschillen betreft door de algemene vergadering van de afdeling bestuursrechtspraak, op vraag van personen gevestigd in de randgemeenten

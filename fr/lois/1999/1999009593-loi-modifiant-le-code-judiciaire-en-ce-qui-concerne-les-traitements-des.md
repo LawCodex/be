@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/29/1999009593/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 1999. - Loi modifiant le Code judiciaire en ce qui concerne les traitements des magistrats de l'Ordre judiciaire.

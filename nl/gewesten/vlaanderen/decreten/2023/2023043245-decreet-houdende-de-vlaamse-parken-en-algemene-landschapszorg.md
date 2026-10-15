@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/09/2023043245/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 10-07-2023 en tekstbijwerking tot 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 2023. - Decreet houdende de Vlaamse Parken en algemene landschapszorg

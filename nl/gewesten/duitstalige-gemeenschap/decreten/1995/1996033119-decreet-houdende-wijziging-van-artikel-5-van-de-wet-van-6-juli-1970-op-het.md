@@ -13,7 +13,7 @@ entry_into_force: 1996-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/11/20/1996033119/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 1995. - Decreet houdende wijziging van artikel 5 van de wet van 6 juli 1970 op het buitengewoon en geïntegreerd onderwijs (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2006-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/07/2006036329/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2006. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République populaire de Chine concernant l'encouragement et la protection réciproques des investissements, et au Protocole à l'Accord, signés à Pékin le 6 juin 2005 (TRADUCTION).

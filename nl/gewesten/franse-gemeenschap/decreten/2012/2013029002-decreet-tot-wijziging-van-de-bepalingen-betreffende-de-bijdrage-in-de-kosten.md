@@ -12,7 +12,7 @@ published: 2013-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/11/29/2013029002/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2012. - Decreet tot wijziging van de bepalingen betreffende de bijdrage in de kosten voor het gebruik van de gemeenschappelijke openbare vervoermiddelen van de personeelsleden van het hoger onderwijs

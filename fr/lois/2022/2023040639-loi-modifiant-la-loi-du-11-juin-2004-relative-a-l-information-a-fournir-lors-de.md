@@ -12,7 +12,7 @@ entry_into_force: 2023-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/22/2023040639/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2022. - Loi modifiant la loi du 11 juin 2004 relative à l'information à fournir lors de la vente de véhicules d'occasion

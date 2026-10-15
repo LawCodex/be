@@ -13,7 +13,7 @@ entry_into_force: 1998-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/03/31/1998035466/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 1998. - Décret portant approbation de l'Accord euro-méditerranéen réalisant une association entre les Communauté européennes et leurs Etats membres d'une part, et le Royaume du Maroc d'autre part, des Annexes 1re, 2, 3, 4, 5, 6 et 7, des Protocoles 1er, 2, 3, 4 et 5 et de l'Acte final, signés à Bruxelles le 26 février 1996 (TRADUCTION).

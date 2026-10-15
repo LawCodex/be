@@ -12,7 +12,7 @@ entry_into_force: 2024-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/01/15/2024001055/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 2024. - Wet houdende de organisatie van het federale klimaatbeleid

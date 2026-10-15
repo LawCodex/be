@@ -12,7 +12,7 @@ entry_into_force: 2014-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/15/2013011667/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2013. - Loi portant insertion du Livre XII, " Droit de l'économie électronique " dans le Code de droit économique, portant insertion des définitions propres au Livre XII et des dispositions d'application de la loi propres au Livre XII, dans les Livres I et XV du Code de droit économique

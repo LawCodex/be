@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/14/2023041135/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 03-04-2023 et mise à jour au 24-11-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2023. - Loi relative à l'institution et à l'organisation de l'Agence des données de (soins de) santé

@@ -13,7 +13,7 @@ entry_into_force: 2022-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/12/10/2021034364/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2021. - Ordonnantie tot wijziging van de ordonnantie van 27 oktober 2016 met het oog op de vaststelling van een open databeleid en de omzetting van Richtlijn 2019/1024/EU van het Europees Parlement en de Raad van 20 juni 2019 (herziening) inzake open data en het hergebruik van overheidsinformatie

@@ -13,7 +13,7 @@ entry_into_force: 2019-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/12/2019040009/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2018. - Décret portant assentiment à la Convention entre le Royaume de Belgique et le Japon tendant à éliminer la double imposition en matière d'impôts sur le revenu et à prévenir la fraude et l'évasion fiscales, et le Protocole, faits à Tokyo, le 12 octobre 2016

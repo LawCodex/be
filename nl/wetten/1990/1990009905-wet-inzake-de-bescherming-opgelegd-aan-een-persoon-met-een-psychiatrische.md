@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/06/26/1990009905/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 26-07-1991 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 1990. - [Wet inzake de bescherming opgelegd aan een persoon met een psychiatrische aandoening] &lt;W 2024-05-16/06 , art. 2, 015; Inwerkingtreding : 01-01-2025&gt;

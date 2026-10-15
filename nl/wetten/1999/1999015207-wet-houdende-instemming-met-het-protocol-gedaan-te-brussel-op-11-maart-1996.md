@@ -12,7 +12,7 @@ entry_into_force: 2000-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/09/1999015207/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 1999. - Wet houdende instemming met het Protocol, gedaan te Brussel op 11 maart 1996, houdende wijziging van het Akkoord over de sociale zekerheid tussen België en Canada, ondertekend te Brussel op 10 mei 1984.

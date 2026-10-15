@@ -11,7 +11,7 @@ entry_into_force: 2009-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/08/22/2009015115/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AUGUSTUS 2006. - Wet houdende instemming met het Protocol nr. 14 bij het Verdrag inzake de bescherming van de Rechten van de Mens en de Fundamentele Vrijheden, tot wijziging van het controlesysteem van het Verdrag, gedaan te Straatsburg op 13 mei 2004. - Addendum

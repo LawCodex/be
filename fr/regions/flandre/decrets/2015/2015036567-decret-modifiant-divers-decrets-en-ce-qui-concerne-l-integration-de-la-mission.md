@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/04/2015036567/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2015. - Décret modifiant divers décrets, en ce qui concerne l'intégration de la mission d'aide à la décision politique en matière de sport dans l'agence " Sport Vlaanderen " (Sport Flandre), et modifiant le Décret Antidopage du 25 mai 2012

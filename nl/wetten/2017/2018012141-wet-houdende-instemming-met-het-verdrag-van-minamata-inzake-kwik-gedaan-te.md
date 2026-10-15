@@ -10,7 +10,7 @@ date: 2017-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/06/30/2018012141/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2017. - Wet houdende instemming met het Verdrag van Minamata inzake kwik, gedaan te Kumamoto (Japan) op 10 oktober 2013

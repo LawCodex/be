@@ -13,7 +13,7 @@ entry_into_force: 2011-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/06/10/2011203191/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2011. - Décret portant modification de certaines dispositions du Code judiciaire

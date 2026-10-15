@@ -13,7 +13,7 @@ entry_into_force: 2021-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/02/2021021275/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2021. - Décret modifiant le décret de gouvernance du 7 décembre 2018

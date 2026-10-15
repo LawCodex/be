@@ -13,7 +13,7 @@ entry_into_force: 2008-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/02/01/2008029164/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2008. - Decreet tot wijziging van artikel 14 van het decreet van 24 november 2006 betreffende de toekenning van de vergunning van sportschutter, zoals gewijzigd bij het decreet van 6 juli 2007 (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2021-10-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/09/29/2021022073/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 SEPTEMBER 2021. - Wet betreffende de deelneming van België aan de zevende algemene kapitaalverhoging van de Afrikaanse Ontwikkelingsbank

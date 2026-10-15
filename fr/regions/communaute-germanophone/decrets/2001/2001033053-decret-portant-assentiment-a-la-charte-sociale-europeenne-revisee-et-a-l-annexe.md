@@ -13,7 +13,7 @@ entry_into_force: 2001-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/06/25/2001033053/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2001. - Décret portant assentiment à la Charte sociale européenne révisée et à l'Annexe, signées à Strasbourg le 3 mai 1996 (TRADUCTION).

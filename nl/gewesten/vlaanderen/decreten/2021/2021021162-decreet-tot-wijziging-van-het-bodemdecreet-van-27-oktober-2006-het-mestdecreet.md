@@ -12,7 +12,7 @@ published: 2021-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/18/2021021162/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2021. - Decreet tot wijziging van het Bodemdecreet van 27 oktober 2006, het Mestdecreet van 22 december 2006 en het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, wat betreft het opheffen van administratieve beroepsmogelijkheden

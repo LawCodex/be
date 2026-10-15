@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/02/17/2005031115/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2005. - Décret modifiant le décret de la Commission communautaire française du 7 novembre 1997 fixant les règles d'agrément et d'octroi des subventions aux centres d'action sociale globale, modifié par le décret de la Commission communautaire française du 12 juillet 2001 modifiant diverses dispositions relatives aux subventions accordées dans le secteur de la politique de la santé et de l'aide aux personnes.

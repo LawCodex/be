@@ -12,7 +12,7 @@ entry_into_force: 2008-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/12/24/2008003525/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2008. - Financiewet voor het begrotingsjaar 2009.

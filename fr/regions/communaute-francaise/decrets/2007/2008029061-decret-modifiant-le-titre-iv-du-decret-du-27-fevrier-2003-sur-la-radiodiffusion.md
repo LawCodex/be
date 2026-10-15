@@ -13,7 +13,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/07/2008029061/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2007. - Décret modifiant le titre IV du décret du 27 février 2003 sur la radiodiffusion et les titres Ier et II du décret du 17 décembre 2003 relatif à l'emploi dans le secteur socioculturel et portant des dispositions diverses.

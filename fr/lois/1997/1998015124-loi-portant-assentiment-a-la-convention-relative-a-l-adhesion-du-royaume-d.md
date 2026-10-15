@@ -12,7 +12,7 @@ entry_into_force: 1998-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/01/10/1998015124/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 1997. - Loi portant assentiment à la Convention relative à l'adhésion du Royaume d'Espagne et de la République portugaise à la Convention concernant la compétence judiciaire et l'exécution des décisions en matières civile et commerciale, ainsi qu'au Protocole concernant son interprétation par la Cour de Justice, avec les adaptations y apportées par la Convention relative à l'adhésion du Royaume de Danemark, de l'Irlande et du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord et les adaptations y apportées par la Convention relative à l'adhésion de la République hellénique, Annexes I, II, III, IV et V, et Déclaration commune, faites à Donostia-San Sebastian le 26 mai 1989.

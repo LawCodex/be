@@ -13,7 +13,7 @@ entry_into_force: 2004-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/25/2004200924/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2004. - Décret portant assentiment au Protocole à la Convention de 1979 sur la pollution atmosphérique transfrontière à longue distance, relatif à la réduction de l'acidification, de l'eutrophisation et de l'ozone troposphérique, fait à Göteborg, le 30 novembre 1999.

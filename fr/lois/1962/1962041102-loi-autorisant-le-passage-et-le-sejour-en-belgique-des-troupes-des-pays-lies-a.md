@@ -12,7 +12,7 @@ entry_into_force: 1962-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1962/04/11/1962041102/justel"
 department: "Affaires étrangères"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 1962. - Loi autorisant le passage et le séjour en Belgique des troupes des pays liés à la Belgique par le Traité de l'Atlantique Nord.

@@ -13,7 +13,7 @@ entry_into_force: 2021-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/06/17/2021042240/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2021. - Ordonnantie houdende instemming met de wijzigingen van het Verdrag van 9 september 1996 inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart, van de Bijlagen en van de Aanhangsels (CDNI)

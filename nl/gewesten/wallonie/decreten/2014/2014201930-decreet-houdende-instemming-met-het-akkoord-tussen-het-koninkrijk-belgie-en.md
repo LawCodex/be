@@ -13,7 +13,7 @@ entry_into_force: 2014-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/13/2014201930/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2014. - Decreet houdende instemming met het Akkoord tussen het Koninkrijk België en Gibraltar inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te Parijs op 16 december 2009

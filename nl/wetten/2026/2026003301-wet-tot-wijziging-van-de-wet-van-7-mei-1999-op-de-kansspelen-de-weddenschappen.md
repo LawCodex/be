@@ -12,7 +12,7 @@ entry_into_force: 2026-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/04/30/2026003301/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2026. - Wet tot wijziging van de wet van 7 mei 1999 op de kansspelen, de weddenschappen, de kansspelinrichtingen en de bescherming van de spelers met het oog op de overdracht van de kansspelcommissie en van de bevoegdheid inzake kansspelen naar de Federale Overheidsdienst Economie, K.M.O., Middenstand en Energie

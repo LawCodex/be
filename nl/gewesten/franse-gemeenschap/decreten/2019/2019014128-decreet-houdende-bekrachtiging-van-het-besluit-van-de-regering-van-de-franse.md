@@ -12,7 +12,7 @@ published: 2019-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/25/2019014128/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Decreet houdende bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van 6 november 2018 houdende wijziging van het besluit van de Regering van de Franse Gemeenschap van 5 juni 2014 betreffende de ambten, bekwaamheidsbewijzen en barema's tot uitvoering van de artikelen 7, 16, 50 en 263 van het decreet van 11 april 2014 tot regeling van de bekwaamheidsbewijzen en ambten in het door de Franse Gemeenschap georganiseerde of gesubsidieerde basis- en secundair onderwijs en van het besluit van de Regering van de Franse Gemeenschap van 6 november 2018 houdende wijziging van het besluit van de Regering van de Franse Gemeenschap van 5 juni 2014 betreffende de verbindingen cursus/ambt genomen ter uitvoering van artikel 10 van het decreet van 11 april 2014 tot regeling van de bekwaamheidsbewijzen en ambten in het door de Franse Gemeenschap georganiseerde en gesubsidieerde basis- en secundair onderwijs

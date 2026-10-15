@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1981/06/29/1981001048/justel"
 department: "Sociale Voorzorg"
 justel_note: "Raadpleging van vroegere versies vanaf 13-04-1984 en tekstbijwerking tot 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 1981. - Wet houdende de algemene beginselen van de sociale zekerheid voor werknemers.

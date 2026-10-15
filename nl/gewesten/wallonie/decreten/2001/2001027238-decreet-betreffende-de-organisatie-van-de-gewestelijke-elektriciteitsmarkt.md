@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/04/12/2001027238/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 01-05-2001 en tekstbijwerking tot 19-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 APRIL 2001. - Decreet betreffende de organisatie van de gewestelijke elektriciteitsmarkt. (VERTALING)

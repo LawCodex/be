@@ -12,7 +12,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/11/27/2015205661/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2015. - Wet tot intrekking van artikel 96 van de wet van 26 december 2013 betreffende de invoering van een eenheidsstatuut tussen arbeiders en bedienden inzake de opzeggingstermijnen en de carenzdag en begeleidende maatregelen en tot wijziging van artikel 40 van de wet van 4 augustus 1996 betreffende het welzijn van de werknemers bij de uitvoering van hun werk

@@ -12,7 +12,7 @@ published: 2022-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/08/2022015518/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2022. - Decreet tot wijziging van het decreet van 14 december 2007 houdende de organisatie en werking van de regionale technologische centra, wat betreft de optimalisatie van de werking van de regionale technologische centra

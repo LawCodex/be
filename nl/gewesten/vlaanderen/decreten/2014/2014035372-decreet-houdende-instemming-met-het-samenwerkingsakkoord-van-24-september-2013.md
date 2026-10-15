@@ -13,7 +13,7 @@ entry_into_force: 2014-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/14/2014035372/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2014. - Decreet houdende instemming met het samenwerkingsakkoord van 24 september 2013 tussen de Federale Staat, de Gemeenschappen en de Gewesten, over de vertegenwoordiging van het Koninkrijk België in het Internationaal Agentschap voor hernieuwbare energie (IRENA) en over de financiële bijdragen aan deze organisatie

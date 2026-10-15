@@ -12,7 +12,7 @@ entry_into_force: 2024-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/09/07/2023048714/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBER 2023. - Wet tot wijziging van de wet van 3 december 2017 tot oprichting van de gegevensbeschermingsautoriteit inzake de mogelijkheid voor derde-belanghebbenden om tussen te komen in de procedure voor de geschillenkamer en om een beroep in te stellen tegen een beslissing van de geschillenkamer

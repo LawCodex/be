@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/25/2009203077/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 14-07-2009 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2009. - Décret relatif au règlement budgétaire de la Communauté germanophone

@@ -13,7 +13,7 @@ entry_into_force: 1995-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/05/1995029017/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 1994. - DECRET portant approbation de : l'Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la Roumanie, d'autre part, les Protocoles 1 à 7, les Annexes I à XIX inclus, et l'Acte final, faits à Bruxelles le 1er février 1993 et de l'Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Bulgarie, d'autre part, les Protocoles 1 à 8, les Annexes I à XVI inclus, et l'Acte final, faits à Bruxelles le 8 mars 1993

@@ -12,7 +12,7 @@ entry_into_force: 1956-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1956/05/15/1956051501/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 1956. - Loi sur les économats.

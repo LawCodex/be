@@ -13,7 +13,7 @@ entry_into_force: 2015-09-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/04/2015036542/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2015. - Décret modifiant les articles 134 et 242 du décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision

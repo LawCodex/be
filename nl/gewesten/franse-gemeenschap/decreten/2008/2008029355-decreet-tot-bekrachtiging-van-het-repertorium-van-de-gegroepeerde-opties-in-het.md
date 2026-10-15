@@ -13,7 +13,7 @@ entry_into_force: 2008-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/23/2008029355/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2008. - Decreet tot bekrachtiging van het repertorium van de gegroepeerde opties in het secundair onderwijs (VERTALING).

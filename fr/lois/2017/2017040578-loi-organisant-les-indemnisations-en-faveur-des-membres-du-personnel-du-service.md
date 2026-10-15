@@ -12,7 +12,7 @@ entry_into_force: 2017-09-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/21/2017040578/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUILLET 2017. - Loi organisant les indemnisations en faveur des membres du personnel du Service public fédéral Affaires étrangères, Commerce extérieur et Coopération au Développement et des personnes assimilées qui sont victimes de dommages causés par des risques exceptionnels à l'étranger

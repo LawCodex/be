@@ -13,7 +13,7 @@ entry_into_force: 2002-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/01/2002035442/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er MARS 2002. - Décret portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord concernant le transport de gaz naturel par pipeline entre le Royaume de Belgique et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, signé à Bruxelles le 10 décembre 1997 (TRADUCTION).

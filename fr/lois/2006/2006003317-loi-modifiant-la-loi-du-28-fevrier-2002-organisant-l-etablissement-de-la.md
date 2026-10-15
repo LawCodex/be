@@ -12,7 +12,7 @@ entry_into_force: 2006-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/01/2006003317/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er MAI 2006. - Loi modifiant la loi du 28 février 2002 organisant l'établissement de la balance des paiements, de la position extérieure globale de la Belgique et portant modification de l'arrêté-loi du 6 octobre 1944 relatif au contrôle des changes et de diverses dispositions légales.

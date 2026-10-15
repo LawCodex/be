@@ -12,7 +12,7 @@ entry_into_force: 1994-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/06/30/1994009585/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 1994. - Loi modifiant l'article 931 du Code judiciaire et les dispositions relatives aux procédures du divorce.

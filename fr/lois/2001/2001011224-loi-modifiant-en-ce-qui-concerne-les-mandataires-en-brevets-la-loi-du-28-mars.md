@@ -12,7 +12,7 @@ entry_into_force: 2001-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/06/12/2001011224/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2001. - Loi modifiant, en ce qui concerne les mandataires en brevets, la loi du 28 mars 1984 sur les brevets d'invention.

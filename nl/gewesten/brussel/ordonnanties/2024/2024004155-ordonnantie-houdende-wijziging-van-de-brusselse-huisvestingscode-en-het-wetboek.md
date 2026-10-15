@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/04/25/2024004155/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 02-05-2024 en tekstbijwerking tot 30-04-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2024. - Ordonnantie houdende wijziging van de Brusselse Huisvestingscode en het Wetboek der Registratie-, Hypotheek- en Griffierechten met het oog op de regeling van de gewestelijke registratie van huurovereenkomsten

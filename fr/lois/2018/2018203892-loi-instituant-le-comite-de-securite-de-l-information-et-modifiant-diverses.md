@@ -12,7 +12,7 @@ entry_into_force: 2018-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/09/05/2018203892/justel"
 department: "Sécurité sociale - Finances - Stratégie et Appui - Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 SEPTEMBRE 2018. - Loi instituant le comité de sécurité de l'information et modifiant diverses lois concernant la mise en oeuvre du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE

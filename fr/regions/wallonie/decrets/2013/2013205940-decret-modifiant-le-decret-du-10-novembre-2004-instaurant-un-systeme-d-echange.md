@@ -13,7 +13,7 @@ entry_into_force: 2013-11-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/10/24/2013205940/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OCTOBRE 2013. - Décret modifiant le décret du 10 novembre 2004 instaurant un système d'échange de quotas d'émission de gaz à effet de serre, créant un Fonds wallon Kyoto et relatif aux mécanismes de flexibilité du Protocole de Kyoto, en vue d'intégrer les activités aériennes dans le système d'échange de quotas d'émission de gaz à effet de serre

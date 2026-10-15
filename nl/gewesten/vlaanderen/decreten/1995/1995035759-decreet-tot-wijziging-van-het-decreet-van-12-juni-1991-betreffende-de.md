@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/05/1995035759/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 29-07-1995 en tekstbijwerking tot 13-02-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 1995. - Decreet tot wijziging van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap om de organisatie van een specifieke opleiding in de huisartsgeneeskunde te organiseren, en andere bepalingen betreffende de universiteiten

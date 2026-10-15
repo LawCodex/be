@@ -12,7 +12,7 @@ entry_into_force: 2002-11-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/12/24/2002003452/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 2001. - Loi contenant le quatrième ajustement du Budget général des dépenses pour l'année budgétaire 2001 - Section 16 " Défense nationale ".

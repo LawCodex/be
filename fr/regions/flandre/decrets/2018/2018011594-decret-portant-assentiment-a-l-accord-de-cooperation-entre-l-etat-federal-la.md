@@ -12,7 +12,7 @@ published: 2018-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/23/2018011594/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2018. - Décret portant assentiment à l'accord de coopération entre l'Etat fédéral, la Région wallonne, la Région flamande, la Région de Bruxelles-Capitale et la Communauté germanophone relatif à la coordination entre la politique en matière d'autorisations de travail et la politique en matière de permis de séjour et de normes d'emploi et de séjour des travailleurs étrangers

@@ -13,7 +13,7 @@ entry_into_force: 2012-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/26/2012202682/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2012. - Décret portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur les gains en capital, faite à Bruxelles le 1er juin 1987, telle que modifiée par le Protocole, fait à Paris le 24 juin 2009

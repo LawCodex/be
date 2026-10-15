@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/13/2001021378/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2001. - Loi spéciale portant transfert de diverses compétences aux régions et communautés.

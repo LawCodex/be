@@ -13,7 +13,7 @@ entry_into_force: 2001-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/13/2001035864/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2001. - Décret modifiant le décret du 2 juillet 1981 relatif à la prévention et à la gestion des déchets (TRADUCTION).

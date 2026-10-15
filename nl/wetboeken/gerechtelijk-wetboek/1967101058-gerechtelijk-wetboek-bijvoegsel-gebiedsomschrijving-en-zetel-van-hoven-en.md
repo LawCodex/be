@@ -14,7 +14,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1967/10/10/1967101058/justel"
 justel_notes:
   - "art. 1 gewijzigd door W 2017-12-25/08 , art. 29-41; Inwerkingtreding : onbepaald en uiterlijk op 01-01-2020"
   - "Raadpleging van vroegere versies vanaf 05-11-1985 en tekstbijwerking tot 28-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 1967. - GERECHTELIJK WETBOEK - Bijvoegsel : GEBIEDSOMSCHRIJVING EN ZETEL VAN HOVEN EN RECHTBANKEN.

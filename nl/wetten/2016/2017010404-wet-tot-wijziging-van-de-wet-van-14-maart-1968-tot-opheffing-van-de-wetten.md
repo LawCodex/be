@@ -12,7 +12,7 @@ entry_into_force: 2017-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/18/2017010404/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2016. - [Wet tot wijziging van de] Wet van 14 maart 1968 tot opheffing van de wetten betreffende de verblijfbelasting voor vreemdelingen, gecoördineerd op 12 oktober 1953

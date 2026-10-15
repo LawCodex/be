@@ -13,7 +13,7 @@ entry_into_force: 2020-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/17/2020042514/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2020. - Décret modifiant l'article 48 du décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse, en ce qui concerne l'âge pour le placement dans une famille d'accueil

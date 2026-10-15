@@ -11,7 +11,7 @@ published: 2018-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/10/30/2018015469/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 OKTOBER 2018. - Wet tot wijziging van de wet van 19 december 2008 inzake het verkrijgen en het gebruik van menselijk lichaamsmateriaal met het oog op de geneeskundige toepassing op de mens of het wetenschappelijk onderzoek

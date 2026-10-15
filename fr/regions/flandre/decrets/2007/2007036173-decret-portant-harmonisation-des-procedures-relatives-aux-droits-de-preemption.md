@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/25/2007036173/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 24-07-2007 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2007. - Décret portant harmonisation des procédures relatives aux droits de préemption (TRADUCTION).

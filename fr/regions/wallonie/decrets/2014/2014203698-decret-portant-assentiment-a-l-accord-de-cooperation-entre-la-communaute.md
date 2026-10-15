@@ -13,7 +13,7 @@ entry_into_force: 2014-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/24/2014203698/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2014. - Décret portant assentiment à l'accord de coopération entre la Communauté française et la Région wallonne relatif à la création et au développement de structures collectives d'enseignement supérieur dédiées aux activités de formation continue et d'apprentissage tout au long de la vie

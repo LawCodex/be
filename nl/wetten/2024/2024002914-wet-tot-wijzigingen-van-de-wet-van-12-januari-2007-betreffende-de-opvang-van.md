@@ -12,7 +12,7 @@ entry_into_force: 2024-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/03/14/2024002914/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2024. - Wet tot wijzigingen van de wet van 12 januari 2007 betreffende de opvang van asielzoekers en van bepaalde andere categorieën van vreemdelingen

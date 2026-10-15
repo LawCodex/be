@@ -12,7 +12,7 @@ entry_into_force: 2014-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/24/2014014115/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2014. - Loi portant confirmation de quelques articles de l'arrêté royal du 30 septembre 2005 désignant les infractions par degré aux règlements généraux pris en exécution de la loi relative à la police de la circulation routière

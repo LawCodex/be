@@ -12,7 +12,7 @@ entry_into_force: 2014-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/03/26/2014000252/justel"
 department: "Intérieur - Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2014. - Loi portant mesures d'optimalisation des services de police

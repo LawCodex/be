@@ -12,7 +12,7 @@ entry_into_force: 2009-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/04/26/2009007106/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2009. - Loi modifiant diverses lois relatives au statut des militaires

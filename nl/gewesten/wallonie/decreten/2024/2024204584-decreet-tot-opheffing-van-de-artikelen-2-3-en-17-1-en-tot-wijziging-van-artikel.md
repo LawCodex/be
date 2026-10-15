@@ -11,7 +11,7 @@ date: 2024-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/29/2024204584/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2024. - Decreet tot opheffing van de artikelen 2; 3 en 17, 1°, en tot wijziging van artikel 4, § 2, van het decreet van 17 januari 2019 betreffende de bestrijding van de luchtverontreiniging gebonden aan het verkeer van de voertuigen

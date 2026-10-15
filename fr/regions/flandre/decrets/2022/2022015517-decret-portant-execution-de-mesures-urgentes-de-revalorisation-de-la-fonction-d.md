@@ -13,7 +13,7 @@ entry_into_force: 2022-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/08/2022015517/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2022. - Décret portant exécution de mesures urgentes de revalorisation de la fonction d'enseignant dans l'enseignement fondamental et secondaire

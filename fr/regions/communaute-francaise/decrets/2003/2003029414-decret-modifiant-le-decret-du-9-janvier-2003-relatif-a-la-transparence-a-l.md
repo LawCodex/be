@@ -13,7 +13,7 @@ entry_into_force: 2003-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/07/03/2003029414/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2003. - Décret modifiant le décret du 9 janvier 2003 relatif à la transparence, à l'autonomie et au contrôle des organismes publics, des sociétés de bâtiments scolaires et des sociétés de gestion patrimoniale qui dépendent de la Communauté française.

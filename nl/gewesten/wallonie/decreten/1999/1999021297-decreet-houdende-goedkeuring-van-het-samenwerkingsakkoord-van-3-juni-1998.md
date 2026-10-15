@@ -12,7 +12,7 @@ entry_into_force: 1998-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/04/1999021297/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 1999. - Decreet houdende goedkeuring van het samenwerkingsakkoord van 3 juni 1998 tussen het Waalse Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap tot wijziging van het samenwerkingsakkoord van 3 juli 1997 tussen het Waalse Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende doorstromingsprogramma's (VERTALING).

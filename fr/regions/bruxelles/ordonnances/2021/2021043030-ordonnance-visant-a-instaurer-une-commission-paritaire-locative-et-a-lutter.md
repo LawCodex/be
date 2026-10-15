@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/10/28/2021043030/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 22-11-2021 et mise à jour au 30-04-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OCTOBRE 2021. - Ordonnance visant à instaurer une commission paritaire locative et à lutter contre les loyers abusifs

@@ -13,7 +13,7 @@ entry_into_force: 2015-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/05/15/2015029249/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2015. - Decreet tot instemming met het samenwerkingsakkoord, gesloten op 26 februari 2015, tussen de Franse Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie, betreffende de oprichting en het beheer van een "Cadre francophone des certifications (C.F.C.)" (Franstalig Kwalificatiekader)

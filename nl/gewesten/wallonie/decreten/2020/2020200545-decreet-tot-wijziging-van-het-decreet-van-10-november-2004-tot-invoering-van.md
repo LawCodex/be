@@ -13,7 +13,7 @@ entry_into_force: 2020-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/01/23/2020200545/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 2020. - Decreet tot wijziging van het decreet van 10 november 2004 tot invoering van een regeling voor de handel in broeikasgasemissierechten, tot oprichting van een "Fonds wallon Kyoto" (Waals Kyotofonds) en betreffende de flexibiliteitsmechanismen van het Protocol van Kyoto, om richtlijn (EU) 2018/410 van het Europees Parlement en de Raad van 14 maart 2018 gedeeltelijk om te zetten

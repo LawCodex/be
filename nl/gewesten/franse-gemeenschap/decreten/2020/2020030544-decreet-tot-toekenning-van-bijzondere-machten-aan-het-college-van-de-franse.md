@@ -13,7 +13,7 @@ entry_into_force: 2020-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/03/23/2020030544/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2020. - Decreet tot toekenning van bijzondere machten aan het College van de Franse Gemeenschapscommissie in het kader van de COVID-19-pandemie

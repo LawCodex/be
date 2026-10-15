@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/06/23/2017012940/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2017. - Ordonnantie houdende instemming met : 1° de Overeenkomst tussen België en Ierland tot het vermijden van dubbele belasting en van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Brussel op 24 juni 1970, zoals gewijzigd door het Protocol van 14 april 2014; 2° het Protocol, gedaan te Luxemburg op 14 april 2014, tot wijziging van de Overeenkomst tussen België en Ierland tot het vermijden van dubbele belasting en van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Brussel op 24 juni 1970, dat het Brussels Hoofdstedelijk Parlement in zijn vergadering van vrijdag 2 juni 2017 aangenomen heeft

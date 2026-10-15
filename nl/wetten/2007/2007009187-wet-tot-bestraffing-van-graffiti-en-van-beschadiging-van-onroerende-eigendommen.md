@@ -12,7 +12,7 @@ entry_into_force: 2007-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/01/25/2007009187/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2007. - Wet tot bestraffing van graffiti en van beschadiging van onroerende eigendommen en tot wijziging van de nieuwe gemeentewet.

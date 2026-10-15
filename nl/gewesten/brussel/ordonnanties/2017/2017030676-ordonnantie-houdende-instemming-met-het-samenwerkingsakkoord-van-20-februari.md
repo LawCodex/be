@@ -13,7 +13,7 @@ entry_into_force: 2017-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/07/13/2017030676/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2017. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 20 februari 2017 tussen de Federale Overheid, het Waals Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot het beheer van de dienst voor de regularisatie van gewestelijke belastingen en niet uitsplitsbare fiscaal verjaarde kapitalen en de oprichting van een regularisatiesysteem van niet uitsplitsbare fiscaal verjaarde kapitalen, tot invoering van een fiscaal regularisatiesysteem beperkt in de tijd en tot invoering van maatregelen tot bestrijding van misbruik en fiscale fraude

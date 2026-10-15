@@ -13,7 +13,7 @@ entry_into_force: 2021-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/04/01/2021030919/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2021. - Décret modifiant l'article 15, § 4, de la loi du 8 juillet 1976 organique des centres publics d'action sociale afin de permettre aux membres des conseils de l'action sociale d'être remplacés lors d'un congé faisant suite à la naissance ou à l'adoption d'un enfant

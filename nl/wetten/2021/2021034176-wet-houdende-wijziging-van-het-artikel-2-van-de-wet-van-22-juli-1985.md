@@ -12,7 +12,7 @@ entry_into_force: 2021-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/11/07/2021034176/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2021. - Wet houdende wijziging van het artikel 2 van de wet van 22 juli 1985 betreffende de wettelijke aansprakelijkheid op het gebied van de kernenergie

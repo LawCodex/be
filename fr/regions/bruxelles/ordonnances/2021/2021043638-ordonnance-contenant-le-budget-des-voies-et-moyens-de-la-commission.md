@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/12/24/2021043638/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 2021. - Ordonnance contenant le Budget des Voies et Moyens de la Commission communautaire commune pour l'année budgétaire 2022

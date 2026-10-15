@@ -13,7 +13,7 @@ entry_into_force: 2015-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/01/21/2016031174/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JANVIER 2016. - Décret modifiant le décret du 18 juillet 2013 visant au soutien de l'accueil de l'enfance

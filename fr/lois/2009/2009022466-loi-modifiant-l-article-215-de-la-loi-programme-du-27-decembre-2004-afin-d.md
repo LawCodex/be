@@ -12,7 +12,7 @@ entry_into_force: 2008-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/09/10/2009022466/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 SEPTEMBRE 2009. - Loi modifiant l'article 215 de la loi-programme du 27 décembre 2004 afin d'élargir le public-cible pouvant bénéficier d'une allocation de chauffage du Fonds social Mazout

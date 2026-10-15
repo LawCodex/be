@@ -13,7 +13,7 @@ entry_into_force: 2006-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/07/07/2006036112/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2006. - Decreet houdende wijziging van de gemeentekieswet, gecoördineerd op 4 augustus 1932, de wet van 19 oktober 1921 tot regeling van de provincieraadsverkiezingen en de wet van 11 april 1994 tot organisatie van de geautomatiseerde stemming.

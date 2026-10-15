@@ -13,7 +13,7 @@ entry_into_force: 2012-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/12/01/2011206327/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2011. - Decreet houdende verschillende maatregelen inzake sociale actie en gezondheid

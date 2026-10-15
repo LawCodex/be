@@ -12,7 +12,7 @@ entry_into_force: 2018-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/12/21/2018015409/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2018. - Loi contenant le deuxième ajustement du budget général des dépenses pour l'année budgétaire 2018

@@ -13,7 +13,7 @@ entry_into_force: 1999-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/01/1999027329/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 1999. - Decreet waarbij de cumulatie van het mandaat van voorzitter van een raad voor maatschappelijk welzijn met andere ambten beperkt wordt (VERTALING).

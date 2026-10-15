@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/29/2017203925/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2017. - Decreet met het oog op de wijziging van artikel L4142-7 van het Wetboek van de plaatselijke democratie en de decentralisatie

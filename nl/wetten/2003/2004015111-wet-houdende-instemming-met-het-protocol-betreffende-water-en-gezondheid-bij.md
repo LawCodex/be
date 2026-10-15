@@ -12,7 +12,7 @@ entry_into_force: 2004-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/13/2004015111/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2003. - Wet houdende instemming met het Protocol betreffende water en gezondheid bij het Verdrag inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren van 1992, gedaan te Londen op 17 juni 1999.

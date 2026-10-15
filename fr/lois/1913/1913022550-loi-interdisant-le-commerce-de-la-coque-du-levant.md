@@ -11,7 +11,7 @@ published: 1913-03-07
 entry_into_force: 1913-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1913/02/25/1913022550/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 1913. - Loi interdisant le commerce de la coque du Levant.

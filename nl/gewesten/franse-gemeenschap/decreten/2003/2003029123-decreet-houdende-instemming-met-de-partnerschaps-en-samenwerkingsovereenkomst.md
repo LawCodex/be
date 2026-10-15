@@ -13,7 +13,7 @@ entry_into_force: 2003-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/02/20/2003029123/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 2003. - Decreet houdende instemming met de Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun lid-Staten, enerzijds, en Turkmenistan, anderzijds, en met de Slotakte, gedaan te Brussel, op 25 mei 1998 (VERTALING).

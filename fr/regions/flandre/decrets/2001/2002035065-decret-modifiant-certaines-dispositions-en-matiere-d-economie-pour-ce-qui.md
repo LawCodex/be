@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/21/2002035065/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2001. - Décret modifiant certaines dispositions en matière d'économie, pour ce qui concerne l'introduction de l'euro (TRADUCTION).

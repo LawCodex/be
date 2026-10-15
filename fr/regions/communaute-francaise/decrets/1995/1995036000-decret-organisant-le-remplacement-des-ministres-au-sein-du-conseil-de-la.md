@@ -13,7 +13,7 @@ entry_into_force: 1995-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/07/24/1995036000/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 1995. - Décret organisant le remplacement des Ministres au sein du Conseil de la Communauté française.

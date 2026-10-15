@@ -13,7 +13,7 @@ entry_into_force: 1997-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/06/17/1997035742/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 1997. - Décret portant modification de l'article 56 du Code des droits de succession (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 1995-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/05/1995035688/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 1995. - Decreet houdende goedkeuring van het samenwerkingsverdrag tussen de Vlaamse regering en de regering van de Republiek Hongarije, opgemaakt in Boedapest op 3 oktober 1994.

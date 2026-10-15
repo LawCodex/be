@@ -13,7 +13,7 @@ entry_into_force: 2018-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/03/01/2018011166/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2018. - Ordonnantie houdende instemming met: de Overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Unie en haar Lidstaten, enerzijds, en de Republiek Cuba, anderzijds, gedaan te Brussel op 12 december 2016

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/05/10/2013029364/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 14-06-2013 en tekstbijwerking tot 07-02-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 2013. - Decreet tot instelling van een procedure voor de erkenning van de kwaliteitsfitnesszalen

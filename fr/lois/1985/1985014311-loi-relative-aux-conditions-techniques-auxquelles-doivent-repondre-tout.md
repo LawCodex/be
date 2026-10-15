@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/06/21/1985014311/justel"
 department: "Justice - Finances - Affaires économiques - Communications - Agriculture"
 justel_note: "Consultation des versions antérieures à partir du 08-11-1990 et mise à jour au 08-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 1985. - Loi relative aux conditions techniques auxquelles doivent répondre tout véhicule de transport par terre, ses éléments ainsi que les accessoires de sécurité.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/15/2007011262/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 02-06-2008 et mise à jour au 19-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2007. - Loi relative à la reconnaissance et à la protection de la profession d'expert en automobiles et créant un Institut des experts en automobiles

@@ -13,7 +13,7 @@ entry_into_force: 2006-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/03/17/2006035701/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2006. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 10 juni 2005 betreffende de decretale adviesverlening door de Sociaal-Economische Raden van de Regio en de Regionale Sociaal-Economische Overlegcomités.

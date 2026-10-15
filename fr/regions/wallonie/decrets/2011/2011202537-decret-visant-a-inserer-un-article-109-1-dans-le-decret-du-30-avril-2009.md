@@ -13,7 +13,7 @@ entry_into_force: 2010-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/05/19/2011202537/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2011. - Décret visant à insérer un article 109/1 dans le décret du 30 avril 2009 modifiant le Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine, le décret du 11 mars 1999 relatif au permis d'environnement et le décret du 11 mars 2004 relatif aux infrastructures d'accueil des activités économiques

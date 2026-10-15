@@ -12,7 +12,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/05/2022206986/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 2022. - Wet tot wijziging van diverse bepalingen inzake sociale zekerheid en de gevolgen van de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1988/12/23/1988004497/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 31-12-1988 et mise à jour au 20-12-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1988. - Loi portant des dispositions relatives au statut monétaire, à la Banque Nationale de Belgique, à la politique monétaire et au Fonds monétaire.

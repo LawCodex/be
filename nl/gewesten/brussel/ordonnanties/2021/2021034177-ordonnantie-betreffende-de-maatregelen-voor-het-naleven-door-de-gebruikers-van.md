@@ -13,7 +13,7 @@ entry_into_force: 2022-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/12/02/2021034177/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2021. - Ordonnantie betreffende de maatregelen voor het naleven door de gebruikers van de regels inzake toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik

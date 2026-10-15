@@ -13,7 +13,7 @@ entry_into_force: 1997-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/02/04/1997035200/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 1997. - Decreet houdende invoeging van een artikel 22bis in de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn.

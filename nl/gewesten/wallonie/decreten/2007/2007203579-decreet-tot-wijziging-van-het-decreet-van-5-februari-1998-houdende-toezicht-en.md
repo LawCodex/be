@@ -13,7 +13,7 @@ entry_into_force: 2007-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/22/2007203579/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2007. - Decreet tot wijziging van het decreet van 5 februari 1998 houdende toezicht en controle op de naleving van de wetgeving betreffende het tewerkstellingsbeleid en van andere decreten met een gelijksoortig doel (VERTALING).

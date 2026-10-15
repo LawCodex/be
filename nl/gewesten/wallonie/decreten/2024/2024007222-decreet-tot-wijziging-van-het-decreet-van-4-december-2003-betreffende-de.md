@@ -12,7 +12,7 @@ published: 2024-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/11/2024007222/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2024. - Decreet tot wijziging van het decreet van 4 december 2003 betreffende de oprichting van het " Institut wallon de l'évaluation, de la prospective et de la statistique " (Waals Instituut voor evaluatie, prospectief en statistiek)

@@ -13,7 +13,7 @@ entry_into_force: 2022-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/10/13/2022042387/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OCTOBRE 2022. - Ordonnance portant sur l'électromobilité et exposant les éléments essentiels du traitement de données à caractère personnel pour l'octroi de mesures d'accompagnement dans le cadre de la mise en oeuvre de la zone de basses émissions

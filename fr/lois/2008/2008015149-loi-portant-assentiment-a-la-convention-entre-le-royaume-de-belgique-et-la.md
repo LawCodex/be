@@ -12,7 +12,7 @@ entry_into_force: 2008-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/09/18/2008015149/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 SEPTEMBRE 2008. - Loi portant assentiment à la Convention entre le Royaume de Belgique et la République du Ghana tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur les gains en capitale, signée à Bruxelles le 22 juin 2005.

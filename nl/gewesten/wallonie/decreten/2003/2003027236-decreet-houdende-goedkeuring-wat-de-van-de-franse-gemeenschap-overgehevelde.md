@@ -13,7 +13,7 @@ entry_into_force: 2003-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/04/10/2003027236/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2003. - Decreet houdende goedkeuring, wat de van de Franse Gemeenschap overgehevelde aangelegenheden betreft, van de Overeenkomst inzake partnerschap en samenwerking tussen de Europese Gemeenschappen en haar lid-Staten, enerzijds, en Turkmenistan, anderzijds, en van de Slotakte, opgemaakt te Brussel op 25 mei 1998 (VERTALING).

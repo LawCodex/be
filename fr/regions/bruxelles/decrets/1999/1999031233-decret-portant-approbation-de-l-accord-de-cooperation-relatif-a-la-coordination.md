@@ -13,7 +13,7 @@ entry_into_force: 1999-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/22/1999031233/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 1999. - Décret portant approbation de l'accord de coopération relatif à la coordination et à la gestion des aides octroyées par la Commission européenne dans le domaine des ressources humaines et à la création de l'" Agence Fonds social européen ", conclu à Bruxelles le 2 septembre 1998 entre le Gouvernement wallon, le Gouvernement de la Communauté française et le Collège de la Commission communautaire française de la Région de Bruxelles-Capitale.

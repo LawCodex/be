@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/20/2016205561/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 14-11-2016 et mise à jour au 05-04-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2016. - Décret abrogeant le décret du 24 avril 2014 abrogeant les articles 1er à 128 et 129quater à 184 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme, du Patrimoine et de l'Energie, abrogeant les articles 1er à 128 et 129quater à 184 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine et formant le Code du Développement territorial

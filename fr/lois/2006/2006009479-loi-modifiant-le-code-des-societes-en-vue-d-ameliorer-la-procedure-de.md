@@ -12,7 +12,7 @@ entry_into_force: 2006-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/02/2006009479/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2006. - Loi modifiant le Code des sociétés en vue d'améliorer la procédure de liquidation.

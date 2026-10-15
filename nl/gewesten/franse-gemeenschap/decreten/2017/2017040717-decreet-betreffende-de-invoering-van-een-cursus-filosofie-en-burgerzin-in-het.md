@@ -11,7 +11,7 @@ date: 2017-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/19/2017040717/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2017. - Decreet betreffende de invoering van een cursus filosofie en burgerzin in het secundair onderwijs en houdende verschillende aanpassingen in het basisonderwijs

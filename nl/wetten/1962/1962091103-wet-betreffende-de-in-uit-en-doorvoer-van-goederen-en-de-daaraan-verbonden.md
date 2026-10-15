@@ -10,7 +10,7 @@ date: 1962-09-11
 published: 1962-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1962/09/11/1962091103/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 SEPTEMBER 1962. - [Wet betreffende de in-, uit- en doorvoer van goederen en de daaraan verbonden technologie.] &lt;W 1992-08-03/30, art. 1, 003; Inwerkingtreding : onbepaald &gt;

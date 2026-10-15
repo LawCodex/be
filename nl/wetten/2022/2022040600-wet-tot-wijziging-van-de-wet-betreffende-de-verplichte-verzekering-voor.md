@@ -12,7 +12,7 @@ entry_into_force: 2022-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/03/23/2022040600/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2022. - Wet tot wijziging van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, wat betreft de medische verkiezingen

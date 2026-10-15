@@ -13,7 +13,7 @@ last_amended: 2026-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1808/12/12/1808121250/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-10-1996 et mise à jour au 24-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 1808. - CODE D'INSTRUCTION CRIMINELLE. - LIVRE II, TITRE IV. (448 à 524septies) &lt;Pour des raisons techniques, le Code d'Instruction Criminelle est divisé en 8 parties, dont le Titre IV du deuxième Livre est la sixième partie.&gt;

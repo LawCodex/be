@@ -13,7 +13,7 @@ entry_into_force: 2007-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/04/26/2007202060/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2007. - Décret modifiant la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement.

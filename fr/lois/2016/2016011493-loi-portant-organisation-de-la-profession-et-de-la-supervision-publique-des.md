@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/07/2016011493/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 13-12-2016 et mise à jour au 20-12-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2016. - Loi portant organisation de la profession et de la supervision publique des réviseurs d'entreprises

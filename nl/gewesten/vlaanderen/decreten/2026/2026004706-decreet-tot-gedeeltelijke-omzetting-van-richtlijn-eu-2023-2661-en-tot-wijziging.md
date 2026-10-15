@@ -13,7 +13,7 @@ entry_into_force: 2026-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/12/2026004706/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2026. - Decreet tot gedeeltelijke omzetting van richtlijn (EU) 2023/2661 en tot wijziging van het decreet van 29 maart 2013 betreffende het kader voor het invoeren van intelligente vervoerssystemen op het gebied van wegvervoer en voor interfaces met andere vervoerswijzen

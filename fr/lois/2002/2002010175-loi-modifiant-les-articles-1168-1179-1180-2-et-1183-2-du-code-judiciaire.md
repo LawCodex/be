@@ -12,7 +12,7 @@ entry_into_force: 2003-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/11/22/2002010175/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2002. - Loi modifiant les articles 1168, 1179, 1180, 2°, et 1183, 2° du Code judiciaire.

@@ -12,7 +12,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/18/2018011611/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 2018. - Loi modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité concernant les modalités de la cotisation fédérale destinée au financement de certaines obligations de service public et des coûts liés à la régulation et au contrôle du marché de l'électricité

@@ -13,7 +13,7 @@ entry_into_force: 1995-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/22/1995027084/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1994. - Decreet houdende goedkeuring van volgende internationale akten : A. Overeenkomst tot oprichting van de Wereldhandelsorganizatie, Slotakte, Bijlagen 1a, 1b, 1c, 2, 3 en 4, Beslissingen en Verklaringen, en memorandum van overeenkomst over de verbintenissen inzake financiële diensten,en B.Overeenkomst inzake overheidsopdrachten en Bijlagen I, II, III en IV, gedaan te Marrakech op 15 april 1994. (VERTALING).

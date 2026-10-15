@@ -12,7 +12,7 @@ entry_into_force: 1999-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/22/1999003034/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1998. - Loi contenant le dix-huitième ajustement du budget général des dépenses de l'année budgétaire 1998 - Sections 19 "Ministère de la Fonction publique" et 18 "Ministère des Finances".

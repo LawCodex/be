@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/15/1999003180/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 27-03-1999 en tekstbijwerking tot 22-03-2000"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 1999. - Wet betreffende de beslechting van fiscale geschillen.

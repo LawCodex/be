@@ -11,7 +11,7 @@ last_amended: 2026-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1804/03/21/1804032153/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 15-07-1994 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 1804. - [OUD] BURGERLIJK WETBOEK. - BOEK III : Wijze van eigendomsverkrijging. - TITEL III tot V (art. 1101 - 1581) (Opschrift gewijzigd door W 2019-04-13/28 , art. 2, 045; Inwerkingtreding : 01-11-2020)

@@ -13,7 +13,7 @@ entry_into_force: 2008-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/01/2008035367/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2008. - Décret modifiant le décret du 25 février 1997 relatif à l'enseignement fondamental pour ce qui concerne l'échange d'informations dans le cadre de la stimulation de la participation des jeunes enfants (TRADUCTION).

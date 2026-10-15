@@ -12,7 +12,7 @@ entry_into_force: 2004-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/03/26/2005003217/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2005. - Loi modifiant la loi du 31 décembre 2003 instaurant une déclaration libératoire unique.

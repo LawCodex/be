@@ -13,7 +13,7 @@ entry_into_force: 1999-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/07/12/1999027572/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 1999. - Décret organisant le remplacement du membre du Conseil régional wallon nommé par le Roi en qualité de Ministre ou de Secrétaire d'Etat fédéral.

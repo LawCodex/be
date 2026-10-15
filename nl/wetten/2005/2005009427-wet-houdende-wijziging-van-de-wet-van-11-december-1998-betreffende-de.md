@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/05/03/2005009427/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 27-05-2005 en tekstbijwerking tot 30-12-2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2005. - Wet houdende wijziging van de wet van 11 december 1998 betreffende de classificatie en de veiligheidsmachtigingen.

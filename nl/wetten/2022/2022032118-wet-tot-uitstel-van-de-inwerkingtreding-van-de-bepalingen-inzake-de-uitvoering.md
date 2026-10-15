@@ -12,7 +12,7 @@ entry_into_force: 2022-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/05/18/2022032118/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2022. - Wet tot uitstel van de inwerkingtreding van de bepalingen inzake de uitvoering van vrijheidsstraffen van drie jaar of minder

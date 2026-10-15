@@ -13,7 +13,7 @@ entry_into_force: 2005-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/01/2005029222/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2005. - Decreet betreffende de studies in de geneeskunde en de tandheelkunde (VERTALING).

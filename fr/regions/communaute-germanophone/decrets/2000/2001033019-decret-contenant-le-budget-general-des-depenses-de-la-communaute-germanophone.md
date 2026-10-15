@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/11/23/2001033019/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 25-08-2001 et mise à jour au 28-08-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2000. - Décret contenant le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2001 (TRADUCTION).

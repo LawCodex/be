@@ -13,7 +13,7 @@ entry_into_force: 2020-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/10/2020042400/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2020. - Décret modifiant le décret du 15 juillet 1997 portant création d'un Commissariat aux Droits de l'Enfant et instituant la fonction de Commissaire aux Droits de l'Enfant et portant création d'une Commission de surveillance en rapport avec les établissements privatifs de liberté pour enfants et jeunes, en ce qui concerne le séjour sécurisant et la dénomination de la Commission de surveillance

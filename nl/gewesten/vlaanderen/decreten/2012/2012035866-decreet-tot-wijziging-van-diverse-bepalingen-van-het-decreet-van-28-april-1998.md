@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/06/2012035866/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2012. - Decreet tot wijziging van diverse bepalingen van het decreet van 28 april 1998 betreffende het Vlaamse integratiebeleid en het decreet van 30 april 2009 tot wijziging van het decreet van 28 april 1998 inzake het Vlaamse beleid ten aanzien van etnisch-culturele minderheden

@@ -12,7 +12,7 @@ entry_into_force: 2009-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/12/17/2008003517/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2008. - Wet inzonderheid tot oprichting van een auditcomité in de genoteerde vennootschappen en de financiële ondernemingen.

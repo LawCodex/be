@@ -12,7 +12,7 @@ entry_into_force: 2014-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/05/2014022247/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2014. - Loi concernant diverses matières relatives aux pensions du secteur public

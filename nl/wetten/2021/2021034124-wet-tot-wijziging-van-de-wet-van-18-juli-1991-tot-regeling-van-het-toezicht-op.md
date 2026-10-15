@@ -12,7 +12,7 @@ entry_into_force: 2021-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/08/14/2021034124/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 AUGUSTUS 2021. - Wet tot wijziging van de wet van 18 juli 1991 tot regeling van het toezicht op politie- en inlichtingendiensten en op het Coördinatieorgaan voor de dreigingsanalyse, alsook tot verruiming van de voorwaarden tot benoeming van de respectieve griffiers van het Vast Comité I en van het Vast Comité P

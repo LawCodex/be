@@ -13,7 +13,7 @@ entry_into_force: 1978-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1978/07/12/1978071202/justel"
 department: "Education nationale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 1978. - Décret sur la défense de la langue française.

@@ -13,7 +13,7 @@ entry_into_force: 1998-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/11/26/1998027673/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 1998. - Décret portant approbation de l'Accord de coopération entre la Région wallonne, la Communauté francaise et la Communauté germanophone relatif à l'implantation d'ordinateurs dans les écoles wallonnes.

@@ -10,7 +10,7 @@ date: 2008-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/07/18/2008015118/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2008. - Wet houdende instemming met de Overeenkomst, gesloten door uitwisseling van brieven te Brussel op 21 december 2006, tussen de Regeringen van de Benelux-Staten en de Regering van Montenegro inzake de afschaffing van de visumplicht voor houders van diplomatieke of dienstpaspoorten.

@@ -12,7 +12,7 @@ entry_into_force: 1970-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1970/07/15/1970071550/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 1970. - Loi portant approbation de la convention relative aux infractions et à certains autres actes survenant à bord des aéronefs, faite à Tokyo le 14 septembre 1963.

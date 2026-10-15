@@ -12,7 +12,7 @@ published: 2000-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/05/31/2000029236/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2000. - Décret portant assentiment à l'Accord de coopération entre le Gouvernement de la Communauté française de Belgique et le Gouvernement wallon, d'une part, et le Gouvernement de la République de Bulgarie, d'autre part, et les annexes, fait à Bruxelles le 8 octobre 1998.

@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/21/2016027339/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2016. - Décret-programme portant des mesures diverses liées au budget pour les matières réglées en vertu de l'article 138 de la Constitution

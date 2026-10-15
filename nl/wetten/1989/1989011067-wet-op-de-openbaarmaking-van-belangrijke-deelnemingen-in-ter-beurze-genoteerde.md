@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/03/02/1989011067/justel"
 department: "Economische Zaken - Financiën - Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 26-07-1991 en tekstbijwerking tot 12-06-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 1989. - Wet op de openbaarmaking van belangrijke deelnemingen in ter beurze genoteerde vennootschappen en tot reglementering van de openbare overnameaanbiedingen.

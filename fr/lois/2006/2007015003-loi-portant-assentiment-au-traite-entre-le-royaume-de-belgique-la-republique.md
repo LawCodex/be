@@ -12,7 +12,7 @@ entry_into_force: 2007-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/28/2007015003/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBRE 2006. - Loi portant assentiment au traité entre le Royaume de Belgique, la République fédérale d'Allemagne, le Royaume d'Espagne, la République française, le grand-duché de Luxembourg, le Royaume des Pays-Bas et la République d'Autriche relatif à l'approfondissement de la coopération transfrontalière, notamment en vue de lutter contre le terrorisme, la criminalité transfrontalière et la migration illégale, et aux annexes, faits à Prüm le 27 mai 2005.

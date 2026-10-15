@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/08/08/1984021127/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 22-02-1990 et mise à jour au 03-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 AOUT 1983. - Loi organisant un registre national des personnes physiques.

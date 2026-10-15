@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/03/19/2010009424/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 21-04-2010 en tekstbijwerking tot 31-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2010. - Wet tot bevordering van een objectieve berekening van de door de ouders te betalen onderhoudsbijdragen voor hun kinderen

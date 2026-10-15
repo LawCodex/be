@@ -13,7 +13,7 @@ entry_into_force: 1990-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/02/21/1991027158/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 1991. - Décret portant approbation de l'accord de coopération relatif au fonds budgétaire interdépartemental de la promotion de l'emploi conclu à Bruxelles le 7 janvier 1991 entre l'Exécutif régional wallon, l'Exécutif de la Région de Bruxelles-Capitale et l'Exécutif de la Communauté francaise.

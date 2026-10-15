@@ -12,7 +12,7 @@ entry_into_force: 2003-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/22/2004022655/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2004. - Wet tot wijziging van artikel 140 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994.

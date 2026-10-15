@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/29/2014201026/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 12-02-2014 en tekstbijwerking tot 06-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2014. - Wet houdende bepalingen inzake de sociale identiteitskaart en de ISI+-kaart

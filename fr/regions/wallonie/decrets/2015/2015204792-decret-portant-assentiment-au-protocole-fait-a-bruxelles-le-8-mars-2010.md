@@ -13,7 +13,7 @@ entry_into_force: 2015-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/10/16/2015204792/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2015. - Décret portant assentiment au Protocole, fait à Bruxelles le 8 mars 2010, modifiant la Convention entre le Royaume de Belgique et la République de Corée tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Bruxelles le 29 août 1977, telle que modifiée par la Convention additionnelle signée à Bruxelles le 20 avril 1994

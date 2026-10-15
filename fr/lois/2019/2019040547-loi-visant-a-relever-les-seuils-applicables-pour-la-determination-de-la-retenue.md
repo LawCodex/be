@@ -12,7 +12,7 @@ entry_into_force: 2019-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/02/17/2019040547/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2019. - Loi visant à relever les seuils applicables pour la détermination de la retenue de solidarité en matière de pensions

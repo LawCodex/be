@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/21/2023048470/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2023. - Loi portant modification de la loi-programme du 27 decembre 2021, en ce qui concerne la cotisation de responsabilisation concernant l'invalidité due par certains employeurs

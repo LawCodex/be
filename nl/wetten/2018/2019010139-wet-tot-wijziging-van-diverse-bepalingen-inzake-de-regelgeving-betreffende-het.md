@@ -12,7 +12,7 @@ entry_into_force: 2019-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/12/19/2019010139/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2018. - Wet tot wijziging van diverse bepalingen inzake de regelgeving betreffende het levenloos kind

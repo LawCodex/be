@@ -13,7 +13,7 @@ entry_into_force: 1997-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/24/1997027387/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1997. - Decreet tot wijziging van de jachtwet van 28 februari 1882 (VERTALING).

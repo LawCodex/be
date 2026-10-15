@@ -13,7 +13,7 @@ entry_into_force: 2012-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/26/2012202672/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2012. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en het Groothertogdom Luxemburg tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en het vermogen, en het desbetreffende Slotprotocol, ondertekend te Luxemburg op 17 september 1970, zoals gewijzigd bij het aanhangsel, ondertekend te Brussel op 11 december 2002, en bij het aanhangsel, ondertekend te Brussel op 16 juli 2009

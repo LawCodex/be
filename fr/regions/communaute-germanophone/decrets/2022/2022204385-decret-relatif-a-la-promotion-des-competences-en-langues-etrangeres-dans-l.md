@@ -13,7 +13,7 @@ entry_into_force: 2022-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/27/2022204385/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2022. - Décret relatif à la promotion des compétences en langues étrangères dans l'enseignement

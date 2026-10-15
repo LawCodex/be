@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/07/11/2005021090/justel"
 department: "Chancellerie du Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 12-07-2005 et mise à jour au 30-03-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2005. - Loi-programme.

@@ -13,7 +13,7 @@ entry_into_force: 2012-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/18/2021022505/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2021. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Internationale Federatie van Rode Kruis- en Rode Halvemaanverenigingen, gedaan te Brussel op 29 juni 2012 en in Genève op 9 juli 2012

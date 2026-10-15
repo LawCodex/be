@@ -13,7 +13,7 @@ entry_into_force: 2012-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/19/2012203360/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2012. - Décret portant assentiment à l'Accord-cadre global de partenariat et de coopération entre la Communauté européenne et ses Etats membres, d'une part, et la République d'Indonésie, d'autre part, et à l'Acte final, faits à Djarkarta le 9 novembre 2009

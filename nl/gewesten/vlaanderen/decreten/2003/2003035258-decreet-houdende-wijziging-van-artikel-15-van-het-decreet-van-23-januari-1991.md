@@ -13,7 +13,7 @@ entry_into_force: 2003-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/02/07/2003035258/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 FEBRUARI 2003. - Decreet houdende wijziging van artikel 15 van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen.

@@ -12,7 +12,7 @@ entry_into_force: 1997-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/02/1997003683/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 1997. - Wet houdende aanpassing van de Algemene uitgavenbegroting voor het begrotingsjaar 1997 - Sectie 16 " Landsverdediging ".

@@ -12,7 +12,7 @@ entry_into_force: 2013-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/27/2012011519/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 2012. - Loi portant modifications de la loi du 11 avril 2003 sur les provisions constituées pour le démantèlement des centrales nucléaires et pour la gestion des matières fissiles irradiées dans ces centrales

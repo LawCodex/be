@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/03/10/2016029141/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 24-03-2016 et mise à jour au 11-09-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2016. - Décret instituant le Comité Femmes et Sciences

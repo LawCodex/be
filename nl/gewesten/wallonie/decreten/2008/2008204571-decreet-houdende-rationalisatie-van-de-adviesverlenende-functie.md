@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/06/2008204571/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 18-12-2008 en tekstbijwerking tot 19-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBER 2008. - Decreet houdende rationalisatie van de adviesverlenende functie

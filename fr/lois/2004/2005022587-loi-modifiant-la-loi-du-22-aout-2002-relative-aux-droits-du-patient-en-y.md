@@ -12,7 +12,7 @@ entry_into_force: 2005-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/11/24/2005022587/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 2004. - Loi modifiant la loi du 22 août 2002 relative aux droits du patient en y insérant le droit pour toute personne de recevoir des soins visant à soulager sa douleur, ainsi que l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice des professions des soins de santé.

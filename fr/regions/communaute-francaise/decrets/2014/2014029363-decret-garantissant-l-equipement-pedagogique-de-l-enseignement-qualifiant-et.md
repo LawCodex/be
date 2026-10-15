@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029363/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 14-08-2014 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret garantissant l'équipement pédagogique de l'enseignement qualifiant et fixant l'organisation des centres de technologies avancées

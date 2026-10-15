@@ -13,7 +13,7 @@ entry_into_force: 2013-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/03/01/2013035339/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2013. - Décret portant diverses mesures en matière d'agriculture, d'environnement et de nature et d'aménagement du territoire

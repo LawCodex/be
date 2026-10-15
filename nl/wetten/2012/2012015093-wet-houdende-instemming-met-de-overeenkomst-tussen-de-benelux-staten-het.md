@@ -12,7 +12,7 @@ entry_into_force: 2012-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/03/29/2012015093/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2012. - Wet houdende instemming met de Overeenkomst tussen de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Republiek Armenië betreffende de overname van onregelmatig verblijvende personen, en met het Uitvoeringsprotocol, gedaan te Brussel op 3 juni 2009

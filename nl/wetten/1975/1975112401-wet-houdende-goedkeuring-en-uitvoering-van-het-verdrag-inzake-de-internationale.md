@@ -13,7 +13,7 @@ last_amended: 2022-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1975/11/24/1975112401/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 19-01-2017 en tekstbijwerking tot 06-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 1975. - Wet houdende goedkeuring en uitvoering van het Verdrag inzake de internationale bepalingen ter voorkoming van aanvaringen op zee, 1972, bijgevoegd Reglement en zijn Bijlagen, opgemaakt te Londen op 20 oktober 1972

@@ -13,7 +13,7 @@ entry_into_force: 2014-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/03/27/2014031309/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Ordonnance portant assentiment : 1° à la Convention internationale sur la préparation, la lutte et la coopération en matière de pollution par les hydrocarbures, signée à Londres le 30 novembre 1990 et 2° au Protocole sur la préparation, la lutte et la coopération contre les événements de pollution par les substances nocives et potentiellement dangereuses, signé à Londres le 15 mars 2000

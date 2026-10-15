@@ -13,7 +13,7 @@ entry_into_force: 2024-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/19/2024004664/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2024. - Decreet tot wijziging van het decreet van 20 juni 2008 houdende het statuut van de Universiteit Hasselt en de Hoge Raad voor het Hoger Onderwijs in Limburg, wat de structuur van het beheer en de actualisering van de bestaande bepalingen betreft

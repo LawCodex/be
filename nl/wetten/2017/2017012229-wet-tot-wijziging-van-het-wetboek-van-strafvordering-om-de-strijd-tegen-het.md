@@ -11,7 +11,7 @@ published: 2017-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/05/17/2017012229/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2017. - Wet tot wijziging van het Wetboek van strafvordering om de strijd tegen het terrorisme te bevorderen

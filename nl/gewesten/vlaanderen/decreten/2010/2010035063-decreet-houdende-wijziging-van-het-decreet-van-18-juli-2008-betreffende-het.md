@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/01/08/2010035063/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JANUARI 2010. - Decreet houdende wijziging van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, wat de administratieve omkadering en de onafhankelijkheid van de toezichtscommissie betreft

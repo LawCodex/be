@@ -12,7 +12,7 @@ published: 2015-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/05/18/2015202779/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2015. - Decreet tot invoering van de mogelijkheid om theoretische rijlessen te volgen op school

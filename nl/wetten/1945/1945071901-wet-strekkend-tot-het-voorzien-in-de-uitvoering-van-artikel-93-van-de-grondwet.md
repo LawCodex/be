@@ -13,7 +13,7 @@ last_amended: 2014-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1945/07/19/1945071901/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 08-07-2014 en tekstbijwerking tot 08-07-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 1945. - Wet strekkend tot het voorzien in de uitvoering van [artikel 93] van de Grondwet &lt;Opschrift gewijzigd bij W 2014-05-05/10 , art. 4, 002; Inwerkingtreding : 18-07-2014&gt;

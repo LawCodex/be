@@ -12,7 +12,7 @@ entry_into_force: 2006-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/01/13/2005009997/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JANUARI 2006. - Wet tot omzetting van de richtlijn 2004/80/EG van de Raad van 29 april 2004 betreffende de schadeloosstelling van slachtoffers van misdrijven.

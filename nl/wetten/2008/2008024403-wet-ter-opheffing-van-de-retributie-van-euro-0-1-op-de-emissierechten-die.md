@@ -12,7 +12,7 @@ entry_into_force: 2008-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/09/09/2008024403/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 SEPTEMBER 2008. - Wet ter opheffing van de retributie van euro 0,1 op de emissierechten die gratis worden toegekend.

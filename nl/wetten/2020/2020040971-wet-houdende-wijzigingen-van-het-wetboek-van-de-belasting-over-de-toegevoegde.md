@@ -12,7 +12,7 @@ entry_into_force: 2019-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/04/23/2020040971/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 2020. - Wet houdende wijzigingen van het Wetboek van de belasting over de toegevoegde waarde, het Wetboek van de inkomstenbelastingen 1992, het Wetboek van de minnelijke en gedwongen invordering van fiscale en niet-fiscale schuldvorderingen en de programmawet (I) van 29 maart 2012, inzake de verwerking van persoongegevens via het e-notariaat

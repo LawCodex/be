@@ -13,7 +13,7 @@ entry_into_force: 2017-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/23/2017040017/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2016. - Décret sanctionnant l'arrêté du Gouvernement flamand du 28 octobre 2016 relatif au projet temporaire " schoolbank op de werkplek " (banc d'école sur le lieu de travail) consacré à la formation en alternance en période d'apprentissage

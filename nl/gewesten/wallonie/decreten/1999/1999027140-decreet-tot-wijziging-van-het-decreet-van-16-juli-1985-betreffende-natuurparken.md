@@ -13,7 +13,7 @@ entry_into_force: 1999-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/25/1999027140/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 1999. - Decreet tot wijziging van het decreet van 16 juli 1985 betreffende natuurparken (VERTALING).

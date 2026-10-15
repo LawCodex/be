@@ -13,7 +13,7 @@ entry_into_force: 2014-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/27/2014202338/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Decreet tot wijziging van sommige bepalingen van het Waalse Wetboek van Sociale Actie en Gezondheid door zorg- en hulpverleningsdiensten voor geprostitueerde personen op te richten

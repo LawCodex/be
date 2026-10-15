@@ -12,7 +12,7 @@ entry_into_force: 2006-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/14/2006007188/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 2006. - Loi modifiant la loi du 14 janvier 1975 portant le règlement de discipline des Forces armées en vue de permettre l'accès à certains mandats politiques et portant des dispositions diverses.

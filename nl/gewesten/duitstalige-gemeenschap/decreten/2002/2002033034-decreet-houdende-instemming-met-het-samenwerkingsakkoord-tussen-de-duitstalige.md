@@ -13,7 +13,7 @@ entry_into_force: 2002-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/02/18/2002033034/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 FEBRUARI 2002. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Duitstalige Gemeenschap en de Vlaamse Gemeenschap/het Vlaamse Gewest betreffende de bevordering van de algemene samenwerking (VERTALING).

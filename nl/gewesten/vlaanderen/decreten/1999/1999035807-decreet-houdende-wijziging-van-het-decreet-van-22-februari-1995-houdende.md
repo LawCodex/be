@@ -13,7 +13,7 @@ entry_into_force: 1999-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/18/1999035807/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 1999. - Decreet houdende wijziging van het decreet van 22 februari 1995 houdende regeling van het administratief toezicht op de provincies in het Vlaamse Gewest.

@@ -13,7 +13,7 @@ entry_into_force: 2008-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/07/2008029041/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2007. - Decreet tot wijziging van het decreet van 4 maart 1991 inzake hulpverlening aan de jeugd (VERTALING).

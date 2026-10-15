@@ -13,7 +13,7 @@ entry_into_force: 2023-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/03/2022032477/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2022. - Décret portant l'obligation pour certaines organisations de contrôler un extrait du casier judiciaire tel que visé à l'article 596, alinéa deux, du Code d'instruction criminelle, pour certains nouveaux collaborateurs

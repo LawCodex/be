@@ -11,7 +11,7 @@ published: 2013-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/05/08/2013000535/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2013. - Wet tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen en van de wet van 27 december 2006 houdende diverse bepalingen II

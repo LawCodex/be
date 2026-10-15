@@ -12,7 +12,7 @@ entry_into_force: 2003-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/27/2003015049/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2003. - Wet houdende instemming met het Europees Verdrag betreffende de niet-toepasselijkheid van verjaring terzake van misdrijven tegen de menselijkheid en oorlogsmisdrijven, gedaan te Straatsburg op 25 januari 1974.

@@ -12,7 +12,7 @@ entry_into_force: 2024-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/26/2024003971/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2024. - Loi modifiant la loi du 31 janvier 2003 sur la sortie progressive de l'énergie nucléaire à des fins de production industrielle d'électricité

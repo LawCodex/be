@@ -11,7 +11,7 @@ published: 2005-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/06/01/2005000438/justel"
 department: "Federaal Agentschap voor Nucleaire Controle"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2005. - Wet betreffende de toepassing van het Aanvullend Protocol van 22 september 1998 bij de Internationale Overeenkomst van 5 april 1973 ter uitvoering van artikel III, leden 1 en 4, van het Verdrag van 1 juli 1968 inzake de niet-verspreiding van kernwapens.

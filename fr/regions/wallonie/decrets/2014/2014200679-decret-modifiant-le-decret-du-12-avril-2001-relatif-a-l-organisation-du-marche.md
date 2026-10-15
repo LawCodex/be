@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/23/2014200679/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 04-02-2014 et mise à jour au 17-04-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 2014. - Décret modifiant le décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/03/2009035897/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 18-09-2009 en tekstbijwerking tot 15-06-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2009. - Decreet houdende de toekenning van subsidies voor de uitbouw, de coördinatie en de promotie van het sportaanbod van de [studentensportvoorzieningen] van de Vlaamse universiteiten en hogescholen en de erkenning en subsidiëring van een Vlaamse overkoepelende [studentensportorganisatie](Opschrift gewijzigd door DCFL 2018-05-18/09 , art. 2; Inwerkingtreding : 01-09-2018)

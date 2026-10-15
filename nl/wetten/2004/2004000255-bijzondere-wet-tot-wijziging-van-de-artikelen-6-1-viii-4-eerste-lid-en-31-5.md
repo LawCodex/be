@@ -12,7 +12,7 @@ entry_into_force: 2004-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/04/25/2004000255/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2004. - Bijzondere wet tot wijziging van de artikelen 6, § 1, VIII, 4°, eerste lid, en 31, § 5, eerste lid, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en van artikel 22, § 5, eerste en tweede lid, van de bijzonde wet van 12 januari 1989 met betrekking tot de Brusselse instellingen, teneinde de controlebevoegdheid van de Raden inzake verkiezingsuitgaven en inzake de voor het publiek bestemde mededelingen en voorlichtingscampagnes te verduidelijken.

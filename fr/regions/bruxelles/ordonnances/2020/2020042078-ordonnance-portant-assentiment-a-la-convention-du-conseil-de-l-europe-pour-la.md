@@ -13,7 +13,7 @@ entry_into_force: 2020-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/07/02/2020042078/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2020. - Ordonnance portant assentiment à la Convention du Conseil de l'Europe pour la prévention du terrorisme, faite à Varsovie le 16 mai 2005

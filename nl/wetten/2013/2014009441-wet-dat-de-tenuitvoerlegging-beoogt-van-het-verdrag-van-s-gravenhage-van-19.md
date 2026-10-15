@@ -11,7 +11,7 @@ published: 2014-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/11/27/2014009441/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2013. - Wet dat de tenuitvoerlegging beoogt van het Verdrag van 's-Gravenhage van 19 oktober 1996 inzake de bevoegdheid, het toepasselijke recht, de erkenning, de tenuitvoerlegging en de samenwerking op het gebied van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen

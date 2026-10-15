@@ -13,7 +13,7 @@ entry_into_force: 2021-10-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/09/23/2021033440/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBER 2021. - Decreet houdende instemming met de Overeenkomst tussen het Groothertogdom Luxemburg en het Waalse Gewest inzake de sanering van afvalwater, de bescherming van wingebieden van tot drinkwater verwerkbaar water en de controle op de nitraatrichtlijn, ondertekend te Martelange op 9 april 2019

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/11/09/2012036205/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 26-11-2012 en tekstbijwerking tot 29-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBER 2012. - Decreet houdende diverse bepalingen betreffende financiën en begroting

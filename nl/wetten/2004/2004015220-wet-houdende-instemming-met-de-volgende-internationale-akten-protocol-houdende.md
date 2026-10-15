@@ -12,7 +12,7 @@ entry_into_force: 2005-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/11/10/2004015220/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2004. - Wet houdende instemming met de volgende internationale Akten : Protocol houdende wijziging van de gecoördineerde Overeenkomst tot oprichting van de Belgisch-Luxemburgse Economische Unie; Protocol houdende intrekking van de Overeenkomst tussen België en het Groothertogdom Luxemburg tot instelling van een bijzondere gemeenschap van ontvangsten wat betreft de op alcohol geheven accijnsrechten, van 23 mei 1935; Protocol houdende intrekking van het Bijzonder Protocol tussen België en het Groothertogdom Luxemburg betreffende de landbouw, van 29 januari 1963; Protocol houdende intrekking van het Protocol tussen het Koninkrijk België en het Groothertogdom Luxemburg met betrekking tot de monetaire associatie en het Protocol tot uitvoering, van 9 maart 1981, gedaan te Brussel, op 18 december 2002

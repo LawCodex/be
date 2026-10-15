@@ -11,7 +11,7 @@ published: 1995-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/03/17/1995015030/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 1993. - Loi portant approbation de la Convention relative à l'élimination des doubles impositions en cas de correction des bénéfices d'entreprises associées, Acte final et Déclarations annexées, signés à Bruxelles le 23 juillet 1990.

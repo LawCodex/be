@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/29/2019011811/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 25-04-2019 en tekstbijwerking tot 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2019. - Decreet betreffende de opleidingscheques voor werknemers, de invoering van een registratieverplichting voor sportmakelaars en tot wijziging van diverse andere bepalingen inzake het [beleidsdomein Werk, Economie, Wetenschap, Innovatie, Landbouw en Sociale Economie](Opschrift gewijzigd bij DVR 2026-06-26/19 , art. 50, 003; Inwerkingtreding : 07-08-2026)

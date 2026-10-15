@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/01/17/1984015135/justel"
 department: "Affaires étrangères"
 justel_note: "Consultation des versions antérieures à partir du 17-06-2014 et mise à jour au 17-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANVIER 1984. - Loi portant approbation des Actes Internationaux suivants : - a) Convention internationale de 1973 pour la prévention de la pollution par les navires, et Annexes, faites à Londres le 2 novembre 1973, - b) Protocole de 1978 relatif à la Convention internationale de 1973 pour la prévention de la pollution par les navires, et Annexe, faites à Londres le 17 février 1978

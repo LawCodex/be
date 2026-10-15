@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/07/18/2017204094/justel"
 department: "Sociale Zekerheid - Landsverdediging"
 justel_note: "Raadpleging van vroegere versies vanaf 04-08-2017 en tekstbijwerking tot 05-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2017. - Wet betreffende de oprichting van het statuut van nationale solidariteit, de toekenning van een herstelpensioen en de terugbetaling van medische zorg ingevolge daden van terrorisme

@@ -9,7 +9,7 @@ language: nl
 date: 1967-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1967/07/10/1967071006/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 1967. - Wet : 1° tot verbetering van de verouderde termen in de Franse tekst van het Wetboek van strafvordering en tot opheffing van een aantal daarin nodeloos geworden bepalingen en tot wijziging van de wet van 20 april 1874 op de voorlopige hechtenis; 2° tot invoering van de Nederlandse tekst van hetzelfde Wetboek en van de wet van 20 april 1874 op de voorlopige hechtenis.

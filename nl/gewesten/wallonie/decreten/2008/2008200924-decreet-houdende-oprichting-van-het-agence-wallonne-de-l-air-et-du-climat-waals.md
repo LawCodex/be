@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/03/05/2008200924/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 25-03-2008 en tekstbijwerking tot 24-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2008. - Decreet houdende oprichting van het "Agence wallonne de l'air et du climat" (Waals Agentschap voor lucht en klimaat) [...] (VERTALING))&lt;DWG 2024-12-18/05 , art. 16, 013; Inwerkingtreding : 01-01-2025&gt; &lt;DWG 2023-12-13/13 , art. 134, 012; Inwerkingtreding : 01-01-2024&gt;&lt;DWG 2022-12-21/67 , art. 146, 011; Inwerkingtreding : 01-01-2023&gt;

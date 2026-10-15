@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202577/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 18-06-2009 en tekstbijwerking tot 08-03-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet betreffende de informatie, de coördinatie en de organisatie van de werven onder, op of boven de wegen of waterlopen

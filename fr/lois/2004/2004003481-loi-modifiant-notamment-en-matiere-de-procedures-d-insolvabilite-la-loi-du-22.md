@@ -12,7 +12,7 @@ entry_into_force: 2005-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/12/06/2004003481/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2004. - Loi modifiant notamment, en matière de procédures d'insolvabilité, la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit et la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances.

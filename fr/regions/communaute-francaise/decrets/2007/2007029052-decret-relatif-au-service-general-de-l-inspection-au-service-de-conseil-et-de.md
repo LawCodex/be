@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/08/2007029052/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 05-06-2007 et mise à jour au 09-10-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 2007. - Décret relatif au service général de l'inspection, au service de conseil et de soutien pédagogiques de l'enseignement organisé par la Communauté française, aux cellules de conseil et de soutien pédagogiques de l'enseignement subventionné par la Communauté française et au statut des membres du personnel du service général de l'inspection et des conseillers pédagogiques. )

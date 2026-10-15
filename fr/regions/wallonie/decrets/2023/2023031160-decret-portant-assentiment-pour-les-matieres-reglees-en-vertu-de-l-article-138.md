@@ -13,7 +13,7 @@ entry_into_force: 2023-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/20/2023031160/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2023. - Décret portant assentiment, pour les matières réglées en vertu de l'article 138 de la Constitution, à l'accord de coopération du 30 novembre 2022 entre l'Etat fédéral, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire française et la Commission communautaire commune visant à instaurer un mécanisme de filtrage des investissements directs étrangers

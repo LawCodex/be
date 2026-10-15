@@ -12,7 +12,7 @@ entry_into_force: 2013-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/17/2013003263/justel"
 department: "Economie, KMO, Middenstand en Energie - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2013. - Wet tot wijziging, met het oog op de omzetting van de Richtlijnen 2010/73/EU en 2010/78/EU, van de wet van 16 juni 2006 op de openbare aanbieding van beleggingsinstrumenten en de toelating van beleggingsinstrumenten tot de verhandeling op een gereglementeerde markt, van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten, van de wet van 1 april 2007 op de openbare overnamebiedingen, van de wet van 2 mei 2007 op de openbaarmaking van belangrijke deelnemingen in emittenten waarvan aandelen zijn toegelaten tot de verhandeling op een gereglementeerde markt en houdende diverse bepalingen en van de wet van 3 augustus 2012 betreffende bepaalde vormen van collectief beheer van beleggingsportefeuilles, en houdende diverse bepalingen

@@ -12,7 +12,7 @@ entry_into_force: 2016-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/09/11/2016015121/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 SEPTEMBRE 2016. - Loi portant assentiment au Protocole modifiant le Traité du 31 mars 1965 relatif à l'institution et au statut d'une Cour de Justice Benelux, fait à Luxembourg le 15 octobre 2012

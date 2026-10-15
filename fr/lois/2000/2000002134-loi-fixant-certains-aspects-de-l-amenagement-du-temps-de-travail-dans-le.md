@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/12/14/2000002134/justel"
 department: "Fonction publique"
 justel_note: "Consultation des versions antérieures à partir du 05-01-2001 et mise à jour au 23-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2000. - Loi fixant certains aspects de l'aménagement du temps de travail dans le secteur public

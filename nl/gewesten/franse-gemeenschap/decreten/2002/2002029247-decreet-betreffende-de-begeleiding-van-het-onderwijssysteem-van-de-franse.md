@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/03/27/2002029247/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 17-05-2002 en tekstbijwerking tot 24-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2002. - Decreet betreffende de begeleiding van het onderwijssysteem van de Franse Gemeenschap (VERTALING).

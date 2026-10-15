@@ -10,7 +10,7 @@ date: 2022-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/20/2022041792/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2022. - Wet betreffende de wijziging van de wet van 31 december 1851 op de loterijen tot legalisering van lokale tombola's en loterijen

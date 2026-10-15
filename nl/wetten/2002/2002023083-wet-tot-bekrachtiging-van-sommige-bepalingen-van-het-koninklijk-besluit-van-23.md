@@ -12,7 +12,7 @@ entry_into_force: 2002-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/17/2002023083/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2002. - Wet tot bekrachtiging van sommige bepalingen van het koninklijk besluit van 23 oktober 2001 tot wijziging van het koninklijk besluit van 19 augustus 1998 tot vaststelling van de retributies en bijdragen verschuldigd aan het Begrotingsfonds voor Grondstoffen.

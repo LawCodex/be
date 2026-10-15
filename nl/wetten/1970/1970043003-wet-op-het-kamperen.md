@@ -12,7 +12,7 @@ last_amended: 1995-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1970/04/30/1970043003/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 28-01-1989 en tekstbijwerking tot 01-08-1995"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 1970. - Wet op het kamperen.

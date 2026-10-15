@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/30/2006202766/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 01-02-2011 et mise à jour au 01-02-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2006. - Décret relatif à l'insertion sociale des jeunes par le sport, instaurant un "chèque sport"

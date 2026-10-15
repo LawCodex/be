@@ -13,7 +13,7 @@ entry_into_force: 2019-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/11/22/2019015603/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2019. - Décret portant assentiment aux amendements au protocole à la convention de 1979 sur la pollution atmosphérique transfrontière à longue distance, relatif à la réduction de l'acidification, de l'eutrophisation et de l'ozone troposphérique, avec annexes, faits à Genève le 4 mai 2012

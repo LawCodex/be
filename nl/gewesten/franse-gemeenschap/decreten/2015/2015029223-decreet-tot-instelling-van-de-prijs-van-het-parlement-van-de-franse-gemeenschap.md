@@ -13,7 +13,7 @@ entry_into_force: 2015-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/04/30/2015029223/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2015. - Decreet tot instelling van de prijs van het Parlement van de Franse Gemeenschap voor de Democratie en de Rechten van de Mens

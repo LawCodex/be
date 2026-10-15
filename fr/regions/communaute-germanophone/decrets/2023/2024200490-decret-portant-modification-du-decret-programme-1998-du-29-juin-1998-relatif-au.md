@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/12/2024200490/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2023. - Décret portant modification du décret-programme 1998 du 29 juin 1998 relatif au régime de pension du personnel statutaire du B.R.F. (Centre belge pour la Radiodiffusion-Télévision de la Communauté germanophone)

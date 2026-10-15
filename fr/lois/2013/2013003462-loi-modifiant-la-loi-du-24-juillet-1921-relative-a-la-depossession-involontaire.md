@@ -12,7 +12,7 @@ entry_into_force: 2014-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/21/2013003462/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2013. - Loi modifiant la loi du 24 juillet 1921 relative à la dépossession involontaire des titres au porteur, la loi du 14 décembre 2005 relative à la suppression des titres au porteur et le chapitre V de la loi du 24 juillet 2008 portant des dispositions diverses (i), en ce qui concerne les coffres dormants

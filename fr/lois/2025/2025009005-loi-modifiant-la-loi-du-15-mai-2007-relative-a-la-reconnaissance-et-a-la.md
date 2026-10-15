@@ -12,7 +12,7 @@ entry_into_force: 2025-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/11/20/2025009005/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2025. - Loi modifiant la loi du 15 mai 2007 relative à la reconnaissance et à la protection de la profession d'expert en automobiles et créant un Institut des experts en automobiles (I)

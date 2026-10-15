@@ -13,7 +13,7 @@ entry_into_force: 2004-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004035969/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende wijziging van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, wat de gebieden voor gemeenschapsvoorzieningen en openbare nutsvoorzieningen betreft

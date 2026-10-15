@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/02/19/2009A31132/justel"
 department: "Commission communautaire commune - Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 19-03-2009 et mise à jour au 09-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2009. - Ordonnance relatives au Conseil consultatif de la santé et de l'aide aux personnes de la Commission communautaire, coordonnés le 19 février 2009

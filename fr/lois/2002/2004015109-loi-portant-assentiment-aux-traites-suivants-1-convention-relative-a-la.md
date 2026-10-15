@@ -12,7 +12,7 @@ entry_into_force: 2004-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/02/17/2004015109/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2002. - Loi portant assentiment aux Traités suivants : 1. Convention relative à la construction et à l'exploitation d'une Installation européenne de rayonnement synchrotron, et Annexes, faits à Paris le 16 décembre 1988 2. Convention entre le Royaume de Belgique et le Royaume des Pays-Bas concernant leur participation commune à l'Installation européenne de rayonnement synchrotron ainsi que ses modalités d'exécution, et Echange de lettres, signés à Bruxelles le 12 novembre 1990 3. Protocole d'adhésion du Royaume des Pays-Bas à la Convention du 16 décembre 1988 relative à la construction et l'exploitation d'une Installation européenne de rayonnement synchrotron, et Annexe, faits à Paris le 9 décembre 1991.

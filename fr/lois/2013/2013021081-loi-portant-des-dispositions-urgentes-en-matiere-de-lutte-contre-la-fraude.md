@@ -12,7 +12,7 @@ entry_into_force: 2013-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/15/2013021081/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2013. - Loi portant des dispositions urgentes en matière de lutte contre la fraude

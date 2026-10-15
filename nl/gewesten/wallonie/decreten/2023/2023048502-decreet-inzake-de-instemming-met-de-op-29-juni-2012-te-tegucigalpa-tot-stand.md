@@ -13,7 +13,7 @@ entry_into_force: 2024-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/10/25/2023048502/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 OKTOBER 2023. - Decreet inzake de instemming met de op 29 juni 2012 te Tegucigalpa tot stand gekomen Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds

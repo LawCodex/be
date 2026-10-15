@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/07/22/2010027184/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 20-08-2010 en tekstbijwerking tot 20-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 2010. - Programmadecreet houdende verschillende maatregelen inzake goed bestuur, bestuurlijke vereenvoudiging, energie, huisvesting, fiscaliteit, werkgelegenheid, luchthavenbeleid, economie, leefmilieu, ruimtelijke ordening, plaatselijke besturen, landbouw en openbare werken

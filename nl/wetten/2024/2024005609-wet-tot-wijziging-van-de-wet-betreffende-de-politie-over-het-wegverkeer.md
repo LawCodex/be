@@ -12,7 +12,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/16/2024005609/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Wet tot wijziging van de wet betreffende de politie over het wegverkeer, gecoördineerd op 16 maart 1968, tot invoering van herstelopleidingen

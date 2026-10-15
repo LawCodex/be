@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/02/04/2021020418/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 19-03-2021 et mise à jour au 06-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2021. - Décret portant organisation du budget, de la comptabilité et du rapportage des organismes administratifs publics de la Communauté française

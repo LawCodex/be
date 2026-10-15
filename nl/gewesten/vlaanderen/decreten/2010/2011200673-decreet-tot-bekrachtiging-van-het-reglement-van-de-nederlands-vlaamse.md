@@ -12,7 +12,7 @@ published: 2011-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/23/2011200673/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2010. - Decreet tot bekrachtiging van het reglement van de Nederlands-Vlaamse Accreditatieorganisatie tot wijziging van het reglement van de Nederlands-Vlaamse Accreditatieorganisatie van 19 februari 2005 tot bepaling van bestuursbeginselen die van toepassing zijn bij de besluitvorming inzake accreditatie en toets nieuwe opleiding ten aanzien van hoger onderwijsopleidingen in de Vlaamse Gemeenschap

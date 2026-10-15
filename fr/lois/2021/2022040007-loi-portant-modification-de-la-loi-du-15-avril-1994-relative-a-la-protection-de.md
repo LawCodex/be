@@ -12,7 +12,7 @@ entry_into_force: 2022-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/19/2022040007/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2021. - Loi portant modification de la loi du 15 avril 1994 relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de contrôle nucléaire et modifiant la loi du 23 mars 2020 visant à flouter les images d'établissements nucléaires et sensibles et à limiter la prise ou la diffusion de photographies aériennes de ces établissements dans l'intérêt de la sécurité publique

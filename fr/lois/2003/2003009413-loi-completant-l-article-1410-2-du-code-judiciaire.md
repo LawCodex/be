@@ -12,7 +12,7 @@ entry_into_force: 2003-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/22/2003009413/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2003. - Loi complétant l'article 1410, § 2, du Code judiciaire.

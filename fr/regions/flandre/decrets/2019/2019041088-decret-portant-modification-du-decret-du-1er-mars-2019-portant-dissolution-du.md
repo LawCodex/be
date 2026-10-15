@@ -13,7 +13,7 @@ entry_into_force: 2019-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/26/2019041088/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2019. - Décret portant modification du décret du 1er mars 2019 portant dissolution du Fonds d'Aide sociale aux Jeunes et modifiant le décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique " Kind en Gezin " (Enfance et Famille) et le décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse

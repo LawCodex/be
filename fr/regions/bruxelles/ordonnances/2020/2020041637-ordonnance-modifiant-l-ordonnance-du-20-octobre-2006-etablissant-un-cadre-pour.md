@@ -13,7 +13,7 @@ entry_into_force: 2020-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/06/11/2020041637/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2020. - Ordonnance modifiant l'ordonnance du 20 octobre 2006 établissant un cadre pour la politique de l'eau

@@ -12,7 +12,7 @@ entry_into_force: 2006-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/22/2006009530/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2006. - Loi modifiant certaines dispositions de la loi du 17 avril 1878 contenant le Titre préliminaire du Code de procédure pénale, ainsi qu'une disposition de la loi du 5 août 2003 relative aux violations graves de droit international humanitaire.

@@ -13,7 +13,7 @@ entry_into_force: 2016-11-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/10/13/2016029529/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OCTOBRE 2016. - Décret modifiant le décret-cadre du 10 avril 2003 relatif à la reconnaissance et au subventionnement du secteur professionnel des Arts de la scène

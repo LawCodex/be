@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/23/2016036695/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2016 et mise à jour au 29-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2016. - Décret contenant diverses mesures d'accompagnement du budget 2017

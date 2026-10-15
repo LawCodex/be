@@ -12,7 +12,7 @@ entry_into_force: 2009-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/11/12/2009000848/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 2009. - Loi visant à modifier la loi du 21 mars 2007 réglant l'installation et l'utilisation de caméras de surveillance

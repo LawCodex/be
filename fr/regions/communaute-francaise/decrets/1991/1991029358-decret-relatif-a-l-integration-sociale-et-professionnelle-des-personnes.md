@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/07/03/1991029358/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 30-07-1991 et mise à jour au 07-01-2003"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 1991. - Décret relatif à l'intégration sociale et professionnelle des personnes handicapées. (NOTE 1 : Abrogé pour la Commission communautaire française par DEC 1999-03-04/41, art. 75, 4°; En vigueur : 01-01-1999) (NOTE 2 : Abrogé pour la région de langue française par ARW 2002-11-07/48, art. 57; En vigueur : 01-01-2003)

@@ -12,7 +12,7 @@ entry_into_force: 2000-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/05/2002036133/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2002. - Decreet houdende wijziging van het decreet van 30 november 1988 tot instelling van het politiek verlof voor de personeelsleden van de openbare instellingen en publiekrechtelijke verenigingen die van de Vlaamse Gemeenschap afhangen.

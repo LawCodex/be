@@ -13,7 +13,7 @@ entry_into_force: 2017-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/01/26/2017020156/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2017. - Décret portant assentiment à l'Accord modificatif et complémentaire à l'Accord signé à Bruxelles le 12 mai 1967 entre le Royaume de Belgique et le Quartier général suprême des Forces alliées en Europe concernant les conditions particulières d'installation et de fonctionnement de ce quartier général sur le territoire du Royaume de Belgique, fait à Bruxelles le 10 septembre 2013

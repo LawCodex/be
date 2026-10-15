@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "art. 70; 71 modifiés avec effet à une date indéterminée par DCFL 2006-12-22/38 , art. 12 à 14; En vigueur : indéterminée >"
   - "Consultation des versions antérieures à partir du 06-08-2004 et mise à jour au 23-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2004. - Décret relatif à la participation à l'école et au "Vlaamse Onderwijsraad" (Conseil flamand de l'Enseignement). (TRADUCTION)

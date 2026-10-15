@@ -12,7 +12,7 @@ entry_into_force: 1998-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/02/09/1998015109/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 1998. - Wet houdende instemming met de Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten optredend in het kader van de Europese Unie, enerzijds, en de Republiek Slovenië, anderzijds, bijlagen I, II, III, IV, V, VI, VII, VIIIa, VIIIb, IXa, IXb, IXc, X, XI, XII en XIII, protocollen 1, 2, 3, 4, 5 en 6, en Slotakte, gedaan te Luxemburg op 10 juni 1996.

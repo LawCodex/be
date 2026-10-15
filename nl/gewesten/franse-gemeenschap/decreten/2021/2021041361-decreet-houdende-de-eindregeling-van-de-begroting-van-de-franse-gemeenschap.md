@@ -13,7 +13,7 @@ entry_into_force: 2021-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/05/05/2021041361/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2021. - Decreet houdende de eindregeling van de begroting van de Franse Gemeenschap voor het begrotingsjaar 2019

@@ -13,7 +13,7 @@ entry_into_force: 2018-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/01/2018201183/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2018. - Decreet houdende instemming met het Protocol tot wijziging van de Benelux-Overeenkomst van 10 juni 1970 op het gebied van jacht en vogelbescherming, gedaan te Brussel op 17 februari 2016

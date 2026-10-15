@@ -12,7 +12,7 @@ entry_into_force: 2023-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/08/2022034749/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2022. - Wet betreffende de meldingskanalen en de bescherming van de melders van integriteitsschendingen in de federale overheidsinstanties en bij de geïntegreerde politie

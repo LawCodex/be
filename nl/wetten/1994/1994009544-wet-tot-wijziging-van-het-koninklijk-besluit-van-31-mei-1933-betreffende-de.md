@@ -12,7 +12,7 @@ entry_into_force: 1994-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/06/07/1994009544/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 1994. - Wet tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaring te doen in verband met subsidies, vergoedingen en toelagen van elke aard, die geheel of gedeeltelijk ten laste van de Staat zijn.

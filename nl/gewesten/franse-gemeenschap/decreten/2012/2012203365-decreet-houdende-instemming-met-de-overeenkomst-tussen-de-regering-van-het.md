@@ -13,7 +13,7 @@ entry_into_force: 2012-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/19/2012203365/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2012. - Decreet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar vermogenswinsten, ondertekend te Brussel op 1 juni 1987, zoals gewijzigd bij het te Parijs op 24 juni 2009 ondertekende Protocol

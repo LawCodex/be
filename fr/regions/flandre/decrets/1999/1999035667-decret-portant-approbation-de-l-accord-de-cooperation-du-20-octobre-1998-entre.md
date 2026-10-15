@@ -13,7 +13,7 @@ entry_into_force: 1999-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/11/1999035667/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 1999. - Décret portant approbation de l'accord de coopération du 20 octobre 1998 entre la Communauté flamande et la Région wallonne concernant l'intégration des personnes handicapées (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2008-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/03/2008202493/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2008. - Decreet houdende afwending van het risico i.v.m. de geconcentreerde aanwezigheid van koolstofmonoxide (VERTALING).

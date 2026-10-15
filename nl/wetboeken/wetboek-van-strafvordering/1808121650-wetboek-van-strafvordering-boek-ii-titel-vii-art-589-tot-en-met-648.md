@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1808/12/16/1808121650/justel"
 justel_notes:
   - "Om technische redenen is het Wetboek van Strafvordering ingedeeld in 8 delen waarvan het achtste deel Titel VII van het tweede Boek omvat"
   - "Raadpleging van vroegere versies vanaf 05-02-1991 en tekstbijwerking tot 18-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 1808. - WETBOEK VAN STRAFVORDERING. - BOEK II, TITEL VII. (Art. 589 tot en met 648)

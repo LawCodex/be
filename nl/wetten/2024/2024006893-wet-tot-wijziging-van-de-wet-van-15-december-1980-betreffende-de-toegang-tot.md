@@ -12,7 +12,7 @@ entry_into_force: 2024-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/06/04/2024006893/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUNI 2024. - Wet tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen aangaande de aanstelling van de hoofdgriffier en griffiers bij de Raad voor Vreemdelingenbetwistingen

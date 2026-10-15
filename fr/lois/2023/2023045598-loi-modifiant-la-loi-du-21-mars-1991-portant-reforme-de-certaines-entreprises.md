@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/08/30/2023045598/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AOUT 2023. - Loi modifiant la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques

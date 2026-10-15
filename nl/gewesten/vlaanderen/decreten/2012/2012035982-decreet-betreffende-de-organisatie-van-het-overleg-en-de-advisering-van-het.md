@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/06/2012035982/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 28-08-2012 en tekstbijwerking tot 29-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2012. - Decreet betreffende [de organisatie van het overleg en de advisering van] het Lokaal Cultuurbeleid

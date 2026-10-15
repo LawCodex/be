@@ -13,7 +13,7 @@ entry_into_force: 2016-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/10/16/2015204835/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 2015. - Decreet tot invoeging van sommige bepalingen in het Waals Wetboek van Sociale Actie en Gezondheid betreffende de erkenning van een elektronisch uitwisselingsplatform van de gezondheidsgegevens

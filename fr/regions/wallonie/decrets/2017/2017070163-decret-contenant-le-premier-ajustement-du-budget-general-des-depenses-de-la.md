@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/12/2017070163/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2017. - Décret contenant le premier ajustement du budget général des dépenses de la Région wallonne pour l'année budgétaire 2017

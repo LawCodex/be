@@ -11,7 +11,7 @@ date: 2015-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/29/2015204120/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2015. - Decreet houdende maatregelen inzake onderwijs - 2015

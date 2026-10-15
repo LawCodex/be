@@ -11,7 +11,7 @@ entry_into_force: 2017-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/08/11/2017014007/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AUGUSTUS 2017. - Wet houdende instemming met het Multilateraal Akkoord tussen bevoegde autoriteiten inzake de uitwisseling van landenrapporten, ondertekend te Parijs op 27 januari 2016

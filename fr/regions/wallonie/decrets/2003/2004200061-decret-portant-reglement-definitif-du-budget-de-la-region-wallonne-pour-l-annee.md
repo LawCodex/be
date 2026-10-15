@@ -13,7 +13,7 @@ entry_into_force: 2004-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/04/2004200061/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2003. - Décret portant règlement définitif du budget de la Région wallonne pour l'année 1997.

@@ -13,7 +13,7 @@ entry_into_force: 2018-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/02/2018030510/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 2018. - Decreet tot wijziging van artikel 5 van het decreet van 20 maart 2009 houdende de toegankelijkheid van publieke plaatsen voor personen met een assistentiehond

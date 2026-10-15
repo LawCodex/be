@@ -13,7 +13,7 @@ entry_into_force: 2004-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/19/2004029195/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2004. - Décret relatif aux membres du personnel exerçant une fonction de promotion ou de sélection à titre temporaire sans interruption depuis le 1er janvier 2004 dans l'enseignement de promotion sociale de la Communauté française.

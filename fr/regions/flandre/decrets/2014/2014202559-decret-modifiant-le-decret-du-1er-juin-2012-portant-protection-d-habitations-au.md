@@ -13,7 +13,7 @@ entry_into_force: 2014-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/04/2014202559/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2014. - Décret modifiant le décret du 1er juin 2012 portant protection d'habitations au moyen de détecteurs de fumée optiques

@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/02/26/2021040852/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2021. - Decreet tot wijziging van artikel 3 en 8 van het decreet van 5 juli 1989 tot organisatie van het toezicht op de Vlaamse Gemeenschapscommissie

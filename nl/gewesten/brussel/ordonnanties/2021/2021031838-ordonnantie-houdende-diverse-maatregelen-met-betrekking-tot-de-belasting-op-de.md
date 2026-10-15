@@ -13,7 +13,7 @@ entry_into_force: 2021-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/07/15/2021031838/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2021. - Ordonnantie houdende diverse maatregelen met betrekking tot de belasting op de inrichtingen van toeristisch logies op grond van de gezondheidscrisis van de COVID-19

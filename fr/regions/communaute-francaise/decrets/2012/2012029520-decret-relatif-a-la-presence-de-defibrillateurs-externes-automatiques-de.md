@@ -13,7 +13,7 @@ entry_into_force: 2012-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/10/25/2012029520/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 OCTOBRE 2012. - Décret relatif à la présence de défibrillateurs externes automatiques de catégorie 1 dans les infrastructures sportives

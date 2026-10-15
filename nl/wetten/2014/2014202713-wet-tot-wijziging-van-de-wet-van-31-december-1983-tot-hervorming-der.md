@@ -12,7 +12,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/19/2014202713/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2014. - Wet tot wijziging van de wet van 31 december 1983 tot hervorming der instellingen voor de Duitstalige Gemeenschap

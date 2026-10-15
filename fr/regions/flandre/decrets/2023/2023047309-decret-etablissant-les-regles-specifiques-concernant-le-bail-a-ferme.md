@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/13/2023047309/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-11-2023 et mise à jour au 30-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OCTOBRE 2023. - Décret établissant les règles spécifiques concernant le bail à ferme

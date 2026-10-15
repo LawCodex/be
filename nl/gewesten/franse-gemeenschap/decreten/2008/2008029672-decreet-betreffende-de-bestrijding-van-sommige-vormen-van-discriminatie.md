@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/12/12/2008029672/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 13-01-2009 en tekstbijwerking tot 12-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2008. - Decreet betreffende de bestrijding van sommige vormen van discriminatie (VERTALING)

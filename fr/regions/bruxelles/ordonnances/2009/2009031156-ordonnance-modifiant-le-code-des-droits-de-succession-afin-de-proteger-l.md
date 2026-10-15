@@ -13,7 +13,7 @@ entry_into_force: 2009-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/03/19/2009031156/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2009. - Ordonnance modifiant le Code des droits de succession afin de protéger l'héritier de titres boursiers dévalorisés

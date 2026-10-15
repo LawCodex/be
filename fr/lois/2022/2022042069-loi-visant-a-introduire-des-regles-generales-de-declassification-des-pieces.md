@@ -12,7 +12,7 @@ entry_into_force: 2022-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/09/11/2022042069/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 SEPTEMBRE 2022. - Loi visant à introduire des règles générales de déclassification des pièces classifiées (nouvel intitulé)

@@ -12,7 +12,7 @@ published: 2005-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/10/14/2005036318/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2005. - Decreet houdende instemming met de Kaderovereenkomst van de Wereldgezondheidsorganisatie inzake de bestrijding van het tabaksgebruik, aangenomen te Genève op 21 mei 2003.

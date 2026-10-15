@@ -13,7 +13,7 @@ entry_into_force: 2020-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/05/15/2020041347/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2020. - Décret sanctionnant l'arrêté du Gouvernement flamand du 7 février 2020 portant agrément de Thor Park à Genk comme zone énergétique modérément réglementée

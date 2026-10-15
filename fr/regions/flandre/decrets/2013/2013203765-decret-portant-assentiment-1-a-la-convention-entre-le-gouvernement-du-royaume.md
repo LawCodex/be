@@ -13,7 +13,7 @@ entry_into_force: 2013-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/07/2013203765/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 2013. - Décret portant assentiment : 1° à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Singapour tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et au Protocole, signés à Singapour le 6 novembre 2006, signés à Bruxelles le 6 novembre 2006, telle que modifiée par le protocole du 16 juillet 2009; 2° au protocole modifiant la Convention, visée au 1°, signé à Bruxelles le 16 juillet 2009

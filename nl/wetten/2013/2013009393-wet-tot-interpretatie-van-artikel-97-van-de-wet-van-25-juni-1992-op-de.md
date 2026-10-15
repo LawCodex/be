@@ -12,7 +12,7 @@ entry_into_force: 2013-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/19/2013009393/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2013. - Wet tot interpretatie van artikel 97 van de wet van 25 juni 1992 op de landverzekeringsovereenkomst

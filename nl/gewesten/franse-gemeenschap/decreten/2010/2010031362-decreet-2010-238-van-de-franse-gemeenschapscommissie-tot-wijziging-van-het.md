@@ -13,7 +13,7 @@ entry_into_force: 2010-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/07/16/2010031362/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2010. - Decreet 2010/238 van de Franse Gemeenschapscommissie tot wijziging van het decreet van 22 maart 2007 betreffende het te voeren beleid inzake de huisvesting en het onthaal van bejaarden

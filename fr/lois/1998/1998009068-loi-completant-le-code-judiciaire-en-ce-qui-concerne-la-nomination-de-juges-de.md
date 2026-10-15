@@ -12,7 +12,7 @@ entry_into_force: 1998-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/02/10/1998009068/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 1998. - Loi complétant le Code judiciaire en ce qui concerne la nomination de juges de complément.

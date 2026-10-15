@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/23/2017020024/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2016. - Décret modifiant le Code flamand de la Fiscalité du 13 décembre 2013, pour ce qui concerne le remboursement de la taxe de circulation pour le transport combiné

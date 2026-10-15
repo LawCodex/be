@@ -13,7 +13,7 @@ entry_into_force: 2022-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/15/2022015547/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2022. - Décret portant assentiment à l'accord de coopération du 12 mai 2022 modifiant l'accord de coopération du 20 décembre 2018 conclu entre la Communauté flamande, la Commission communautaire française et la Commission communautaire commune relatif au parcours d'accueil obligatoire des primo-arrivants à Bruxelles-Capitale

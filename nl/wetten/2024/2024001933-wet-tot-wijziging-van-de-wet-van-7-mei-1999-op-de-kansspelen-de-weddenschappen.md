@@ -11,7 +11,7 @@ published: 2024-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/02/18/2024001933/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEBRUARI 2024. - Wet tot wijziging van de wet van 7 mei 1999 op de kansspelen, de weddenschappen, de kansspelinrichtingen en de bescherming van de spelers

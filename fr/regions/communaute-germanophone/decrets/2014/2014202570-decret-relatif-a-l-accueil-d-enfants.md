@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/31/2014202570/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 02-07-2014 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2014. - Décret relatif à l'accueil d'enfants

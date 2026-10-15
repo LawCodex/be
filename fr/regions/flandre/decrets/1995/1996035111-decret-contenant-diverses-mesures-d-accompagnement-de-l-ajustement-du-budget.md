@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "Consultation des versions antérieur à partir du 06-02-1996 et mise à jour au 31-05-2006"
   - "Consultation des versions antérieures à partir du 06-02-1996 et mise à jour au 29-12-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 1995. - Décret contenant diverses mesures d'accompagnement de l'ajustement du budget 1995 (TRADUCTION).

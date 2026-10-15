@@ -12,7 +12,7 @@ entry_into_force: 1994-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/03/16/1994015081/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 1994. - Loi portant approbation du Protocole facultatif se rapportant au Pacte international relatif aux droits civils et politiques, fait à New York le 19 décembre 1966.

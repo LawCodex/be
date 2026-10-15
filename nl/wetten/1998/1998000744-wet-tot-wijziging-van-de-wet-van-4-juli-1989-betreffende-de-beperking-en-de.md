@@ -12,7 +12,7 @@ entry_into_force: 1998-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/11/19/1998000744/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 1998. - Wet tot wijziging van de wet van 4 juli 1989 betreffende de beperking en de controle van de verkiezingsuitgaven voor de verkiezingen van de federale Kamers, de financiering en de open boekhouding van de politieke partijen.

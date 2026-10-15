@@ -13,7 +13,7 @@ entry_into_force: 2025-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/11/13/2025008743/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2025. - Décret portant assentiment à l'accord de coopération du 3 octobre 2025 modifiant l'accord de coopération du 31 décembre 2018 entre la Communauté flamande, la Région wallonne, la Communauté française, la Commission communautaire commune, la Commission communautaire française et la Communauté germanophone concernant le financement des soins en cas de recours à des institutions de soins en dehors des limites de l'entité fédérée

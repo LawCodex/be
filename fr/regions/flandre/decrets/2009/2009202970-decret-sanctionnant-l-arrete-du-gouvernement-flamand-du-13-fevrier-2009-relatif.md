@@ -13,7 +13,7 @@ entry_into_force: 2009-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009202970/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret sanctionnant l'arrêté du Gouvernement flamand du 13 février 2009 relatif aux objectifs finaux et aux objectifs de développement dans l'enseignement fondamental et secondaire

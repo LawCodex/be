@@ -12,7 +12,7 @@ entry_into_force: 1996-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/08/04/1996022530/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1996. - Loi modifiant la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994.

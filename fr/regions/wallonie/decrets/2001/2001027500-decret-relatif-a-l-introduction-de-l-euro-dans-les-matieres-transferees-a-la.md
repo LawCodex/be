@@ -13,7 +13,7 @@ entry_into_force: 2001-09-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/18/2001027500/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2001. - Décret relatif à l'introduction de l'euro dans les matières transférées à la Région wallonne en vertu de l'article 138 de la Constitution.

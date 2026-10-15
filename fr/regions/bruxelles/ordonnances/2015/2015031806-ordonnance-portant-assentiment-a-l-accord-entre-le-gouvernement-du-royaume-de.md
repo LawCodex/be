@@ -13,7 +13,7 @@ entry_into_force: 2015-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/11/20/2015031806/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2015. - Ordonnance portant assentiment à : l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de l'Ukraine sur le transport routier, signé à Kiev le 28 juillet 1997

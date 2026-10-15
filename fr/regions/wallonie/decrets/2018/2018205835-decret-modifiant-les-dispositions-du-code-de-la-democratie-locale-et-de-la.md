@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/10/04/2018205835/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 OCTOBRE 2018. - Décret modifiant les dispositions du Code de la démocratie locale et de la décentralisation relatives aux subventions à certains investissements d'intérêt public

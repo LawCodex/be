@@ -13,7 +13,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009029390/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret modifiant le décret du 31 mars 2004 relatif aux aides attribuées à la presse quotidienne écrite francophone et au développement d'initiatives de la presse quotidienne écrite francophone en milieu scolaire

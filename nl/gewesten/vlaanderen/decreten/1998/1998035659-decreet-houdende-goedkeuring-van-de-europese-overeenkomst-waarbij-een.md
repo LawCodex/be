@@ -13,7 +13,7 @@ entry_into_force: 1998-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/05/26/1998035659/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 1998. - Decreet houdende goedkeuring van de Europese Overeenkomst waarbij een associatie wordt tot stand gebracht tussen de Europese Gemeenschappen en hun lidstaten enerzijds, en de Republiek Slovenië anderzijds, de Bijlagen I, II, III, IV, V, VI, VII, VIIIa, VIIIb, IXa, IXb, IXc, X, XI, XII en XIII, de Protocollen 1, 2, 3, 4, 5 en 6 met de slotakte, ondertekend in Luxemburg op 10 juni 1996.

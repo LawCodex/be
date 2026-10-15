@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/18/2017204094/justel"
 department: "Sécurité sociale - Défense Nationale"
 justel_note: "Consultation des versions antérieures à partir du 04-08-2017 et mise à jour au 05-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2017. - Loi relative à la création du statut de solidarité nationale, à l'octroi d'une pension de dédommagement et au remboursement des soins médicaux à la suite d'actes de terrorisme

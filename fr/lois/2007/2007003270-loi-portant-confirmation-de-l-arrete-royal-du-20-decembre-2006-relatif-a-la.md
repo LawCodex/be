@@ -12,7 +12,7 @@ entry_into_force: 2007-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/15/2007003270/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2007. - Loi portant confirmation de l'arrêté royal du 20 décembre 2006 relatif à la contribution aux frais de fonctionnement, de personnel et d'installation de la commission des jeux de hasard due par les titulaires de licences de classe A, B, C et E pour l'année civile 2007.

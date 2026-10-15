@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/11/22/1996035111/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 06-02-1996 en tekstbijwerking tot 29-12-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 1995. - Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 1995.

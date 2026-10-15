@@ -12,7 +12,7 @@ entry_into_force: 1985-10-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/02/21/2006015049/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2006. - Wet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Organisatie voor Afrikaanse Eenheid, ondertekend te Brussel op 9 oktober 1985 en met de Uitwisseling van brieven van 9 oktober 1985 en van 29 juni 1998 tussen het Koninkrijk België en de Organisatie voor Afrikaanse Eenheid.

@@ -11,7 +11,7 @@ published: 1969-07-08
 entry_into_force: 1944-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1969/06/24/1969062407/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 1969. - Wet betreffende de schadevergoeding wegens arbeidsongevallen welke zich tussen 10 mei 1940 en 30 september 1944, onder de gelding van de Duitse wetgeving, voorgedaan hebben in de door het Duitse Rijk aangehechte Belgische gebieden.

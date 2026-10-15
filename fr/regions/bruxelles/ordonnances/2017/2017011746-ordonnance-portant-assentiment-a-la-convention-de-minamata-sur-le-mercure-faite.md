@@ -13,7 +13,7 @@ entry_into_force: 2017-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/04/20/2017011746/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2017. - Ordonnance portant assentiment à la Convention de Minamata sur le mercure, faite à Kumamoto (Japon), le 10 octobre 2013

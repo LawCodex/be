@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/12/20/2019010021/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2018. - Loi fixant le contingent de l'armée pour l'année 2019

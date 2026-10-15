@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/02/21/2020020502/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 12-03-2020 et mise à jour au 29-12-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2020. - Loi introduisant diverses dispositions fiscales transitoires en ce qui concerne le retrait du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord de l'Union européenne

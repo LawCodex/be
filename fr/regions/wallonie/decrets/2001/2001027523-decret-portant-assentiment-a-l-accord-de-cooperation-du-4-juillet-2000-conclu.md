@@ -13,7 +13,7 @@ entry_into_force: 2000-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/18/2001027523/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2001. - Décret portant assentiment à l'accord de coopération du 4 juillet 2000 conclu entre l'Etat, les Régions et la Communauté germanophone relatif à l'économie sociale.

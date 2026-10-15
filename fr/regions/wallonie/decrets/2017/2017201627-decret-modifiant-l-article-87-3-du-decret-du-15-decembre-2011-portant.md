@@ -13,7 +13,7 @@ entry_into_force: 2017-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/16/2017201627/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2017. - Décret modifiant l'article 87, § 3, du décret du 15 décembre 2011 portant organisation du budget, de la comptabilité et du rapportage des unités d'administration publique wallonnes

@@ -13,7 +13,7 @@ entry_into_force: 2007-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/11/17/2006204111/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2006. - Décret portant assentiment à l'Accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats membres, d'une part, et la République du Tadjikistan, d'autre part, fait à Luxembourg le 11 octobre 2004.

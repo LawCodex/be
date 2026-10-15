@@ -12,7 +12,7 @@ entry_into_force: 2010-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/12/23/2009021136/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2009. - Wet tot invoeging van een nieuw boek betreffende de motivering, de informatie en de rechtsmiddelen in de wet van 24 december 1993 betreffende de overheidsopdrachten en sommige opdrachten voor aanneming van werken, leveringen en diensten

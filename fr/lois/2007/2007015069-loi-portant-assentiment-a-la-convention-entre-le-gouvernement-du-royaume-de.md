@@ -12,7 +12,7 @@ entry_into_force: 2008-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/21/2007015069/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2007. - Loi portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République d'Albanie relative à la coopération policière, signée à Bruxelles le 22 mars 2005.

@@ -13,7 +13,7 @@ entry_into_force: 2001-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/13/2001029580/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2001. - Decreet tot wijziging van artikel 47 van het decreet van 17 juli 1987 over de Audiovisuele Sector (VERTALING).

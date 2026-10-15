@@ -12,7 +12,7 @@ published: 2022-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/01/13/2022040056/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JANUARI 2022. - Decreet tot opheffing van de artikelen 79/1 tot 79/26 van het decreet van 24 juli 1997 dat de prioritaire opdrachten bepaalt van het basisonderwijs en van het secundair onderwijs en de structuren organiseert die het mogelijk maken ze uit te voeren, en tot invoeging in het Wetboek voor het basis- en secundair onderwijs van de bepalingen betreffende de inschrijving in het eerste jaar van het secundair onderwijs

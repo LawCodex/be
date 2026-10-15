@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/27/2022204377/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 27-07-2022 et mise à jour au 06-06-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2022. - Décret relatif à l'allocation de soins pour personnes âgées

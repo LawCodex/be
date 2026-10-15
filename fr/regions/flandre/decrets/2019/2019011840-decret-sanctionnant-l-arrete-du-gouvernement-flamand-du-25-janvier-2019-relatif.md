@@ -13,7 +13,7 @@ entry_into_force: 2019-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/05/2019011840/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 2019. - Décret sanctionnant l'arrêté du Gouvernement flamand du 25 janvier 2019 relatif au projet temporaire " Transport scolaire dans l'enseignement spécial "

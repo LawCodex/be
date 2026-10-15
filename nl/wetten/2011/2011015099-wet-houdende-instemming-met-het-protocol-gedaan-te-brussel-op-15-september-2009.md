@@ -12,7 +12,7 @@ entry_into_force: 2013-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/08/19/2011015099/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AUGUSTUS 2011. - Wet houdende instemming met het Protocol, gedaan te Brussel op 15 september 2009, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Republiek Finland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 18 mei 1976, zoals gewijzigd door het Aanvullend Akkoord ondertekend te Brussel op 13 maart 1991, en houdende aanpassing van de Belgische belastingwetgeving aan sommige bepalingen van voornoemd Protocol

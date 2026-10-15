@@ -13,7 +13,7 @@ entry_into_force: 2017-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/04/28/2017020382/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2017. - Decreet houdende de invoering van begeleidende maatregelen ter bevordering van de performante werking van de sociale woonorganisaties

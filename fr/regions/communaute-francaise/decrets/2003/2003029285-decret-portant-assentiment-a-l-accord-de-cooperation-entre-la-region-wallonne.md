@@ -13,7 +13,7 @@ entry_into_force: 2003-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/05/08/2003029285/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2003. - Décret portant assentiment à l'Accord de coopération entre la Région wallonne, la Communauté française, la Communauté germanophone et la Commission communautaire française de la Région de Bruxelles-Capitale relatif à la création du Conseil Wallonie-Bruxelles de la Coopération internationale, fait à Namur le 1er juillet 2002.

@@ -12,7 +12,7 @@ entry_into_force: 2022-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/05/08/2022041207/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2022. - Loi portant des dispositions diverses en matière d'intermédiation dans le secteur financier et des assurances

@@ -13,7 +13,7 @@ entry_into_force: 2019-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/29/2019012091/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2019. - Decreet tot wijziging van diverse bepalingen betreffende het woonbeleid

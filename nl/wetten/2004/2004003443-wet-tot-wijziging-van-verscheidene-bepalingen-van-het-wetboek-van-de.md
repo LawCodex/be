@@ -11,7 +11,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/11/16/2004003443/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 2004. - Wet tot wijziging van verscheidene bepalingen van het Wetboek van de inkomstenbelastingen 1992 teneinde de giften in geld aan erkende instellingen voor duurzame ontwikkeling fiscaal aftrekbaar te maken.

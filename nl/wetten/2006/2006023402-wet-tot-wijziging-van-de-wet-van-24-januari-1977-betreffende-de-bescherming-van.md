@@ -12,7 +12,7 @@ entry_into_force: 2007-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/11/17/2006023402/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2006. - Wet tot wijziging van de wet van 24 januari 1977 betreffende de bescherming van de gezondheid van de gebruikers op het stuk van de voedingsmiddelen en andere producten.

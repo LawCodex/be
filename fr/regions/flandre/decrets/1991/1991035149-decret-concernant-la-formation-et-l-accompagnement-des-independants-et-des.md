@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/01/23/1991035149/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-10-1998 et mise à jour au 09-06-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 1991. - Décret concernant la formation et l'accompagnement des indépendants et des petites et moyennes entreprises. (Traduction)

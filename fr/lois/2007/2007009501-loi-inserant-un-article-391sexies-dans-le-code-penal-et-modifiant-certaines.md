@@ -12,7 +12,7 @@ entry_into_force: 2007-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/25/2007009501/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2007. - Loi insérant un article 391sexies dans le Code pénal et modifiant certaines dispositions du Code civil en vue d'incriminer et d'élargir les moyens d'annuler le mariage forcé.

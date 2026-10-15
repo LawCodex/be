@@ -13,7 +13,7 @@ entry_into_force: 2013-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/21/2013204062/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2013. - Decreet houdende instemming met : 1° het Verdrag tot oprichting van het Europees Bureau voor Radiocommunicatie (EBR), opgemaakt in 's Gravenhage op 23 juni 1993, en 2° de akte van wijziging van het Verdrag tot oprichting van het Europees Bureau voor Radiocommunicatie (EBR), en de bijlage, opgemaakt in Kopenhagen op 17 december 2002

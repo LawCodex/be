@@ -13,7 +13,7 @@ entry_into_force: 2018-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/06/2018013039/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2018. - Decreet houdende instemming met : 1° de overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Staat Qatar tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, en van het protocol, ondertekend te Doha op 6 november 2007, zoals gewijzigd door het protocol, ondertekend te Doha op 22 maart 2015; 2° het protocol, ondertekend te Doha op 22 maart 2015, tot wijziging van de onder 1° vermelde overeenkomst

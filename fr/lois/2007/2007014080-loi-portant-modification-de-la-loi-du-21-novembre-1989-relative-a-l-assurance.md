@@ -12,7 +12,7 @@ entry_into_force: 2007-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/12/2007014080/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2007. - Loi portant modification de la loi du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs.

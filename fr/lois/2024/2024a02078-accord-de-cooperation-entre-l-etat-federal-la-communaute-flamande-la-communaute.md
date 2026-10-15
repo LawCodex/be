@@ -11,7 +11,7 @@ published: 2024-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/22/2024A02078/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2024. - Accord de coopération entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune, la Région wallonne et la Commission communautaire française concernant le traitement de données relatives à CoBRHA+

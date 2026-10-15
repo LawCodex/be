@@ -13,7 +13,7 @@ entry_into_force: 1996-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/03/06/1996027319/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 1996. - Decreet houdende eindregeling van de begroting van het Waalse Gewest voor het begrotingsjaar 1992. (VERTALING)

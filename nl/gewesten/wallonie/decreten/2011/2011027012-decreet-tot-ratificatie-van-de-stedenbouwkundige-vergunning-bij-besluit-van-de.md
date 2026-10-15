@@ -13,7 +13,7 @@ entry_into_force: 2011-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/01/20/2011027012/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 2011. - Decreet tot ratificatie van de stedenbouwkundige vergunning, bij besluit van de gemachtigd ambtenaar op 16 juli 2010 toegekend aan de NV Infrabel voor de bouw van een stationshal en de inrichting van de nabije omgeving van het GEN-station - lijn 124 te 1410 Waterloo

@@ -13,7 +13,7 @@ entry_into_force: 2014-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/02/27/2014031198/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2014. - Ordonnance portant assentiment : - à l'amendement à la Convention internationale du 7 mars 1966 sur l'élimination de toutes les formes de discrimination raciale; - à l'amendement à la Convention du 18 décembre 1979 sur l'élimination de toutes les formes de discrimination à l'égard des femmes; et - aux amendements à la Convention du 10 décembre 1984 contre la torture et autres peines ou traitements cruels, inhumains ou dégradants

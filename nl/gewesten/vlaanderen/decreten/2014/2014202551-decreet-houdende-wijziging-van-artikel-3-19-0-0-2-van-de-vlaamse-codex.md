@@ -13,7 +13,7 @@ entry_into_force: 2014-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/04/2014202551/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2014. - Decreet houdende wijziging van artikel 3.19.0.0.2 van de Vlaamse Codex Fiscaliteit, teneinde de informatiedeling over fiscale gegevens aan lokale besturen te optimaliseren

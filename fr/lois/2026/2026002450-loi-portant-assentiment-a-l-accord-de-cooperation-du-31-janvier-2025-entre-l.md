@@ -12,7 +12,7 @@ entry_into_force: 2026-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/02/12/2026002450/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2026. - Loi portant assentiment à l'accord de coopération du 31 janvier 2025 entre l'Etat fédéral, la Région wallonne, la Région flamande, la Région de Bruxelles-Capitale et la Communauté germanophone portant la création d'une plateforme électronique dans le cadre de la procédure de demande unique de séjour à des fins d'emploi des travailleurs salariés étrangers, la procédure de demande des travailleurs salariés et travailleurs indépendants étrangers et dans le cadre de la coordination des politiques relatives à l'emploi et au séjour des travailleurs salariés et travailleurs indépendants étrangers

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/13/2003035124/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2003 en tekstbijwerking tot 30-12-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2002. - Decreet tot vaststelling van de regels inzake de werking en de verdeling van het Vlaams Stedenfonds.

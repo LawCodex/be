@@ -12,7 +12,7 @@ entry_into_force: 1998-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/12/23/2000016005/justel"
 department: "Classes Moyennes - Agriculture"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1999. - Loi modifiant l'article 10 de la loi du 12 juillet 1976 relative à la réparation de certains dommages causés à des biens privés par des calamités naturelles.

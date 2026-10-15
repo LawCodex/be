@@ -11,7 +11,7 @@ published: 2013-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/08/17/2013204494/justel"
 department: "Volksgezondheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 AUGUSTUS 2013. - Wet betreffende de modernisering van het arbeidsrecht en houdende diverse bepalingen

@@ -12,7 +12,7 @@ entry_into_force: 2002-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/03/08/2002015073/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 2002. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de Macao relatif au transport aérien, et Annexe, signés à Bruxelles le 16 novembre 1994.

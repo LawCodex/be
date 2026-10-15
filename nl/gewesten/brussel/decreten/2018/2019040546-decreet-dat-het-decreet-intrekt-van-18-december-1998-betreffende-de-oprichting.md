@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/12/17/2019040546/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2018. - Decreet dat het decreet intrekt van 18 december 1998 betreffende de oprichting van een dienst met afzonderlijk beheer tot uitvoering van het beleid inzake de sociale integratie en de inschakeling in het arbeidsleven van mindervaliden en houdende wijziging van diverse andere bepalingen - 3de lezing

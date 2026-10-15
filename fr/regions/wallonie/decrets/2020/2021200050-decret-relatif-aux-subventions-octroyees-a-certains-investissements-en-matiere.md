@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/03/2021200050/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 13-01-2021 et mise à jour au 21-02-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2020. - Décret relatif aux subventions octroyées à certains investissements en matière d'infrastructures sportives et abrogeant le décret du 25 février 1999 relatif aux subventions octroyées à certains investissements en matière d'infrastructures sportives

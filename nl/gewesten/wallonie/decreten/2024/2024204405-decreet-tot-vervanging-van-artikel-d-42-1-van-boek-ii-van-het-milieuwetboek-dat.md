@@ -13,7 +13,7 @@ entry_into_force: 2024-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/25/2024204405/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2024. - Decreet tot vervanging van artikel D.42-1 van Boek II van het Milieuwetboek, dat het Waterwetboek inhoudt

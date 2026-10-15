@@ -12,7 +12,7 @@ entry_into_force: 2003-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/09/29/2006015150/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 SEPTEMBRE 2006. - Loi portant assentiment à l'Accord de Siège entre le Royaume de Belgique et le International Plant Genetic Resources Institute, signé à Bruxelles, le 15 octobre 2003

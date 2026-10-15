@@ -12,7 +12,7 @@ entry_into_force: 2003-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/02/10/2000015043/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2000. - Wet houdende instemming met de Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun lid-Staten, enerzijds, en Turkmenistan, anderzijds, de Bijlagen I, II, III, IV en V, het Protocol betreffende wederzijdse administratieve bijstand in douanezaken, en de Slotakte, gedaan te Brussel op 25 mei 1998.

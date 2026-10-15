@@ -12,7 +12,7 @@ entry_into_force: 1997-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/12/19/1997022745/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1996. - Wet tot wijziging van de wet van 14 juli 1994 betreffende de financiering van het Instituut voor veterinaire keuring.

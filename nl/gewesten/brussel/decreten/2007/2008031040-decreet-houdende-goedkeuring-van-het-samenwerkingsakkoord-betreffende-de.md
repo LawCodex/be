@@ -13,7 +13,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/10/25/2008031040/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 OKTOBER 2007. - Decreet houdende goedkeuring van het samenwerkingsakkoord betreffende de uitvoering en het beheer van het geïntegreerd communautair actieprogramma voor levenslang leren en betreffende de oprichting van het " Agence francophone pour l'éducation et la formation tout au long de la vie ", gesloten tussen de Franse Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest (VERTALING).

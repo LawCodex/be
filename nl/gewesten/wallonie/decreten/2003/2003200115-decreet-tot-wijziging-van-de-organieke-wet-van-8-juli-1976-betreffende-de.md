@@ -13,7 +13,7 @@ entry_into_force: 2003-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/02/06/2003200115/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2003. - Decreet tot wijziging van de organieke wet van 8 juli 1976 betreffende de Openbare Centra voor Maatschappelijk Welzijn (VERTALING).

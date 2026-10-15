@@ -11,7 +11,7 @@ entry_into_force: 2006-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/10/17/2006015157/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 OKTOBER 2006. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en Australië inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het diplomatiek en consulair personeel, ondertekend te Sydney op 19 november 2002, en met de uitwisseling van nota's, gedagtekend op 4 april 2005 en op 29 augustus 2005.

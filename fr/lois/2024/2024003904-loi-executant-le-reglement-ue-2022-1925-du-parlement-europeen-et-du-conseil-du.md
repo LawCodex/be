@@ -12,7 +12,7 @@ entry_into_force: 2024-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/29/2024003904/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2024. - Loi exécutant le règlement (UE) 2022/1925 du Parlement européen et du Conseil du 14 septembre 2022 relatif aux marchés contestables et équitables dans le secteur numérique et modifiant les directives (UE) 2019/1937 et (UE) 2020/1828 et modifiant diverses dispositions relatives à l'organisation et aux pouvoirs de l'Autorité belge de la concurrence

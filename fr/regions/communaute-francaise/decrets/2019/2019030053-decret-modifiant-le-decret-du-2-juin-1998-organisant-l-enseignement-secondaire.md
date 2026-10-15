@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/01/10/2019030053/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 25-01-2019 et mise à jour au 01-07-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2019. - Décret modifiant le décret du 2 juin 1998 organisant l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française

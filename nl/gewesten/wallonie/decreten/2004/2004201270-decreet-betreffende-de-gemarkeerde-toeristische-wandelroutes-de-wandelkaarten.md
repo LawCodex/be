@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/01/2004201270/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 06-09-2005 en tekstbijwerking tot 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2004. - Decreet betreffende de gemarkeerde toeristische wandelroutes, de wandelkaarten en de routebeschrijvingen (VERTALING).

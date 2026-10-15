@@ -13,7 +13,7 @@ entry_into_force: 2009-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/03/2009201747/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2009. - Decreet houdende wijziging van het decreet van 14 juli 1993 tot oprichting van het Grindfonds en tot regeling van de grindwinning

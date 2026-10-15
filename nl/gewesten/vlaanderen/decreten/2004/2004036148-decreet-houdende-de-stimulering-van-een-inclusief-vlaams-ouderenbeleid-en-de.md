@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/30/2004036148/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 21-02-2005 en tekstbijwerking tot 08-01-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2004. - Decreet houdende de stimulering van een inclusief Vlaams ouderenbeleid en de beleidsparticipatie van ouderen.

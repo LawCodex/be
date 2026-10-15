@@ -13,7 +13,7 @@ entry_into_force: 2016-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/12/18/2015031903/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2015. - Ordonnantie tot wijziging van de ordonnantie van 2 mei 2013 houdende het Brusselse Wetboek van Lucht, Klimaat en Energiebeheersing

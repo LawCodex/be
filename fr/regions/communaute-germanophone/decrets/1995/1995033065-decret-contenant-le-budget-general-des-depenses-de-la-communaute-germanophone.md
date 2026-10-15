@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/01/18/1995033065/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 22-08-1995 et mise à jour au 17-04-1996"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 1995. - Décret contenant le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 1995. (Traduction)

@@ -13,7 +13,7 @@ entry_into_force: 2017-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/12/07/2017014285/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2017. - Ordonnantie houdende instemming met het Samenwerkingsakkoord van 17 juli 2017 tussen het Brussels Hoofdstedelijk Gewest, het Vlaams Gewest, het Waals Gewest en de Duitstalige Gemeenschap, met betrekking tot de erkende plaatselijke geloofsgemeenschappen van erkende erediensten waarvan het grondgebied meer dan één deelstaat bestrijkt

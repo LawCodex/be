@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/02/18/2016201050/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 FEBRUARI 2016. - Decreet waarbij bepalingen betreffende de centra voor de coördinatie van thuiszorg en hulp in het Waalse Wetboek van Sociale Actie en Gezondheid ingevoegd worden

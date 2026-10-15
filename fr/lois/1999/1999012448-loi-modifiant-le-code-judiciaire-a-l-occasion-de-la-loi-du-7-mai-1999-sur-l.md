@@ -12,7 +12,7 @@ entry_into_force: 1999-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999012448/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 1999. - Loi modifiant le Code judiciaire à l'occasion de la loi du 7 mai 1999 sur l'égalité de traitement entre hommes et femmes en ce qui concerne les conditions de travail, l'accès à l'emploi et aux possibilités de promotion, l'accès à une profession indépendante et les régimes complémentaires de sécurité sociale.

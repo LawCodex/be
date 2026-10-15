@@ -13,7 +13,7 @@ entry_into_force: 2022-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/17/2022032576/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2022. - Décret modifiant l'article 4.1.16/2 du Décret sur l'Energie du 8 mai 2009

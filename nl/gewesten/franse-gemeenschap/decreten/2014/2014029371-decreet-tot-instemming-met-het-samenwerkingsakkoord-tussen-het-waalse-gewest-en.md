@@ -13,7 +13,7 @@ entry_into_force: 2014-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/11/2014029371/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2014. - Decreet tot instemming met het samenwerkingsakkoord tussen het Waalse Gewest en de Franse Gemeenschap betreffende de oprichting en de ontwikkeling van collectieve structuren van het hoger onderwijs voor de activiteiten inzake een voortgezette vorming en een leven lang leren

@@ -12,7 +12,7 @@ entry_into_force: 1980-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1981/02/16/1981000365/justel"
 department: "Middenstand"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 1981. \_ Wet van 16 februari 1981 tot wijziging van het koninklijk besluit nr. 72 van 10 november 1967 betreffende het rust- en overlevingspensioen der zelfstandigen.

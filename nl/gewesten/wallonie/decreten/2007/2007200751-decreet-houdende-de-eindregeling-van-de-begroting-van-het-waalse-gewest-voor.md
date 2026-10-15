@@ -13,7 +13,7 @@ entry_into_force: 2007-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/02/08/2007200751/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 2007. - Decreet houdende de eindregeling van de begroting van het Waalse Gewest voor het jaar 2000 (VERTALING).

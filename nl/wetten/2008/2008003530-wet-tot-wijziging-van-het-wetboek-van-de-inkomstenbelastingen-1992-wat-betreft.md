@@ -12,7 +12,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/12/24/2008003530/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2008. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992 wat betreft de aanrekening van de fiscale aftrek van de hypothecaire lening van de enige woning.

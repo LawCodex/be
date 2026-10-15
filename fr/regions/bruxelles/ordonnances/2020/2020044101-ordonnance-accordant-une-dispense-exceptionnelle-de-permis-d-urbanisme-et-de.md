@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/12/04/2020044101/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 07-12-2020 et mise à jour au 18-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2020. - Ordonnance accordant une dispense exceptionnelle de permis d'urbanisme et de permis d'environnement au SPF Justice pour l'utilisation temporaire de l'ancien siège de l'OTAN à des fins juridictionnelles

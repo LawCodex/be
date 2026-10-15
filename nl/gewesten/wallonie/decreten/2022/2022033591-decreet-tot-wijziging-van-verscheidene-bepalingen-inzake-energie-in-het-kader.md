@@ -13,7 +13,7 @@ entry_into_force: 2022-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/05/05/2022033591/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2022. - Decreet tot wijziging van verscheidene bepalingen inzake energie in het kader van de gedeeltelijke omzetting van richtlijnen 2019/944/EU van 5 juni 2019 betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en 2018/2001/EU van 11 december 2018 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en met het oog op de aanpassing van de beginselen betreffende de tariefmethodologie

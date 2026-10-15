@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/05/16/2014031476/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 16-04-2024 et mise à jour au 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2014. - Ordonnance portant intégration de la dimension de genre dans les lignes politiques de la Commission communautaire commune

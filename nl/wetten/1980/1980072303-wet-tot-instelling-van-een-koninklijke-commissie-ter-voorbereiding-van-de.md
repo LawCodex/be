@@ -10,7 +10,7 @@ date: 1980-07-23
 published: 1980-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1980/07/23/1980072303/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 1980. - Wet tot instelling van een Koninklijke Commissie ter voorbereiding van de codificering, de harmonisering en de vereenvoudiging van de sociale zekerheid in het kader van de algemene hervorming van die wetgeving.

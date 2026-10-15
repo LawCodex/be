@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/07/03/2003029415/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 19-08-2003 en tekstbijwerking tot 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2003. - Decreet betreffende de coördinatie van de opvang van de kinderen tijdens hun vrije tijd en betreffende de ondersteuning van de buitenschoolse opvang. (Vertaling).

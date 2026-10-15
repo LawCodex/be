@@ -12,7 +12,7 @@ entry_into_force: 1995-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/07/1995003314/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 1995. - Loi modifiant la loi du 11 janvier 1993 relative à la prévention de l'utilisation du système financier aux fins du blanchiment de capitaux.

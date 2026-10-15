@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/22/2011200519/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 03-02-2011 en tekstbijwerking tot 08-10-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2010. - Decreet betreffende de Waalse infrastructuur voor ruimtelijke informatie

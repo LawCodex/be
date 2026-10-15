@@ -11,7 +11,7 @@ published: 2012-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/19/2012204228/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2012. - Bijzondere wet tot wijziging van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen betreffende de uitbreiding van de constitutieve autonomie van de Vlaamse Gemeenschap, het Waals Gewest en de Franse Gemeenschap

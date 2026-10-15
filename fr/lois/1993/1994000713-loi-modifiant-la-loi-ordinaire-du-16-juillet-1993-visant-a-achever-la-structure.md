@@ -12,7 +12,7 @@ entry_into_force: 1994-01-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/12/30/1994000713/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 1993. - Loi modifiant la loi ordinaire du 16 juillet 1993 visant à achever la structure fédérale de l'Etat, le Code électoral, la loi du 6 août 1931 établissant des incompatibilités et interdictions concernant les Ministres, anciens Ministres et Ministres d'Etat, ainsi que les membres et anciens membres des Chambres législatives, la loi du 23 mars 1989 relative à l'élection du Parlement européen, la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone et la loi du 19 octobre 1921 organique des élections provinciales.

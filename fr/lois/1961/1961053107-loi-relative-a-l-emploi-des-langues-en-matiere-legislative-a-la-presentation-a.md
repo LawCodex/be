@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1961/05/31/1961053107/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 13-06-2007 et mise à jour au 21-07-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 1961. - Loi relative à l'emploi des langues en matière législative, à la présentation, à la publication et à l'entrée en vigueur des textes légaux et réglementaires.

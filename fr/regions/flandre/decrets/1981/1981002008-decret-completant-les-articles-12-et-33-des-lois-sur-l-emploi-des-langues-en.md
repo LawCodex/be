@@ -13,7 +13,7 @@ entry_into_force: 1981-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1981/06/30/1981002008/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 1981. - Décret complétant les articles 12 et 33 des lois sur l'emploi des langues en matière administrative, coordonnées par l'arrêté royal du 18 juillet 1966, en ce qui concerne l'emploi des langues dans les rapports entre les services administratifs de la région linguistique néerlandaise et les particuliers. (Traduction).

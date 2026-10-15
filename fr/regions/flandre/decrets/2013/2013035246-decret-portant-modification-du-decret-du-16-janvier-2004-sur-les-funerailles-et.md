@@ -13,7 +13,7 @@ entry_into_force: 2013-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/02/22/2013035246/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 2013. - Décret portant modification du décret du 16 janvier 2004 sur les funérailles et sépultures, pour ce qui concerne la mention de l'existence d'un contrat d'obsèques dans l'acte de dernières volontés

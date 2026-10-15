@@ -13,7 +13,7 @@ entry_into_force: 2015-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/11/13/2015036436/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2015. - Décret portant des mesures urgentes et provisoires dans le cadre d'une augmentation du nombre de jeunes enfants allophones et en matière de flexibilisation des possibilités de programmation de l'enseignement d'accueil pour primo-arrivants allophones dans l'enseignement secondaire

@@ -11,7 +11,7 @@ published: 1956-12-09
 entry_into_force: 1956-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1956/07/11/1956071106/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 1956. - Wet tot wijziging van de besluitwet van 7 februari 1945 betreffende de maatschappelijke veiligheid van de zeelieden ter koopvaardij.

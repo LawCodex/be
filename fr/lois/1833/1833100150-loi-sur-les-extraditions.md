@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1833/10/01/1833100150/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 03-07-2007 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 OCTOBRE 1833. - Loi sur les extraditions.

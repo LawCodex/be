@@ -12,7 +12,7 @@ entry_into_force: 2022-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/09/21/2004015194/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 SEPTEMBRE 2004. - Loi portant assentiment à la Convention n° 130 concernant les soins médicaux et les indemnités de maladie, et à l'Annexe, adoptées à Genève le 25 juin 1969

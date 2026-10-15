@@ -12,7 +12,7 @@ entry_into_force: 2023-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/05/21/2023042232/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MEI 2023. - Wet houdende instemming met de Amendementen aan het Verdrag van 6 maart 1948 tot oprichting van een Intergouvernementele Maritieme Consultatieve Organisatie (IMO-Verdrag), aangenomen te Londen bij resolutie A.1152(32) tijdens de 32ste algemene vergadering van de IMO op 8 december 2021

@@ -13,7 +13,7 @@ entry_into_force: 2002-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/08/2002027664/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2002. - Decreet houdende instemming met het Samenwerkingsakkoord van 25 april 2002 tussen het Waalse Gewest, het Vlaamse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de invoering van een vermindering van de belasting op de inverkeersstelling (BIV) op grond van de emissienorm van de motor (zoals bepaald in Richtlijn 98/69/EG van 13 oktober 1998) of de aard van de aandrijvingsbrandstof, met inachtneming van de fiscale neutraliteit en ter voorkoming van de concurrentie tussen de Gewesten op het vlak van de inschrijving van de voertuigen (VERTALING).

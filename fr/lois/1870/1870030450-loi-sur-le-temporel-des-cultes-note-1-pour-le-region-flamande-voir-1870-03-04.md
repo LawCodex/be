@@ -13,7 +13,7 @@ last_amended: 2008-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1870/03/04/1870030450/justel"
 justel_note: "Consultation des versions antérieures à partir du 07-08-2002 et mise à jour au 01-09-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 1870. - Loi sur le temporel des cultes. (NOTE 1 : pour le Région flamande, voir 1870-03-04/34 ) (NOTE 2 : pour la Région de Bruxelles-Capitale, voir 1870-03-04/31 ) (NOTE 3 : pour la Communauté germanophone, voir 1870-03-04/32 ) (NOTE 3 : pour la Région wallonne, voir 1870-03-04/33 )

@@ -13,7 +13,7 @@ entry_into_force: 2023-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/28/2023042515/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2023. - Décret modifiant le décret du 25 février 1997 relatif à l'enseignement fondamental, le Code de l'enseignement secondaire du 17 décembre 2010 et le décret du 9 mars 2018 relatif à l'enseignement artistique à temps partiel, en ce qui concerne l'utilisation de données à caractère personnel dans l'enseignement fondamental, l'enseignement secondaire et l'enseignement artistique à temps partiel

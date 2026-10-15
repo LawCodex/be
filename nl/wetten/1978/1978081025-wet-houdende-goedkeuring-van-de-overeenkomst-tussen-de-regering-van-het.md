@@ -11,7 +11,7 @@ published: 1978-10-04
 entry_into_force: 1978-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1978/08/10/1978081025/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1978. - Wet houdende goedkeuring van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Socialistische Republiek Roemenië tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Boekarest op 14 oktober 1976.

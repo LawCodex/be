@@ -13,7 +13,7 @@ entry_into_force: 1996-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/10/24/1996036370/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OCTOBRE 1996. - Décret portant approbation de la Convention sur l'interdiction de la mise au point, du stockage et de l'emploi des armes chimiques et sur leur destruction et trois annexes, faite à Paris le 13 janvier 1993 (TRADUCTION).

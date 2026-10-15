@@ -13,7 +13,7 @@ entry_into_force: 2010-03-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/02/04/2010200970/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2010. - Decreet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Regering van de Staat Qatar, anderzijds, inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Doha op 6 november 2007

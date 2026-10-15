@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/05/08/2002035761/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2002. - Decreet houdende wijziging van verschillende bepalingen betreffende de haard- en standplaatstoelage en het vakantiegeld van het gemeente- en provinciepersoneel.

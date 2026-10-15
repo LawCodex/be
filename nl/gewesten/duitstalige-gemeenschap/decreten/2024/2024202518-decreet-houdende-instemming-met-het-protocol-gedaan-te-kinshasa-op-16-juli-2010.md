@@ -13,7 +13,7 @@ entry_into_force: 2024-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/22/2024202518/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2024. - Decreet houdende instemming met het Protocol, gedaan te Kinshasa op 16 juli 2010, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Democratische Republiek Congo tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken en het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 23 mei 2007

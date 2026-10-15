@@ -11,7 +11,7 @@ published: 1977-12-13
 entry_into_force: 1997-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1977/09/19/1977091903/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBRE 1977. - Loi portant approbation de la Convention entre le Royaume de Belgique et la République Socialiste Tchécoslovaque tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Prague le 19 juin 1975.

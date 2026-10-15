@@ -13,7 +13,7 @@ entry_into_force: 1997-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/12/05/1997027001/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 1996. - Decreet houdende goedkeuring van de overeenkomst tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens, en de drie bijlagen, opgemaakt te Parijs op 13 januari 1993 (VERTALING).

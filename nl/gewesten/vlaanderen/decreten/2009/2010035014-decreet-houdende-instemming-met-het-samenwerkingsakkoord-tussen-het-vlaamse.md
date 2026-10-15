@@ -13,7 +13,7 @@ entry_into_force: 2010-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/12/11/2010035014/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2009. - Decreet houdende instemming met het samenwerkingsakkoord tussen het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest tot wijziging van het samenwerkingsakkoord van 30 maart 2004 met betrekking tot de uitoefening van de geregionaliseerde bevoegdheden op het gebied van Landbouw en Visserij

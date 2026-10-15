@@ -12,7 +12,7 @@ published: 1997-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/08/1997036007/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 1997. - Decreet houdende aanpassing van de Middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 1997.

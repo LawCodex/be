@@ -13,7 +13,7 @@ entry_into_force: 2017-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/05/12/2017020356/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2017. - Decreet houdende wijziging van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering en van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming, wat betreft de datum van indiening van de begroting bij het Vlaams Parlement

@@ -12,7 +12,7 @@ entry_into_force: 2026-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/03/16/2026002190/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2026. - Loi modifiant la loi du 5 mars 1952 relative aux décimes additionnels sur les amendes pénales, le Code pénal social et diverses dispositions de droit pénal social

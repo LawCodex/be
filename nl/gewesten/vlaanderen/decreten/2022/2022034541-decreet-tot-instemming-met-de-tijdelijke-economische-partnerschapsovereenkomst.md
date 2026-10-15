@@ -13,7 +13,7 @@ entry_into_force: 2022-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/02/2022034541/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2022. - Decreet tot instemming met de tijdelijke economische partnerschapsovereenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en Centraal Afrika, anderzijds, ondertekend te Yaoundé op 15 januari 2009 en te Brussel op 22 januari 2009

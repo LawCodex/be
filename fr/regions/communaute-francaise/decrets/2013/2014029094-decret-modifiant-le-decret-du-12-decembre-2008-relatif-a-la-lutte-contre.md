@@ -13,7 +13,7 @@ entry_into_force: 2014-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/05/2014029094/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 2013. - Décret modifiant le décret du 12 décembre 2008 relatif à la lutte contre certaines formes de discrimination

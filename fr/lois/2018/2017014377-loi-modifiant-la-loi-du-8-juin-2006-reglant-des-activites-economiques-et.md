@@ -12,7 +12,7 @@ entry_into_force: 2018-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/01/07/2017014377/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANVIER 2018. - Loi modifiant la loi du 8 juin 2006 réglant des activités économiques et indivuelles avec des armes et le Code civil

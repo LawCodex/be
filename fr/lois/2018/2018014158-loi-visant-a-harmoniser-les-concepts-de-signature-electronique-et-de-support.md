@@ -12,7 +12,7 @@ entry_into_force: 2018-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/09/20/2018014158/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBRE 2018. - Loi visant à harmoniser les concepts de signature électronique et de support durable et à lever des obstacles à la conclusion de contrats par voie électronique

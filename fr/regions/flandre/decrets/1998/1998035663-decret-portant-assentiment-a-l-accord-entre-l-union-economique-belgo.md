@@ -13,7 +13,7 @@ entry_into_force: 1998-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/05/26/1998035663/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 1998. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République de la Géorgie concernant l'encouragement et la protection réciproque des investissements, signé à Bruxelles le 23 juin 1993 (TRADUCTION).

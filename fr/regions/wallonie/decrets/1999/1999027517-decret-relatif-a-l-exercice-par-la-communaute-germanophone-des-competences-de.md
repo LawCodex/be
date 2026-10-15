@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/06/1999027517/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 03-07-1999 et mise à jour au 29-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 1999. - Décret relatif à l'exercice, par la Communauté germanophone, des compétences de la Région wallonne en matière d'emploi et de fouilles

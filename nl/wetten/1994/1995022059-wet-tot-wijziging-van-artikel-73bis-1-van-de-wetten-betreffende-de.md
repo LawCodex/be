@@ -12,7 +12,7 @@ entry_into_force: 1995-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/12/09/1995022059/justel"
 department: "Sociale Voorzorg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 1994. - WET tot wijziging van artikel 73bis, § 1, van de wetten betreffende de kinderbijslag voor loonarbeiders, gecoördineerd op 19 december 1939

@@ -13,7 +13,7 @@ entry_into_force: 2014-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/14/2014035264/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEVRIER 2014. - Décret portant assentiment à la Convention-cadre du Conseil de l'Europe sur la valeur du patrimoine culturel pour la société, faite à Faro le 27 octobre 2005 et signée le 25 juin 2012

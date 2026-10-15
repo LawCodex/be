@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/16/2004009511/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 27-07-2004 et mise à jour au 12-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2004. - Loi portant le Code de droit international privé

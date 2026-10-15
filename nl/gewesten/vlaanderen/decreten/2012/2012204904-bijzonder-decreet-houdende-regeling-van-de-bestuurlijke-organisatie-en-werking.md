@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/13/2012204904/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 17-09-2012 en tekstbijwerking tot 25-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2012. - BIJZONDER DECREET houdende regeling van de bestuurlijke organisatie en werking van sommige publiekrechtelijke hogescholen

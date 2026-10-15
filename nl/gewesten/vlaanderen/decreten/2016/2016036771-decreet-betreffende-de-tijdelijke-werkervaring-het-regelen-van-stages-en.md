@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/09/2016036771/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2016. - Decreet betreffende de tijdelijke werkervaring, het regelen van stages en diverse bepalingen in het kader van de zesde staatshervorming (aangehaald als: Tijdelijkewerkervaringsdecreet van 9 december 2016)

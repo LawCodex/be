@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/06/23/2017012945/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2017. - Ordonnance portant assentiment : 1° à la Convention entre le Royaume de Belgique et la République du Rwanda tendant à éviter la double imposition et à prévenir la fraude et l'évasion fiscales en matière d'impôts sur le revenu et sur la fortune, et au Protocole, signés à Kigali le 16 avril 2007, tels que modifiés par le Protocole du 17 mai 2010; 2° au Protocole, fait à Bruxelles le 17 mai 2010, modifiant la Convention entre le Royaume de Belgique et la République du Rwanda tendant à éviter la double imposition et à prévenir la fraude et l'évasion fiscales en matière d'impôts sur le revenu et sur la fortune, et le Protocole, signés à Kigali le 16 avril 2007

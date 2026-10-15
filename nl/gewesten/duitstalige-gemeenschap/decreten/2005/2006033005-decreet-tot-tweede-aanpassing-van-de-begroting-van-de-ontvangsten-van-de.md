@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/05/2006033005/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 2005. - Decreet tot tweede aanpassing van de begroting van de ontvangsten van de Duitstalige Gemeenschap voor het begrotingsjaar 2005

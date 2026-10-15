@@ -10,7 +10,7 @@ date: 1970-07-17
 entry_into_force: 1970-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1970/07/17/1970071711/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 1970. - Wet houdende goedkeuring van het verdrag nopens de wet welke op onderhoudsverplichtingen jegens kinderen toepasselijk is, opgemaakt te 's-Gravenhage op 24 oktober 1956.

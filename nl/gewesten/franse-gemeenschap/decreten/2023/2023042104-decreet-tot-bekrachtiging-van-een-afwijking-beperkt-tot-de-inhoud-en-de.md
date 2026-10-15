@@ -12,7 +12,7 @@ entry_into_force: 2023-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/04/13/2023042104/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 2023. - Decreet tot bekrachtiging van een afwijking beperkt tot de inhoud en de verwachtingen bepaald in het referentiesysteem van de initiële competenties

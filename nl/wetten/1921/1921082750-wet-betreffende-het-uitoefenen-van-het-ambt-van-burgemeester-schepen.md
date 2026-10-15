@@ -10,7 +10,7 @@ date: 1921-08-27
 published: 1921-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1921/08/27/1921082750/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AUGUSTUS 1921. - Wet betreffende het uitoefenen van het ambt van burgemeester, schepen, gemeentesecretaris of -ontvanger, door de vrouwen.

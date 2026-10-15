@@ -13,7 +13,7 @@ entry_into_force: 2013-10-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/01/16/2015035107/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JANVIER 2015. - Décret portant assentiment à l'accord entre le Royaume de Belgique et l'Institut européen des Forêts concernant les privilèges et immunités du Bureau de Liaison de l'Institut européen des Forêts, signé à Bruxelles le 9 octobre 2013

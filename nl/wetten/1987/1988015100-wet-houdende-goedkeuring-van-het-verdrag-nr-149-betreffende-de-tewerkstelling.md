@@ -12,7 +12,7 @@ entry_into_force: 1988-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1987/10/09/1988015100/justel"
 department: "Buitenlandse Zaken - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 OKTOBER 1987. - Wet houdende goedkeuring van het Verdrag nr. 149 betreffende de tewerkstelling en de arbeids- en levensomstandigheden van het verplegend personeel, aangenomen te Genève op 21 juni 1977 door de Internationale Arbeidsconferentie tijdens haar drieënzestigste Zitting.

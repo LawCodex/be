@@ -12,7 +12,7 @@ entry_into_force: 2021-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/03/16/2021040955/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2021. - Loi reportant l'entrée en vigueur des dispositions relatives au statut juridique externe des personnes condamnées à une peine privative de liberté pour les peines privatives de liberté de trois ans ou moins

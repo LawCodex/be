@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/01/09/2007003027/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 23-01-2007 en tekstbijwerking tot 04-07-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 2007. - Wet houdende toekenning van een toelage voor het aanschaffen van huisbrandolie, van propaangas in bulk, van lamppetroleum en van aardgas bestemd voor de verwarming van een privéwoning

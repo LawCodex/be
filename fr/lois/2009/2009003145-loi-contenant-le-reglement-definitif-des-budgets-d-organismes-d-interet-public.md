@@ -12,7 +12,7 @@ entry_into_force: 2009-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/04/01/2009003145/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2009. - Loi contenant le règlement définitif des budgets d'organismes d'intérêt public pour l'année 2001 et certaines années antérieures

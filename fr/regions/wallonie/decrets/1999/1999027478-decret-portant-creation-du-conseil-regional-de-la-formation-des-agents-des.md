@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/06/1999027478/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 22-06-1999 et mise à jour au 18-12-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 1999. - Décret portant création du Conseil régional de la formation des agents des administrations locales et provinciales de Wallonie

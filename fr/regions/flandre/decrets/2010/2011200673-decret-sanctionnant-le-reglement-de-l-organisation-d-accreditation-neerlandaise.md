@@ -13,7 +13,7 @@ entry_into_force: 2009-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/23/2011200673/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2010. - Décret sanctionnant le règlement de l'Organisation d'accréditation néerlandaise-flamande modifiant le règlement de l'Organisation d'accréditation néerlandaise-flamande du 19 février 2005 fixant les principes d'administration s'appliquant à la prise de décision relative à l'accréditation et à l'évaluation nouvelle formation pour ce qui est des formations dans l'enseignement supérieur en Communauté flamande

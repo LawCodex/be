@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/03/29/2024003936/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 29-04-2024 en tekstbijwerking tot 17-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2024. - Wet betreffende de oprichting en de organisatie van de opdrachten van ETIAS Nationale Eenheid (E.N.E.)

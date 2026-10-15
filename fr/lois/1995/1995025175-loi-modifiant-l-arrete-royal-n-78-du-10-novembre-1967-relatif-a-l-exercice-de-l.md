@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/06/1995025175/justel"
 department: "Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 16-06-1995 et mise à jour au 25-12-1997."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1995. - Loi modifiant l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice de l'art de guérir, de l'art infirmier, des professions paramédicales et aux commissions médicales, en vue de la réglementation de l'exercice de la kinésithérapie. -

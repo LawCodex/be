@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/17/2021200037/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 15-01-2021 en tekstbijwerking tot 04-10-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2020. - Decreet betreffende de toekenning van een premie voor de installatie van meet- en stuurapparaten

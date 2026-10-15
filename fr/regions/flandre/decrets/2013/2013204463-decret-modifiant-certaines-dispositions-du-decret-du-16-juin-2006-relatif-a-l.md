@@ -13,7 +13,7 @@ entry_into_force: 2013-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/12/2013204463/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2013. - Décret modifiant certaines dispositions du décret du 16 juin 2006 relatif à l'assistance à la navigation sur les voies d'accès maritimes et à l'organisation du " Maritiem Reddings- en Coördinatiecentrum " (Centre de coordination et de sauvetage maritimes)

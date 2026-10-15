@@ -12,7 +12,7 @@ entry_into_force: 1998-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/09/19/1997A15118/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBRE 1996. - Loi portant assentiment à la Convention additionnelle signée à Bruxelles le 20 avril 1994, modifiant la Convention et supprimant le Protocole entre la République de Corée et le Royaume de Belgique tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signés à Bruxelles le 29 août 1977.

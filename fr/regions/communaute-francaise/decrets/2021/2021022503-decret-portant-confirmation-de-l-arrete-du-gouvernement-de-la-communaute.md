@@ -13,7 +13,7 @@ entry_into_force: 2021-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/18/2021022503/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBRE 2021. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française de pouvoirs spéciaux n° 42 du 14 janvier 2021 déterminant les conditions et les modalités d'octroi d'une intervention financière facilitant l'achat ou la location de matériels informatiques par les parents ou les personnes investies de l'autorité parentale au profit de leur enfant et afin de faciliter le suivi des apprentissages

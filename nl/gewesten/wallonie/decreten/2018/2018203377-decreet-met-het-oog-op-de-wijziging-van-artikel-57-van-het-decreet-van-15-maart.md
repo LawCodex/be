@@ -13,7 +13,7 @@ entry_into_force: 2018-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/21/2018203377/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2018. - Decreet met het oog op de wijziging van artikel 57 van het decreet van 15 maart 2018 betreffende de woninghuurovereenkomst waarbij beoogd wordt de indexeringsformule voor huurgelden, van toepassing op de huurovereenkomsten voor een hoofdverblijfplaats, die lopen op 1 april 2016, af te schaffen

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/04/04/2019011757/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 12-04-2019 en tekstbijwerking tot 20-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2019. - Ordonnantie tot vaststelling van het betaalcircuit voor de gezinsbijslag

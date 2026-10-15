@@ -12,7 +12,7 @@ entry_into_force: 2012-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/01/16/2012003064/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JANUARI 2012. - Wet houdende goedkeuring van de veertiende algemene herziening van de quota van de lidstaten van het Internationaal Monetair Fonds en de amenderingen van de statuten van het Internationaal Monetair Fonds, zoals voorzien in Resolutie nr. 66-2 van 15 december 2010 van de Raad van Gouverneurs van het Internationaal Monetair Fonds

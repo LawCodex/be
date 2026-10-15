@@ -12,7 +12,7 @@ entry_into_force: 2008-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/12/19/2008015015/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2007. - Loi portant assentiment à l'Accord entre l'Union européenne, la Communauté européenne et la Confédération suisse sur l'association de la Confédération suisse à la mise en oeuvre, à l'application et au développement de l'acquis de Schengen, et à l'Acte final, faits à Luxembourg le 26 octobre 2004.

@@ -12,7 +12,7 @@ entry_into_force: 2005-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/04/13/2005009312/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 2005. - Wet tot wijziging van diverse wettelijke bepalingen met betrekking tot het strafrecht en de strafrechtspleging, teneinde de gerechtelijke achterstand weg te werken.

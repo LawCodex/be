@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/05/2014009316/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 09-07-2014 et mise à jour au 05-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2014. - Loi relative à l'internement [...] &lt;Intitulé modifié par L 2016-05-04/03 , art. 143, 005; En vigueur : 23-05-2016&gt;

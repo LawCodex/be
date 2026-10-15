@@ -13,7 +13,7 @@ entry_into_force: 2013-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/03/07/2013201742/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2013. - Décret interprétatif des articles 35, § 1er, alinéa 2, 40, § 7, alinéa 3, 93, § 1er, alinéa 2, et 95, § 7, alinéa 3, du décret du 11 mars 1999 relatif au permis d'environnement, modifiés par le décret-programme du 3 février 2005 de relance économique et de simplification administrative

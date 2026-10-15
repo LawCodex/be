@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/10/19/2007029446/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 21-06-2024 en tekstbijwerking tot 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OKTOBER 2007. - Decreet betreffende de invoering van een geïnformatiseerde databank voor tewerkstelling in de non-profit sector van de Franse Gemeenschap (VERTALING)

@@ -12,7 +12,7 @@ entry_into_force: 2003-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/12/07/2002023029/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2001. - Wet tot wijziging van artikel 7 van de wet van 13 juni 1986 betreffende het wegnemen en transplanteren van organen.

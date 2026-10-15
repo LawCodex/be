@@ -13,7 +13,7 @@ entry_into_force: 2026-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/01/2026004283/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2026. - Decreet tot wijziging van het decreet van 1 maart 2021 betreffende de mediadiensten en de filmvoorstellingen en het decreet van 27 juni 1986 betreffende het Belgisch Radio- en Televisiecentrum van de Duitstalige Gemeenschap

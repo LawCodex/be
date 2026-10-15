@@ -13,7 +13,7 @@ entry_into_force: 2011-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/22/2011200522/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2010. - Decreet houdende instemming, wat betreft de aangelegenheden waarvan de uitoefening door de Franse Gemeenschap aan het Waalse Gewest is overgedragen, met het Samenwerkingsakkoord van 2 april 2010 tussen de Federale Overheid, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de coördinatie van een infrastructuur voor ruimtelijke informatie

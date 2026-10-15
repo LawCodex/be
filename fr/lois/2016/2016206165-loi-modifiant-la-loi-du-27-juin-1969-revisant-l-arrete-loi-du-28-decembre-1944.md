@@ -12,7 +12,7 @@ entry_into_force: 2017-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/01/2016206165/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2016. - Loi modifiant la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs et abrogeant le chapitre III, section 3, de l'arrêté royal du 28 novembre 1969 pris en exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, en ce qui concerne le recouvrement par voie de contrainte par l'Office national de sécurité sociale et modifiant la loi du 24 février 2003 concernant la modernisation de la gestion de la sécurité sociale et concernant la communication électronique entre des entreprises et l'autorité fédérale

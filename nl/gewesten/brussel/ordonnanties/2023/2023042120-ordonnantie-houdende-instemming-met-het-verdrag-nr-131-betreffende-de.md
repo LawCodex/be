@@ -13,7 +13,7 @@ entry_into_force: 2023-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/04/27/2023042120/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2023. - Ordonnantie houdende instemming met het Verdrag nr. 131 betreffende de vastlegging van minimumlonen, in het bijzonder met betrekking tot de ontwikkelingslanden, aangenomen door de Internationale Arbeidsorganisatie in haar 54ste zitting op 22 juni 1970

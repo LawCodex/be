@@ -12,7 +12,7 @@ entry_into_force: 2007-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/01/2007009405/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2007. - Wet tot wijziging van het Wetboek van strafvordering met het oog op de heropening van de rechtspleging in strafzaken.

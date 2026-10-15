@@ -12,7 +12,7 @@ entry_into_force: 1998-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/01/21/1998015089/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JANVIER 1998. - Loi portant assentiment à accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Belarus concernant le transport par route, signé à Bruxelles le 7 mars 1995.

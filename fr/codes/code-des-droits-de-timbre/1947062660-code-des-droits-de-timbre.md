@@ -13,7 +13,7 @@ last_amended: 2006-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1947/06/26/1947062660/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-01-1990 et mise à jour au 29-12-2006"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 1947. - Code des droits de timbre.

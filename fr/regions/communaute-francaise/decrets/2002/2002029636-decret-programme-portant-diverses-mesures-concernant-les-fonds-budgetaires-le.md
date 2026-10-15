@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/19/2002029636/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 08-01-2003 et mise à jour au 09-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2002. - [Décret-programme] portant diverses mesures concernant les fonds budgétaires, le Fonds Ecureuil de la Communauté française, l'euro, les institutions universitaires, le Centre hospitalier universitaire de Liège, les centres psycho-médico-sociaux, les services de promotion de la santé à l'école, l'enseignement et le centre technique horticole de Gembloux. &lt;Erratum, voir M.B. 31.01.2003, p. 4334&gt;

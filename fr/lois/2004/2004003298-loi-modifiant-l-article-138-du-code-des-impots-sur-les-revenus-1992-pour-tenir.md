@@ -12,7 +12,7 @@ entry_into_force: 2004-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/06/2004003298/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2004. - Loi modifiant l'article 138 du Code des impôts sur les revenus 1992 pour tenir compte des enfants mort-nés pour la détermination des personnes à charge.

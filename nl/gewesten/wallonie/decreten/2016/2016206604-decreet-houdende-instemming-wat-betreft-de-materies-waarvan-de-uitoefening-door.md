@@ -13,7 +13,7 @@ entry_into_force: 2017-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/21/2016206604/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2016. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap naar het Waalse Gewest is overgedragen, met de overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk België en de Staat Israël, ondertekend te Jeruzalem op 24 maart 2014

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/04/27/2018012126/justel"
 department: "Mobilité et Transports"
 justel_note: "Consultation des versions antérieures à partir du 29-05-2018 et mise à jour au 26-05-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2018. - Loi sur la police des chemins de fer

@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/02/09/2018010949/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2018. - Décret portant modification de la loi du 5 septembre 2001 visant à améliorer le taux d'emploi des travailleurs et du Code judiciaire, en ce qui concerne l'imposition de sanctions aux employeurs ne respectant pas leurs obligations relatives au régime particulier en matière d'outplacement pour les travailleurs d'au moins 45 ans

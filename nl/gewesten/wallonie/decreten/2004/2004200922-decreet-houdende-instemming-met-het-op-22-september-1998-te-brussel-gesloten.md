@@ -13,7 +13,7 @@ entry_into_force: 2004-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/25/2004200922/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2004. - Decreet houdende instemming met het op 22 september 1998 te Brussel gesloten Protocol tot aanvulling van de Benelux-Overeenkomst inzake grensoverschrijdende samenwerking tussen territoriale samenwerkingsverbanden of autoriteiten met gemeenschappelijke memorie van toelichting, ondertekend te Brussel op 12 september 1986 (VERTALING).

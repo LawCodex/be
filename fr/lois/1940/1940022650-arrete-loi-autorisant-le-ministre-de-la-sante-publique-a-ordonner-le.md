@@ -11,7 +11,7 @@ published: 1940-03-10
 entry_into_force: 1940-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1940/02/26/1940022650/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 1940. - ARRETE-LOI autorisant le Ministre de la Santé publique à ordonner le recensement mensuel des stocks de produits pharmaceutiques existant chez les grossistes, importateurs et producteurs.

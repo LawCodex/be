@@ -13,7 +13,7 @@ entry_into_force: 2014-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/20/2014200806/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2013. - Décret sanctionnant l'arrêté du Gouvernement flamand du 18 octobre 2013 jugeant recevable et équivalente la demande de dérogation aux objectifs finaux du deuxième degré de l'enseignement secondaire général, pour ce qui est des sciences naturelles ou de la physique et/ou la chimie et/ou la biologie

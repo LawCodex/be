@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/04/1999000486/justel"
 department: "Binnenlandse Zaken - Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 12-06-1999 en tekstbijwerking tot 08-02-2000."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 1999. - Wet tot wijziging van de provinciewet en van de nieuwe gemeentewet. -

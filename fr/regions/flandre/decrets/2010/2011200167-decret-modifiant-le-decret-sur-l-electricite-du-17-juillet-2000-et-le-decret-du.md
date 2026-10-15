@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/23/2011200167/justel"
 department: "Autorité flamande"
 justel_note: "par son arrêt n° 89/2012 du 12-07-2012 (M.B. 18-10-2012, p. 63480-63482), la Cour constitutionnelle a annulé le présent décret"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2010. - Décret modifiant le décret sur l'Electricité du 17 juillet 2000 et le décret du 8 mai 2009 relatif à l'Energie, en vue d'éviter des tarifs d'injection pour l'électricité générée au moyen de sources d'énergie renouvelables et de cogénération de qualité

@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1968/03/16/1968031601/justel"
 justel_notes:
   - "art. 38, § 3, modifié avec effet à une date indéterminée par <L 2007-06-04/33 , art. 3, 2°, 020; En vigueur : indéterminée >"
   - "Consultation des versions antérieures à partir du 08-11-1990 et mise à jour au 08-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 1968. - Loi relative à la police de la circulation routière. (dénommée " la loi sur la circulation routière ")

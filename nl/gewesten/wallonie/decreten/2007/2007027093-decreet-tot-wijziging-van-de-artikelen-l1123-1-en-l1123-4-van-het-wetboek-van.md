@@ -13,7 +13,7 @@ entry_into_force: 2007-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/06/27/2007027093/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2007. - Decreet tot wijziging van de artikelen L1123-1 en L1123-4 van het Wetboek van de plaatselijke democratie en de decentralisatie.

@@ -13,7 +13,7 @@ entry_into_force: 2004-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/10/27/2003033109/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 2003. - Decreet houdende instemming tot het Samenwerkingsakkoord tussen de Regering van de Republiek Hongarije en de Regering van de Duitstalige Gemeenschap van België, ondertekend in Eupen op 9 december 2002. (Vertaling).

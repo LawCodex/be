@@ -13,7 +13,7 @@ entry_into_force: 1996-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/24/1996035982/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 1996. - Décret supprimant la tutelle en matière d'approbation des décisions des centres publics d'aide sociale concernant l'informatisation de leurs services (TRADUCTION).

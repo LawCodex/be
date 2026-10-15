@@ -12,7 +12,7 @@ entry_into_force: 1995-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/05/1995014154/justel"
 department: "Verkeerswezen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 1995. - Wet tot wijziging van de wet van 21 juni 1985 betreffende de technische eisen waaraan elk voertuig voor vervoer te land, de onderdelen ervan, evenals het veiligheidstoebehoren moeten voldoen.

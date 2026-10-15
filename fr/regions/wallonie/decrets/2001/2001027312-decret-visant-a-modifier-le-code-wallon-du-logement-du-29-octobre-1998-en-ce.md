@@ -13,7 +13,7 @@ entry_into_force: 2001-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/05/31/2001027312/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2001. - Décret visant à modifier le Code wallon du Logement du 29 octobre 1998 en ce qui concerne les enquêtes de salubrité.

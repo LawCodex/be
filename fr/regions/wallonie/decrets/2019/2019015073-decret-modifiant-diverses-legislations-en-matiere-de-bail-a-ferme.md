@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019015073/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 08-11-2019 et mise à jour au 12-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret modifiant diverses législations en matière de bail à ferme

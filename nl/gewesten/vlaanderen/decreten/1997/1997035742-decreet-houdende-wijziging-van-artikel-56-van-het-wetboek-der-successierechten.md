@@ -13,7 +13,7 @@ entry_into_force: 1997-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/06/17/1997035742/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 1997. - Decreet houdende wijziging van artikel 56 van het Wetboek der Successierechten.

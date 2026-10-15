@@ -13,7 +13,7 @@ entry_into_force: 2023-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/12/15/2022043034/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2022. - Ordonnantie tot wijziging van het Wetboek van 25 maart 1999 van inspectie, preventie, vaststelling en bestraffing van milieumisdrijven, en milieuaansprakelijkheid, om een procedure van de bestuurlijke transactie erin op te nemen

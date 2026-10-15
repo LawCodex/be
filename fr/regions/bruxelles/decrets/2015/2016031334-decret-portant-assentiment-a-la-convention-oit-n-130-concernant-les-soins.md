@@ -13,7 +13,7 @@ entry_into_force: 2016-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/04/02/2016031334/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2015. - Décret portant assentiment à la Convention OIT n° 130 concernant les soins médicaux et les indemnités de maladie, adoptée à Genève le 25 juin 1969

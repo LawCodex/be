@@ -13,7 +13,7 @@ entry_into_force: 2021-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/01/08/2021040323/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JANVIER 2021. - Décret modifiant le décret du 10 juillet 2008 relatif à la gestion et à l'exploitation des aéroports régionaux d'Ostende-Bruges, Courtrai-Wevelgem et Anvers, en ce qui concerne la fusion de la SDA Anvers et la SDA Ostende-Bruges

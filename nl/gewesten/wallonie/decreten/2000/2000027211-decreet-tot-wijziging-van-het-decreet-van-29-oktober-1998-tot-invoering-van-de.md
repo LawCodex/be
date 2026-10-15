@@ -13,7 +13,7 @@ entry_into_force: 2000-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/05/18/2000027211/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2000. - Decreet tot wijziging van het decreet van 29 oktober 1998 tot invoering van de Waalse Huisvestingscode. (Vertaling).

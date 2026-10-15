@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/12/14/2019040867/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 26-04-2019 en tekstbijwerking tot 02-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2018. - Decreet betreffende de onderwijsdoelen voor de eerste graad van het secundair onderwijs

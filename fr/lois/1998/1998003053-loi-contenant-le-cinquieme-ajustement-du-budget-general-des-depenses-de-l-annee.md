@@ -12,7 +12,7 @@ entry_into_force: 1998-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/01/26/1998003053/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 1998. - Loi contenant le cinquième ajustement du budget général des dépenses de l'année budgétaire 1997 - Section " Services du Premier Ministre " (11).

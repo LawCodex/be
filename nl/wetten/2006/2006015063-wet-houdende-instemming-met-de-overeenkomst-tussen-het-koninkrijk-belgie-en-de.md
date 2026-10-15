@@ -12,7 +12,7 @@ entry_into_force: 2006-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/03/27/2006015063/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2006. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Verenigde Staten van Amerika inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het diplomatiek en consulair personeel, gesloten door uitwisseling van nota's gedagtekend te Brussel op 19 februari 2004 en 18 maart 2004.

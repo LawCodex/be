@@ -12,7 +12,7 @@ entry_into_force: 2019-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/02/2019030424/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Wet tot omzetting van de Richtlijn (EU) 2017/1852 van de Raad van 10 oktober 2017 betreffende mechanismen ter beslechting van belastinggeschillen in de Europese Unie

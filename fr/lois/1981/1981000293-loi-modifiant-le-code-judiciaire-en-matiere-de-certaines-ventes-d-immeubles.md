@@ -12,7 +12,7 @@ entry_into_force: 1981-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1981/02/18/1981000293/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 1981. - LOI modifiant le Code judiciaire en matière de certaines ventes d'immeubles

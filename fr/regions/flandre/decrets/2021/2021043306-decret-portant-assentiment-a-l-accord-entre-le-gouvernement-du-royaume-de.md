@@ -13,7 +13,7 @@ entry_into_force: 2021-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/26/2021043306/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2021. - Décret portant assentiment à l'accord entre le gouvernement du Royaume de Belgique, le gouvernement de la Communauté flamande, le gouvernement de la Communauté française, le gouvernement de la Communauté germanophone, le gouvernement de la Région flamande, le gouvernement de la Région wallonne, le gouvernement de la Région de Bruxelles-Capitale et le gouvernement de la République française relatif au transport intérieur de dépouilles, fait à Paris le 9 mars 2020

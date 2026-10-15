@@ -12,7 +12,7 @@ entry_into_force: 1999-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/22/1999003038/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1998. - Loi contenant le cinquième ajustement du budget général des dépenses de l'année budgétaire 1998 - Section 11 - " Services du Premier Ministre ".

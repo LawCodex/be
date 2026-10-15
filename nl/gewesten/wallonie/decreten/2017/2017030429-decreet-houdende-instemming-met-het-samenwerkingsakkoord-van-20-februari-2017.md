@@ -13,7 +13,7 @@ entry_into_force: 2017-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/01/2017030429/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2017. - Decreet houdende instemming met het samenwerkingsakkoord van 20 februari 2017 tussen de Federale Overheid, het Brussels Hoofdstedelijk Gewest en het Waalse Gewest met betrekking tot het beheer van de dienst voor de regularisatie van gewestelijke belastingen en niet uitsplitsbare fiscaal verjaarde kapitalen en de oprichting van een regularisatiesysteem van niet uitsplitsbare fiscaal verjaarde kapitalen, tot uitvoering van een fiscaal regularisatiesysteem beperkt in de tijd en tot invoering van de maatregelen betreffende de overdracht van de eigendom van een onroerend goed van een vennootschap naar een vennoot, afstand van het vruchtgebruik op een onroerend goed gevolgd of voorafgegaan door een schenking, de clausules voor de toekenning van het gezamenlijk gemeenschappelijk vermogen of clausules van ongelijke verdeling van dat gemeenschappelijk vermogen zonder overlevingsvoorwaarde, beter bekend als de "sterfhuisclausule" en de herziening van het bedrag van de geldboetes

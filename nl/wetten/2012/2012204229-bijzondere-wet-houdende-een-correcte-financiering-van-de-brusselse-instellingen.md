@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/19/2012204229/justel"
 department: "Kanselarij van de Eerste Minister - Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 22-08-2012 en tekstbijwerking tot 31-01-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2012. - Bijzondere wet houdende een correcte financiering van de Brusselse Instellingen

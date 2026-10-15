@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/02/13/2014031167/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 16-04-2024 et mise à jour au 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 2014. - Ordonnance visant à garantir, au sein des organes de gestion des personnes morales, une présence équilibrée de femmes et d'hommes parmi les membres nommés par le Gouvernement de la Région de Bruxelles-Capitale

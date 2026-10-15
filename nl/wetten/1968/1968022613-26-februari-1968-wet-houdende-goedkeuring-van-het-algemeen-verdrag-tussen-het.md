@@ -11,7 +11,7 @@ published: 1968-04-10
 entry_into_force: 1968-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1968/02/26/1968022613/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 1968. \_ Wet houdende goedkeuring van het Algemeen Verdrag tussen het Koninkrijk België en de Republiek Turkije betreffende de Sociale Zekerheid, ondertekend te Brussel op 4 juli 1966.

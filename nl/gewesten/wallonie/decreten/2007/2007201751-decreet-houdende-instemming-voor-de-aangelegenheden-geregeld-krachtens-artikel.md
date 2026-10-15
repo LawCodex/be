@@ -13,7 +13,7 @@ entry_into_force: 2007-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/04/19/2007201751/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2007. - Decreet houdende instemming, voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet, met het samenwerkingsakkoord van 14 juli 2006 tussen het Waalse Gewest en de Franse Gemeenschap betreffende de terbeschikkingstelling van voorzieningen in het kader van de herwaardering van het kwalificerend onderwijs (VERTALING).

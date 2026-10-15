@@ -13,7 +13,7 @@ entry_into_force: 2023-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/02/09/2023015150/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2023. - Ordonnance portant approbation du compte général et règlement définitif du budget d'Actiris pour l'année 2020

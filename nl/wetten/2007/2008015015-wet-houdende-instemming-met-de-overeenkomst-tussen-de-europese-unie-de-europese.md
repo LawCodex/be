@@ -12,7 +12,7 @@ entry_into_force: 2008-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/12/19/2008015015/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2007. - Wet houdende instemming met de Overeenkomst tussen de Europese Unie, de Europese Gemeenschap en de Zwitserse Bondsstaat inzake de wijze waarop Zwitserland wordt betrokken bij de uitvoering, de toepassing en de ontwikkeling van het Schengenacquis, en met de Slotakte, gedaan te Luxemburg op 26 oktober 2004.

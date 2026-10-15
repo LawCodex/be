@@ -12,7 +12,7 @@ entry_into_force: 2004-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/09/2000015107/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 1999. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Republiek Venezuela inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 17 maart 1998.

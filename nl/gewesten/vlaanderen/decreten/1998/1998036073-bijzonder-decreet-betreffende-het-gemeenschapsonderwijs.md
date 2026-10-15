@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/14/1998036073/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-09-1998 en tekstbijwerking tot 19-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1998. - Bijzonder decreet betreffende het gemeenschapsonderwijs

@@ -12,7 +12,7 @@ entry_into_force: 2016-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/11/17/2016000729/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2016. - Wet tot wijziging van het Kieswetboek en de wet van 23 maart 1989 betreffende de verkiezing van het Europese Parlement

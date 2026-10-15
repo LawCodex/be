@@ -13,7 +13,7 @@ entry_into_force: 2007-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/25/2007035897/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2007. - Décret portant des dispositions diverses concernant l'environnement, l'énergie et les travaux publics (TRADUCTION).

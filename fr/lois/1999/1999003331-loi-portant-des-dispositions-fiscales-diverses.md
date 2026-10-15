@@ -12,7 +12,7 @@ entry_into_force: 1999-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/04/1999003331/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 1999. - Loi portant des dispositions fiscales diverses.

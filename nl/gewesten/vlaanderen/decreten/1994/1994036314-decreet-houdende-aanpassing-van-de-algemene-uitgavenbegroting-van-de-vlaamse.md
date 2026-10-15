@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/07/06/1994036314/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 18-11-1994 en tekstbijwerking tot 22-09-1995."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 1994. - Decreet houdende aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 1994.

@@ -13,7 +13,7 @@ entry_into_force: 2015-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/07/29/2015031507/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JULI 2015. - Ordonnantie tot wijziging van de ordonnantie van 20 juli 2005 betreffende de Maatschappij voor de Verwerving van Vastgoed en tot oprichting van de Maatschappij voor Stedelijke Inrichting

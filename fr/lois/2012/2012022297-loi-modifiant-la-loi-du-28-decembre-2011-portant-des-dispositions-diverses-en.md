@@ -12,7 +12,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/20/2012022297/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2012. - Loi modifiant la loi du 28 décembre 2011 portant des dispositions diverses, en ce qui concerne la pension des travailleurs salariés et portant de nouvelles mesures transitoires en matière de pension de retraite anticipée des travailleurs salariés

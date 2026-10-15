@@ -12,7 +12,7 @@ entry_into_force: 1989-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/06/16/1989021095/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 1989. - Wet houdende diverse institutionele hervormingen.

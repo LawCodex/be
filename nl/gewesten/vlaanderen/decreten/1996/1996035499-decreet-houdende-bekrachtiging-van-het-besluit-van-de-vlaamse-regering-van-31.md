@@ -13,7 +13,7 @@ entry_into_force: 1996-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/04/02/1996035499/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 1996. - Decreet houdende bekrachtiging van het besluit van de Vlaamse regering van 31 januari 1996 tot wijziging van het decreet van 13 juli 1994 betreffende de rustpensioenen toegekend aan de vastbenoemde personeelsleden van de Nederlandse Radio- en Televisieuitzendingen in België, Omroep van de Vlaamse Gemeenschap, en betreffende de overlevingspensioenen toegekend aan de rechtverkrijgenden van die personeelsleden.

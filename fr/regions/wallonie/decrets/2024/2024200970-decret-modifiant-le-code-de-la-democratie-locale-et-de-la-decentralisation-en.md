@@ -13,7 +13,7 @@ entry_into_force: 2024-01-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/10/2024200970/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2024. - Décret modifiant le Code de la démocratie locale et de la décentralisation en ce qui concerne la mise à la retraite des membres du personnel statutaire de la fonction publique locale

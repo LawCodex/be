@@ -11,7 +11,7 @@ published: 1969-07-08
 entry_into_force: 1944-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1969/06/24/1969062407/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 1969. - Loi relative à la réparation des dommages résultant des accidents du travail survenus entre le 10 mai 1940 et le 30 septembre 1944, sous l'empire de la législation allemande, dans les territoires belges annexés par le Reich allemand.

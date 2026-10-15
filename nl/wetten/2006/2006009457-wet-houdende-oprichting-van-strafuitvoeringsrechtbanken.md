@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/17/2006009457/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 15-06-2006 en tekstbijwerking tot 17-08-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2006. - Wet houdende oprichting van strafuitvoeringsrechtbanken.

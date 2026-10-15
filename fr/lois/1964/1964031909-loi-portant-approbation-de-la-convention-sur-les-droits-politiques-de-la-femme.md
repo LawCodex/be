@@ -11,7 +11,7 @@ published: 1964-09-02
 entry_into_force: 1964-09-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1964/03/19/1964031909/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 1964. - Loi portant approbation de la Convention sur les droits politiques de la femme, conclue à New-York, le 31 mars 1953.

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/10/18/2007203258/justel"
 department: "Waalse Gewest"
 justel_note: "de tekst van dit decreet is vervangen bij <Erratum, zie B.St. 12-11-2007, p. 57010>"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 OKTOBER 2007. - Decreet betreffende de bekrachtiging van het besluit van de Waalse Regering van 15 juni 2006 genomen overeenkomstig artikel 1 van het programmadecreet van 3 februari 2005 tot economische en administratieve vereenvoudiging (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 1999-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/07/1999021236/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 1999. - Bijzondere wet tot wijziging van artikel 32 van de gewone wet van 9 augustus 1980 tot hervorming der instellingen, betreffende de voorkoming en de regeling van belangenconflicten.

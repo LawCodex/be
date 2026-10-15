@@ -12,7 +12,7 @@ entry_into_force: 2010-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/06/02/2010009588/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2010. - Loi modifiant le Code civil en ce qui concerne les empêchements à mariage en cas d'adoption

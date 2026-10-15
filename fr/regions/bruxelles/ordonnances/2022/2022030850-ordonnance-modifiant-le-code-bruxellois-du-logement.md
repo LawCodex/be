@@ -13,7 +13,7 @@ entry_into_force: 2022-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/02/10/2022030850/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2022. - Ordonnance modifiant le Code bruxellois du logement

@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/12/04/2014029808/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2014. - Decreet tot wijziging van het decreet van 17 juli 2002 houdende hervorming van de "Office de la Naissance et de l'Enfance", afgekort "O.N.E."

@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/06/23/2017012971/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2017. - Ordonnantie houdende instemming met : 1° de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Staat Qatar tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, gedaan te Doha op 6 november 2007; 2° het Protocol, gedaan te Doha op 22 maart 2015, tot wijziging van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Staat Qatar tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, gedaan te Doha op 6 november 2007

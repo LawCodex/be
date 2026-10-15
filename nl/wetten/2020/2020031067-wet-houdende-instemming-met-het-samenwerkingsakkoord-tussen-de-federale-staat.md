@@ -12,7 +12,7 @@ entry_into_force: 2020-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/06/22/2020031067/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2020. - Wet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap met betrekking tot de bevoegdheden van de gemeenschappen en de Federale Staat inzake het Tax Shelter stelsel voor audiovisuele werken en podiumwerken en tot informatie-uitwisseling, gedaan te Brussel op 19 maart 2020

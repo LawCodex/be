@@ -12,7 +12,7 @@ entry_into_force: 2009-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/13/2003015112/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2003. - Loi portant assentiment à la Convention concernant les mesures à prendre pour interdire et empêcher l'importation, l'exportation, et le transfert de propriété illicites des biens culturels, adoptée à Paris le 14 novembre 1970

@@ -12,7 +12,7 @@ entry_into_force: 2003-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/07/2003015196/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEBRUARI 2003. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Staat Bahrein inzake luchtvervoer, en de Bijlage, ondertekend te Brussel op 30 juni 1998.

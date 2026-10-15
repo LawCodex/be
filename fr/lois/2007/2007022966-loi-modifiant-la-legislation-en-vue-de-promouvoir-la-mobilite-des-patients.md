@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/06/04/2007022966/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 25-07-2007 et mise à jour au 29-03-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUIN 2007. - Loi modifiant la législation en vue de promouvoir la mobilité des patients.

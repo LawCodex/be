@@ -13,7 +13,7 @@ entry_into_force: 1995-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/03/27/1995029274/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 1995. - DECRET portant assentiment au Protocole au Traité sur l'Antarctique relatif à la protection de l'environnement, à ses appendice et annexes I, II, III, IV et V, faits à Madrid le 4 octobre 1991

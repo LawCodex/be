@@ -12,7 +12,7 @@ entry_into_force: 1996-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/03/25/1996021095/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 1996. - Wijziging aan de Grondwet.

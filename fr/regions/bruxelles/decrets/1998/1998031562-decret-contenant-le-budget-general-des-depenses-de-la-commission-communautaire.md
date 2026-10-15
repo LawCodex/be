@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/11/27/1998031562/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions précédentes à partir du 19-02-1999 et mise à jour au 12-07-2000"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 1998. - Décret contenant le budget général des dépenses de la Commission communautaire française pour l'année budgétaire 1999.

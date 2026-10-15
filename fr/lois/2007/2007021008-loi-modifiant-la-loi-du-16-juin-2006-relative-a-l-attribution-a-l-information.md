@@ -12,7 +12,7 @@ entry_into_force: 2007-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/12/2007021008/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2007. - Loi modifiant la loi du 16 juin 2006 relative à l'attribution, à l'information aux candidats et soumissionnaires et au délai d'attente concernant les marchés publics et certains marchés de travaux, de fournitures et de services.

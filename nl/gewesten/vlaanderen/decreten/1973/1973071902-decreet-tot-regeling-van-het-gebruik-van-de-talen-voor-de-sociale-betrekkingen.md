@@ -12,7 +12,7 @@ last_amended: 2023-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1973/07/19/1973071902/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 03-08-1994 en tekstbijwerking tot 12-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 1973. - Decreet tot regeling van het gebruik van de talen voor de sociale betrekkingen tussen de werkgevers en de werknemers, alsmede van de voor de wet en de verordeningen voorgeschreven akten en bescheiden van de ondernemingen (nota : Bij arrest van 30-01-1986 (B.St. 12-02-1986), heeft het Arbitragehof besloten dat het decreet vernietigd wordt in zoverre het toepassingsgebied ervan, zoals het is omschreven in artikel 1, de gemeenten en groepen van gemeenten van het Nederlandse taalgebied omvat en waar de wet het gebruik van een andere taal dan die van het gebied waarin zij gelegen zijn, voorschrijft of toelaat)

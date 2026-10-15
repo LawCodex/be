@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/22/2022030904/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 07-03-2022 et mise à jour au 09-01-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2021. - Décret contenant le budget général des dépenses de la Région wallonne pour l'année budgétaire 2022

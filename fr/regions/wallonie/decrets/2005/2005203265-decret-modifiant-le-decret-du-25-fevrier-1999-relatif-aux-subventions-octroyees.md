@@ -13,7 +13,7 @@ entry_into_force: 2005-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/11/17/2005203265/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2005. - Décret modifiant le décret du 25 février 1999 relatif aux subventions octroyées à certains investissements en matière d'infrastructures sportives.

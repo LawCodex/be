@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/03/01/2021201177/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 12-04-2021 et mise à jour au 12-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2021. - Décret relatif aux services de médias et aux représentations cinématographiques

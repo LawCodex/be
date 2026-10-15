@@ -13,7 +13,7 @@ entry_into_force: 2013-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/22/2013206827/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2013. - DECRET portant assentiment aux modifications de la Convention sur l'élimination de toutes les formes de discrimination raciale, faite à New York le 7 mars 1966, la Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes, faite à New York le 18 décembre 1979 et la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants, faite à New York le 10 décembre 1984

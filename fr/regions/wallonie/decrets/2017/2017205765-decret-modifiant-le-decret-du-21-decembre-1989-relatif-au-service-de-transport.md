@@ -13,7 +13,7 @@ entry_into_force: 2017-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/10/26/2017205765/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 OCTOBRE 2017. - Décret modifiant le décret du 21 décembre 1989 relatif au service de transport public de personnes en Région wallonne, en vue de garantir la continuité du service public au sein du Groupe TEC

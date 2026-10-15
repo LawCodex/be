@@ -12,7 +12,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/09/08/2015015178/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 SEPTEMBER 2015. - Wet houdende instemming met de Overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk België en de Republiek Moldavië, opgemaakt te Brussel op 12 september 2012

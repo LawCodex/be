@@ -13,7 +13,7 @@ entry_into_force: 2013-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/28/2013027259/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2013. - Decreet houdende instemming met het Verdrag inzake de Wapenhandel, gedaan te New York op 2 april 2013

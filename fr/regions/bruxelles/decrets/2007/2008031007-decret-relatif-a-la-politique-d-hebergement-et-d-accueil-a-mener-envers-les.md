@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/22/2008031007/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 23-01-2008 et mise à jour au 09-08-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2007. - Décret relatif à la politique d'hébergement et d'accueil à mener envers les personnes âgées

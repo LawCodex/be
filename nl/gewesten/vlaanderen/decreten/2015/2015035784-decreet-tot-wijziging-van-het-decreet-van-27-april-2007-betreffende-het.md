@@ -13,7 +13,7 @@ entry_into_force: 2015-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/12/2015035784/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2015. - Decreet tot wijziging van het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie en het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer

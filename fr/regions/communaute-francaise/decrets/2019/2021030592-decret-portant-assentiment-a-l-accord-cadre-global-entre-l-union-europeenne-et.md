@@ -13,7 +13,7 @@ entry_into_force: 2021-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/09/2021030592/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2019. - Décret portant assentiment à l'Accord-cadre global entre l'Union européenne et ses Etats membres, d'une part, et l'Australie, d'autre part, fait à Manille le 7 août 2017

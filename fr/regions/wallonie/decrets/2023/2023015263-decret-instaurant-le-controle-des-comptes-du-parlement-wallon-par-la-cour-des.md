@@ -13,7 +13,7 @@ entry_into_force: 2023-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/09/2023015263/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2023. - Décret instaurant le contrôle des comptes du Parlement wallon par la Cour des comptes en vertu de l'article 180 de la Constitution

@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/15/2016036275/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2016. - Decreet houdende wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat de vrijstelling van onroerende voorheffing voor jeugdwerkorganisaties en jeugdverblijfcentra betreft

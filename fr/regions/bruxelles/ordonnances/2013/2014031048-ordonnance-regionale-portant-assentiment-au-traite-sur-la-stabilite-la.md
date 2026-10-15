@@ -13,7 +13,7 @@ entry_into_force: 2014-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/12/20/2014031048/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2013. - Ordonnance (régionale) portant assentiment au : Traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire entre le Royaume de Belgique, la République de Bulgarie, le Royaume du Danemark, la République fédérale d'Allemagne, la République d'Estonie, l'Irlande, la République hellénique, le Royaume d'Espagne, la République française, la République italienne, la République de Chypre, la République de Lettonie, la République de Lituanie, le grand-duché de Luxembourg, la Hongrie, Malte, le Royaume des Pays-Bas, la République d'Autriche, la République de Pologne, la République portugaise, la Roumanie, la République de Slovénie, la République slovaque, la République de Finlande et le Royaume de Suède, et au procès-verbal de signature du Traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire, signés à Bruxelles le 2 mars 2012

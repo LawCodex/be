@@ -13,7 +13,7 @@ entry_into_force: 2001-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/11/15/2001029520/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBER 2001. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Waalse Gewestregering en de Regering van de Franse Gemeenschap van België en de Regering van de Republiek Tunesië en met zijn Bijlage, opgemaakt te Tunis op 30 september 1998 (VERTALING).

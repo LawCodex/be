@@ -13,7 +13,7 @@ entry_into_force: 2014-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/04/2014035498/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2014. - Décret portant assentiment au Protocole additionnel de Nagoya-Kuala Lumpur sur la responsabilité et la réparation relatif au Protocole de Cartagena sur la prévention des risques biotechnologiques, fait à Nagoya le 15 octobre 2010

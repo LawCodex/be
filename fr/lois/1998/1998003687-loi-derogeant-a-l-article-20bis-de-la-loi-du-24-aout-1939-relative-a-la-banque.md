@@ -12,7 +12,7 @@ entry_into_force: 1998-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/18/1998003687/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 1998. - Loi dérogeant à l'article 20bis de la loi du 24 août 1939 relative à la Banque nationale de Belgique et modifiant la loi du 22 février 1998 fixant le statut organique de la Banque nationale de Belgique.

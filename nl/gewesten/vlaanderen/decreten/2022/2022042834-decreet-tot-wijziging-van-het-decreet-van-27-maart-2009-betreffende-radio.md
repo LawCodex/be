@@ -13,7 +13,7 @@ entry_into_force: 2022-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/11/18/2022042834/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2022. - Decreet tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft de radio-omroeporganisaties

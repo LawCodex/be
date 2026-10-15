@@ -12,7 +12,7 @@ published: 2012-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/05/03/2012203159/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2012. - Decreet betreffende het gewoon basisonderwijs en het gewoon secundair onderwijs inzonderheid inzake klassengrootte

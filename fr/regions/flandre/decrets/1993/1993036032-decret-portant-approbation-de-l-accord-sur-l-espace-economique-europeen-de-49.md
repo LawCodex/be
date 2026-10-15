@@ -13,7 +13,7 @@ entry_into_force: 1993-09-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/07/14/1993036032/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1993. - DECRET portant approbation de l'Accord sur l'Espace économique européen, de 49 Protocoles, de l'Acte final et des Annexes I à XXII y compris, faits à Porto le 2 mai 1992, et du Protocole d'adaptation à l'Accord sur l'Espace économique européen, fait à Bruxelles le 17 mars 1993

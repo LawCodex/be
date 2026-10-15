@@ -12,7 +12,7 @@ entry_into_force: 2006-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/03/30/2006003226/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2006. - Wet tot wijziging van de programmawet van 27 december 2005.

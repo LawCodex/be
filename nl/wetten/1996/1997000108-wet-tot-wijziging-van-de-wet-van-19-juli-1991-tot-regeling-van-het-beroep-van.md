@@ -12,7 +12,7 @@ entry_into_force: 1997-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/12/30/1997000108/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBER 1996. - Wet tot wijziging van de wet van 19 juli 1991 tot regeling van het beroep van privé-détective.

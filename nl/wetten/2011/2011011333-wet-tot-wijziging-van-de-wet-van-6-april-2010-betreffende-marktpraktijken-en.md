@@ -10,7 +10,7 @@ date: 2011-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/06/23/2011011333/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2011. - Wet tot wijziging van de wet van 6 april 2010 betreffende marktpraktijken en consumentenbescherming met het oog op het bestrijden van reclameronselaars

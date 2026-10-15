@@ -13,7 +13,7 @@ entry_into_force: 2012-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/19/2012203358/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2012. - Décret portant assentiment à la Convention sur la protection du patrimoine culturel subaquatique, adoptée le 2 novembre 2011 et faite à Paris le 6 novembre 2001

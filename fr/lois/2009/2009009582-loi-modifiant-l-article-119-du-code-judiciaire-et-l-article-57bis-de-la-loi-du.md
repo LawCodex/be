@@ -12,7 +12,7 @@ entry_into_force: 2009-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/07/31/2009009582/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2009. - Loi modifiant l'article 119 du Code judiciaire et l'article 57bis de la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait

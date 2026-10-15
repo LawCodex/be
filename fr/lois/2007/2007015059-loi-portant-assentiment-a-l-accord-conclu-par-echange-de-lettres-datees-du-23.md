@@ -12,7 +12,7 @@ entry_into_force: 2007-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/09/2007015059/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 AVRIL 2007. - Loi portant assentiment à l'Accord, conclu par échange de lettres datées du 23 mai 2005, entre le Gouvernement du Royaume de Belgique avec la Région wallonne, la Communauté française et la Communauté germanophone, le Gouvernement de la République fédérale d'Allemagne, le Gouvernement de la République française et le Gouvernement du grand-duché de Luxembourg relatif à la coopération dans les régions frontalières.

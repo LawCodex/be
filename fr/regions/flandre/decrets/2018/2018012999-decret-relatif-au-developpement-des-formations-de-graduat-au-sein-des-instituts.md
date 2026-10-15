@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/04/2018012999/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 16-07-2018 et mise à jour au 28-03-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2018. - Décret relatif au développement des formations de graduat au sein des instituts supérieurs et au renforcement des formations des enseignants au sein des instituts supérieurs et des universités

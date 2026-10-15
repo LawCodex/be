@@ -13,7 +13,7 @@ entry_into_force: 2012-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/07/12/2012031557/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2012. - Ordonnantie tot wijziging van het Brussels Gemeentelijk Kieswetboek en de wet van 11 april 1994 tot organisatie van de geautomatiseerde stemming

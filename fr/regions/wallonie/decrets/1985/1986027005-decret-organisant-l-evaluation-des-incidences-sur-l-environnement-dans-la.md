@@ -18,7 +18,7 @@ justel_notes:
   - "Ce texte est modifié par DRW 2004-04-01/96, art. 74 et 74bis, 005; En vigueur : indéterminée ; voir M.B. 07-06-2004, p. 43251"
   - "Ce texte est abrogé par DRW 2004-05-27/63, art. 2, 1°, 006; En vigueur : indéterminée ; voir M.B. 09-07-2004, p. 54668"
   - "Consultation des versions antérieures à partir du 01-01-1989 et mise à jour au 09-07-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 SEPTEMBRE 1985. - Décret organisant l'évaluation des incidences sur l'environnement dans la Région wallonne.

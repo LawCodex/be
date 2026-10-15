@@ -13,7 +13,7 @@ entry_into_force: 2018-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/29/2018011988/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2018. - Decreet houdende wijziging van sommige bepalingen van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn met het oog op een sterker bestuur en een sterkere transparantie in de uitvoering van de openbare mandaten

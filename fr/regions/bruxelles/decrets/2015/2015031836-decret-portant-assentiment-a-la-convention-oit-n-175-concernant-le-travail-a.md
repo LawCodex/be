@@ -13,7 +13,7 @@ entry_into_force: 2015-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/04/02/2015031836/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2015. - Décret portant assentiment à la Convention OIT n° 175 concernant le travail à temps partiel, adoptée à Genève le 24 juin 1994

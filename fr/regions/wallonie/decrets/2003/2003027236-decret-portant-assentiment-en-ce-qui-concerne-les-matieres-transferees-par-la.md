@@ -13,7 +13,7 @@ entry_into_force: 2003-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/04/10/2003027236/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2003. - Décret portant assentiment, en ce qui concerne les matières transférées par la Communauté française, à l'Accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats membres, d'une part, et le Turkménistan, d'autre part, et à l'Acte final, fait à Bruxelles le 25 mai 1998.

@@ -12,7 +12,7 @@ entry_into_force: 2005-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/06/24/2005036062/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2005. - Decreet houdende aanpassing van de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2005.

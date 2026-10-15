@@ -12,7 +12,7 @@ published: 2026-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/05/28/2026005365/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MEI 2026. - Decreet tot organisatie van de studies in de kinesitherapie

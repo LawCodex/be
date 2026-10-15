@@ -13,7 +13,7 @@ entry_into_force: 2017-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/05/29/2017203131/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2017. - Decreet houdende instemming met het Protocol, gedaan te Brussel op 18 februari 2015, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Republiek Oezbekistan tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 14 november 1996, zoals gewijzigd door het Aanvullend Protocol, ondertekend te Tasjkent op 17 april 1998

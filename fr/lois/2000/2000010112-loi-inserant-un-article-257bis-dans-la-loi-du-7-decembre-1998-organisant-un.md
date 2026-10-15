@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/12/22/2000010112/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2000. - Loi insérant un article 257bis dans la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux.

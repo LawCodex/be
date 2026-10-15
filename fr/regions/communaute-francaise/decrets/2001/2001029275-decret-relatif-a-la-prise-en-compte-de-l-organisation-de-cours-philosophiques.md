@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/12/2001029275/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 20-07-2001 et mise à jour au 05-02-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2001. - Décret relatif à la prise en compte de l'organisation de cours philosophiques dans les enseignements officiel et libre non confessionnel subventionnés

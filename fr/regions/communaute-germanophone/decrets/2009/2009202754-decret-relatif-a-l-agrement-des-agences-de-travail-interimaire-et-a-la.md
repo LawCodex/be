@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/11/2009202754/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 13-07-2009 et mise à jour au 06-06-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2009. - Décret relatif à l'agrément des agences de travail intérimaire et à la surveillance des agences de placement privées. &lt;Erratum, M.B. 29-01-2010, Ed. 3, p. 4186-4192&gt;

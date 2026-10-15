@@ -12,7 +12,7 @@ entry_into_force: 1997-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/02/18/1997009531/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 1997. - Loi modifiant, en ce qui concerne l'aide aux victimes d'actes intentionnels de violence, la loi du 1er août 1985 portant des mesures fiscales et autres.

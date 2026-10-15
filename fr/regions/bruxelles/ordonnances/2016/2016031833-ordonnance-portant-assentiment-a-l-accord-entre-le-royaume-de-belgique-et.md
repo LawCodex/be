@@ -13,7 +13,7 @@ entry_into_force: 2017-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/12/08/2016031833/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2016. - Ordonnance portant assentiment à : l'Accord entre le Royaume de Belgique et Biodiversity International, signé à Bruxelles le 3 décembre 2012, modifiant l'accord de siège entre le Royaume de Belgique et l'International Plant Genetic Resources Institute, signé à Bruxelles le 15 octobre 2003

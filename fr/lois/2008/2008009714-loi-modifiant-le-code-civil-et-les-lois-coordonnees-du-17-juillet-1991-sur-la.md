@@ -12,7 +12,7 @@ entry_into_force: 2008-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/07/25/2008009714/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JUILLET 2008. - Loi modifiant le Code civil et les lois coordonnées du 17 juillet 1991 sur la comptabilité de l'Etat en vue d'interrompre la prescription de l'action en dommages et intérêts à la suite d'un recours en annulation devant le Conseil d'Etat.

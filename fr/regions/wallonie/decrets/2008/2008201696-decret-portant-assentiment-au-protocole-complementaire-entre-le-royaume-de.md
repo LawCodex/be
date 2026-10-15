@@ -13,7 +13,7 @@ entry_into_force: 2008-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/08/2008201696/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2008. - Décret portant assentiment au protocole complémentaire entre le Royaume de Belgique et l'Agence européenne de défense, signé à Bruxelles le 22 juin 2005.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/10/28/1996009852/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 21-12-1996 et mise à jour au 23-05-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 OCTOBRE 1996. - Loi relative à la restitution de biens culturels ayant quitté illicitement le territoire de certains Etats étrangers. -

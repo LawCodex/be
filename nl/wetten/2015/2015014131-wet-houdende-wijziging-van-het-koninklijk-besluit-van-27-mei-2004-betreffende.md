@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/02/13/2015014131/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2015. - Wet houdende wijziging van het koninklijk besluit van 27 mei 2004 betreffende de omzetting van Brussels International Airport Company (B.I.A.C.) in een naamloze vennootschap van privaatrecht en betreffende de luchthaveninstallaties

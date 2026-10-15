@@ -12,7 +12,7 @@ published: 2019-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/09/24/2019042037/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 SEPTEMBER 2019. - DECREET houdende wijziging van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade en het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht, wat de overgangsbepalingen betreft

@@ -13,7 +13,7 @@ entry_into_force: 2024-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/30/2023048799/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2023. - Décret modifiant le décret du 6 mai 1988 relatif aux expropriations pour cause d'utilité publique poursuivies ou autorisées par l'Exécutif régional wallon, le décret du 22 novembre 2018 relatif à la procédure d'expropriation et le décret du 19 mars 2009 relatif à la conservation du domaine public régional routier et des voies hydrauliques

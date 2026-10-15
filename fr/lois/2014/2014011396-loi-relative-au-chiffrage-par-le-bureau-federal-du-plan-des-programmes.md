@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/22/2014011396/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 22-07-2014 et mise à jour au 10-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2014. - Loi relative au chiffrage par le Bureau fédéral du Plan des programmes électoraux présentés par les partis politiques lors de l'élection pour la Chambre des représentants

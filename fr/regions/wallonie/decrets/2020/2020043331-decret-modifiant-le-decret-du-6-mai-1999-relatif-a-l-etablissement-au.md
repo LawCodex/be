@@ -13,7 +13,7 @@ entry_into_force: 2020-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/01/2020043331/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 OCTOBRE 2020. - Décret modifiant le décret du 6 mai 1999 relatif à l'établissement, au recouvrement et au contentieux, en matière de taxes régionales wallonnes, en vue de la transposition de la directive 2018/822/UE sur l'échange automatique et obligatoire d'informations dans le domaine fiscal en rapport avec les dispositifs transfrontières devant faire l'objet d'une déclaration

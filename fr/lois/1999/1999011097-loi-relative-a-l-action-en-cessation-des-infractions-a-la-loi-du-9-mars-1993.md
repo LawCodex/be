@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/11/1999011097/justel"
 department: "Affaires économiques"
 justel_note: "Consultation des versions antérieures à partir du 30-04-1999 et mise à jour au 27-04-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 1999. - Loi relative à l'action en cessation des infractions à la loi du 9 mars 1993 tendant à réglementer et à contrôler les activités des entreprises de courtage matrimonial

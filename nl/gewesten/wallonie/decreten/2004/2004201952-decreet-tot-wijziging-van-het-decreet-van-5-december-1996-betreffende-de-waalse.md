@@ -13,7 +13,7 @@ entry_into_force: 2004-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/27/2004201952/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2004. - Decreet tot wijziging van het decreet van 5 december 1996 betreffende de Waalse intercommunales om het inzage- en bezoekrecht van de gemeenteraadsleden van de verenigde gemeenten te organiseren

@@ -12,7 +12,7 @@ entry_into_force: 2025-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/01/28/2025002429/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 2025. - Loi portant assentiment à l'Accord entre le gouvernement du Royaume de Belgique et le gouvernement du Grand-Duché de Luxembourg relatif aux échanges d'informations en cas d'incident ou d'accident pouvant avoir des conséquences radiologiques, fait à Bruxelles le 29 mars 2023

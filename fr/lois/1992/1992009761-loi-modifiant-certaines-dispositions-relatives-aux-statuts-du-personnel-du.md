@@ -12,7 +12,7 @@ entry_into_force: 1987-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1992/07/24/1992009761/justel"
 department: "Justice - Intérieur - Fonction publique"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 1992. - Loi modifiant certaines dispositions relatives aux statuts du personnel du cadre actif de la gendarmerie

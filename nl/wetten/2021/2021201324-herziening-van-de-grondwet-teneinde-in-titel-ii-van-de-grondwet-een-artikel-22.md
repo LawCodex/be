@@ -12,7 +12,7 @@ entry_into_force: 2021-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/03/17/2021201324/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2021. - Herziening van de Grondwet teneinde in titel II van de Grondwet een artikel 22 ter in te voegen dat het recht van personen met een handicap op volledige inclusie in de samenleving waarborgt

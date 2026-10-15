@@ -13,7 +13,7 @@ entry_into_force: 2013-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/01/17/2013200461/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANVIER 2013. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, au Traité entre le Royaume de Belgique et le Royaume des Pays-Bas pour le développement de la coopération et de l'entraide administrative en matière de sécurité sociale, fait à Bruxelles le 6 décembre 2010

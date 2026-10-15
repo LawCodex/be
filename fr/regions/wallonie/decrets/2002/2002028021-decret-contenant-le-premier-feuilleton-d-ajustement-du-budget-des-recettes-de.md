@@ -13,7 +13,7 @@ entry_into_force: 2002-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/08/2002028021/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2002. - Décret contenant le premier feuilleton d'ajustement du budget des recettes de la Région wallonne pour l'année budgétaire 2002.

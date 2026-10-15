@@ -13,7 +13,7 @@ entry_into_force: 1997-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/03/1997036578/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 1996. - Décret portant approbation des actes internationaux suivants : 1. l'Accord européen instituant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la république d'Estonie, d'autre part, et les Annexes I, II, III, IV, V, VI, VII, VIII, IX et X, 8 Déclarations communes, deux accords sous forme d'échange de lettres, et une Déclaration d'Estonie, signée à Luxembourg le 12 juin 1995; 2. l'Accord européen instituant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la république de Lettonie, d'autre part, et les Annexes I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII et XVIII, 12 Déclarations communes, deux accords sous forme d'échange de lettres, et une Déclaration de Lettonie, signée à Luxembourg le 12 juin 1995; 3. l'Accord européen instituant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la république de Lituanie, d'autre part, et les Annexes I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, et XX, 9 Déclarations communes, deux accords sous forme d'échange de lettres, et une Déclaration de Lituanie, signée à Luxembourg le 12 juin 1995 (TRADUCTION).

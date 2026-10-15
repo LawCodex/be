@@ -13,7 +13,7 @@ entry_into_force: 1998-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/13/1998029486/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 1998. - Decreet houdende toestemming in het Verdrag van Amsterdam, houdende wijziging van het Verdrag over de Europese Unie, van de verdragen houdende oprichting van de Europese Gemeenschappen en van sommige bijhorende Akten, in de Bijlage, in de toegevoegde Protocollen en de Slotakte, opgemaakt te Amsterdam op 2 oktober 1997 (VERTALING).

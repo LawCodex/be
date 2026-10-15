@@ -12,7 +12,7 @@ entry_into_force: 2018-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/05/23/2018014209/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2018. - Loi portant des dispositions diverses en matière d'environnement

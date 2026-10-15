@@ -11,7 +11,7 @@ published: 1980-05-21
 entry_into_force: 1980-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1980/04/04/1980040412/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 1980. - Wet betreffende overdracht van bevoegdheden voor de uitvoering van de richtlijnen van de Raad van de Europese Gemeenschappen, betreffende de geneeskunst, de verpleegkunde, de paramedische beroepen en de dierengeneeskunde.

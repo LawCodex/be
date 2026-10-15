@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/12/22/2020044629/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2020 et mise à jour au 07-04-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2020. - Loi instituant des mesures diverses en faveur des travailleurs indépendants dans le cadre de la crise du COVID-19

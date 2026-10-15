@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/12/20/2024011768/justel"
 department: "Stratégie et Appui"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2024 et mise à jour au 18-04-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2024. - Loi de finances pour l'année budgétaire 2025

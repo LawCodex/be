@@ -12,7 +12,7 @@ entry_into_force: 2004-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/12/14/2004003483/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2004. - Wet tot wijziging van de wet van 31 december 2003 houdende invoering van een eenmalige bevrijdende aangifte.

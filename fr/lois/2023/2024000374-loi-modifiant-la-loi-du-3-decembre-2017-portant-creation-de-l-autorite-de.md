@@ -12,7 +12,7 @@ entry_into_force: 2024-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/25/2024000374/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2023. - Loi modifiant la loi du 3 décembre 2017 portant création de l'Autorité de protection des données

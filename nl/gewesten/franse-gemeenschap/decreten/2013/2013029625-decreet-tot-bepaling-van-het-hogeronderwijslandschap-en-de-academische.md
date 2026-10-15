@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/07/2013029625/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 18-12-2013 en tekstbijwerking tot 20-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2013. - Decreet tot bepaling van het hogeronderwijslandschap en de academische organisatie van de studies

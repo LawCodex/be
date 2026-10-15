@@ -13,7 +13,7 @@ entry_into_force: 2020-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/12/17/2019042938/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2019. - Ordonnantie houdende instemming met : het Protocol betreffende de voorrechten en de immuniteiten van het eengemaakt octrooigerecht, gedaan te Brussel op 29 juni 2016

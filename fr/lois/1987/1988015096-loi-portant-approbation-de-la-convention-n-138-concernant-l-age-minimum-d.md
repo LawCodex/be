@@ -12,7 +12,7 @@ entry_into_force: 1988-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/11/20/1988015096/justel"
 department: "Affaires étrangères - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 1987. - Loi portant approbation de la Convention n° 138 concernant l'âge minimum d'admission à l'emploi, adoptée à Genève, le 26 juin 1973, par la Conférence internationale du Travail lors de sa cinquante-huitième session.

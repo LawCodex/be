@@ -12,7 +12,7 @@ entry_into_force: 2009-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/07/12/2009203283/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2009. - Loi spéciale modifiant l'article 26 de la loi spéciale du 6 janvier 1989 sur la Cour d'arbitrage

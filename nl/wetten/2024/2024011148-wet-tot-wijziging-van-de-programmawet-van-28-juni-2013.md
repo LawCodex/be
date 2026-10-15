@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/07/2024011148/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2024. - Wet tot wijziging van de programmawet van 28 juni 2013

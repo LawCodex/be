@@ -13,7 +13,7 @@ entry_into_force: 2018-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/11/15/2018014901/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBER 2018. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 29 december 2017 tussen de Vlaamse Gemeenschap, het Waals Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de verhoging van de inkomensgrensbedragen en de vrijstelling van de inkomsten uit een winstgevende activiteit uitgeoefend in het kader van een studentenovereenkomst voor studenten die een alternerende opleiding volgen en die door een leerovereenkomst verbonden zijn

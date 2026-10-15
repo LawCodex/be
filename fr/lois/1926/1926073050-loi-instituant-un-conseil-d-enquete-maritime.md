@@ -12,7 +12,7 @@ last_amended: 2022-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1926/07/30/1926073050/justel"
 justel_note: "Consultation des versions antérieures à partir du 23-09-1993 et mise à jour au 24-10-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 1926. - Loi instituant un conseil d'enquête maritime.

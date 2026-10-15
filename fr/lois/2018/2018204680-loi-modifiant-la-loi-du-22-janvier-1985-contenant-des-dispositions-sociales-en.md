@@ -12,7 +12,7 @@ entry_into_force: 2018-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/09/02/2018204680/justel"
 department: "Emploi, Travail et Concertation sociale - Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 SEPTEMBRE 2018. - Loi modifiant la loi du 22 janvier 1985 contenant des dispositions sociales en ce qui concerne le congé parental

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/12/15/2022043036/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 21-12-2022 en tekstbijwerking tot 30-10-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2022. - Ordonnantie tot regeling van de beperking van de indexering van de handelshuurprijzen

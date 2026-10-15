@@ -13,7 +13,7 @@ entry_into_force: 2022-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/11/18/2022042834/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBRE 2022. - Décret modifiant le décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision, en ce qui concerne les organismes de radiodiffusion sonore

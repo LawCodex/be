@@ -13,7 +13,7 @@ entry_into_force: 2026-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/02/05/2026001244/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 2026. - Bijzonder decreet tot vervanging van punt B van bijlage 1 van Boek 1 van de bijlagen bij de gewone wet van 16 juli 1993 tot vervollediging van de federale staatsstructuur

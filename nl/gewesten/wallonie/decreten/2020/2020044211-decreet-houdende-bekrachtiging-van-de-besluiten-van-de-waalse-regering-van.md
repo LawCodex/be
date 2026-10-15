@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/03/2020044211/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "bij arrest nr. 69/2022 van 19-05-2022 ( 2022-05-19/07 , B.St. van 21-06-2022, p. 54648) heeft het Grondwettelijk Hof artikelen 2 en 4 vernietigd"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2020. - Decreet houdende bekrachtiging van de besluiten van de Waalse Regering van bijzondere machten in het kader van het beheer van de gezondheidscrisis COVID-19

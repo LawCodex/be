@@ -11,7 +11,7 @@ published: 1935-03-19
 entry_into_force: 1935-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1935/03/07/1935030750/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 1935. - Wet tot toekenning van een pensioen, wegens het bereiken van de leeftijdsgrens, aan de vrijwillige redders, en de vergoeding van de schade voortspruitende uit arbeidsongevallen.

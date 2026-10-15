@@ -12,7 +12,7 @@ entry_into_force: 2003-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/01/24/2003015018/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JANUARI 2002. - Wet houdende instemming met het Akkoord tussen het Koninkrijk België en de Wereldgezondheidsorganisatie inzake de vestiging in België van een verbindingsbureau van deze organisatie, ondertekend te Brussel op 6 januari 1999.

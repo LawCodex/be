@@ -11,7 +11,7 @@ published: 2010-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/06/02/2010024216/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2010. - Wet tot wijziging van het Gerechtelijk Wetboek in het kader van de wet van 31 maart 2010 betreffende de vergoeding van schade als gevolg van gezondheidszorg

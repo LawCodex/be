@@ -11,7 +11,7 @@ published: 2019-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/07/03/2019014067/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2019. - Wet tot wijziging van de wet van 21 december 2013 houdende het Consulair Wetboek en van de wet van 10 februari 2015 met betrekking tot geautomatiseerde verwerkingen van persoonsgegevens die noodzakelijk zijn voor de Belgische paspoorten en reisdocumenten

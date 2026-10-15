@@ -13,7 +13,7 @@ entry_into_force: 1995-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/05/02/1995033116/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 1995. - Decreet tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn (VERTALING).

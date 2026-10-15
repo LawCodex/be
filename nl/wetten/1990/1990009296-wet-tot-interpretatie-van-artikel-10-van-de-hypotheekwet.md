@@ -12,7 +12,7 @@ entry_into_force: 1990-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/02/19/1990009296/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEBRUARI 1990. - Wet tot interpretatie van artikel 10 van de hypotheekwet.

@@ -12,7 +12,7 @@ entry_into_force: 2007-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/26/2007011067/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2007. - Loi relative à l'interdiction de la production commerciale et du commerce des fourrures de chiens et de chats et des produits dérivés.

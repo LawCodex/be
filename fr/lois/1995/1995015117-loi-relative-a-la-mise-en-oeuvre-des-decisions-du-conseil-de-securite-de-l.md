@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/05/11/1995015117/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
 justel_note: "Consultation des versions antérieures à partir du 29-07-1995 et mise à jour au 28-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 1995. - Loi relative à la mise en oeuvre des décisions du Conseil de Sécurité de l'Organisation des Nations Unies

@@ -13,7 +13,7 @@ entry_into_force: 2017-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/23/2017040091/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 FEBRUARI 2017. - Decreet houdende instemming met het Akkoord van Parijs, aangenomen te Parijs op 12 december 2015

@@ -13,7 +13,7 @@ entry_into_force: 2018-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/02/2018011270/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 2018. - Décret portant modification du décret du 8 mai 2009 concernant le sous-sol profond, en ce qui concerne le régime de garanties pour la recherche et l'extraction de l'énergie géothermique dans le sous-sol profond

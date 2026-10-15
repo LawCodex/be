@@ -13,7 +13,7 @@ entry_into_force: 2023-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/20/2023044703/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2023. - Décret portant diverses mesures relatives à l'enseignement

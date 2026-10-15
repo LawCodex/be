@@ -11,7 +11,7 @@ published: 1935-03-15
 entry_into_force: 1935-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1935/03/05/1935030551/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 1935. Wet betreffende de staatsburgers die, bij vrijwillige dienstneming of bij opeising, in oorlogstijd de werking der openbare diensten moeten verzekeren.

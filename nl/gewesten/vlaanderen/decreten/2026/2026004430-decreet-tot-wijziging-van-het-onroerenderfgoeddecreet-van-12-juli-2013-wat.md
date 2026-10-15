@@ -13,7 +13,7 @@ entry_into_force: 2027-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/05/2026004430/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUNI 2026. - Decreet tot wijziging van het Onroerenderfgoeddecreet van 12 juli 2013, wat betreft de subsidies aan actoren en de Erfgoedlening

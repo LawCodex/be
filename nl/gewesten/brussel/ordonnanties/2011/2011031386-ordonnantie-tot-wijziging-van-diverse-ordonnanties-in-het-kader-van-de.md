@@ -12,7 +12,7 @@ published: 2011-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/07/20/2011031386/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2011. - Ordonnantie tot wijziging van diverse ordonnanties in het kader van de oprichting van een fiscale administratie binnen het Ministerie van het Brussels Hoofdstedelijk Gewest

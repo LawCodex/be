@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/12/06/2018014975/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 18-12-2018 en tekstbijwerking tot 11-02-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2018. - Wet tot omzetting van Richtlijn (EU) 2016/97 van het Europees Parlement en de Raad van 20 januari 2016 betreffende verzekeringsdistributie

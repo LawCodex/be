@@ -13,7 +13,7 @@ entry_into_force: 2017-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/06/2017030746/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2017. - Décret modifiant l'article 4 du décret du 20 juillet 2006 relatif à la négociation des organes de représentation et de coordination des pouvoirs organisateurs de l'enseignement et des centres PMS subventionnés

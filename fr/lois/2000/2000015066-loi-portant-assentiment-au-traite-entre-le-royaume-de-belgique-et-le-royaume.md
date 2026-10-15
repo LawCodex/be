@@ -12,7 +12,7 @@ entry_into_force: 2000-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/04/28/2000015066/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2000. - Loi portant assentiment au Traité entre le Royaume de Belgique et le Royaume des Pays-Bas en matière d'intervention policière transfrontalière pour maintenir l'ordre public et la sécurité au cours du Championnat européen des Nations de Football en l'an 2000, signé à Bergen-op-Zoom le 26 avril 1999.

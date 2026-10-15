@@ -13,7 +13,7 @@ entry_into_force: 1997-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/10/21/1997036367/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OCTOBRE 1997. - Décret portant abrogation du contrôle d'approbation sur les décisions des associations intercommunales concernant l'informatisation de leurs services (TRADUCTION).

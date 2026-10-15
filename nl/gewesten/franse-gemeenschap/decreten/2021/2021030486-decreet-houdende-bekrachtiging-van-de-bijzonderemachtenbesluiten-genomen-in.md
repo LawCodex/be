@@ -13,7 +13,7 @@ entry_into_force: 2020-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/03/04/2021030486/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 2021. - Decreet houdende bekrachtiging van de bijzonderemachtenbesluiten genomen in uitvoering van het decreet van 23 maart 2020 tot toekenning van bijzondere machten aan het College van de Franse Gemeenschapscommissie in het kader van de COVID-19-pandemie

@@ -11,7 +11,7 @@ published: 2020-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/07/20/2020015263/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2020. - Loi modifiant la loi du 19 mars 2013 relative à la Coopération belge au Développement et érigeant la charte d'intégrité existante en matière de coopération au développement en référence nationale pour la politique d'intégrité

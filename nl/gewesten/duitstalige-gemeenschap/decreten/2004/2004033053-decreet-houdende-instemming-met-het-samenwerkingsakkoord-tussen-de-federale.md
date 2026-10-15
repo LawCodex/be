@@ -13,7 +13,7 @@ entry_into_force: 2004-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/17/2004033053/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2004. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijk Gewest ter bevordering van een samenwerking in de domeinen leefmilieu en gezondheid, gesloten op 10 december 2003 (VERTALING).

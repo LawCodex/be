@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/14/2002029567/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 05-12-2002 en tekstbijwerking tot 03-07-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2002. - Decreet houdende organisatie van de stages die vervat zijn in de activiteiten voor professionele integratie van de studies die leiden tot het diploma van specialisatie in de orthopedagogie (VERTALING)

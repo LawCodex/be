@@ -13,7 +13,7 @@ entry_into_force: 2001-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/05/18/2001035678/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2001. - Bijzonder decreet houdende wijziging van het bijzonder decreet van 26 juni 1991 betreffende de Universiteit Gent en het Universitair Centrum Antwerpen.

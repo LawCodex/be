@@ -12,7 +12,7 @@ entry_into_force: 1999-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/13/1999016233/justel"
 department: "Middenstand - Landbouw"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 1999. - Wet tot stimulering van langetermijnpachten.

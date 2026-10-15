@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/20/2014000082/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 03-02-2014 et mise à jour au 21-05-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2014. - Loi portant réforme de la compétence, de la procédure et de l'organisation du Conseil d'Etat

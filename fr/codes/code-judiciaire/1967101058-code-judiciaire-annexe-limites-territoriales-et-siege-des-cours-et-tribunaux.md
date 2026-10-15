@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101058/justel"
 justel_notes:
   - "art. 1 modifié par L 2017-12-25/08 , art. 29-41; En vigueur : indéterminée et au plus tard le 01-01-2020"
   - "Consultation des versions antérieures à partir du 05-11-1985 et mise à jour au 28-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 1967. - CODE JUDICIAIRE - Annexe : LIMITES TERRITORIALES ET SIEGE DES COURS ET TRIBUNAUX.

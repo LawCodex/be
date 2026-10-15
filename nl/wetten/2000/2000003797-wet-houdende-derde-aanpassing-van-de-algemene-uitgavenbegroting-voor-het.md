@@ -12,7 +12,7 @@ entry_into_force: 2001-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/12/15/2000003797/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2000. - Wet houdende derde aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 2000. - Sectie 15 - " Internationale samenwerking ".

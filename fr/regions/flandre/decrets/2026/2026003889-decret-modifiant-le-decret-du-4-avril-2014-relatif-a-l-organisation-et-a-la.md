@@ -13,7 +13,7 @@ entry_into_force: 2026-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/05/08/2026003889/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2026. - Décret modifiant le décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes, en ce qui concerne l'emploi des langues dans les juridictions administratives flamandes

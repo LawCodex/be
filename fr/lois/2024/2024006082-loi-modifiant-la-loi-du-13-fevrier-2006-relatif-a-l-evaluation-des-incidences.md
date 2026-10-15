@@ -12,7 +12,7 @@ entry_into_force: 2024-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/15/2024006082/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2024. - Loi modifiant la loi du 13 février 2006 relatif à l'évaluation des incidences de certains plans et programmes sur l'environnement et à la participation du public dans l'élaboration des plans et des programmes relatifs à l'environnement

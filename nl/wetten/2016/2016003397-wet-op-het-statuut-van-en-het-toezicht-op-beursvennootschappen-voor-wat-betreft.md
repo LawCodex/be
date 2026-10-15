@@ -11,7 +11,7 @@ entry_into_force: 2016-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/11/21/2016003397/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2016. - Wet op het statuut van en het toezicht op beursvennootschappen voor wat betreft bepaalde versnelde procedures voor beroep bij de Raad van State

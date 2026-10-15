@@ -13,7 +13,7 @@ entry_into_force: 2007-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/06/08/2007036158/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2007. - Decreet houdende instemming met de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Federale Democratische Republiek Ethiopië inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 26 oktober 2006.

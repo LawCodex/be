@@ -12,7 +12,7 @@ published: 2021-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/09/30/2021022147/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 SEPTEMBER 2021. - Ordonnantie houdende goedkeuring van de algemene rekening en eindregeling van de begroting van de diensten van de Regering voor het jaar 2019

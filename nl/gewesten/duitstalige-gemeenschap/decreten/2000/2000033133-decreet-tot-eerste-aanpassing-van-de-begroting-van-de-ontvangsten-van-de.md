@@ -13,7 +13,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/11/23/2000033133/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2000. - Decreet tot eerste aanpassing van de begroting van de ontvangsten van de Duitstalige Gemeenschap voor het begrotingsjaar 2000 (VERTALING).

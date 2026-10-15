@@ -12,7 +12,7 @@ published: 2024-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/02/01/2024001041/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2024. - Ordonnance relative à l'hébergement touristique

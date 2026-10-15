@@ -12,7 +12,7 @@ entry_into_force: 2016-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/03/04/2016011107/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 2016. - Loi modifiant, en ce qui concerne les amendes administratives, la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et télécommunications belges (citée comme : Loi relative aux amendes administratives des personnes morales)

@@ -12,7 +12,7 @@ entry_into_force: 1997-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/08/20/1997015146/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 AOUT 1996. - Loi portant assentiment à l'Accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats membres, d'une part, les Annexes 1 à 10, les Protocoles 1 et 2, et l'Acte final, faits à Corfou le 24 juin 1994.

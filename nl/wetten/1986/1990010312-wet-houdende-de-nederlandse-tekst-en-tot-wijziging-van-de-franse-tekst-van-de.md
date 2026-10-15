@@ -12,7 +12,7 @@ entry_into_force: 1990-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1986/02/14/1990010312/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEBRUARI 1986. - Wet houdende de Nederlandse tekst en tot wijziging van de Franse tekst van de wet van 19 december 1864 betreffende de stichtingen ten voordele van het openbaar onderwijs of ten bate van bursalen.

@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/01/25/2024201048/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2024. - Decreet tot wijziging van artikel 697/2 van het Waalse Wetboek van Sociale actie en Gezondheid betreffende lesbische, homosexuele, bisexuele en transgenderpersonen

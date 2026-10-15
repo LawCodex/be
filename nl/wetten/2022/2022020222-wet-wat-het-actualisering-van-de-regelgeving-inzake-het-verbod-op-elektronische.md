@@ -12,7 +12,7 @@ entry_into_force: 2022-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/01/24/2022020222/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JANUARI 2022. - Wet wat het actualisering van de regelgeving inzake het verbod op elektronische communicatietoestellen in het verkeer betreft

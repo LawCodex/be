@@ -12,7 +12,7 @@ published: 2026-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2026/03/13/2026A02217/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2026. - Accord de coopération du 9 février 2026 concernant le cadre de la responsabilité élargie des producteurs pour certains flux de déchets et pour les déchets sauvages et portant modification de l'ordonnance du 12 décembre 1991 créant des fonds budgétaires

@@ -12,7 +12,7 @@ entry_into_force: 1998-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/02/10/1998009357/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 1998. - Wet houdende aanwijzing van de rechtbanken voor de gemeenschapsmerken.

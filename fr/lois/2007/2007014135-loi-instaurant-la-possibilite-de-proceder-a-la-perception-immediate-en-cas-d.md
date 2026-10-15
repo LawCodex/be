@@ -12,7 +12,7 @@ entry_into_force: 2007-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/26/2007014135/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2007. - Loi instaurant la possibilité de procéder à la perception immédiate en cas d'infraction routière commise par un militaire.

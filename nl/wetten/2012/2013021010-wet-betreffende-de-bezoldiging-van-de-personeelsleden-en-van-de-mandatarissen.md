@@ -12,7 +12,7 @@ entry_into_force: 2013-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/12/19/2013021010/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2012. - Wet betreffende de bezoldiging van de personeelsleden en van de mandatarissen van de instellingen van openbaar nut, van de autonome overheidsbedrijven en de rechtspersonen waarop de Staat rechtstreeks of onrechtstreeks een overheersende invloed uitoefent, als natuurlijke persoon

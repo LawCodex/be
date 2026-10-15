@@ -12,7 +12,7 @@ published: 2001-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/02/15/2001027111/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2001. - Decreet betreffende de pre-startpremies (VERTALING).

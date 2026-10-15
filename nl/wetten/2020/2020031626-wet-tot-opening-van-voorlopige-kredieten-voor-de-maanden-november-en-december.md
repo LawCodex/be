@@ -11,7 +11,7 @@ published: 2020-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/10/30/2020031626/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 OKTOBER 2020. - Wet tot opening van voorlopige kredieten voor de maanden november en december 2020

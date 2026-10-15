@@ -11,7 +11,7 @@ date: 2002-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/10/24/2002029539/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2002. - Decreet houdende instemming met het Protocol tot aanpassing van de institutionele aspecten van de Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lidstaten, enerzijds, en de Republiek Tsjechië, anderzijds, teneinde rekening te houden met de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot Europese Unie, opgemaakt te Brussel op 24 juni en 29 november 1999 (VERTALING).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/07/2019011507/justel"
 department: "Kanselarij van de Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2021 en tekstbijwerking tot 17-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2019. - Wet tot vaststelling van een kader voor de beveiliging van netwerk- en informatiesystemen van algemeen belang voor de openbare veiligheid

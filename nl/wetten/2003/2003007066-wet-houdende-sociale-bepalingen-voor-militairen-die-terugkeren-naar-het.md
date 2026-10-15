@@ -17,7 +17,7 @@ justel_notes:
   - "Gewijzigd door W 2007-02-28/35, art. 238, 004; Inwerkingtreding : 31-12-2013; Zie art. 272"
   - "Artikel 238 van de W 28/02/2007 dat oorspronkelijk in wijzigingen van de W 06/02/2003 voorzag is, voor zijn inwerkingtreding, vervangen door artikel 350 van de wet van 31 juli 2013 ( 2013-07-31/04 ) tot wijziging van de wet van 28 februari 2007 tot vaststelling van het statuut van de militairen van het actief kader van de Krijgsmacht en tot wijziging van sommige bepalingen betreffende het statuut van het militair personeel. Dit artikel vervangt het oorspronkelijk artikel 238 van de W 28/02/2007 door een nieuwe bepaling die de artikelen 2-6, 7, 8, 9, 10-12, 13 en 22-23 van de Wet 06/02/2003 wijzigt. Hiermee heeft de wetgever te kennen gegeven dat hij afstand doet van zijn oorspronkelijke wijzigingen. Met andere woorden zal artikel 238 van de W 28/02/2007, zoals deze voor zijn vervanging door de W 31/07/2013 bestond, nooit in werking treden"
   - "Raadpleging van vroegere versies vanaf 27-02-2003 en tekstbijwerking tot 15-05-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2003. - [Wet houdende sociale bepalingen voor militairen die terugkeren naar het burgerleven] &lt;W 2013-07-31/04 , art. 349, 006; Inwerkingtreding : 30-09-2013&gt;

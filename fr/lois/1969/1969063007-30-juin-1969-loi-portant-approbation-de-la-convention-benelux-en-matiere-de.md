@@ -10,7 +10,7 @@ date: 1969-06-30
 published: 1969-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1969/06/30/1969063007/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 1969. \_ Loi portant approbation de la Convention Benelux en matière de marques de produits, et annexe, signées à Bruxelles le 19 mars 1962.

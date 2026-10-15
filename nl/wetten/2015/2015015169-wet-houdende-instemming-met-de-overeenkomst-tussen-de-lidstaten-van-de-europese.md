@@ -11,7 +11,7 @@ entry_into_force: 2015-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/09/03/2015015169/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBER 2015. - Wet houdende instemming met de Overeenkomst tussen de lidstaten van de Europese Unie, in het kader van de Raad bijeen, betreffende de bescherming van in het belang van de Europese Unie uitgewisselde gerubriceerde informatie, gedaan te Brussel op 25 mei 2011

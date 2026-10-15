@@ -13,7 +13,7 @@ entry_into_force: 2024-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/01/29/2024201266/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2024. - Decreet houdende instemming met het Samenwerkingsakkoord van 16 november 2023 tussen het Waals Gewest en de Duitstalige Gemeenschap over de samenwerking inzake gezinsbijslagen

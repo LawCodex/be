@@ -13,7 +13,7 @@ entry_into_force: 2017-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/30/2017030471/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2017. - Bijzonder decreet houdende wijziging van het Provinciedecreet van 9 december 2005 en van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011

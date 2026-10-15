@@ -12,7 +12,7 @@ entry_into_force: 2017-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/11/30/2017010916/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2015. - Loi portant assentiment à l'Accord relatif à la participation de la République de Croatie à l'Espace économique européen et à trois accords y afférents, et à l'Acte final, faits à Bruxelles le 11 avril 2014 et le 5 novembre 2014

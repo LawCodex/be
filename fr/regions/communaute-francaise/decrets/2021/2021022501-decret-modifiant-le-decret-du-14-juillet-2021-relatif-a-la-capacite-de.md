@@ -13,7 +13,7 @@ entry_into_force: 2022-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/18/2021022501/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBRE 2021. - Décret modifiant le décret du 14 juillet 2021 relatif à la capacité de placement de la Communauté française pour assurer la mise en oeuvre et le suivi de la surveillance électronique, et au programme-horaire des justiciables condamnés à une peine privative de liberté de trois ans ou moins

@@ -11,7 +11,7 @@ published: 2001-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/06/26/2001022532/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2001. - Wet houdende instemming met het samenwerkingsakkoord van 4 juli 2000 tussen de Federale Staat, het Vlaams, het Waals en het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de sociale economie.

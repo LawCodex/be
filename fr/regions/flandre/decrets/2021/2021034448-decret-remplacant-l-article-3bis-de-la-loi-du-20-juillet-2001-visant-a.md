@@ -13,7 +13,7 @@ entry_into_force: 2022-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/10/2021034448/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2021. - Décret remplaçant l'article 3bis de la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité

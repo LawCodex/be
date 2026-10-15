@@ -12,7 +12,7 @@ entry_into_force: 2023-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/19/2023043265/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2023. - Loi modifiant l'article 80 du Code judiciaire, visant à permettre le remplacement de certains juges empêchés par des juges suppléants

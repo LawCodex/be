@@ -13,7 +13,7 @@ entry_into_force: 2018-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/08/2018206078/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 2018. - Decreet tot wijziging van boek II van het tweede deel van het Waalse Wetboek van Sociale Actie en Gezondheid betreffende de integratie van vreemdelingen of personen van buitenlandse herkomst

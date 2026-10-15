@@ -13,7 +13,7 @@ entry_into_force: 2012-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/04/26/2012031221/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2012. - Ordonnance portant assentiment à : la décision du Conseil européen du 25 mars 2011 modifiant l'article 136 du Traité sur le fonctionnement de l'Union européenne en ce qui concerne un mécanisme de stabilité pour les Etats membres dont la monnaie est l'euro

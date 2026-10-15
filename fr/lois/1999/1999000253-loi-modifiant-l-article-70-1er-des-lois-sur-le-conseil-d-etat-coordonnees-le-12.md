@@ -12,7 +12,7 @@ entry_into_force: 1999-05-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/22/1999000253/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 1999. - Loi modifiant l'article 70, § 1er, des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973.

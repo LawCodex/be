@@ -13,7 +13,7 @@ entry_into_force: 2021-11-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/12/2021205498/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 2021. - Décret accordant le titre de ville à la commune d'Ans

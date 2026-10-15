@@ -13,7 +13,7 @@ entry_into_force: 2008-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/20/2008202570/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2008. - Décret modifiant le Décret provincial en ce qui concerne la compétence d'ester en justice d'un organe décisionnel provincial (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/18/2023046513/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 OCTOBRE 2023. - Décret modifiant la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement en matière de financement des Ecoles supérieures des Arts

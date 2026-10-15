@@ -12,7 +12,7 @@ entry_into_force: 2000-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/08/12/2000000613/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AUGUSTUS 2000. - Wet tot wijziging van sommige wetten inzake de verkiezing van de provincie-, gemeente- en districtsraden en raden voor maatschappelijk welzijn, wat de verkiezingsuitgaven betreft.

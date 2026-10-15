@@ -13,7 +13,7 @@ entry_into_force: 2023-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/11/17/2022034315/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2022. - Décret modifiant le décret du 29 mars 2017 relatif aux études de sciences médicales et dentaires

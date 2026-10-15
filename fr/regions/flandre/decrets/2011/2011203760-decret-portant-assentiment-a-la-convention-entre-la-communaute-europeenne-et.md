@@ -13,7 +13,7 @@ entry_into_force: 2011-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/01/2011203760/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUILLET 2011. - Décret portant assentiment à la convention entre la Communauté européenne et ses Etats membres, d'une part, et la République d'Afrique du Sud, d'autre part, modifiant la convention sur le commerce, le développement et la coopération, signée à Kleinmond le 11 septembre 2009

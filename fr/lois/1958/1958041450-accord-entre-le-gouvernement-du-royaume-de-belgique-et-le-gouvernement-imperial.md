@@ -11,7 +11,7 @@ published: 1960-11-25
 entry_into_force: 1960-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1958/04/14/1958041450/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 AVRIL 1958. - Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement Impérial de l'Iran relatif aux transports aériens entre leurs territoires respectifs et au-delà.

@@ -11,7 +11,7 @@ date: 2017-10-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/10/19/2017013920/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OKTOBER 2017. - Decreet houdende verschillende maatregelen voor de vergemakkelijking van de toepassing van de voorrangsregeling inzake bekwaamheidsbewijzen zoals bepaald bij het decreet van 11 april 2014 tot regeling van de bekwaamheidsbewijzen en ambten in het door de Franse Gemeenschap georganiseerde of gesubsidieerde basis- en secundair onderwijs

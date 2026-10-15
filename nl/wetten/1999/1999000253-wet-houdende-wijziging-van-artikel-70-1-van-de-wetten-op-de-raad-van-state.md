@@ -12,7 +12,7 @@ entry_into_force: 1999-05-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/22/1999000253/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 1999. - Wet houdende wijziging van artikel 70, § 1, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973.

@@ -12,7 +12,7 @@ entry_into_force: 2023-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/07/04/2023043534/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2023. - Loi portant l'emploi des langues du mécanisme de filtrage établi par l'accord de coopération du 30 novembre 2022 visant à instaurer un mécanisme de filtrage des investissements directs étrangers

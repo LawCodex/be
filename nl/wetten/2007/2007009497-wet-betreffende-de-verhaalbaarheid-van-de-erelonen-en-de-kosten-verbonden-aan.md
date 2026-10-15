@@ -12,7 +12,7 @@ entry_into_force: 2007-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/21/2007009497/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2007. - Wet betreffende de verhaalbaarheid van de erelonen en de kosten verbonden aan de bijstand van een advocaat.

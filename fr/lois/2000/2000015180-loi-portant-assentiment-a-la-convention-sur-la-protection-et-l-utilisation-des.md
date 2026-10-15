@@ -12,7 +12,7 @@ entry_into_force: 2000-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/09/29/2000015180/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 SEPTEMBRE 2000. - Loi portant assentiment à la Convention sur la protection et l'utilisation des cours d'eau transfrontières et des lacs internationaux, et les annexes I, II, III et IV, faites à Helsinki le 17 mars 1992.

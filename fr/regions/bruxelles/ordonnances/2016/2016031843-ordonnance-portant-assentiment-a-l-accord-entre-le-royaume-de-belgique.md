@@ -13,7 +13,7 @@ entry_into_force: 2017-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/12/08/2016031843/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2016. - Ordonnance portant assentiment à : l'Accord entre le Royaume de Belgique, représenté par son gouvernement, et l'Etat d'Israël, représenté par son gouvernement, sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, signé à Jérusalem le 11 novembre 2013

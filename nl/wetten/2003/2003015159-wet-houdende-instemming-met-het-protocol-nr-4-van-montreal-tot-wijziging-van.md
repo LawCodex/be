@@ -12,7 +12,7 @@ entry_into_force: 2003-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/27/2003015159/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2003. - Wet houdende instemming met het Protocol nr. 4 van Montreal tot wijziging van het Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer, ondertekend te Warschau op 12 oktober 1929, zoals gewijzigd bij het te 's-Gravenhage op 28 september 1955 tot stand gekomen Protocol, ondertekend te Montreal op 25 september 1975.

@@ -13,7 +13,7 @@ entry_into_force: 2012-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/12/2012029324/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2012. - Décret portant diverses mesures d'exécution du Protocole d'accord du 7 avril 2011 dans le secteur de l'enseignement supérieur

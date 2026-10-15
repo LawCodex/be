@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/30/2013011409/justel"
 department: "Finances - Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 28-08-2013 et mise à jour au 29-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2013. - Loi relative à la certification d'un système de caisse enregistreuse [...] &lt;L 2023-12-28/01 , art. 101, 003; En vigueur : 01-01-2024&gt;

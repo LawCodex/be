@@ -13,7 +13,7 @@ entry_into_force: 2017-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/10/2017011210/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2017. - Decreet houdende instemming met het Internationaal Verdrag van 1990 inzake de voorbereiding op, de bestrijding van en de samenwerking bij olieverontreiniging, gedaan te Londen op 30 november 1990, en het Protocol van 2000 inzake de voorbereiding op, de bestrijding van en de samenwerking bij de voorvallen van verontreiniging door schadelijke en potentieel gevaarlijke stoffen, gedaan te Londen op 15 maart 2000

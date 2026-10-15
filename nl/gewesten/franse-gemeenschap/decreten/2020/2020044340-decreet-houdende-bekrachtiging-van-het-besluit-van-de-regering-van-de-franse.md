@@ -13,7 +13,7 @@ entry_into_force: 2020-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/09/2020044340/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2020. - Decreet houdende bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 12 van 20 mei 2020 houdende afwijking van het decreet van 18 januari 2018 tot vaststelling van een kadaster van subsidies in de Franse Gemeenschap in het kader van de gezondheidscrisis van COVID-19

@@ -12,7 +12,7 @@ published: 2013-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/10/17/2013029478/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OKTOBER 2013. - Decreet tot wijziging van verschillende bepalingen inzake leerplichtonderwijs en onderwijs voor sociale promotie1

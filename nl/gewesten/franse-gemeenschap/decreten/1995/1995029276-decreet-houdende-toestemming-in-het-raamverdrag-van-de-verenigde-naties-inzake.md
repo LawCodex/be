@@ -11,7 +11,7 @@ date: 1995-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/03/27/1995029276/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 1995. - Decreet houdende toestemming in het Raamverdrag van de Verenigde Naties inzake klimaatverandering, en in de bijlagen I en II, ondertekend in New York op 9 mei 1992 (VERTALING).

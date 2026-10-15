@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/13/2019203158/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 16-07-2019 et mise à jour au 09-02-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2018. - Décret fixant le budget des recettes et le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2019

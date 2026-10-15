@@ -13,7 +13,7 @@ entry_into_force: 1995-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/25/1999027145/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 1999. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et la Conférence de la Charte de l'énergie, fait à Bruxelles le 26 octobre 1995.

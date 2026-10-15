@@ -13,7 +13,7 @@ entry_into_force: 2004-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004036120/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende goedkeuring van het Samenwerkingsakkoord van 10 december 2003, gesloten tussen de federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie, het Vlaamse Gewest, het Waalse Gewest, het Brussels Hoofdstedelijk Gewest voor de samenwerking tussen de beleidsdomeinen van leefmilieu en gezondheid.

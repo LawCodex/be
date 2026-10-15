@@ -12,7 +12,7 @@ entry_into_force: 2005-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/12/03/2005003846/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2005. - Wet houdende diverse fiscale bepalingen met het oog op de toepassing van het akkoord tussen de Belgian Office, Taipei en de Taipei Representative Office in Belgium tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, en van het Protocol, ondertekend te Brussel op 13 oktober 2004.

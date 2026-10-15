@@ -12,7 +12,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/26/2003009275/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2003. - Loi portant les conditions auxquelles la commission pour l'aide financière aux victimes d'actes intentionnels de violence peut octroyer une aide.

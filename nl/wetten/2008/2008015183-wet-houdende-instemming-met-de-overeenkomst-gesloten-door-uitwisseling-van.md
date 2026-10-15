@@ -12,7 +12,7 @@ entry_into_force: 2008-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/10/22/2008015183/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2008. - Wet houdende instemming met de Overeenkomst, gesloten door uitwisseling van brieven te Sarajevo op 19 juli 2006, tussen de Regeringen van de Benelux-Staten en de Regering van Bosnië-Herzegovina inzake de afschaffing van de visumplicht voor houders van diplomatieke paspoorten.

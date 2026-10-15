@@ -13,7 +13,7 @@ entry_into_force: 2026-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/04/09/2026003092/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 2026. - Decreet tot opheffing van artikel 31 van het decreet van 29 maart 2018 tot wijziging van de decreten van 12 februari 2004 betreffende het statuut van de overheidsbestuurder en van 12 februari 2004 betreffende de Regeringscommissaris en de controleopdrachten van de revisoren binnen de instellingen van openbaar nut, met het oog op een sterker bestuur en een sterkere ethiek binnen de Waalse instellingen

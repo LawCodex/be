@@ -12,7 +12,7 @@ published: 2008-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/18/2008029403/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2008. - Decreet houdende verschillende wijzigingen van het statuut van de leden van het administratief personeel, het meester-, vak- en dienstpersoneel van de onderwijsinrichtingen ingericht door de Franse Gemeenschap (VERTALING).

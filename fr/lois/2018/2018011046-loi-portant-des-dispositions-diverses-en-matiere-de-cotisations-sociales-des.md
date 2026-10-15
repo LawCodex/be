@@ -12,7 +12,7 @@ entry_into_force: 2018-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/02/18/2018011046/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 2018. - Loi portant des dispositions diverses en matière de cotisations sociales des travailleurs indépendants

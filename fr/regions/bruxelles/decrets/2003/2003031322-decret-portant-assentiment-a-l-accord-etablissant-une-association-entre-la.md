@@ -13,7 +13,7 @@ entry_into_force: 2003-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/05/16/2003031322/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2003. - Décret portant assentiment à l'Accord établissant une association entre la Communauté européenne et ses Etats membres, d'une part, et la République du Chili, d'autre part.

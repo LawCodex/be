@@ -13,7 +13,7 @@ entry_into_force: 2018-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/29/2018040442/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2018. - Decreet houdende instemming met de kaderovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Australië, anderzijds, ondertekend te Manila op 7 augustus 2017

@@ -13,7 +13,7 @@ entry_into_force: 2024-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/26/2024004412/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2024. - Decreet tot wijziging van het Erkenningsdecreet Lokale Geloofsgemeenschappen van 22 oktober 2021

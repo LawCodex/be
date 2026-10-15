@@ -12,7 +12,7 @@ entry_into_force: 2005-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/02/25/2005021034/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 2005. - Révision de la Constitution. - Modification de la terminologie de la Constitution (Application de l'article 198 de la Constitution).

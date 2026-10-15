@@ -13,7 +13,7 @@ entry_into_force: 2013-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/05/30/2013203321/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2013. - Decreet houdende instemming met het Facultatief Protocol bij het Verdrag inzake de Rechten van het Kind inzake een mededelingsprocedure, aangenomen in New York op 19 december 2011

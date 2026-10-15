@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/05/2023046946/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 22-11-2023 et mise à jour au 04-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 OCTOBRE 2023. - Décret spécial portant diverses dispositions en matière de gouvernance, transparence, autonomie et contrôle des organismes qui dépendent de la Communauté française

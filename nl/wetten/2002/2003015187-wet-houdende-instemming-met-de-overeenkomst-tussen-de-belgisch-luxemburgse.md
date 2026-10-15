@@ -12,7 +12,7 @@ entry_into_force: 2004-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/05/26/2003015187/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 2002. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Republiek Jemen inzake de wederzijdse bevordering en bescherming van investeringen, gedaan te Brussel op 3 februari 2000.

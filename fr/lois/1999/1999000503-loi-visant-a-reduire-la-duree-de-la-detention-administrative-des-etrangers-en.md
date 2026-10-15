@@ -12,7 +12,7 @@ entry_into_force: 1999-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/29/1999000503/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 1999. - Loi visant à réduire la durée de la détention administrative des étrangers en séjour illégal sur le territoire belge.

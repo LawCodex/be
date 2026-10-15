@@ -12,7 +12,7 @@ published: 2014-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/03/2014029368/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2014. - Decreet tot wijziging van het stelsel van normen inzake creatie en behoud van opties in het gewoon secundair onderwijs met volledig leerplan

@@ -12,7 +12,7 @@ entry_into_force: 2003-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/11/05/2003015015/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 NOVEMBRE 2002. - Loi portant assentiment à l'accord entre le Gouvernement du Royaume de Belgique et le Gouvernement des Emirats Arabes Unis en vue de l'établissement de services aériens entre leurs territoires respectifs et au-delà, et Annexe, signés à Abou Dhabi le 5 mars 1990.

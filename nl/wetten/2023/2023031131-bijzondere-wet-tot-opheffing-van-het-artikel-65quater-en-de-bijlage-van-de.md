@@ -12,7 +12,7 @@ entry_into_force: 2023-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/06/11/2023031131/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2023. - Bijzondere wet tot opheffing van het artikel 65quater en de bijlage van de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten (1)

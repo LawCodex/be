@@ -13,7 +13,7 @@ entry_into_force: 2021-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/09/30/2021022146/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 SEPTEMBRE 2021. - Ordonnance portant approbation du compte général et règlement définitif du budget des Services du Gouvernement pour l'année 2018

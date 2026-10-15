@@ -13,7 +13,7 @@ entry_into_force: 2025-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/11/27/2025009467/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2025. - Decreet tot instemming met de overeenkomst tussen de regering van het Koninkrijk België en de regering van de Republiek Togo betreffende het luchtvervoer, ondertekend te Lomé op 13 juni 2019

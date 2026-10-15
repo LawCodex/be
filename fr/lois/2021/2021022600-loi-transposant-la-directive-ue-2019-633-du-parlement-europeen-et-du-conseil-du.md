@@ -12,7 +12,7 @@ entry_into_force: 2021-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/11/28/2021022600/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2021. - Loi transposant la directive (UE) 2019/633 du Parlement européen et du Conseil du 17 avril 2019 sur les pratiques commerciales déloyales dans les relations interentreprises au sein de la chaîne d'approvisionnement agricole et alimentaire et modifiant le Code de droit économique

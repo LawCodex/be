@@ -12,7 +12,7 @@ entry_into_force: 2020-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/03/27/2020040944/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2020. - Wet tot machtiging van de Koning om een staatswaarborg te verstrekken voor bepaalde kredieten in de strijd tegen de gevolgen van het coronavirus en tot wijziging van de wet van 25 april 2014 op het statuut en toezicht op kredietinstellingen en beursvennootschappen

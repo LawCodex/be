@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/04/29/1996033066/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 28-08-1996 et mise à jour au 02-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 1996. - Décret concernant la médiation et l'apurement de dettes (TRADUCTION).

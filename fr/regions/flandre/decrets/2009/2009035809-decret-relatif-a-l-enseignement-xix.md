@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/08/2009035809/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-08-2009 et mise à jour au 13-02-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2009. - Décret relatif à l'enseignement XIX

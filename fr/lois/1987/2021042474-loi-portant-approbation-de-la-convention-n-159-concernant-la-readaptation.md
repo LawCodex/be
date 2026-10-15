@@ -12,7 +12,7 @@ entry_into_force: 2022-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/06/11/2021042474/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 1987. - Loi portant approbation de la Convention n° 159 concernant la réadaptation professionnelle et l'emploi des personnes handicapées, adoptée à Genève le 20 juin 1983, par la Conférence internationale du Travail lors de sa soixante-neuvième session

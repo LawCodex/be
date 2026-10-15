@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/10/18/2007203258/justel"
 department: "Région Wallonne"
 justel_note: "le texte de ce décret est remplacé par <Erratum, voir M.B. 12-11-2007, p. 57009>"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 OCTOBRE 2007. - Décret portant ratification de l'arrêté du Gouvernement wallon du 15 juin 2006 pris en application de l'article 1er du décret-programme du 3 février 2005 de relance économique et de simplification administrative.

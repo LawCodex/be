@@ -13,7 +13,7 @@ entry_into_force: 2004-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/30/2004035886/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2004. - Décret modifiant la loi du 28 décembre 1964 relative à la lutte contre la pollution atmosphérique et le décret du 2 juillet 1981 concernant la gestion des déchets (TRADUCTION).

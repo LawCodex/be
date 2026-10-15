@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/03/22/2007201247/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 24-04-2007 en tekstbijwerking tot 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2007. - Fiscaal decreet tot bevordering van afvalpreventie en -valorisatie in het Waalse Gewest en tot wijziging van het decreet van 6 mei 1999 betreffende de vestiging, de invordering en de geschillen inzake de directe gewestelijke belastingen (VERTALING)

@@ -12,7 +12,7 @@ entry_into_force: 2022-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/02/06/2022040260/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2022. - Wet tot goedkeuring van de algemene rekening van het algemeen bestuur van het jaar 2020

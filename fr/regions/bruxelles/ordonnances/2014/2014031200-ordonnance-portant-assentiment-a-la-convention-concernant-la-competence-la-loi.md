@@ -13,7 +13,7 @@ entry_into_force: 2014-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/02/27/2014031200/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2014. - Ordonnance portant assentiment à : la Convention concernant la compétence, la loi applicable, la reconnaissance, l'exécution et la coopération en matière de responsabilité parentale et de mesures de protection des enfants, faite à La Haye le 19 octobre 1996

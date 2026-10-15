@@ -13,7 +13,7 @@ entry_into_force: 2006-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/02/17/2006029051/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2006. - Decreet houdende instemming met de Conventie ter bescherming van het immaterieel cultureel erfgoed, aangenomen op 17 oktober 2003 en opgemaakt in Parijs op 3 november 2003 (VERTALING).

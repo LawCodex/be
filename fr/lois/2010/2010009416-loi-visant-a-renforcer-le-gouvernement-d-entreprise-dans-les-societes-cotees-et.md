@@ -12,7 +12,7 @@ entry_into_force: 2010-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/04/06/2010009416/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 2010. - Loi visant à renforcer le gouvernement d'entreprise dans les sociétés cotées et les entreprises publiques autonomes et visant à modifier le régime des interdictions professionnelles dans le secteur bancaire et financier

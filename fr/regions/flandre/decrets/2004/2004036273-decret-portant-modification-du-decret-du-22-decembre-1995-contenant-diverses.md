@@ -13,7 +13,7 @@ entry_into_force: 2004-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036273/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant modification du décret du 22 décembre 1995 contenant diverses mesures d'accompagnement du budget 1996 et du décret du 15 juillet 1997 portant le Code flamand de Logement, en ce qui concerne la lutte contre l'inoccupation et le délabrement de bâtiments et/ou d'habitations (TRADUCTION).

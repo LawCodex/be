@@ -11,7 +11,7 @@ published: 1951-12-26
 entry_into_force: 1951-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1951/12/22/1951122205/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1951. - Loi étendant le champ d'application de la législation portant des dispositions exceptionnelles en matière de baux à loyer à certaines catégories de baux commerciaux, portant sur des immeubles à revenus modiques.

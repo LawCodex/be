@@ -12,7 +12,7 @@ entry_into_force: 2010-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/03/10/2010009243/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2010. - Wet tot opheffing van artikel 41 en tot wijziging van artikel 63 van het Burgerlijk Wetboek

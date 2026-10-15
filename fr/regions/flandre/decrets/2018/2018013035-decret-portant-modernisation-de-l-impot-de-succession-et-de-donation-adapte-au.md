@@ -13,7 +13,7 @@ entry_into_force: 2018-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/06/2018013035/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2018. - Décret portant modernisation de l'impôt de succession et de donation, adapté au nouveau droit successoral

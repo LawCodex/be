@@ -11,7 +11,7 @@ published: 1973-12-11
 entry_into_force: 1973-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1969/07/18/1969071851/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 1969. - Wet houdende goedkeuring van het Verdrag betreffende de instelling en het statuut van een Benelux-gerechtshof, ondertekend te Brussel op 31 maart 1965, en van het Aanvullend Protocol bij dit Verdrag, ondertekend te Brussel op 25 oktober 1966.

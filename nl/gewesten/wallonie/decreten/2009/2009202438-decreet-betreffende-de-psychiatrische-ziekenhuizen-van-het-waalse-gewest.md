@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202438/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 21-12-2011 en tekstbijwerking tot 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - [Decreet betreffende de Psychiatrische ziekenhuizen van het Waalse Gewest] &lt;Erratum, B.S. 22-06-2009, p. 43245&gt;

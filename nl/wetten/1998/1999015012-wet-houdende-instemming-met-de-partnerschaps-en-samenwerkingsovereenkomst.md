@@ -12,7 +12,7 @@ entry_into_force: 1999-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/01/09/1999015012/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 1998. - Wet houdende instemming met de Partnerschaps- en Samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Oezbekistan, anderzijds, Bijlagen I, II, III, IV en V, Protocol, en Slotakte, gedaan te Florence op 21 juni 1996.

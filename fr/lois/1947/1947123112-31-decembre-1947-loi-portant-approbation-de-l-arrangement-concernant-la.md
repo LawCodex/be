@@ -11,7 +11,7 @@ published: 1948-03-06
 entry_into_force: 1948-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1947/12/31/1947123112/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 DECEMBRE 1947. \_ Loi portant approbation de l'arrangement concernant la conservation ou la restauration des droits de propriété industrielle atteints par la deuxième guerre mondiale, signé à Neuchâtel, le 8 février 1947.

@@ -13,7 +13,7 @@ entry_into_force: 2009-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/05/14/2009031273/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MEI 2009. - Ordonnantie houdende wijziging van de ordonnantie van 7 juni 2007 betreffende de energieprestatie en het binnenklimaat van de gebouwen

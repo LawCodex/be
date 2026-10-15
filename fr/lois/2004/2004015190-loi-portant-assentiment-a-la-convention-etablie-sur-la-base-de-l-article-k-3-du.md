@@ -12,7 +12,7 @@ entry_into_force: 2004-11-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/09/13/2004015190/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 SEPTEMBRE 2004. - Loi portant assentiment à la Convention établie sur la base de l'article K.3 du Traité sur l'Union européenne, relative à l'assistance mutuelle et à la coopération entre les administrations douanières, et à l'Annexe, faites à Bruxelles le 18 décembre 1997.

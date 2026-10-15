@@ -13,7 +13,7 @@ entry_into_force: 2013-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/07/2013203739/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2013. - Decreet houdende instemming met het akkoord tussen de Regering van het Koninkrijk België en de Regering van het Prinsdom Andorra inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, ondertekend te Brussel op 23 oktober 2009

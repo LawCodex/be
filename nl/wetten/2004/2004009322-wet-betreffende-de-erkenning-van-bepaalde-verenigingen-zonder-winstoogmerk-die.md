@@ -11,7 +11,7 @@ published: 2004-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/04/25/2004009322/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2004. - Wet betreffende de erkenning van bepaalde verenigingen zonder winstoogmerk die slachtoffers van opzettelijke gewelddaden begeleiden.

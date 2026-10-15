@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/12/15/2017032180/justel"
 department: "Commission communautaire commune"
 justel_note: "Consultation des versions antérieures à partir du 23-01-2018 et mise à jour au 11-01-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2017. - Ordonnance contenant le Budget général des dépenses de la Commission communautaire commune pour l'année budgétaire 2018

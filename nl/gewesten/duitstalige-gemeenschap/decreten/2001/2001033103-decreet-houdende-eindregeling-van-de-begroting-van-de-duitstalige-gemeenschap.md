@@ -13,7 +13,7 @@ entry_into_force: 2002-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/11/19/2001033103/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2001. - Decreet houdende eindregeling van de begroting van de Duitstalige Gemeenschap voor het begrotingsjaar 2000.

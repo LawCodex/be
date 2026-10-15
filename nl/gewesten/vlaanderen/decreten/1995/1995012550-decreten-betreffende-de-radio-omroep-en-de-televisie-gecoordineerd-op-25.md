@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/01/25/1995012550/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-05-1995 en tekstbijwerking tot 05-08-2005"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 1995. - Decreten betreffende de radio-omroep en de televisie, gecoördineerd op 25 januari 1995.

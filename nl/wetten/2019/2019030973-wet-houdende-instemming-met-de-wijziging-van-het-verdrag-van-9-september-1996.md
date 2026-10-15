@@ -12,7 +12,7 @@ entry_into_force: 2022-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/23/2019030973/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2019. - Wet houdende instemming met de wijziging van het Verdrag van 9 september 1996 inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart (CDNI), aangenomen op 22 juni 2017

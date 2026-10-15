@@ -12,7 +12,7 @@ entry_into_force: 1995-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/13/1995009479/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 1995. - Loi modifiant l'article 20 de la loi du 26 février 1947 organisant le statut des prisonniers politiques et leurs ayants droit.

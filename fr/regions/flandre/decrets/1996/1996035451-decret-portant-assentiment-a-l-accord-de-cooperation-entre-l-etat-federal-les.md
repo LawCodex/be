@@ -13,7 +13,7 @@ entry_into_force: 1996-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/03/19/1996035451/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 1996. - Décret portant assentiment à l'Accord de Coopération entre l'Etat fédéral, les Communautés et les Régions, relatif aux modalités de conclusion de traités mixtes, signé à Bruxelles le 8 mars 1994 (TRADUCTION).

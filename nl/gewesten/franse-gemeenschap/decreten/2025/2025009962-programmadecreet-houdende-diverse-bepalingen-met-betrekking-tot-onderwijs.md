@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/17/2025009962/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 09-01-2026 en tekstbijwerking tot 07-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2025. - Programmadecreet houdende diverse bepalingen met betrekking tot onderwijs, infrastructuren, universitaire ziekenhuizen, cultuur, wetenschappelijk onderzoek, kind, justitiehuizen, jeugd en begrotingsfondsen

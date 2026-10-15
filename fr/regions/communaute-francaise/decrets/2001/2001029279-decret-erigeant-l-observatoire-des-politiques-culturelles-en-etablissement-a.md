@@ -13,7 +13,7 @@ entry_into_force: 2001-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/12/2001029279/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2001. - Décret érigeant l'Observatoire des politiques culturelles en établissement à gestion séparée.

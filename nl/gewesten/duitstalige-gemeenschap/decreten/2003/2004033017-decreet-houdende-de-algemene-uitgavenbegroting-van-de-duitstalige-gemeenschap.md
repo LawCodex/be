@@ -13,7 +13,7 @@ entry_into_force: 2004-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/01/2004033017/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2003. - Decreet houdende de algemene uitgavenbegroting van de Duitstalige Gemeenschap voor het begrotingsjaar 2004. (Vertaling).

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/07/03/1991029358/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-07-1991 en tekstbijwerking tot 07-01-2003"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 1991. - Decreet betreffende de sociale integratie van de gehandicapten en hun inschakeling in het arbeidsproces. (NOTA 1 : Opgeheven voor de Franse Gemeenschapscommissie bij DEC 1999-03-04/41, art. 75, 4°; Inwerkingtreding : 01-01-1999) (NOTA 2 : Opgeheven voor wat betreft het Franse taalgebied bij BWG 2002-11-07/48, art. 57; Inwerkingtreding : 01-01-2003) (Vertaling)

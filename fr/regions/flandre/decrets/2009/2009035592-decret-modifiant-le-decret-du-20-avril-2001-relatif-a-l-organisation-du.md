@@ -13,7 +13,7 @@ entry_into_force: 2009-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/08/2009035592/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2009. - Decret modifiant le décret du 20 avril 2001 relatif à l'organisation du transport de personnes par la route

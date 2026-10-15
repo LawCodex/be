@@ -13,7 +13,7 @@ entry_into_force: 2024-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/04/04/2024003451/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2024. - Ordonnance portant assentiment à la Convention portant création de l'Organisation internationale pour les aides à la navigation maritime et son annexe, faite à Paris le 27 janvier 2021

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/03/29/2012021057/justel"
 department: "Chancellerie du Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 30-03-2012 et mise à jour au 01-06-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2012. - Loi portant des dispositions diverses (I)

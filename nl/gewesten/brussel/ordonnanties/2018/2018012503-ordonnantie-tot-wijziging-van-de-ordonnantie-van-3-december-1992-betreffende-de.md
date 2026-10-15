@@ -12,7 +12,7 @@ published: 2018-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/05/31/2018012503/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2018. - Ordonnantie tot wijziging van de ordonnantie van 3 december 1992 betreffende de exploitatie en de ontwikkeling van het kanaal, de haven, de voorhaven en de aanhorigheden ervan in het Brussels Hoofdstedelijk Gewest om te voorzien in de vertegenwoordiging van de sociale partners in de raad van bestuur van de Gewestelijke Vennootschap van de Haven van Brussel

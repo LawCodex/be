@@ -13,7 +13,7 @@ entry_into_force: 2019-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/01/2019011144/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2019. - Decreet houdende goedkeuring van het besluit van de Vlaamse Regering van 21 december 2018 tot ontvankelijkheid en gelijkwaardigheid van een aanvraag van de Federatie Steinerscholen Vlaanderen vzw tot afwijking van de eindtermen, wat de derde graad technisch secundair onderwijs betreft

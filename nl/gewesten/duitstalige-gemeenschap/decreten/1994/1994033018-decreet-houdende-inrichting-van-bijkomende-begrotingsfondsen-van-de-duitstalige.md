@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/01/17/1994033018/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 12-09-2002 en tekstbijwerking tot 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANUARI 1994. - Decreet houdende inrichting van bijkomende begrotingsfondsen van de Duitstalige Gemeenschap. (Vertaling)

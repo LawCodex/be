@@ -12,7 +12,7 @@ entry_into_force: 2022-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/17/2019041382/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2019. - Loi portant assentiment à l'Accord de partenariat stratégique entre l'Union européenne et ses Etats membres, d'une part, et le Japon, d'autre part, fait à Tokyo le 17 juillet 2018

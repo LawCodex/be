@@ -12,7 +12,7 @@ entry_into_force: 2022-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/20/2022204499/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2022. - Wet tot wijziging van artikel 19, § 2, 4°, van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, wat de verplaatsingsvergoeding bij economische overheidsbedrijven betreft

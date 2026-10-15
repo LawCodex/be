@@ -11,7 +11,7 @@ published: 2017-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/07/31/2017040493/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2017. - Wet tot invoering van een doorlopend systeem van voorschotten op de opbrengst van de aanvullende gemeentebelasting op de personenbelasting

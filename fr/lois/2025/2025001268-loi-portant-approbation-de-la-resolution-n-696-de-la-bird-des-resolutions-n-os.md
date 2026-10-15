@@ -12,7 +12,7 @@ entry_into_force: 2025-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/04/27/2025001268/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2025. - Loi portant approbation de la résolution n° 696 de la BIRD, des résolutions n os 259 et 260 de la BERD et de la modification de l'accord portant création de la Banque asiatique de développement

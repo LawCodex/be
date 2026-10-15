@@ -12,7 +12,7 @@ entry_into_force: 2013-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/08/30/2013014495/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AOUT 2013. - Loi relative à la réforme des chemins de fer belges

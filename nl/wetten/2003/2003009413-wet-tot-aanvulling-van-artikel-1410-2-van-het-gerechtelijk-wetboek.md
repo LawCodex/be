@@ -12,7 +12,7 @@ entry_into_force: 2003-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/22/2003009413/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2003. - Wet tot aanvulling van artikel 1410, § 2, van het Gerechtelijk Wetboek.

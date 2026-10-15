@@ -13,7 +13,7 @@ entry_into_force: 2010-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/22/2010027256/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2010. - Decreet tot wijziging van artikel 20 van het decreet van 19 december 2002 betreffende de organisatie van de gewestelijke gasmarkt

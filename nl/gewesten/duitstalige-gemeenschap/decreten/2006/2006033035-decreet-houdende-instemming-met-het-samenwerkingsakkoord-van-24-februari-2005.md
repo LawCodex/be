@@ -13,7 +13,7 @@ entry_into_force: 2006-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/01/30/2006033035/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2006. - Decreet houdende instemming met het samenwerkingsakkoord van 24 februari 2005 betreffende de interregionale mobiliteit van de werkzoekenden gesloten tussen het Brussels Hoofdstedelijk Gewest, het Waals Gewest, de Vlaamse Gemeenschap, de Duitstalige Gemeenschap en de Franse Gemeenschapscommissie (VERTALING).

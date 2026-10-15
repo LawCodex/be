@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/10/30/1998021437/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 10-11-1998 et mise à jour au 14-05-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 OCTOBRE 1998. - Loi relative à l'euro.

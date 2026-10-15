@@ -12,7 +12,7 @@ entry_into_force: 2006-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/01/10/2006015016/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANUARI 2006. - Wet houdende instemming met de bij Briefwisseling gesloten Overeenkomst tussen de Regeringen van het Koninkrijk België, het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg, enerzijds, en de Regering van Peru, anderzijds, inzake de afschaffing van de visumplicht met betrekking tot diplomatieke en speciale of dienstpaspoorten, ondertekend te Lima op 12 en 23 februari 2001.

@@ -12,7 +12,7 @@ entry_into_force: 2016-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/02/29/2016009139/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 FEBRUARI 2016. - Wet tot aanvulling en wijziging van het Sociaal Strafwetboek en houdende diverse bepalingen van sociaal strafrecht

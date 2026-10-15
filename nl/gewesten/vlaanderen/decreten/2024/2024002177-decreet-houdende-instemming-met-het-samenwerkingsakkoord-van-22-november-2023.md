@@ -13,7 +13,7 @@ entry_into_force: 2024-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/01/2024002177/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2024. - Decreet houdende instemming met het samenwerkingsakkoord van 22 november 2023 tussen de Federale Staat en de Vlaamse Gemeenschap inzake slachtofferzorg

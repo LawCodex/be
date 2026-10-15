@@ -13,7 +13,7 @@ entry_into_force: 2012-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/03/23/2012029158/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2012. - Decreet houdende diverse maatregelen inzake hoger onderwijs

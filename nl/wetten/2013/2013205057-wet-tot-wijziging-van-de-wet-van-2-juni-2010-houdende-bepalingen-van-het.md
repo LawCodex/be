@@ -11,7 +11,7 @@ entry_into_force: 2013-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/30/2013205057/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2013. - Wet tot wijziging van de wet van 2 juni 2010 houdende bepalingen van het sociaal strafrecht

@@ -13,7 +13,7 @@ last_amended: 2018-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1947/02/28/1947022807/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 20-07-2018 en tekstbijwerking tot 20-07-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 1947. - Besluitwet bestreffende de beteugeling van de sluikslachting en van den handel in van deze slachtingen voortkomend vleesch en vet

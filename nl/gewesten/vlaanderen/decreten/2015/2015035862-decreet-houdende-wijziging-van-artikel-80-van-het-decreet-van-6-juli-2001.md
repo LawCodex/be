@@ -13,7 +13,7 @@ entry_into_force: 2015-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/26/2015035862/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2015. - Decreet houdende wijziging van artikel 80 van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking

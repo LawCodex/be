@@ -12,7 +12,7 @@ entry_into_force: 2003-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/22/2003003253/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2003. - Loi concernant la modernisation de la taxe d'affichage et des modes de paiement du droit de timbre.

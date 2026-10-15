@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/19/1998035415/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 18-04-1998 en tekstbijwerking tot 25-04-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1997. - Decreet houdende oprichting van de naamloze vennootschap "Mijnschade en Bemaling Limburgs Mijngebied".

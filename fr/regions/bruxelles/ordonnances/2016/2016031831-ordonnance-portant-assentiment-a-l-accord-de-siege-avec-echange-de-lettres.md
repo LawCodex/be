@@ -13,7 +13,7 @@ entry_into_force: 2017-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/12/08/2016031831/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2016. - Ordonnance portant assentiment à : l'Accord de siège, avec échange de lettres, entre le Royaume de Belgique et l'Organisation internationale de Police criminelle (OICP - INTERPOL), fait à Lyon le 14 octobre 2014 et à Bruxelles le 24 octobre 2014

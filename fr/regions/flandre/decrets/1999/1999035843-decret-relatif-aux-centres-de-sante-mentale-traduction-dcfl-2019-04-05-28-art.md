@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "Les articles 20, 30, chapitre IX et l'article 35 modifiés avec effet à une date indéterminée par <DCFL 2013-06-21/17 , art. 21-25; En vigueur : indéterminée >"
   - "Consultation des versions antérieures à partir du 17-07-1999 et mise à jour au 10-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1999. - Décret relatif [aux centres de santé mentale] (TRADUCTION).&lt;DCFL 2019-04-05/28 , art. 30, 011; En vigueur : 08-08-2024&gt;

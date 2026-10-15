@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/02/22/2008029225/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 23-04-2008 en tekstbijwerking tot 09-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2008. - Decreet houdende verschillende maatregelen betreffende de organisatie en de werking van het Agentschap voor de evaluatie van de kwaliteit van het door de Franse Gemeenschap georganiseerde of gesubsidieerde onderwijs (VERTALING)

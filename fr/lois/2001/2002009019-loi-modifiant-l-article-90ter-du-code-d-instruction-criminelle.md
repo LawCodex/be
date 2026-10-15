@@ -12,7 +12,7 @@ entry_into_force: 2002-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/11/29/2002009019/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2001. - Loi modifiant l'article 90ter du Code d'instruction criminelle.

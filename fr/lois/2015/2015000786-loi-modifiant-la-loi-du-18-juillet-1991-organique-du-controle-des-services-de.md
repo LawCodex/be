@@ -12,7 +12,7 @@ entry_into_force: 2016-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/14/2015000786/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2015. - Loi modifiant la loi du 18 juillet 1991 organique du contrôle des services de police et de renseignement et de l'Organe de coordination pour l'analyse de la menace en ce qui concerne le mandat des membres suppléants du Comité permanent de contrôle des services de police et du Comité permanent de contrôle des services de renseignements

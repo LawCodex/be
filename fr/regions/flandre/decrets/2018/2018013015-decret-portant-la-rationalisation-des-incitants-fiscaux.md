@@ -13,7 +13,7 @@ entry_into_force: 2018-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/22/2018013015/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2018. - Décret portant la rationalisation des incitants fiscaux

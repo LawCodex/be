@@ -12,7 +12,7 @@ entry_into_force: 2013-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/19/2013021010/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2012. - Loi relative à la rémunération des membres du personnel et des mandataires des organismes d'intérêt public, des entreprises publiques autonomes et des personnes morales sur lesquelles l'Etat exerce directement ou indirectement une influence dominante, en tant que personne physique

@@ -12,7 +12,7 @@ entry_into_force: 2020-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/08/13/2023045137/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AUGUSTUS 2023. - Wet tot wijziging van de gemeentewet, gecoördineerd op 4 augustus 1932, teneinde de situatie van de Britse burgers die vóór de inwerkingtreding van de Brexit voor de gemeenteraadsverkiezingen als kiezer waren ingeschreven, te regulariseren

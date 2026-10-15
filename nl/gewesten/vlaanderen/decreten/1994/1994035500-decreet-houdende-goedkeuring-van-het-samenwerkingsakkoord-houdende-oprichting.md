@@ -13,7 +13,7 @@ entry_into_force: 1994-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/03/16/1994035500/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 1994. - Decreet houdende goedkeuring van het samenwerkingsakkoord houdende oprichting van een Raadgevend Comité voor Bio-ethiek gesloten te Brussel op 15 januari 1993 tussen de Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie.

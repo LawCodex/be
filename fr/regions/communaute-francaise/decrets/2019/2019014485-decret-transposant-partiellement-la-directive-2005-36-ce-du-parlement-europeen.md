@@ -12,7 +12,7 @@ published: 2019-09-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/14/2019014485/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2019. - Décret transposant partiellement la directive 2005/36/CE du Parlement européen et du Conseil de l'Union européenne du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles modifiée par la Directive 2013/55/ UE du Parlement européen et du Conseil du 20 novembre 2013

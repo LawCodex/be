@@ -12,7 +12,7 @@ entry_into_force: 2024-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/16/2024006174/justel"
 department: "Mobilité et Transports - Finances - Justice - Défense Nationale - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Loi modifiant la loi du 25 décembre 2016 relative au traitement des données des passagers

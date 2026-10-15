@@ -13,7 +13,7 @@ last_amended: 2024-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1964/12/28/1964122807/justel"
 justel_note: "Consultation des versions antérieures à partir du 08-06-2004 et mise à jour au 17-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBRE 1964. - Loi relative à la lutte contre la pollution atmosphérique.

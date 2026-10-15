@@ -13,7 +13,7 @@ entry_into_force: 1998-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/23/1998027450/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 1998. - Decreet houdende goedkeuring van het Verdrag van Amsterdam tot wijziging van het Verdrag betreffende de Europese Unie, de Verdragen tot oprichting van de Europese Gemeenschappen en enkele samenhangende akten, de Bijlage, de aanvullende Protocollen en de Slotakte, opgemaakt te Amsterdam op 2 oktober 1997 (VERTALING).

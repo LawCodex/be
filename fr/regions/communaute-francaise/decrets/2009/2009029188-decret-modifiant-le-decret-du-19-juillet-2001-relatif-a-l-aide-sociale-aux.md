@@ -13,7 +13,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/02/19/2009029188/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2009. - Décret modifiant le décret du 19 juillet 2001 relatif à l'aide sociale aux détenus en vue de leur réinsertion sociale

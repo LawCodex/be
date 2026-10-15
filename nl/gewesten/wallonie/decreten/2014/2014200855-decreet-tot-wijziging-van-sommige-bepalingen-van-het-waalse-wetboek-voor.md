@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/23/2014200855/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 2014. - Decreet tot wijziging van sommige bepalingen van het Waalse wetboek voor sociale actie en gezondheid i.v.m. de centra en federaties voor levens- en gezinsvragen

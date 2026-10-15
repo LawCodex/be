@@ -12,7 +12,7 @@ entry_into_force: 1998-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/11/19/1998000744/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 1998. - Loi modifiant la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour les élections des chambres fédérales ainsi qu'au financement et à la comptabilité ouverte des partis politiques.

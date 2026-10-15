@@ -13,7 +13,7 @@ entry_into_force: 2024-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/17/2024005245/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2024. - Décret modifiant le décret du 18 novembre 2016 portant attribution de tâches rénovées et le financement modifié des provinces, en ce qui concerne De Warande

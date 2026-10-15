@@ -12,7 +12,7 @@ entry_into_force: 2003-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/11/2003015009/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2002. - Loi portant assentiment à la Convention de coopération relative aux Activités spatiales entre la Commission nationale des Activités spatiales et les Services fédéraux des Affaires scientifiques, techniques et culturelles, en exécution de la Déclaration d'intérêt relative à la Coopération spatiale signée le 1er avril 1997 par les Gouvernements du Royaume de Belgique et de la République d'Argentine, signée à Liège le 3 octobre 1997.

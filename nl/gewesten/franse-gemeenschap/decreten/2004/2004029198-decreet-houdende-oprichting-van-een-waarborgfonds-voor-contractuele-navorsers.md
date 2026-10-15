@@ -13,7 +13,7 @@ entry_into_force: 2004-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/19/2004029198/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2004. - Decreet houdende oprichting van een Waarborgfonds voor contractuele navorsers (VERTALING).

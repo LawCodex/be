@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/10/29/1998A27652/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 04-12-1998 et mise à jour au 21-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 OCTOBRE 1998. - Code wallon [de l'habitation durable] (Intitulé modifié par DRW 2012-02-09/05 , art. 1; En vigueur : 20-04-2012, voir ARW 2012-03-23/07 , art. 12) (Intitulé modifié par DRW 2019-05-02/52 , art. 1, 046; En vigueur : 01-09-2019)

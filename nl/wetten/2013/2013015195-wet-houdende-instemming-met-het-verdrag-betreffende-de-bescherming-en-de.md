@@ -11,7 +11,7 @@ published: 2013-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/19/2013015195/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2013. - Wet houdende instemming met het Verdrag betreffende de bescherming en de bevordering van de diversiteit van cultuuruitingen, en met de Bijlage, aangenomen te Parijs op 20 oktober 2005

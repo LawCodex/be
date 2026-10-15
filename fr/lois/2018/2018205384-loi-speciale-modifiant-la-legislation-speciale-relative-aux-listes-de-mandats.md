@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/10/14/2018205384/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 OCTOBRE 2018. - Loi spéciale modifiant la législation spéciale relative aux listes de mandats et déclarations de patrimoine en ce qui concerne la transparence des rémunérations, l'extension aux administrateurs publics, le dépôt électronique et le contrôle

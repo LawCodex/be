@@ -13,7 +13,7 @@ entry_into_force: 2017-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/16/2017201658/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 2017. - Decreet houdende ontbinding van de "Office wallon des déchets" (Waalse dienst voor afvalstoffen) en tot wijziging van het decreet van 27 juni 1996 betreffende de afvalstoffen, het decreet van 19 december 2002 houdende invoering van een financiële centralisatie van de thesaurieën van de Waalse instellingen van openbaar nut, Boek I van het Milieuwetboek en het fiscaal decreet van 22 maart 2007 tot bevordering van afvalpreventie en -valorisatie in het Waalse Gewest en houdende wijziging van het decreet van 6 mei 1999 betreffende de vestiging, de invordering en de geschillen inzake de directe gewestelijke belastingen

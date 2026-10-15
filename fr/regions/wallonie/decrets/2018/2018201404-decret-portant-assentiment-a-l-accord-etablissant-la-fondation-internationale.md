@@ -13,7 +13,7 @@ entry_into_force: 2018-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/15/2018201404/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2018. - Décret portant assentiment à l'Accord établissant la Fondation internationale UE-ALC, signé à Saint-Domingue, le 25 octobre 2016

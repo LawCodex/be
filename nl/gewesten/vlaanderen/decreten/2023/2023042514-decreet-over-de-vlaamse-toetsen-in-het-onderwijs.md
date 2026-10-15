@@ -13,7 +13,7 @@ entry_into_force: 2023-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/04/28/2023042514/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2023. - Decreet over de Vlaamse toetsen in het onderwijs

@@ -13,7 +13,7 @@ entry_into_force: 1995-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/11/08/1995033094/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 1993. - DECRET portant assentiment aux actes juridiques internationaux suivants : 1. Accord relatif a l'Espace économique européen, protocoles, annexes et acte final, conclus à Porto le 2 mai 1992; 2. Protocole adaptant l'accord relatif a l'Espace économique européen, annexe et acte final, conclus à Bruxelles le 17 mars 1993

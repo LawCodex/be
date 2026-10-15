@@ -13,7 +13,7 @@ entry_into_force: 2016-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/09/2016203147/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 2016. - Décret portant assentiment à l'Accord de transport aérien entre les Etats-Unis d'Amérique, premièrement, l'Union européenne et ses Etats membres, deuxièmement, l'Islande, troisièmement, et le Royaume de Norvège, quatrièmement, fait à Luxembourg et Oslo les 16 et 21 juin 2011, ainsi qu'à l'Accord annexe entre l'Union européenne et ses Etats membres, premièrement, l'Islande, deuxièmement, et le Royaume de Norvège, troisièmement, concernant l'application de l'Accord de transport aérien entre les Etats-Unis d'Amérique, premièrement, l'Union européenne et ses Etats membres, deuxièmement, l'Islande, troisièmement, et le Royaume de Norvège, quatrièmement, fait à Luxembourg et Oslo les 16 et 21 juin 2011

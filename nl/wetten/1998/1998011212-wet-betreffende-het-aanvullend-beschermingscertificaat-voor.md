@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/07/05/1998011212/justel"
 department: "Economische Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 28-08-1998 en tekstbijwerking tot 11-09-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1998. - Wet betreffende het aanvullend beschermingscertificaat voor gewasbeschermingsmiddelen.

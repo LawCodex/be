@@ -12,7 +12,7 @@ entry_into_force: 1995-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/03/18/1995015099/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 1993. - Loi portant approbation des actes internationaux suivants : 1. Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Hongrie, d'autre part, et Annexes I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII et XIII, Protocoles 1, 2, 3, 4, 5, 6 et 7 et Acte final avec quatorze Déclarations communes, deux Accords sous forme d'échange de lettres et deux échanges de lettres, deux Déclarations de la Communauté, quatre Déclarations de la Hongrie et Lettre du Gouvernement de la Hongrie, faits à Bruxelles, le 16 décembre 1991; 2. Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Pologne, d'autre part, et Annexes I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII et XIII, Protocoles 1, 2, 3, 4, 5, 6 et 7, et Acte final avec quinze Déclarations communes, deux Accords sous forme d'échange de lettres, deux Déclarations de la Communauté, trois Déclarations de la Pologne et Lettre du Gouvernement de la Pologne, faits à Bruxelles le 16 décembre 1991.

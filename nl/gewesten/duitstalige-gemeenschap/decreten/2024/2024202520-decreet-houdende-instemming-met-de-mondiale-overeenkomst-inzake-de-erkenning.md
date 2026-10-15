@@ -13,7 +13,7 @@ entry_into_force: 2024-10-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/22/2024202520/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2024. - Decreet houdende instemming met de Mondiale Overeenkomst inzake de erkenning van kwalificaties in het hoger onderwijs, gedaan te Parijs op 25 november 2019

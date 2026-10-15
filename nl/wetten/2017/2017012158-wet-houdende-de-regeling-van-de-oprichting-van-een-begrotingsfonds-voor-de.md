@@ -11,7 +11,7 @@ published: 2017-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/04/26/2017012158/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2017. - Wet houdende de regeling van de oprichting van een Begrotingsfonds voor de juridische tweedelijnsbijstand voor wat de Raad van State en de Raad voor Vreemdelingenbetwistingen betreft

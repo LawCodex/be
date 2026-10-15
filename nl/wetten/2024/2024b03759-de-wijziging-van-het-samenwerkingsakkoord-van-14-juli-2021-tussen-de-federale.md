@@ -12,7 +12,7 @@ entry_into_force: 2023-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/19/2024B03759/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2024. - De wijziging van het Samenwerkingsakkoord van 14 juli 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, het Waals Gewest en de Franse Gemeenschapscommissie betreffende de verwerking van gegevens met betrekking tot het digitaal EU-COVID-certificaat, het COVID Safe Ticket, het PLF en de verwerking van persoonsgegevens van in het buitenland wonende of verblijvende werknemers en zelfstandigen die activiteiten uitvoeren in België, zoals gewijzigd door de Samenwerkingsakkoorden van 27 september 2021 en van 28 oktober 2021

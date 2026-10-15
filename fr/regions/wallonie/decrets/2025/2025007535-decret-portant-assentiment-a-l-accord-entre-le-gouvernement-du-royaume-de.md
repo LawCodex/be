@@ -13,7 +13,7 @@ entry_into_force: 2025-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/09/25/2025007535/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 SEPTEMBRE 2025. - Décret portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République du Cap-Vert relatif au transport aérien, signé à Bruxelles le 26 octobre 2017

@@ -13,7 +13,7 @@ entry_into_force: 2025-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/05/22/2025004153/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2025. - Décret portant assentiment à l'Accord de protection des investissements entre l'Union européenne et ses Etats membres, d'une part, et la République de Singapour, d'autre part, fait à Bruxelles le 19 octobre 2018

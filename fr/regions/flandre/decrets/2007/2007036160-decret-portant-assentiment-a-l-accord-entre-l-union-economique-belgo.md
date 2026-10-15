@@ -13,7 +13,7 @@ entry_into_force: 2007-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/06/08/2007036160/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2007. - Décret portant assentiment à l'accord entre l'Union économique belgo-luxembourgeoise et le gouvernement du Royaume de Bahreïn concernant l'encouragement et la protection réciproques des investissements, signé à Manama le 11 juillet 2006 (TRADUCTION).

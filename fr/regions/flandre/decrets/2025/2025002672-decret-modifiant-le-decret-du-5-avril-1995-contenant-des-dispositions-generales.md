@@ -13,7 +13,7 @@ entry_into_force: 2025-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/03/21/2025002672/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2025. - Décret modifiant le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement

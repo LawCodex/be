@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/26/2003022575/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 22-05-2003 et mise à jour au 14-06-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2003. - Loi réglementant la pratique de l'autopsie après le décès inopiné et médicalement inexpliqué d'un enfant de moins de dix-huit mois. (NOTE 1 : art. 5 modifié avec date d'entrée en vigueur fixée au 01-06-2014 par L 2013-03-17/14 , art. 219&gt;

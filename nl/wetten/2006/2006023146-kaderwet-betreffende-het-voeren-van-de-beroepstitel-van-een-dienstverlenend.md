@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/09/24/2006023146/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 16-11-2006 en tekstbijwerking tot 21-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 SEPTEMBER 2006. - Kaderwet betreffende het voeren van de beroepstitel van een dienstverlenend intellectueel beroep en het voeren van de beroepstitel van een ambachtelijk beroep

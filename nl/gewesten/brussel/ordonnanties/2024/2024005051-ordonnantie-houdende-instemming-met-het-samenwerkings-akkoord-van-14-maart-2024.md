@@ -13,7 +13,7 @@ entry_into_force: 2024-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/05/16/2024005051/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Ordonnantie houdende instemming met het samenwerkings-akkoord van 14 maart 2024 tussen de Franse Gemeenschapscommissie, de Gemeenschappelijke Gemeenschapscommissie en het Brussels Hoofdstedelijk Gewest betreffende de oprichting van het permanent platform voor dialoog en overleg in de non-profitsector en de onderbrenging ervan bij Brupartners

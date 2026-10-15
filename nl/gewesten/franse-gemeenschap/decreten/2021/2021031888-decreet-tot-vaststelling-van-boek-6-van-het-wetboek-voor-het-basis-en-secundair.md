@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/17/2021031888/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-07-2021 en tekstbijwerking tot 10-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2021. - Decreet tot vaststelling van Boek 6 van het wetboek voor het basis- en secundair onderwijs en tot vaststelling van de titel betreffende de voortgezette beroepsopleiding van de leden van het onderwijsteam van de scholen en van de personeelsleden van het multidisciplinaire team van de PMS-centra

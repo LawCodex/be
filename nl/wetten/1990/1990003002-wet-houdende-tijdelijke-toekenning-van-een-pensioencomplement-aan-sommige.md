@@ -12,7 +12,7 @@ entry_into_force: 1990-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/01/02/1990003002/justel"
 department: "Financiën"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JANUARI 1990. - Wet houdende tijdelijke toekenning van een pensioencomplement aan sommige gepensioneerden van de openbare sector.

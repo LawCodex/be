@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/07/14/1994027501/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 28-09-1994 en tekstbijwerking tot 26-04-1995."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1994. - Decreet tot wijziging van de jachtwet van 28 februari 1882.

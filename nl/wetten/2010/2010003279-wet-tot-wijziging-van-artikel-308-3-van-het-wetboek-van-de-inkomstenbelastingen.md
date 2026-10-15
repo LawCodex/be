@@ -12,7 +12,7 @@ entry_into_force: 2010-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/05/04/2010003279/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2010. - Wet tot wijziging van artikel 308, § 3, van het Wetboek van de inkomstenbelastingen 1992

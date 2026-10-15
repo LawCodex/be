@@ -12,7 +12,7 @@ entry_into_force: 2024-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/03/2024202969/justel"
 department: "Emploi, Travail et Concertation sociale - Finances - Stratégie et Appui - Justice - Economie, PME, Classes moyennes et Energie - Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2024. - Loi modifiant les règles de récupération applicables en cas de cessation, avant l'expiration de la durée minimale, du crédit-temps dans le secteur privé, de l'interruption de carrière dans le secteur public et des régimes de congés thématiques

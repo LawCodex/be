@@ -13,7 +13,7 @@ entry_into_force: 1995-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/10/1995029258/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 1995. - Decreet tot wijziging van bepalingen van de wetgeving op het secundair onderwijs. (VERTALING).

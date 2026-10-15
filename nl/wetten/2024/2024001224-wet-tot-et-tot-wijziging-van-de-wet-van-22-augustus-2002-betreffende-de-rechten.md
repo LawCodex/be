@@ -12,7 +12,7 @@ entry_into_force: 2024-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/02/06/2024001224/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2024. - Wet tot et tot wijziging van de wet van 22 augustus 2002 betreffende de rechten van de patiënt en tot wijziging van bepalingen inzake rechten van de patiënt in andere wetten inzake gezondheid

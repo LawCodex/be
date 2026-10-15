@@ -12,7 +12,7 @@ entry_into_force: 2022-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/01/29/2022031260/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2022. - Loi portant assentiment à la Convention du Conseil de l'Europe contre le trafic d'organes humains, faite à Saint-Jacques-de-Compostelle le 25 mars 2015

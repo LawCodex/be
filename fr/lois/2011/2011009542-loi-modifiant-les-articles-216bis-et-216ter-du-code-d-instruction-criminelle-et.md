@@ -12,7 +12,7 @@ entry_into_force: 2011-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/07/11/2011009542/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2011. - Loi modifiant les articles 216bis et 216ter du Code d'instruction criminelle et l'article 7 de la loi du 6 juin 2010 introduisant le Code pénal social

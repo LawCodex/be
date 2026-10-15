@@ -13,7 +13,7 @@ entry_into_force: 2020-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/11/12/2020016131/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 2020. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française de pouvoirs spéciaux n° 2 du 7 avril 2020 pris en exécution du décret du 17 mars 2020 octroyant des pouvoirs spéciaux au Gouvernement dans le cadre de la crise sanitaire du COVID-19 relatif à la création d'un fonds d'urgence et de soutien et des arrêtés du Gouvernement de la Communauté française de pouvoirs spéciaux n° 3 du 23 avril 2020 et n° 18 du 4 juin 2020 relatifs au renforcement du fonds d'urgence et de soutien

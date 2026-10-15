@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/12/09/1994027603/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 09-06-2016 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 1993. - [Décret relatif à la promotion de l'utilisation rationnelle de l'énergie, des économies d'énergie et des énergies renouvelables]. &lt;Intitulé modifié par DRW 2016-05-26/17 , art. 2, 002; En vigueur : 19-06-2016&gt;

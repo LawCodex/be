@@ -13,7 +13,7 @@ entry_into_force: 2000-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/07/05/2000029262/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2000. - Décret modifiant le décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre.

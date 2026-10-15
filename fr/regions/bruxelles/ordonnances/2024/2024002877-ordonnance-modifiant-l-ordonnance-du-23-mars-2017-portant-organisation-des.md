@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/03/21/2024002877/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2024. - Ordonnance modifiant l'ordonnance du 23 mars 2017 portant organisation des milieux d'accueil pour enfants

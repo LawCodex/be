@@ -12,7 +12,7 @@ entry_into_force: 2026-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/15/2026005819/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2026. - Loi modifiant l'article 116 de la loi du 2 décembre 2024 relatif à la publication, par certaines sociétés et groupes, d'informations en matière de durabilité et à l'assurance de l'information en matière de durabilité et portant dispositions diverses, en ce qui concerne la date d'entrée en application pour les entités d'intérêt public

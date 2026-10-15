@@ -13,7 +13,7 @@ entry_into_force: 1994-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/05/04/1994035724/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 1994. - Décret adaptant les décrets, lois, arrêtés royaux et ministériels à la terminologie fédérale et à l'application de l'article 198 de la Constitution. (Traduction)

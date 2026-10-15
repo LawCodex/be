@@ -13,7 +13,7 @@ entry_into_force: 2012-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/11/29/2012031844/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2012. - Ordonnantie houdende instemming met : de Partnerschaps- en Samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en de Republiek Indonesië, anderzijds, en met de Slotakte, gedaan te Jakarta op 9 november 2009

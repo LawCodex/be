@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/01/30/2014031131/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 2014. - Ordonnance modifiant l'ordonnance établissant un cadre pour la politique de l'eau afin de rendre effectif l'objectif de solidarité internationale

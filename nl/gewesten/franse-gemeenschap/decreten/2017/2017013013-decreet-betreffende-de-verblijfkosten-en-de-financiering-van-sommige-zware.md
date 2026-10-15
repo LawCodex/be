@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/19/2017013013/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 31-08-2017 en tekstbijwerking tot 11-09-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2017. - Decreet betreffende de verblijfkosten en de financiering van sommige zware apparaten van de medisch-technische diensten in universitaire ziekenhuizen

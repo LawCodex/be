@@ -13,7 +13,7 @@ entry_into_force: 2022-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/03/18/2022031394/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 2022. - Decreet tot regeling van de tijdelijke huisvesting van gezinnen of alleenstaanden die dakloos zijn of dreigen te worden naar aanleiding van de oorlog in Oekraïne

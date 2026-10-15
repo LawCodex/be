@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/07/2022015412/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 19-08-2022 en tekstbijwerking tot 24-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2022. - Decreet tot implementering van de Mosa Ballet School en instelling van een experimenteel stelsel voor artistieke vorming in dans op de eerste gemeenschappelijke graad en op de tweede en derde graden van het algemeen secundair doorstromingsonderwijs

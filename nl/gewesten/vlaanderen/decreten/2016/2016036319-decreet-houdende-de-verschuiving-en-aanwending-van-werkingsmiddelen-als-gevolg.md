@@ -11,7 +11,7 @@ date: 2016-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/15/2016036319/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2016. - Decreet houdende de verschuiving en aanwending van werkingsmiddelen als gevolg van de toepassing van het decreet van 21 maart 2014 betreffende maatregelen voor leerlingen met specifieke onderwijsbehoeften, en houdende de verlenging van de aanwendingstermijn voor de extra werkingstoelage voor de stijging van het aantal anderstalige kleuters

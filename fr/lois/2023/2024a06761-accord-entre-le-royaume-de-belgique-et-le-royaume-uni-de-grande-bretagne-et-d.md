@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/11/10/2024A06761/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2023. - Accord entre le Royaume de Belgique et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires.

@@ -11,7 +11,7 @@ entry_into_force: 2018-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/09/02/2018013868/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 SEPTEMBER 2018. - Wet tot wijziging, wat het bedrag van de inkomensvervangende tegemoetkoming betreft, van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap

@@ -12,7 +12,7 @@ entry_into_force: 2013-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/05/08/2013009226/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2013. - Wet tot wijziging van artikel 2 van de wet van 30 december 1975 betreffende de goederen, buiten particuliere eigendommen gevonden of op de openbare weg geplaatst ter uitvoering van vonnissen tot uitzetting, wat de bewaring van fietsen betreft

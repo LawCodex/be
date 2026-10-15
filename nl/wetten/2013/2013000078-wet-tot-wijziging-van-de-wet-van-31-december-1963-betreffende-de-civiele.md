@@ -12,7 +12,7 @@ entry_into_force: 2013-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/01/14/2013000078/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 2013. - Wet tot wijziging van de wet van 31 december 1963 betreffende de civiele bescherming

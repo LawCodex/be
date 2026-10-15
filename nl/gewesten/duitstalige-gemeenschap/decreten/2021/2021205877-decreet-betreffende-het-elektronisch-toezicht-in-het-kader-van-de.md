@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/22/2021205877/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2021 en tekstbijwerking tot 31-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2021. - Decreet betreffende het elektronisch toezicht in het kader van de strafuitvoering

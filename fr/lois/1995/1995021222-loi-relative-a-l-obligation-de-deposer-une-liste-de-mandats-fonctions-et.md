@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/05/02/1995021222/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 26-07-1995 et mise à jour au 13-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 1995. - Loi relative à l'obligation de déposer une liste de mandats, fonctions et professions et une déclaration de patrimoine.

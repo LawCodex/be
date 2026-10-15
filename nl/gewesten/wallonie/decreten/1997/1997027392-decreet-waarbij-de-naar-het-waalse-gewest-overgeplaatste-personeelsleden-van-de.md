@@ -13,7 +13,7 @@ entry_into_force: 1990-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/24/1997027392/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1997. - Decreet waarbij de naar het Waalse Gewest overgeplaatste personeelsleden van de Nationale Maatschappij voor de Huisvesting en van de Nationale Landmaatschappij ter beschikking worden gesteld van de Regering (VERTALING).

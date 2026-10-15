@@ -12,7 +12,7 @@ entry_into_force: 2012-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/03/30/2011000231/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2011. - Loi modifiant la loi du 15 avril 1994 relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de Contrôle nucléaire et modifiant la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité

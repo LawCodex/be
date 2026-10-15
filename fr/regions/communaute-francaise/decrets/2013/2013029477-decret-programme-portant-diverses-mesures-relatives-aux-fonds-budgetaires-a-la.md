@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/17/2013029477/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2013. - Décret-programme portant diverses mesures relatives aux Fonds budgétaires, à la santé, à la culture, à l'audiovisuel, à l'enseignement obligatoire et de promotion sociale, à l'agence pour l'évaluation de la qualité de l'enseignement supérieur, au financement de l'enseignement supérieur universitaire et non universitaire, aux bâtiments scolaires, à la recherche et à l'Etnic

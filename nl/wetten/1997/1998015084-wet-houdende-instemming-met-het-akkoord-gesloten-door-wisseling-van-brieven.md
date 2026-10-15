@@ -12,7 +12,7 @@ entry_into_force: 1998-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/02/17/1998015084/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 1997. - Wet houdende instemming met het Akkoord, gesloten door wisseling van brieven, gedagtekend te Brussel op 9 februari en 13 februari 1995, tussen het Koninkrijk der Nederlanden en het Koninkrijk België, betreffende het statuut van de Belgische verbindingsambtenaren bij de te Den Haag gevestigde Europol Drugs Eenheid.

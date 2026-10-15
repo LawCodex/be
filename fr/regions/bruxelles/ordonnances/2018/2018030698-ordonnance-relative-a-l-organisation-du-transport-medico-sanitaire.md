@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/03/21/2018030698/justel"
 department: "Commission communautaire commune"
 justel_note: "Consultation des versions antérieures à partir du 27-03-2018 et mise à jour au 27-03-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2018. - Ordonnance relative à l'organisation du transport médico-sanitaire

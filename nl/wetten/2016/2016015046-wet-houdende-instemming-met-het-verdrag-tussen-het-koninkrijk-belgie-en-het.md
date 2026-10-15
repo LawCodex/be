@@ -12,7 +12,7 @@ entry_into_force: 2016-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/04/10/2016015046/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2016. - Wet houdende instemming met het Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden over de grensoverschrijdende uitwisseling van gegevens met het oog op het identificeren van personen die ervan verdacht worden inbreuken te hebben begaan in het kader van het gebruik van de weg, gedaan te Brussel op 25 april 2013

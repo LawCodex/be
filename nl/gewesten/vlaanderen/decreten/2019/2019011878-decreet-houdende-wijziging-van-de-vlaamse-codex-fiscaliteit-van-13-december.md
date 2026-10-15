@@ -13,7 +13,7 @@ entry_into_force: 2019-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/05/2019011878/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 2019. - Decreet houdende wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat de wijziging van de voorwaarden voor de vermindering van de onroerende voorheffing bij ingrijpende energetische renovatie betreft

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/07/22/1991003529/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 19-04-1993 en tekstbijwerking tot 19-06-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 1991. - Wet betreffende de thesauriebewijzen en de depositobewijzen.

@@ -13,7 +13,7 @@ entry_into_force: 2013-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/05/25/2012035665/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2012. - Décret modifiant les articles 17 et 23 du décret du 8 mai 2009 relatif à l'aide sociale générale

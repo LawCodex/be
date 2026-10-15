@@ -12,7 +12,7 @@ entry_into_force: 2019-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/02/27/2019011169/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2019. - Wet tot wijziging van het koninklijk besluit nr. 20 van 20 juli 1970 tot vaststelling van de tarieven van de belasting over de toegevoegde waarde en tot indeling van de goederen en de diensten bij die tarieven wat betreft het btw-tarief voor de levering van planten en bloemen bij tuinaanleg en -onderhoud

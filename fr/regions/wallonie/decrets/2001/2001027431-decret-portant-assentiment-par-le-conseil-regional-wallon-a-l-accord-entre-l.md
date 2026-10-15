@@ -13,7 +13,7 @@ entry_into_force: 2001-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/12/2001027431/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2001. - Décret portant assentiment par le Conseil régional wallon à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République d'Albanie concernant l'encouragement et la protection réciproques des investissements, fait à Tirana le 1er février 1999.

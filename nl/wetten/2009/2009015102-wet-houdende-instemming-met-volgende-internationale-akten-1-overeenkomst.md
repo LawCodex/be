@@ -12,7 +12,7 @@ entry_into_force: 2010-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/06/30/2009015102/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2009. - Wet houdende instemming met volgende Internationale Akten : 1) Overeenkomst betreffende wederzijdse rechtshulp in strafzaken tussen de Europese Unie en de Verenigde Staten van Amerika, gedaan te Washington D.C. op 25 juni 2003 2) Instrument, gedaan te Brussel op 16 december 2004, als bedoeld in artikel 3, lid 2, van de Overeenkomst betreffende wederzijdse rechtshulp in strafzaken tussen de Europese Unie en de Verenigde Staten van Amerika, gedaan op 25 juni 2003, met betrekking tot de toepassing van de Overeenkomst tussen het Koninkrijk België en de Verenigde Staten van Amerika aangaande de rechtshulp in strafzaken, ondertekend op 28 januari 1988

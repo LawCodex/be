@@ -13,7 +13,7 @@ entry_into_force: 2025-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/06/13/2025004630/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 2025. - Decreet tot instemming met de overeenkomst tussen het Koninkrijk België en het Koninkrijk der Nederlanden ten behoeve van de Nederlandse Antillen inzake luchtvervoer, ondertekend te Brussel op 5 februari 2008

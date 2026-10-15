@@ -13,7 +13,7 @@ entry_into_force: 2006-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/21/2006033003/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2005. - Decreet houdende instemming met het Samenwerkingsakkoord van 6 juni 2005 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie inzake de tenuitvoerlegging van de wet van 24 april 2003 tot hervorming van de adoptie, gedaan te Brussel op 12 december 2005 (VERTALING).

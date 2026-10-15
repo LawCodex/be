@@ -12,7 +12,7 @@ published: 2024-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/07/2024002677/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 2024. - Gezamenlijk decreet van de Franse Gemeenschap, de Franse Gemeenschapscommissie en het Waalse Gewest tot wijziging van het samenwerkingsakkoord van 30 januari 2014 tussen de Franse Gemeenschap, de Franse Gemeenschapscommissie en het Waalse Gewest betreffende de oprichting een deontologische en ethische commissie

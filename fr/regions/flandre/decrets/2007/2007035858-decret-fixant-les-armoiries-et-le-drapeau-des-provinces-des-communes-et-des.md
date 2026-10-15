@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/04/27/2007035858/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 02-07-2007 et mise à jour au 02-09-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2007. - Décret fixant les armoiries et le drapeau des provinces, des communes et des districts, et de la " Vlaamse Gemeenschapscommissie " (Commission communautaire flamande) (TRADUCTION)

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/01/2004027085/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 13-05-2004 et mise à jour au 29-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2004. - [Décret relatif à la mobilité durable et à l'accessibilité] &lt;DRW 2022-11-24/10 , art. 1, 005; En vigueur : 30-12-2022&gt;

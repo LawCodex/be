@@ -12,7 +12,7 @@ entry_into_force: 2014-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/06/18/2014015182/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2014. - Loi portant assentiment au Protocole sur les privilèges et immunités de l'Organisation européenne pour la Recherche nucléaire, fait à Genève le 18 mars 2004

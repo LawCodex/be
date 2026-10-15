@@ -12,7 +12,7 @@ entry_into_force: 2021-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/11/25/2018015567/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2018. - Loi portant assentiment au Protocole modifiant la Convention Benelux en matière de chasse et de protection des oiseaux, fait à Bruxelles le 17 févier 2016

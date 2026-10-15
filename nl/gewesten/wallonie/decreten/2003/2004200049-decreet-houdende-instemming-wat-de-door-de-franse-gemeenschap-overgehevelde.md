@@ -13,7 +13,7 @@ entry_into_force: 2004-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/04/2004200049/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2003. - Decreet houdende instemming, wat de door de Franse Gemeenschap overgehevelde materies betreft, met de overeenkomst tot oprichting van een associatie tussen de Europese Gemeenschap en haar lid-staten, enerzijds, en de Republiek Chili, anderzijds, en met de Slotakte, opgemaakt te Brussel op 18 november 2002. (Vertaling).

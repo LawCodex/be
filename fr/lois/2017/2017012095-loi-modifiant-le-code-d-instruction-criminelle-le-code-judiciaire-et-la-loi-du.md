@@ -12,7 +12,7 @@ entry_into_force: 2017-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/04/19/2017012095/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2017. - Loi modifiant le Code d'instruction criminelle, le Code judiciaire et la loi du 10 avril 2014 modifiant diverses dispositions en vue d'établir un registre national des experts judiciaires et établissant un registre national des traducteurs, interprètes et traducteurs-interprètes jurés

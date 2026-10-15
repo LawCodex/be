@@ -12,7 +12,7 @@ entry_into_force: 2004-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/09/13/2004011439/justel"
 department: "Budget et Contrôle de la gestion - Finances - Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 SEPTEMBRE 2004. - Loi spéciale modifiant l'article 6, § 1er, VIII, de la loi spéciale du 8 août 1980 de réformes institutionnelles.

@@ -12,7 +12,7 @@ entry_into_force: 2014-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/26/2014015042/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBRE 2013. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et le Commonwealth des Bahamas en vue de l'échange de renseignements en matière fiscale, fait à Bruxelles le 7 décembre 2009

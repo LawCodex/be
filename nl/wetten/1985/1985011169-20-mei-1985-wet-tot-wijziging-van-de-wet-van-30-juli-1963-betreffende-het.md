@@ -12,7 +12,7 @@ entry_into_force: 1985-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/05/20/1985011169/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 1985. \_ Wet tot wijziging van de wet van 30 juli 1963 betreffende het verhuren van films bestemd voor commerciële vertoning.

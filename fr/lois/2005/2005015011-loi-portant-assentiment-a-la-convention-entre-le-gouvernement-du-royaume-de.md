@@ -12,7 +12,7 @@ entry_into_force: 2005-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/01/13/2005015011/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JANVIER 2005. - Loi portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Lettonie relative à la coopération policière, signée à Bruxelles le 16 octobre 2001.

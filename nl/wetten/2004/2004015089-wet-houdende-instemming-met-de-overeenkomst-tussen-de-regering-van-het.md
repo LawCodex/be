@@ -12,7 +12,7 @@ entry_into_force: 2004-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/04/25/2004015089/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2004. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België, de Regering van het Groothertogdom Luxemburg en de Regering van het Koninkrijk der Nederlanden en de Federale Regering van de Federale Republiek Joegoslavië betreffende de terug- en overname van personen die niet of niet meer voldoen aan de voorwaarden voor binnenkomst of verblijf op het grondgebied van de andere overeenkomstsluitende Staat, en met het Uitvoeringsprotocol en zijn Bijlagen 1 tot 8, gedaan te Belgrado op 19 juli 2002.

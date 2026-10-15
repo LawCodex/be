@@ -13,7 +13,7 @@ entry_into_force: 2006-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/04/21/2006201726/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2006. - Décret modifiant le décret du 14 juin 2001 visant à l'insertion des élèves primo-arrivants dans l'enseignement organisé ou subventionné par la Communauté française.

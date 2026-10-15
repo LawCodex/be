@@ -13,7 +13,7 @@ entry_into_force: 1990-09-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/07/31/1990030059/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 1990. - Décret portant réorganisation de la Commission flamande de politique préventive en matière d'entreprises. (Traduction) (Abrogé par DCFL 2004-05-07/52, art. 15, 2°, 002; En vigueur : indéterminée )

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/24/1996036088/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 12-09-1996 en tekstbijwerking tot 06-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1996. - Decreet tot vaststelling van het statuut van de niet-professionele sportbeoefenaar.

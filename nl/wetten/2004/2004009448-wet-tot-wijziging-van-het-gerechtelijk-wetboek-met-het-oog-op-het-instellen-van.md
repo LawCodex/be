@@ -12,7 +12,7 @@ entry_into_force: 2004-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/14/2004009448/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUNI 2004. - Wet tot wijziging van het Gerechtelijk Wetboek met het oog op het instellen van een uitvoeringsimmuniteit ten aanzien van buitenlandse cultuurgoederen die in België voor het publiek vertoond worden.

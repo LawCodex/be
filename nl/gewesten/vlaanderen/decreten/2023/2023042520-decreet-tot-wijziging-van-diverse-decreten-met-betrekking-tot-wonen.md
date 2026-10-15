@@ -13,7 +13,7 @@ entry_into_force: 2023-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/04/21/2023042520/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2023. - Decreet tot wijziging van diverse decreten met betrekking tot wonen

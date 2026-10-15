@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/01/2012203372/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 22-06-2012 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2012. - Décret contenant diverses mesures d'accompagnement de l'ajustement du budget 2012

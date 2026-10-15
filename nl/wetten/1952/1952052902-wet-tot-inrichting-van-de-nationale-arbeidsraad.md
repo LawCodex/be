@@ -13,7 +13,7 @@ last_amended: 2009-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1952/05/29/1952052902/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 23-12-1994 en tekstbijwerking tot 31-12-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 1952. - Wet tot inrichting van de Nationale Arbeidsraad.

@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/28/2022034591/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2022. - Wet houdende harmonisering van de referteperiode voor de toekenning van de sluitingsvergoeding en aanpassing van de bedragen van de jaarlonen voor de bijzondere compenserende bijdrage

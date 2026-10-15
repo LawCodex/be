@@ -11,7 +11,7 @@ published: 1917-04-08
 entry_into_force: 1917-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1917/04/08/1917040850/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 AVRIL 1917. - Arrêté-loi déterminant l'effet des mesures prises par l'occupant et des dispositions prises par le Gouvernement.

@@ -13,7 +13,7 @@ entry_into_force: 2020-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/17/2020042448/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2020. - Decreet tot wijziging van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht, wat de voorbereidende rechtspleging betreft

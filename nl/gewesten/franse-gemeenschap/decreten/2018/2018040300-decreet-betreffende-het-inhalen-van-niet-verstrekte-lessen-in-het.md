@@ -12,7 +12,7 @@ published: 2018-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/28/2018040300/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2018. - Decreet betreffende het inhalen van niet-verstrekte lessen in het leerplichtonderwijs

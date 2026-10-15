@@ -11,7 +11,7 @@ published: 2020-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/07/15/2020203112/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2020. - Wet tot wijziging van de wet van 4 mei 2020 tot regeling van de opschorting van de procedure sociale verkiezingen van het jaar 2020 ingevolge de coronavirus COVID-19-pandemie om de termijn tot het afsluiten van een akkoord om elektronisch te stemmen bij de sociale verkiezingen 2020 te verlengen

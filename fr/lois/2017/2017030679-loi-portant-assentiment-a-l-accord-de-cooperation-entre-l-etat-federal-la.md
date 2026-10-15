@@ -12,7 +12,7 @@ entry_into_force: 2017-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/06/30/2017030679/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2017. - Loi portant assentiment à l'accord de coopération entre l'Etat fédéral, la Région de Bruxelles-Capitale et la Région wallonne relatif à la gestion du service pour la régularisation des impôts régionaux et des capitaux fiscalement prescrits non scindés et à la mise en place d'un système de régularisation des capitaux fiscalement prescrits non scindés et à l'accord de coopération entre l'Etat fédéral et la Région Flamande relatif à la régularisation des montants non scindés

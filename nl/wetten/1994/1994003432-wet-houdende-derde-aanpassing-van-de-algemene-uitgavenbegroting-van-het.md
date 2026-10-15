@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/07/11/1994003432/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 11-08-1994 en tekstbijwerking tot 30-12-1995"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 1994. - Wet houdende derde aanpassing van de algemene uitgavenbegroting van het begrotingsjaar 1994.

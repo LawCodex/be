@@ -12,7 +12,7 @@ entry_into_force: 2023-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/05/21/2023020122/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 2023. - Loi portant des dispositions diverses en matière d'énergie

@@ -12,7 +12,7 @@ entry_into_force: 2008-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/06/19/2008022375/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2008. - Wet strekkende tot bekrachtiging van het koninklijk besluit van 19 maart 2007 in uitvoering van artikel 46 van de wet van 13 december 2006 houdende diverse bepalingen betreffende gezondheid.

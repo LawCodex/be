@@ -12,7 +12,7 @@ entry_into_force: 2001-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/06/15/2001009548/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 2001. - Wet tot wijziging van de artikelen 190, 194, 259bis 9, 259bis 10, 259octies en 371 van het Gerechtelijk Wetboek, tot invoeging van artikel 191bis in het Gerechtelijk Wetboek en tot wijziging van artikel 21 van de wet van 18 juli 1991 tot wijziging van de voorschriften van het Gerechtelijk Wetboek die betrekking hebben op de opleiding en werving van magistraten.

@@ -12,7 +12,7 @@ entry_into_force: 1980-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1981/02/16/1981000365/justel"
 department: "Classes Moyennes"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 1981. \_ Loi du 16 février 1981 modifiant l'arrêté royal n° 72 du 10 novembre 1967 relatif à la pension de retraite et de survie des travailleurs indépendants.

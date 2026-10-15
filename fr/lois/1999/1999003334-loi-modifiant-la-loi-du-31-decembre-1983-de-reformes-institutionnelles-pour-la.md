@@ -12,7 +12,7 @@ entry_into_force: 1999-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/04/1999003334/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 1999. - Loi modifiant la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone.

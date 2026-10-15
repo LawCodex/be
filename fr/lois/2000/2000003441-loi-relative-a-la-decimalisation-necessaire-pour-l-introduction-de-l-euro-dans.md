@@ -12,7 +12,7 @@ entry_into_force: 2000-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/07/03/2000003441/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2000. - Loi relative à la décimalisation nécessaire pour l'introduction de l'euro dans les programmes informatiques du secteur public et à l'indication des prix sur les instruments métrologiques.

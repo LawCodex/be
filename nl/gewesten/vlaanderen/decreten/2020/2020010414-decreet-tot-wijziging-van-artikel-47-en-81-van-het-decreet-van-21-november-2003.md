@@ -13,7 +13,7 @@ entry_into_force: 2020-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/10/2020010414/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2020. - Decreet tot wijziging van artikel 47 en 81 van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid

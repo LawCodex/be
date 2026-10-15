@@ -12,7 +12,7 @@ entry_into_force: 2027-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/22/2026201987/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2026. - Loi portant l'introduction d'un pourcentage de limitation dans le régime de pension des travailleurs salariés

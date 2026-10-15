@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/04/28/2022A32058/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 01-07-2022 et mise à jour au 01-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2022. - CODE CIVIL - LIVRE 5 : " Les obligations "

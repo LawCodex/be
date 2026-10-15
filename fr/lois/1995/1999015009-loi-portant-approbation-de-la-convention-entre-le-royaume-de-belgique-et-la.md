@@ -12,7 +12,7 @@ entry_into_force: 1999-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/05/11/1999015009/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 1995. - Loi portant approbation de la Convention entre le Royaume de Belgique et la République populaire du Bangladesh tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Bruxelles le 18 octobre 1990.

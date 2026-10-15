@@ -13,7 +13,7 @@ entry_into_force: 2021-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/05/21/2021041995/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 2021. - Décret visant à introduire des mesures extinctives pour les étudiants des formation de l'enseignement supérieur professionnel hbo5 à la Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen

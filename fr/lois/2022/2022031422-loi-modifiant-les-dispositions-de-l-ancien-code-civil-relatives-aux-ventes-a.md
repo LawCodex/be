@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/03/20/2022031422/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 31-03-2022 et mise à jour au 20-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2022. - Loi modifiant les dispositions de l'ancien Code civil relatives aux ventes à des consommateurs, insérant un nouveau titre VIbis dans le livre III de l'ancien Code civil et modifiant le Code de droit économique

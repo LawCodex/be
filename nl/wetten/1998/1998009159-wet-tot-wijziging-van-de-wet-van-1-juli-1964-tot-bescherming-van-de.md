@@ -12,7 +12,7 @@ entry_into_force: 1998-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/02/10/1998009159/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 1998. - Wet tot wijziging van de wet van 1 juli 1964 tot bescherming van de maatschappij tegen de abnormalen en de gewoontemisdadigers teneinde de advocaat van de geïnterneerde het recht toe te kennen beroep in te stellen tegen de beslissing van de commissie tot bescherming van de maatschappij die een verzoek om invrijheidstelling afwijst.

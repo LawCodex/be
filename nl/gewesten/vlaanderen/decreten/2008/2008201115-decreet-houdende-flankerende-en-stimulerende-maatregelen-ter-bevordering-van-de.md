@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/01/18/2008201115/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 28-07-2010 en tekstbijwerking tot 29-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2008. - Decreet houdende flankerende en stimulerende maatregelen ter bevordering van de participatie in cultuur, jeugdwerk en sport (aangehaald als : Participatiedecreet)

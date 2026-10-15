@@ -12,7 +12,7 @@ entry_into_force: 2013-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/05/07/2013015160/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2013. - Wet houdende instemming met de Uitwisseling van brieven tussen het Koninkrijk België en de Noord-Atlantische Verdragsorganisatie betreffende de opening en de uitbating van een apotheek in de zetel van de Noord-Atlantische Verdragsorganisatie, ondertekend te Brussel op 3 februari 2009 en 3 maart 2009

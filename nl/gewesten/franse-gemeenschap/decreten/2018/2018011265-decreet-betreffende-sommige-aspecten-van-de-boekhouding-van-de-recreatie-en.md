@@ -12,7 +12,7 @@ published: 2018-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/01/2018011265/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2018. - Decreet betreffende sommige aspecten van de boekhouding van de recreatie- en openluchtcentra van de Franse Gemeenschap, van het technisch-pedagogisch centrum van de Franse Gemeenschap en van het technisch centrum van de Franse Gemeenschap te Strée en Gembloux

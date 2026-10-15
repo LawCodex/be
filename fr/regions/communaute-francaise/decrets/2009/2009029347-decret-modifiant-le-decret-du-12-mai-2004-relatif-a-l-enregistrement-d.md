@@ -13,7 +13,7 @@ entry_into_force: 2009-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009029347/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret modifiant le décret du 12 mai 2004 relatif à l'enregistrement d'armoiries de personne physique ou d'association familiale en Communauté française

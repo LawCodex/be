@@ -12,7 +12,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/07/14/2006036543/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2006. - Decreet tot wijziging van het decreet van 28 februari 2003 betreffende het Vlaamse inburgeringsbeleid.

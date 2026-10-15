@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/04/28/2022032057/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2022. - Wet houdende boek 1 "Algemene bepalingen" van het Burgerlijk Wetboek

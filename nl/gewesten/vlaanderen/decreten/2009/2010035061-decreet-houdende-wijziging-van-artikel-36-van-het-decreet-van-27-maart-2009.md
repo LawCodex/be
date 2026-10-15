@@ -13,7 +13,7 @@ entry_into_force: 2010-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/12/18/2010035061/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2009. - Decreet houdende wijziging van artikel 36 van het decreet van 27 maart 2009 betreffende de radio-omroep en de televisie, wat de organisatie betreft die de belangen van gezinnen behartigt

@@ -13,7 +13,7 @@ entry_into_force: 2001-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/10/25/2001027656/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 OKTOBER 2001. - Decreet tot wijziging van artikel 1bis van de wet van 18 juli 1973 betreffende de bestrijding van de geluidshinder (VERTALING).

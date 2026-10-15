@@ -12,7 +12,7 @@ published: 2024-04-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/14/2024202234/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2024. - Décret modifiant la Partie 2 du Livre II du Code wallon de l'Action sociale et de la Santé relatif à l'intégration des personnes étrangères

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/01/08/2011011466/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 11-01-2012 et mise à jour au 22-06-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JANVIER 2012. - Loi portant modifications de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité et de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations

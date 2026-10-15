@@ -13,7 +13,7 @@ entry_into_force: 1995-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/22/1995029016/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1994. - Décret portant assentiment à l'accord instituant l'organisation mondiale du commerce, à l'Acte final, aux Annexes 1A, 1B, 1C, 2, 3 et 4, aux Déclarations et Décisions ministérielles, et au mémorandum d'accord sur les engagements relatifs aux services financiers, faits à Marrakech, le 15 avril 1994.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/02/09/1999015050/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
 justel_note: "Consultation des versions antérieures à partir du 30-08-2000 et mise à jour au 11-02-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 1999. - Loi créant le Fonds belge de survie.

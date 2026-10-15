@@ -13,7 +13,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/03/27/2003200564/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2003. - Decreet waarbij beslist wordt de Dienst Kijk- en Luistergeld bedoeld in artikel 3, eerste lid, 9°, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten te verzorgen en tot wijziging van de wet van 13 juli 1987 betreffende het kijk- en luistergeld (VERTALING).

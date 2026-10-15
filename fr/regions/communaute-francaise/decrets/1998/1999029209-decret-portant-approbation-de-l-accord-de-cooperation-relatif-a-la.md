@@ -13,7 +13,7 @@ entry_into_force: 1999-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/11/30/1999029209/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 1998. - Décret portant approbation de l'accord de coopération relatif à la problématique des transports scolaires entre le Gouvernement de la Communauté francaise et le Gouvernement de la Région wallonne.

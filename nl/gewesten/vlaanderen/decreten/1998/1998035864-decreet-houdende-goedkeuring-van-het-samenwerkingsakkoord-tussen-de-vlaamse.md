@@ -13,7 +13,7 @@ entry_into_force: 1998-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/07/1998035864/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 1998. - Decreet houdende goedkeuring van het samenwerkingsakkoord tussen de Vlaamse regering en de Regering van Roemenië, ondertekend in Boekarest op 12 juni 1997.

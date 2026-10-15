@@ -13,7 +13,7 @@ entry_into_force: 2002-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/06/20/2002029337/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2002. - Decreet tot oprichting van de dienst van de ombudsman van de Franse Gemeenschap (VERTALING)

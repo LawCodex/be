@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/31/2003011096/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 28-02-2003 et mise à jour au 26-05-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2003. - [ Loi sur l'énergie nucléaire à des fins de production industrielle d'électricité"]

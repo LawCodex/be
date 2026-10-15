@@ -12,7 +12,7 @@ published: 2005-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/15/2005036055/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2005. - Décret modifiant les décrets relatif à la radiodiffusion et à la télévision, coordonnés le 4 mars 2005 (TRADUCTION).

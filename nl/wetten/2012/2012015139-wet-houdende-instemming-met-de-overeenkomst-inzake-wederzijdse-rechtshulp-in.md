@@ -12,7 +12,7 @@ entry_into_force: 2012-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/10/2012015139/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2012. - Wet houdende instemming met de Overeenkomst inzake wederzijdse rechtshulp in strafzaken tussen het Koninkrijk België en de Republiek Korea, gedaan te Brussel op 17 januari 2007

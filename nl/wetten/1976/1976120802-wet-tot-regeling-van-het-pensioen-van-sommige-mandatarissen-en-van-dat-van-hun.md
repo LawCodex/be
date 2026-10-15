@@ -13,7 +13,7 @@ last_amended: 2012-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/12/08/1976120802/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 05-02-1987 en tekstbijwerking tot 21-12-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 1976. - Wet tot regeling van het pensioen van sommige mandatarissen en van dat van hun rechtverkrijgenden.

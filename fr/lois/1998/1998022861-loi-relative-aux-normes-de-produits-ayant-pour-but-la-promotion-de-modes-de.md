@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/21/1998022861/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 11-02-1999 et mise à jour au 31-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 1998. - Loi relative aux normes de produits ayant pour but la promotion de modes de production et de consommation durables et la protection de l'environnement [, de la santé et des travailleurs]. (Err. M.B. 24-04-1999, p. 13774.) &lt;L 2011-07-27/13 , art. 3, 012; En vigueur : 29-08-2011&gt;

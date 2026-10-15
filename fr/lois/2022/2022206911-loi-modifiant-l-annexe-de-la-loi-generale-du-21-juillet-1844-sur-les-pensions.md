@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/20/2022206911/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 22-12-2023 et mise à jour au 22-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2022. - Loi modifiant l'annexe de la loi générale du 21 juillet 1844 sur les pensions civiles et ecclésiastiques

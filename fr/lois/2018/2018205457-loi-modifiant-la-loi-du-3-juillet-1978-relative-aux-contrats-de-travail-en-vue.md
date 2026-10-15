@@ -12,7 +12,7 @@ entry_into_force: 2018-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/10/14/2018205457/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 OCTOBRE 2018. - Loi modifiant la loi du 3 juillet 1978 relative aux contrats de travail en vue d'assouplir la clause d'écolage et d'instaurer une clause d'écolage pour les métiers en pénurie

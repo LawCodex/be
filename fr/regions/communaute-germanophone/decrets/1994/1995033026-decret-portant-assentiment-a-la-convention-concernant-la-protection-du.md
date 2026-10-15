@@ -13,7 +13,7 @@ entry_into_force: 1995-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/19/1995033026/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1994. - DECRET portant assentiment à la Convention concernant la protection du patrimoine mondial, culturel et naturel, donnée à Paris le 23 novembre 1972

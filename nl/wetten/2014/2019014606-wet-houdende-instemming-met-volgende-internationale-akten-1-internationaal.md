@@ -10,7 +10,7 @@ date: 2014-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/26/2019014606/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2014. - Wet houdende instemming met volgende internationale akten : 1° Internationaal Verdrag van 1990 inzake de voorbereiding op, de bestrijding van en de samenwerking bij olieverontreiniging, gedaan te Londen op 30 november 1990; 2° Protocol van 2000 inzake de voorbereiding op, de bestrijding van en de samenwerking bij de voorvallen van verontreiniging door schadelijke en potentieel gevaarlijke stoffen, gedaan te Londen op 15 maart 2000

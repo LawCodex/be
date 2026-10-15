@@ -13,7 +13,7 @@ entry_into_force: 2020-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/17/2020042424/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2020. - Décret portant adoption de mesures urgentes et temporaires dans le domaine de l'enseignement à la suite de la crise du coronavirus (III) et modifiant la Codification de certaines dispositions dans le domaine de l'enseignement du 28 octobre 2016 (1 )

@@ -12,7 +12,7 @@ entry_into_force: 1999-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/16/1999022192/justel"
 department: "Communications"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 1999. - LOI modifiant la loi relative à la police de la circulation routière, coordonnée le 16 mars 1968

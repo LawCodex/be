@@ -13,7 +13,7 @@ entry_into_force: 2013-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/05/03/2013035444/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2013. - Decreet houdende instemming met de luchtvervoersovereenkomst tussen Canada en de Europese Gemeenschap en haar lidstaten, ondertekend in Brussel op 17 december 2009

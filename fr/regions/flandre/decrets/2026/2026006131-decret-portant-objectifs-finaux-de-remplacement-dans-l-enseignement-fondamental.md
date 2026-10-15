@@ -13,7 +13,7 @@ entry_into_force: 2026-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/03/2026006131/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2026. - Décret portant objectifs finaux de remplacement dans l'enseignement fondamental, en ce qui concerne les disciplines de néerlandais, mathématiques, sciences et technique, géographie, histoire, éducation artistique, TIC et attitudes, à l'initiative de la Federatie Steinerscholen Vlaanderen vzw

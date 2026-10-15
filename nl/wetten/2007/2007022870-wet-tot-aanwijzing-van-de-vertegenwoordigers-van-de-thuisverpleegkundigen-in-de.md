@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/21/2007022870/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 18-06-2007 en tekstbijwerking tot 19-05-2009"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2007. - Wet tot aanwijzing van de vertegenwoordigers van de thuisverpleegkundigen in de overeenkomstencommissie verpleegkundigen-verzekeringsinstellingen.

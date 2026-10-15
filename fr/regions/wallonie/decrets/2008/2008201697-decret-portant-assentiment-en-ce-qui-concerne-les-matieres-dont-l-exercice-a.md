@@ -13,7 +13,7 @@ entry_into_force: 2008-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/08/2008201697/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2008. - Décret portant assentiment, en ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, au Protocole n° 2 à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales relatif à la coopération interterritoriale, fait à Strasbourg le 5 mai 1998.

@@ -12,7 +12,7 @@ entry_into_force: 2026-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/11/16/2025009991/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2025. - Loi interprétative des articles 1er, 3, 8, 10 et 13 de la loi du 3 mai 1880 sur les enquêtes parlementaires

@@ -13,7 +13,7 @@ entry_into_force: 2023-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/12/11/2023046463/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2023. - Afwijking op de ordonnantie van 1 maart 2012 betreffende het natuurbehoud

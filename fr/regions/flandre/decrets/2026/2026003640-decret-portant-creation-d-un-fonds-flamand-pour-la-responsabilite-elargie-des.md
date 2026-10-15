@@ -13,7 +13,7 @@ entry_into_force: 2026-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/04/24/2026003640/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2026. - Décret portant création d'un fonds flamand pour la responsabilité élargie des producteurs

@@ -13,7 +13,7 @@ entry_into_force: 2014-09-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035561/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret portant assentiment à l'Accord sur le transport international par la route entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Serbie, signé à Bruxelles le 5 mars 2010

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/06/23/1994027390/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 15-07-1999 en tekstbijwerking tot 17-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 1994. - Decreet betreffende de oprichting en de uitbating van de onder het Waalse Gewest ressorterende luchthavens en vliegvelden. (Vertaling)

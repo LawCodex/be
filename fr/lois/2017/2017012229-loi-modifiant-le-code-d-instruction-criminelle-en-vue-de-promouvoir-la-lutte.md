@@ -12,7 +12,7 @@ entry_into_force: 2017-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/05/17/2017012229/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2017. - Loi modifiant le Code d'instruction criminelle en vue de promouvoir la lutte contre le terrorisme

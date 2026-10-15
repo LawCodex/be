@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/18/2018201427/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 2018. - Loi modifiant la loi du 29 octobre 1846 relative à l'organisation de la Cour des comptes en ce qui concerne le contrôle des listes de mandats et des déclarations de patrimoine

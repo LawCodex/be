@@ -12,7 +12,7 @@ entry_into_force: 2008-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/01/2006015082/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MEI 2006. - Wet houdende instemming met de Overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republieken Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua en Panama, anderzijds, en met de Bijlage, gedaan te Rome op 15 december 2003.

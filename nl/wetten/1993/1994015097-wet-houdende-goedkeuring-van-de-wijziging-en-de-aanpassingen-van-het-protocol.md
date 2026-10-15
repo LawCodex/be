@@ -11,7 +11,7 @@ entry_into_force: 1994-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/08/06/1994015097/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AUGUSTUS 1993. - Wet houdende goedkeuring van de Wijziging en de Aanpassingen van het Protocol van Montreal betreffende stoffen die de ozonlaag afbreken, aangenomen te Londen op 29 juni 1990.

@@ -13,7 +13,7 @@ entry_into_force: 1996-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/20/1996029088/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1995. - Décret contenant l'ajustement du budget des Voies et Moyens de la Communauté française pour l'année budgétaire 1995.

@@ -12,7 +12,7 @@ published: 2025-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/07/18/2025006216/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2025. - Decreet tot wijziging van het decreet basisonderwijs van 25 februari 1997, wat de vaststelling en inwerkingtreding van de minimumdoelen betreft

@@ -13,7 +13,7 @@ entry_into_force: 2017-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/04/27/2017030325/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2017. - Decreet houdende instemming met houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Wereldorganisatie voor Dierengezondheid, ondertekend te Brussel op 14 maart 2013

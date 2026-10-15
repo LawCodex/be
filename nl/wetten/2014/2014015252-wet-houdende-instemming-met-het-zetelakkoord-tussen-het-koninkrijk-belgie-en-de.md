@@ -12,7 +12,7 @@ entry_into_force: 2006-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/06/10/2014015252/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2014. - Wet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Economische Gemeenschap van West-Afrikaanse Staten, ondertekend te Brussel op 12 juli 2006

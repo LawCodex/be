@@ -12,7 +12,7 @@ entry_into_force: 2022-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/10/09/2022033917/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 OCTOBRE 2022. - Loi portant confirmation de six arrêtés royaux sur l'énergie

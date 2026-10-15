@@ -12,7 +12,7 @@ entry_into_force: 1997-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/03/04/1997009334/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 1997. - Wet tot instelling van het college van procureurs-generaal en tot instelling van het ambt van nationaal magistraat.

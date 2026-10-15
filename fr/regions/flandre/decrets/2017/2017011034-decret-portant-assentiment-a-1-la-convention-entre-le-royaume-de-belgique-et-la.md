@@ -13,7 +13,7 @@ entry_into_force: 2017-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/10/2017011034/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2017. - Décret portant assentiment à : 1° la convention entre le Royaume de Belgique et la Confédération suisse en vue d'éviter les doubles impositions en matière d'impôts sur le revenu et sur la fortune, signée à Berne le 28 août 1978, telle que modifiée par l'avenant, signé à Bruxelles le 10 avril 2014 ; à 2° l'avenant, signé à Bruxelles le 10 avril 2014, modifiant la convention visée sous 1°

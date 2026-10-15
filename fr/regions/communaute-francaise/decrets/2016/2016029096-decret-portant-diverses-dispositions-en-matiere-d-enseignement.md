@@ -13,7 +13,7 @@ entry_into_force: 2016-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/02/04/2016029096/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2016. - Décret portant diverses dispositions en matière d'enseignement

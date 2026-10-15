@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/12/2014203605/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 06-06-2014 en tekstbijwerking tot 01-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2014. - [Wet van 12 mei 2014 betreffende de erkenning van de mantelzorger] &lt;W 2019-05-17/36 , art. 2, 003; Inwerkingtreding : 01-10-2019&gt;

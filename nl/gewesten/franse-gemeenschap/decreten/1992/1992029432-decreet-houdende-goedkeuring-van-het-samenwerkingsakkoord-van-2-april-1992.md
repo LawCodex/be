@@ -12,7 +12,7 @@ entry_into_force: 1992-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1992/06/26/1992029432/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 1992. - Decreet houdende goedkeuring van het samenwerkingsakkoord van 2 april 1992 houdende wijziging van het samenwerkingsakkoord betreffende het gezamenlijk uitoefenen van bevoegdheden door de Franse Gemeenschap en het Waalse Gewest, gesloten te Namen op 17 november 1990.

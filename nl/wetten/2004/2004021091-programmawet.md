@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/09/2004021091/justel"
 department: "Kanselarij van de Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 15-07-2004 en tekstbijwerking tot 30-04-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2004. - Programmawet.

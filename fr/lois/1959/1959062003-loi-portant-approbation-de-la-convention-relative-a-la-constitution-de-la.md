@@ -11,7 +11,7 @@ published: 1959-08-25
 entry_into_force: 1959-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1959/06/20/1959062003/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 1959. - Loi portant approbation de la Convention relative à la constitution de la Société européenne pour le traitement chimique des combustibles irradiés "Eurochemic", signée à Paris, le 20 décembre 1957.

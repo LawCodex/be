@@ -12,7 +12,7 @@ entry_into_force: 2018-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/10/30/2018015469/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 OCTOBRE 2018. - Loi modifiant la loi du 19 décembre 2008 relative à l'obtention et à l'utilisation de matériel corporel humain destiné à des applications médicales humaines ou à des fins de recherche scientifique

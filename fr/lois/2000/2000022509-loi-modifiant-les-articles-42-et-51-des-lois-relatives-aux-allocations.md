@@ -12,7 +12,7 @@ entry_into_force: 2000-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/05/14/2000022509/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MAI 2000. - Loi modifiant les articles 42 et 51 des lois relatives aux allocations familiales pour travailleurs salariés, coordonnées le 19 décembre 1939.

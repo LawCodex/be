@@ -13,7 +13,7 @@ entry_into_force: 2019-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/11/28/2019205651/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2019. - Décret ratifiant la décision du report du transfert à la Région wallonne du service du précompte immobilier

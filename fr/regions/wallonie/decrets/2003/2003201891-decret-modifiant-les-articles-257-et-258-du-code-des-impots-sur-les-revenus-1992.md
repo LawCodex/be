@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/10/22/2003201891/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2003. - Décret modifiant les articles 257 et 258 du Code des impôts sur les revenus 1992.

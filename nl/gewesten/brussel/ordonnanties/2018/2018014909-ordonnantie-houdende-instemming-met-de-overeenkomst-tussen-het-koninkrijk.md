@@ -12,7 +12,7 @@ entry_into_force: 2018-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/11/15/2018014909/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBER 2018. - Ordonnantie houdende instemming met : de Overeenkomst tussen het Koninkrijk België en de Republiek Zuid-Afrika inzake het verrichten van betaalde werkzaamheden door partners van het diplomatiek en consulair personeel, ondertekend te Pretoria op 14 januari 2016

@@ -13,7 +13,7 @@ entry_into_force: 2011-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/01/20/2011027012/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2011. - Décret ratifiant le permis d'urbanisme délivré le 16 juillet 2010 par arrêté du fonctionnaire délégué à la SA Infrabel pour la construction d'un bâtiment de voyageurs et l'aménagement des abords de la gare RER - ligne 124 à 1410 Waterloo

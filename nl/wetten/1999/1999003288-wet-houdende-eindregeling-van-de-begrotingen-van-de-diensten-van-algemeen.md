@@ -11,7 +11,7 @@ entry_into_force: 1999-10-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/26/1999003288/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 1999. - Wet houdende eindregeling van de begrotingen van de diensten van algemeen bestuur van de Staat en van instellingen van openbaar nut van het jaar 1988 of voorgaande jaren.

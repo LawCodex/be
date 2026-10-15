@@ -12,7 +12,7 @@ published: 2019-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/25/2019012207/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Decreet betreffende de instemming met het samenwerkingsakkoord tussen de Franse Gemeenschapscommissie en het Waals Gewest inzake het vrije verkeer van personen met een handicap

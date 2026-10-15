@@ -12,7 +12,7 @@ entry_into_force: 2019-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/22/2019012159/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2019. - Loi portant modification de la loi coordonnée du 10 mai 2015 relative à l'exercice de professions des soins de santé

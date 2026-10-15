@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/29/2004033043/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 24-06-2004 en tekstbijwerking tot 31-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2004. - Decreet houdende het statuut van de gesubsidieerde personeelsleden van het gesubsidieerd officieel onderwijs en van de gesubsidieerde officiële psycho-medisch-sociale centra (VERTALING)

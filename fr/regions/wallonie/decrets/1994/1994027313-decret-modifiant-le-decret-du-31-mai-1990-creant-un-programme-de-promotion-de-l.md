@@ -13,7 +13,7 @@ entry_into_force: 1994-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/05/19/1994027313/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 1994. - Décret modifiant le décret du 31 mai 1990 créant un programme de promotion de l'emploi spécialement destiné aux chômeurs de longue durée dans le secteur non marchand.

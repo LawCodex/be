@@ -13,7 +13,7 @@ entry_into_force: 2022-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/20/2022032909/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2022. - Décret remplaçant l'article 9 du décret du 17 février 2022 modifiant les articles 2, 33bis/1, 34 et 35 du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité et insérant les articles 33bis/3 et 33bis/4

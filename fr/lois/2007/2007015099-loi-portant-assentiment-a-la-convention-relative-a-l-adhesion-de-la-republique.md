@@ -12,7 +12,7 @@ entry_into_force: 2007-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/06/03/2007015099/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2007. - Loi portant assentiment à la Convention relative à l'adhésion de la République tchèque, de la République d'Estonie, de la République de Chypre, de la République de Lettonie, de la République de Lituanie, de la République d'Hongrie, de la République de Malte, de la République de Pologne, de la République de Slovénie et de la République slovaque à la Convention sur la loi applicable aux obligations contractuelles, ouverte à la signature à Rome le 19 juin 1980, ainsi qu'aux Premier et Deuxième Protocoles concernant son interprétation par la Cour de Justice des Communautés européennes, faite à Luxembourg le 14 avril 2005.

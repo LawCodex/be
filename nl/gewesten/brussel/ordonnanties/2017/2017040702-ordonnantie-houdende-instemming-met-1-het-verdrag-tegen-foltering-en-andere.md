@@ -11,7 +11,7 @@ date: 2017-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/07/27/2017040702/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JULI 2017. - Ordonnantie houdende instemming met : 1° het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing, aangenomen te New York op 10 december 1984 ; 2° het Facultatief Protocol bij het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing, aangenomen te New York op 18 december 2002

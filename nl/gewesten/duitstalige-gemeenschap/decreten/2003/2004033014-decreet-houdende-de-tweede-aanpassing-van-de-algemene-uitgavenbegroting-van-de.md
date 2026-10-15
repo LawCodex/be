@@ -13,7 +13,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/11/17/2004033014/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2003. - Decreet houdende de tweede aanpassing van de algemene uitgavenbegroting van de Duitstalige Gemeenschap voor het begrotingsjaar 2003 (VERTALING).

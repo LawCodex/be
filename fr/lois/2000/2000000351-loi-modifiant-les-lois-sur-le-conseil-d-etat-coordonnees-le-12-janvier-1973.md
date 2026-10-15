@@ -12,7 +12,7 @@ entry_into_force: 2000-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/04/18/2000000351/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2000. - Loi modifiant les lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973 ainsi que la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.

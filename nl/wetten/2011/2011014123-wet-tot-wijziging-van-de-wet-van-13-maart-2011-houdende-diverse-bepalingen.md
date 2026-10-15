@@ -12,7 +12,7 @@ entry_into_force: 2011-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/04/29/2011014123/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2011. - Wet tot wijziging van de wet van 13 maart 2011 houdende diverse bepalingen inzake Mobiliteit wat de verlenging van de termijn van de bevoegdheid toegekend aan de Koning betreft

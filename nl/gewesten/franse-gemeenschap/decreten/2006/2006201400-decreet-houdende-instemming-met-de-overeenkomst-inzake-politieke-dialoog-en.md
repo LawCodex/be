@@ -13,7 +13,7 @@ entry_into_force: 2006-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/03/10/2006201400/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2006. - Decreet houdende instemming met de Overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Andesgemeenschap en haar lidstaten (Bolivia, Colombia, Ecuador, Peru en Venezuela), anderzijds, en de Bijlage, gedaan te Rome op 15 december 2003 (VERTALING).

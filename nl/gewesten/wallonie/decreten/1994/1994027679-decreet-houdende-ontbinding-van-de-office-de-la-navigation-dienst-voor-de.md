@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/11/24/1994027679/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 16-02-1999 en tekstbijwerking tot 18-12-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 1994. - Decreet houdende ontbinding van de "Office de la navigation" (Dienst voor de scheepvaart) en oprichting van de "Office de promotion des voies navigables" (Dienst voor de bevordering van de scheepvaartwegen). (VERTALING)

@@ -13,7 +13,7 @@ entry_into_force: 2002-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/06/20/2002029337/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2002. - Décret portant création du service du médiateur de la Communauté française

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1986/06/27/1986029403/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 19-05-1990 en tekstbijwerking tot 12-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 1986. - Decreet betreffende het Belgisch Radio- en Televisiecentrum van de Duitstalige Gemeenschap. &lt;Vertaling&gt;

@@ -13,7 +13,7 @@ entry_into_force: 1995-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/06/1995027259/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1995. - Décret octroyant aux autorités communales le droit d'édicter des mesures complémentaires en matière de conservation de la nature.

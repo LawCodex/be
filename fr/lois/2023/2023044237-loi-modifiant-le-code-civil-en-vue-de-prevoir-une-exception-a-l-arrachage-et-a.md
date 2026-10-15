@@ -12,7 +12,7 @@ entry_into_force: 2023-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/19/2023044237/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2023. - Loi modifiant le Code civil en vue de prévoir une exception à l'arrachage et à l'élagage d'arbres et de plantations lorsque ceux-ci sont situés sur le domaine public et présentent une valeur pour l'intérêt général

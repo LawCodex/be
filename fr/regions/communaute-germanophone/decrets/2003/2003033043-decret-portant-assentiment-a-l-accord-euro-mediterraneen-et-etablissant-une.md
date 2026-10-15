@@ -13,7 +13,7 @@ entry_into_force: 2003-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/04/28/2003033043/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2003. - Décret portant assentiment à l'Accord euro-méditerranéen et établissant une association entre la Communauté européenne et ses Etats membres, d'une part, et la République algérienne démocratique, d'autre part, ainsi que l'Acte final, faits à Valence le 22 avril 2002. (Traduction).

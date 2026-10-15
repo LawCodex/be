@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/23/2023040163/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-01-2023 et mise à jour au 07-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2022. - Décret relatif à la prime pour l'apprentissage qualifiant sur le lieu de travail destinée aux entreprises et à la prime pour les élèves en formation en alternance

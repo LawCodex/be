@@ -13,7 +13,7 @@ entry_into_force: 2001-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/10/08/2001033081/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 OCTOBRE 2001. - Décret portant assentiment à la Convention 182 de l'Organisation internationale du travail concernant l'interdiction des pires formes de travail des enfants, ainsi qu'aux mesures immédiates à leur élimination, faite à Genève le 17 juin 1999 (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 1998-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/07/06/1998015046/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 1997. - Loi d'approbation de la Convention n° 129 concernant l'inspection du travail dans l'agriculture, adoptée à Genève le 25 juin 1969 par la Conférence internationale du Travail lors de sa cinquante-troisième session.

@@ -13,7 +13,7 @@ entry_into_force: 2006-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/23/2006035239/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2005. - Decreet houdende instemming met het Protocol van 1996 bij het Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen van 1972, opgemaakt in Londen op 7 november 1996.

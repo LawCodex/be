@@ -12,7 +12,7 @@ entry_into_force: 1997-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/09/26/1997015167/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 SEPTEMBER 1996. - Wet houdende instemming met het Aanvullend Protocol bij het Europees Sociaal Handvest, en Bijlage, gedaan te Straatsburg op 5 mei 1988.

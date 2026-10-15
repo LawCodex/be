@@ -13,7 +13,7 @@ entry_into_force: 1997-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/03/1997036580/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 1996. - Décret portant approbation du Traité de coopération entre le Gouvernement flamand et le Gouvernement de la République de Lettonie, fait à Riga le 5 mars 1996 (TRADUCTION).

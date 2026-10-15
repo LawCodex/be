@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/23/2008029358/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 30-07-2008 et mise à jour au 27-02-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2008. - Décret visant la reconnaissance et le subventionnement du Comité olympique et interfédéral belge

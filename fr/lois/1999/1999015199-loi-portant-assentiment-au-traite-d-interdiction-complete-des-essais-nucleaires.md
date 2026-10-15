@@ -12,7 +12,7 @@ entry_into_force: 1999-11-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/13/1999015199/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 1999. - Loi portant assentiment au Traité d'interdiction complète des essais nucléaires, et au Protocole, signés à New York le 24 septembre 1996.

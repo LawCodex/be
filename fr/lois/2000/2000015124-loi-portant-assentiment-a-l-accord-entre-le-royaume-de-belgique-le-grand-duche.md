@@ -12,7 +12,7 @@ entry_into_force: 2003-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/06/24/2000015124/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2000. - Loi portant assentiment à l'Accord entre le Royaume de Belgique, le Grand-Duché de Luxembourg et le Royaume des Pays-Bas pris en exécution de la Convention européenne de Sécurité sociale du 14 décembre 1972, à l'Annexe à l'Accord et à l'Arrangement administratif pour l'application de l'Accord, faits à Bruxelles, le 24 juin 1996.

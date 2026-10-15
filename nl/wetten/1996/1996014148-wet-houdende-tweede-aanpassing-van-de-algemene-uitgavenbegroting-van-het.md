@@ -12,7 +12,7 @@ entry_into_force: 1996-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/03/18/1996014148/justel"
 department: "Verkeerswezen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 1996. - Wet houdende tweede aanpassing van de Algemene Uitgavenbegroting van het begrotingsjaar 1995 -Sectie 33 - " Verkeer en Infrastructuur ".HI:??2,Zitting 1995-1996. Kamer van volksvertegenwoordigers. Parlementaire Bescheiden. - Wetsontwerp, nr. 393/1. - Verslag, nr. 393/2. Parlementaire Handelingen. - Bespreking. Vergadering van 6 maart 1996. Aanneming. Vergadering van 7 maart 1996.

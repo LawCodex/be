@@ -13,7 +13,7 @@ entry_into_force: 2018-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/09/2018030660/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2018. - Décret portant assentiment à l'amendement au Protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone, adopté à Kigali le 15 octobre 2016

@@ -12,7 +12,7 @@ entry_into_force: 2017-09-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/02/29/2017013114/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 FEVRIER 2016. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et Jersey en vue de l'échange de renseignements en matière fiscale, fait à Londres le 13 mars 2014

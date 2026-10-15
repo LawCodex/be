@@ -12,7 +12,7 @@ entry_into_force: 1995-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/04/19/1995015106/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 1991. - Loi portant approbation de la Convention entre l'Union économique belgo-luxembourgeoise et la République du Burundi concernant l'encouragement et la protection réciproques des investissements, signée à Bruxelles le 13 avril 1989.

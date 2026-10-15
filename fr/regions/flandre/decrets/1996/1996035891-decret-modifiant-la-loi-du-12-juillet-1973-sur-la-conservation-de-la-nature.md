@@ -13,7 +13,7 @@ entry_into_force: 1996-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/16/1996035891/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 1996. - Décret modifiant la loi du 12 juillet 1973 sur la conservation de la nature (TRADUCTION).

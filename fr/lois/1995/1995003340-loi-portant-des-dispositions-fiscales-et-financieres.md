@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/04/1995003340/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 23-05-1995 et mise à jour au 11-08-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 1995. - Loi portant des dispositions fiscales et financières. -

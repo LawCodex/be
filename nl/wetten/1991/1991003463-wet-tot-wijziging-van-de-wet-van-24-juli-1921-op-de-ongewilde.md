@@ -12,7 +12,7 @@ entry_into_force: 1992-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/07/22/1991003463/justel"
 department: "Financiën"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 1991. - Wet tot wijziging van de wet van 24 juli 1921 op de ongewilde buitenbezitstelling van de titels aan toonder.

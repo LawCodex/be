@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/09/19/2013205512/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 11-10-2013 en tekstbijwerking tot 09-05-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBER 2013. - Decreet houdende verscheidene fiscale bepalingen

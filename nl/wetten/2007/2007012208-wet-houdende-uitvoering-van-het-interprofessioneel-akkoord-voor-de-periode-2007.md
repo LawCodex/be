@@ -12,7 +12,7 @@ entry_into_force: 2007-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/17/2007012208/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2007. - Wet houdende uitvoering van het interprofessioneel akkoord voor de periode 2007-2008.

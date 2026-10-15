@@ -12,7 +12,7 @@ entry_into_force: 2014-09-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/19/2013015193/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2013. - Loi portant assentiment à l'Accord de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la République d'Iraq, d'autre part, fait à Bruxelles le 11 mai 2012

@@ -11,7 +11,7 @@ published: 1976-09-01
 entry_into_force: 1976-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/07/20/1976072004/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 1976. - Loi portant approbation de la Convention pour la répression d'actes illicites dirigés contre la sécurité de l'aviation civile, faite à Montréal le 23 septembre 1971, et modifiant la loi du 27 juin 1937 portant revision de la loi du 16 novembre 1919 relative à la réglementation de la navigation aérienne.

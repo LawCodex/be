@@ -12,7 +12,7 @@ entry_into_force: 2023-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/04/16/2023042100/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 AVRIL 2023. - Loi portant assentiment à la Convention n° 190 concernant l'élimination de la violence et du harcèlement dans le monde du travail, adoptée à Genève le 21 juin 2019 par la Conférence internationale du Travail à sa 108 e session

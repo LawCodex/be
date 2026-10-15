@@ -10,7 +10,7 @@ date: 1984-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1984/05/04/1984009660/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 1984. - Wet houdende wijziging van het Gerechtelijk Wetboek met het oog op de oprichting van twee Orden van advocaten in het gerechtelijk arrondissement Brussel.

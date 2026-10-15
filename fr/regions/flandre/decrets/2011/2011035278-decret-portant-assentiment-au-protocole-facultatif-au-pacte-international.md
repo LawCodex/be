@@ -13,7 +13,7 @@ entry_into_force: 2011-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/03/04/2011035278/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 2011. - Décret portant assentiment au Protocole facultatif au Pacte international relatif aux droits économiques, sociaux et culturels, fait à New York le 10 décembre 2008

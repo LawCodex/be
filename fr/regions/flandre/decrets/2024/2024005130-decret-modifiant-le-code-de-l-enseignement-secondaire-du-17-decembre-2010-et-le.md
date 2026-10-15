@@ -13,7 +13,7 @@ entry_into_force: 2024-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/26/2024005130/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2024. - Décret modifiant le Code de l'Enseignement secondaire du 17 décembre 2010 et le décret du 8 mai 2009 relatif à la qualité de l'enseignement, en ce qui concerne la formation Soins infirmiers de base

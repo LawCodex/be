@@ -13,7 +13,7 @@ entry_into_force: 2012-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/26/2012202662/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2012. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening van de Franse Gemeenschap naar het Waalse Gewest is overgedragen, met het Verdrag van de Raad van Europa inzake de bescherming van kinderen tegen seksuele uitbuiting en seksueel misbruik, opgemaakt te Lanzarote op 25 oktober 2007

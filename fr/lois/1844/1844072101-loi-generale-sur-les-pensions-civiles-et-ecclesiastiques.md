@@ -13,7 +13,7 @@ last_amended: 2026-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1844/07/21/1844072101/justel"
 justel_note: "Consultation des versions antérieures à partir du 08-04-2003 et mise à jour au 09-09-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUILLET 1844. - Loi générale sur les pensions civiles et ecclésiastiques.

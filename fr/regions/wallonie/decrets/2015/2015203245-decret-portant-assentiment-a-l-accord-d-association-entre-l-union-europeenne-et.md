@@ -13,7 +13,7 @@ entry_into_force: 2015-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/07/02/2015203245/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2015. - Décret portant assentiment à l'Accord d'association entre l'Union européenne et la Communauté européenne de l'Energie atomique et leurs Etats membres, d'une part, et la Géorgie, d'autre part, fait à Bruxelles le 27 juin 2014

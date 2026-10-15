@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/09/14/2023046617/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 SEPTEMBER 2023. - Decreet tot wijziging van het decreet van 10 oktober 2013 tot bevordering van het in overweging nemen van personen met een handicap in het kader van een beheerscontract of van hun informatieverplichtingen

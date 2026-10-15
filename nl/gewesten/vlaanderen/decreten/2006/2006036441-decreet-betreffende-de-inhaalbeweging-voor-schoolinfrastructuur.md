@@ -15,7 +15,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "Bekrachtigd met uitwerking op de datum van zijn inwerkingtreding bij W 2007-06-29/53 , art. 12, 1°"
   - "Raadpleging van vroegere versies vanaf 15-09-2006 en tekstbijwerking tot 07-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2006. - Decreet betreffende de inhaalbeweging voor schoolinfrastructuur

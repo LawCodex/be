@@ -12,7 +12,7 @@ entry_into_force: 1997-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/01/28/1997011014/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 1997. - Wet tot aanpassing van de wet van 28 maart 1984 op de uitvindingsoctrooien aan de Overeenkomst inzake de handelsaspecten van de intellectuele eigendom (TRIP's) bij het Akkoord tot oprichting van de Wereldhandelsorganisatie.

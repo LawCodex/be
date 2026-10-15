@@ -13,7 +13,7 @@ entry_into_force: 2025-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/02/03/2025201127/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2025. - Décret portant modification du décret du 7 avril 2003 visant le contrôle des dépenses électorales et de la déclaration de l'origine des fonds engagés pour l'élection du Parlement et des conseils communaux ainsi que des communications des autorités publiques de la Communauté germanophone

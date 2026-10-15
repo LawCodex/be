@@ -13,7 +13,7 @@ entry_into_force: 2018-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/04/26/2018011984/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2018. - Decreet tot wijziging van artikel 24 van het decreet van 29 maart 2018 tot wijziging van het Wetboek van de Plaatselijke Democratie en de Decentralisering met het oog op een sterker bestuur en een sterkere transparantie in de uitvoering van de openbare mandaten in de lokale en bovenlokale structuren en hun filialen

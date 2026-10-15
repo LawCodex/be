@@ -13,7 +13,7 @@ entry_into_force: 2012-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/11/22/2012031808/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2012. - Ordonnantie tot wijziging van het Wetboek der Successierechten

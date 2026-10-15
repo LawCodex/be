@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/03/2012003257/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 24-08-2012 et mise à jour au 30-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AOUT 2012. - Loi portant dispositions relatives aux traitements de données à caractère personnel réalisés par le Service public fédéral Finances dans le cadre de ses missions

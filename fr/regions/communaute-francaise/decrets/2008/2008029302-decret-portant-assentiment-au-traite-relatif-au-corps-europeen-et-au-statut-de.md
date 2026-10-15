@@ -13,7 +13,7 @@ entry_into_force: 2008-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/09/2008029302/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2008. - Décret portant assentiment au Traité relatif au Corps européen et au Statut de son Quartier général entre la République française, la République fédérale d'Allemagne, le Royaume de Belgique, le Royaume d'Espagne et le grand-duché de Luxembourg, et à l'Acte final, faits à Bruxelles, le 22 novembre 2004.

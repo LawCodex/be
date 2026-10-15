@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/12/10/2021034330/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2021. - Ordonnance organique de la gestion des intérêts matériels des communautés cultuelles locales reconnues

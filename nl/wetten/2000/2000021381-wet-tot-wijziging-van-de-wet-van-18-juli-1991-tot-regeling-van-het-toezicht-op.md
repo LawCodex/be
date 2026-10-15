@@ -12,7 +12,7 @@ entry_into_force: 2000-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/07/20/2000021381/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2000. - Wet tot wijziging van de wet van 18 juli 1991 tot regeling van het toezicht op politie- en inlichtingendiensten.

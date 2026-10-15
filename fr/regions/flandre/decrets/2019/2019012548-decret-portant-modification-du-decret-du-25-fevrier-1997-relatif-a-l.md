@@ -13,7 +13,7 @@ entry_into_force: 2019-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019012548/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Décret portant modification du décret du 25 février 1997 relatif à l'enseignement fondamental, en ce qui concerne les moyens de fonctionnement pour l'enseignement maternel

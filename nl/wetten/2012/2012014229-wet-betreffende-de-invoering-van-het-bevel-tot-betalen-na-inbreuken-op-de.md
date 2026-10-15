@@ -12,7 +12,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/04/22/2012014229/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2012. - [Wet betreffende de invoering van het bevel tot betalen na inbreuken op de wetgeving inzake het wegverkeer] (ERRATUM, zie B.St. 31-10-2012, p. 66215)

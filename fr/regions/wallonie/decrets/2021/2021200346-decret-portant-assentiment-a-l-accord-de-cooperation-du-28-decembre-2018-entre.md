@@ -13,7 +13,7 @@ entry_into_force: 2021-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/01/14/2021200346/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 2021. - Décret portant assentiment à l'accord de coopération du 28 décembre 2018 entre l'Etat fédéral, la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone portant sur la collaboration entre services d'inspection dans le cadre de la compétence en matière de prestations familiales

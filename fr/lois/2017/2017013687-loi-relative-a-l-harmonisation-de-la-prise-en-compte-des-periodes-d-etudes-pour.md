@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/10/02/2017013687/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 24-10-2017 et mise à jour au 01-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 OCTOBRE 2017. - Loi relative à l'harmonisation de la prise en compte des périodes d'études pour le calcul de la pension

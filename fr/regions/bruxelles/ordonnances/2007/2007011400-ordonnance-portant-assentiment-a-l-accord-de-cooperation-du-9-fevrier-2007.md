@@ -13,7 +13,7 @@ entry_into_force: 2007-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2007/07/09/2007011400/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2007. - Ordonnance portant assentiment à l'accord de coopération du 9 février 2007 modifiant l'accord de coopération du 13 décembre 2002 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'exécution et au financement de l'assainissement du sol des stations-service et portant modification de l'ordonnance du 5 juin 1997 relative aux permis d'environnement.

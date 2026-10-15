@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/02/17/2005031116/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2005. - Décret modifiant le décret de la Commission communautaire française du 16 juillet 1994 relatif à l'agrément et aux subventions des centres de planning familial.

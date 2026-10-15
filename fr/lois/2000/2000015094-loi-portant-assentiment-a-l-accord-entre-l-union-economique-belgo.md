@@ -12,7 +12,7 @@ entry_into_force: 2003-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/05/14/2000015094/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MAI 2000. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République des Philippines concernant l'encouragement et la protection réciproques des investissements, signé à Manille le 14 janvier 1998.

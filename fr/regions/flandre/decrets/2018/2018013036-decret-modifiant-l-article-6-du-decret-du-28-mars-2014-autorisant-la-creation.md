@@ -13,7 +13,7 @@ entry_into_force: 2018-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/06/2018013036/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2018. - Décret modifiant l'article 6 du décret du 28 mars 2014 autorisant la création de l'agence autonomisée externe de droit privé " Toegankelijk Vlaanderen " (La Flandre accessible) sous forme d'une fondation privée

@@ -13,7 +13,7 @@ entry_into_force: 2026-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/17/2026005914/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2026. - Décret portant modification du Code de l'enseignement fondamental et de l'enseignement secondaire, du décret du 31 mars 2022 portant création du dossier d'accompagnement de l'élève (DAccE), et du décret du 16 mai 2024 relatif à la réduction du décrochage scolaire et à la lutte contre l'absentéisme des élèves

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/09/2010031359/justel"
 department: "Commission communautaire française"
 justel_note: "par son arrêt n° 45/2012 du 15-03-2012 (M.B. 17-07-2012, p. 39044-39047), la Cour Constitutionnelle a annulé le présent décret"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2010. - Décret modifiant le décret du 14 janvier 1999 relatif à l'agrément des chambres d'hôtes et à l'autorisation de faire usage de la dénomination " chambres d'hôtes "

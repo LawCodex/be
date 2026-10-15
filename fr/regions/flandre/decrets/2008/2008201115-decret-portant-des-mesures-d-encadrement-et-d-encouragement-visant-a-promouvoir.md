@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/01/18/2008201115/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-07-2010 et mise à jour au 29-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2008. - Décret portant des mesures d'encadrement et d'encouragement visant à promouvoir la participation à la culture, à l'animation des jeunes et aux sports (cité comme : Décret sur la participation) (TRADUCTION)

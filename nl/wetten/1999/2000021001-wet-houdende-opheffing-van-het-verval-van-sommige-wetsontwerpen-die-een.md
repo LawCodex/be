@@ -12,7 +12,7 @@ entry_into_force: 2000-01-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/12/24/2000021001/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 1999. - Wet houdende opheffing van het verval van sommige wetsontwerpen die een aangelegenheid regelen als bedoeld in artikel 77 van de Grondwet.

@@ -13,7 +13,7 @@ entry_into_force: 2022-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/10/13/2022033799/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OKTOBER 2022. - Ordonnantie tot aanpassing van het Wetboek der successierechten en van het Wetboek der registratie-, hypotheek- en griffierechten aan de terminologie van het nieuwe Burgerlijk Wetboek

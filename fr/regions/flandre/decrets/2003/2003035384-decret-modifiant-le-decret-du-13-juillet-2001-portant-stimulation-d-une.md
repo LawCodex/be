@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/03/21/2003035384/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2003. - Décret modifiant le décret du 13 juillet 2001 portant stimulation d'une politique culturelle locale qualitative et intégrale (TRADUCTION).

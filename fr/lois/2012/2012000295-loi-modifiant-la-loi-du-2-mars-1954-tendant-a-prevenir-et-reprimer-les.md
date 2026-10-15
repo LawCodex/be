@@ -12,7 +12,7 @@ entry_into_force: 2012-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/03/19/2012000295/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2012. - Loi modifiant la loi du 2 mars 1954 tendant à prévenir et réprimer les atteintes au libre exercice des pouvoirs souverains établis par la Constitution, en vue de modifier la zone neutre

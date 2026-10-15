@@ -12,7 +12,7 @@ entry_into_force: 2007-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/21/2007014244/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2007. - Loi modifiant les lois coordonnées du 16 mars 1968 relatives à la police de la circulation routière.

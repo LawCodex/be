@@ -13,7 +13,7 @@ entry_into_force: 2013-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/03/15/2013031158/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2013. - Ordonnantie tot wijziging van artikel 96 van de Nieuwe Gemeentewet van 24 juni 1988

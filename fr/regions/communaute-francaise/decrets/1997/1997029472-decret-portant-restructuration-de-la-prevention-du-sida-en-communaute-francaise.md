@@ -13,7 +13,7 @@ entry_into_force: 1997-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/22/1997029472/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1997. - Décret portant restructuration de la prévention du Sida en Communauté francaise.

@@ -12,7 +12,7 @@ entry_into_force: 2004-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/04/02/2004012092/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2004. - Loi portant confirmation des arrêtés royaux suivants : a) l'arrêté royal du 15 mai 2003 relatif aux conseils d'entreprise et aux comités pour la prévention et la protection au travail; b) l'arrêté royal du 15 mai 2003 fixant la date des élections pour la désignation des délégués du personnel des conseils d'entreprise et des comités pour la prévention et la protection au travail; c) l'arrêté royal du 15 mai 2003 déterminant les modalités de calcul de la moyenne des travailleurs intérimaires occupés par un utilisateur

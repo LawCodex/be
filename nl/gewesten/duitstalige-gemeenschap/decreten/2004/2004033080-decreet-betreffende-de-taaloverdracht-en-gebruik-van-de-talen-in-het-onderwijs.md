@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/19/2004033080/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 09-11-2004 en tekstbijwerking tot 31-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2004. - Decreet betreffende de taaloverdracht en gebruik van de talen in het onderwijs (VERTALING)

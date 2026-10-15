@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/20/2002027121/justel"
 department: "Waalse Gewest"
 justel_note: "deze tekst werd opgeheven bij DWG 2004-05-27/63, art. 2, 5°, 002; Inwerkingtreding : onbepaald ; zie B.S. 09-07-2004, p. 54697"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2001. - Decreet betreffende de milieuovereenkomsten (VERTALING).

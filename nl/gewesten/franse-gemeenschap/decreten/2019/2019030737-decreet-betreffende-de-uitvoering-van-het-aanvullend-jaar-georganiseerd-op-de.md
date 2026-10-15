@@ -13,7 +13,7 @@ entry_into_force: 2019-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/25/2019030737/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Decreet betreffende de uitvoering van het aanvullend jaar georganiseerd op de vierde graad van het aanvullend secundair beroepsonderwijs, afdeling verpleegkunde, en beroepsprocedures

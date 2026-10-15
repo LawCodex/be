@@ -13,7 +13,7 @@ entry_into_force: 2013-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/10/10/2013205695/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 2013. - Decreet houdende opheffing van het tweede lid, van § 3, van artikel 172 van het Waals Wetboek van Ruimtelijke Ordening, Stedenbouw, Patrimonium en Energie

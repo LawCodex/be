@@ -11,7 +11,7 @@ published: 1960-06-25
 entry_into_force: 1960-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1960/06/23/1960062301/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 1960. - Loi autorisant la SABENA à modifier ses statuts.

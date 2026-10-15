@@ -12,7 +12,7 @@ entry_into_force: 2010-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/06/02/2010009587/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2010. - Wet tot wijziging van sommige bepalingen van het Burgerlijk Wetboek en van het Gerechtelijk Wetboek wat de procedure inzake echtscheiding betreft

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/17/2011A35474/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 24-06-2011 et mise à jour au 18-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2010. - Codification relative à l'enseignement secondaire, coordonnée le 17 décembre 2010 (Citée comme : Code de l'enseignement secondaire)

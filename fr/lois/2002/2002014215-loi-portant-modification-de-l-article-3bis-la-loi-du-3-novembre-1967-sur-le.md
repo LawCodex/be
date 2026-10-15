@@ -12,7 +12,7 @@ entry_into_force: 2002-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/26/2002014215/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2002. - Loi portant modification de l'article 3bis la loi du 3 novembre 1967 sur le pilotage des bâtiments de mer, modifiée par la loi du 30 août 1988.

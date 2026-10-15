@@ -12,7 +12,7 @@ published: 2018-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/07/23/2018014101/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 2018. - Ordonnantie tot wijziging van de ordonnantie van 2 mei 2013 houdende het Brussels Wetboek van Lucht, Klimaat en Energiebeheersing

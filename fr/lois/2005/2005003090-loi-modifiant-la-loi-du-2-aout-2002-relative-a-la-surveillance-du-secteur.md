@@ -12,7 +12,7 @@ entry_into_force: 2005-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/02/14/2005003090/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 FEVRIER 2005. - Loi modifiant la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers et l'article 40 de l'arrêté royal du 25 mars 2003 portant exécution de l'article 45, § 2, de cette loi.

@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/08/10/2015014191/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2015. - Wet tot verlenging van de steunmaatregelen aan het gecombineerd en het verspreid vervoer voor de periode 2015-2016

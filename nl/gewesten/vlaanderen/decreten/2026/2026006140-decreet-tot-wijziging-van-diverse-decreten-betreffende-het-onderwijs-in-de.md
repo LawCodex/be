@@ -12,7 +12,7 @@ published: 2026-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/03/2026006140/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2026. - Decreet tot wijziging van diverse decreten betreffende het onderwijs in de gemeenschapsinstellingen die ter uitvoering van het jeugddelinquentierecht zijn opgericht

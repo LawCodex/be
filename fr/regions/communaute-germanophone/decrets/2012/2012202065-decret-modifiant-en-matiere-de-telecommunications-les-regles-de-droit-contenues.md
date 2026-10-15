@@ -13,7 +13,7 @@ entry_into_force: 2012-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/02/13/2012202065/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 2012. - Décret modifiant, en matière de télécommunications, les règles de droit contenues dans le décret du 27 juin 2005 sur les services de médias audiovisuels et les représentations cinématographiques

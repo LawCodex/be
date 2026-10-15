@@ -12,7 +12,7 @@ published: 2003-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/16/2003033045/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2002. - Decreet houdende vastlegging van de ontwikkelingsdoeleinden voor de kleuterafdeling [...], alsmede tot wijziging van de decreten van 31 augustus 1998 betreffende de opdrachten toevertrouwd aan de inrichtende machten en aan het schoolpersoneel en houdende algemene pedagogische en organisatorische bepalingen voor het gewoon onderwijs en van 26 april 1999 betreffende het gewoon basisonderwijs. (Vertaling) &lt;DDG 2008-06-16/36 , art. 20, 002; Inwerkingtreding : 01-09-2008&gt;

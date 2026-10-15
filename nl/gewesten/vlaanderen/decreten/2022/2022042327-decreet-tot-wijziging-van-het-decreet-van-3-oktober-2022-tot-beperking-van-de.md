@@ -13,7 +13,7 @@ entry_into_force: 2022-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/10/07/2022042327/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 OKTOBER 2022. - Decreet tot wijziging van het decreet van 3 oktober 2022 tot beperking van de indexatie van de huurprijzen om de gevolgen van de energiecrisis te verlichten

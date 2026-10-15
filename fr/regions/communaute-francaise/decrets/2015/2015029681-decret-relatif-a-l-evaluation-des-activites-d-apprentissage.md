@@ -13,7 +13,7 @@ entry_into_force: 2014-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/10/2015029681/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2015. - Décret relatif à l'évaluation des activités d'apprentissage

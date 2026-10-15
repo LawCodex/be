@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/01/29/2015029046/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2015. - Decreet dat erop gericht is een tussentijdse verhoging toe te voegen voor de leden van het onderwijzend en daarmee gelijkgesteld personeel alsook voor de leden van het technisch personeel van de psycho-medisch-sociale centra en voor de inspecteurs-generaal en de coördinerende inspecteurs-generaal die steeds in dienst zijn op 61-jarige leeftijd en een tweede verhoging voor de personeelsleden die nog in dienst zijn op 62-jarige leeftijd

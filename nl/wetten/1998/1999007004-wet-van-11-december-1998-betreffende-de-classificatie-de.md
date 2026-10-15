@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/11/1999007004/justel"
 department: "Landsverdediging"
 justel_note: "Raadpleging van vroegere versies vanaf 07-05-1999 en tekstbijwerking tot 08-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 1998. - [Wet van 11 december 1998 betreffende de classificatie, de veiligheidsmachtigingen, de veiligheidsadviezen en de publiek gereguleerde dienst] &lt;Opschrift vervangen door W 2024-06-02/09 , art. 2, 016; Inwerkingtreding : 01-02-2025&gt;

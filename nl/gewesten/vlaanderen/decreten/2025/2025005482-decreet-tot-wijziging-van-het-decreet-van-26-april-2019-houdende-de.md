@@ -13,7 +13,7 @@ entry_into_force: 2025-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/07/04/2025005482/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2025. - Decreet tot wijziging van het decreet van 26 april 2019 houdende de justitiehuizen en de juridische eerstelijnsbijstand, wat betreft de optimalisering van de werkprocessen van het Vlaams Centrum Elektronisch Toezicht en de justitiehuizen

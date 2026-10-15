@@ -12,7 +12,7 @@ entry_into_force: 2005-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/04/11/2005022405/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2005. - Wet houdende aanpassing van de Franse tekst en vaststelling van de Nederlandse tekst van de algemene wet van 21 juli 1844 op de burgerlijke en kerkelijke pensioenen.

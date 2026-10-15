@@ -12,7 +12,7 @@ published: 2001-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/04/20/2001035684/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2001. - Decreet houdende de eindregeling van de begroting van de Vlaamse Gemeenschap en van instellingen van openbaar nut voor het begrotingsjaar 1998.

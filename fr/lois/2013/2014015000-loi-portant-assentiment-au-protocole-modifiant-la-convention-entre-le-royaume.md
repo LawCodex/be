@@ -12,7 +12,7 @@ entry_into_force: 2014-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/11/26/2014015000/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2013. - Loi portant assentiment au Protocole modifiant la Convention entre le Royaume de Belgique et le Japon tendant à éviter les doubles impositions en matière d'impôts sur le revenu, fait à Bruxelles le 26 janvier 2010

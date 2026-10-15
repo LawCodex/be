@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/06/03/2022203703/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2022. - Wet tot wijziging van de hoofdstukken 3 en 9 van titel 2 van de wet van 24 oktober 2011 tot vrijwaring van een duurzame financiering van de pensioenen van de vastbenoemde personeelsleden van de provinciale en plaatselijke overheidsdiensten en van de lokale politiezones, tot wijziging van de wet van 6 mei 2002 tot oprichting van het Fonds voor de pensioenen van de geïntegreerde politie en houdende bijzondere bepalingen inzake sociale zekerheid en houdende diverse wijzigingsbepalingen

@@ -12,7 +12,7 @@ entry_into_force: 2005-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/05/26/2005009465/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 2005. - Loi modifiant la loi du 23 mai 1990 sur le transfèrement interétatique des personnes condamnées et la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.

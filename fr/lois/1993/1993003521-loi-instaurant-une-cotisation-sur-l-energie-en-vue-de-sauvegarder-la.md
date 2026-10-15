@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/07/22/1993003521/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 29-07-1993 et mise à jour au 31-12-2004."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 1993. - Loi instaurant une cotisation sur l'énergie en vue de sauvegarder la compétitivité et l'emploi. -

@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/03/2004033081/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2004. - Décret contenant le premier ajustement du budget des recettes de la Communauté germanophone pour l'année budgétaire 2004 (TRADUCTION).

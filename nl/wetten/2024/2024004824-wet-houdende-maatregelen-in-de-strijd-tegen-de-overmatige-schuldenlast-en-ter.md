@@ -12,7 +12,7 @@ entry_into_force: 2024-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/15/2024004824/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2024. - Wet houdende maatregelen in de strijd tegen de overmatige schuldenlast en ter bescherming van ondernemingen in moeilijkheden

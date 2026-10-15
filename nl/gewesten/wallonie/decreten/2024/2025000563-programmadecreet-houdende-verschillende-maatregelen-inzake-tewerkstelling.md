@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/12/18/2025000563/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 24-01-2025 en tekstbijwerking tot 19-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2024. - Programmadecreet houdende verschillende maatregelen inzake tewerkstelling, vorming, economie, industrie, onderzoek, innovatie, digitale technologieën, leefmilieu, ecologische overgang, ruimtelijke ordening, openbare werken, mobiliteit en vervoer, energie, klimaat, toerisme, landbouw, natuur, bossen, plaatselijke besturen en huisvesting

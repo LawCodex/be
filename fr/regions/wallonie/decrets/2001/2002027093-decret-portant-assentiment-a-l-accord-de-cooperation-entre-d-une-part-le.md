@@ -13,7 +13,7 @@ entry_into_force: 2002-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/20/2002027093/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2001. - Décret portant assentiment à l'Accord de coopération entre, d'une part, le Gouvernement de la République du Bénin et, d'autre part, le Gouvernement de la Communauté française de Belgique, le Gouvernement de la Région wallonne et le Collège de la Commission communautaire française de la Région de Bruxelles-Capitale, fait à Bruxelles, le 28 janvier 1999.

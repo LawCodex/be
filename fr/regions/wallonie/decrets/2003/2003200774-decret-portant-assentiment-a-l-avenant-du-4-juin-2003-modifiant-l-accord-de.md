@@ -13,7 +13,7 @@ entry_into_force: 2003-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/07/17/2003200774/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2003. - Décret portant assentiment à l'avenant du 4 juin 2003 modifiant l'accord de coopération conclu le 20 février 1995 par la Commission communautaire française de la Région de Bruxelles-Capitale, la Communauté française et la Région wallonne relatif à la Formation permanente pour les Classes moyennes et les petites et moyennes entreprises et la tutelle de l'Institut de Formation permanente pour les Classes moyennes et les petites et moyennes entreprises.

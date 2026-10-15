@@ -12,7 +12,7 @@ published: 2021-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/07/22/2021042612/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 2021. - Ordonnantie betreffende diverse bepalingen met betrekking tot gezinsbijslagen

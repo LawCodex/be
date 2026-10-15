@@ -13,7 +13,7 @@ entry_into_force: 2003-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/03/13/2003200614/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2003. - Decreet tot wijziging van het decreet van 6 mei 1999 betreffende de " Office wallon de la Formation professionnelle et de l'Emploi " (Waalse dienst voor beroepsopleiding en arbeidsbemiddeling) (VERTALING).

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1992/05/18/1992029388/justel"
 department: "Franse Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 08-07-1992 en tekstbijwerking tot 16-07-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 1992. - Decreet tot oprichting van een Fonds voor de pensioenen van de vast benoemde personeelsleden van de "Radio-Télévision belge de la Communauté francaise (RTBF)" en hun rechthebbenden. (Vertaling)

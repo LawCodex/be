@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/20/2012029030/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 14-02-2012 et mise à jour au 20-08-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2011. - Décret-programme portant diverses mesures relatives aux fonds budgétaires figurant au Budget général des dépenses de la Communauté française, à la Culture, à l'Enseignement obligatoire et à l'Enseignement de promotion sociale, au financement des institutions universitaires et des Hautes Ecoles, aux aides aux institutions universitaires, aux organismes d'intérêt public et au sport

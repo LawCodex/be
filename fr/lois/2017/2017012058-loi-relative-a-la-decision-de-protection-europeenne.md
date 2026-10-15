@@ -12,7 +12,7 @@ entry_into_force: 2017-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/04/09/2017012058/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 AVRIL 2017. - Loi relative à la décision de protection européenne

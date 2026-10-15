@@ -13,7 +13,7 @@ entry_into_force: 2013-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/19/2013204693/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2013. - Décret portant assentiment à l'accord de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la République d'Irak, d'autre part, signé à Bruxelles le 11 mai 2012

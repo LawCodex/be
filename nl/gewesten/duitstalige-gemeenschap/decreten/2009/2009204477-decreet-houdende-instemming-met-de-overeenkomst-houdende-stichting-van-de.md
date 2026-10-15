@@ -13,7 +13,7 @@ entry_into_force: 2009-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/09/15/2009204477/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 SEPTEMBER 2009. - Decreet houdende instemming met de Overeenkomst houdende stichting van de Europese Conferentie over moleculaire biologie, opgemaakt te Genève op 13 februari 1969, en met de Overeenkomst houdende oprichting van het Europees Laboratorium voor moleculaire biologie, opgemaakt te Genève op 10 mei 1973

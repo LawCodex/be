@@ -13,7 +13,7 @@ entry_into_force: 2013-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/04/18/2013202497/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2013. - Decreet tot goedkeuring van de kaderovereenkomst tussen de Regering van het Waalse Gewest van het Koninkrijk België en de Regering van de Franse Republiek betreffende de opvang van gehandicapte personen, gedaan te Neufvilles op 21 december 2011

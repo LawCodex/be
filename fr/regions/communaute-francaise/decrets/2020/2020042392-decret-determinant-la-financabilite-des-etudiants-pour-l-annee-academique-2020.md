@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/17/2020042392/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 28-07-2020 et mise à jour au 06-02-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2020. - Décret déterminant la finançabilité des étudiants pour l'année académique 2020-2021

@@ -10,7 +10,7 @@ date: 1974-07-25
 published: 1974-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1974/07/25/1974072504/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JULI 1974. - Wet betreffende de verandering van voornamen van personen geboren in de gebieden die in 1940 bij Duitsland werden ingelijfd.

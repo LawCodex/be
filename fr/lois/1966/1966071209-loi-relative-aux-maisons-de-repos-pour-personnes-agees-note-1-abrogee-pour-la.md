@@ -11,7 +11,7 @@ published: 1966-09-08
 entry_into_force: 1966-09-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1966/07/12/1966071209/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 1966. - Loi relative aux maisons de repos pour personnes âgées. (NOTE 1 : abrogée pour la Communauté Française par DCFR 1984-05-10/31, art. 14, En vigueur : 1984-06-15) (NOTE 2 : abrogée pour la Communauté Flamande par DCFL 1985-03-05/37, art. 20, 1°, En vigueur : 1985-09-01) (NOTE 3 : pour la Région Bruxelloise voir ORD 1992-02-20/31, art. 15, En vigueur : 1992-07-01) (NOTE 4 : abrogé pour la Communauté Germanophone par DCG 1994-05-09/44, art. 15, 1°, En vigueur : 1994-05-09)

@@ -13,7 +13,7 @@ entry_into_force: 2014-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029323/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et le Gouvernement du Commonwealth de la Dominique en vue de l'échange de renseignements en matière fiscale, fait à Bruxelles le 26 février 2010

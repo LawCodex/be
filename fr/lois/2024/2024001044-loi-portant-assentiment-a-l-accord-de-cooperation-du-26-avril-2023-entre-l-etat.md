@@ -12,7 +12,7 @@ entry_into_force: 2024-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/02/06/2024001044/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 2024. - Loi portant assentiment a l'accord de coopération du 26 avril 2023 entre l'Etat fédéral, la Région wallonne, la Région flamande et la Région de Bruxelles-Capitale portant création du registre central des cycles

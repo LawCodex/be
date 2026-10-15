@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/02/21/2020020502/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 12-03-2020 en tekstbijwerking tot 29-12-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2020. - Wet tot invoering van diverse fiscale overgangsbepalingen wat betreft de terugtrekking van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland uit de Europese Unie

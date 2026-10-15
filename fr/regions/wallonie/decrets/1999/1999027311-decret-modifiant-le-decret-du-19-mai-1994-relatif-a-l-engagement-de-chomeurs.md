@@ -13,7 +13,7 @@ entry_into_force: 1999-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/01/1999027311/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er AVRIL 1999. - Décret modifiant le décret du 19 mai 1994 relatif à l'engagement de chômeurs affectés à certains projets au bénéfice des petites et moyennes entreprises.

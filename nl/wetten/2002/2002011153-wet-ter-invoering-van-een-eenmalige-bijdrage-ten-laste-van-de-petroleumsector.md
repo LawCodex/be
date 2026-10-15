@@ -12,7 +12,7 @@ entry_into_force: 2002-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/06/10/2002011153/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2002. - Wet ter invoering van een eenmalige bijdrage ten laste van de petroleumsector.

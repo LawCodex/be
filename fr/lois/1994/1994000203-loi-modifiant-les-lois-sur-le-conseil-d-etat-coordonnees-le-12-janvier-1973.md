@@ -12,7 +12,7 @@ entry_into_force: 1994-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/03/24/1994000203/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 1994. - Loi modifiant les lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973.

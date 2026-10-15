@@ -12,7 +12,7 @@ entry_into_force: 2008-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/09/18/2008015160/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 SEPTEMBRE 2008. - Loi portant assentiment à l'Accord entre les Etats du Benelux (le Royaume de Belgique, le grand-duché de Luxembourg, le Royaume des Pays-Bas) et la Bosnie et Herzégovine relatif à la réadmission des personnes en situation irrégulière (Accord de reprise et de réadmission) et au Protocole d'application, faits à Sarajevo le 19 juillet 2006.

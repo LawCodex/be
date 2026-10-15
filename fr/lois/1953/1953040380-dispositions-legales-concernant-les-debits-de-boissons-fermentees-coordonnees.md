@@ -13,7 +13,7 @@ last_amended: 2016-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1953/04/03/1953040380/justel"
 justel_note: "Consultation des versions antérieures à partir du 31-05-2001 et mise à jour au 06-05-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 1953. - DISPOSITIONS LEGALES concernant les débits de boissons fermentées, coordonnées le 3 avril 1953. (NOTE 1 : le taux d'imposition des taxes prévues au chapitre III, comprenant les articles 8 à 25ter, au chapitre IV, comprenant l'article 26, et au chapitre V, comprenant l'article 27, est fixé à zéro euro pour la Région de Bruxelles-Capitale ; voir ORD 2002-01-10/45, art. 2 ; En vigueur : 01-01-2002) (NOTE 2 : le taux d'imposition des taxes prévues au chapitre III, comprenant les articles 8 à 25ter, au chapitre IV, comprenant l'article 26, et au chapitre V, comprenant l'article 27, est fixé à zéro euro pour la Région wallonne ; voir DRW 2006-11-23/31 , art. 1, En vigueur : 29-11-2006) (NOTE 3 : loi modifiée avec effet à une date indéterminée &lt;L 2007-04-25/38 , art. 5 à 8, 010; En vigueur : indéterminée &gt;) (NOTE 4: en ce qui concerne les modifications apportées par DRW 2009-12-10/27 ; voir dispositions transitoires : art. 103, alinéas 2 à 5)

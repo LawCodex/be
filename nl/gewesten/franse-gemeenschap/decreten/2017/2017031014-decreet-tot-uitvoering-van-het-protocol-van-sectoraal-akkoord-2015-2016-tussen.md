@@ -12,7 +12,7 @@ published: 2017-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/19/2017031014/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2017. - Decreet tot uitvoering van het protocol van sectoraal akkoord 2015-2016 tussen de Regering van de Franse Gemeenschap en de vakverenigingen en de vertegenwoordigings- en coördinatieorganen van de inrichtende machten

@@ -13,7 +13,7 @@ entry_into_force: 2012-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/03/01/2012031112/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2012. - Ordonnantie tot wijziging van de ordonnantie van 7 maart 1991 betreffende de preventie en het beheer van afvalstoffen en van de ordonnantie van 25 maart 1999 betreffende de opsporing, de vaststelling, de vervolging en de bestraffing van misdrijven inzake leefmilieu

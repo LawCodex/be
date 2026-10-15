@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/08/2018040258/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 17-07-2018 en tekstbijwerking tot 11-02-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2018. - Wet houdende bepalingen inzake de proefbank voor vuurwapens

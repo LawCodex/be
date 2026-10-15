@@ -11,7 +11,7 @@ date: 2008-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/05/2008029392/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUNI 2008. - Decreet houdende instemming met de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Albanië, anderzijds, en de Slotakte, gedaan te Luxemburg op 12 juni 2006 (VERTALING).

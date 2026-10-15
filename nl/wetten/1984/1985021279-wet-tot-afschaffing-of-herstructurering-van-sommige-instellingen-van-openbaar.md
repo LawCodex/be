@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1984/12/28/1985021279/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1990 en tekstbijwerking tot 13-04-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBER 1984. - [Wet tot afschaffing of herstructurering van sommige instellingen van openbaar nut en andere overheidsdiensten.] (W 1990-06-26/30, art. 2,§1, 003; Inwerkingtreding : 01-01-1989)

@@ -13,7 +13,7 @@ entry_into_force: 2017-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/16/2017201538/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2017. - Décret portant assentiment à l'Accord euro-méditerranéen relatif aux services aériens entre l'Union européenne et ses Etats membres, d'une part, et le Gouvernement de l'Etat d'Israël, d'autre part, fait à Luxembourg le 10 juin 2013

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009202125/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 21-12-2011 et mise à jour au 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret relatif à l'intervention de la Région wallonne dans l'achat d'un appareil de télé-assistance par une personne âgée ou handicapée

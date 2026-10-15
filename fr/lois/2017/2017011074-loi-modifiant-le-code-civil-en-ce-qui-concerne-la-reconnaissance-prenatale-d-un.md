@@ -12,7 +12,7 @@ entry_into_force: 2017-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/02/20/2017011074/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2017. - Loi modifiant le Code civil en ce qui concerne la reconnaissance prénatale d'un enfant par un parent non marié

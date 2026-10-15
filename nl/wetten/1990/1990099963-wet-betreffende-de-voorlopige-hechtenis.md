@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/07/20/1990099963/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 01-12-1990 en tekstbijwerking tot 26-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 1990. - Wet betreffende de voorlopige hechtenis.

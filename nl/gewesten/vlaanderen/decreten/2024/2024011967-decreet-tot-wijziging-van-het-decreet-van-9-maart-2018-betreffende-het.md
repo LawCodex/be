@@ -12,7 +12,7 @@ published: 2025-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/12/20/2024011967/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2024. - Decreet tot wijziging van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs, wat het interactief afstandsonderwijs betreft

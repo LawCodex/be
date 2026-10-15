@@ -12,7 +12,7 @@ entry_into_force: 2023-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/04/07/2023042056/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2023. - Loi portant modificatio de la loi du 11 décembre 1998, relative à la classification et aux habilitations, attestations et avis de sécurité

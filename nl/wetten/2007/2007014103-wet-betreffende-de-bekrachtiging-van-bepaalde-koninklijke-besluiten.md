@@ -12,7 +12,7 @@ entry_into_force: 2007-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/08/2007014103/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 2007. - Wet betreffende de bekrachtiging van bepaalde koninklijke besluiten.

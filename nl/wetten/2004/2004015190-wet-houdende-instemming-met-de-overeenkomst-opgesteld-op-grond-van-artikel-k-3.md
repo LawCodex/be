@@ -10,7 +10,7 @@ date: 2004-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/09/13/2004015190/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 SEPTEMBER 2004. - Wet houdende instemming met de Overeenkomst opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie inzake wederzijdse bijstand en samenwerking tussen de douaneadministraties, en met de Bijlage, gedaan te Brussel op 18 december 1997.

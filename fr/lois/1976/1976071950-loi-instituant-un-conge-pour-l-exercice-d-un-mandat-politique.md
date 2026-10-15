@@ -13,7 +13,7 @@ last_amended: 2023-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/07/19/1976071950/justel"
 justel_note: "Consultation des versions antérieures à partir du 28-07-1999 et mise à jour au 14-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 1976. - Loi instituant un congé pour l'exercice d'un mandat politique. -

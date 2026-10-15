@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/04/28/2022041040/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 27-06-2022 et mise à jour au 07-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2022. - Décret relatif au module de 60 périodes de formation à la pédagogie de l'enseignement artistique à tous niveaux, prévu par l'arrêté du Gouvernement de la Communauté française du 25 juin 1998 fixant les échelles de traitement des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation de l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté française

@@ -12,7 +12,7 @@ entry_into_force: 2015-12-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/10/30/2015036446/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OKTOBER 2015. - Decreet houdende instemming met de Overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en IJsland, anderzijds, betreffende de deelname van IJsland aan de gezamenlijke nakoming van de verbintenissen van de Europese Unie, haar lidstaten en IJsland voor de tweede verbintenisperiode van het Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering

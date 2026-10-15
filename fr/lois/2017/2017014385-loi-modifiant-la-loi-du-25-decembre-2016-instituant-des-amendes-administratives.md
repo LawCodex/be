@@ -12,7 +12,7 @@ entry_into_force: 2018-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/12/17/2017014385/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2017. - Loi modifiant la loi du 25 décembre 2016 instituant des amendes administratives applicables en cas d'infractions aux lois sur la navigation

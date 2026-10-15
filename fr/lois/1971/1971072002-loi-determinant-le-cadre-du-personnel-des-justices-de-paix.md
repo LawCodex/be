@@ -13,7 +13,7 @@ last_amended: 2013-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/07/20/1971072002/justel"
 justel_note: "Consultation des versions antérieures à partir du 22-05-1999 et mise à jour au 10-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 1971. - Loi déterminant le cadre du personnel des justices de paix.

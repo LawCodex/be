@@ -13,7 +13,7 @@ entry_into_force: 2017-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/04/21/2017011792/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2017. - Décret portant modification du Décret relatif au patrimoine immobilier du 12 juillet 2013 et du Code flamand de la Fiscalité du 13 décembre 2013, en ce qui concerne la diminution du droit de vente et de l'impôt de donation pour des monuments protégés

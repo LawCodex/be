@@ -13,7 +13,7 @@ entry_into_force: 2007-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/07/2006036309/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2006. - Décret modifiant le décret du 22 décembre 1995 contenant diverses mesures d'accompagnement du budget 1996, le décret du 4 février 1997 portant les normes de qualité et de sécurité pour chambres et chambres d'étudiants et le décret du 15 juillet 1997 contenant le Code flamand du Logement, pour ce qui concerne le renforcement de l'instrumentaire en matière de contrôle de la qualité du logement (TRADUCTION).

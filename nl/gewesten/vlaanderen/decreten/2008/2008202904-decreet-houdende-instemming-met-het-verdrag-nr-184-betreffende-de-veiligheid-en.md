@@ -12,7 +12,7 @@ published: 2008-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/27/2008202904/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2008. - Decreet houdende instemming met het Verdrag nr. 184 betreffende de veiligheid en gezondheid in de landbouw, aangenomen door de Internationale Arbeidsconferentie tijdens haar negenentachtigste zitting in Genève, op 21 juni 2001.

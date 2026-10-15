@@ -12,7 +12,7 @@ entry_into_force: 1997-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/04/13/1997002050/justel"
 department: "Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 1997. - Wet tot wijziging van de wet van 22 oktober 1990 tot vervanging van artikel 54 van de wetten op het toekennen van de academische graden en het programma van de universitaire examens, gecoördineerd bij het besluit van de Regent van 31 december 1949.

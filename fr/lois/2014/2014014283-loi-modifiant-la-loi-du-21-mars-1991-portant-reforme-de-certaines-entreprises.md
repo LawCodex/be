@@ -12,7 +12,7 @@ entry_into_force: 2014-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/19/2014014283/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2014. - Loi modifiant la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques

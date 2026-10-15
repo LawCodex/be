@@ -13,7 +13,7 @@ entry_into_force: 1998-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/06/25/1998027386/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 1998. - Decreet houdende goedkeuring van het Akkoord tussen het Land Noordrijn-Westfalen, het Land Rijnland-Palts, het Waalse Gewest en de Duitstalige Gemeenschap van België inzake grensoverschrijdende samenwerking tussen de territoriale samenwerkingsverbanden en andere openbare instanties, ondertekend te Mainz op 8 maart 1996 (VERTALING).

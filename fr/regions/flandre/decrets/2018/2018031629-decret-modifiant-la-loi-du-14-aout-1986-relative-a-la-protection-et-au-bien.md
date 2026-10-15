@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/13/2018031629/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 10-08-2018 et mise à jour au 12-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2018. - Décret modifiant la loi du 14 août 1986 relative à la protection et au bien-être des animaux dans le cadre de la sixième réforme de l'Etat

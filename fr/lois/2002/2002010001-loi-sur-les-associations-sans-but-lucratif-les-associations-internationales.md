@@ -12,7 +12,7 @@ entry_into_force: 2003-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/05/02/2002010001/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2002. - Loi sur les associations sans but lucratif, les associations internationales sans but lucratif et les fondations.

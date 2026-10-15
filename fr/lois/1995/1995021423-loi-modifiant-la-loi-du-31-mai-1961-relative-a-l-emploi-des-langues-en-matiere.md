@@ -12,7 +12,7 @@ entry_into_force: 1995-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/11/08/1995021423/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 1995. - Loi modifiant la loi du 31 mai 1961 relative à l'emploi des langues en matière législative, à la présentation, à la publication et à l'entrée en vigueur des textes légaux et réglementaires.

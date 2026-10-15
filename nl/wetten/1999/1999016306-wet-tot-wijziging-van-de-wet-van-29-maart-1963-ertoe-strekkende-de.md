@@ -10,7 +10,7 @@ date: 1999-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/25/1999016306/justel"
 department: "Middenstand - Landbouw"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 1999. - Wet tot wijziging van de wet van 29 maart 1963 ertoe strekkende de rendabiliteit in de landbouw op te voeren en zijn gelijkwaardigheid met de andere sectoren van het bedrijfsleven te bevorderen.

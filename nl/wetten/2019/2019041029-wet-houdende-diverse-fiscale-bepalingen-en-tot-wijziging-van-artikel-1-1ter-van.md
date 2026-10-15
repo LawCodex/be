@@ -12,7 +12,7 @@ entry_into_force: 2019-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/28/2019041029/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2019. - Wet houdende diverse fiscale bepalingen en tot wijziging van artikel 1, § 1ter, van de wet van 5 april 1955

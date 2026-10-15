@@ -13,7 +13,7 @@ entry_into_force: 2009-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/23/2008033097/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2008. - Décret relatif à l'autorité compétente pour exécuter le règlement (CE) n° 1082/2006 relatif à un groupement européen de coopération territoriale (GECT) (TRADUCTION).

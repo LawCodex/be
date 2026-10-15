@@ -12,7 +12,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/07/2006003592/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2006. - Loi remplaçant l'article 230, alinéa 1er, 3°, du Code des impôts sur les revenus 1992.

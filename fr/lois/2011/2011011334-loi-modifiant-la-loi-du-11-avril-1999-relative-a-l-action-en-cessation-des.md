@@ -12,7 +12,7 @@ entry_into_force: 2011-09-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/08/13/2011011334/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AOUT 2011. - Loi modifiant la loi du 11 avril 1999 relative à l'action en cessation des infractions à la loi relative aux contrats portant sur l'acquisition d'un droit d'utilisation d'immeubles à temps partagé

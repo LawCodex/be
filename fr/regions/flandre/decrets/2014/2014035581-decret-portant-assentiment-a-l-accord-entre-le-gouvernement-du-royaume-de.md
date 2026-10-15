@@ -13,7 +13,7 @@ entry_into_force: 2014-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035581/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de la Géorgie sur le transport par la route, signé à Bruxelles le 19 mars 2002

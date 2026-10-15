@@ -12,7 +12,7 @@ entry_into_force: 2017-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/07/21/2017030733/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JULI 2017. - Wet betreffende de milieubescherming en de regulering van de activiteiten op Antarctica onder de rechtsbevoegdheid van België

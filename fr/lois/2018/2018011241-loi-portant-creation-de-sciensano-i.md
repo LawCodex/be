@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/02/25/2018011241/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 21-03-2018 et mise à jour au 16-06-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 2018. - Loi portant création de Sciensano (I)

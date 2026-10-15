@@ -12,7 +12,7 @@ entry_into_force: 2007-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/18/2006009004/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2006. - Wet tot wijziging van de artikelen 80, 259quater, 259quinquies, 259nonies, 259decies, 259undecies, 323bis, 340, 341, 346 en 359 van het Gerechtelijk Wetboek, tot herstel in dit Wetboek van artikel 324 en tot wijziging van de artikelen 43 en 43quater van de wet van 15 juni 1935 op het gebruik der talen in gerechtszaken.

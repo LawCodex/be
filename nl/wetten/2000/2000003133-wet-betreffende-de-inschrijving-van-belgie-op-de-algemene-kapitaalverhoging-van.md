@@ -12,7 +12,7 @@ entry_into_force: 2000-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/02/17/2000003133/justel"
 department: "Financiën - Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2000. - Wet betreffende de inschrijving van België op de algemene kapitaalverhoging van het Multilateraal Agentschap voor Investeringsgarantie.

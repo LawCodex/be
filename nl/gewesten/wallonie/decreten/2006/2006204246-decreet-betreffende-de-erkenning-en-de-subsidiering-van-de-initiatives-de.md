@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/14/2006204246/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 05-01-2007 en tekstbijwerking tot 30-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2006. - Decreet betreffende de erkenning en de subsidiëring van de "Initiatives de développement de l'emploi dans le secteur des services de proximité à finalité sociale" (Initiatieven tot ontwikkeling van de werkgelegenheid in de sector van de buurtdiensten met een maatschappelijk doel), afgekort : "I.D.E.S.S. " (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2020-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/15/2020202718/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2020. - Loi visant à suspendre les délais de préavis des congés donnés avant ou durant la période de suspension temporaire de l'exécution du contrat de travail pour cause de force majeure en raison de la crise du COVID-19

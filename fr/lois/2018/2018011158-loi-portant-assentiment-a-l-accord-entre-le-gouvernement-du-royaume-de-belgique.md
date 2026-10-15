@@ -12,7 +12,7 @@ entry_into_force: 2018-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/01/26/2018011158/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2018. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement du Grand-Duché de Luxembourg sur l'assistance mutuelle en matière de sécurité civile, fait à Bruxelles le 5 février 2015

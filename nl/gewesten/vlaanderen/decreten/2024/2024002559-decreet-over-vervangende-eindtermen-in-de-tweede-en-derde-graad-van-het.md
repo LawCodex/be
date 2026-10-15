@@ -12,7 +12,7 @@ published: 2024-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/02/23/2024002559/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 FEBRUARI 2024. - Decreet over vervangende eindtermen in de tweede en derde graad van het secundair onderwijs, wat de sleutelcompetenties competenties inzake wiskunde, exacte wetenschappen en technologie, competenties met betrekking tot historisch bewustzijn en competenties met betrekking tot ruimtelijk bewustzijn betreft, op initiatief van de Federatie Steinerscholen Vlaanderen vzw

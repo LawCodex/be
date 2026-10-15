@@ -13,7 +13,7 @@ entry_into_force: 2017-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/03/10/2017020312/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2017. - Decreet tot wijziging van het Energiedecreet van 8 mei 2009, wat betreft de aansluitbaarheid op een aardgasdistributienet en tot bevestiging van de continuïteit van de sanctionering van de energieprestatieregelgeving

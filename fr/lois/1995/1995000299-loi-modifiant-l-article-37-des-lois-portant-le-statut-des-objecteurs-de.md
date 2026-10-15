@@ -12,7 +12,7 @@ entry_into_force: 1995-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/10/1995000299/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1995. - Loi modifiant l'article 37 des lois portant le statut des objecteurs de conscience, coordonnées le 20 février 1980.

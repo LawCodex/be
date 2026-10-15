@@ -11,7 +11,7 @@ published: 2019-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019041009/justel"
 department: "Wetenschapsbeleid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2019. - Wet tot wijziging van de wet van 29 juni 1983 betreffende de leerplicht, teneinde die in te stellen vanaf de leeftijd van vijf jaar

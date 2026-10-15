@@ -13,7 +13,7 @@ entry_into_force: 2022-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/07/18/2025005715/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2025. - Décret modifiant l'article 68, § 2/1, du décret Panier de croissance de 2018, en ce qui concerne les règles de répartition des allocations dans le cadre de la politique familiale

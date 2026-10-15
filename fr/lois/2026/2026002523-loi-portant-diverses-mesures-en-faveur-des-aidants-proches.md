@@ -12,7 +12,7 @@ entry_into_force: 2026-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/03/22/2026002523/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2026. - Loi portant diverses mesures en faveur des aidants proches

@@ -9,7 +9,7 @@ language: nl
 date: 1948-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1948/08/23/1948082324/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 AUGUSTUS 1948. - Wet strekkende tot het in stand houden en het uitbreiden van de koopvaardij en de vissersvloot [...] en houdende instelling, te dien einde, van een Fonds voor het Uittreden en het Aanbouwen van Zeeschepen. (W 18-06-1976, art. 1)

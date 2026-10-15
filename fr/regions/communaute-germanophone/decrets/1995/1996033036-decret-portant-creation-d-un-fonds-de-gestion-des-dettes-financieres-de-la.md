@@ -17,7 +17,7 @@ department: "Communauté germanophone"
 justel_notes:
   - "Intitulé remplacé par <DCG 2016-02-22/24 , art.64, 004; En vigueur : 14-04-2016>"
   - "Consultation des versions antérieures à partir du 04-06-1996 et mise à jour au 13-01-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 1995. - Décret portant création d'un [fonds de gestion des dettes financières de la Communauté germanophone] (TRADUCTION). -

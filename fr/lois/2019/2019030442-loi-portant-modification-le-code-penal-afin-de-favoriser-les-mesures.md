@@ -12,7 +12,7 @@ entry_into_force: 2019-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/05/2019030442/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2019. - Loi portant modification le Code pénal afin de favoriser les mesures alternatives dans la prise en charge de la délinquance inspirée par le racisme ou la xénophobie et de mieux lutter contre la récidive en matière de discrimination

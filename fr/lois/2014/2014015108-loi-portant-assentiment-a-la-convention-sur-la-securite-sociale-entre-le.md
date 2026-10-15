@@ -12,7 +12,7 @@ entry_into_force: 2014-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/28/2014015108/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2014. - Loi portant assentiment à la Convention sur la sécurité sociale entre le Royaume de Belgique et la République de Serbie, faite à Bruxelles le 15 juillet 2010

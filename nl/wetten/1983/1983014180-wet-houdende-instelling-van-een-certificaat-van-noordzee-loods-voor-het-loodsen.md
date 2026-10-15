@@ -12,7 +12,7 @@ entry_into_force: 1983-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1983/06/08/1983014180/justel"
 department: "Verkeerswezen"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 1983. - Wet houdende instelling van een certificaat van Noordzee-loods voor het loodsen van schepen op de Noordzee en in het Kanaal.

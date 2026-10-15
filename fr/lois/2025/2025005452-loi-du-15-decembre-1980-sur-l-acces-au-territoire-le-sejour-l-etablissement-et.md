@@ -12,7 +12,7 @@ entry_into_force: 2025-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/07/14/2025005452/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2025. - Loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers en ce qui concerne le traitement d'une demande ultérieure de protection internationale

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/07/17/1996033005/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 27-02-1996 en tekstbijwerking tot 04-08-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 1995. - Decreet betreffende het inschrijvings- en het schoolgeld in het onderwijs. (NOTA 1 : Opgeheven voor het gewoon basisonderwijs, het gewoon secundair onderwijs en het buitengewoon onderwijs. &lt;DDG 1998-08-31/42, art. 121, § 3, 1°, 002; Inwerkingtreding : 01-09-1998&gt;)

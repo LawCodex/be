@@ -13,7 +13,7 @@ entry_into_force: 2003-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/21/2003031020/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2002. - Decreet houdende instemming door de Vergadering van de Franse Gemeenschapscommissie met de Kaderovereenkomst voor samenwerking ter voorbereiding van een associatie van politieke en economische aard tussen de Europese Gemeenschap en haar lid-Staten, enerzijds, en de Republiek Chili, anderzijds, als einddoel, en met het proces-verbaal van ondertekening (VERTALING).

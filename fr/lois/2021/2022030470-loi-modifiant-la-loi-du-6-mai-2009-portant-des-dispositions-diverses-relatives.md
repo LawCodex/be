@@ -12,7 +12,7 @@ entry_into_force: 2022-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/23/2022030470/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2021. - Loi modifiant la loi du 6 mai 2009 portant des dispositions diverses relatives à l'asile et à l'immigration et la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, concernant l'organisation du Conseil du Contentieux des étrangers

@@ -13,7 +13,7 @@ entry_into_force: 2026-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/22/2026005216/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2026. - Décret modifiant la partie décrétale du Code du Développement territorial

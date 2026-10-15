@@ -13,7 +13,7 @@ entry_into_force: 2012-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/11/16/2012207009/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 2012. - Decreet tot omvorming van het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Agentschap voor Infrastructuur in het Onderwijs" tot het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Agentschap voor Infrastructuur in het Onderwijs"

@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/04/2015202740/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUNI 2015. - Decreet houdende wijziging van de jachtwet van 28 februari 1882 wat betreft de uren waarin de jacht wordt toegelaten

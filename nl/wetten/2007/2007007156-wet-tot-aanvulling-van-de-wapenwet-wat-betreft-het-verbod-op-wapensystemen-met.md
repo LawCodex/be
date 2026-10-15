@@ -12,7 +12,7 @@ entry_into_force: 2007-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/11/2007007156/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2007. - Wet tot aanvulling van de wapenwet, wat betreft het verbod op wapensystemen met verarmd uranium.

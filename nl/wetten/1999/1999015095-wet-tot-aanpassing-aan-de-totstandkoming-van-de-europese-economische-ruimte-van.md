@@ -12,7 +12,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/13/1999015095/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 1999. - Wet tot aanpassing aan de totstandkoming van de Europese Economische Ruimte van sommige wetten en besluiten ter uitvoering van verordeningen en richtlijnen van de instellingen van de Europese Gemeenschappen.

@@ -12,7 +12,7 @@ entry_into_force: 2012-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/01/08/2012000077/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JANUARI 2012. - Wet tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen

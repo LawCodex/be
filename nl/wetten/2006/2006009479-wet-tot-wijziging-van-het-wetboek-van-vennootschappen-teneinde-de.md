@@ -12,7 +12,7 @@ entry_into_force: 2006-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/06/02/2006009479/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2006. - Wet tot wijziging van het Wetboek van vennootschappen, teneinde de vereffeningsprocedure te verbeteren.

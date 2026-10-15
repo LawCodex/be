@@ -13,7 +13,7 @@ entry_into_force: 2005-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/01/2005029222/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er JUILLET 2005. - Décret relatif aux études de médecine et de dentisterie.

@@ -13,7 +13,7 @@ entry_into_force: 2018-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/11/2018202653/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2018. - Décret modifiant le décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité et le décret du 19 décembre 2002 relatif à l'organisation du marché régional du gaz

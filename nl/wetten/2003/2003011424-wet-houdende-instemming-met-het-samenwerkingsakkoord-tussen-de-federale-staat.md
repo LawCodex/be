@@ -10,7 +10,7 @@ date: 2003-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/08/26/2003011424/justel"
 department: "Economie, KMO, Middenstand en Energie - Waalse Gewest - Vlaamse Gemeenschap"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AUGUSTUS 2003. - Wet houdende instemming met het Samenwerkingsakkoord tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering en de financiering van de bodemsanering van tankstations, afgesloten te Brussel op 13 december 2002.

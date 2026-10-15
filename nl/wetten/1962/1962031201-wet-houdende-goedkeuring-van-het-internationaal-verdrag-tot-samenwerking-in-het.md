@@ -11,7 +11,7 @@ published: 1963-03-30
 entry_into_force: 1963-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1962/03/12/1962031201/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAART 1962. - Wet houdende goedkeuring van het Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart " Eurocontrol ", van de bijlagen I en II en van het protocol van ondertekening, ondertekend op 13 december 1960, te Brussel.

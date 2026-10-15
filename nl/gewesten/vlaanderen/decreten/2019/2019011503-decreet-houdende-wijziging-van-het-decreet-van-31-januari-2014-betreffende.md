@@ -13,7 +13,7 @@ entry_into_force: 2019-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/22/2019011503/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2019. - Decreet houdende wijziging van het decreet van 31 januari 2014 betreffende opdracht van de bevoegdheid inzake het voeren van een specifiek grond- en woonbeleid en een specifiek welzijns- en gezondheidsinfrastructuurbeleid voor Vlaams-Brabant aan de provincie Vlaams-Brabant

@@ -12,7 +12,7 @@ entry_into_force: 2005-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/05/22/2005003501/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2005. - Loi portant modification de la loi du 20 juillet 1979 concernant l'assistance mutuelle en matière de recouvrement des créances relatives à certains cotisations, droits, taxes et autres mesures, en exécution de la Directive 2004/79/CE de la Commission du 4 mars 2004.

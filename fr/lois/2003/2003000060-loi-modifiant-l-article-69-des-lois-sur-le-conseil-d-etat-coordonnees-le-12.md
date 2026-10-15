@@ -12,7 +12,7 @@ entry_into_force: 2003-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/14/2003000060/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 2003. - Loi modifiant l'article 69 des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973.

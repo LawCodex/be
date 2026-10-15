@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/07/13/2017030683/justel"
 department: "Commission communautaire commune"
 justel_note: "Consultation des versions antérieures à partir du 30-01-2023 et mise à jour au 30-01-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2017. - Ordonnance visant à instaurer un moratoire sur le nombre de lits pour certains établissements d'accueil et d'hébergement pour personnes âgées

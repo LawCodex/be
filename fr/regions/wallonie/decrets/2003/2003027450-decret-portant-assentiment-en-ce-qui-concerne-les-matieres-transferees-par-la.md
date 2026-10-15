@@ -13,7 +13,7 @@ entry_into_force: 2003-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/06/06/2003027450/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2003. - Décret portant assentiment, en ce qui concerne les matières transférées par la Communauté française, à l'Accord euroméditerranéen établissant une association entre la Communauté européenne et ses Etats membres, d'une part, et la République algérienne démocratique et populaire, d'autre part, et à l'Acte final, faits à Valence, le 22 avril 2002.

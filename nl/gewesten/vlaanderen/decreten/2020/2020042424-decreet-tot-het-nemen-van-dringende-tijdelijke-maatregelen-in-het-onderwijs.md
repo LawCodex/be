@@ -13,7 +13,7 @@ entry_into_force: 2020-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/17/2020042424/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2020. - Decreet tot het nemen van dringende tijdelijke maatregelen in het onderwijs naar aanleiding van de coronacrisis (III) en tot wijziging van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016

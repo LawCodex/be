@@ -13,7 +13,7 @@ entry_into_force: 2015-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/02/05/2015031096/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 2015. - Ordonnantie houdende instemming met : het Verdrag nr. 170 betreffende de veiligheid bij het gebruik van chemische producten op het werk, aangenomen te Genève op 25 juni 1990 door de Internationale Arbeidsconferentie tijdens haar zevenenzeventigste zitting

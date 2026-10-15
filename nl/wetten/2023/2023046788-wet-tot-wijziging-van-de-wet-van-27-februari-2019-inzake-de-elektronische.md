@@ -11,7 +11,7 @@ entry_into_force: 2023-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/09/13/2023046788/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 SEPTEMBER 2023. - Wet tot wijziging van de wet van 27 februari 2019 inzake de elektronische uitwisseling van berichten via de eBox

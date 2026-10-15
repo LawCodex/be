@@ -11,7 +11,7 @@ published: 1999-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/23/1999003431/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 1999. - Wet betreffende de financiering van de constructie van de nieuwe zetel van de NAVO.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/09/2019013002/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 26-06-2019 en tekstbijwerking tot 21-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2019. - Wet betreffende de verplichte verzekering van de burgerlijke beroepsaansprakelijkheid van architecten, landmeters-experten, veiligheids- en gezondheidscoördinatoren en andere dienstverleners in de bouwsector van werken in onroerende staat en tot wijziging van diverse wetsbepalingen betreffende de verzekering burgerrechtelijke aansprakelijkheid in de bouwsector (genoemd ook : "Wet betreffende de verplichte verzekering van de burgerlijke beroepsaansprakelijkheid in de bouwsector")

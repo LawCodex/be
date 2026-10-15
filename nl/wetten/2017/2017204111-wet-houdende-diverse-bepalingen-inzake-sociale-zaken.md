@@ -12,7 +12,7 @@ entry_into_force: 2017-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/09/30/2017204111/justel"
 department: "Sociale Zekerheid - Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 SEPTEMBER 2017. - Wet houdende diverse bepalingen inzake sociale zaken

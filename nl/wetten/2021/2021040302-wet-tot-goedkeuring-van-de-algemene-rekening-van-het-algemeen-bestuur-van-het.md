@@ -12,7 +12,7 @@ entry_into_force: 2021-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/01/26/2021040302/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2021. - Wet tot goedkeuring van de algemene rekening van het algemeen bestuur van het jaar 2018 en van de uitvoeringsrekeningen van de begrotingen van Staatsdiensten met afzonderlijk beheer van voorgaande jaren

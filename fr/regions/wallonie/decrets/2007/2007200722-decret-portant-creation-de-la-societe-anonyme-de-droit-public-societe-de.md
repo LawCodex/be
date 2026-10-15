@@ -13,7 +13,7 @@ entry_into_force: 2007-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/02/15/2007200722/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2007. - Décret portant création de la société anonyme de droit public "Société de rénovation et d'assainissement des sites industriels (SORASI)".

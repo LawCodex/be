@@ -12,7 +12,7 @@ entry_into_force: 2002-09-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/01/29/2002015023/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2002. - Loi portant assentiment à l'Accord conclu par échange de lettres datées à Bruxelles les 23 décembre 1998 et 19 février 1999 entre le Royaume de Belgique et le Royaume des Pays-Bas concernant les privilèges et immunités des officiers belges détachés auprès d'Europol.

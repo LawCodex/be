@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/12/10/2021034330/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2021. - Ordonnantie betreffende het beheer van de materiële belangen van de erkende plaatselijke levensbeschouwelijke gemeenschappen

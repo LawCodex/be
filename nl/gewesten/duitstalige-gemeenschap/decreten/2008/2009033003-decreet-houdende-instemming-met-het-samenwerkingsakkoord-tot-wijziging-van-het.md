@@ -13,7 +13,7 @@ entry_into_force: 2009-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/12/15/2009033003/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2008. - Decreet houdende instemming met het samenwerkingsakkoord tot wijziging van het samenwerkingsakkoord van 26 november 1998 tussen het Waalse Gewest en de Duitstalige Gemeenschap (VERTALING).

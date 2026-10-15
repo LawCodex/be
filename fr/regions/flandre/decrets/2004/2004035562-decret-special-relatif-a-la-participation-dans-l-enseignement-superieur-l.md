@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/19/2004035562/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2004. - Décret spécial relatif à la participation dans l'enseignement supérieur, l'intégration de certaines sections de l'enseignement supérieur de promotion sociale dans les instituts supérieurs, la coordination de la réglementation de l'enseignement supérieur et la modernisation de la réglementation des instituts supérieurs autonomes flamands (TRADUCTION).

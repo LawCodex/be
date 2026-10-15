@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/07/06/1997003340/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 09-08-1997 et mise à jour au 01-09-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 1997. - Loi ajustant le budget des Voies et Moyens de l'année budgétaire 1997

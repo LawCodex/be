@@ -12,7 +12,7 @@ entry_into_force: 2007-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/09/2007009551/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2007. - Loi modifiant l'article 340, § 3, du Code judiciaire.

@@ -12,7 +12,7 @@ last_amended: 2026-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1935/06/15/1935061501/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 05-11-1985 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 1935. - WET op het gebruik der talen in gerechtszaken

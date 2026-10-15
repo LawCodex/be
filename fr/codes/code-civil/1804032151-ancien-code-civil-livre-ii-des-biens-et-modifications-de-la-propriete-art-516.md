@@ -13,7 +13,7 @@ last_amended: 2020-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032151/justel"
 justel_note: "Consultation des versions antérieures à partir du 26-07-1994 et mise à jour au 24-12-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 1804. - [ANCIEN] CODE CIVIL. - LIVRE II : Des biens et modifications de la propriété (art. 516-710bis). (Intitulé modifié par L 2019-04-13/28 , art. 2, 014; En vigueur : 01-11-2020)

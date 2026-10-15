@@ -11,7 +11,7 @@ published: 1909-08-11
 entry_into_force: 1909-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1909/08/06/1909080650/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AOUT 1909. - LOI relative à la stabilité des emplois dépendant des établissements publics de bienfaisance et des monts-de-piété

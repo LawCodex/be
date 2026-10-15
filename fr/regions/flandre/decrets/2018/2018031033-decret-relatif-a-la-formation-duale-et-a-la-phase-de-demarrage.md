@@ -13,7 +13,7 @@ entry_into_force: 2019-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/30/2018031033/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2018. - Décret relatif à la formation duale et à la phase de démarrage

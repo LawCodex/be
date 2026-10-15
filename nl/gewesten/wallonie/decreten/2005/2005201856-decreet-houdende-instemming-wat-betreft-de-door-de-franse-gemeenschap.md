@@ -13,7 +13,7 @@ entry_into_force: 2005-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/06/30/2005201856/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2005. - Decreet houdende instemming, wat betreft de door de Franse Gemeenschap overgedragen aangelegenheden, met het Verdrag tot vaststelling van een Grondwet voor Europa, met de daaraan gehechte Protocollen, met de Bijlagen erbij en met de Slotakte, gedaan te Rome op 29 oktober 2004 (VERTALING).

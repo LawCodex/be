@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/03/11/2022031490/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2022. - Decreet tot wijziging van diverse decreten naar aanleiding van de oprichting van het Agentschap Justitie en Handhaving

@@ -12,7 +12,7 @@ entry_into_force: 2009-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/04/14/2009000258/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 APRIL 2009. - Wet houdende verscheidene wijzigingen inzake verkiezingen

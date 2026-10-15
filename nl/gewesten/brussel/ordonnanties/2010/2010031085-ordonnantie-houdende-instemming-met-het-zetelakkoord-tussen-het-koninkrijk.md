@@ -13,7 +13,7 @@ entry_into_force: 2010-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2010/02/04/2010031085/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2010. - Ordonnantie houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Gemeenschappelijke Markt voor Oostelijk en Zuidelijk Afrika, ondertekend te Brussel op 2 maart 2007

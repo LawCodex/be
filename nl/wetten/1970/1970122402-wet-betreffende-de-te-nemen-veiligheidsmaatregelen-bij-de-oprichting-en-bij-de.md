@@ -13,7 +13,7 @@ last_amended: 2024-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1970/12/24/1970122402/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 03-06-2024 en tekstbijwerking tot 03-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 1970. - Wet betreffende de te nemen veiligheidsmaatregelen bij de oprichting en bij de exploitatie van gasdistributie-installaties

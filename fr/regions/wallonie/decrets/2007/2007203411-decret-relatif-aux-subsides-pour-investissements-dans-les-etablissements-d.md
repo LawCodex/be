@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/07/2007203411/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 12-12-2008 et mise à jour au 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 2007. - Décret relatif aux subsides pour investissements dans les établissements d'accueil pour personnes âgées

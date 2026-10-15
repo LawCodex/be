@@ -12,7 +12,7 @@ entry_into_force: 2022-11-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/10/16/2022033779/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2022. - Loi portant des dispositions diverses en matière de taxe sur la valeur ajoutée

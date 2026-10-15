@@ -13,7 +13,7 @@ entry_into_force: 2017-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/05/29/2017203131/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2017. - Décret portant assentiment au Protocole, fait à Bruxelles le 18 février 2015, modifiant la Convention entre le Royaume de Belgique et la République d'Ouzbékistan tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 14 novembre 1996, telle qu'amendée par le Protocole additionnel, signé à Tachkent le 17 avril 1998

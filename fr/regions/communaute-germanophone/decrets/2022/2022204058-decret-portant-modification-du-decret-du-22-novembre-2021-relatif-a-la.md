@@ -13,7 +13,7 @@ entry_into_force: 2022-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/05/23/2022204058/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2022. - Décret portant modification du décret du 22 novembre 2021 relatif à la surveillance électronique dans le cadre de l'application des peines

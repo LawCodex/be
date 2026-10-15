@@ -13,7 +13,7 @@ entry_into_force: 2019-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/12/21/2019040107/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2018. - Decreet tot opheffing van artikel 3 van het decreet van 28 maart 2014 houdende instelling van het Ereteken van de Vlaamse Gemeenschap

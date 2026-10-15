@@ -12,7 +12,7 @@ entry_into_force: 1997-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/03/17/1997922733/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 1997. - Loi modifiant l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice de l'art de guérir, de l'art infirmier, des professions paramédicales et aux commissions médicales, en vue de l'exercice de la biologie clinique.

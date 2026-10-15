@@ -13,7 +13,7 @@ entry_into_force: 2019-11-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/11/29/2019042773/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2019. - Ordonnance ajustant le budget des Voies et Moyens de la Commission communautaire commune pour l'année budgétaire 2019

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/18/2018013116/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 03-08-2018 en tekstbijwerking tot 05-07-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2018. - Decreet houdende vaststelling van het kwaliteitszorgstelsel in het hoger onderwijs

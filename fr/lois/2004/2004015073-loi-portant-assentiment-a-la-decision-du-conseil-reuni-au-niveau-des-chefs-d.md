@@ -12,7 +12,7 @@ entry_into_force: 2004-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/03/29/2004015073/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2004. - Loi portant assentiment à la Décision du Conseil, réuni au niveau des Chefs d'Etat ou de Gouvernement du 21 mars 2003, relative à une modification de l'article 10.2 des statuts du Système européen de banques centrales et de la Banque centrale européenne

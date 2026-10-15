@@ -12,7 +12,7 @@ entry_into_force: 2007-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/11/23/2007010072/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2007. - Loi modifiant la loi du 8 juin 2006 réglant des activités économiques et individuelles avec des armes afin de prolonger le délai de déclaration de détention d'armes.

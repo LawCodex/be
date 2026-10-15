@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/20/2022032943/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 11-08-2022 et mise à jour au 30-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2022. - Décret portant diverses dispositions en matière d'enseignement supérieur, d'enseignement de promotion sociale et de recherche scientifique

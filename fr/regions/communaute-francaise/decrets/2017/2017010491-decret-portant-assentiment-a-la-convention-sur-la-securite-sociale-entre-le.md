@@ -13,7 +13,7 @@ entry_into_force: 2017-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/01/26/2017010491/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2017. - Décret portant assentiment à La Convention sur la sécurité sociale entre le Royaume de Belgique et l'Etat d'Israël, faite à Jérusalem, le 24 mars 2014

@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/13/2012204441/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2012. - Décret modifiant la loi du 10 avril 1995 relative à la redistribution du travail dans le secteur public et abrogeant la réglementation en exécution des articles 14 et 27, § 4 de la même loi

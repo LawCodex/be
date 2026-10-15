@@ -13,7 +13,7 @@ entry_into_force: 2009-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009035500/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en tot wijziging aan diverse bepalingen inzake de milieuhandhaving

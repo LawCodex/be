@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004035855/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 24-08-2005 en tekstbijwerking tot 06-09-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet tot omvorming van het "Vlaams Zorgfonds" tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid en tot wijziging van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering.

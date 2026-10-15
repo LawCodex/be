@@ -12,7 +12,7 @@ entry_into_force: 2022-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/09/25/2022033662/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 SEPTEMBRE 2022. - Loi portant insertion dans le livre XI du Code de droit économique et dans le Code judiciaire de diverses dispositions en matière de propriété intellectuelle

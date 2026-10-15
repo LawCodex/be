@@ -11,7 +11,7 @@ published: 2026-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/03/16/2026002190/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2026. - Wet tot wijziging van de wet van 5 maart 1952 betreffende de opdecimes op de strafrechtelijke geldboeten, van het Sociaal Strafwetboek en van verscheidene bepalingen van het sociaal strafrecht

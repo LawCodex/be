@@ -13,7 +13,7 @@ entry_into_force: 2013-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/01/18/2013200868/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2013. - Décret modifiant diverses dispositions du décret du 6 juillet 2001 portant réglementation de la coopération intercommunale

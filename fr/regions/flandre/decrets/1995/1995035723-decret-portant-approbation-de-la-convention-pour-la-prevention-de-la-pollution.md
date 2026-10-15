@@ -13,7 +13,7 @@ entry_into_force: 1995-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/19/1995035723/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 1995. - Décret portant approbation de la Convention pour la prévention de la pollution marine de l'Atlantique nord-est et des annexes, faites à Paris le 22 septembre 1992. (TRADUCTION)

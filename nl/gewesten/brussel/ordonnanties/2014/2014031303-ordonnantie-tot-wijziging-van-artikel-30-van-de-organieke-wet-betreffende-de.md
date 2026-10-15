@@ -13,7 +13,7 @@ entry_into_force: 2014-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/03/27/2014031303/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Ordonnantie tot wijziging van artikel 30 van de organieke wet betreffende de openbare centra voor maatschappelijk welzijn teneinde sommige mededelingen te verbeteren

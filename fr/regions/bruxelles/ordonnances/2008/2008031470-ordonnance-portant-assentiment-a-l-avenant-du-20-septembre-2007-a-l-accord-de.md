@@ -13,7 +13,7 @@ entry_into_force: 2008-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/09/04/2008031470/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBRE 2008. - Ordonnance portant assentiment à l'avenant du 20 septembre 2007 à l'accord de coopération du 30 mai 2005 entre l'Etat fédéral, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale et la Communauté germanophone relatif à l'économie plurielle.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/11/12/2020043690/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 10-12-2020 en tekstbijwerking tot 18-01-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 2020. - Decreet houdende diverse bepalingen inzake hoger onderwijs en onderwijs voor sociale promotie

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/02/17/2023030620/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 14-03-2023 et mise à jour au 12-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2023. - Décret relatif aux convenants sectoriels et aux convenants intersectoriels dans le cadre de la politique flamande de l'emploi

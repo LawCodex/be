@@ -12,7 +12,7 @@ entry_into_force: 2016-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/21/2016000465/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUILLET 2016. - Loi modifiant la loi du 21 décembre 1998 relative à la sécurité lors des matches de football en ce qui concerne les clubs visés

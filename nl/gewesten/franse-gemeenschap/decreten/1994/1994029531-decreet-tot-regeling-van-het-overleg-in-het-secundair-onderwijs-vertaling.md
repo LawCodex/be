@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/10/27/1994029531/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 31-08-1995 en tekstbijwerking tot 15-07-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 1994. - Decreet tot regeling van het overleg in het secundair onderwijs. (Vertaling)

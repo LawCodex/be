@@ -12,7 +12,7 @@ entry_into_force: 2011-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/07/11/2011009542/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2011. - Wet tot wijziging van de artikelen 216bis en 216ter van het Wetboek van strafvordering en van artikel 7 van de wet van 6 juni 2010 tot invoering van het Sociaal Strafwetboek

@@ -13,7 +13,7 @@ entry_into_force: 2006-09-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/07/2006036312/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2006. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et la Bosnie-Herzégovine, d'autre part, concernant l'encouragement et la protection réciproques des investissements, signé à Sarajevo le 3 mars 2004 (TRADUCTION).

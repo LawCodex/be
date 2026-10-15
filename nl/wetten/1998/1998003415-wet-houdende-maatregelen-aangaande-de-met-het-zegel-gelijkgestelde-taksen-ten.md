@@ -12,7 +12,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/07/05/1998003415/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1998. - Wet houdende maatregelen aangaande de met het zegel gelijkgestelde taksen ten gunste van de binnenvaart.

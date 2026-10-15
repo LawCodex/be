@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/02/11/2019040391/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEVRIER 2019. - Loi modifiant le Code de la taxe sur la valeur ajoutée en ce qui concerne le traitement des bons et les régimes particuliers applicables aux services de télécommunication, de radiodiffusion et de télévision ou aux services électroniques fournis à des personnes non assujetties

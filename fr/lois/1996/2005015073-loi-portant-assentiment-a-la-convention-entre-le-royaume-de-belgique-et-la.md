@@ -12,7 +12,7 @@ entry_into_force: 2005-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/08/04/2005015073/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1996. - Loi portant assentiment à la Convention entre le Royaume de Belgique et la République gabonaise tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 14 janvier 1993.

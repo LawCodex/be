@@ -12,7 +12,7 @@ entry_into_force: 2012-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/12/19/2013011021/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2012. - Wet tot wijziging van de wet van 10 mei 2007 ter bestrijding van discriminatie tussen vrouwen en mannen wat het geslacht op het gebied van goederen en diensten en van aanvullende regelingen voor sociale zekerheid betreft

@@ -16,7 +16,7 @@ department: "Communications"
 justel_notes:
   - "en ce qui concerne les modifications apportées par DRW 2009-12-10/27 ; voir dispositions transitoires : art. 103, alinéas 2 à 5"
   - "Consultation des versions antérieures à partir du 27-03-1999 et mise à jour au 22-12-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 1987. - Loi relative aux redevances radio et télévision.

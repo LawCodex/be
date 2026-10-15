@@ -11,7 +11,7 @@ date: 2002-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/06/24/2002033081/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2002. - Decreet houdende goedkeuring van het Verdrag van Nice houdende wijziging van het verdrag betreffende de Europese Unie, de verdragen tot oprichting van de Europese Gemeenschappen en sommige bijbehorende akten, de Protocollen en Slotakte, gedaan te Nice op 26 februari 2001 (VERTALING).

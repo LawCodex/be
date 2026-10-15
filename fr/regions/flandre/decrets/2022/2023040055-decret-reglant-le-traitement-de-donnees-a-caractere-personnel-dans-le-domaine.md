@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/23/2023040055/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2022. - Décret réglant le traitement de données à caractère personnel dans le domaine politique de la protection sociale et dans le domaine politique des soins de santé et résidentiels, en ce qui concerne l'agrément des professions des soins de santé et les soins de santé préventifs

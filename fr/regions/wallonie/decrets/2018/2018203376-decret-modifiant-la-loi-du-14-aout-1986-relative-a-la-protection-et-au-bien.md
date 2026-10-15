@@ -13,7 +13,7 @@ entry_into_force: 2018-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/21/2018203376/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2018. - Décret modifiant la loi du 14 août 1986 relative à la protection et au bien-être des animaux en ce qui concerne la saisie administrative des animaux

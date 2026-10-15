@@ -11,7 +11,7 @@ published: 2017-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/01/27/2017010495/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JANUARI 2017. - Wet tot wijziging van de wet van 22 maart 2001 tot instelling van een inkomensgarantie voor ouderen

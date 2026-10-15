@@ -16,7 +16,7 @@ department: "Santé Publique et Environnement - Emploi et Travail"
 justel_notes:
   - "articles modifiés avec effet à une date indéterminée par L 2019-04-05/27 , art. 2-4; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 07-09-1995 et mise à jour au 19-01-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 AVRIL 1994. - Loi relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de Contrôle nucléaire

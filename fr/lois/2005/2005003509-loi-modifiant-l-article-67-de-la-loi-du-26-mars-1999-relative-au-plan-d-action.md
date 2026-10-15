@@ -12,7 +12,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/05/22/2005003509/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2005. - Loi modifiant l'article 67 de la loi du 26 mars 1999 relative au plan d'action belge pour l'emploi 1998 et portant des dispositions diverses.

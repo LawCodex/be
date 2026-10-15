@@ -11,7 +11,7 @@ published: 2016-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/06/27/2016003227/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2016. - Wet tot wijziging van de programmawet van 27 december 2004 et van de wet van 7 januari 1998 betreffende de structuur en de accijnstarieven op alcohol en alcoholhoudende dranken en tot opheffing van het koninklijk besluit van 26 oktober 2015 tot voorlopige wijziging van de programmawet van 27 december 2004 en van het koninklijk besluit van 26 oktober 2015 tot voorlopige wijziging van de wet van 7 januari 1998 betreffende de structuur en de accijnstarieven op alcohol en alcoholhoudende dranken

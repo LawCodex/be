@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/07/2019011293/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 27-03-2019 en tekstbijwerking tot 21-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 FEBRUARI 2019. - [Decreet betreffende de aanschaf van schoolboeken, digitale hulpmiddelen, pedagogische instrumenten en lesmateriaal, en literatuurboeken in schoolinrichtingen] &lt;Gewijzigd door DFG 2023-02-09/33 , art. 1, 002; Inwerkingtreding : 29-08-2022&gt;

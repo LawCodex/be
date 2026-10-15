@@ -12,7 +12,7 @@ entry_into_force: 1999-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/29/1999000503/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 1999. - Wet houdende inkorting van de administratieve hechtenis van buitenlanders die illegaal op het Belgisch grondgebied verblijven.

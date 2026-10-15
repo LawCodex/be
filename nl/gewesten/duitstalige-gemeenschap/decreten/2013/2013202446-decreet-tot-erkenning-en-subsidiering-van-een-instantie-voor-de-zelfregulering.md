@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/03/25/2013202446/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 07-05-2013 en tekstbijwerking tot 02-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2013. - Decreet tot erkenning en subsidiëring van een instantie voor de zelfregulering van journalistieke deontologie

@@ -12,7 +12,7 @@ entry_into_force: 2021-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/04/08/2021031250/justel"
 department: "Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 APRIL 2021. - Wet tot wijziging van de organieke wet van 27 december 1990 houdende oprichting van begrotingsfondsen

@@ -13,7 +13,7 @@ entry_into_force: 2023-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/13/2023042104/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 2023. - Décret portant confirmation d'une dérogation limitée aux contenus et attendus définis dans le référentiel des compétences initiales

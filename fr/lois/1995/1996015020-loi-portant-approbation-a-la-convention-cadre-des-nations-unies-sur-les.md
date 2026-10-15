@@ -12,7 +12,7 @@ entry_into_force: 1996-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/05/11/1996015020/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 1995. - Loi portant approbation à la Convention-cadre des Nations Unies sur les changements climatiques, et les Annexes I et II, faites à New York le 9 mai 1992.

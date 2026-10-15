@@ -13,7 +13,7 @@ entry_into_force: 2015-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/24/2015031042/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2014. - Decreet houdende instemming met het aanhangsel bij het kaderakkoord tot samenwerking betreffende de alternerende opleiding, gesloten te Brussel op 24 oktober 2008 tussen de Franse Gemeenschap, het Waals Gewest en de Franse Gemeenschapscommissie

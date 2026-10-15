@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "Consultation des versions antérieures à partir du 17-08-2000 et mise à jour au 31-12-2004"
   - "Consultation des versions antérieures à partir du 17-08-2000 et mise à jour au 24-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2000. - Décret contenant diverses mesures d'accompagnement de l'ajustement du budget 2000 (TRADUCTION). -

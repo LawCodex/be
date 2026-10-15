@@ -12,7 +12,7 @@ entry_into_force: 2025-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/06/10/2025004242/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2025. - Wet tot wijziging van de tabel bedoeld in artikel 87 van het Kieswetboek om de samenstelling van bepaalde kieskantons in het Waals en Vlaams gewest te wijzigen

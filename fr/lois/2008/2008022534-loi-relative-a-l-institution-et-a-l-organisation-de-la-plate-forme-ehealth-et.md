@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/08/21/2008022534/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 13-10-2008 et mise à jour au 06-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AOUT 2008. - [loi relative à l'institution et à l'organisation de la plate-forme eHealth et portant diverses dispositions] &lt;Intitulé remplacé par L 2013-03-19/03 , art. 56, 002; En vigueur : 08-04-2013&gt;

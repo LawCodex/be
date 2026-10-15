@@ -11,7 +11,7 @@ published: 2007-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/10/2007011239/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 2007. - Wet betreffende de aspecten van gerechtelijk recht van de bescherming van intellectuele eigendomsrechten. &lt;Erratum. Zie B.St. 14-05-2007, p. 26121&gt;

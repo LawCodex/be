@@ -12,7 +12,7 @@ published: 2016-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/12/18/2015031902/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2015. - Ordonnantie houdende wijziging van de ordonnantie van 16 juli 1998 betreffende de toekenning van subsidies om investeringen van openbaar nut aan te moedigen

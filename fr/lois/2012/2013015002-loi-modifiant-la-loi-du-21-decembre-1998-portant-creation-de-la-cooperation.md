@@ -12,7 +12,7 @@ entry_into_force: 2013-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/27/2013015002/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 2012. - Loi modifiant la loi du 21 décembre 1998 portant création de la " Coopération technique belge " sous la forme d'une société de droit public

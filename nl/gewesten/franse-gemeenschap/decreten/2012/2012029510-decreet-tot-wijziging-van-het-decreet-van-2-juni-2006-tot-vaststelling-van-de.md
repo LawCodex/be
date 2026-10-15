@@ -12,7 +12,7 @@ published: 2012-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/10/25/2012029510/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 OKTOBER 2012. - Decreet tot wijziging van het decreet van 2 juni 2006 tot vaststelling van de academische graden uitgereikt door de hogescholen die door de Franse Gemeenschap worden georganiseerd of gesubsidieerd en tot vaststelling van de minimale uurregelingen

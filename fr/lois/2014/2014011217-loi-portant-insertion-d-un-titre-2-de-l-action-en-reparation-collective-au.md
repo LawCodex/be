@@ -12,7 +12,7 @@ entry_into_force: 2014-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/03/28/2014011217/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2014. - Loi portant insertion d'un titre 2 " De l'action en réparation collective " au livre XVII " Procédures juridictionnelles particulières " du Code de droit économique et portant insertion des définitions propres au livre XVII dans le livre 1er du Code de droit économique

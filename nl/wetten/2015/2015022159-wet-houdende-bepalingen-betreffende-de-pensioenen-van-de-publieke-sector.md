@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/04/28/2015022159/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 13-05-2015 en tekstbijwerking tot 21-08-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2015. - Wet houdende bepalingen betreffende de pensioenen van de publieke sector

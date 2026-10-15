@@ -11,7 +11,7 @@ entry_into_force: 1997-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/07/03/2002015121/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2000. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Voedsel- en Landbouworganisatie van de Verenigde Naties inzake de oprichting in België van een Verbindingsbureau van deze Organisatie, ondertekend te Brussel op 5 februari 1997.

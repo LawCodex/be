@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/04/2019011404/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 24-05-2019 en tekstbijwerking tot 29-05-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2019. - Wet houdende wijziging van het Wetboek van Economisch Recht met betrekking tot misbruiken van economische afhankelijkheid, onrechtmatige bedingen en oneerlijke marktpraktijken tussen ondernemingen

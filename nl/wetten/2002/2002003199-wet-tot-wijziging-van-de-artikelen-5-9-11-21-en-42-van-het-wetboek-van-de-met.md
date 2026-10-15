@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/04/08/2002003199/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 APRIL 2002. - Wet tot wijziging van de artikelen 5, 9, 11, 21 en 42 van het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen in uitvoering van de richtlijn nr. 1999/62/EG van het Europees Parlement en de Raad van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen.

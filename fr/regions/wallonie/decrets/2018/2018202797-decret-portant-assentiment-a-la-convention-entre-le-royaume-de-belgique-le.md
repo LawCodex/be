@@ -13,7 +13,7 @@ entry_into_force: 2018-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/24/2018202797/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2018. - Décret portant assentiment à la Convention entre le Royaume de Belgique, le Grand-Duché de Luxembourg et le Royaume des Pays-Bas concernant l'Assemblée interparlementaire Benelux, faite à Bruxelles, le 20 janvier 2015

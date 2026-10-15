@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/13/2012035894/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 01-08-2012 et mise à jour au 11-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2012. - Décret portant création et organisation d'un intégrateur de services flamand

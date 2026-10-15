@@ -12,7 +12,7 @@ entry_into_force: 2004-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/17/2003015186/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2002. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en het Koninkrijk Saudi-Arabië inzake de wederzijdse bevordering en bescherming van investeringen, gedaan te Jeddah op 22 april 2001.

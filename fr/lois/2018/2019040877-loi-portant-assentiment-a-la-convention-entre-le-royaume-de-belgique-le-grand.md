@@ -12,7 +12,7 @@ entry_into_force: 2019-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/01/2019040877/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement - Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2018. - Loi portant assentiment à la Convention entre le Royaume de Belgique, le Grand-Duché de Luxembourg et le Royaume des Pays-Bas concernant l'Assemblée Interparlementaire Benelux, faite à Bruxelles le 20 janvier 2015

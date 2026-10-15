@@ -12,7 +12,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/25/2007003220/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2007. - Loi modifiant certaines dispositions du Code des impôts sur les revenus 1992 afin de les mettre en conformité avec certains principes du Traité instituant la Communauté européenne et de l'Accord sur l'Espace économique européen.

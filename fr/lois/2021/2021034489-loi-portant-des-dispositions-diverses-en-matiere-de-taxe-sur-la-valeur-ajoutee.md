@@ -13,7 +13,7 @@ end_of_validity: 2028-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/27/2021034489/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 2021. - Loi portant des dispositions diverses en matière de taxe sur la valeur ajoutée

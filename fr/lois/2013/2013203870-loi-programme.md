@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/06/28/2013203870/justel"
 department: "Chancellerie du Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 01-07-2013 et mise à jour au 30-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2013. - Loi-programme

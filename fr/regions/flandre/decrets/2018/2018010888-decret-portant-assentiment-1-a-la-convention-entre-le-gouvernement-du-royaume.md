@@ -13,7 +13,7 @@ entry_into_force: 2018-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/02/09/2018010888/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2018. - Décret portant assentiment : 1° à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement du Canada en vue d'éviter les doubles impositions et de prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et le protocole signés à Ottawa le 23 mai 2002, tels que modifiés par le protocole, signé à Bruxelles le 1er avril 2014, 2° au protocole, signé à Bruxelles le 1er avril 2014 modifiant la convention visée au point 1°

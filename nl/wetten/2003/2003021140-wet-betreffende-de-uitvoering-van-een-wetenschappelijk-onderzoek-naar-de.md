@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/08/2003021140/justel"
 department: "Kanselarij van de Eerste Minister - Wetenschapsbeleid"
 justel_note: "Raadpleging van vroegere versies vanaf 02-06-2003 en tekstbijwerking tot 28-07-2006"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2003. - Wet betreffende de uitvoering van een wetenschappelijk onderzoek naar de vervolging en de deportatie van de joden in België tijdens de Tweede Wereldoorlog.

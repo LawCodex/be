@@ -13,7 +13,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/12/12/2000029461/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2000. - Décret-programme portant diverses mesures concernant les fonds budgétaires, l'enseignement et les bâtiments scolaires.

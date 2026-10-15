@@ -13,7 +13,7 @@ entry_into_force: 2018-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/30/2018040031/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2018. - Decreet houdende wijziging van de wet van 19 juni 1978 betreffende het beheer van het Linkerscheldeoevergebied ter hoogte van Antwerpen en houdende maatregelen voor het beheer en de exploitatie van de haven van Antwerpen

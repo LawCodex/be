@@ -12,7 +12,7 @@ entry_into_force: 2017-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/07/21/2017020569/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JULI 2017. - Wet tot aanpassing van diverse wetgevingen aan de richtlijn 2005/36/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties, gewijzigd door de richtlijn 2013/55/EU

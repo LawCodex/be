@@ -13,7 +13,7 @@ entry_into_force: 2004-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/19/2004035523/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2004. - Decreet houdende instemming met het zetelakkoord tussen het Koninkrijk België en het Internationaal Comité van het Rode Kruis, ondertekend in Brussel op 19 april 1999.

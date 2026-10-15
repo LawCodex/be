@@ -13,7 +13,7 @@ last_amended: 2024-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1931/09/23/1931092350/justel"
 justel_note: "Consultation des versions antérieures à partir du 10-10-1990 et mise à jour au 30-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBRE 1931. - Loi sur le recrutement du personnel de la pêche maritime.

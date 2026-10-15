@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017030872/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2017. - Décret modifiant le décret du 3 mai 2013 relatif à la protection de l'infrastructure routière dans le cas du transport routier exceptionnel

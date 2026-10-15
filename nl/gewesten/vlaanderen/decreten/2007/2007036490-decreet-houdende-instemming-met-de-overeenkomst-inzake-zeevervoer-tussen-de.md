@@ -11,7 +11,7 @@ date: 2007-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/06/2007036490/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2007. - Decreet houdende instemming met de Overeenkomst inzake zeevervoer tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Regering van de Volksrepubliek China, anderzijds, ondertekend in Brussel op 6 december 2002, en met het Protocol tot wijziging van de Overeenkomst inzake zeevervoer tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Regering van de Volksrepubliek China, anderzijds, ondertekend in Peking op 5 september 2005.

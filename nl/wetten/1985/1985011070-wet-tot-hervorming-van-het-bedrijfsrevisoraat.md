@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/02/21/1985011070/justel"
 department: "Economische Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1987 en tekstbijwerking tot 11-05-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 1985. - Wet tot hervorming van het bedrijfsrevisoraat.

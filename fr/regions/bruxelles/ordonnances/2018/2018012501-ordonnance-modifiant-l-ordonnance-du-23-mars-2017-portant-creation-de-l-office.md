@@ -13,7 +13,7 @@ entry_into_force: 2018-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/05/31/2018012501/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2018. - Ordonnance modifiant l'ordonnance du 23 mars 2017 portant création de l'Office bicommunautaire de la santé, de l'aide aux personnes et des prestations familiales

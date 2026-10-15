@@ -12,7 +12,7 @@ entry_into_force: 2003-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/13/2003009113/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2003. - Wet tot wijziging van de artikelen 285 en 285bis van het Gerechtelijk Wetboek en tot invoeging van een artikel 43septies in de wet van 15 juni 1935 op het gebruik der talen in gerechtszaken.

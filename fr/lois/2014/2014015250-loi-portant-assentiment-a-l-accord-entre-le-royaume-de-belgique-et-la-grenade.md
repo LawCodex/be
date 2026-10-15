@@ -12,7 +12,7 @@ entry_into_force: 2016-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/05/2014015250/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2014. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et la Grenade en vue de l'échange de renseignements en matière fiscale, fait à Bruxelles le 15 mars 2010 et le 18 mars 2010

@@ -12,7 +12,7 @@ published: 2013-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/09/17/2013205368/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBER 2013. - Decreet houdende instemming met het Akkoord tussen de Regering van het Koninkrijk België en de Regering van het Gemenebest van Dominica inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te Brussel op 26 februari 2010

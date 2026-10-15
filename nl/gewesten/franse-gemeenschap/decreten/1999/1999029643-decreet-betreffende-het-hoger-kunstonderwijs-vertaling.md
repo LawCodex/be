@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/17/1999029643/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 29-10-1999 en tekstbijwerking tot 06-02-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 1999. - Decreet betreffende het hoger kunstonderwijs (VERTALING).

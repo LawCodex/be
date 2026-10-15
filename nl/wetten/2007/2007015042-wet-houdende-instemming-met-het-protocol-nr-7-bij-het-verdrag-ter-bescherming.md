@@ -12,7 +12,7 @@ entry_into_force: 2012-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/06/2007015042/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2007. - Wet houdende instemming met het Protocol nr. 7 bij het Verdrag ter Bescherming van de Rechten van de Mens en de Fundamentele Vrijheden, gedaan te Straatsburg op 22 november 1984

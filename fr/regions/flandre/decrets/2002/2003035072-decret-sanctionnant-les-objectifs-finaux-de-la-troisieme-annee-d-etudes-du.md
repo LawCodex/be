@@ -13,7 +13,7 @@ entry_into_force: 2003-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/20/2003035072/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2002. - Décret sanctionnant les objectifs finaux de la troisième année d'études du troisième degré de l'enseignement secondaire professionnel ordinaire (TRADUCTION).

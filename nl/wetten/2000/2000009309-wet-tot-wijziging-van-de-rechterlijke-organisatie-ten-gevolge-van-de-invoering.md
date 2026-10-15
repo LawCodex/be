@@ -12,7 +12,7 @@ entry_into_force: 2000-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/03/28/2000009309/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2000. - Wet tot wijziging van de rechterlijke organisatie ten gevolge van de invoering van een procedure van onmiddellijke verschijning.

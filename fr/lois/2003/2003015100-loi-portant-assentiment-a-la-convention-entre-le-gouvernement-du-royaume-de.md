@@ -12,7 +12,7 @@ entry_into_force: 2003-11-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/13/2003015100/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2003. - Loi portant assentiment à la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Pologne relative à la lutte contre la criminalité organisée, signée à Bruxelles le 13 novembre 2000.

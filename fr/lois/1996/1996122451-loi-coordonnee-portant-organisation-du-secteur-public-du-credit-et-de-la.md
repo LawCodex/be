@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/24/1996122451/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 31-12-1996 et mise à jour au 27-04-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 1996. - [Loi coordonnée portant organisation du secteur public du crédit et de la détention des participations du secteur public dans certaines sociétés financières de droit privé.] (Intitulé remplacé par AR 29-09-1993, art. 1, ).

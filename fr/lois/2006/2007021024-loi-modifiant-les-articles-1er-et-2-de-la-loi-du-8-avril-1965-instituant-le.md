@@ -12,7 +12,7 @@ entry_into_force: 2007-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/19/2007021024/justel"
 department: "Politique Scientifique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2006. - Loi modifiant les articles 1er et 2 de la loi du 8 avril 1965 instituant le dépôt légal à la Bibliothèque royale de Belgique en vue d'étendre le champ d'application aux microfilms et aux supports numériques.

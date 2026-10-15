@@ -12,7 +12,7 @@ entry_into_force: 2018-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/06/03/2018012750/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2018. - Loi modifiant la loi du 21 décembre 1998 relative à la sécurité lors des matches de football

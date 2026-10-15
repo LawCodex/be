@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/02/27/1987022077/justel"
 department: "Prévoyance Sociale"
 justel_note: "Consultation des versions antérieures à partir du 16-04-1987 et mise à jour au 29-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 1987. - Loi relative aux allocations aux [personnes handicapées]. &lt;Intitulé modifié par L 2002-12-24/31, art. 115, 018; En vigueur : 01-07-2003&gt;

@@ -12,7 +12,7 @@ entry_into_force: 2016-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/03/02/2016014129/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2016. - Wet tot wijziging van de wet betreffende de politie over het wegverkeer van 16 maart 1968 wat betreft het rijden tijdens de periode waarin de onmiddellijke intrekking van het rijbewijs werd verlengd

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/28/2019201617/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 09-04-2019 en tekstbijwerking tot 03-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2019. - Decreet betreffende de controle op de wetgevingen en reglementeringen m.b.t. de omscholing en de bijscholing alsook de invoering van administratieve geldboetes die van toepassing zijn in geval van inbreuk op bedoelde wetgevingen en reglementeringen

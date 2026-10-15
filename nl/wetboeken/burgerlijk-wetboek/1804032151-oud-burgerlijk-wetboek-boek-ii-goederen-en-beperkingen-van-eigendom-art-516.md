@@ -11,7 +11,7 @@ last_amended: 2020-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1804/03/21/1804032151/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 26-07-1994 en tekstbijwerking tot 24-12-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 1804. - [OUD] BURGERLIJK WETBOEK. - BOEK II : Goederen en beperkingen van eigendom (art. 516-710bis). (Opschrift gewijzigd door W 2019-04-13/28 , art. 2, 014; Inwerkingtreding : 01-11-2020)

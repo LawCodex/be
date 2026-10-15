@@ -12,7 +12,7 @@ entry_into_force: 2004-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/05/06/2004015053/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2004. - Loi portant assentiment à l'Accord relatif à la participation de la République tchèque, la République d'Estonie, la République de Chypre, la République de Lettonie, la République de Lituanie, la République de Hongrie, la République de Malte, la République de Pologne, la République de Slovénie et la République slovaque à l'Espace économique européen, et à l'Acte final, faits à Luxembourg le 14 octobre 2003.

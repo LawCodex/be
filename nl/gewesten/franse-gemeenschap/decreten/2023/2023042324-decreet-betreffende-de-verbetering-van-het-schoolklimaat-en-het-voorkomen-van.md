@@ -12,7 +12,7 @@ entry_into_force: 2023-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/04/27/2023042324/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2023. - Decreet betreffende de verbetering van het schoolklimaat en het voorkomen van pesten en cyberpesten op school

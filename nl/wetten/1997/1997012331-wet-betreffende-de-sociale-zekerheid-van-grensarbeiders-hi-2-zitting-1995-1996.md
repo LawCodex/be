@@ -12,7 +12,7 @@ entry_into_force: 1997-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/03/13/1997012331/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 1997. - Wet betreffende de sociale zekerheid van grensarbeiders.HI:??2,Zitting 1995-1996. Kamer van volksvertegenwoordigers. Parlementaire stukken. - Wetsvoorstel, nr. 444/1. Zitting 1996-1997 : Parlementaire stukken. - Amendementen, nrs. 444/2 en 3. - Verslag, nr. 444/4. - Tekst aangenomen door de commissie, nr. 444/5. - Amendementen, nrs. 444/6 en 7. - Artikelen aangenomen in plenaire vergadering, nr. 444/8. - Tekst aangenomen in plenaire vergadering en overgezonden naar de Senaat, nr. 444/9. Parlementaire Handelingen. - 30 januari en 6 februari 1997. Senaat. Parlementaire stukken. - Ontwerp overgezonden door de Kamer van volksvertegenwoordigers, nr. 1-537/1. - Ontwerp niet geëvoceerd door de Senaat, nr. 1-537/2.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/10/25/2016003379/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 16-11-2016 et mise à jour au 05-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 OCTOBRE 2016. - Loi portant création de l'Agence fédérale de la Dette et suppression du Fonds des Rentes

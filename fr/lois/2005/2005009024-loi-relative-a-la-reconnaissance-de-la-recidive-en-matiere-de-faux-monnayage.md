@@ -12,7 +12,7 @@ entry_into_force: 2005-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/01/10/2005009024/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2005. - Loi relative à la reconnaissance de la récidive en matière de faux-monnayage.

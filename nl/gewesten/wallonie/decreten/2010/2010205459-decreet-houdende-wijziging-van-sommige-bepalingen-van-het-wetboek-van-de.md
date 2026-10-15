@@ -12,7 +12,7 @@ published: 2010-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/10/06/2010205459/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OKTOBER 2010. - Decreet houdende wijziging van sommige bepalingen van het Wetboek van de plaatselijke democratie en de decentralisatie om het bestuur op plaatselijk niveau te versterken

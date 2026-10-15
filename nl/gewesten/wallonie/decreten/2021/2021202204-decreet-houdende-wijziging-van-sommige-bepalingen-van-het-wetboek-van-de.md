@@ -13,7 +13,7 @@ entry_into_force: 2021-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/04/29/2021202204/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2021. - Decreet houdende wijziging van sommige bepalingen van het Wetboek van de plaatselijke democratie en de decentralisatie met het oog op de uitbreiding van het gewoon gewestelijk toezicht tot de hulpverleningszones

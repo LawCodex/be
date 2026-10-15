@@ -13,7 +13,7 @@ entry_into_force: 2023-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/31/2023031125/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2023. - Décret portant assentiment à l'accord de coopération du 30 novembre 2022 entre l'Etat fédéral, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire française et la Commission communautaire commune visant à instaurer un mécanisme de filtrage des investissements directs étrangers

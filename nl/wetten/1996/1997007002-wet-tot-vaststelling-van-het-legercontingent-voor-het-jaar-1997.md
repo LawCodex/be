@@ -12,7 +12,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/12/17/1997007002/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 1996. - Wet tot vaststelling van het legercontingent voor het jaar 1997.

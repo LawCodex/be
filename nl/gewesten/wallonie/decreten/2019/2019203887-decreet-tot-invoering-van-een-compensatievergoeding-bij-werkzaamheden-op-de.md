@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019203887/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 03-09-2019 en tekstbijwerking tot 22-02-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet tot invoering van een compensatievergoeding bij werkzaamheden op de openbare weg

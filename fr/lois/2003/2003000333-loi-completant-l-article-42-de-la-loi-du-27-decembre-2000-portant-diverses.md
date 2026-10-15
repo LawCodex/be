@@ -12,7 +12,7 @@ entry_into_force: 2003-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/26/2003000333/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2003. - Loi complétant l'article 42 de la loi du 27 décembre 2000 portant diverses dispositions relatives à la position juridique du personnel des services de police en vue de combler une lacune concernant le congé préalable à la mise à la retraite des membres de la police communale désignés à une fonction à mandat à la police fédérale.

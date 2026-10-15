@@ -13,7 +13,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/12/20/2012029062/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2011. - Decreet tot wijziging van het koninklijk besluit nr. 297 van 31 maart 1984 betreffende de opdrachten, de wedden, de weddetoelagen en de verloven voor verminderde prestatie in het onderwijs en de psycho-medisch-sociale centra

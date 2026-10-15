@@ -13,7 +13,7 @@ entry_into_force: 2008-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/28/2008036409/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2008. - Decreet tot wijziging van het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen.

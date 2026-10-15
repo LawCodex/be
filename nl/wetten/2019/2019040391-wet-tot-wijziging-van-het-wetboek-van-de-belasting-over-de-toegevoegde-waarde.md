@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/02/11/2019040391/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEBRUARI 2019. - Wet tot wijziging van het Wetboek van de belasting over de toegevoegde waarde met betrekking tot de behandeling van vouchers en de bijzondere regelingen voor telecommunicatiediensten, radio- en televisieomroepdiensten of elektronische diensten verricht voor niet-belastingplichtigen

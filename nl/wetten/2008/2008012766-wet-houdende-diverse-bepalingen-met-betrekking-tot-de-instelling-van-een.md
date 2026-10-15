@@ -12,7 +12,7 @@ entry_into_force: 2008-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/05/09/2008012766/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2008. - Wet houdende diverse bepalingen met betrekking tot de instelling van een bijzondere onderhandelingsgroep, een vertegenwoordigingsorgaan en procedures betreffende de rol van de werknemers in de Europese coöperatieve vennootschap.

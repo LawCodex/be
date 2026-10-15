@@ -12,7 +12,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/12/30/2009007012/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 2008. - Loi modifiant diverses lois relatives au statut des militaires du cadre de réserve des Forces armées

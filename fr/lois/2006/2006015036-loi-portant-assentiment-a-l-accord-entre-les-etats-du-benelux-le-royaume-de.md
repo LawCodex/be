@@ -12,7 +12,7 @@ entry_into_force: 2006-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/02/09/2006015036/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2006. - Loi portant assentiment à l'Accord entre les Etats du Benelux (le Royaume de Belgique, le grand-duché de Luxembourg, le Royaume des Pays-Bas) et la Confédération suisse relatif à la réadmission des personnes en situation irrégulière, au Protocole d'application, et aux Annexes 1 et 2, faits à Berne le 12 décembre 2003.

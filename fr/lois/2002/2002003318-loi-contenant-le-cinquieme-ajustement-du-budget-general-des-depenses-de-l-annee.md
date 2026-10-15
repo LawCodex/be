@@ -12,7 +12,7 @@ entry_into_force: 2002-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/14/2002003318/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 2002. - Loi contenant le cinquième ajustement du Budget général des dépenses de l'année budgétaire 2001.

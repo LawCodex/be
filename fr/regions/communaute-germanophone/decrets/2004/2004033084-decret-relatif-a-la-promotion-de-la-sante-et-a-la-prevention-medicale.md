@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/06/01/2004033084/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 20-12-2004 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2004. - Décret relatif à la promotion de la santé [et à la prévention médicale] (TRADUCTION). &lt;DCG 2009-04-27/19 , art. 21, §1, 004; En vigueur : 25-06-2009&gt;

@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/11/2015036583/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2015. - DECRET modifiant la loi du 26 mars 1971 sur la protection des eaux de surface contre la pollution et le décret du 24 mai 2002 relatif aux eaux destinées à l'utilisation humaine, en ce qui concerne l'adaptation de l'imputation des frais pour l'alimentation publique en eau potable et des frais pour l'assainissement communal et supracommunal

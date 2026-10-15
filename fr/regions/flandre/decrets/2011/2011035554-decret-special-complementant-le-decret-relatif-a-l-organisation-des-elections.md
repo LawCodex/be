@@ -13,7 +13,7 @@ entry_into_force: 2011-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/08/2011035554/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2011. - Décret spécial complémentant le décret relatif à l'organisation des élections locales et provinciales et modifiant le décret communal du 15 juillet 2005, le décret provincial du 9 décembre 2005 et le décret du 19 décembre 2008 relatif à l'organisation des centres publics d'aide sociale

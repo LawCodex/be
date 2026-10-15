@@ -12,7 +12,7 @@ entry_into_force: 2003-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/03/2003009443/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2003. - Loi modifiant le Code d'instruction criminelle et la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire en ce qui concerne la traduction des déclarations verbales.

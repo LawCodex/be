@@ -13,7 +13,7 @@ entry_into_force: 2022-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/10/19/2022206357/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2022. - Décret modifiant l'article 26 du décret du 15 mars 2018 relatif au bail d'habitation et limitant l'indexation des loyers en fonction du certificat de performance énergétique des bâtiments

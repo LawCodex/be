@@ -12,7 +12,7 @@ entry_into_force: 1995-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/03/08/1995000199/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 1995. - Loi modifiant l'article 74/2 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers et y insérant un article 74/4bis nouveau.

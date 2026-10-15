@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1851/12/31/1851123151/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 01-09-2022 en tekstbijwerking tot 01-09-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 DECEMBER 1851. - Wet op de loterijen. (Officieuze vertaling)

@@ -13,7 +13,7 @@ entry_into_force: 2011-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/03/2011200076/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2010. - Décret portant modification du décret du 27 avril 2007 fixant les armoiries et le drapeau des provinces, des communes et des districts, et de la "Vlaamse Gemeenschapscommissie" (Commission communautaire flamande)

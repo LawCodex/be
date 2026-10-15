@@ -12,7 +12,7 @@ entry_into_force: 2006-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/01/20/2006015026/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 2006. - Wet houdende instemming met het Verdrag tussen de Regering van Canada, de Regeringen van de lidstaten van het Europees Ruimte-Agentschap, de Regering van Japan, de Regering van de Russische Federatie en de Regering van de Verenigde Staten van Amerika inzake de samenwerking op het gebied van het Civiele Internationale Ruimtestation, gedaan te Washington D.C. op 29 januari 1998.

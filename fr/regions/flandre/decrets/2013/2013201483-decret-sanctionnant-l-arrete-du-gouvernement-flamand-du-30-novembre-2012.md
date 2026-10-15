@@ -13,7 +13,7 @@ entry_into_force: 2013-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/02/08/2013201483/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 2013. - Décret sanctionnant l'arrêté du Gouvernement flamand du 30 novembre 2012 portant adaptation des objectifs finaux du domaine d'apprentissage "Nederlands" (néerlandais) de l'éducation de base

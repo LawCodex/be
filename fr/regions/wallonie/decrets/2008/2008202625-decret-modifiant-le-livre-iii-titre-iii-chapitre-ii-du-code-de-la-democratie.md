@@ -13,7 +13,7 @@ entry_into_force: 2008-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/15/2008202625/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2008. - Décret modifiant le Livre III, Titre III, Chapitre II du Code de la démocratie locale et de la décentralisation du 22 avril 2004 fixant les règles du financement général des communes wallonnes

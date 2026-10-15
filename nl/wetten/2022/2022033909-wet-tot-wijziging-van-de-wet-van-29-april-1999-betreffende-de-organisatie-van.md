@@ -12,7 +12,7 @@ entry_into_force: 2022-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/10/23/2022033909/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 OKTOBER 2022. - Wet tot wijziging van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt en tot omzetting van de Richtlijn (EU) 2019/944 van het Europees Parlement en de Raad van 5 juni 2019 betreffende gemeenschappelijke regels voor de interne markt voor elektriciteit en tot wijziging van Richtlijn 2012/27/EU

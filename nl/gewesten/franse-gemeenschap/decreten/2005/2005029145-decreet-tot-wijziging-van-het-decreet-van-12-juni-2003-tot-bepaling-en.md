@@ -13,7 +13,7 @@ entry_into_force: 2005-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/06/03/2005029145/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2005. - Decreet tot wijziging van het decreet van 12 juni 2003 tot bepaling en organisatie van de deelneming van de studenten aan het leven van de universitaire instellingen en tot instelling van de deelneming van de studenten aan het leven van de gemeenschap (VERTALING).

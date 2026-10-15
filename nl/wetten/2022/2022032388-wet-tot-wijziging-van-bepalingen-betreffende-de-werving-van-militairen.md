@@ -12,7 +12,7 @@ entry_into_force: 2022-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/06/02/2022032388/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2022. - Wet tot wijziging van bepalingen betreffende de werving van militairen

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/25/1999033085/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 22-09-1999 en tekstbijwerking tot 14-09-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 1999. - Decreet houdende dringende maatregelen inzake onderwijs (VERTALING)

@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/07/2001036460/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2001. - Décret modifiant les dispositions légales concernant les débits de boissons fermentées, coordonnées le 3 avril 1953 (TRADUCTION).HI:??2,Session 2000-2001. Documents. - Proposition de décret, 694 - N° 1. - Amendements, 694 - N° 2. Session 2001-2002. Documents. - Rapport, 694 - N° 3. - Texte adopté par l'assemblée plénière, 694 - N° 4. Annales. - Discussion et adoption : Séances du 28 novembre 2001.

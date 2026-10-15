@@ -12,7 +12,7 @@ entry_into_force: 2000-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/12/23/2000007004/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1999. - Loi portant dizième ajustement du Budget général des dépenses pour l'année budgétaire 1999. - Section 16 " Défense nationale "

@@ -13,7 +13,7 @@ entry_into_force: 2026-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/05/28/2026005787/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAI 2026. - Décret relatif à la première année de l'enseignement secondaire

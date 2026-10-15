@@ -13,7 +13,7 @@ entry_into_force: 2002-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/04/25/2002027505/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2002. - Decreet tot goedkeuring van het samenwerkingsakkoord tussen het Waalse Gewest, de Franse Gemeenschap en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest houdende oprichting van het " Comité francophone de coordination des politiques d'aide aux personnes et de santé " (Franstalig comité voor de coördinatie van het beleid inzake bijstand aan personen en het gezondheidsbeleid) (VERTALING).

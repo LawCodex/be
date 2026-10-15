@@ -13,7 +13,7 @@ entry_into_force: 2013-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/10/10/2013205695/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 2013. - Décret abrogeant l'alinéa 2, du paragraphe 3, de l'article 172 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme, du Patrimoine et de l'Energie

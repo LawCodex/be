@@ -13,7 +13,7 @@ entry_into_force: 2026-09-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/16/2026006401/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2026. - Décret modifiant le décret du 21 décembre 2022 relatif à l'agrément et au subventionnement des structures d'accompagnement à l'autocréation d'emploi (en abrégé : S.A.A.C.E.) Constitution

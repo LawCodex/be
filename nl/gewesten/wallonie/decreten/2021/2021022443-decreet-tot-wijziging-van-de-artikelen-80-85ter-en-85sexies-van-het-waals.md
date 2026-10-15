@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/12/2021022443/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 2021. - Decreet tot wijziging van de artikelen 80, 85ter en 85sexies van het Waals Wetboek van Duurzaam Wonen

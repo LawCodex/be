@@ -12,7 +12,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/03/14/2008203169/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2008. - Decreet houdende wijziging van het decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk.

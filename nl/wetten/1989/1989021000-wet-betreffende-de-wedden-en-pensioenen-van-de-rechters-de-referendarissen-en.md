@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/01/06/1989021000/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 20-07-1994 en tekstbijwerking tot 24-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JANUARI 1989. - [Wet betreffende de wedden en pensioenen van de rechters, de referendarissen en de griffiers van het [Grondwettelijk Hof]]. (Err. B.St. 01-02-1989) &lt;Opschrift gewijzigd door W 2010-02-21/02 , art. 16, 004; Inwerkingtreding : 08-03-2010&gt;

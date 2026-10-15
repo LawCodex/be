@@ -13,7 +13,7 @@ entry_into_force: 2006-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/03/16/2006201234/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2006. - Décret modifiant le Livre Ier du Code de l'Environnement pour ce qui concerne le droit d'accès du public à l'information en matière d'environnement.

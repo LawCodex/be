@@ -12,7 +12,7 @@ entry_into_force: 2003-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/13/2003015046/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2003. - Loi portant assentiment au Protocole portant modification de la loi uniforme Benelux en matière de dessins ou modèles, fait à Bruxelles le 20 juin 2002.

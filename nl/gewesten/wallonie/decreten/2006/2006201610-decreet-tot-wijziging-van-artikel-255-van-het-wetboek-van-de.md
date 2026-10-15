@@ -13,7 +13,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/04/27/2006201610/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2006. - Decreet tot wijziging van artikel 255 van het Wetboek van de inkomstenbelastingen op de inkomsten 1992 (VERTALING).

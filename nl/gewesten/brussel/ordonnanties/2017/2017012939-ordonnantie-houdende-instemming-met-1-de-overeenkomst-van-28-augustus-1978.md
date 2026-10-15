@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/06/23/2017012939/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2017. - Ordonnantie houdende instemming met : 1° de Overeenkomst van 28 augustus 1978 tussen het Koninkrijk België en de Zwitserse Bondsstaat tot het vermijden van dubbele belasting inzake belasting naar het inkomen en naar het vermogen, zoals gewijzigd door het Avenant tussen het Koninkrijk België en de Zwitserse Bondsstaat, ondertekend te Brussel op 10 april 2014; 2° het Avenant tussen het Koninkrijk België en de Zwitserse Bondsstaat tot wijziging van de Overeenkomst van 28 augustus 1978 tussen het Koninkrijk België en de Zwitserse Bondsstaat tot het vermijden van dubbele belasting inzake belasting naar het inkomen en naar het vermogen, ondertekend te Brussel op 10 april 2014

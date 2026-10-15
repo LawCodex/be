@@ -11,7 +11,7 @@ published: 2025-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/12/11/2025000621/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 1991. - Wet houdende goedkeuring van het Verdrag inzake Conventionele Strijdkrachten in Europa, en van de Bijgevoegde Protocollen, opgemaakt te Parijs op 19 november 1990 (1). - Addendum

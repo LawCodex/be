@@ -13,7 +13,7 @@ entry_into_force: 2021-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/03/19/2021020650/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2021. - Decreet tot wijziging van artikel 3.1.13 van het Energiedecreet van 8 mei 2009, wat het jaarrapport van de regulator betreft

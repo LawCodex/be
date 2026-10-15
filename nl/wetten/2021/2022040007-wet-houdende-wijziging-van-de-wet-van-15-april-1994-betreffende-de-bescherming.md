@@ -12,7 +12,7 @@ entry_into_force: 2022-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/19/2022040007/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2021. - Wet houdende wijziging van de wet van 15 april 1994 betreffende de bescherming van de bevolking en van het leefmilieu tegen de uit ioniserende stralingen voortspruitende gevaren en betreffende het Federaal Agentschap voor Nucleaire Controle en tot wijziging van de wet van 23 maart 2020 tot wazigmaking van de beelden van nucleaire installaties en kritieke inrichtingen, en tot inperking van het maken of verspreiden van luchtfoto's van die installaties en inrichtingen, in het belang van de openbare veiligheid

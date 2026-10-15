@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/02/01/2012029110/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 15-03-2012 en tekstbijwerking tot 30-08-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2012. - Decreet tot wijziging van sommige bepalingen betreffende het gespecialiseerd onderwijs

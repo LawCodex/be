@@ -12,7 +12,7 @@ entry_into_force: 2020-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/12/03/2020043985/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2020. - Wet tot wijziging van het Wetboek der registratie-, hypotheek- en griffierechten met het oog op de verplichte registratie van buitenlandse notariële akten (II)

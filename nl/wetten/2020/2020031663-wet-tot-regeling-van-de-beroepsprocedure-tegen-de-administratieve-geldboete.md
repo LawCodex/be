@@ -10,7 +10,7 @@ date: 2020-11-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/11/04/2020031663/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 NOVEMBER 2020. - Wet tot regeling van de beroepsprocedure tegen de administratieve geldboete bedoeld in boek XV, titel 1/2 van het Wetboek van economische recht

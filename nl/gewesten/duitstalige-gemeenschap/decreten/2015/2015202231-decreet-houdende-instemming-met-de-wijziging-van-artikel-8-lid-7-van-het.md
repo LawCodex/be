@@ -13,7 +13,7 @@ entry_into_force: 2015-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/04/20/2015202231/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2015. - Decreet houdende instemming met de wijziging van artikel 8, lid 7, van het Internationaal Verdrag van 7 maart 1966 inzake de uitbanning van alle vormen van rassendiscriminatie, de wijziging van artikel 20, lid 1, van het Verdrag van 18 december 1979 inzake de uitbanning van alle vormen van discriminatie tegen vrouwen en de wijziging van artikel 17, lid 7, en van artikel 18, lid 5, van het Verdrag van 10 december 1984 tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing

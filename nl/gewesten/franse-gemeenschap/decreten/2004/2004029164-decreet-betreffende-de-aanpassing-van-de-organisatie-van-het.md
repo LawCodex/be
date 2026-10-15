@@ -12,7 +12,7 @@ published: 2004-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/31/2004029164/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2004. - Decreet betreffende de aanpassing van de organisatie van het architectuuronderwijs met het oog op integratie in de Europese ruimte voor het hoger onderwijs (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2016-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/22/2016015151/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2016. - Wet houdende instemming met de volgende internationale akten : - het Akkoord tussen de Regering van het Koninkrijk België en de Regering van de Verenigde Staten van Amerika tot verbetering van de internationale naleving van de belastingvoorschriften en tot tenuitvoerlegging van "FATCA", gedaan te Brussel op 23 april 2014; - het Akkoord tussen de Regering van het Koninkrijk België en de Regering van de Verenigde Staten van Amerika, gedaan te Brussel op 29 en 30 september 2015, ter aanvulling van het Akkoord tussen de Regering van het Koninkrijk België en de Regering van de Verenigde Staten van Amerika tot verbetering van de internationale naleving van de belastingvoorschriften en tot tenuitvoerlegging van "FATCA", ondertekend te Brussel op 23 april 2014

@@ -11,7 +11,7 @@ entry_into_force: 1995-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/05/11/1995015122/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 1995. - Wet houdende goedkeuring van Protocol nr. 9 bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, gedaan te Rome op 6 november 1990.

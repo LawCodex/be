@@ -13,7 +13,7 @@ entry_into_force: 2006-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/01/12/2007200610/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 2007. - Decreet houdende wijziging van het decreet van 28 april 2004 betreffende de erkenning en de subsidiëring van huiswerkinstituten (VERTALING).

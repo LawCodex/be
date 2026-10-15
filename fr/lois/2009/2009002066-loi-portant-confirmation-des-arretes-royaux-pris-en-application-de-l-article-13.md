@@ -12,7 +12,7 @@ entry_into_force: 2009-09-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/08/21/2009002066/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AOUT 2009. - Loi portant confirmation des arrêtés royaux pris en application de l'article 13 de la loi-programme du 8 juin 2008

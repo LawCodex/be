@@ -12,7 +12,7 @@ entry_into_force: 1993-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/06/10/1993012398/justel"
 department: "Emploi et Travail - Prévoyance Sociale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 1993. - Loi transposant certaines dispositions de l'accord interprofessionnel du 9 décembre 1992.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/12/24/1999003644/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-1999 en tekstbijwerking tot 05-08-2000"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 1999. - Wet houdende de Rijksmiddelenbegroting voor het begrotingsjaar 2000.

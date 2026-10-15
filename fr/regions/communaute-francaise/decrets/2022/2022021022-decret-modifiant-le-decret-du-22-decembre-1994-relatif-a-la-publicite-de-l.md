@@ -13,7 +13,7 @@ entry_into_force: 2022-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/23/2022021022/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2022. - Décret modifiant le décret du 22 décembre 1994 relatif à la publicité de l'Administration

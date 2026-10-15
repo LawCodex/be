@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/12/12/2020200822/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2019. - Décret portant la deuxième modification du décret du 13 décembre 2018 fixant le budget des recettes et le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2019

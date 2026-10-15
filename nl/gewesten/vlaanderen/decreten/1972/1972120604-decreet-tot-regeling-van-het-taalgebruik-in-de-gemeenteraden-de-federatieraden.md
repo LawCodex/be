@@ -12,7 +12,7 @@ published: 1973-01-09
 entry_into_force: 1973-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1972/12/06/1972120604/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 1972. - Decreet tot regeling van het taalgebruik in de gemeenteraden, de federatieraden, de agglomeratieraden, de provincieraden, de colleges van burgemeester en schepenen, de federatiecolleges, de agglomeratiecolleges, de bestendige deputaties, de aan de gemeenten en provincies ondergeschikte besturen en de intercommunale verenigingen.

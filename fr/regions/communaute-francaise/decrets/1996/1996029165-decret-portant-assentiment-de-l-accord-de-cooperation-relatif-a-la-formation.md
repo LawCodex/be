@@ -13,7 +13,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/03/18/1996029165/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 1996. - Décret portant assentiment de l'Accord de coopération relatif à la formation permanente pour les classes moyennes et les petites et moyennes entreprises et la tutelle de l'Institut de formation permanente pour les classes moyennes et les petites et moyennes entreprises, conclu le 20 février 1995, par la Commission communautaire française, la Communauté française et la Région wallonne.

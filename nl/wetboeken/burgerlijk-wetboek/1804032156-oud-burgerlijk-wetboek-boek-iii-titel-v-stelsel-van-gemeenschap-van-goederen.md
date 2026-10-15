@@ -9,7 +9,7 @@ language: nl
 date: 1804-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1804/03/21/1804032156/justel"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 1804. - [OUD] BURGERLIJK WETBOEK. - BOEK III - TITEL V. - Stelsel van gemeenschap van goederen (Opschrift gewijzigd door W 2019-04-13/28 , art. 2, Inwerkingtreding : 01-11-2020) (OVERGANGSRECHT voorzien in het artikel 3 van de Wet van 14 juli 1976. - cfr. 1804-03-21/33 , voor de gevallen niet voorzien in dit overgangsrecht)

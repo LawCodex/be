@@ -13,7 +13,7 @@ entry_into_force: 2021-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/07/15/2021031839/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2021. - Ordonnance modifiant l'ordonnance du 3 mai 2018 relative aux aides pour le développement économique des entreprises, en cas de calamité naturelle, de perturbation grave de l'économie ou d'événement extraordinaire

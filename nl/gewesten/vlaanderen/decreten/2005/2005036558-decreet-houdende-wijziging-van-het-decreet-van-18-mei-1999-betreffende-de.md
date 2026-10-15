@@ -13,7 +13,7 @@ entry_into_force: 2006-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/11/25/2005036558/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2005. - Decreet houdende wijziging van het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg.

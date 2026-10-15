@@ -11,7 +11,7 @@ published: 1938-02-02
 entry_into_force: 1938-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1938/01/15/1938011550/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 1938. - Loi relative à la création d'un Office national du lait et de ses dérivés.

@@ -12,7 +12,7 @@ entry_into_force: 2013-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/27/2012022488/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 2012. - Loi portant des dispositions diverses en matière d'accessibilité aux soins de santé

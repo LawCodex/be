@@ -12,7 +12,7 @@ published: 2000-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/03/24/2000027134/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2000. - Decreet houdende goedkeuring van het Verdrag nr. 174 betreffende de voorkoming van zware industriële ongevallen, aangenomen te Genève op 22 juni 1993 door de Internationale Arbeidsconferentie tijdens haar tachtigste zitting (VERTALING).

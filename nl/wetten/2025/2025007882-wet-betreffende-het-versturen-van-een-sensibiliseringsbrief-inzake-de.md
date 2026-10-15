@@ -12,7 +12,7 @@ entry_into_force: 2025-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/10/13/2025007882/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 OKTOBER 2025. - Wet betreffende het versturen van een sensibiliseringsbrief inzake de uitdagingen op het vlak van veiligheid waarvoor de toegang tot bepaalde informatiegegevens van het Rijksregister van natuurlijke personen door het ministerie van Landsverdediging noodzakelijk is

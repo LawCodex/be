@@ -12,7 +12,7 @@ published: 2021-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/25/2021021188/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2021. - Decreet tot het nemen van dringende tijdelijke maatregelen in het onderwijs naar aanleiding van de coronacrisis (VIII)

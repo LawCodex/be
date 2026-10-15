@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/17/1998027026/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 24-01-1998 en tekstbijwerking tot 26-04-2004."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 1997. - Programmadecreet houdende verschillende maatregelen inzake sociale actie en sportinfrastructuren (VERTALING). -

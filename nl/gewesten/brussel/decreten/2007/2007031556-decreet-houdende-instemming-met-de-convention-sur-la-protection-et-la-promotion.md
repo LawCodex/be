@@ -13,7 +13,7 @@ entry_into_force: 2007-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/03/22/2007031556/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2007. - Decreet houdende instemming met de " Convention sur la protection et la promotion de la diversité des expressions culturelles ", aangenomen op 20 oktober 2005 en gedaan te Parijs op 9 december 2005 (VERTALING).

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/02/27/2003029202/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 13-02-2006 en tekstbijwerking tot 24-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2003. - [Decreet betreffende de audiovisuele mediadiensten] (VERTALING) &lt;Opschrift vervangen door DFG 2009-02-05/45 , art. 1, 011; Inwerkingtreding : 28-03-2009&gt;

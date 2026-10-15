@@ -12,7 +12,7 @@ entry_into_force: 1994-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/03/24/1994000203/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 1994. - Wet tot wijziging van de wetten op de Raad van State, gecoördineerd op 12 januari 1973.

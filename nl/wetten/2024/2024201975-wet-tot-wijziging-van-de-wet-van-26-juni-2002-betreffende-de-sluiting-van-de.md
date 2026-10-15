@@ -12,7 +12,7 @@ entry_into_force: 2024-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/03/24/2024201975/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2024. - Wet tot wijziging van de wet van 26 juni 2002 betreffende de sluiting van de ondernemingen tot invoering van de mogelijkheid om bepaalde sectoren uit te sluiten van het begrip onderneming zonder handels- of industriële finaliteit

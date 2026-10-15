@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/19/2002028212/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 24-12-2002 en tekstbijwerking tot 24-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2002. - Decreet houdende invoering van een financiële centralisatie van de thesaurieën van de Waalse instellingen van openbaar nut (VERTALING).

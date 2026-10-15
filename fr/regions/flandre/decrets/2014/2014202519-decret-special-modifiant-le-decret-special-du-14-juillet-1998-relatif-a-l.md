@@ -13,7 +13,7 @@ entry_into_force: 2015-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/04/2014202519/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2014. - Décret spécial modifiant le décret spécial du 14 juillet 1998 relatif à l'enseignement communautaire, pour ce qui est du conseil scolaire

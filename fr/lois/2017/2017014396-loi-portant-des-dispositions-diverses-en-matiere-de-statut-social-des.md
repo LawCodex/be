@@ -12,7 +12,7 @@ entry_into_force: 2014-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/12/25/2017014396/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2017. - Loi portant des dispositions diverses en matière de statut social des travailleurs indépendants

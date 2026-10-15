@@ -12,7 +12,7 @@ entry_into_force: 1996-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/04/02/1996003264/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 1996. - Loi modifiant l'article 104 du Code des impôts sur les revenus 1992 en vue d'ajouter à la liste des dépenses déductibles les libéralités en argent faites aux organismes agréés de défense de l'environnement.

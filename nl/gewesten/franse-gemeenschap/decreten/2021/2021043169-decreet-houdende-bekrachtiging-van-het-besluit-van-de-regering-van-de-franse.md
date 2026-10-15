@@ -13,7 +13,7 @@ entry_into_force: 2021-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/28/2021043169/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2021. - Decreet houdende bekrachtiging van het besluit van de regering van de Franse Gemeenschap van bijzondere machten nr. 44 van 21 januari 2021 houdende wijziging van het besluit van de regering van de Franse Gemeenschap van bijzondere machten nr. 4 van 23 april 2020 betreffende de steun aan de cultuur- en filmsector in het kader van de COVID-19-gezondheidscrisis

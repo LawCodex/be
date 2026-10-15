@@ -12,7 +12,7 @@ entry_into_force: 2014-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/11/2014009091/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEVRIER 2014. - Loi portant des mesures diverses visant à améliorer le recouvrement des peines patrimoniales et des frais de justice en matière pénale (I)

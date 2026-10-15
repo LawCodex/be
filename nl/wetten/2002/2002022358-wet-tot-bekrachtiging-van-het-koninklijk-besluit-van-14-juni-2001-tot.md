@@ -12,7 +12,7 @@ entry_into_force: 2002-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/04/15/2002022358/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 APRIL 2002. - Wet tot bekrachtiging van het koninklijk besluit van 14 juni 2001 tot uitvoering van artikel 168 van de wet van 12 augustus 2000 houdende sociale, budgettaire en andere bepalingen.

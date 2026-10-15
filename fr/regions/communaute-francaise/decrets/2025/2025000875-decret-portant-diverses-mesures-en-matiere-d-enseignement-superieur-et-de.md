@@ -13,7 +13,7 @@ entry_into_force: 2025-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/01/23/2025000875/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 2025. - Décret portant diverses mesures en matière d'enseignement supérieur et de recherche

@@ -12,7 +12,7 @@ entry_into_force: 1983-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1981/05/15/1983015173/justel"
 department: "Buitenlandse Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 1981. \_ Wet houdende goedkeuring van volgende Internationale akten: a) Internationaal Verdrag inzake economische, sociale en culturele rechten; b) Internationaal Verdrag inzake burgerrechten en politieke rechten, opgemaakt te New-York op 19 december 1966.

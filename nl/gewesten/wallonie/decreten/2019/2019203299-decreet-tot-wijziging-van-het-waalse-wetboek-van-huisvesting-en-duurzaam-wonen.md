@@ -12,7 +12,7 @@ published: 2019-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019203299/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet tot wijziging van het Waalse Wetboek van Huisvesting en Duurzaam Wonen en van het decreet van 15 maart 2018 betreffende de woninghuurovereenkomst, met het oog op de invoeging, in genoemd Wetboek, van het begrip microwoning

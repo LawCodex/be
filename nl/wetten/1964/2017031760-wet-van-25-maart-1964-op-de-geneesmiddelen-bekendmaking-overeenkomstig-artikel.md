@@ -12,7 +12,7 @@ entry_into_force: 2017-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1964/03/25/2017031760/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 1964. - Wet van 25 maart 1964 op de geneesmiddelen - Bekendmaking overeenkomstig artikel 13bis, § 2quinquies, laatste lid, van de geïndexeerde bedragen van de heffingen en retributies

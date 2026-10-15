@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/23/2018032382/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 05-12-2018 et mise à jour au 24-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2018. - Décret relatif au " Vlaams Pensioenfonds " (Fonds de pension flamand) et au régime de pension public pour les travailleurs des services de l'Autorité flamande et d'autres administrations

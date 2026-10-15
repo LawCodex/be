@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/11/2022031088/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 11-03-2022 et mise à jour au 29-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 FEVRIER 2022. - Décret fixant les règles du subventionnement des résidences pour jeunes, des hôtels pour jeunes, des structures d'appui et de l'ASBL " Algemene Dienst voor Jeugdtoerisme "

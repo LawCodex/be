@@ -13,7 +13,7 @@ entry_into_force: 1999-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/07/19/1999029433/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 1999. - Decreet tot regeling van de vervanging van het lid van de Franse Gemeenschapsraad, benoemd door de Koning tot federaal minister of staatssecretaris (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2024-10-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/06/02/2024007225/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2024. - Wet houdende instemming met het Gezamenlijk Protocol betreffende de toepassing van het Verdrag van Wenen en het Verdrag van Parijs, gedaan te Wenen op 21 september 1988

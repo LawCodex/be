@@ -12,7 +12,7 @@ entry_into_force: 1993-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/08/06/1993022426/justel"
 department: "Prévoyance Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AOUT 1993. - Loi portant confirmation des arrêtés royaux pris en exécution de l'article 39bis, § 5, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés.

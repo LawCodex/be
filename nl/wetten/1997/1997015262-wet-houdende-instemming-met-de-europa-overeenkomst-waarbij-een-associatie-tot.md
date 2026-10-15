@@ -12,7 +12,7 @@ entry_into_force: 1998-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/04/13/1997015262/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 1997. - Wet houdende instemming met de Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Estland, anderzijds, bijlagen I tot X, protocollen 1 tot 5, Slotakte, gedaan te Luxemburg op 12 juni 1995.

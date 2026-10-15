@@ -13,7 +13,7 @@ entry_into_force: 2016-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/02/18/2016031134/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 FEBRUARI 2016. - Ordonnantie houdende instemming met : de Overeenkomst betreffende de deelname van de Republiek Kroatië aan de Europese Economische Ruimte, de Slotakte en de drie daarmee verband houdende overeenkomsten, gedaan te Brussel op 11 april 2014 en op 5 november 2014

@@ -12,7 +12,7 @@ entry_into_force: 2015-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/06/15/2015014185/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 2015. - Wet tot wijziging van de wet van 30 augustus 2013 houdende de Spoorcodex

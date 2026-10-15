@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/02/03/2023040842/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 09-03-2023 et mise à jour au 25-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2023. - Décret sur la formation des régions et modifiant le décret du 22 décembre 2017 sur l'administration locale

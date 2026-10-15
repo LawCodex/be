@@ -13,7 +13,7 @@ entry_into_force: 2022-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/05/12/2022032406/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2022. - Decreet houdende instemming met de Strategische partnerschapsovereenkomst tussen de Europese Unie en haar Lidstaten, enerzijds, en Japan, anderzijds, gedaan te Tokio op 17 juli 2018

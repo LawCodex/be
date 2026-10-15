@@ -13,7 +13,7 @@ entry_into_force: 1995-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/06/1995027256/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1995. - Décret modifiant la loi du 19 décembre 1854 contenant le Code forestier et la loi du 12 juillet 1952 autorisant le Roi à soumettre au régime forestier des bois et forêts, propriété des provinces.

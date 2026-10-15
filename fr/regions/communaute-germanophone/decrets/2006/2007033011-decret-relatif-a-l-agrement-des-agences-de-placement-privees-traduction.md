@@ -12,7 +12,7 @@ published: 2007-03-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/18/2007033011/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2006. - Décret relatif à l'agrément des agences de placement privées (TRADUCTION).

@@ -11,7 +11,7 @@ date: 2024-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/11/08/2024010470/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 2024. - Decreet tot wijziging van artikel 6, § 1, van het decreet van 16 juli 2021 over zero-emissievoertuigen en voertuigen aangedreven door alternatieve brandstoffen en tot wijziging van artikel 2, § 2, derde lid, van het besluit van de Vlaamse Regering van 9 februari 2024 over de invoering van een premie voor zero-emissievoertuigen

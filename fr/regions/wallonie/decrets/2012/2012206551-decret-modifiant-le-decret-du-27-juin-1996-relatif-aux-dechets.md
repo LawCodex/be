@@ -13,7 +13,7 @@ entry_into_force: 2012-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/11/08/2012206551/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 2012. - Décret modifiant le décret du 27 juin 1996 relatif aux déchets

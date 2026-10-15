@@ -12,7 +12,7 @@ entry_into_force: 2016-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/04/21/2016000181/justel"
 department: "Binnenlandse Zaken - Justitie - Landsverdediging - Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2016. - Wet houdende diverse bepalingen Binnenlandse Zaken. - Geïntegreerde politie

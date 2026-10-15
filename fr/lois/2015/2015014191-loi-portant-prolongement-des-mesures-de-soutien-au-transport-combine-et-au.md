@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/08/10/2015014191/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2015. - Loi portant prolongement des mesures de soutien au transport combiné et au transport diffus pour la période 2015-2016

@@ -13,7 +13,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/02/16/2007035397/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2007. - Décret modifiant la loi organique des centres publics d'aide sociale du 8 juillet 1976, en vue de permettre l'assistance par des personnes de confiance de conseillers C.P.A.S. handicapés, dans l'exercice de leur mandat (TRADUCTION).

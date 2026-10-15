@@ -12,7 +12,7 @@ entry_into_force: 2015-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/09/03/2015015169/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBRE 2015. - Loi portant assentiment à l'Accord entre les Etats membres de l'Union européenne, réunis au sein du Conseil, relatif à la protection des informations classifiées échangées dans l'intérêt de l'Union européenne, fait à Bruxelles le 25 mai 2011

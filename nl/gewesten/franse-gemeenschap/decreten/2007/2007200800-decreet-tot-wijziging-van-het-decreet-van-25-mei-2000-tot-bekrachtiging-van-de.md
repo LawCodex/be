@@ -13,7 +13,7 @@ entry_into_force: 2007-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/01/25/2007200800/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2007. - Decreet tot wijziging van het decreet van 25 mei 2000 tot bekrachtiging van de opleidingsprofielen van vrachtwagenbestuurder/vrachtwagenbestuurster, mannelijke of vrouwelijke elektricien installateur-monteur, geschoold werkman/werkvrouw bouwkunde-ruwbouw, mannelijke of vrouwelijke operator van textielmachines, mannelijke of vrouwelijke technicus fotografie, juwelier/juwelierster, mannelijke of vrouwelijke boekhoudkundig technicus, mannelijke of vrouwelijke gezins- en sanitaire hulp, schoonheidsverzorger/schoonheidsverzorgster en van het specifiek opleidingsprofiel van mannelijke of vrouwelijke technicus grootkeukens en vastgesteld overeenkomstig artikel 6 van het decreet van 27 oktober 1994 tot regeling van het overleg in het secundair onderwijs. (VERTALING).

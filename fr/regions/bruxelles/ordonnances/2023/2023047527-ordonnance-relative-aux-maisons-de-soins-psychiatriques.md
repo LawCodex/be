@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/11/23/2023047527/justel"
 department: "Commission communautaire commune"
 justel_note: "Consultation des versions antérieures à partir du 08-12-2023 et mise à jour au 21-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Ordonnance relative aux maisons de soins psychiatriques

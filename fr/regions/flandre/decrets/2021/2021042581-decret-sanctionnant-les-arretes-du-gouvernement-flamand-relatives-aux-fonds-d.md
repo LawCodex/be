@@ -13,7 +13,7 @@ entry_into_force: 2021-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/25/2021042581/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2021. - Décret sanctionnant les arrêtés du Gouvernement flamand relatives aux fonds d'urgence pour la culture, la jeunesse, le sport et les médias à la suite de la pandémie COVID-19

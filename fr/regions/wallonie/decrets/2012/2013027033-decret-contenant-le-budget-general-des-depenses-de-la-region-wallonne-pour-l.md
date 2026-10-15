@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/12/19/2013027033/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 08-02-2013 et mise à jour au 17-01-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2012. - Décret contenant le budget général des dépenses de la Région wallonne pour l'année budgétaire 2013

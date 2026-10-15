@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/06/2001031344/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 26-10-2001 et mise à jour au 08-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2001. - Décret modifiant diverses dispositions relatives aux subventions accordées dans le secteur de la politique de la santé et de l'aide aux personnes.

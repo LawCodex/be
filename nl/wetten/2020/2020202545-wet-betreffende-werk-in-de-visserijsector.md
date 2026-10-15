@@ -12,7 +12,7 @@ entry_into_force: 2020-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/06/12/2020202545/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg - Sociale Zekerheid - Justitie - Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2020. - Wet betreffende werk in de visserijsector

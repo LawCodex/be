@@ -12,7 +12,7 @@ entry_into_force: 2014-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/21/2014015143/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2014. - Wet houdende instemming met het Facultatief Protocol bij het Verdrag inzake de rechten van het kind betreffende een mededelingsprocedure, aangenomen te New York op 19 december 2011

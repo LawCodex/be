@@ -13,7 +13,7 @@ entry_into_force: 2021-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/12/17/2022031048/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2021. - Decreet tot aanpassing van de middelenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 2021

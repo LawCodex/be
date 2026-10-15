@@ -13,7 +13,7 @@ entry_into_force: 2017-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/10/26/2017205766/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 OCTOBRE 2017. - Décret modifiant diverses dispositions relatives au marché de l'électricité et du gaz ainsi qu'aux impétrants

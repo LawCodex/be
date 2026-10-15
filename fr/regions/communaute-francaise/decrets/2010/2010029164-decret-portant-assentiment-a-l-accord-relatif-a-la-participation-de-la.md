@@ -13,7 +13,7 @@ entry_into_force: 2010-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/01/29/2010029164/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2010. - Décret portant assentiment à l'Accord relatif à la participation de la République de Bulgarie et de la Roumanie à l'Espace économique européen, et l'Acte final, signés à Bruxelles, le 25 juillet 2007

@@ -13,7 +13,7 @@ entry_into_force: 2017-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/07/2017030871/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2017. - Decreet houdende wijziging van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters, wat het attest van draagkracht betreft

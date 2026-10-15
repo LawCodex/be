@@ -13,7 +13,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/15/2023200904/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2022. - Décret portant la troisième modification du décret du 10 décembre 2020 contenant le budget des recettes et le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2021

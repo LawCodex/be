@@ -12,7 +12,7 @@ entry_into_force: 2005-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/04/26/2005015070/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2005. - Wet houdende instemming met het Aanvullend Protocol bij het Europees Verdrag inzake de overbrenging van gevonniste personen, gedaan te Straatsburg op 18 december 1997.

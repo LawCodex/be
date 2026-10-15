@@ -13,7 +13,7 @@ entry_into_force: 2020-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/01/07/2021030038/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JANVIER 2021. - Décret modifiant le décret du 12 novembre 2020 portant diverses dispositions en matière d'enseignement supérieur et d'enseignement de la promotion sociale

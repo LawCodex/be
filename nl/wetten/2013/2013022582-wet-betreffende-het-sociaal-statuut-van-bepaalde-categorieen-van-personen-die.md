@@ -11,7 +11,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/10/24/2013022582/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2013. - Wet betreffende het sociaal statuut van bepaalde categorieën van personen die een publiek mandaat uitoefenen

@@ -13,7 +13,7 @@ entry_into_force: 1994-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/22/1995029604/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1994. - Décret modifiant le décret du 13 juillet 1994 portant agrément et subvention des centres d'archives privées en Communauté française de Belgique.

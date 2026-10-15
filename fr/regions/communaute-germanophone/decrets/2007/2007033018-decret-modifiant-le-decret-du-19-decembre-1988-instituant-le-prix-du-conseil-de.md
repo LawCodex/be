@@ -13,7 +13,7 @@ entry_into_force: 2006-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/01/29/2007033018/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2007. - Décret modifiant le décret du 19 décembre 1988 instituant le " Prix du Conseil de la Communauté germanophone " (TRADUCTION).

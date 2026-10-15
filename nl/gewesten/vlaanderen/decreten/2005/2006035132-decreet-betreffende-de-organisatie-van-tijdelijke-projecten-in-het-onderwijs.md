@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/09/2006035132/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 02-02-2006 en tekstbijwerking tot 08-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2005. - Decreet betreffende de organisatie van tijdelijke projecten in het onderwijs.

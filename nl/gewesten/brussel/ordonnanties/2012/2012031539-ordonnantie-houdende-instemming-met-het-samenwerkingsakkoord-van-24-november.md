@@ -13,7 +13,7 @@ entry_into_force: 2012-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/06/21/2012031539/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2012. - Ordonnantie houdende instemming met het Samenwerkingsakkoord van 24 november 2011 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende dopingpreventie en -bestrijding in de sport

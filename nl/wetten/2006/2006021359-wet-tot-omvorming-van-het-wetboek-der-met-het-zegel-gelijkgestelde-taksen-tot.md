@@ -12,7 +12,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/19/2006021359/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2006. - Wet tot omvorming van het Wetboek der met het zegel gelijkgestelde taksen tot het Wetboek diverse rechten en taksen, tot opheffing van het Wetboek der zegelrechten en houdende verscheidene andere wetswijzigingen.

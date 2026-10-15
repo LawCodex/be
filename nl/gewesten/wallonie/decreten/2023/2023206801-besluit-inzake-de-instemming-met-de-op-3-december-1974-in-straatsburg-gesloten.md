@@ -13,7 +13,7 @@ entry_into_force: 2016-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/11/16/2023206801/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 2023. - Besluit inzake de instemming met de op 3 december 1974 in Straatsburg gesloten Overeenkomst tussen het Koninkrijk België en de Raad van Europa, ter aanvulling van de op 2 september 1949 in Parijs gesloten Algemene Overeenkomst betreffende de voorrechten en immuniteiten van de Raad van Europa, zoals gewijzigd door het op 9 december 1987 in Straatsburg ondertekende Eerste Protocol en het op 15 april 2016 in Brussel ondertekende Tweede Protocol, en met het op 15 april 2016 in Brussel ondertekende Tweede Protocol ter wijziging en aanvulling van de Aanvullende Overeenkomst

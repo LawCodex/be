@@ -13,7 +13,7 @@ entry_into_force: 2007-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/04/19/2007201751/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2007. - Décret portant assentiment, pour les matières réglées en vertu de l'article 138 de la Constitution, à l'accord de coopération conclu le 14 juillet 2006 entre le Région wallonne et la Communauté française relatif à l'équipement mis à disposition dans le cadre de la revalorisation de l'enseignement qualifiant.

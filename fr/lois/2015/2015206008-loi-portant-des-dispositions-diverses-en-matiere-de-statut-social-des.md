@@ -12,7 +12,7 @@ entry_into_force: 2016-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/16/2015206008/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2015. - Loi portant des dispositions diverses en matière de statut social des indépendants

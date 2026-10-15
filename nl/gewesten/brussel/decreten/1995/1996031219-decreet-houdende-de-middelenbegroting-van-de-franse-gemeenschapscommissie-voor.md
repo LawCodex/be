@@ -13,7 +13,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/12/18/1996031219/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 1995. - Decreet houdende de Middelenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 1996. (Vertaling).

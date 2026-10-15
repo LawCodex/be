@@ -13,7 +13,7 @@ entry_into_force: 2026-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/16/2026005756/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2026. - Besluit tot wijziging van artikel 275 van het Waals Wetboek van Sociale Actie en Gezondheid, tot gedeeltelijke omzetting van Richtlijn 2024/1346 van 14 mei 2024 tot vaststelling van normen voor de opvang van personen die om internationale bescherming verzoeken, en tot verduidelijking van de voorwaarden voor het recht op de in Boek IV bedoelde uitkeringen

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/03/27/1991035691/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 15-02-1997 et mise à jour au 13-09-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 1991. - Décret relatif à la pratique du sport dans le respect des impératifs de santé. &lt;Traduction&gt;

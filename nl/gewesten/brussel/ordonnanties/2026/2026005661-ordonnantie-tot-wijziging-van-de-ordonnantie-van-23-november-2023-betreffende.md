@@ -13,7 +13,7 @@ entry_into_force: 2026-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2026/07/23/2026005661/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 2026. - Ordonnantie tot wijziging van de ordonnantie van 23 november 2023 betreffende de psychiatrische verzorgingstehuizen met betrekking tot de verplichte erkenning voor de voorzieningen die de doelgroep van een psychiatrisch verzorgingstehuis opvangen

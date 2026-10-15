@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/02/06/2024001635/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 20-02-2024 en tekstbijwerking tot 20-02-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2024. - Wet tot wijziging van het Wetboek van de belasting over de toegevoegde waarde en het Wetboek van de inkomstenbelastingen 1992 wat de invoering van de verplichting tot elektronische facturering betreft

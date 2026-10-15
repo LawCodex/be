@@ -11,7 +11,7 @@ published: 1946-07-08
 entry_into_force: 1946-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1946/07/01/1946070105/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUILLET 1946. - Arrêté-Loi relatif à la forme des publications faites en exécution des articles 123octies du Code pénal, 1er de l'arrêté-loi du 6 mai 1944, 9 de l'arrêté-loi du 26 mai 1944 et 8, § 2, de l'arrêté-loi du 19 septembre 1945

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/12/02/2011014306/justel"
 department: "Mobilité et Transports"
 justel_note: "Consultation des versions antérieures à partir du 23-12-2011 et mise à jour au 29-12-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2011. - Loi portant des dispositions diverses concernant la mobilité

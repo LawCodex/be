@@ -12,7 +12,7 @@ entry_into_force: 2010-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/05/07/2009015082/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2009. - Loi portant assentiment à et exécution de l'Avenant, signé à Bruxelles le 12 décembre 2008, à la Convention entre la Belgique et la France tendant à éviter les doubles impositions et à établir des règles d'assistance administrative et juridique réciproque en matière d'impôts sur les revenus, signée à Bruxelles le 10 mars 1964 et modifiée par les Avenants du 15 février 1971 et du 8 février 1999

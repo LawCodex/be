@@ -13,7 +13,7 @@ entry_into_force: 2009-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/06/05/2008031283/justel"
 department: "Commission communautaire commune - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 2008. - Ordonnance portant modification de l'ordonnance du 17 juillet 1991 portant création d'un conseil consultatif de la santé et de l'aide aux personnes de la Commission communautaire commune.

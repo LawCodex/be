@@ -12,7 +12,7 @@ entry_into_force: 2024-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/09/2024007471/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2021. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et la République de Chypre sur la protection mutuelle des informations classifiées, fait à Bruxelles le 20 juillet 2015

@@ -12,7 +12,7 @@ entry_into_force: 2005-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/02/15/2005007049/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2005. - Wet tot wijziging van de wetten van 1 maart 1958 betreffende het statuut van de beroepsofficieren van de krijgsmacht, 27 december 1961 betreffende het statuut van de onderofficieren van het actief kader van de krijgsmacht en 12 juli 1973 betreffende het statuut van de vrijwilligers van het actief kader van de krijgsmacht.

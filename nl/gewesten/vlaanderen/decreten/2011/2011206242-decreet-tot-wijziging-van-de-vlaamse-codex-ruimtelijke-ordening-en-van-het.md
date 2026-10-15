@@ -13,7 +13,7 @@ entry_into_force: 2011-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/11/18/2011206242/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2011. - Decreet tot wijziging van de Vlaamse Codex Ruimtelijke Ordening en van het decreet van 10 maart 2006 houdende de oprichting van de strategische adviesraad Ruimtelijke Ordening - Onroerend Erfgoed, wat betreft de adviesorganen

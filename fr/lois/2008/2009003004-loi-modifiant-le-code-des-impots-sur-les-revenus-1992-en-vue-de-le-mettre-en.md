@@ -12,7 +12,7 @@ entry_into_force: 2009-01-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/12/11/2009003004/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2008. - Loi modifiant le Code des impôts sur les revenus 1992 en vue de le mettre en concordance avec la Directive 90/434/CEE du Conseil du 23 juillet 1990 concernant le régime fiscal commun applicable aux fusions, scissions, scissions partielles, apports d'actifs et échanges d'actions intéressant des sociétés d'Etats membres différents ainsi qu'au transfert de siège statutaire d'une SE ou dune SCE d'un Etat membre à un autre, modifiée par la Directive 2005/19/CE du Conseil du 17 février 2005.

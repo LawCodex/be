@@ -13,7 +13,7 @@ last_amended: 2010-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1950/12/30/1950123011/justel"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1989 et mise à jour au 01-07-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 1950. - Loi organisant l'industrie diamantaire

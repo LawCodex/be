@@ -12,7 +12,7 @@ entry_into_force: 2003-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/18/2003015055/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 2003. - Loi portant assentiment à la Convention entre le Royaume de Belgique et la République d'Estonie tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, et au Protocole, signés à Bruxelles le 5 novembre 1999.

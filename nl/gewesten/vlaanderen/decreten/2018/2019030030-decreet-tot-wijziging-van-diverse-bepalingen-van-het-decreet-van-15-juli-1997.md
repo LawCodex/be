@@ -13,7 +13,7 @@ entry_into_force: 2019-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/12/21/2019030030/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2018. - Decreet tot wijziging van diverse bepalingen van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode

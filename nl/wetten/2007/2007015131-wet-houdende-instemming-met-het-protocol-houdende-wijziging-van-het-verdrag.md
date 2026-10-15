@@ -11,7 +11,7 @@ published: 2007-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/02/15/2007015131/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2007. - Wet houdende instemming met het Protocol houdende wijziging van het Verdrag betreffende het internationale spoorwegvervoer (COTIF) van 9 mei 1980, gedaan te Vilnius op 3 juni 1999

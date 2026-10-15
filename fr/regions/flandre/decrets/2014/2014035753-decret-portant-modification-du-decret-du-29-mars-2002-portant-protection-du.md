@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/05/09/2014035753/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2014. - Décret portant modification du décret du 29 mars 2002 portant protection du patrimoine nautique et du décret du 24 janvier 2003 relatif à la protection du patrimoine culturel mobilier présentant un intérêt exceptionnel

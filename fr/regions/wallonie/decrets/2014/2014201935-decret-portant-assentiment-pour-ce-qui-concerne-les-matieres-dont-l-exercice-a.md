@@ -13,7 +13,7 @@ entry_into_force: 2014-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/13/2014201935/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2014. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, à la Convention du Conseil de l'Europe sur la prévention et la lutte contre la violence à l'égard des femmes et la violence domestique, adoptée par le Comité des Ministres du Conseil de l'Europe le 7 avril 2011

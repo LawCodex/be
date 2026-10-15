@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/17/2004033056/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 26-10-2007 en tekstbijwerking tot 05-06-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2004. - Decreet betreffende de garantie van een gelijke behandeling op de arbeidsmarkt (VERTALING). )

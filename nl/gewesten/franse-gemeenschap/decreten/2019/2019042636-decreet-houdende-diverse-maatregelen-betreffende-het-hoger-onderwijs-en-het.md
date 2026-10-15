@@ -12,7 +12,7 @@ published: 2019-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/03/2019042636/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2019. - Decreet houdende diverse maatregelen betreffende het hoger onderwijs en het onderzoek. - Addendum

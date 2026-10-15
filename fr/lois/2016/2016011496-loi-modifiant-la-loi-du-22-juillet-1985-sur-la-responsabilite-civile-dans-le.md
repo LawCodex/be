@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/07/2016011496/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 14-12-2016 et mise à jour au 10-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2016. - Loi modifiant la loi du 22 juillet 1985 sur la responsabilité civile dans le domaine de l'énergie nucléaire

@@ -13,7 +13,7 @@ entry_into_force: 2015-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/04/2015202741/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUNI 2015. - Decreet houdende wijziging van het decreet van 21 december 1989 betreffende de diensten voor het openbaar vervoer in het Waalse Gewest om de gebruikers doorlopend te kunnen informeren over de verkeerstoestand

@@ -13,7 +13,7 @@ entry_into_force: 2004-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/19/2004035626/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2004. - Décret portant approbation de l'Accord de coopération du 2 septembre 2002 entre l'Etat, les Communautés, la Commission communautaire commune, la Commission communautaire française et les Régions au sujet d'une politique des drogues globale et intégrée (TRADUCTION).

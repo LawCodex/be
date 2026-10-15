@@ -13,7 +13,7 @@ entry_into_force: 2013-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/03/29/2013035386/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2013. - Decreet houdende wijziging van diverse decreten wat de woonkwaliteitsbewaking betreft

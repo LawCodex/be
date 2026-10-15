@@ -13,7 +13,7 @@ entry_into_force: 2015-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/10/16/2015204791/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2015. - Décret portant assentiment à l'Accord entre l'Union européenne et ses Etats membres, d'une part, et l'Islande, d'autre part, concernant la participation de l'Islande à l'exécution conjointe des engagements de l'Union européenne, de ses Etats membres et de l'Islande au cours de la deuxième période d'engagement du Protocole de Kyoto à la Convention-Cadre des Nations unies sur les changements climatiques, fait à Bruxelles le 1er avril 2015

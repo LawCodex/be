@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/19/2004029199/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 16-06-2004 en tekstbijwerking tot 05-08-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2004. - Decreet houdende oprichting van een Management School bij de Université de Liège (VERTALING).

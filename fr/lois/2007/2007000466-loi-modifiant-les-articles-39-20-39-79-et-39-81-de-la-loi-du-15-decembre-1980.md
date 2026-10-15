@@ -12,7 +12,7 @@ entry_into_force: 2007-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/04/2007000466/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2007. - Loi modifiant les articles 39/20, 39/79 et 39/81 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.

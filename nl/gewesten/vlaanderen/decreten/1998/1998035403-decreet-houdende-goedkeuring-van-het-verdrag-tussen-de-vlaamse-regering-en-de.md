@@ -13,7 +13,7 @@ entry_into_force: 1998-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/03/17/1998035403/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 1998. - Decreet houdende goedkeuring van het Verdrag tussen de Vlaamse regering en de regering van de Republiek van Zuid-Afrika inzake de samenwerking op het gebied van onderwijs, kunst, cultuur, wetenschap, technologie en sport, ondertekend in Pretoria op 28 oktober 1996.

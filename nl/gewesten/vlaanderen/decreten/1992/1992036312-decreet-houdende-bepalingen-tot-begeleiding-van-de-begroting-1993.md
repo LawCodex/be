@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1992/12/18/1992036312/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 28-05-1993 en tekstbijwerking tot 13-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 1992. - Decreet houdende bepalingen tot begeleiding van de begroting 1993.

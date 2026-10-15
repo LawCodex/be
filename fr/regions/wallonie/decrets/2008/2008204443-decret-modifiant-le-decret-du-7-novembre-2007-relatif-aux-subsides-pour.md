@@ -13,7 +13,7 @@ entry_into_force: 2009-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/20/2008204443/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2008. - Décret modifiant le décret du 7 novembre 2007 relatif aux subsides pour investissements dans les établissements d'accueil pour personnes âgées.

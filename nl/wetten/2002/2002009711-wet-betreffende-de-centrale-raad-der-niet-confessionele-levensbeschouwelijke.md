@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/06/21/2002009711/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 22-10-2002 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2002. - Wet betreffende de Centrale Raad der niet-confessionele levensbeschouwelijke gemeenschappen van België, de afgevaardigden en de instellingen belast met het beheer van de materiële en financiële belangen van de erkende niet-confessionele levensbeschouwelijke gemeenschappen.

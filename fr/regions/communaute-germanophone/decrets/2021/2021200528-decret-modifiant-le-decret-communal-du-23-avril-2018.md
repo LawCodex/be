@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/01/25/2021200528/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 15-02-2021 et mise à jour au 31-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2021. - Décret modifiant le décret communal du 23 avril 2018

@@ -13,7 +13,7 @@ entry_into_force: 2024-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/22/2024202519/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2024. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et le Grand-Duché de Luxembourg sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, fait à Bruxelles le 17 novembre 2021

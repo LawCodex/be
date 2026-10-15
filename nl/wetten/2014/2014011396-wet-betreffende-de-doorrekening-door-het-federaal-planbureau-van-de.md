@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/22/2014011396/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 22-07-2014 en tekstbijwerking tot 10-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2014. - Wet betreffende de doorrekening door het Federaal Planbureau van de verkiezingsprogramma's van de politieke partijen bij de verkiezing voor de Kamer van volksvertegenwoordigers

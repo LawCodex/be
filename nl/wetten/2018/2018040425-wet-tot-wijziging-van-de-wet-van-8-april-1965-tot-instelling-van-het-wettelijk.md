@@ -12,7 +12,7 @@ entry_into_force: 2018-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/08/2018040425/justel"
 department: "Wetenschapsbeleid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2018. - Wet tot wijziging van de wet van 8 april 1965 tot instelling van het wettelijk depot bij de Koninklijke Bibliotheek van België

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/04/23/2018202508/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 08-06-2018 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2018. - Décret communal

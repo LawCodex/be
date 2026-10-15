@@ -13,7 +13,7 @@ entry_into_force: 2008-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/21/2008035178/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2007. - Decreet houdende instemming met het samenwerkingsakkoord van 19 februari 2007, gesloten tussen de Federale Overheid, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest inzake de uitvoering van sommige bepalingen van het Protocol van Kyoto.

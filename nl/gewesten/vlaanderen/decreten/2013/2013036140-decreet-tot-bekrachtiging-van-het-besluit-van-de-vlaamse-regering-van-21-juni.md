@@ -13,7 +13,7 @@ entry_into_force: 2013-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/22/2013036140/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2013. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 21 juni 2013 tot wijziging van het besluit van de Vlaamse Regering van 17 oktober 2003 tot vaststelling van de bij decreet te bekrachtigen decretale specifieke eindtermen voor het algemeen secundair onderwijs, wat betreft de pool sportwetenschappen

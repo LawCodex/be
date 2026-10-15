@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/11/2015036583/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2015. - DECREET tot wijziging van de wet van 26 maart 1971 op de bescherming van oppervlaktewateren tegen verontreiniging en het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending, wat betreft de aanpassing van de aanrekening van de kosten voor publieke drinkwatervoorziening en de kosten voor gemeentelijke en bovengemeentelijke sanering

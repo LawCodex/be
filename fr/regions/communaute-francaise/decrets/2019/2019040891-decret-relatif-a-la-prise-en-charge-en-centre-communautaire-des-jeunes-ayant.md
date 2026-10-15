@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/14/2019040891/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 23-04-2019 et mise à jour au 30-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2019. - Décret relatif à la prise en charge en Centre communautaire des jeunes ayant fait l'objet d'un dessaisissement

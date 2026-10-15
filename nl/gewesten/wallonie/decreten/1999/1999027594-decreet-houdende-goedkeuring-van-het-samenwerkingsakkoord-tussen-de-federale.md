@@ -13,7 +13,7 @@ entry_into_force: 1999-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/01/1999027594/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 1999. - Decreet houdende goedkeuring van het samenwerkingsakkoord tussen de federale Staat, de Gemeenschappen en de Gewesten betreffende de bestendiging van het armoedebeleid (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2017-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017040435/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2017. - Décret portant assentiment au Protocole modifiant la Convention Benelux en matière de Chasse et de Protection des oiseaux, fait le 17 février 2016

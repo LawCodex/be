@@ -12,7 +12,7 @@ entry_into_force: 1983-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1983/07/01/1983003779/justel"
 department: "Financiën"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 1983. \_ Wet tot bekrachtiging van de koninklijke besluiten genomen in uitvoering van artikel 2 van de wet van 2 februari 1982 tot toekenning van bepaalde bijzondere machten aan de Koning.

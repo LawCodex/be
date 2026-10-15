@@ -13,7 +13,7 @@ entry_into_force: 1984-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1984/05/10/1984023891/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAI 1984. - Décret instituant Bruxelles capitale de la Communauté française.

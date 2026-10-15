@@ -14,7 +14,7 @@ end_of_validity: 2026-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/17/2026006162/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2026. - Decreet houdende aanpassing van de uitgavenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2026

@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/03/2014029338/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2014. - Décret portant assentiment à l'accord de coopération du 17 décembre 2013 entre l'Etat fédéral, la Communauté flamande, la Communauté française et la Communauté germanophone relatif à l'exercice des missions des Maisons de justice

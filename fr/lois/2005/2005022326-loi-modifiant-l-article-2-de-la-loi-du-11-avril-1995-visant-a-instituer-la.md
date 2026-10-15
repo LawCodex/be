@@ -12,7 +12,7 @@ entry_into_force: 2005-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/03/10/2005022326/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2005. - Loi modifiant l'article 2 de la loi du 11 avril 1995 visant à instituer la " charte de l'assuré social ".

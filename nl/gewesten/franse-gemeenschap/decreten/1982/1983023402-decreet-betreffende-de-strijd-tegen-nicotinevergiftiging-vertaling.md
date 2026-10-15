@@ -13,7 +13,7 @@ entry_into_force: 1983-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1982/12/02/1983023402/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 1982. - Decreet betreffende de strijd tegen nicotinevergiftiging. &lt;Vertaling&gt;

@@ -13,7 +13,7 @@ entry_into_force: 2013-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/05/30/2013203383/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2013. - Décret modifiant le décret du 17 juillet 2003 portant constitution d'un Institut wallon de formation en alternance et des indépendants et petites et moyennes entreprises

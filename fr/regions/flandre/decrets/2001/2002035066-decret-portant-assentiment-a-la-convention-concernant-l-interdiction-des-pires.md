@@ -13,7 +13,7 @@ entry_into_force: 2002-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/21/2002035066/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2001. - Décret portant assentiment à la Convention concernant l'interdiction des pires formes de travail des enfants et l'action immédiate en vue de leur élimination, adoptée par la Conférence internationale du Travail à sa quatre-vingt-septième session à Genève, le 17 juin 1999 (TRADUCTION).

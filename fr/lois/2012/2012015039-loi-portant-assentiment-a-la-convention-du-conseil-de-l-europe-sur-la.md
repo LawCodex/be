@@ -12,7 +12,7 @@ entry_into_force: 2013-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/02/07/2012015039/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 2012. - Loi portant assentiment à la Convention du Conseil de l'Europe sur la protection des enfants contre l'exploitation et les abus sexuels, faite à Lanzarote le 25 octobre 2007

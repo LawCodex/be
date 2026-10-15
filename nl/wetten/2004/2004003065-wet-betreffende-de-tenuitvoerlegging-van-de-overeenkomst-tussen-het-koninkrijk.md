@@ -12,7 +12,7 @@ entry_into_force: 2004-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/01/28/2004003065/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 2004. - Wet betreffende de tenuitvoerlegging van de Overeenkomst tussen het Koninkrijk België en het Koninkrijk Saoedi-Arabië inzake wederkerige vrijstellingen met betrekking tot belastingen naar het inkomen en naar de winst, invoerrechten en sociale zekerheid, in het kader van het verrichten van luchtvervoer in internationaal verkeer, ondertekend te Riyadh op 22 februari 1997.

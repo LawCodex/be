@@ -13,7 +13,7 @@ entry_into_force: 2016-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/01/25/2016201173/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2016. - Décret modifiant le décret du 26 mai 2009 instituant la fonction de médiateur pour la Communauté germanophone

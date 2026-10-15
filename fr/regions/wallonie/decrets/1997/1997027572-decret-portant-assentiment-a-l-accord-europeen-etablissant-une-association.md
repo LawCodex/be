@@ -13,7 +13,7 @@ entry_into_force: 1997-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/10/23/1997027572/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OCTOBRE 1997. - Décret portant assentiment à l'Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Lituanie, d'autre part, aux Annexes I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, aux Protocoles 1, 2, 3, 4, 5, et à l'Acte final, faits à Luxembourg le 12 juin 1995.

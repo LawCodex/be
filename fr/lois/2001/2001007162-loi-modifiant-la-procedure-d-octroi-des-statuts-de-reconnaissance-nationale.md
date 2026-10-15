@@ -12,7 +12,7 @@ entry_into_force: 2001-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/06/10/2001007162/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2001. - Loi modifiant la procédure d'octroi des statuts de reconnaissance nationale.

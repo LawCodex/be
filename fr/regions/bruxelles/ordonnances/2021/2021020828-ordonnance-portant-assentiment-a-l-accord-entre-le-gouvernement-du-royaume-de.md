@@ -13,7 +13,7 @@ entry_into_force: 2021-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/04/15/2021020828/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 AVRIL 2021. - Ordonnance portant assentiment à : l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République algérienne démocratique et populaire relatif au transport aérien, fait à Bruxelles le 27 février 2017

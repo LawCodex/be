@@ -13,7 +13,7 @@ entry_into_force: 2014-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/09/2014200396/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 2014. - Decreet houdende instemming met de wijziging in de artikelen 25 en 26 van het Verdrag van Helsinki van 17 maart 1992 betreffende de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren, aangenomen op 28 november 2003 in Madrid

@@ -11,7 +11,7 @@ date: 2014-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/11/2014029646/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2014. - Decreet houdende instemming met het samenwerkingsakkoord van 20 maart 2014 tussen het Waalse Gewest en de Franse Gemeenschap betreffende het goed bestuur in de uitvoering van de openbare mandaten in de overheidsinstellingen en in de van de overheid afgeleide entiteiten

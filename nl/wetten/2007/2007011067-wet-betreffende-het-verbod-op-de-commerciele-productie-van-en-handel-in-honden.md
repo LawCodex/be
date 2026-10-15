@@ -12,7 +12,7 @@ entry_into_force: 2007-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/01/26/2007011067/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2007. - Wet betreffende het verbod op de commerciële productie van en handel in honden- en kattenbont en hiervan afgeleide producten.

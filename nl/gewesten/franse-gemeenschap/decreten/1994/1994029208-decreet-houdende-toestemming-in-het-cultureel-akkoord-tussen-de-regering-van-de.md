@@ -12,7 +12,7 @@ published: 1994-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/03/31/1994029208/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 1994. - Decreet houdende toestemming in het cultureel akkoord tussen de Regering van de Franse Gemeenschap van België en de Regering van de Socialistische Republiek Viëtnam, ondertekend te Brussel op 23 september 1993.

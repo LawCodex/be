@@ -12,7 +12,7 @@ entry_into_force: 1998-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/04/16/1998016102/justel"
 department: "Classes Moyennes - Agriculture"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 AVRIL 1998. - Loi concernant les contestations relatives aux paiements au Fonds budgétaire pour la santé et la qualité des animaux et des produits animaux.

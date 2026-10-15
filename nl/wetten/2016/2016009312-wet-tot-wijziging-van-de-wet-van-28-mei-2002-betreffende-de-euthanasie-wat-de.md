@@ -12,7 +12,7 @@ entry_into_force: 2016-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/06/16/2016009312/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2016. - Wet tot wijziging van de wet van 28 mei 2002 betreffende de euthanasie wat de samenstelling van de Federale Controle-en Evaluatiecommissie betreft

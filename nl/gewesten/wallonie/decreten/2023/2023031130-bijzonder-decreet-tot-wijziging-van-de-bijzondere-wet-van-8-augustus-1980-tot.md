@@ -13,7 +13,7 @@ entry_into_force: 2023-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/01/2023031130/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2023. - Bijzonder decreet tot wijziging van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen teneinde de drempel voor toegang tot de aanvullende zetelverdeling voor de verkiezing van de leden van het Waalse parlement met de helft te verlagen

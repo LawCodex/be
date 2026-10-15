@@ -11,7 +11,7 @@ date: 2012-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/10/22/2012206263/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2012. - Decreet houdende instemming met de Economische Partnerschapsovereenkomst tussen de CARIFORUM-Staten, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, met de slotakte, gedaan te Bridgetown (Barbados) op 15 oktober 2008

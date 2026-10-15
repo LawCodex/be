@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/01/30/2006033028/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 12-04-2006 en tekstbijwerking tot 02-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2006. - Decreet ter voorkoming van de gezondheidsschaden bij sportbeoefening (VERTALING)

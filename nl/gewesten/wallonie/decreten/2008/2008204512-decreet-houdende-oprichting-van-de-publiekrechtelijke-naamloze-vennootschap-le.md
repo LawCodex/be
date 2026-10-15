@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/12/05/2008204512/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 16-12-2008 en tekstbijwerking tot 20-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 2008. - Decreet houdende oprichting van de publiekrechtelijke naamloze vennootschap "Le Circuit de Spa-Francorchamps"

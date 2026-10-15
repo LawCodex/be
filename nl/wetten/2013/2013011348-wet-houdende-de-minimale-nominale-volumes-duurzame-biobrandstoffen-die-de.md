@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/17/2013011348/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2015 en tekstbijwerking tot 15-09-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2013. - Wet houdende de minimale nominale volumes duurzame biobrandstoffen die de volumes fossiele motorbrandstoffen, die jaarlijks tot verbruik worden uitgeslagen, moeten bevatten

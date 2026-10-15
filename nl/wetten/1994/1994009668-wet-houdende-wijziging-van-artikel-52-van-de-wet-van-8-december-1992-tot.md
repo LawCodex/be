@@ -12,7 +12,7 @@ entry_into_force: 1994-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/06/30/1994009668/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1994. - Wet houdende wijziging van artikel 52 van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens.

@@ -12,7 +12,7 @@ entry_into_force: 2001-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/09/29/2001015027/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 SEPTEMBER 2000. - Wet houdende instemming met het nader aanvullend Protocol bij het Verdrag tussen de Staten die Partij zijn bij het Noord-Atlantisch Verdrag en de overige Staten die deelnemen aan het Partnerschap voor de vrede nopens de rechtspositie van hun krijgsmachten, gedaan te Brussel op 19 december 1997.

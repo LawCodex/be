@@ -12,7 +12,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/02/17/2020040460/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2020. - Loi organisant le financement des mesures de fin de carrière pour les membres de la police locale pour l'année 2020

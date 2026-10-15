@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/11/17/2022034314/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-01-2023 en tekstbijwerking tot 12-09-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2022. - Decreet tot oprichting van het geautomatiseerd en gecentraliseerd e-paysage platform voor gegevensuitwisseling en tot wijziging van diverse decreten die van toepassing zijn op het hoger onderwijs

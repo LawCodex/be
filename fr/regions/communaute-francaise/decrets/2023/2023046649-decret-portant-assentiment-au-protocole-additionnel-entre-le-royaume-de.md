@@ -13,7 +13,7 @@ entry_into_force: 2024-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/19/2023046649/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2023. - Décret portant assentiment au Protocole additionnel entre le Royaume de Belgique et l'Association européenne de Libre-échange, signé à Bruxelles le 24 novembre 2022

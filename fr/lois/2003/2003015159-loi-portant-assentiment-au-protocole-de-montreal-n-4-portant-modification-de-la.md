@@ -12,7 +12,7 @@ entry_into_force: 2003-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/27/2003015159/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2003. - Loi portant assentiment au Protocole de Montréal n° 4 portant modification de la Convention pour l'unification de certaines règles relatives au transport aérien international, signée à Varsovie le 12 octobre 1929, amendée par le Protocole, fait à La Haye le 28 septembre 1955, signé à Montréal le 25 septembre 1975.

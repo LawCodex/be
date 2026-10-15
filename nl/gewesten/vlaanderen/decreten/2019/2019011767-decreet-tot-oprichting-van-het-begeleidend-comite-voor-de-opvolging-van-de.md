@@ -13,7 +13,7 @@ entry_into_force: 2020-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/29/2019011767/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2019. - Decreet tot oprichting van het Begeleidend Comité voor de opvolging van de monitoring van personeelsgegevens in het kader van de Vlaamse Intersectorale Akkoorden voor de social/non-profitsectoren

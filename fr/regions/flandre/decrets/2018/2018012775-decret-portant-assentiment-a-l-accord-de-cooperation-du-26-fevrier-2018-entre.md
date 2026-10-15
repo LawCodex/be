@@ -13,7 +13,7 @@ entry_into_force: 2018-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/08/2018012775/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2018. - Décret portant assentiment à l'accord de coopération du 26 février 2018 entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale établissant la Fondation de la Forêt de Soignes

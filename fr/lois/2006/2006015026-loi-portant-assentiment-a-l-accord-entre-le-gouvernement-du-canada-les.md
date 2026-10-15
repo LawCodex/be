@@ -12,7 +12,7 @@ entry_into_force: 2006-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/01/20/2006015026/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2006. - Loi portant assentiment à l'Accord entre le Gouvernement du Canada, les Gouvernements d'Etats membres de l'Agence spatiale européenne, le Gouvernement du Japon, le Gouvernement de la Fédération de Russie et le Gouvernement des Etats-Unis d'Amérique sur la coopération relative à la Station spatiale internationale civile, fait à Washington D.C. le 29 janvier 1998.

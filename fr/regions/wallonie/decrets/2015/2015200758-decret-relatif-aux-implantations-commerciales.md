@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/02/05/2015200758/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 14-11-2016 et mise à jour au 07-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 2015. - Décret relatif aux implantations commerciales

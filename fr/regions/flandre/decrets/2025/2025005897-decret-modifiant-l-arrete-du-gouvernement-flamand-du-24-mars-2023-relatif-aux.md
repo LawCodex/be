@@ -13,7 +13,7 @@ entry_into_force: 2025-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/07/18/2025005897/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2025. - Décret modifiant l'arrêté du Gouvernement flamand du 24 mars 2023 relatif aux projets temporaires dans l'enseignement fondamental et secondaire dans le cadre de la revalorisation de la fonction d'enseignant et le décret du 9 décembre 2005 relatif à l'organisation de projets temporaires dans l'enseignement

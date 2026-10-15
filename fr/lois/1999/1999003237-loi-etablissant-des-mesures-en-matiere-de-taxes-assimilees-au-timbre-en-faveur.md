@@ -12,7 +12,7 @@ entry_into_force: 1999-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/04/1999003237/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 1999. - Loi établissant des mesures en matière de taxes assimilées au timbre, en faveur des régies communales autonomes, des régies provinciales autonomes et de la Société des installations maritimes de Bruges.

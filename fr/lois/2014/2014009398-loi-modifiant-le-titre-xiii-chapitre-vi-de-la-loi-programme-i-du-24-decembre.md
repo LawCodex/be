@@ -12,7 +12,7 @@ entry_into_force: 2014-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/12/2014009398/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2014. - Loi modifiant le titre XIII, chapitre VI, de la loi-programme (I) du 24 décembre 2002 en ce qui concerne la tutelle des mineurs étrangers non accompagnés

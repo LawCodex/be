@@ -12,7 +12,7 @@ published: 1986-07-05
 entry_into_force: 1988-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1985/06/27/1985062750/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 1985. - Décret relatif à l'assistance spéciale à la jeunesse.

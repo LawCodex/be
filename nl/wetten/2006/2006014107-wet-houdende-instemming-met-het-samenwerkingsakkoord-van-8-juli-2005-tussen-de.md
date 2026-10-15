@@ -12,7 +12,7 @@ entry_into_force: 2006-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/04/04/2006014107/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2006. - Wet houdende instemming met het Samenwerkingsakkoord van 8 juli 2005 tussen de federale Staat en het Vlaamse Gewest betreffende de oprichting van en de samenwerking in een structuur Kustwacht.

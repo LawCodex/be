@@ -12,7 +12,7 @@ published: 2018-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/16/2018011585/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2018. - DECREET houdende wijziging van het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen

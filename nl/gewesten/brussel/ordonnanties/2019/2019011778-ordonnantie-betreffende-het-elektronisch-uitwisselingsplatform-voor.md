@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/04/04/2019011778/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 02-05-2019 en tekstbijwerking tot 04-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2019. - Ordonnantie betreffende het elektronisch uitwisselingsplatform voor gezondheidsgegevens

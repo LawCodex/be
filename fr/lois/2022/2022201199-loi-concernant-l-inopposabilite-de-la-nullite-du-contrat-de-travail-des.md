@@ -12,7 +12,7 @@ entry_into_force: 2022-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/21/2022201199/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2022. - Loi concernant l'inopposabilité de la nullité du contrat de travail des personnes qui se prostituent

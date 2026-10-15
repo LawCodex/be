@@ -12,7 +12,7 @@ published: 2024-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/28/2024005427/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2024. - Decreet tot wijziging van het Wetboek van de plaatselijke democratie en de decentralisatie, met het oog op de vereenvoudiging van de werking en de organisatie van de gemeentelijke en provincieorganen

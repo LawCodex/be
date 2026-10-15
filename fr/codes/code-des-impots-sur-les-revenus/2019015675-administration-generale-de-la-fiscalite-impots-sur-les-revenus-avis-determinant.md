@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1992/04/10/2019015675/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1992. - Administration générale de la Fiscalité. - Impôts sur les revenus. - Avis déterminant un modèle d'attestation n° 281.87 permettant d'apporter la preuve requise en matière de réduction d'impôt pour moins-values actées à l'occasion du partage total de l'avoir social d'une pricaf privée, conformément à l'article 145 26/1, § 3, du Code des impôts sur les revenus 1992 (CIR 92) et à l'article 63 12/2, de l'Arrêté royal d'exécution du CIR 92 (AR/CIR 92)

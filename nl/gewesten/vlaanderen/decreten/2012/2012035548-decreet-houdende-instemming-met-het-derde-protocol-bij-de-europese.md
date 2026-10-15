@@ -13,7 +13,7 @@ entry_into_force: 2012-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/05/04/2012035548/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2012. - Decreet houdende instemming met het derde protocol bij de Europese kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten betreffende Euregionale samenwerkingsverbanden (ESV's), opgemaakt in Utrecht op 16 november 2009

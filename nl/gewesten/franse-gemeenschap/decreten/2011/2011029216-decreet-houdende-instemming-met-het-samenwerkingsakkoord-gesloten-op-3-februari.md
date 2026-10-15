@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/03/17/2011029216/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 18-10-2023 en tekstbijwerking tot 18-10-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2011. - Decreet houdende instemming met het samenwerkingsakkoord, gesloten op 3 februari 2011, tussen de Franse Gemeenschap en het Waalse Gewest houdende oprichting van een gemeenschappelijke ombudsdienst voor de Franse Gemeenschap en het Waalse Gewest

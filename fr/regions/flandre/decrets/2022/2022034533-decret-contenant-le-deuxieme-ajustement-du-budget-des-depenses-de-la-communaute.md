@@ -13,7 +13,7 @@ entry_into_force: 2023-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/11/25/2022034533/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2022. - Décret contenant le deuxième ajustement du budget des dépenses de la Communauté flamande pour l'année budgétaire 2022

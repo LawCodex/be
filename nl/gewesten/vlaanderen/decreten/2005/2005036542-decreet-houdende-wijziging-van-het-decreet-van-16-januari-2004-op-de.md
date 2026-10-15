@@ -13,7 +13,7 @@ entry_into_force: 2005-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/11/10/2005036542/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2005. - Decreet houdende wijziging van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging.

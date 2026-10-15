@@ -13,7 +13,7 @@ entry_into_force: 2013-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/08/2013036094/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 2013. - Decreet houdende instemming met het samenwerkingsakkoord van 5 juni 2009 tussen de Vlaamse Gemeenschap en het Waalse Gewest betreffende de integratie van personen met een handicap

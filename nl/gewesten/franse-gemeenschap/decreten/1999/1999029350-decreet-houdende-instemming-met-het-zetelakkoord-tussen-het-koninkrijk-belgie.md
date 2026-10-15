@@ -13,7 +13,7 @@ entry_into_force: 1993-05-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/05/1999029350/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1999. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Raad voor samenwerking van de Arabische Staten van de Golf, opgemaakt te Brussel op 11 mei 1993 (VERTALING).

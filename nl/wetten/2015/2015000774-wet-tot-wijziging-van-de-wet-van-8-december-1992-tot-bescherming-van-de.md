@@ -12,7 +12,7 @@ entry_into_force: 2015-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/08/23/2015000774/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AUGUSTUS 2015. - Wet tot wijziging van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens, wat het Controleorgaan op de politionele informatie betreft

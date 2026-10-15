@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/03/21/2005033050/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 27-06-2005 en tekstbijwerking tot 26-10-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2005. - Programmadecreet (VERTALING).

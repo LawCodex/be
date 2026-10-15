@@ -13,7 +13,7 @@ entry_into_force: 2020-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/08/20/2020031235/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AUGUSTUS 2020. - Decreet tot bevestiging van het besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 27 van 11 juni 2020 betreffende de organisatie van het toegangs- en toelatingsexamen voor de studies van de eerste cyclus in de medische en tandheelkundige wetenschappen voor het academiejaar 2020-2021

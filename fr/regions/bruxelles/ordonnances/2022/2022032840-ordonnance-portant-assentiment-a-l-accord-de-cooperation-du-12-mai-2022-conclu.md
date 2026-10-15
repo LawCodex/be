@@ -13,7 +13,7 @@ entry_into_force: 2022-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/07/20/2022032840/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2022. - Ordonnance portant assentiment à l'accord de coopération du 12 mai 2022 conclu entre la Communauté flamande, la Commission communautaire française et la Commission communautaire commune modifiant l'accord de coopération du 20 décembre 2018 entre la Communauté flamande, la Commission communautaire française et la Commission communautaire commune relatif au parcours d'accueil obligatoire des primo-arrivants à Bruxelles-Capitale

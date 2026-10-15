@@ -11,7 +11,7 @@ published: 1959-07-24
 entry_into_force: 1959-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1959/07/14/1959071402/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1959. - Wet betreffende de kolennijverheid en -handel.

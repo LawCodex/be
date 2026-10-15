@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/09/15/2006000704/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 06-10-2006 et mise à jour au 19-05-2009"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 SEPTEMBRE 2006. - Loi réformant le Conseil d'Etat et créant un Conseil du Contentieux des Etrangers.

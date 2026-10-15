@@ -13,7 +13,7 @@ entry_into_force: 2019-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/05/16/2019012723/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2019. - Ordonnantie houdende instemming met : het samenwerkingsakkoord van 20 december 2018 tussen de Vlaamse Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie met betrekking tot het verplicht inburgeringstraject voor de nieuwkomers in Brussel-Hoofdstad, en tot wijziging van de ordonnantie van 11 mei 2017 betreffende het inburgeringstraject voor de nieuwkomers

@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/11/18/2016036627/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBRE 2016. - Décret portant assentiment à la Convention n° 187 sur le cadre promotionnel pour la sécurité et la santé au travail, adoptée à Genève le 15 juin 2006 par la Conférence internationale du Travail à sa 95e session

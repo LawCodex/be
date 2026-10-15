@@ -12,7 +12,7 @@ entry_into_force: 1996-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/05/21/1996003344/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 1996. - Loi portant exonération du revenu cadastral pour l'exercice public de l'assistance morale laïque.

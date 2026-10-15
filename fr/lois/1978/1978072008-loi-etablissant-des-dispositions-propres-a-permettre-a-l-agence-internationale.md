@@ -13,7 +13,7 @@ last_amended: 2014-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/07/20/1978072008/justel"
 justel_note: "Consultation des versions antérieures à partir du 29-07-1994 et mise à jour au 06-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 1978. - Loi établissant des dispositions propres à permettre à l'Agence internationale de l'Energie atomique d'effectuer des activités d'inspection et de vérification sur le territoire belge, en exécution de l'Accord international du 5 avril 1973 pris en application des § § 1 et 4 de l'article III du Traité du 1er juillet 1968 sur la non-prolifération des armes nucléaires.

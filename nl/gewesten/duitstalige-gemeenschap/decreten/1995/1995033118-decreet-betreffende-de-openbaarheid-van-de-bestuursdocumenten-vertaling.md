@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/10/16/1995033118/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-1995 en tekstbijwerking tot 25-04-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 1995. - Decreet betreffende de openbaarheid van de bestuursdocumenten (VERTALING).

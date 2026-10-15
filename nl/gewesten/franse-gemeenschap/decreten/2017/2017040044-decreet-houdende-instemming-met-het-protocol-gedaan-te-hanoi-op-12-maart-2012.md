@@ -13,7 +13,7 @@ entry_into_force: 2017-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/01/26/2017040044/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2017. - Decreet houdende instemming met het Protocol, gedaan te Hanoi op 12 maart 2012, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Socialistische Republiek van Vietnam tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en het Protocol ondertekend te Hanoi op 28 februari 1996

@@ -12,7 +12,7 @@ published: 1973-01-09
 entry_into_force: 1973-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1972/12/06/1972120604/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 1972. - Décret réglant l'emploi des langues dans les conseils communaux, les conseils de fédération, les conseils d'agglomération, les conseils provinciaux, les collèges des bourgmestres et échevins, les collèges de fédération, les collèges d'agglomération, les députations permanentes, les institutions subordonnées aux communes et aux provinces et les associations de communes. (Traduction).

@@ -13,7 +13,7 @@ entry_into_force: 2006-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/02/2006035943/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2006. - Décret modifiant le décret du 23 février 1994 relatif à l'infrastructure affectée aux matières personnalisables, en ce qui concerne la garantie d'investissement pour les maisons de repos. (Traduction).

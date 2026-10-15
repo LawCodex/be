@@ -12,7 +12,7 @@ entry_into_force: 2022-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/03/2022042012/justel"
 department: "Politique Scientifique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2022. - Loi reconnaissant le caractère aliénable des biens liés au passé colonial de l'Etat belge et déterminant un cadre juridique pour leur restitution et leur retour

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/26/2013012289/justel"
 department: "Emploi, Travail et Concertation sociale"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2013 et mise à jour au 23-11-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBRE 2013. - Loi concernant l'introduction d'un statut unique entre ouvriers et employés en ce qui concerne les délais de préavis et le jour de carence ainsi que de mesures d'accompagnement

@@ -11,7 +11,7 @@ published: 1950-08-12
 entry_into_force: 1950-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1950/08/10/1950081002/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1950. - Wet houdende toekenning aan de Staat van het provenu der herschatting van de goud- en deviezenvoorraad van de Nationale Bank van België.

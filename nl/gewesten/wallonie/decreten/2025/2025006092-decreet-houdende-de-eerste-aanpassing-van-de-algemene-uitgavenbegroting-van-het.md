@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/07/09/2025006092/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2025. - Decreet houdende de eerste aanpassing van de algemene uitgavenbegroting van het Waalse Gewest voor het begrotingsjaar 2025

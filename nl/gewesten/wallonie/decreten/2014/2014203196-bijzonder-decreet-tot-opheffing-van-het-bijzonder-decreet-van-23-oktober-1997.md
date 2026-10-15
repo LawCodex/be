@@ -13,7 +13,7 @@ entry_into_force: 2014-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/11/2014203196/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2014. - Bijzonder decreet tot opheffing van het bijzonder decreet van 23 oktober 1997 waarbij de door het Franse kiescollege rechtstreeks gekozen senatoren betrokken zijn bij de werkzaamheden van de Waalse Gewestraad

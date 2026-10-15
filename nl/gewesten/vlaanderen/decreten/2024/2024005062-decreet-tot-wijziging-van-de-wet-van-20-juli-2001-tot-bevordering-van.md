@@ -13,7 +13,7 @@ entry_into_force: 2024-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/19/2024005062/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2024. - Decreet tot wijziging van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen en het decreet houdende sociaalrechtelijk toezicht van 30 april 2004

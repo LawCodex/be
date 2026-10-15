@@ -11,7 +11,7 @@ published: 2025-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/01/28/2025002429/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 2025. - Wet houdende instemming met het Akkoord tussen de regering van het Koninkrijk België en de regering van het Groothertogdom Luxemburg inzake de uitwisseling van informatie in geval van een incident of een ongeval dat stralingsgevolgen zou kunnen hebben, gedaan te Brussel op 29 maart 2023

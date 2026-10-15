@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/03/30/2001000373/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2001. - Wet tot wijziging van artikel 74 van de wet van 13 mei 1999 houdende het tuchtstatuut van de personeelsleden van de politiediensten.

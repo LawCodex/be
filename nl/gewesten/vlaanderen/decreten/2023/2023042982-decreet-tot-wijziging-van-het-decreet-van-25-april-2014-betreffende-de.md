@@ -13,7 +13,7 @@ entry_into_force: 2023-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/09/2023042982/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 2023. - Decreet tot wijziging van het decreet van 25 april 2014 betreffende de omgevingsvergunning, wat het invoeren van overgangsmaatregelen voor vergunningen in het kader van de Programmatische Aanpak Stikstof betreft

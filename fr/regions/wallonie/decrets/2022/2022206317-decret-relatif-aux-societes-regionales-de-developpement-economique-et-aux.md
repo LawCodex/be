@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/10/19/2022206317/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 26-10-2022 et mise à jour au 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2022. - Décret relatif aux sociétés régionales de développement économique et aux sociétés spécialisées

@@ -13,7 +13,7 @@ entry_into_force: 2026-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/02/12/2026001241/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2026. - Decreet houdende diverse bepalingen betreffende culturele zaken wat betreft de non-profit sector

@@ -12,7 +12,7 @@ entry_into_force: 2026-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/02/10/2026001291/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2026. - Wet houdende diverse bepalingen inzake belasting over de toegevoegde waarde

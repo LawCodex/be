@@ -13,7 +13,7 @@ entry_into_force: 2016-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/01/15/2016035100/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 2016. - Décret sanctionnant l'arrêté du Gouvernement flamand du 13 novembre 2015 du Gouvernement flamand portant recevabilité et équivalence de la demande de dérogation aux objectifs de développement de l'enseignement maternel ordinaire et aux objectifs finaux de l'enseignement primaire ordinaire, concernant le domaine d'apprentissage " wetenschappen en techniek " (sciences et technique) et le domaine d'apprentissage " mens en maatschappij " (homme et société)

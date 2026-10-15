@@ -13,7 +13,7 @@ entry_into_force: 2020-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/05/29/2020041676/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2020. - Décret modifiant le décret du 7 mai 2004 relatif à la création de l'agence autonomisée externe de droit public Office flamand de l'Emploi et de la Formation professionnelle (VDAB), en ce qui concerne la régie de l'activation, des carrières et des données

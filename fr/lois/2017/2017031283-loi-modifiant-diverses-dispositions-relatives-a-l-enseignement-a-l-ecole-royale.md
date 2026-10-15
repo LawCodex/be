@@ -12,7 +12,7 @@ entry_into_force: 2017-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/09/28/2017031283/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBRE 2017. - Loi modifiant diverses dispositions relatives à l'enseignement à l'Ecole royale militaire

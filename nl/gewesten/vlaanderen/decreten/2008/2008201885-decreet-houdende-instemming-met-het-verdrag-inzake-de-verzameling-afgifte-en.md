@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/09/2008201885/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 13-06-2008 en tekstbijwerking tot 14-12-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2008. - Decreet houdende instemming met het Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart, aangenomen in Straatsburg op 9 september 1996 door de Centrale Commissie voor de Rijnvaart, alsmede met zijn bijlagen 1 en 2 en de bij bijlage 2 horende aanhangsels I tot en met V

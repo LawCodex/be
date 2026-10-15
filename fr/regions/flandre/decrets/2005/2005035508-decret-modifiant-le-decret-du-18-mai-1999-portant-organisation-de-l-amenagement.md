@@ -13,7 +13,7 @@ entry_into_force: 2005-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/04/22/2005035508/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2005. - Décret modifiant le décret du 18 mai 1999 portant organisation de l'aménagement du territoire et du décret relatif à l'aménagement du territoire coordonné le 22 octobre 1996 (TRADUCTION).

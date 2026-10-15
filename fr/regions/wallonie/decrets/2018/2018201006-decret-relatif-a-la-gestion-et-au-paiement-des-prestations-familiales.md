@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/02/08/2018201006/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 01-03-2018 et mise à jour au 17-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 2018. - Décret relatif à la gestion et au paiement des prestations familiales

@@ -12,7 +12,7 @@ entry_into_force: 2023-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/03/27/2023202029/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2023. - Wet houdende wijziging van de wet van 16 november 2015 houdende diverse bepalingen inzake sociale zaken wat de uitbreiding van het toepassingsgebied van de flexi-jobs tot de chocolatiers betreft

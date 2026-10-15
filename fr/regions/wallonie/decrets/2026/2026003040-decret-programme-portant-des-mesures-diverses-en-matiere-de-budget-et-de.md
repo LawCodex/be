@@ -13,7 +13,7 @@ entry_into_force: 2026-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/03/26/2026003040/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2026. - Décret-programme portant des mesures diverses en matière de budget et de comptabilité, de bien-être animal, de pouvoirs locaux, d'aménagement du territoire, de mobilité, d'économie, d'emploi, de formation, d'environnement, de climat, de tourisme, de patrimoine et d'agriculture et de ruralité

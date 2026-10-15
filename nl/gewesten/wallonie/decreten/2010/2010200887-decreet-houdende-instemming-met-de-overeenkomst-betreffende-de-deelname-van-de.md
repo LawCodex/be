@@ -13,7 +13,7 @@ entry_into_force: 2010-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/02/04/2010200887/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2010. - Decreet houdende instemming met de Overeenkomst betreffende de deelname van de Republiek Bulgarije en Roemenië aan de Europese Economische Ruimte, en de Slotakte, ondertekend in Brussel op 25 juli 2007

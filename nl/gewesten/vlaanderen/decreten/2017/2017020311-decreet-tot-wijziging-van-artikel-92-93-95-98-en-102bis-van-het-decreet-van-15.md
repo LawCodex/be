@@ -12,7 +12,7 @@ published: 2017-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/03/10/2017020311/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2017. - Decreet tot wijziging van artikel 92, 93, 95, 98 en 102bis van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode

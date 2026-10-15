@@ -13,7 +13,7 @@ entry_into_force: 2024-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/05/16/2024005037/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Ordonnantie tot wijziging van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren om de toegestane plaatsen voor de handel in dieren te beperken

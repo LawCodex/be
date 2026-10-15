@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/24/2020202865/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 02-07-2020 et mise à jour au 30-12-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2020. - Loi du 24 juin 2020 octroyant un complément temporaire aux indemnités d'incapacité primaire

@@ -13,7 +13,7 @@ entry_into_force: 2023-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/13/2023204486/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2023. - Décret modifiant le Code wallon de l'Action sociale et de la Santé en ce qui concerne le contrôle des opérateurs de la politique de l'Action sociale et de la Santé et les informations sur les établissements pour aînés

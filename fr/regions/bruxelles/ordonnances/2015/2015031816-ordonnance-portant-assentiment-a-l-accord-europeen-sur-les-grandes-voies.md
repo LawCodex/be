@@ -13,7 +13,7 @@ entry_into_force: 2015-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/11/20/2015031816/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2015. - Ordonnance portant assentiment à : l'Accord européen sur les grandes voies navigables d'importance internationale (AGN), fait à Genève le 19 janvier 1996

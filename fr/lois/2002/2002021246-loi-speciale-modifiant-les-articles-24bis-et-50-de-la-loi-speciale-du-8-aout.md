@@ -12,7 +12,7 @@ entry_into_force: 2002-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/04/29/2002021246/justel"
 department: "Chancellerie et Services généraux - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2002. - Loi spéciale modifiant les articles 24bis et 50 de la loi spéciale du 8 août 1980 de réformes institutionnelles.

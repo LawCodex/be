@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/09/2018011401/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-03-2018 et mise à jour au 26-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2018. - Décret portant la séance de formation complémentaire dans le cadre de la formation à la conduite catégorie B

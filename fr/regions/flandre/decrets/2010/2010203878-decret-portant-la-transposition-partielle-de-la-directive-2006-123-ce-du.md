@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/06/25/2010203878/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 02-08-2010 et mise à jour au 26-06-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2010. - Décret portant la transposition partielle de la Directive 2006/123/CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans le marché intérieur

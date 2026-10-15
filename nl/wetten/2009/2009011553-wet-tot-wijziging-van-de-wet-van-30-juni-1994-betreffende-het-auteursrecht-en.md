@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/12/10/2009011553/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 23-12-2009 en tekstbijwerking tot 31-12-2012"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2009. - Wet tot wijziging van de wet van 30 juni 1994 betreffende het auteursrecht en de naburige rechten wat het statuut van en de controle op de vennootschappen voor het beheer van de rechten betreft

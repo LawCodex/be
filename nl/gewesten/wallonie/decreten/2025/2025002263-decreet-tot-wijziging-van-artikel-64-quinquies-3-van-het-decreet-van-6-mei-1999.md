@@ -12,7 +12,7 @@ published: 2025-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/02/27/2025002263/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2025. - Decreet tot wijziging van artikel 64 quinquies/3 van het decreet van 6 mei 1999 betreffende de vestiging, de invordering en de geschillen inzake de Waalse gewestelijke belastingen

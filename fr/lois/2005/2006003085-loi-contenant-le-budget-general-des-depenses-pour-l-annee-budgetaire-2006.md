@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/12/20/2006003085/justel"
 department: "Budget et Contrôle de la gestion"
 justel_note: "Consultation des versions antérieures à partir du 06-03-2006 et mise à jour au 01-09-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2005. - Loi contenant le Budget général des dépenses pour l'année budgétaire 2006.

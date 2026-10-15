@@ -13,7 +13,7 @@ entry_into_force: 2026-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/02/26/2026001752/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2026. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'Autorité intergouvernementale pour le Développement, fait à Bruxelles le 16 février 2022

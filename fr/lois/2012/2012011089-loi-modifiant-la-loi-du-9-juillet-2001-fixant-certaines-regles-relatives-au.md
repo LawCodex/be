@@ -12,7 +12,7 @@ entry_into_force: 2012-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/02/15/2012011089/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2012. - Loi modifiant la loi du 9 juillet 2001 fixant certaines règles relatives au cadre juridique pour les signatures électroniques et les services de certification

@@ -13,7 +13,7 @@ entry_into_force: 2023-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/10/13/2023046394/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OKTOBER 2023. - Ordonnantie tot vaststelling van een kader voor de planning, uitvoering en opvolging van het mobiliteits- en verkeersveiligheidsbeleid

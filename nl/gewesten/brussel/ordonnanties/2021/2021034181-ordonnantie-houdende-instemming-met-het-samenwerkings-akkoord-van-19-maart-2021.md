@@ -13,7 +13,7 @@ entry_into_force: 2021-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/12/02/2021034181/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2021. - Ordonnantie houdende instemming met het samenwerkings-akkoord van 19 maart 2021 tussen het Waals Gewest, het Vlaams Gewest, het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap met betrekking tot de coördinatie inzake het toezicht en de naleving van de gewestelijke wetgevingen betreffende tewerkstelling

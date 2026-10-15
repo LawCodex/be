@@ -11,7 +11,7 @@ published: 1951-12-26
 entry_into_force: 1952-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1951/12/24/1951122402/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 1951. - Wet tot verklaring van de wet van 30 April 1951 op de handelshuurovereenkomsten met het oog op de bescherming van het handelsfonds.

@@ -11,7 +11,7 @@ published: 2010-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/03/11/2010015056/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2010. - Wet houdende instemming met de Overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk België en Quebec, ondertekend te Quebec op 28 maart 2006

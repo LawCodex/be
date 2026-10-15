@@ -12,7 +12,7 @@ entry_into_force: 2002-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/08/02/2002015134/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AUGUSTUS 2002. - Wet houdende instemming met het Protocol houdende wijziging van de artikelen 1 a) , 14 en 14 b) van het Europees Verdrag van 30 september 1957 betreffende het internationaal vervoer van gevaarlijke goederen over de weg (ADR), ondertekend te Genève op 28 oktober 1993.

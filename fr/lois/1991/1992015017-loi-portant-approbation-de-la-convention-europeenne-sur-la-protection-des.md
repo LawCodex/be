@@ -12,7 +12,7 @@ entry_into_force: 1992-02-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/10/18/1992015017/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 OCTOBRE 1991. - Loi portant approbation de la Convention européenne sur la protection des animaux vertébrés utilisés à des fins expérimentales ou à d'autres fins scientifiques, et des annexes A et B, faites à Strasbourg le 18 mars 1986.

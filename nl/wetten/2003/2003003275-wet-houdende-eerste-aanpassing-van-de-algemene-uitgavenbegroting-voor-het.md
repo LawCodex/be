@@ -12,7 +12,7 @@ entry_into_force: 2003-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/11/2003003275/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2003. - Wet houdende eerste aanpassing van de Algemene Uitgavenbegroting voor het begrotingsjaar 2003, Sectie 19. - Regie der Gebouwen.

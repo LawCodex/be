@@ -12,7 +12,7 @@ entry_into_force: 2026-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/06/28/2026201791/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2026. - Loi portant des dispositions diverses urgentes en matière sociale

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/09/17/2005011439/justel"
 department: "Wetenschapsbeleid"
 justel_note: "Raadpleging van vroegere versies vanaf 16-11-2005 en tekstbijwerking tot 15-01-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBER 2005. - Wet met betrekking tot de activiteiten op het gebied van het lanceren, het bedienen van de vlucht of het geleiden van ruimtevoorwerpen

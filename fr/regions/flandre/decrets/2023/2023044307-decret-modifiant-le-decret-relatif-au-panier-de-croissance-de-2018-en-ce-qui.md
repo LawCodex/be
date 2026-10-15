@@ -13,7 +13,7 @@ entry_into_force: 2023-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/14/2023044307/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2023. - Décret modifiant le décret relatif au Panier de croissance de 2018, en ce qui concerne le droit à des allocations de participation sélectives pour les élèves qui reçoivent une aide matérielle

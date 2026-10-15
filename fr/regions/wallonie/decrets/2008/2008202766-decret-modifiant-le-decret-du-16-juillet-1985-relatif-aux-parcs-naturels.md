@@ -13,7 +13,7 @@ entry_into_force: 2008-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/03/2008202766/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2008. - Décret modifiant le décret du 16 juillet 1985 relatif aux parcs naturels.

@@ -12,7 +12,7 @@ entry_into_force: 2021-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/11/26/2021034047/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2021. - Loi portant modifications du Code des droits d'enregistrement, d'hypothèque et de greffe

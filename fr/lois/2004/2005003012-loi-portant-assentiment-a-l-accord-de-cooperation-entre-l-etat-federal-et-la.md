@@ -12,7 +12,7 @@ entry_into_force: 2005-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/12/27/2005003012/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 2004. - Loi portant assentiment à l'accord de coopération entre l'Etat fédéral et la Région de Bruxelles-Capitale et à l'accord de coopération entre l'Etat fédéral et la Région wallonne relatif à la mise en place d'un système de déclaration libératoire unique.

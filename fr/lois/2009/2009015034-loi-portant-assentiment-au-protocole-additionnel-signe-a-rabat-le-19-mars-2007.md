@@ -12,7 +12,7 @@ entry_into_force: 2011-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/02/12/2009015034/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2009. - Loi portant assentiment au Protocole additionnel, signé à Rabat le 19 mars 2007, à la Convention entre le Royaume de Belgique et le Royaume du Maroc sur l'assistance aux personnes détenues et le transfèrement des personnes condamnées, signée à Bruxelles le 7 juillet 1997

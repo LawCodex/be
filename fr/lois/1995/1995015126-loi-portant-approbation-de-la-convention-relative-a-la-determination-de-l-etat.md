@@ -12,7 +12,7 @@ entry_into_force: 1995-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/05/11/1995015126/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 1995. - Loi portant approbation de la Convention relative à la détermination de l'Etat responsable de l'examen d'une demande d'asile présentée dans l'un des Etats membres des Communautés européennes, faite à Dublin le 15 juin 1990, à Rome le 7 décembre 1990 et à Luxembourg le 13 juin 1991.

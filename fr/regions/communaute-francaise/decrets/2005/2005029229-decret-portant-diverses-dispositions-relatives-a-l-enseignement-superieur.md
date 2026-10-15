@@ -13,7 +13,7 @@ entry_into_force: 2004-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/20/2005029229/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2005. - Décret portant diverses dispositions relatives à l'enseignement supérieur.

@@ -13,7 +13,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009202340/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret modifiant l'article 3 du décret du 27 mai 2004 relatif à l'exercice par la Communauté germanophone de certaines compétences de la Région wallonne en matière de pouvoirs subordonnés

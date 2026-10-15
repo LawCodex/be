@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/25/2024203550/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 22-07-2024 et mise à jour au 10-07-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2024. - Décret modifiant le décret du 22 novembre 2018 relatif au plan de cohésion sociale pour ce qui concerne les matières dont l'exercice a été transféré de la Communauté française

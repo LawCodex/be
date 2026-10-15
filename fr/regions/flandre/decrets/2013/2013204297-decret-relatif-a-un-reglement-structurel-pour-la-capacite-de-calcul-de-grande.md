@@ -13,7 +13,7 @@ entry_into_force: 2013-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/05/2013204297/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2013. - Décret relatif à un règlement structurel pour la capacité de calcul de grande envergure pour la recherche et l'innovation et relatif à la coordination de la réglementation en matière de politique en matière de sciences et d'innovation

@@ -12,7 +12,7 @@ published: 2002-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/19/2002036044/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2002. - Decreet houdende de overdracht van de Vlaamse economische vertegenwoordigers van de Vlaamse regering naar Export Vlaanderen, Vlaamse openbare instelling.

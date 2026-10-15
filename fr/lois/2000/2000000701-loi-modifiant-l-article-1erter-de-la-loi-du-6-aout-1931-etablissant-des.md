@@ -12,7 +12,7 @@ entry_into_force: 2000-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/08/12/2000000701/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AOUT 2000. - Loi modifiant l'article 1erter de la loi du 6 août 1931 établissant des incompatibilités et interdictions concernant les ministres, anciens ministres et ministres d'Etat, ainsi que les membres et anciens membres des Chambres législatives.

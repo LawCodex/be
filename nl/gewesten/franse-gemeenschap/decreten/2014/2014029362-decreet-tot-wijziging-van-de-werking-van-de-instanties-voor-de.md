@@ -12,7 +12,7 @@ published: 2014-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/11/2014029362/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2014. - Decreet tot wijziging van de werking van de instanties voor de netoverschrijdende sturing van het kwalificerend onderwijs

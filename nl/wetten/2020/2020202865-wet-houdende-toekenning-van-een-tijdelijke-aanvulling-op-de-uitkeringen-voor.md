@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/06/24/2020202865/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 02-07-2020 en tekstbijwerking tot 30-12-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2020. - Wet houdende toekenning van een tijdelijke aanvulling op de uitkeringen voor primaire arbeidsongeschiktheid

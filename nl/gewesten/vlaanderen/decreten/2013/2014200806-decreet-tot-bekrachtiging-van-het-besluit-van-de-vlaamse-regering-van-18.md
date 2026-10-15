@@ -13,7 +13,7 @@ entry_into_force: 2014-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/20/2014200806/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2013. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 18 oktober 2013 tot ontvankelijkheid en gelijkwaardigheid van een aanvraag tot afwijking op de eindtermen van de tweede graad van het algemeen secundair onderwijs, wat betreft de natuurwetenschappen of fysica en/of chemie en/of biologie

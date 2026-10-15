@@ -13,7 +13,7 @@ entry_into_force: 2021-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/12/09/2021205906/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2021. - Decreet houdende instemming met het samenwerkingsakkoord van 22 december 2020 tussen de Federale Staat, de Vlaamse Gemeenschap, het Vlaamse Gewest, het Waals Gewest, het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap inzake het gebruik van SURE

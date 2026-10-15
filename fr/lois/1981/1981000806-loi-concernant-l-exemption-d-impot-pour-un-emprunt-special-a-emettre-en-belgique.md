@@ -12,7 +12,7 @@ entry_into_force: 1981-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1981/05/15/1981000806/justel"
 department: "Finances"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 1981. - LOI concernant l'exemption d'impôt pour un emprunt spécial à émettre en Belgique

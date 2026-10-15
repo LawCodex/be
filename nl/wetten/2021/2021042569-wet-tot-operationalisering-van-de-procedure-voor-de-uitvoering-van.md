@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/06/29/2021042569/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 14-07-2021 en tekstbijwerking tot 04-08-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2021. - Wet tot operationalisering van de procedure voor de uitvoering van vrijheidsstraffen van drie jaar of minder

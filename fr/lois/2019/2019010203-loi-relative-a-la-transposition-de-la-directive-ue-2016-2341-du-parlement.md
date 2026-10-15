@@ -12,7 +12,7 @@ entry_into_force: 2019-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/01/11/2019010203/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JANVIER 2019. - Loi relative à la transposition de la directive (UE) 2016/2341 du Parlement européen et du Conseil du 14 décembre 2016 concernant les activités et la surveillance des institutions de retraite professionnelle (IRP) et modifiant la loi du 27 octobre 2006 relative au contrôle des institutions de retraite professionnelle

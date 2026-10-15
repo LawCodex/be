@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/03/02/2007035421/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 26-03-2007 en tekstbijwerking tot 11-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2007. - Decreet houdende opheffing van het decreet van 5 april 1995 tot oprichting van de Vlaamse Opera en tot regeling van de rechtsopvolging

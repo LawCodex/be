@@ -13,7 +13,7 @@ entry_into_force: 2010-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/07/09/2010035483/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2010. - Decreet houdende wijziging van diverse bepalingen van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid

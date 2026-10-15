@@ -11,7 +11,7 @@ published: 2013-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/08/2013014479/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2013. - Wet tot wijziging van de wet van 16 maart 1968 betreffende de politie over het wegverkeer om gedragingen inzake de inschrijving waardoor men zich aan vervolging kan onttrekken in te delen als overtreding van de tweede graad

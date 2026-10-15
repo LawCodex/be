@@ -12,7 +12,7 @@ entry_into_force: 2021-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/04/02/2021031212/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2021. - Loi modifiant l'arrêté royal du 30 septembre 2005 désignant les infractions par degré aux règlements généraux pris en exécution de la loi relative à la police de la circulation routière, concernant le non-respect du panneau C23

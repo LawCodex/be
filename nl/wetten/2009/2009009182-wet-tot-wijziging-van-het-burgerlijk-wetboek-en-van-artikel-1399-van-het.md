@@ -12,7 +12,7 @@ entry_into_force: 2009-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/02/19/2009009182/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 FEBRUARI 2009. - Wet tot wijziging van het Burgerlijk Wetboek en van artikel 1399 van het Gerechtelijk Wetboek inzake het verzet tegen het huwelijk

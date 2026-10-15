@@ -13,7 +13,7 @@ entry_into_force: 2016-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/01/21/2016029076/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JANUARI 2016. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Economische Gemeenschap van West-Afrikaanse Staten, gedaan te Brussel op 12 juli 2006

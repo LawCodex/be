@@ -13,7 +13,7 @@ last_amended: 1997-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1894/06/23/1895062350/justel"
 justel_note: "Raadpleging van vroegere versies vanaf (publicatiedatum van de wet van 12-05-1971) en tekstbijwerking tot 28-10-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 1894. - WET HOUDENDE HERZIENING DER WET VAN 3 APRIL 1851 OP DE MAATSCHAPPIJEN VAN ONDERLINGE BIJSTAND. &lt;Opgeheven vanaf 01-01-1991 door W 1990-08-06/35, art. 76, 002; deze wet blijft evenwel van toepassing op de maatschappijen bedoeld in artikel 1, II, van die wet&gt; &lt;De hiernavolgende Nederlandse tekst van de wet, in zover hij ouder is dan de Gelijkheidswet van 18 april 1898, is geen authentieke tekst maar een ambtelijke vertaling. Deze vertaling, evenals de andere ambtelijke vertalingen die de gelijkheidswet voorafgaan, werd in het Staatsblad gepubliceerd ingevolge de beslissing door Minister Begerem genomen, onder zijn ministeriële verantwoordelijkheid (Senaatsverslag voor de wet van 18 april 1898, Pasin., 1898, blz. 87). De Nederlandse tekst van de gedeelten ingevoegd door wetten van na 18 april 1898 is authentiek.&gt;

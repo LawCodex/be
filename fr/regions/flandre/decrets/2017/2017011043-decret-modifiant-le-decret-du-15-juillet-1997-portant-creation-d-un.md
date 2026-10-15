@@ -13,7 +13,7 @@ entry_into_force: 2017-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/03/2017011043/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2017. - Décret modifiant le décret du 15 juillet 1997 portant création d'un Commissariat aux Droits de l'Enfant et instituant la fonction de Commissaire aux Droits de l'Enfant, du décret du 7 mai 2004 relatif au statut du mineur dans l'aide intégrale à la jeunesse et du décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse, en vue de l'organisation de la surveillance externe et du règlement externe de plaintes dans les établissements privatifs de liberté pour enfants et jeunes

@@ -12,7 +12,7 @@ entry_into_force: 2022-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/28/2022040428/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2022. - Loi transposant la Directive (UE) 2019/1 du Parlement européen et du Conseil du 11 décembre 2018 visant à doter les autorités de concurrence des Etats membres des moyens de mettre en oeuvre plus efficacement les règles de concurrence et à garantir le bon fonctionnement du marché intérieur

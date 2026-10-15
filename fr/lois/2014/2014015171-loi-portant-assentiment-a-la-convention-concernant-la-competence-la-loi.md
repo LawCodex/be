@@ -12,7 +12,7 @@ entry_into_force: 2014-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/05/2014015171/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2014. - Loi portant assentiment à la Convention concernant la compétence, la loi applicable, la reconnaissance, l'exécution et la coopération en matière de responsabilité parentale et de mesures de protection des enfants, faite à La Haye le 19 octobre 1996

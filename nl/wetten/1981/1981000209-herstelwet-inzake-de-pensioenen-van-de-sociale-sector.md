@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1981/02/10/1981000209/justel"
 department: "Sociale Voorzorg"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2005 en tekstbijwerking tot 16-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 1981. - Herstelwet inzake de pensioenen van de sociale sector.

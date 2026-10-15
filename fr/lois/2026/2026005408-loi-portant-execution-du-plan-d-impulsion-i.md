@@ -12,7 +12,7 @@ entry_into_force: 2026-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/15/2026005408/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2026. - Loi portant exécution du plan d'impulsion I

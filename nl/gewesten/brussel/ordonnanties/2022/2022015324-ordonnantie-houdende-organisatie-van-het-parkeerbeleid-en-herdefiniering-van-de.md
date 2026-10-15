@@ -11,7 +11,7 @@ date: 2022-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/07/06/2022015324/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2022. - Ordonnantie houdende organisatie van het parkeerbeleid en herdefiniëring van de opdrachten en beheerswijze van het Parkeeragentschap van het Brussels Hoofdstedelijk Gewest

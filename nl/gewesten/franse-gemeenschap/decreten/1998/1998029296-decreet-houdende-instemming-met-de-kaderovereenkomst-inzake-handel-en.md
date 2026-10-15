@@ -13,7 +13,7 @@ entry_into_force: 1998-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/04/06/1998029296/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1998. - Decreet houdende instemming met de kaderovereenkomst inzake handel en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds, en Bijlage, gedaan te Luxemburg op 28 oktober 1996 (VERTALING).

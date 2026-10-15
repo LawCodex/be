@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/30/2023031025/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2023. - Decreet tot wijziging van het decreet van 12 januari 2017 betreffende de administratieve samenwerking op het gebied van de belastingen, met het oog op de omzetting van de Europese Richtlijn 2021/514/EU van de Raad van 22 maart 2021 tot wijziging van Richtlijn 2011/16/EU betreffende de administratieve samenwerking op het gebied van de belastingen.

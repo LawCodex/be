@@ -12,7 +12,7 @@ entry_into_force: 2013-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/05/23/2013009287/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2013. - Loi modifiant l'article 2244 du Code civil pour attribuer un effet interruptif de la prescription à la lettre de mise en demeure de l'avocat, de l'huissier de justice ou de la personne pouvant ester en justice en vertu de l'article 728, § 3, du Code judiciaire

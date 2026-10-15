@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/19/2026001113/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 12-02-2026 en tekstbijwerking tot 30-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2025. - Decreet houdende de algemene uitgavenbegroting van het Waalse Gewest voor het begrotingsjaar 2026

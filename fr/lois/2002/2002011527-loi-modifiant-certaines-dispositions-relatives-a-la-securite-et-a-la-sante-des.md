@@ -12,7 +12,7 @@ entry_into_force: 2003-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/18/2002011527/justel"
 department: "Economie, PME, Classes moyennes et Energie - Protection des consommateurs"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2002. - Loi modifiant certaines dispositions relatives à la sécurité et à la santé des utilisateurs.

@@ -13,7 +13,7 @@ entry_into_force: 2018-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/21/2018203378/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2018. - Decreet tot wijziging van artikel 43 van het decreet van 30 april 2009 betreffende de informatie, de coördinatie en de organisatie van de werven onder, op of boven de wegen of waterlopen

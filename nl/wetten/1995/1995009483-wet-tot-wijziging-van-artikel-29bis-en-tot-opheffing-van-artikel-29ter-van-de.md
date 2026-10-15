@@ -12,7 +12,7 @@ entry_into_force: 1995-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/13/1995009483/justel"
 department: "Justitie - Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 1995. - Wet tot wijziging van artikel 29bis en tot opheffing van artikel 29ter van de wet van 21 november 1989 betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen.

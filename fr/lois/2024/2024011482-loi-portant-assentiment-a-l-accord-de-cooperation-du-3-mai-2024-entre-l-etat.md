@@ -12,7 +12,7 @@ entry_into_force: 2025-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/12/20/2024011482/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2024. - Loi portant assentiment à l'accord de coopération du 3 mai 2024 entre l'Etat fédéral, la Communauté flamande, la Communauté française et la Communauté germanophone relatif à l'exécution coordonnée partielle du règlement (UE) 2022/2065 du Parlement européen et du Conseil du 19 octobre 2022 relatif à un marché unique des services numériques et modifiant la directive 2000/31/CE

@@ -13,7 +13,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/10/21/2005102150/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OCTOBRE 2005. - Décret modifiant le décret de la Commission communautaire française du 18 juillet 1996 organisant l'agrément des institutions pratiquant la médiation de dettes.

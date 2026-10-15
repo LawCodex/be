@@ -12,7 +12,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/18/2015011517/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - Loi modifiant, en ce qui concerne l'Institut des comptes nationaux, la loi du 21 décembre 1994 portant des dispositions sociales et diverses

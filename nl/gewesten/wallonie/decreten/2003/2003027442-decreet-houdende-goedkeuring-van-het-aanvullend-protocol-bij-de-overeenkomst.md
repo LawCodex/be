@@ -13,7 +13,7 @@ entry_into_force: 2003-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/06/06/2003027442/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2003. - Decreet houdende goedkeuring van het Aanvullend Protocol bij de Overeenkomst van de Verenigde Naties ter bestrijding van de transnationale georganiseerde misdaad met het oog op het voorkomen, onderdrukken en bestraffen van de mensenhandel en in het bijzonder de handel in vrouwen en kinderen, gedaan te New York, op 27 november 2000 (VERTALING).

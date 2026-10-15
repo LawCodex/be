@@ -13,7 +13,7 @@ entry_into_force: 2008-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/23/2008202798/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2008. - Decreet betreffende een inhaalbeweging in sportinfrastructuur via alternatieve financiering.

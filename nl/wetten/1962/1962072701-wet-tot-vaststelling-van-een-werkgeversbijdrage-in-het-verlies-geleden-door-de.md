@@ -11,7 +11,7 @@ published: 1962-07-31
 entry_into_force: 1962-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1962/07/27/1962072701/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JULI 1962. - Wet tot vaststelling van een werkgeversbijdrage in het verlies geleden door de Nationale Maatschappij der Belgische Spoorwegen ingevolge de uitgifte van abonnementen voor werklieden en bedienden.

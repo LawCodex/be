@@ -13,7 +13,7 @@ entry_into_force: 2021-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/04/02/2021020757/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2021. - Ordonnance portant assentiment à l'accord de coopération du 12 mars 2021 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune, la Région wallonne et la Commission communautaire française concernant le traitement de données relatives aux vaccinations contre la COVID-19

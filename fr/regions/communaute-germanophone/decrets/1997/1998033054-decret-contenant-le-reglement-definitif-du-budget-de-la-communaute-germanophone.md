@@ -13,7 +13,7 @@ entry_into_force: 1998-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/18/1998033054/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 1997. - Décret contenant le règlement définitif du budget de la Communauté germanophone pour l'année budgétaire 1996 (TRADUCTION).

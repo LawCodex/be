@@ -13,7 +13,7 @@ entry_into_force: 2015-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/07/29/2015031508/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUILLET 2015. - Ordonnance portant assentiment à l'accord entre l'Union européenne et ses Etats membres, d'une part, et l'Islande, d'autre part, concernant la participation de l'Islande à l'exécution conjointe des engagements de l'Union européenne, de ses Etats membres et de l'Islande au cours de la deuxième période d'engagement du Protocole de Kyoto à la Convention-cadre des Nations Unies sur les changements climatiques

@@ -12,7 +12,7 @@ published: 2013-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/19/2013204690/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2013. - Decreet tot wijziging van het decreet van 20 december 1996 tot regeling van het recht op minimumlevering van elektriciteit, gas en water en tot wijziging van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending, wat de minimumlevering van water betreft en de bescherming van abonnees tegen afsluiting van de drinkwatertoevoer

@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/06/23/2025007044/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2025. - Decreet tot eerste wijziging van het decreet van 12 december 2024 houdende de begroting van de ontvangsten en de algemene begroting van de uitgaven van de Duitstalige Gemeenschap voor het begrotingsjaar 2025

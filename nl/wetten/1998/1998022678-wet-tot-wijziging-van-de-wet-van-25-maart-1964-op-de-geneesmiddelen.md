@@ -10,7 +10,7 @@ date: 1998-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/10/20/1998022678/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 OKTOBER 1998. - Wet tot wijziging van de wet van 25 maart 1964 op de geneesmiddelen.

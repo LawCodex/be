@@ -12,7 +12,7 @@ entry_into_force: 2016-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/06/27/2016022278/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2016. - Loi modifiant la loi du 5 août 1978 de réformes économiques et budgétaires en ce qui concerne la mise à la retraite d'office après des jours d'absence pour cause de maladie

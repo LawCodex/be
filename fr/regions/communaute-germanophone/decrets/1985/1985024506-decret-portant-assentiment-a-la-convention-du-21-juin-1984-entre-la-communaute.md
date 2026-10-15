@@ -13,7 +13,7 @@ entry_into_force: 1985-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1985/06/26/1985024506/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 1985. - Décret portant assentiment à la convention du 21 juin 1984 entre la Communauté française et la Communauté germanophone &lt;Traduction&gt;.

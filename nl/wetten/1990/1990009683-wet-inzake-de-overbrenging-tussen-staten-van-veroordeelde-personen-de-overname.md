@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/05/23/1990009683/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 10-06-2005 en tekstbijwerking tot 16-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 1990. - [Wet inzake de overbrenging tussen Staten van veroordeelde personen, de overname en de overdracht van het toezicht op voorwaardelijk veroordeelde of voorwaardelijk in vrijheid gestelde personen, en de overname en de overdracht van de tenuitvoerlegging van vrijheidsbenemende straffen en maatregelen.] &lt;Opschrift vervangen door W 2005-05-26/33 , art. 2, 002; Inwerkingtreding : 10-06-2005&gt;

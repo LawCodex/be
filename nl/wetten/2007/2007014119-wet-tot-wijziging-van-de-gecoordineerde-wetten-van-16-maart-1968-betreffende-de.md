@@ -12,7 +12,7 @@ entry_into_force: 2007-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/20/2007014119/justel"
 department: "Justitie - Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2007. - Wet tot wijziging van de gecoördineerde wetten van 16 maart 1968 betreffende de politie over het wegverkeer en van de wet van 22 februari 1965 waarbij aan de gemeenten wordt toegestaan parkeergeld op motorrijtuigen in te voeren.

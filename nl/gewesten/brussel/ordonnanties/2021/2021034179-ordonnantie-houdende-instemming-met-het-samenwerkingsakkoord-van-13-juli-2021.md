@@ -13,7 +13,7 @@ entry_into_force: 2021-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/12/02/2021034179/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2021. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 13 juli 2021 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest, betreffende de coördinatie van het beleid inzake grensoverschrijdende overbrenging van afvalstoffen

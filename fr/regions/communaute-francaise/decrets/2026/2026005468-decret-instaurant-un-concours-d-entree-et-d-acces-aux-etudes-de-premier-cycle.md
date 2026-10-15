@@ -13,7 +13,7 @@ entry_into_force: 2026-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/09/2026005468/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2026. - Décret instaurant un concours d'entrée et d'accès aux études de premier cycle en sciences vétérinaires et abrogeant le décret du 13 juillet 2016 relatif aux études de sciences vétérinaires

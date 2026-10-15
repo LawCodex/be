@@ -13,7 +13,7 @@ entry_into_force: 2017-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/07/27/2017040673/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JULI 2017. - Ordonnantie tot wijziging van de Nieuwe Gemeentewet teneinde de bevoegdheidsregels inzake gemeentelijke overheidsopdrachten te verduidelijken

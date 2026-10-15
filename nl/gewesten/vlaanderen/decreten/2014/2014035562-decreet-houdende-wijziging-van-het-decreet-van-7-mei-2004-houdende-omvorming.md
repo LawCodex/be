@@ -12,7 +12,7 @@ published: 2014-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/25/2014035562/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Decreet houdende wijziging van het decreet van 7 mei 2004 houdende omvorming van de v.z.w. "de Rand" tot een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap en houdende vaststelling van de bevoegdheden van de provincie Vlaams-Brabant inzake de ondersteuning van de Vlaamse Rand

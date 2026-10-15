@@ -12,7 +12,7 @@ entry_into_force: 1996-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/04/15/1996003299/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 APRIL 1996. - Wet betreffende de deelneming van België aan de achtste verhoging der werkmiddelen van de Interamerikaanse Ontwikkelingsbank.

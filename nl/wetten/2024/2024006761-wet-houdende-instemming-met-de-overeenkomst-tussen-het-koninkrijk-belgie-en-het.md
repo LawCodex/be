@@ -12,7 +12,7 @@ entry_into_force: 2024-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/06/11/2024006761/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2024. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het personeel van de diplomatieke missies en consulaire posten, gedaan te Brussel op 10 november 2023

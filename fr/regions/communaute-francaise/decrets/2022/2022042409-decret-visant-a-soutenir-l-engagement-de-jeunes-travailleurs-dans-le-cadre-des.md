@@ -13,7 +13,7 @@ entry_into_force: 2022-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/10/13/2022042409/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OCTOBRE 2022. - Décret visant à soutenir l'engagement de jeunes travailleurs dans le cadre des politiques culturelles

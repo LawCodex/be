@@ -12,7 +12,7 @@ entry_into_force: 1989-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1988/09/26/1989015025/justel"
 department: "Buitenlandse Zaken - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 SEPTEMBER 1988. - Wet houdende goedkeuring van het Verdrag van Wenen ter bescherming van de ozonlaag, en van de Bijlagen I en II, opgemaakt te Wenen op 22 maart 1985.

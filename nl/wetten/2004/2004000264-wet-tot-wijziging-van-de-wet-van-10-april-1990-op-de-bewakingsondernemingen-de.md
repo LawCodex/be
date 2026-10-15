@@ -12,7 +12,7 @@ entry_into_force: 2004-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/05/07/2004000264/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Wet tot wijziging van de wet van 10 april 1990 op de bewakingsondernemingen, de beveiligingsondernemingen en de interne bewakingsdiensten, de wet van 29 juli 1934 waarbij private milities verboden worden en de wet van 19 juli 1991 tot regeling van het beroep van privé-detective.

@@ -12,7 +12,7 @@ entry_into_force: 2012-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/08/03/2012021127/justel"
 department: "Wetenschapsbeleid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AUGUSTUS 2012. - Wet tot wijziging van de gecoördineerde wetten van 31 december 1949 op het toekennen van de academische graden en het programma van de unversitaire examens en van de wet van 7 juli 1970 betreffende de algemene structuur van het hoger onderwijs

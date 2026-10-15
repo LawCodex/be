@@ -12,7 +12,7 @@ published: 2021-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/02/26/2021040874/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2021. - Décret modifiant le décret du 8 mars 2013 relatif à l'organisation de la prestation d'aide et de services au profit des détenus, en ce qui concerne les dispositions relatives au traitement de données et à l'échange d'informations

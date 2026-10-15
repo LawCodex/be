@@ -14,7 +14,7 @@ last_amended: 2008-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/04/04/1990040450/justel"
 justel_note: "Consultation des versions antérieures à partir du 29-12-1990 et mise à jour au 15-04-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 1990. - Décrets relatifs à l'assistance spéciale à la jeunesse, coordonnés le 4 avril 1990.

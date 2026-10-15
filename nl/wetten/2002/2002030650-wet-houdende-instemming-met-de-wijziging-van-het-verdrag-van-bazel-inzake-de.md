@@ -11,7 +11,7 @@ published: 2003-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/03/06/2002030650/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2002. - Wet houdende instemming met de wijziging van het Verdrag van Bazel inzake de beheersing van de grensoverschrijdende overbrenging van gevaarlijke afvalstoffen en de verwijdering ervan, aangenomen op de derde vergadering van de Conferentie der Partijen, gehouden te Genève op 22 september 1995.

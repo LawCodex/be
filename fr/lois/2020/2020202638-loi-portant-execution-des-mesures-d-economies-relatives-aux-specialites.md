@@ -12,7 +12,7 @@ entry_into_force: 2020-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/04/2020202638/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2020. - Loi portant exécution des mesures d'économies relatives aux spécialités pharmaceutiques dans le cadre du budget soins de santé 2020

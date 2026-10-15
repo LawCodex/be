@@ -13,7 +13,7 @@ entry_into_force: 2022-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/16/2024009940/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2022. - Decreet tot aanpassing van de middelenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 2022

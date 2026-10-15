@@ -12,7 +12,7 @@ entry_into_force: 1995-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/06/2002015019/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 1994. - Loi portant assentiment au Protocole d'adhésion de la République hellénique à l'Union de l'Europe occidentale, et Annexe, faits à Rome le 20 novembre 1992.

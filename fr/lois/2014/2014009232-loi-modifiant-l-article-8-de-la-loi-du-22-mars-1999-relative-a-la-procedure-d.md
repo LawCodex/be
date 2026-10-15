@@ -12,7 +12,7 @@ entry_into_force: 2014-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/10/2014009232/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2014. - Loi modifiant l'article 8 de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en vue de faciliter l'échange international de données ADN

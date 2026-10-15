@@ -13,7 +13,7 @@ entry_into_force: 2001-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/13/2001035895/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2001. - Décret modifiant le décret du 8 juin 2000 portant des mesures urgentes relatives à la fonction d'enseignant (TRADUCTION).

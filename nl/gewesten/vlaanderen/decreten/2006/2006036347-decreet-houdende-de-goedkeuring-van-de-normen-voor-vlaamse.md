@@ -11,7 +11,7 @@ date: 2006-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/07/07/2006036347/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2006. - Decreet houdende de goedkeuring van de normen voor Vlaamse overheidscommunicatie en houdende wijziging van het decreet van 19 juli 2002 houdende de controle op de communicatie van de Vlaamse overheid.

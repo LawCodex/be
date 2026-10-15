@@ -11,7 +11,7 @@ date: 1994-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/07/13/1994035962/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 1994. - Bijzonder decreet houdende wijziging van het bijzonder decreet van 19 december 1988 betreffende de Autonome Raad voor het Gemeenschapsonderwijs.

@@ -13,7 +13,7 @@ entry_into_force: 1999-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/22/1998029443/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1997. - Decreet houdende de tweede aanpassing van de algemene uitgavenbegroting van de Franse Gemeenschap voor het begrotingsjaar 1997 (VERTALING).

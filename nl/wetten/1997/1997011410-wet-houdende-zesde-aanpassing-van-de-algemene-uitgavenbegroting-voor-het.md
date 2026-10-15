@@ -12,7 +12,7 @@ entry_into_force: 1997-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/02/1997011410/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 1997. - Wet houdende zesde aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 1997 - Sectie 32 - Ministerie van Economische Zaken.

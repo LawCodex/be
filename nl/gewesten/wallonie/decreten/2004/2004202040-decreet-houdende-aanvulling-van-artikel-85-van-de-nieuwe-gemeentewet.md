@@ -13,7 +13,7 @@ entry_into_force: 2004-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/27/2004202040/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2004. - Decreet houdende aanvulling van artikel 85 van de nieuwe gemeentewet

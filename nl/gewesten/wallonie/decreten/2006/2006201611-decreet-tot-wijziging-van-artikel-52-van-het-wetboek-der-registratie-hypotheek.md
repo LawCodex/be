@@ -13,7 +13,7 @@ entry_into_force: 2006-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/04/27/2006201611/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2006. - Decreet tot wijziging van artikel 52 van het Wetboek der registratie-, hypotheek- en griffierechten (VERTALING).

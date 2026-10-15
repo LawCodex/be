@@ -11,7 +11,7 @@ published: 1965-06-22
 entry_into_force: 1965-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1965/05/11/1965051103/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 1965. \_ Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en de Italiaanse Republiek, betreffende de toepassing van hun wetgevingen inzake beroepsziekten, ondertekend op 21 februari 1964, te Rome.

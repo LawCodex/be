@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/13/2017032046/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 22-12-2017 et mise à jour au 22-10-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2017. - Décret contenant le budget des recettes de la Région wallonne pour l'année budgétaire 2018

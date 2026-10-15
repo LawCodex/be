@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1988/02/29/1988029320/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 01-09-2011 et mise à jour au 16-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 FEVRIER 1988. - Décret relatif à la formation professionnelle des personnes travaillant dans l'agriculture. &lt;Traduction&gt;

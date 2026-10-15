@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/01/1999021143/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 03-04-1999 en tekstbijwerking tot 01-08-2000"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 1999. - Wet houdende wijziging van de wet van 18 juli 1991 tot regeling van het toezicht op politie- en inlichtingendiensten. (Datum verbeterd door Erratum, B.St. 07-05-1999)

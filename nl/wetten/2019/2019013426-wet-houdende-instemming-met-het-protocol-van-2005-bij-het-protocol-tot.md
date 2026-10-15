@@ -12,7 +12,7 @@ entry_into_force: 2019-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/22/2019013426/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2019. - Wet houdende instemming met het Protocol van 2005 bij het Protocol tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van vaste platforms op het continentaal plat, gedaan te Londen op 14 oktober 2005

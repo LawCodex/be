@@ -11,7 +11,7 @@ published: 1914-08-05
 entry_into_force: 1914-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1914/08/04/1914080450/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AUGUSTUS 1914. - Wet houdende amnistie aan de deserteurs.

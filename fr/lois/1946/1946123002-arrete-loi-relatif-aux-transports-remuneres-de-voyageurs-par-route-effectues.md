@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1946/12/30/1946123002/justel"
 justel_notes:
   - "art. 2 modifié avec effet à une date indéterminée pour le Région de Bruxelles-Capitale par ORD 2008-03-06/36 , art. 2, 004; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 08-12-1989 et mise à jour au 28-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 1946. - [Arrêté-loi relatif aux transports rémunérés de voyageurs par route effectués par autobus et par autocars.] &lt;L 29-06-1984, art. 1er&gt;

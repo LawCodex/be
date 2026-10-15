@@ -12,7 +12,7 @@ entry_into_force: 2019-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/02/27/2019011300/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2019. - Wet tot wijziging van de wet van 16 juni 1998 waarbij sommige militairen die slachtoffer zijn van lichamelijke schade overkomen tijdens een actie buiten het nationale grondgebied gelijkgesteld worden met oorlogsinvaliden

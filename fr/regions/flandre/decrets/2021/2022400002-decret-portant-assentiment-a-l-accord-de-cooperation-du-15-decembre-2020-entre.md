@@ -13,7 +13,7 @@ entry_into_force: 2022-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/23/2022400002/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2021. - Décret portant assentiment à l'accord de coopération du 15 décembre 2020 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale modifiant l'accord de coopération du 2 septembre 2013 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'intégration des activités aériennes dans le système d'échange de quotas d'émission de gaz à effet de serre dans la Communauté conformément à la Directive 2008/101/CE du Parlement européen et du Conseil du 19 novembre 2008 modifiant la Directive 2003/87/CE afin d'intégrer les activités aériennes dans le système d'échange de quotas d'émission de gaz à effet de serre dans la Communauté

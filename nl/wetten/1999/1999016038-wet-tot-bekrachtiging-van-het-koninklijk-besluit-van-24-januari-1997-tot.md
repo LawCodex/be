@@ -12,7 +12,7 @@ entry_into_force: 1999-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/21/1999016038/justel"
 department: "Middenstand - Landbouw"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JANUARI 1999. - Wet tot bekrachtiging van het koninklijk besluit van 24 januari 1997 tot wijziging van de wet van 8 november 1993 tot bescherming van de titel van psycholoog teneinde uitvoering te geven aan de Richtlijn 89/48/EEG van de Raad van 21 december 1988 betreffende een algemeen stelsel van erkenning van hoger onderwijsdiploma's waarmee beroepsopleidingen van ten minste drie jaar worden afgesloten.

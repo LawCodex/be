@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/07/05/1998011215/justel"
 department: "Economische Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 31-07-1998 en tekstbijwerking tot 19-06-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1998. - Wet betreffende de collectieve schuldenregeling en de mogelijkheid van verkoop uit de hand van de in beslag genomen onroerende goederen.

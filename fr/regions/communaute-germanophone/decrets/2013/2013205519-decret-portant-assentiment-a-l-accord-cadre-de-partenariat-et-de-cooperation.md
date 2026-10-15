@@ -13,7 +13,7 @@ entry_into_force: 2013-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/09/23/2013205519/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBRE 2013. - Décret portant assentiment à l'Accord-cadre de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la République des Philippines, d'autre part, fait à Phnom Penh le 11 juillet 2012

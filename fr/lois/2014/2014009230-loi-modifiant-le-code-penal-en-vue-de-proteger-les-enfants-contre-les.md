@@ -12,7 +12,7 @@ entry_into_force: 2014-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/10/2014009230/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2014. - Loi modifiant le Code pénal en vue de protéger les enfants contre les cyberprédateurs

@@ -13,7 +13,7 @@ entry_into_force: 2009-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/02/19/2009029198/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2009. - Décret relatif aux membres du personnel administratif des Ecoles supérieures des Arts et des Instituts supérieurs d'Architecture organisés ou subventionnés par la Communauté française

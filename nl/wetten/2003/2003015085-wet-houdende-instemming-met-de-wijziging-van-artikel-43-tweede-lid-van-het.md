@@ -12,7 +12,7 @@ entry_into_force: 2004-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/11/2003015085/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2003. - Wet houdende instemming met de Wijziging van artikel 43, tweede lid, van het Verdrag inzake de rechten van het kind, aangenomen op de Conferentie van de Staten die Partij zijn bij het Verdrag op 12 december 1995.

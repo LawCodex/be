@@ -11,7 +11,7 @@ published: 1999-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/04/1999000423/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 1999. - Wet tot verbetering van het stelsel van politiek verlof voor provincie- en gemeenteraadsleden, leden van de raad voor maatschappelijk welzijn, burgemeesters, schepenen en voorzitters van de raad voor maatschappelijk welzijn in de openbare en de particuliere sector.

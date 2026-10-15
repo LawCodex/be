@@ -12,7 +12,7 @@ entry_into_force: 2016-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/06/12/2016011269/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2016. - Loi modifiant la loi du 31 janvier 2003 sur la sortie progressive de l'énergie nucléaire à des fins de production industrielle d'électricité, en vue de la fixation de la redevance annuelle due pour la prolongation des centrales nucléaires Doel 1 et Doel 2

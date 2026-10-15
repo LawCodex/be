@@ -13,7 +13,7 @@ entry_into_force: 2021-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/03/11/2021030637/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2021. - Ordonnantie houdende instemming met het samenwerkingsakkoord tussen het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschapscommissie betreffende diensten inzake begroting, financiën, boekhouding en controle

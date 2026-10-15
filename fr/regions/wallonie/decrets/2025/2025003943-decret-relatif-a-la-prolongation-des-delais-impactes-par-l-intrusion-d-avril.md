@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/05/15/2025003943/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 22-05-2025 et mise à jour au 19-06-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2025. - Décret relatif à la prolongation des délais impactés par l'intrusion d'avril 2025 dans le système informatique des services du Gouvernement wallon pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française

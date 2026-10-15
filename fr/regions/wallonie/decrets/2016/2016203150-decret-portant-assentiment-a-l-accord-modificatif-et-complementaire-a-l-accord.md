@@ -13,7 +13,7 @@ entry_into_force: 2016-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/09/2016203150/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 2016. - Décret portant assentiment à l'Accord modificatif et complémentaire à l'Accord signé à Bruxelles le 12 mai 1967 entre le Royaume de Belgique et le Quartier général suprême des Forces alliées en Europe concernant les conditions particulières d'installation et de fonctionnement de ce quartier général sur le territoire du Royaume de Belgique, fait à Bruxelles le 10 septembre 2013

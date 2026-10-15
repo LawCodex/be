@@ -13,7 +13,7 @@ entry_into_force: 2013-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/03/29/2013035386/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2013. - Décret portant modification de divers décrets relatifs au contrôle de la qualité du logement

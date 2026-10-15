@@ -17,7 +17,7 @@ justel_notes:
   - "verschillende art. gewijzigd door W 2007-02-28/35 , art. 225 tot 228, 011; Inwerkingtreding : 31-12-2013 (voir art. 272)"
   - "Artikel 225 tot artikel 228 van de W 28/02/2007 dat oorspronkelijk in wijzigingen van de W 20/05/1994 voorzag is, voor zijn inwerkingtreding, vervangen door de artikelen 314 tot 326 van de wet van 31 juli 2013 ( 2013-07-31/04 ) tot wijziging van de wet van 28 februari 2007 tot vaststelling van het statuut van de militairen van het actief kader van de Krijgsmacht en tot wijziging van sommige bepalingen betreffende het statuut van het militair personeel. Deze artikelen vervangen de oorspronkelijke artikelen 225 tot 228 van de W 28/02/2007 door een nieuwe bepaling die de artikelen 1, 3, 4, 5, 9bis, 10, 10bis, 10ter, 11, 13ter, 13quater en 14 van de Wet 20/05/1994 wijzigt. Hiermee heeft de wetgever te kennen gegeven dat hij afstand doet van zijn oorspronkelijke wijzigingen. Met andere woorden zullen de artikelen 225 tot 228 van de W 28/02/2007, zoals deze voor zijn vervanging door de W 31/07/2013 bestond, nooit in werking treden"
   - "Raadpleging van vroegere versies vanaf 15-08-1997 en tekstbijwerking tot 29-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 1994. - Wet houdende de geldelijke rechten van de militairen.

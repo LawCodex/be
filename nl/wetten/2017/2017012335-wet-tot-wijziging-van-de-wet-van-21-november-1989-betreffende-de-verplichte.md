@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/05/31/2017012335/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 12-06-2017 en tekstbijwerking tot 22-05-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2017. - Wet tot wijziging van de wet van 21 november 1989 betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen

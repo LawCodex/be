@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/02/04/2021020568/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 26-03-2021 en tekstbijwerking tot 16-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2021. - Decreet betreffende audiovisuele mediadiensten en videoplatformdiensten

@@ -12,7 +12,7 @@ entry_into_force: 2001-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/11/29/2001009985/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2001. - Loi modifiant l'article 211 du Code judiciaire et la loi du 3 avril 1953 d'organisation judiciaire, en ce qui concerne le cadre des conseillers suppléants.

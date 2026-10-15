@@ -13,7 +13,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/21/1995035128/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 1994. - Decreet houdende de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 1995.

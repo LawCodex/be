@@ -12,7 +12,7 @@ entry_into_force: 2005-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/05/02/2005015074/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2005. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Lituanie relatif à la coopération policière, signé à Vilnius le 19 novembre 2003.

@@ -13,7 +13,7 @@ entry_into_force: 2015-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/11/24/2014207477/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2014. - Decreet houdende instemming met het Protocol tussen het Koninkrijk België en de Tsjechische Republiek bij de Overeenkomst tussen het Koninkrijk België en de Tsjechische Republiek tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, gedaan te Brussel op 15 maart 2010

@@ -12,7 +12,7 @@ entry_into_force: 2003-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/26/2003009538/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 2003. - Loi réglant la représentation des Chambres législatives fédérales dans les actes judiciaires et extrajudiciaires. (Ce texte a été remplacé par un erratum publié au M.B. 21.10.2003, p. 50904-50905)

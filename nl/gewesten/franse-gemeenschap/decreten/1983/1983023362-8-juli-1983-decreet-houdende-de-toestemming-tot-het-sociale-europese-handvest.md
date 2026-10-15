@@ -13,7 +13,7 @@ entry_into_force: 1983-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1983/07/08/1983023362/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 1983. \_ Decreet houdende de toestemming tot het Sociale Europese Handvest, gedaan te Turijn op 18 oktober 1961.

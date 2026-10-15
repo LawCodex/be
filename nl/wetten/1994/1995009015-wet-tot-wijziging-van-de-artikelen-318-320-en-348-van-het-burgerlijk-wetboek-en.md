@@ -12,7 +12,7 @@ entry_into_force: 1995-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/12/27/1995009015/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 1994. - Wet tot wijziging van de artikelen 318, 320 en 348 van het Burgerlijk Wetboek en van de artikelen 1306, 1309 en 1310 van het Gerechtelijk Wetboek.

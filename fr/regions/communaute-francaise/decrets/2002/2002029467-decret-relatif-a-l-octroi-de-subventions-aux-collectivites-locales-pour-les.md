@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/17/2002029467/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 24-09-2002 et mise à jour au 12-02-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2002. - Décret relatif à l'octroi de subventions aux collectivités locales pour les projets d'infrastructures culturelles

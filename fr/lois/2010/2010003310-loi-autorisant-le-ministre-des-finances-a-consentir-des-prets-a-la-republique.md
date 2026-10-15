@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/05/12/2010003310/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 25-05-2010 et mise à jour au 31-12-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2010. - Loi autorisant le Ministre des Finances à consentir des prêts à la République hellénique

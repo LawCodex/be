@@ -12,7 +12,7 @@ entry_into_force: 1999-11-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/06/1999015151/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 1996. - Loi portant assentiment à la Constitution et la Convention de l'Union internationale des Télécommunications, et le Protocole facultatif concernant le règlement obligatoire des différends, faits à Genève le 22 décembre 1992.

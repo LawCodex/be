@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/01/12/1993022029/justel"
 department: "Volksgezondheid en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2018 en tekstbijwerking tot 31-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 1993. - Wet betreffende een vorderingsrecht inzake bescherming van het leefmilieu

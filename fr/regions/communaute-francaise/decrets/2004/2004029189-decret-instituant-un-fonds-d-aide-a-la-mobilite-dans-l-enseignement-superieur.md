@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/19/2004029189/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 16-06-2004 et mise à jour au 20-03-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2004. - Décret instituant un Fonds d'aide à la mobilité [dans] l'enseignement supérieur. &lt;DCFR 2023-01-12/14 , art. 1, 007; En vigueur : 14-09-2022&gt;

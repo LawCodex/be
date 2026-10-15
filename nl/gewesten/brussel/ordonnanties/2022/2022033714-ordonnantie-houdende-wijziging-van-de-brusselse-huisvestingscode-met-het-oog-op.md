@@ -13,7 +13,7 @@ entry_into_force: 2022-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/10/13/2022033714/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OKTOBER 2022. - Ordonnantie houdende wijziging van de Brusselse Huisvestingscode met het oog op de wijziging van de huurprijsindexering

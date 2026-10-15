@@ -13,7 +13,7 @@ entry_into_force: 2017-09-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/07/27/2017040703/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUILLET 2017. - Ordonnance portant assentiment à : la Convention n° 130 concernant les soins médicaux et les indemnités de maladie, et l'Annexe, adoptées à Genève le 25 juin 1969

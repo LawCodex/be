@@ -11,7 +11,7 @@ published: 2014-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/11/22/2014015004/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2013. - Wet houdende instemming met de Wijzigingen van het Statuut van Rome van het Internationaal Strafhof betreffende de misdaad van agressie, aangenomen te Kampala op 11 juni 2010 tijdens de Herzieningsconferentie van het Statuut van Rome

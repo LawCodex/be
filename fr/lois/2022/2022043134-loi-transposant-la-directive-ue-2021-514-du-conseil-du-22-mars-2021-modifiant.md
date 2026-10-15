@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/21/2022043134/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2022. - Loi transposant la directive (UE) 2021/514 du Conseil du 22 mars 2021 modifiant la directive 2011/16 (UE) relative à la coopération administrative dans le domaine fiscal

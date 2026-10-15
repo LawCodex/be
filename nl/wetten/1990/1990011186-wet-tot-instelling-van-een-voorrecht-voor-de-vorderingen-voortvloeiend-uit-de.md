@@ -12,7 +12,7 @@ entry_into_force: 1990-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/06/12/1990011186/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 1990. - Wet tot instelling van een voorrecht voor de vorderingen voortvloeiend uit de heffingen op de produktie van kolen en staal.

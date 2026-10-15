@@ -11,7 +11,7 @@ published: 1976-09-18
 entry_into_force: 1976-09-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/07/14/1976071406/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1976. - Loi relative aux droits et devoirs respectifs des époux et aux régimes matrimoniaux.

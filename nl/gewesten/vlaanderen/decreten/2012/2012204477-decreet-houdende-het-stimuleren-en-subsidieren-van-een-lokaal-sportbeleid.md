@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/06/2012204477/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 16-08-2012 en tekstbijwerking tot 29-12-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2012. - Decreet houdende het stimuleren en subsidiëren van een lokaal sportbeleid

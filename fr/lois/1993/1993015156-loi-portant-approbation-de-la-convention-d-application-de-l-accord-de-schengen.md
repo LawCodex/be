@@ -12,7 +12,7 @@ entry_into_force: 1993-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/03/18/1993015156/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 1993. - Loi portant approbation de la Convention d'application de l'Accord de Schengen du 14 juin 1985 entre les Gouvernements des Etats de l'Union Economique Benelux, de la République fédérale d'Allemagne et de la République française, relatif à la suppression graduelle des contrôles aux frontières communes, de l'Acte final, du Procès-verbal et de la Déclaration commune, signés à Schengen le 19 juin 1990.

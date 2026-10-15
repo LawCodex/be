@@ -12,7 +12,7 @@ entry_into_force: 2018-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/18/2018011418/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 2018. - Loi portant modification de la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges et du Code judiciaire en matière d'élections sociales pour certains organes de dialogue social des Chemins de fer belges

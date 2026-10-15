@@ -12,7 +12,7 @@ entry_into_force: 2023-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/03/28/2023030921/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2023. - Wet houdende diverse wijzigingen inzake verkiezingen

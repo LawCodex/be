@@ -13,7 +13,7 @@ entry_into_force: 2013-11-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/02/08/2013031858/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 2013. - Décret instituant une centralisation financière de la trésorerie de la Commission communautaire française et de l'Institut bruxellois francophone pour la Formation professionnelle

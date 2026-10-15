@@ -13,7 +13,7 @@ entry_into_force: 2009-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/26/2009029290/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2009. - Decreet tot oprichting van de interzonale rangschikking voor de kinderverzorgers

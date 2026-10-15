@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/10/29/2015205078/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 22-10-2018 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OCTOBRE 2015. - Décret portant création de fonds budgétaires en matière de routes et de voies hydrauliques

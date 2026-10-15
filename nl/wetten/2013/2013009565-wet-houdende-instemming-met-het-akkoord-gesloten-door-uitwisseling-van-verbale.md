@@ -12,7 +12,7 @@ entry_into_force: 2013-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/21/2013009565/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2013. - Wet houdende instemming met het Akkoord, gesloten door uitwisseling van verbale nota's gedateerd op 16 oktober 2013 en op 7 november 2013 tot verlenging van het verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden over de terbeschikkingstelling van een penitentiaire inrichting in Nederland ten behoeve van de tenuitvoerlegging van bij Belgische veroordelingen opgelegde vrijheidsstraffen, gedaan te Tilburg (Nederland) op 31 oktober 2009

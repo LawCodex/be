@@ -12,7 +12,7 @@ entry_into_force: 1994-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/23/1994003746/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1994. - Loi modifiant l'arrêté-loi du 18 mai 1945 portant création d'un Fonds des rentes.

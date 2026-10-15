@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/06/28/2013203870/justel"
 department: "Kanselarij van de Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 01-07-2013 en tekstbijwerking tot 30-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2013. - Programmawet

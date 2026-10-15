@@ -13,7 +13,7 @@ entry_into_force: 2023-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/12/15/2022043035/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2022. - Ordonnance modifiant la Nouvelle loi communale en ce qui concerne les empêchements ou l'absence des mandataires exécutifs locaux

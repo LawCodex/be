@@ -12,7 +12,7 @@ entry_into_force: 2002-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/06/26/2002014215/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2002. - Wet houdende wijziging van artikel 3bis van de wet van 3 november 1967 betreffende het loodsen van zeevaartuigen, zoals gewijzigd bij de wet van 30 augustus 1988.

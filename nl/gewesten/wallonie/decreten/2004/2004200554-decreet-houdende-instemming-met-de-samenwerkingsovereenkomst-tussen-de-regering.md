@@ -13,7 +13,7 @@ entry_into_force: 2004-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/01/29/2004200554/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2004. - Decreet houdende instemming met de Samenwerkingsovereenkomst tussen de Regering van de Democratische Volksrepubliek Algerije, de Franse Gemeenschap van België, het Waalse Gewest en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest, gesloten te Algiers op 14 april 2003 (VERTALING).

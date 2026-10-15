@@ -13,7 +13,7 @@ entry_into_force: 2015-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/03/27/2015031151/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Ordonnantie tot wijziging van de ordonnantie van 5 juni 1997 betreffende de milieuvergunningen

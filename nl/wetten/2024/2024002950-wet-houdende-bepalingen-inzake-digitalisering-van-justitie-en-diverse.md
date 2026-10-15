@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/03/28/2024002950/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 29-03-2024 en tekstbijwerking tot 28-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2024. - Wet houdende bepalingen inzake digitalisering van justitie en diverse bepalingen Ibis

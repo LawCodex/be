@@ -12,7 +12,7 @@ entry_into_force: 2006-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/08/05/2006009658/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 AOUT 2006. - Loi modifiant la loi du 16 juillet 1970 déterminant le cadre du personnel des tribunaux de police, la loi du 13 juin 2006 modifiant la législation relative à la protection de la jeunesse et à la prise en charge des mineurs ayant commis un fait qualifié infraction et la loi du 17 mai 2006 instaurant des tribunaux de l'application des peines.

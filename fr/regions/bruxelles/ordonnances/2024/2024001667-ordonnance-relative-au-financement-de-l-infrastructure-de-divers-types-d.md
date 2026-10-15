@@ -13,7 +13,7 @@ entry_into_force: 2024-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/02/22/2024001667/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 2024. - Ordonnance relative au financement de l'infrastructure de divers types d'institutions relevant de la politique de l'Aide aux personnes et de la Santé

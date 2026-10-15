@@ -13,7 +13,7 @@ entry_into_force: 2007-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/01/25/2007200821/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2007. - Decreet tot wijziging van het decreet van 19 juli 2001 tot bekrachtiging van de opleidingsprofielen van mannelijk of vrouwelijk technicus landbouwkunde, mannelijk of vrouwelijk technisch beambte natuur en bossen, geschoold werkman/werkvrouw landbouwkunde, mannelijk of vrouwelijk technicus auto-industrie, [...], mannelijk of vrouwelijk automonteur, mannelijk of vrouwelijk metaalbewerker-lasser, mannelijk of vrouwelijk bakker-banketbakker, verkoper-retoucheur/verkoopster-retoucheuse, mannelijk of vrouwelijk beambte onthaal en toerisme, mannelijk of vrouwelijk commercieel medewerker, verkoper/verkoopster, opvoeder/opvoedster en animator/animatrice vastgelegd overeenkomstig artikel 6 van het decreet van 27 oktober 1994 tot regeling van het overleg in het secundair onderwijs (VERTALING).

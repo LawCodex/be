@@ -12,7 +12,7 @@ entry_into_force: 1998-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/02/28/1997015213/justel"
 department: "Affaires économiques - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 1993. - Loi portant approbation de la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République fédérale du Nigéria tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur les gains en capital, signée à Bruxelles le 20 novembre 1989.

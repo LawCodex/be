@@ -13,7 +13,7 @@ last_amended: 2024-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1936/05/05/1936050551/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 27-11-1997 en tekstbijwerking tot 10-10-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1936. - Wet op de [binnenbevrachting]. (W 1997-10-21/30, art. 2, 002; Inwerkingtreding : 07-12-1997)

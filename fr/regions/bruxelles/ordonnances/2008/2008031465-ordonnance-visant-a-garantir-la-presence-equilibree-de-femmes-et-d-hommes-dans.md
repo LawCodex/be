@@ -12,7 +12,7 @@ published: 2008-09-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/09/04/2008031465/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBRE 2008. - Ordonnance visant à garantir la présence équilibrée de femmes et d'hommes dans les conseils d'administration des organismes pararégionaux de droit ou d'intérêt public

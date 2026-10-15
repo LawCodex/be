@@ -13,7 +13,7 @@ entry_into_force: 2002-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/27/2002029173/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2002. - Décret portant assentiment à l'Accord de coopération entre le Gouvernement de la Communauté française de Belgique et le Gouvernement de la Région wallonne, d'une part, et le Gouvernement de la République tchèque, d'autre part, fait à Prague le 28 mars 2001.

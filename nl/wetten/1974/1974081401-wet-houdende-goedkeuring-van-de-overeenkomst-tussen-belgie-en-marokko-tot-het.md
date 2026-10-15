@@ -11,7 +11,7 @@ published: 1975-03-08
 entry_into_force: 1975-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1974/08/14/1974081401/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 AUGUSTUS 1974. - Wet houdende goedkeuring van de Overeenkomst tussen België en Marokko tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen, en van het Slotprotocol, ondertekend te Rabat op 4 mei 1972.

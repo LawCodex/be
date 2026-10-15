@@ -13,7 +13,7 @@ entry_into_force: 2024-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/17/2024008251/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2024. - Décret relatif aux objectifs pédagogiques pour le premier degré de l'enseignement secondaire et la septième année d'études préparatoire à l'enseignement supérieur et diverses autres mesures connexes

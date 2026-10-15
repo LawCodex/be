@@ -13,7 +13,7 @@ entry_into_force: 1999-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/11/30/1999029275/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 1998. - Décret portant assentiment de l'accord de coopération entre l'Etat fédéral, les Communautés et les Régions relatif à la continuité de la politique en matière de pauvreté.

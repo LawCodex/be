@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/12/27/2012012195/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2012 en tekstbijwerking tot 20-12-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 2012. - Wet tot invoering van de elektronische registratie van aanwezigheden op tijdelijke of mobiele bouwplaatsen

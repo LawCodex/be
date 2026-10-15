@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/12/22/2021030071/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
 justel_note: "Raadpleging van vroegere versies vanaf 18-01-2021 en tekstbijwerking tot 13-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2020. - Wet betreffende medische hulpmiddelen

@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/12/18/2025009749/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2025. - Ordonnance de finances ouvrant des crédits provisoires pour les mois de janvier, de février et de mars 2026 sur le budget de la Commission communautaire commune pour l'année budgétaire 2026

@@ -13,7 +13,7 @@ entry_into_force: 2013-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/01/18/2013035168/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2013. - Decreet tot instemming met het zetelakkoord tussen het Koninkrijk België en de " International Management Group ", ondertekend in Brussel op 13 juni 2012

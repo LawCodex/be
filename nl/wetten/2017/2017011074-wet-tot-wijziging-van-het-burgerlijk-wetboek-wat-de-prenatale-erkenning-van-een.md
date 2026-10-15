@@ -12,7 +12,7 @@ entry_into_force: 2017-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/02/20/2017011074/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 2017. - Wet tot wijziging van het Burgerlijk Wetboek wat de prenatale erkenning van een kind door een niet-gehuwde ouder betreft

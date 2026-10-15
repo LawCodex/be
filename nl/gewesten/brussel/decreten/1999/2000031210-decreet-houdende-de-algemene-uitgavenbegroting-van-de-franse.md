@@ -17,7 +17,7 @@ department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
 justel_notes:
   - "zie aanpassing bij DEC 2000-06-23/43."
   - "raadpleging van vroegere versies vanaf 12-07-2000 en summiere tekstbijwerking tot 10-05-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 1999. - Decreet houdende de algemene uitgavenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 2000. (Vertaling).

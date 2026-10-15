@@ -13,7 +13,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/14/2009029088/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2008. - Decreet betreffende het programma voor uitzonderlijke financiering van renovatie, bouw-, verbouwings- of uitbreidingsprojecten voor schoolgebouwen via partnerschappen tussen de openbare en privésectoren (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2025-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/09/25/2025007264/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 SEPTEMBER 2025. - Decreet tot wijziging van het decreet van 23 juni 1994 betreffende de oprichting en uitbating van de onder het Waalse Gewest ressorterende luchthavens en vliegvelden

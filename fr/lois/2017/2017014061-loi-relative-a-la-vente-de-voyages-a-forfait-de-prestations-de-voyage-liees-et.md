@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/11/21/2017014061/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 01-12-2017 et mise à jour au 31-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2017. - Loi relative à la vente de voyages à forfait, de prestations de voyage liées et de services de voyage

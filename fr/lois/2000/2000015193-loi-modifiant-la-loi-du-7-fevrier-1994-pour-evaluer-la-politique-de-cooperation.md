@@ -12,7 +12,7 @@ entry_into_force: 2000-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/09/17/2000015193/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBRE 2000. - Loi modifiant la loi du 7 février 1994 pour évaluer la politique de coopération au développement en fonction du respect des droits de l'homme.

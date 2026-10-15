@@ -12,7 +12,7 @@ entry_into_force: 2009-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/04/01/2009003158/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2009. - Loi visant à modifier le Code de la taxe sur la valeur ajoutée

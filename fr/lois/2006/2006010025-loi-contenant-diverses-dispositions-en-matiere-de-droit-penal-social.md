@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/03/2006010025/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 18-12-2006 et mise à jour au 21-04-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2006. - Loi contenant diverses dispositions en matière de droit pénal social

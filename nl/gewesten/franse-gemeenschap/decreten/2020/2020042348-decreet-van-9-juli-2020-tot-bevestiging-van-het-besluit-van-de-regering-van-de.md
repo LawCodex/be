@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/09/2020042348/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 22-07-2020 en tekstbijwerking tot 20-10-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2020. - [Decreet van 9 juli 2020 tot bevestiging van het besluit van de regering van de Franse Gemeenschap van 23 januari 2020 tot vaststelling van het referentiekader van de initiële competenties]

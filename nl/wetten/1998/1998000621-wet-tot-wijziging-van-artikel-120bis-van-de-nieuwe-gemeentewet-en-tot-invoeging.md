@@ -11,7 +11,7 @@ published: 1998-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/09/20/1998000621/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBER 1998. - Wet tot wijziging van artikel 120bis van de nieuwe gemeentewet en tot invoeging van een artikel 50bis in de provinciewet van 30 april 1836, strekkende tot een evenwichtige aanwezigheid van vrouwen en mannen in de gemeentelijke en provinciale adviesraden.

@@ -12,7 +12,7 @@ entry_into_force: 2010-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/02/21/2010015042/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2010. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Chili tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en met het Protocol, gedaan te Brussel op 6 december 2007

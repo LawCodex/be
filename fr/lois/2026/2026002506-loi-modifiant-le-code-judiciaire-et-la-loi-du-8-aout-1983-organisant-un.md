@@ -12,7 +12,7 @@ entry_into_force: 2026-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/03/23/2026002506/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2026. - Loi modifiant le Code judiciaire et la loi du 8 août 1983 organisant un registre national des personnes physiques en vue d'accorder à la commission d'avis et d'enquête réunie du Conseil supérieur de la Justice l'accès au Registre national

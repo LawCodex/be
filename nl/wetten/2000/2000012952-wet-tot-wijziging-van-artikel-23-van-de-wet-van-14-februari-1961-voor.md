@@ -12,7 +12,7 @@ entry_into_force: 2000-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/12/06/2000012952/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2000. - Wet tot wijziging van artikel 23 van de wet van 14 februari 1961 voor economische expansie, sociale vooruitgang en financieel herstel.HI:??2,Zitting 1999-2000. Kamer van volksvertegenwoordigers : Parlementaire bescheiden. - Wetsontwerp. Amendement. Verslag namens de Commissie. Tekst aangenomen in plenaire vergadering en overgezonden aan de Senaat. Parlementaire Handelingen. - Bespreking en aanneming zonder amendementen. Vergadering van 13 en 14 juli 2000. Senaat : Parlementaire bescheiden. - Ontwerp overgezonden door de Kamer. Verslag namens de commissie. Tekst aangenomen door de commissie. Amendement ingediend na de goedkeuring. Tekst aangenomen in plenaire vergadering en aan de Koning ter bekrachtiging voorgelegd. Parlementaire Handelingen. - Bespreking en aanneming zonder amendementen. Vergadering van 23 november 2000.

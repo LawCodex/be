@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/07/1999012230/justel"
 department: "Tewerkstelling en Arbeid"
 justel_note: "Raadpleging van vroegere versies vanaf 20-04-1999 en tekstbijwerking tot 30-03-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 1999. - Wet betreffende de PWA-arbeidsovereenkomst.

@@ -12,7 +12,7 @@ entry_into_force: 1999-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/19/1999009545/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 1999. - Loi modifiant l'article 582, 1° du Code judiciaire.

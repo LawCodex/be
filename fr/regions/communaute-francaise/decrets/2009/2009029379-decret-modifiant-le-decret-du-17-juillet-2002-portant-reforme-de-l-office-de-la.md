@@ -13,7 +13,7 @@ entry_into_force: 2009-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/26/2009029379/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2009. - Décret modifiant le décret du 17 juillet 2002 portant réforme de l'Office de la Naissance et de l'Enfance, en abrégé " O.N.E. " et le décret du 3 juillet 2003 relatif à la coordination de l'accueil des enfants durant leur temps libre et au soutien de l'accueil extrascolaire

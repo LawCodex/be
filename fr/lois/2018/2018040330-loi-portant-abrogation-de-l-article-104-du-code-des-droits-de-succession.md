@@ -12,7 +12,7 @@ entry_into_force: 2018-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/11/2018040330/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2018. - Loi portant abrogation de l'article 104 du Code des droits de succession

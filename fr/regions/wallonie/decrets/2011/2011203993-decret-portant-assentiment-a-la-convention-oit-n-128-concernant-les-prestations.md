@@ -13,7 +13,7 @@ entry_into_force: 2011-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/20/2011203993/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2011. - Décret portant assentiment à la Convention OIT n° 128 concernant les prestations d'invalidité, de vieillesse et de survivants, adoptée à Genève le 29 juin 1967

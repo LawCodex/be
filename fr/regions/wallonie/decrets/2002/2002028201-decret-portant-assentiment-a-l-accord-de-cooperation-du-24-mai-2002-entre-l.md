@@ -13,7 +13,7 @@ entry_into_force: 2002-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/19/2002028201/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2002. - Décret portant assentiment à l'accord de coopération du 24 mai 2002 entre l'autorité fédérale et les Régions relatif à la création d'une Agence pour le commerce extérieur.

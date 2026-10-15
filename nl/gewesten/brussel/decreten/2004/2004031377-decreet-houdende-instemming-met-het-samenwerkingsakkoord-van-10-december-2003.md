@@ -13,7 +13,7 @@ entry_into_force: 2004-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/06/03/2004031377/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2004. - Decreet houdende instemming met het Samenwerkingsakkoord van 10 december 2003 tussen de federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest, het Vlaamse Gewest, het Waalse Gewest en de Brusselse Hoofdstedelijke Regering met het oog op de samenwerking inzake milieu en welzijn (VERTALING).

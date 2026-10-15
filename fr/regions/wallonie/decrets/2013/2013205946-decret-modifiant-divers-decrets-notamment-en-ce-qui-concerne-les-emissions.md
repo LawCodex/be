@@ -13,7 +13,7 @@ entry_into_force: 2014-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/10/24/2013205946/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OCTOBRE 2013. - Décret modifiant divers décrets notamment en ce qui concerne les émissions industrielles

@@ -13,7 +13,7 @@ entry_into_force: 2023-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/02/2023030634/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2023. - Decreet houdende instemming met de bijzondere overeenkomst betreffende de universitaire samenwerking inzake medische vorming tussen de Regering van het Groothertogdom Luxemburg en de Regering van de Franse Gemeenschap, gedaan te Luxemburg op 4 januari 2022, enerzijds, en houdende wijziging van het decreet van 16 juni 2006 tot regeling van het aantal studenten in sommige cursussen van de eerste cyclus van het hoger onderwijs, anderzijds

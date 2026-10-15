@@ -13,7 +13,7 @@ entry_into_force: 2007-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/22/2007203578/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2007. - Décret modifiant le décret du 5 février 1998 relatif à la surveillance et au contrôle des législations relatives à la reconversion et au recyclage professionnels et d'autres décrets ayant un objet analogue.

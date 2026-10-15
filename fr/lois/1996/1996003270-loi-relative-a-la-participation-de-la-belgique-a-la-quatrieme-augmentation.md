@@ -12,7 +12,7 @@ entry_into_force: 1996-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/04/15/1996003270/justel"
 department: "Finances - Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 AVRIL 1996. - Loi relative à la participation de la Belgique à la quatrième augmentation générale du capital de la Banque asiatique de Développement.

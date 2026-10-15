@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/05/07/2024011222/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Wet van 7 mei 2004 inzake experimenten op de menselijke persoon. Bekendmaking overeenkomstig artikel 30, § 10, laatste lid, van de geïndexeerde bedragen van de heffingen en retributies.

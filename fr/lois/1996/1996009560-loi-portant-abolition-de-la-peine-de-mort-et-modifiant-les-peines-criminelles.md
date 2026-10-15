@@ -12,7 +12,7 @@ entry_into_force: 1996-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/07/10/1996009560/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 1996. - Loi portant abolition de la peine de mort et modifiant les peines criminelles.

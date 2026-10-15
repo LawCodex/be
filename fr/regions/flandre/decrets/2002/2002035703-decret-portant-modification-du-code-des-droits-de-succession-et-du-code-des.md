@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/04/19/2002035703/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2002. - Décret portant modification du Code des droits de succession et du Code des taxes assimilées aux impôts sur les revenus, pour ce qui concerne l'introduction de l'euro (TRADUCTION).

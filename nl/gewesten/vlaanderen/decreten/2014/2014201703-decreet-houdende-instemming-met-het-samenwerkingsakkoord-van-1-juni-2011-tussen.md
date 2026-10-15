@@ -13,7 +13,7 @@ entry_into_force: 2014-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/21/2014201703/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2014. - Decreet houdende instemming met het samenwerkingsakkoord van 1 juni 2011 tussen de Federale Staat en de gewesten en de gemeenschappen betreffende de coördinatie van de controles inzake illegale arbeid en sociale fraude

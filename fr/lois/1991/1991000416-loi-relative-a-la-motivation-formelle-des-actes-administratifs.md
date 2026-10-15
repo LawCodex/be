@@ -12,7 +12,7 @@ entry_into_force: 1992-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/07/29/1991000416/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUILLET 1991. - Loi relative à la motivation formelle des actes administratifs.

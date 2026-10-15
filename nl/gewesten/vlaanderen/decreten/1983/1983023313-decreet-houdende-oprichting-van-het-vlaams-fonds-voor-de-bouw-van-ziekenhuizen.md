@@ -13,7 +13,7 @@ entry_into_force: 1987-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1983/06/01/1983023313/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 1983. - Decreet houdende oprichting van het Vlaams Fonds voor de Bouw van Ziekenhuizen en Medisch-Sociale Instellingen.

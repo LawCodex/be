@@ -13,7 +13,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/12/15/2000031207/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 1999. - Decreet houdende wijziging van het decreet III van de Vergadering van de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest van 22 juli 1993 tot toekenning van de uitoefening van sommige bevoegdheden van de Franse Gemeenschap aan het Waalse Gewest en de Franse Gemeenschapscommissie (VERTALING).

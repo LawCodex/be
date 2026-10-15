@@ -13,7 +13,7 @@ entry_into_force: 2025-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/07/03/2025005146/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2025. - Ordonnance modifiant le plafond d'intervention du Fonds bruxellois de garantie

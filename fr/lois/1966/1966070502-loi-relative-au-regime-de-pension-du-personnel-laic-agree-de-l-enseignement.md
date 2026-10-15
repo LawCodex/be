@@ -11,7 +11,7 @@ published: 1966-08-05
 entry_into_force: 1966-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1966/07/05/1966070502/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 1966. - Loi relative au régime de pension du personnel laic agréé de l'enseignement libre du Congo et du Ruanda-Urundi avant l'accession de ces pays à l'indépendance.

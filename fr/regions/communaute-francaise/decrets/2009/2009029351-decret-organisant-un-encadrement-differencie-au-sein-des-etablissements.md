@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009029351/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 09-07-2009 et mise à jour au 09-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret organisant un encadrement différencié au sein des établissements scolaires de la Communauté française afin d'assurer à chaque élève des chances égales d'émancipation sociale dans un environnement pédagogique de qualité (Décret encadrement différencié)

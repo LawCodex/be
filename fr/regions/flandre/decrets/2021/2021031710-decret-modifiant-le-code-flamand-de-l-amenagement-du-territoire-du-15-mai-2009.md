@@ -13,7 +13,7 @@ entry_into_force: 2021-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/18/2021031710/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2021. - Décret modifiant le Code flamand de l'Aménagement du Territoire du 15 mai 2009, en ce qui concerne l'habitation supervisée

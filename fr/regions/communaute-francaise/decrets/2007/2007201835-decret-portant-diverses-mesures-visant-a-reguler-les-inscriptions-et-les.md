@@ -13,7 +13,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/08/2007201835/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 2007. - Décret portant diverses mesures visant à réguler les inscriptions et les changements d'école dans l'enseignement obligatoire.

@@ -13,7 +13,7 @@ entry_into_force: 2013-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/19/2013204687/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2013. - Décret modifiant l'article 15, § 9, du décret du 19 décembre 2008 relatif à l'organisation des centres publics d'aide sociale

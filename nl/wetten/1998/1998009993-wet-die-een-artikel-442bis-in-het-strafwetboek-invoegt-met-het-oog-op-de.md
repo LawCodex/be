@@ -12,7 +12,7 @@ entry_into_force: 1998-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/10/30/1998009993/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 OKTOBER 1998. - Wet die een artikel 442bis in het strafwetboek invoegt met het oog op de strafbaarstelling van de belaging.

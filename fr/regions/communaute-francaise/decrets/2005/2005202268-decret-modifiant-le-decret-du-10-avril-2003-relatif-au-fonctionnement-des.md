@@ -13,7 +13,7 @@ entry_into_force: 2005-09-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/20/2005202268/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2005. - Décret modifiant le décret du 10 avril 2003 relatif au fonctionnement des instances d'avis oeuvrant dans le secteur culturel.

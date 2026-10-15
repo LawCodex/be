@@ -13,7 +13,7 @@ entry_into_force: 2023-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/24/2023203087/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2023. - Décret portant assentiment au Protocole additionnel à la Charte européenne de l'autonomie locale sur le droit de participer aux affaires des collectivités locales, fait à Utrecht le 16 novembre 2009

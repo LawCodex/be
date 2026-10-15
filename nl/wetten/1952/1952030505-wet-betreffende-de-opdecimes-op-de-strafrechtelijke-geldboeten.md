@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1952/03/05/1952030505/justel"
 department: "Financiën - Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 01-08-1991 en tekstbijwerking tot 01-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 1952. - Wet betreffende de opdécimes op de strafrechtelijke geldboeten.

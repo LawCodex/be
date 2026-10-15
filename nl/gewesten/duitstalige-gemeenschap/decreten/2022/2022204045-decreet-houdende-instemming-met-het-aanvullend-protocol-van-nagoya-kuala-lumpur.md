@@ -12,7 +12,7 @@ entry_into_force: 2022-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/04/25/2022204045/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2022. - Decreet houdende instemming met het Aanvullend Protocol van Nagoya-Kuala Lumpur inzake aansprakelijkheid en schadeloosstelling bij het Protocol van Cartagena inzake bioveiligheid, gedaan te Nagoya op 15 oktober 2010

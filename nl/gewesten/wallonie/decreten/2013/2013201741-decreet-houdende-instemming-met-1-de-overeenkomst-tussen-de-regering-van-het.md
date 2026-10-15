@@ -13,7 +13,7 @@ entry_into_force: 2013-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/03/07/2013201741/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 2013. - Decreet houdende instemming met : 1° de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Volksrepubliek China tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, en met het Protocol, ondertekend te Brussel op 7 oktober 2009, en 2° de wisseling van brieven van 30 mei 2011 en 11 juli 2011

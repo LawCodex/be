@@ -12,7 +12,7 @@ entry_into_force: 2000-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/03/01/2000009286/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2000. - Wet tot wijziging van de artikelen 167, 170, 192 en 193 van het Burgerlijk Wetboek en van artikel 8 van het Wetboek van zegelrechten.

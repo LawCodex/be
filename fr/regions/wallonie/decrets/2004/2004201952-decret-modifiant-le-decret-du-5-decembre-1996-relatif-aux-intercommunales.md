@@ -13,7 +13,7 @@ entry_into_force: 2004-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/27/2004201952/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2004. - Décret modifiant le décret du 5 décembre 1996 relatif aux intercommunales wallonnes en vue d'organiser le droit de consultation et de visite des conseillers communaux des communes associées

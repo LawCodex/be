@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/01/12/2007200741/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-03-2007 en tekstbijwerking tot 19-09-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 2007. - Decreet betreffende de versteviging van de opvoeding tot verantwoordelijk en actief burgerschap binnen de door de Franse Gemeenschap georganiseerde of gesubsidieerde inrichtingen (VERTALING)

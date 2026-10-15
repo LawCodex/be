@@ -13,7 +13,7 @@ entry_into_force: 2004-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/11/18/2005036624/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBRE 2005. - Décret modifiant le décret du 30 avril 2004 relatif à l'aide financière aux études et aux services aux étudiants dans l'enseignement supérieur de la Communauté flamande (TRADUCTION).

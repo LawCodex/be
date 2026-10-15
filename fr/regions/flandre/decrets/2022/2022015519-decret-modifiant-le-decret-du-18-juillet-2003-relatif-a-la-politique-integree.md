@@ -13,7 +13,7 @@ entry_into_force: 2022-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/15/2022015519/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2022. - Décret modifiant le décret du 18 juillet 2003 relatif à la politique intégrée de l'eau, coordonné le 15 juin 2018

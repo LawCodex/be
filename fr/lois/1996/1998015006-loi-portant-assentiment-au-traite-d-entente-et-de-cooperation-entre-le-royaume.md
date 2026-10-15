@@ -12,7 +12,7 @@ entry_into_force: 1998-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/11/10/1998015006/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 1996. - Loi portant assentiment au Traité d'entente et de coopération entre le Royaume de Belgique et la Fédération de Russie, signé à Bruxelles le 8 décembre 1993.

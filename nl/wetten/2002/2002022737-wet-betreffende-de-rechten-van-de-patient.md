@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/08/22/2002022737/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 26-09-2002 en tekstbijwerking tot 23-02-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AUGUSTUS 2002. - Wet betreffende de rechten van de patiënt.

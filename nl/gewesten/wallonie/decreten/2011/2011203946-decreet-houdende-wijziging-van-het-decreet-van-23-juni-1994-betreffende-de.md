@@ -12,7 +12,7 @@ published: 2011-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/14/2011203946/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2011. - Decreet houdende wijziging van het decreet van 23 juni 1994 betreffende de oprichting en de uitbating van de onder het Waalse Gewest ressorterende luchthavens en vliegvelden

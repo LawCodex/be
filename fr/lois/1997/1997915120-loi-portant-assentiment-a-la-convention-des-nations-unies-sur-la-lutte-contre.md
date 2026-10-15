@@ -12,7 +12,7 @@ entry_into_force: 1997-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/06/25/1997915120/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 1997. - Loi portant assentiment à la Convention des Nations Unies sur la lutte contre la désertification dans les pays gravement touchés par la sécheresse et/ou la désertification, en particulier en Afrique, faite à Paris le 17 juin 1994.

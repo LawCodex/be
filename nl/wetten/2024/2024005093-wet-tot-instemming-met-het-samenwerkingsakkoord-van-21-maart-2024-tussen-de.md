@@ -12,7 +12,7 @@ entry_into_force: 2024-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/18/2024005093/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2024. - Wet tot instemming met het samenwerkingsakkoord van 21 maart 2024 tussen de Federale Staat en de Franse Gemeenschap betreffende de erkenning van de Hulpkas voor Ziekte- en Invaliditeitsverzekering en de Kas der Geneeskundige Verzorging HR Rail als verzekeringsinstellingen van de Franse Gemeenschap, en betreffende het toezicht op de verzekeringsinstellingen van de Franse Gemeenschap door de Controledienst voor de ziekenfondsen en de landsbonden van ziekenfondsen

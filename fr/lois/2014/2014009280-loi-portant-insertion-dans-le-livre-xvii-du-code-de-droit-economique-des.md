@@ -12,7 +12,7 @@ entry_into_force: 2014-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/15/2014009280/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2014. - Loi portant insertion dans le livre XVII du Code de droit économique des dispositions réglant des matières visées à l'article 77 de la Constitution en ce qui concerne les personnes exerçant une profession libérale

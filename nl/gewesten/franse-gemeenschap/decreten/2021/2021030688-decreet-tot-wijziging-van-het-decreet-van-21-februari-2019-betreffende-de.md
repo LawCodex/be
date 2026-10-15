@@ -13,7 +13,7 @@ entry_into_force: 2021-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/03/11/2021030688/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2021. - Decreet tot wijziging van het decreet van 21 februari 2019 betreffende de versteviging van de kwaliteit en de toegankelijkheid van de opvang van jonge kinderen in de Franse Gemeenschap om een hoofdstuk II/1 op te nemen met betrekking tot de verwerking van persoonsgegevens

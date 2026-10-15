@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/21/1998015196/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-1998 en tekstbijwerking tot 11-12-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 1998. - Wet tot oprichting van de "Belgische Technische Coöperatie" in de vorm van een vennootschap van publiek recht.

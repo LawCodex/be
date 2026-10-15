@@ -12,7 +12,7 @@ entry_into_force: 2021-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/12/2021043225/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 2021. - Decreet houdende instemming met het Verdrag van Straatsburg van 2012 inzake de beperking van aansprakelijkheid in de binnenvaart (CLNI 2012), ondertekend te Straatsburg op 27 september 2012

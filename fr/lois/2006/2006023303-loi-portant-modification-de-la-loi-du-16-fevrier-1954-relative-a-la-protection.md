@@ -12,7 +12,7 @@ entry_into_force: 2006-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/11/26/2006023303/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2006. - Loi portant modification de la loi du 16 février 1954 relative à la protection de la canne blanche et abrogeant la loi du 4 juillet 1991 relative à la protection des malvoyants et à la reconnaissance de la " canne jaune ".

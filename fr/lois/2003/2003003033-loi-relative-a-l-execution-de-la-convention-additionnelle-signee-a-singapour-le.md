@@ -12,7 +12,7 @@ entry_into_force: 2003-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/14/2003003033/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 2003. - Loi relative à l'exécution de la Convention additionnelle, signée à Singapour le 10 décembre 1996, modifiant la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Singapour tendant à éviter la double imposition en matière d'impôts sur le revenu, signée à Singapour le 8 février 1972.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/19/2014011266/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 28-05-2014 en tekstbijwerking tot 30-10-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2014. - Wet houdende invoeging van boek VII "Betalings- en kredietdiensten" in het Wetboek van economisch recht, houdende invoeging van de definities eigen aan boek VII en van de straffen voor de inbreuken op boek VII, in de boeken I en XV van het Wetboek van economisch recht en houdende diverse andere bepalingen

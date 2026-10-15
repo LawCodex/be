@@ -13,7 +13,7 @@ entry_into_force: 2008-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/01/28/2008033008/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 2008. - Decreet houdende instemming met de Europese Conventie ter bescherming van het archeologisch patrimonium (herzien), opgemaakt te Valetta op 16 januari 1992 (VERTALING).

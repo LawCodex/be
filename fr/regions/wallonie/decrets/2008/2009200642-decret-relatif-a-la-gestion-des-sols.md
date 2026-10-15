@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/05/2009200642/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 18-02-2009 et mise à jour au 18-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 2008. - Décret relatif à la gestion des sols

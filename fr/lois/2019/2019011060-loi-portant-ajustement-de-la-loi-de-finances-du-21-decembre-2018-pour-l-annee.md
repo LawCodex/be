@@ -12,7 +12,7 @@ entry_into_force: 2019-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/01/2019011060/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2019. - Loi portant ajustement de la loi de finances du 21 décembre 2018 pour l'année budgétaire 2019

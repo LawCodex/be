@@ -13,7 +13,7 @@ entry_into_force: 2013-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/10/2013204339/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2013. - Decreet houdende instemming met de Overeenkomst inzake luchtvervoer tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Staten van Amerika, anderzijds, gedaan te Brussel op 25 april 2007 en te Washington op 30 april 2007

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/27/2012012195/justel"
 department: "Emploi, Travail et Concertation sociale"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2012 et mise à jour au 20-12-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 2012. - Loi établissant l'enregistrement électronique des présences sur les chantiers temporaires ou mobiles

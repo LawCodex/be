@@ -13,7 +13,7 @@ entry_into_force: 2020-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/05/08/2020041254/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2020. - Décret modifiant l'article 81 du décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision, en ce qui concerne la part des spots de publicité télévisée et de télé-achat

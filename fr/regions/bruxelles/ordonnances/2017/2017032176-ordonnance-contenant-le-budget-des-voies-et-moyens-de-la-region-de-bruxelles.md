@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/12/15/2017032176/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2017. - Ordonnance contenant le Budget des Voies et Moyens de la Région de Bruxelles-Capitale pour l'année budgétaire 2018

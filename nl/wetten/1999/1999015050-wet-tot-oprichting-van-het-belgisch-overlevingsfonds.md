@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/02/09/1999015050/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
 justel_note: "Raadpleging van vroegere versies vanaf 30-08-2000 en tekstbijwerking tot 11-02-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 1999. - Wet tot oprichting van het Belgisch Overlevingsfonds. .

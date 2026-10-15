@@ -13,7 +13,7 @@ entry_into_force: 2009-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/03/05/2009031117/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2009. - Ordonnance portant assentiment à la Convention internationale sur le contrôle des systèmes antisalissure nuisibles sur les navires, faite à Londres le 5 octobre 2001.

@@ -13,7 +13,7 @@ entry_into_force: 2021-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/12/17/2020044495/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2020. - Ordonnance portant assentiment à l'accord de coopération du 17 juillet 2019 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant l'unification de la manière de référencer les adresses et de la mise en relation des données d'adresses

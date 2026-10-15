@@ -12,7 +12,7 @@ entry_into_force: 1998-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/01/26/1998015024/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 1998. - Wet houdende zestiende aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 1997 - Sectie 15 "Ontwikkelingssamenwerking".

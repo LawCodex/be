@@ -12,7 +12,7 @@ entry_into_force: 1996-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/08/20/1996015129/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 AUGUSTUS 1996. - Wet houdende instemming met het Samenwerkingsakkoord tussen de Federale Staat, de Gemeenschappen en de Gewesten over de nadere regelen voor het sluiten van Gemengde Verdragen, ondertekend te Brussel op 8 maart 1994.

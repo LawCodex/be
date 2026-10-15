@@ -13,7 +13,7 @@ entry_into_force: 1995-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/19/1995035909/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 1995. - Bijzonder decreet houdende wijziging van het bijzonder decreet van 19 december 1988 betreffende de Autonome Raad voor het Gemeenschapsonderwijs.

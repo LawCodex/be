@@ -13,7 +13,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/01/27/2006200747/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JANVIER 2006. - Décret modifiant diverses dispositions relatives aux règles de cumul applicables aux membres du personnel de l'enseignement.

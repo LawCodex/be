@@ -13,7 +13,7 @@ entry_into_force: 2016-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/03/24/2016029173/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2016. - Decreet tot wijziging van het decreet van 2 juni 2006 betreffende de externe evaluatie van de verworven kennis van leerlingen van het leerplichtonderwijs en het getuigschrift van basisonderwijs na het lager onderwijs

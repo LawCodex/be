@@ -12,7 +12,7 @@ entry_into_force: 2006-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/18/2006009465/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2006. - Wet tot wijziging van een aantal bepalingen van het Burgerlijk Wetboek, teneinde de adoptie door personen van hetzelfde geslacht mogelijk te maken.

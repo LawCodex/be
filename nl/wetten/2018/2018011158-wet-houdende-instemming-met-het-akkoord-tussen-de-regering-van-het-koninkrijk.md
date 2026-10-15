@@ -12,7 +12,7 @@ entry_into_force: 2018-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/01/26/2018011158/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2018. - Wet houdende instemming met het Akkoord tussen de Regering van het Koninkrijk België en de Regering van het Groothertogdom Luxemburg betreffende de wederzijdse bijstand inzake civiele veiligheid, gedaan te Brussel op 5 februari 2015

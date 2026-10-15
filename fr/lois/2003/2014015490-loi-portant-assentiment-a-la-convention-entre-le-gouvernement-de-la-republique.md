@@ -12,7 +12,7 @@ entry_into_force: 2016-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/08/2014015490/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 AVRIL 2003. - Loi portant assentiment à la Convention entre le Gouvernement de la République française, le Gouvernement de la République fédérale d'Allemagne, le Gouvernement de la République italienne et le Gouvernement du Royaume-Uni de Grande Bretagne et d'Irlande du Nord portant création de l'organisation conjointe de coopération en matière d'armement (OCCAR), et aux Annexes I, II, III et IV, faites à Farnborough le 9 septembre 1998

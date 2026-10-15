@@ -12,7 +12,7 @@ entry_into_force: 1994-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/30/1994000472/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 1994. - Loi modifiant le titre Ier, chapitre Ier, section 7, sous-section 2, de la nouvelle loi communale, en ce qui concerne le statut pécuniaire du secrétaire communal.

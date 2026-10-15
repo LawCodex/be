@@ -12,7 +12,7 @@ entry_into_force: 1998-01-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/07/10/1997022917/justel"
 department: "Prévoyance Sociale - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 1997. - Loi modifiant la loi du 25 mars 1964 sur les médicaments.

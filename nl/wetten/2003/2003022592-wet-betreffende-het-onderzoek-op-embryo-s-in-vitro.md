@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/11/2003022592/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 28-05-2003 en tekstbijwerking tot 31-01-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2003. - Wet betreffende het onderzoek op embryo's in vitro.

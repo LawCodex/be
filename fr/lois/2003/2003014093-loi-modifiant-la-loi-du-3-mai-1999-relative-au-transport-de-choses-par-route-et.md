@@ -12,7 +12,7 @@ entry_into_force: 2003-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/24/2003014093/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2003. - Loi modifiant la loi du 3 mai 1999 relative au transport de choses par route et la loi du 14 juillet 1991 sur les pratiques du commerce et sur l'information et la protection du consommateur.

@@ -12,7 +12,7 @@ published: 2017-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/19/2017040590/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2017. - Decreet betreffende de omkadering in het kleuteronderwijs

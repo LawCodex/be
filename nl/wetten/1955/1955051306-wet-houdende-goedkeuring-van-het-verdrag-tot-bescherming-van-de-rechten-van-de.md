@@ -12,7 +12,7 @@ entry_into_force: 1955-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1955/05/13/1955051306/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 1955. - Wet houdende goedkeuring van het Verdrag tot bescherming van de rechten van de Mens en de fundamentele vrijheden, ondertekend op 4 November 1950, te Rome, en van het Additioneel Protocol bij dit Verdrag, ondertekend op 20 Maart 1952, te Parijs.

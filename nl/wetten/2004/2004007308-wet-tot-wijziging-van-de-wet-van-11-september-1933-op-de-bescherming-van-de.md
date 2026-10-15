@@ -12,7 +12,7 @@ entry_into_force: 2004-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/11/25/2004007308/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2004. - Wet tot wijziging van de wet van 11 september 1933 op de bescherming van de titels van hoger onderwijs, wat de door de Koninklijke Militaire School verleende academische graden betreft.

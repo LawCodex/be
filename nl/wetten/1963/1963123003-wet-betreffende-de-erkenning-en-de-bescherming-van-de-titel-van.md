@@ -13,7 +13,7 @@ last_amended: 2026-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1963/12/30/1963123003/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 13-07-2026 en tekstbijwerking tot 13-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBER 1963. - Wet betreffende de erkenning en de bescherming van de titel van beroepsjournalist

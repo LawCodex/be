@@ -13,7 +13,7 @@ entry_into_force: 2020-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/15/2020015831/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 OCTOBRE 2020. - Décret modifiant les articles 47/15 et 47/15bis du Code wallon de l'Action sociale et de la Santé et insérant un article 47/15ter en vue de prendre des mesures relatives à la crise sanitaire de la COVID-19

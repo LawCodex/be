@@ -12,7 +12,7 @@ entry_into_force: 1996-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/03/07/1996003196/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 1996. - Wet tot wijziging van de gewone wet van 16 juli 1993 tot vervollediging van de federale staatsstructuur.

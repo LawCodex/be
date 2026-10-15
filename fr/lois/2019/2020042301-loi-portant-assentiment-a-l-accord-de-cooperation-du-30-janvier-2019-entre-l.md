@@ -12,7 +12,7 @@ entry_into_force: 2020-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/06/16/2020042301/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2019. - Loi portant assentiment à l'Accord de coopération du 30 janvier 2019 entre l'Etat fédéral, les Communautés et les Régions relatif à la prévention et à la gestion de l'introduction et de la propagation des espèces exotiques envahissantes

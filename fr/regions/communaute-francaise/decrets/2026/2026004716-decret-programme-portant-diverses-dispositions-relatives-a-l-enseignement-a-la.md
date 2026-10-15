@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/05/2026004716/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 24-06-2026 et mise à jour au 07-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 2026. - Décret-programme portant diverses dispositions relatives à l'Enseignement, à la Culture, aux Bâtiments scolaires, aux Hôpitaux universitaires, à la Jeunesse, aux Organismes administratifs publics, à l'Egalité des chances et à la Recherche scientifique

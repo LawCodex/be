@@ -13,7 +13,7 @@ entry_into_force: 2009-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009029423/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret portant assentiment à l'Accord de Coopération entre la Communauté française et la Commission communautaire française en matière d'intégration scolaire pour les jeunes en situation d'handicap

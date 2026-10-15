@@ -13,7 +13,7 @@ last_amended: 2024-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1977/07/18/1977071850/justel"
 justel_note: "Consultation des versions antérieures à partir du 31-01-2013 et mise à jour au 05-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1977. - LOI générale sur les douanes et accises

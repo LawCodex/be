@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/19/1998035141/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 14-02-1998 en tekstbijwerking tot 11-06-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1997. - Decreet tot machtiging van de Vlaamse regering om mee te werken aan de oprichting van de vereniging zonder winstgevend doel "Vlaams Omroeporkest en Kamerkoor".

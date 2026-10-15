@@ -12,7 +12,7 @@ entry_into_force: 2012-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/02/15/2012000142/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2012. - Loi modifiant la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour les élections des Chambres fédérales, ainsi qu'au financement et à la comptabilité ouverte des partis politiques afin de geler les dotations allouées aux partis politiques pour les années budgétaires 2012 et 2013

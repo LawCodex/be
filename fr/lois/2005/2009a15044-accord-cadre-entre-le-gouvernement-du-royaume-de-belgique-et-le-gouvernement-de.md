@@ -12,7 +12,7 @@ entry_into_force: 2011-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/09/30/2009A15044/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 SEPTEMBRE 2005. - Accord cadre entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République française sur la coopération sanitaire transfrontalière, signé à Mouscron le 30 septembre 2005

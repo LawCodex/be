@@ -11,7 +11,7 @@ published: 2018-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/05/04/2018031004/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2018. - Wet houdende instemming met de Uitvoeringsafspraak tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden betreffende de samenwerking, begeleiding en ondersteuning bij repatriëringsmaatregelen over het grondgebied van de Benelux-landen, gedaan te Brussel op 16 juni 2016

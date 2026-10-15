@@ -11,7 +11,7 @@ date: 2003-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/10/22/2003201669/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2003. - Decreet tot bevestiging van de artikelen 5 en 13, derde lid, van het koninklijk besluit van 11 december 2001 houdende uitvoering van de wet van 26 juni 2000 betreffende de invoering van de euro in de wetgeving die betrekking heeft op aangelegenheden zoals bedoeld in artikel 78 van de Grondwet en die ressorteert onder het Ministerie van Financiën en van de wijzigingen in het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen ten gevolge van de wet van 8 april 2002 tot wijziging van de artikelen 5, 9, 11, 21 en 42 van het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen in uitvoering van de richtlijn nr. 1999/62/EG van het Europees Parlement en de Raad van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen (VERTALING).

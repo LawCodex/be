@@ -13,7 +13,7 @@ entry_into_force: 2021-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/02/26/2021020524/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2021. - Decreet tot wijziging van het decreet van 7 mei 2004 houdende omvorming van de v.z.w. "de Rand" tot een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap en houdende vaststelling van de bevoegdheden van de provincie Vlaams-Brabant inzake de ondersteuning van de Vlaamse Rand

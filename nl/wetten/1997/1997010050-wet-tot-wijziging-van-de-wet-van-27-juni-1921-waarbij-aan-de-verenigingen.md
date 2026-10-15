@@ -12,7 +12,7 @@ entry_into_force: 1998-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/11/25/1997010050/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 1997. - Wet tot wijziging van de wet van 27 juni 1921 waarbij aan de verenigingen zonder winstgevend doel en aan de instellingen van openbaar nut rechtspersoonlijkheid wordt verleend met betrekking tot de aansprakelijkheid van de leden.

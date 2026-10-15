@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/02/28/2013029249/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2013. - Decreet houdende verschillende statutaire bepalingen betreffende het door de Franse Gemeenschap georganiseerde onderwijs

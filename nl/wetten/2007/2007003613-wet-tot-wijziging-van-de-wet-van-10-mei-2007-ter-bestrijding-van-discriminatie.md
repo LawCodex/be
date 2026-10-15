@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/12/21/2007003613/justel"
 department: "Financiën"
 justel_note: "bij arrest nr. 116/2011 van 30-06-2011 (B.St. 11-08-2011, p. 45817-45822), heeft Het Grondwettelijk Hof de wet vernietigd, maar handhaaft de gevolgen van die wet tot 21 december 2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2007. - Wet tot wijziging van de wet van 10 mei 2007 ter bestrijding van discriminatie tussen vrouwen en mannen wat betreft het geslacht in verzekeringsaangelegenheden. }

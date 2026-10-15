@@ -13,7 +13,7 @@ entry_into_force: 2021-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/03/29/2021201722/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2021. - Decreet houdende instemming met het Samenwerkingsakkoord van 24 maart 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de gegevensoverdracht van noodzakelijke gegevens naar de gefedereerde entiteiten, de lokale overheden of politiediensten met als doel het handhaven van de verplichte quarantaine of testing van de reizigers komende van buitenlandse zones bij wie een quarantaine of testing verplicht is bij aankomst in België

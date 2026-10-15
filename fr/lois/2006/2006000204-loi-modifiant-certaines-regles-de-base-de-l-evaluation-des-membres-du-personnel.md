@@ -12,7 +12,7 @@ entry_into_force: 2005-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/03/16/2006000204/justel"
 department: "Justice - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2006. - Loi modifiant certaines règles de base de l'évaluation des membres du personnel des services de police.

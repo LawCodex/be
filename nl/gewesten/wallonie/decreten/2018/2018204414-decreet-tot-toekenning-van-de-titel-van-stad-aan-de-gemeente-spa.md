@@ -13,7 +13,7 @@ entry_into_force: 2018-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/19/2018204414/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2018. - Decreet tot toekenning van de titel van stad aan de gemeente Spa

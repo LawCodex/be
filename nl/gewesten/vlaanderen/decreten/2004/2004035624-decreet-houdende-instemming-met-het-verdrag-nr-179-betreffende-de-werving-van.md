@@ -13,7 +13,7 @@ entry_into_force: 2004-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/19/2004035624/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2004. - Decreet houdende instemming met het verdrag nr. 179 betreffende de werving van en arbeidsbemiddeling voor zeevarenden, aangenomen door de Internationale Arbeidsconferentie tijdens haar vierentachtigste zitting in Genève op 22 oktober 1996.

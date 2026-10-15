@@ -13,7 +13,7 @@ entry_into_force: 2023-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/09/2023015263/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2023. - Decreet tot invoering van de controle op de rekeningen van het Waals Parlement door het Rekenhof overeenkomstig artikel 180 van de Grondwet

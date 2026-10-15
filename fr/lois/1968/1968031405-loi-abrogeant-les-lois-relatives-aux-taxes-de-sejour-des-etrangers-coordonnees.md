@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1968/03/14/1968031405/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 02-02-2017 et mise à jour au 23-12-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 1968. - LOI abrogeant les lois relatives aux taxes de séjour des étrangers, coordonnées le 12 octobre 1953

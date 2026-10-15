@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/12/21/2013035167/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 19-02-2013 et mise à jour au 13-02-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2012. - Décret relatif à l'enseignement XXII

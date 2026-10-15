@@ -13,7 +13,7 @@ entry_into_force: 2020-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/05/15/2020041348/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2020. - Décret modifiant le décret sur l'Energie du 8 mai 2009, en ce qui concerne l'introduction d'une disposition transitoire pour la durée de validité de la date de mise en service, visée à l'article 1.1.3, 113° /2

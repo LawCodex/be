@@ -13,7 +13,7 @@ last_amended: 2021-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1963/12/31/1963123106/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 16-04-2003 en tekstbijwerking tot 20-08-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 DECEMBER 1963. - Wet betreffende de civiele bescherming. (NOTa : wet opgeheven met uitwerking op een onbepaalde datum &lt;W 2007-05-15/61 , art. 201, 006; Inwerkingtreding : onbepaald &gt;)

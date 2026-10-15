@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/01/24/2002016041/justel"
 department: "Affaires sociales - Santé Publique et Environnement - Classes Moyennes - Agriculture"
 justel_note: "Consultation des versions antérieures à partir du 16-02-2002 et mise à jour au 01-10-2001"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 2002. - Loi modifiant l'arrêté royal du 18 novembre 1996 instaurant une assurance sociale en faveur des travailleurs indépendants en cas de faillite et des personnes assimilées, en application des articles 29 et 49 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions.

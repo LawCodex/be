@@ -12,7 +12,7 @@ published: 2009-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/02/05/2009029183/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 2009. - Decreet houdende bepalingen inzake het gespecialiseerd onderwijs en de opvang van kinderen en adolescenten met specifieke behoeften in het leerplichtonderwijs

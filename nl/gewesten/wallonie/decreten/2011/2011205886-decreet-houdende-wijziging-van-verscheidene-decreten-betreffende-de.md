@@ -12,7 +12,7 @@ entry_into_force: 2011-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/10/27/2011205886/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 2011. - Decreet houdende wijziging van verscheidene decreten betreffende de bevoegdheden van Wallonië

@@ -12,7 +12,7 @@ entry_into_force: 2011-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/21/2007015070/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2007. - Loi portant assentiment à la Convention d'assistance mutuelle administrative entre le Royaume de Belgique et le Royaume du Maroc en vue de prévenir, de rechercher et de réprimer les infractions douanières, et à l'Annexe, signées à Bruxelles le 4 octobre 2002

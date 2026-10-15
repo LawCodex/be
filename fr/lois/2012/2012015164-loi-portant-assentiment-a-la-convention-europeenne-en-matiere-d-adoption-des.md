@@ -12,7 +12,7 @@ entry_into_force: 2015-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/25/2012015164/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AOUT 2012. - Loi portant assentiment à la Convention européenne en matière d'adoption des enfants (révisée), faite à Strasbourg le 27 novembre 2008

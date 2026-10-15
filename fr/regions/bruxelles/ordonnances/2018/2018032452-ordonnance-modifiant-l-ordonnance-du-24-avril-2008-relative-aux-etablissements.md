@@ -13,7 +13,7 @@ entry_into_force: 2019-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/12/06/2018032452/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2018. - Ordonnance modifiant l'ordonnance du 24 avril 2008 relative aux établissements d'accueil ou d'hébergement pour personnes âgées

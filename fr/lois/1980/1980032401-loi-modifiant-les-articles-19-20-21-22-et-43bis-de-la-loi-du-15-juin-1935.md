@@ -11,7 +11,7 @@ published: 1980-03-28
 entry_into_force: 1980-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1980/03/24/1980032401/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 1980. - Loi modifiant les articles 19, 20, 21, 22 et 43bis de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire et les articles 121, 166, 223, 226 et 229 du Code judiciaire.

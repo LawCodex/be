@@ -9,7 +9,7 @@ language: nl
 date: 1939-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1939/09/07/1939090751/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBER 1939. - WET omtrent het verleenen eener vergoeding aan de gezinnen van onder de wapens zijnde militairen.

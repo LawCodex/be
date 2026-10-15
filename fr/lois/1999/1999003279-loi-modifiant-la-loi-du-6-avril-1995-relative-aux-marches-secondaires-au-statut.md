@@ -12,7 +12,7 @@ entry_into_force: 1999-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/11/1999003279/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 1999. - Loi modifiant la loi du 6 avril 1995 relative aux marchés secondaires, au statut des entreprises d'investissement et à leur contrôle, aux intermédiaires et conseillers en placements, en ce qui concerne les amendes administratives pouvant être infligées par la Commission disciplinaire de marché et les autorités de marché.

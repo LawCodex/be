@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/22/2024203680/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 31-07-2024 et mise à jour au 29-08-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2024. - Décret spécial portant création d'un Centre de pédagogie inclusive

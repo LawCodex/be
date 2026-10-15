@@ -13,7 +13,7 @@ entry_into_force: 1992-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1992/07/23/1992035850/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 1992. - Decreet tot wijziging wat de inschrijvingsgelden betreft, van het decreet van 12 juni 1991 betreffende universiteiten in de Vlaamse Gemeenschap.

@@ -12,7 +12,7 @@ entry_into_force: 1996-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/03/26/1996009416/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 1996. - Loi portant insertion d'un article 353bis au Code judiciaire et modification de l'article 354 du même Code.

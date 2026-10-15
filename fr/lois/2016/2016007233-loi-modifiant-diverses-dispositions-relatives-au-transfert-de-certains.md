@@ -12,7 +12,7 @@ entry_into_force: 2016-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/08/03/2016007233/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AOUT 2016. - Loi modifiant diverses dispositions relatives au transfert de certains militaires inaptes sur le plan médical pour l'exercice de leur fonction et à la carrière militaire à durée limitée

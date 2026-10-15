@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035801/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 07-06-2004 et mise à jour au 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - [Décret du 7 mai 2004 relatif à l'agence autonomisée interne dotée de la personnalité juridique " Sport Vlaanderen " (Sport Flandre)]. &lt;Intitulé modifié par DCFL 2015-12-04/08 , art. 2, 003; En vigueur : 01-01-2016&gt; (TRADUCTION).

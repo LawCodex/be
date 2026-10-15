@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/07/17/2000035847/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-06-2004 et mise à jour au 28-04-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2000. - Décret relatif au "Geografisch Informatie Systeem Vlaanderen" (Système d'information géographique de la Flandre) (TRADUCTION).

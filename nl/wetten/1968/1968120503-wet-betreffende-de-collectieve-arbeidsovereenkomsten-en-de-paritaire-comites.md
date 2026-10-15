@@ -13,7 +13,7 @@ last_amended: 2023-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1968/12/05/1968120503/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 20-10-1984 en tekstbijwerking tot 27-01-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 1968. - Wet betreffende de collectieve arbeidsovereenkomsten en de paritaire comités.

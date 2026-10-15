@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/10/28/2016A36660/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-2016 en tekstbijwerking tot 18-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2016. - Codificatie van decreten betreffende sommige bepalingen voor het onderwijs ("Codificatie sommige bepalingen voor het onderwijs")

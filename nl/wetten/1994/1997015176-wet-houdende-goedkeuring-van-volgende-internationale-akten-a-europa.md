@@ -12,7 +12,7 @@ entry_into_force: 1997-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/11/29/1997015176/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 1994. - Wet houdende goedkeuring van volgende internationale Akten : a) Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten enerzijds en Roemenië anderzijds, Protocollen 1, 2, 3, 4, 5, 6 en 7 Bijlagen I tot en met XIX, en Slotakte, gedaan te Brussel op 1 februari 1993; b) Europa-Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten enerzijds en de Republiek Bulgarije anderzijds, Protocollen 1, 2, 3, 4, 5, 6, 7 en 8, Bijlagen I tot en met XVI, en Slotakte, gedaan te Brussel op 8 maart 1993.

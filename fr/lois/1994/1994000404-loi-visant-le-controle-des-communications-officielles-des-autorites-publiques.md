@@ -12,7 +12,7 @@ entry_into_force: 1994-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/12/1994000404/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 1994. - Loi visant le contrôle des communications officielles des autorités publiques.

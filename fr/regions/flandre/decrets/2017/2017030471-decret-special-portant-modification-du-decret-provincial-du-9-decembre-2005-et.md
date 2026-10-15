@@ -13,7 +13,7 @@ entry_into_force: 2017-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/30/2017030471/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2017. - Décret spécial portant modification du Décret provincial du 9 décembre 2005 et du Décret portant organisation des élections locales et provinciales du 8 juillet 2011

@@ -11,7 +11,7 @@ published: 1964-07-17
 entry_into_force: 1964-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1964/06/21/1964062101/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 1964. - Loi permettant aux Belges, porteurs de certains diplômes scientifiques relatifs à l'art de guérir, d'exercer cet art.

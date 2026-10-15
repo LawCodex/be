@@ -13,7 +13,7 @@ entry_into_force: 1995-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/02/22/1995035485/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 1995. - Décret modifiant le décret du 3 mars 1976 réglant la protection des monuments et des sites urbains et ruraux. (TRADUCTION).

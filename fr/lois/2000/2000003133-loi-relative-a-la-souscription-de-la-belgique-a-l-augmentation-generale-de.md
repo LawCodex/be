@@ -12,7 +12,7 @@ entry_into_force: 2000-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/02/17/2000003133/justel"
 department: "Finances - Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2000. - Loi relative à la souscription de la Belgique à l'augmentation générale de capital de l'Agence multilatérale de garantie des investissements.

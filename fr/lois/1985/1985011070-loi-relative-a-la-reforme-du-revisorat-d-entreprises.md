@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/02/21/1985011070/justel"
 department: "Affaires économiques"
 justel_note: "Consultation des versions antérieures à partir du 01-01-1987 et mise à jour au 11-05-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 1985. - Loi relative à la réforme du revisorat d'entreprises.

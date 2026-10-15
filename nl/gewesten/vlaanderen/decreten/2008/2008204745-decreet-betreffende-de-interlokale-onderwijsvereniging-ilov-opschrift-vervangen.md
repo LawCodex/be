@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/28/2008204745/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 16-01-2009 en tekstbijwerking tot 13-07-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2008. - Decreet betreffende de interlokale onderwijsvereniging (ILOV) &lt;Opschrift vervangen door DVR 2018-06-15/09 , art. 2, 002; Inwerkingtreding : 23-07-2018&gt;

@@ -12,7 +12,7 @@ entry_into_force: 2010-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/06/30/2009015101/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2009. - Loi portant assentiment aux Actes internationaux suivants : 1) Accord entre l'Union européenne et les Etats-Unis d'Amérique en matière d'extradition, fait à Washington D.C. le 25 juin 2003; 2) Instrument, fait à Bruxelles le 16 décembre 2004, visé par l'article 3, 2°, de l'Accord entre l'Union européenne et les Etats-Unis d'Amérique en matière d'extradition, fait le 25 juin 2003, concernant l'application de la Convention d'extradition entre le Royaume de Belgique et les Etats-Unis d'Amérique, signée le 27 avril 1987

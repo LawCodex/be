@@ -12,7 +12,7 @@ entry_into_force: 2001-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/16/2001011319/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2001. - Loi portant modification de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations et portant confirmation de l'arrêté royal du 18 janvier 2001 relatif au système provisoire visant à couvrir les frais de fonctionnement de la Commission de Régulation de l'Electricité et du Gaz (CREG).

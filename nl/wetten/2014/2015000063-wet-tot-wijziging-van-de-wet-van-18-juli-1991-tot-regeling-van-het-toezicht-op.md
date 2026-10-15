@@ -12,7 +12,7 @@ entry_into_force: 2014-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/10/2015000063/justel"
 department: "Binnenlandse Zaken - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2014. - Wet tot wijziging van de wet van 18 juli 1991 tot regeling van het toezicht op politie- en inlichtingendiensten en op het Coördinatieorgaan voor de dreigingsanalyse

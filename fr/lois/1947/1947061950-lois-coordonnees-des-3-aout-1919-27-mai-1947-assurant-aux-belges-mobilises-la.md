@@ -13,7 +13,7 @@ last_amended: 1998-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1947/06/19/1947061950/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-01-1990 et mise à jour au 20-10-1998."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 1947. - Lois coordonnées des 3 août 1919-27 mai 1947 assurant aux Belges mobilisés la réintégration dans leurs fonctions et accordant aux invalides de guerre, anciens combattants, membres de la Résistance, prisonniers politiques, veuves et orphelins de de guerre, déportés, réfractaires au travail et autres victimes des guerres 1914-1918 et 1940-1945 un droit de priorité pour l'accession aux emplois publics. -

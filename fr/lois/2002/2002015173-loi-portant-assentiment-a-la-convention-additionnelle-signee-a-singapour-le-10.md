@@ -12,7 +12,7 @@ entry_into_force: 2004-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/08/09/2002015173/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 AOUT 2002. - Loi portant assentiment à la Convention additionnelle signée à Singapour le 10 décembre 1996, modifiant la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Singapour tendant à éviter la double imposition en matière d'impôts sur le revenu, signée à Singapour le 8 février 1972.

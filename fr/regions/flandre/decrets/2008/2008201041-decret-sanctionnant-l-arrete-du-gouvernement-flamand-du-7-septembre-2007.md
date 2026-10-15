@@ -13,7 +13,7 @@ entry_into_force: 2008-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/29/2008201041/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 FEVRIER 2008. - Décret sanctionnant l'arrêté du Gouvernement flamand du 7 septembre 2007 complétant le Code pour la publicité et le sponsoring à la radio et à la télévision par des dispositions spécifiques relatives à la publicité et au sponsoring ciblant les enfants et les jeunes (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 1997-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/01/24/1997000114/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANUARI 1997. - Wet houdende wijziging van de wet van 19 juli 1991 betreffende de bevolkingsregisters en de identiteitskaarten en tot wijziging van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen, strekkende tot verplichte inschrijving in de bevolkingsregisters van de personen die in België geen verblijfplaats hebben.

@@ -12,7 +12,7 @@ entry_into_force: 2026-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/06/24/2026005231/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2026. - Loi modifiant l'ordre de paiement prévu à l'article 216bis/1 du Code d'instruction criminelle

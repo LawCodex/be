@@ -12,7 +12,7 @@ entry_into_force: 2004-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/09/13/2004022892/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 SEPTEMBRE 2004. - Loi portant assentiment à la Convention-cadre de l'Organisation mondiale de la Santé pour la lutte antitabac, adoptée à Genève, le 21 mai 2003.

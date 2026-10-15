@@ -13,7 +13,7 @@ entry_into_force: 2024-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/25/2024009089/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2024. - Decreet tot wijziging van de decreten van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt, van 19 december 2002 betreffende de organisatie van de gewestelijke gasmarkt, van 19 januari 2017 betreffende de tariefmethodologie die van toepassing is op gas- en elektriciteitsdistributienetbeheerders en van 17 december 2020 betreffende de toekenning van een premie voor de installatie van meet- en stuurapparaten

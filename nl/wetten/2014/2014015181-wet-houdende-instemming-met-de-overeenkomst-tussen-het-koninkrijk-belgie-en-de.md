@@ -11,7 +11,7 @@ entry_into_force: 2008-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/06/18/2014015181/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2014. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Albanië, Bosnië en Herzegovina, de Republiek Kroatië, de voormalige Joegoslavische Republiek Macedonië, de Republiek Moldavië, Montenegro, de Republiek Servië en de " United Nations Interim Administration mission in Kosovo " in naam van Kosovo in overeenstemming met resolutie 1244 van de VN-Veiligheidsraad betreffende de voorrechten en immuniteiten van het Secretariaat van het " Central European Free Trade Agreement ", ondertekend te Brussel op 26 juni 2008

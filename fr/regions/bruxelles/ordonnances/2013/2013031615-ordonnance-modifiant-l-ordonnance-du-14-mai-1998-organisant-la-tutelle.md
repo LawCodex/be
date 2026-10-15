@@ -13,7 +13,7 @@ entry_into_force: 2013-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/07/11/2013031615/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2013. - Ordonnance modifiant l'ordonnance du 14 mai 1998 organisant la tutelle administrative sur les communes de la Région de Bruxelles-Capitale et l'ordonnance du 19 juillet 2001 organisant la tutelle administrative sur les zones de police pluricommunales de la Région de Bruxelles-Capitale en ce qui concerne les références à la législation relative aux marchés publics

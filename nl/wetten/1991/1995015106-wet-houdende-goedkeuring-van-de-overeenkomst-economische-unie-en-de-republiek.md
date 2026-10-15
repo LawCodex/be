@@ -11,7 +11,7 @@ entry_into_force: 1995-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/04/19/1995015106/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 1991. - Wet houdende goedkeuring van de Overeenkomst Economische Unie en de Republiek inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 13 april 1989.

@@ -12,7 +12,7 @@ entry_into_force: 2014-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/19/2012000462/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2012. - Loi modifiant la loi du 5 août 1992 sur la fonction de police et la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux à la suite de la réforme de l'arrondissement judiciaire de Bruxelles

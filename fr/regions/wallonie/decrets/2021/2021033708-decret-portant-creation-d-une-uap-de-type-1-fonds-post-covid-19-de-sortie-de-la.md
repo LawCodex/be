@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/21/2021033708/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 21-02-2025 et mise à jour au 21-02-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OCTOBRE 2021. - Décret portant création d'une UAP de type 1 " Fonds post COVID-19 de sortie de la pauvreté "

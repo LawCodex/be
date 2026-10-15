@@ -12,7 +12,7 @@ entry_into_force: 2002-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/12/19/2001003590/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2001. - Wet betreffende de bijdrage van België aan de zevende wedersamenstelling van de werkmiddelen van het Aziatisch Ontwikkelingsfonds.

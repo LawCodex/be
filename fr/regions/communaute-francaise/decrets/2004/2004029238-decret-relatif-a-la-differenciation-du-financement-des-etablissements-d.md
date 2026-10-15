@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/28/2004029238/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 28-06-2004 et mise à jour au 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2004. - Décret relatif à la différenciation du financement des établissements d'enseignement fondamental et secondaire

@@ -12,7 +12,7 @@ published: 2000-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/03/24/2000027136/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2000. - Décret portant assentiment à l'Accord de coopération entre le Gouvernement de la République de Bolivie, le Gouvernement de la Communauté française de Belgique et le Gouvernement de la Région wallonne, fait à Bruxelles le 18 mai 1999.

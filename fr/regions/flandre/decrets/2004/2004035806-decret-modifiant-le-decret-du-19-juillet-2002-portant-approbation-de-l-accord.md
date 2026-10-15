@@ -13,7 +13,7 @@ entry_into_force: 2004-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/02/2004035806/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2004. - Décret modifiant le décret du 19 juillet 2002 portant approbation de l'Accord de coopération entre l'Etat fédéral, la Communauté germanophone, la Communauté française et la Communauté flamande relatif au centre fermé pour le placement provisoire de mineurs ayant commis un fait qualifié d'infraction (TRADUCTION).

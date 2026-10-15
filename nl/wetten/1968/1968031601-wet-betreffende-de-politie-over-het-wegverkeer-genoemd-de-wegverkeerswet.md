@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1968/03/16/1968031601/justel"
 justel_notes:
   - "art. 38, § 3, gewijzigd met ingang op een onbepaalde datum bij <W 2007-06-04/33, art. 3, 2°, 020; Inwerkingtreding : onbepaald >"
   - "Raadpleging van vroegere versies vanaf 08-11-1990 en tekstbijwerking tot 08-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 1968. - Wet betreffende de politie over het wegverkeer. (genoemd "de wegverkeerswet")

@@ -13,7 +13,7 @@ entry_into_force: 2008-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/09/2008029302/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2008. - Decreet houdende instemming met het Verdrag betreffende het Eurokorps en de rechtspositie van zijn Hoofdkwartier tussen de Franse Republiek, de Bondsrepubliek Duitsland, het Koninkrijk België, het Koninkrijk Spanje en het Groothertogdom Luxemburg, en de Slotakte, ondertekend in Brussel op 22 november 2004 (VERTALING).

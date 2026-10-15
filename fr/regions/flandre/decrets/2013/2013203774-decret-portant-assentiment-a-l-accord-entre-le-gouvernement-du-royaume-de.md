@@ -13,7 +13,7 @@ entry_into_force: 2013-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/07/2013203774/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 2013. - Décret portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement du Commonwealth de la Dominique en vue de l'échange de renseignements en matière fiscale, signé à Bruxelles le 26 février 2010

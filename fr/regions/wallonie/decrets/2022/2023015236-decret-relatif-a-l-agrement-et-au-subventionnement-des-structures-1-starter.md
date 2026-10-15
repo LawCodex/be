@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/21/2023015236/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 21-02-2023 et mise à jour au 02-09-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2022. - Décret relatif à l'agrément et au subventionnement des structures [ 1 Starter Wallonia] ( 1 )&lt;DRW 2026-07-16/37 , art.1 , 004; En vigueur : 12-09-2026&gt;

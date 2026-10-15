@@ -13,7 +13,7 @@ entry_into_force: 2015-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/10/2015029682/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2015. - Decreet tot wijziging van sommige bepalingen betreffende de jeugdbescherming en de tenlasteneming van minderjarigen die een als misdrijf omschreven feit hebben gepleegd

@@ -13,7 +13,7 @@ entry_into_force: 2008-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/09/2008201886/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2008. - Decreet houdende de beveiliging van woningen door optische rookmelders.

@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/12/12/2024011527/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2024. - Ordonnance modifiant l'ordonnance du 4 avril 2024 portant le Code des finances publiques de la Région de Bruxelles-Capitale

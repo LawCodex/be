@@ -12,7 +12,7 @@ entry_into_force: 2014-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/15/2014022197/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 2014. - Loi modifiant l'arrêté royal du 1er juin 1934 réglementant l'exercice de l'art dentaire en ce qui concerne la réglementation relative à l'accès aux cabinets dentaires

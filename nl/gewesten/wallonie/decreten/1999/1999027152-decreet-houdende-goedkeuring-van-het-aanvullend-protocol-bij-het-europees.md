@@ -13,7 +13,7 @@ entry_into_force: 1999-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/25/1999027152/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 1999. - Decreet houdende goedkeuring van het Aanvullend Protocol bij het Europees Sociaal Handvest tot invoering van een systeem voor collectieve klachten, opgemaakt te Straatsburg op 9 november 1995 (VERTALING).

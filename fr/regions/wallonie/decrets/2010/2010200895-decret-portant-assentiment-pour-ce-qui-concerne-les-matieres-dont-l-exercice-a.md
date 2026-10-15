@@ -13,7 +13,7 @@ entry_into_force: 2010-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/02/04/2010200895/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2010. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française, à l'Accord de Stabilisation et d'Association entre les Communautés européennes et leurs Etats membres, d'une part, et la République du Monténégro, d'autre part, fait à Luxembourg le 15 octobre 2007

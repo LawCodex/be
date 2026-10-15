@@ -12,7 +12,7 @@ published: 2021-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/01/07/2021030038/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JANUARI 2021. - Decreet houdende wijziging van het decreet van 12 november 2020 houdende diverse bepalingen inzake hoger onderwijs en onderwijs voor sociale promotie

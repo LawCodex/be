@@ -13,7 +13,7 @@ entry_into_force: 2020-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/10/2020042294/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2020. - Décret modifiant les articles 16 et 17/1 du décret du 20 janvier 2012 relatif à une politique rénovée des droits de l'enfant et de la jeunesse

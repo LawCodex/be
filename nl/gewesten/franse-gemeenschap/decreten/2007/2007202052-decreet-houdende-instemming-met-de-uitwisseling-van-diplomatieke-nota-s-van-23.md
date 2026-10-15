@@ -13,7 +13,7 @@ entry_into_force: 2007-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/03/16/2007202052/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2007. - Decreet houdende instemming met de uitwisseling van diplomatieke nota's van 23 mei 2005, die de grondslag vormt voor het akkoord tussen de Regering van het Koninkrijk België met het Waalse Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap, de Regering van de Bondsrepubliek Duitsland, de Regering van de Franse Republiek en de Regering van het Groothertogdom Luxemburg over de samenwerking in de grensgebieden (VERTALING).

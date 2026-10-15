@@ -12,7 +12,7 @@ entry_into_force: 2024-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/02/29/2024201439/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 FEVRIER 2024. - Loi modifiant l'arrêté royal du 27 avril 1997 instaurant un Service de médiation Pensions en application de l'article 15, 5°, de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions

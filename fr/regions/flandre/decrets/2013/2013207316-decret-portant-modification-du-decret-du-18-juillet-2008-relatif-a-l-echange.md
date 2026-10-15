@@ -13,7 +13,7 @@ entry_into_force: 2014-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/06/2013207316/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2013. - Décret portant modification du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, en ce qui concerne l'établissement des compétences de contrôle et de maintien de la commission flamande de contrôle relatives à l'échange électronique de données administratives

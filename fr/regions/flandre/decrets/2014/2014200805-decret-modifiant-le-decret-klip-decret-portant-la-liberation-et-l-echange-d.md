@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/17/2014200805/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANVIER 2014. - Décret modifiant le décret KLIP (Décret portant la libération et l'échange d'informations sur les câbles et canalisations souterrains) du 14 mars 2008, en ce qui concerne le mode de traitement d'une demande de plan

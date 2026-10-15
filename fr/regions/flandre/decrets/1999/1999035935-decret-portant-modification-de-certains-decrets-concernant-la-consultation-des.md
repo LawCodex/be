@@ -13,7 +13,7 @@ entry_into_force: 1999-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/18/1999035935/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1999. - Décret portant modification de certains décrets concernant la consultation des organismes consultatifs par le Parlement flamand (TRADUCTION).

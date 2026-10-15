@@ -12,7 +12,7 @@ entry_into_force: 2019-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/06/11/2019011028/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2018. - Wet houdende instemming met het Verdrag over de erkenning en de omwisseling van rijbewijzen tussen het Koninkrijk België en het Prinsdom Andorra, opgemaakt te Brussel op 1 april 2009

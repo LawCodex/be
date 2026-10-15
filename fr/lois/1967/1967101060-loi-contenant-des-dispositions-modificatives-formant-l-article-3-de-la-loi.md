@@ -12,7 +12,7 @@ entry_into_force: 1970-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101060/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 1967. - Loi contenant des dispositions modificatives formant l'article 3 de la loi contenant le Code judiciaire

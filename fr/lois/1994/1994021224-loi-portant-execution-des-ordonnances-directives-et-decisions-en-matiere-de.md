@@ -12,7 +12,7 @@ entry_into_force: 1994-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/04/29/1994021224/justel"
 department: "Education nationale - ONDERWIJS"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 1994. - Loi portant exécution des ordonnances, directives et décisions en matière de diplômes, certificats et autres titres requis pour l'exercice d'une profession ou d'une activité professionnelle, édictées en application du Traité instituant la Communauté économique européenne.

@@ -12,7 +12,7 @@ entry_into_force: 2024-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/01/07/2024000808/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANUARI 2024. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Kosovo inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het personeel van de diplomatieke missies en consulaire posten, gedaan te Brussel op 17 juni 2022

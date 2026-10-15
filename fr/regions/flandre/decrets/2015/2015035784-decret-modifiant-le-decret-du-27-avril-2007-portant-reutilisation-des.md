@@ -13,7 +13,7 @@ entry_into_force: 2015-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/12/2015035784/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2015. - Décret modifiant le décret du 27 avril 2007 portant réutilisation des informations du secteur public et modifiant le décret du 18 juillet 2008 relatif à l'échange électronique de données administratives

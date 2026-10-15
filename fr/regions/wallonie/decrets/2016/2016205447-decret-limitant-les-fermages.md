@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/10/20/2016205447/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 31-10-2016 et mise à jour au 08-11-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 2016. - Décret limitant les fermages

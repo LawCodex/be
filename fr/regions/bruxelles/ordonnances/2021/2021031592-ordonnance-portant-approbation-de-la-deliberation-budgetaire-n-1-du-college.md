@@ -13,7 +13,7 @@ entry_into_force: 2021-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/06/03/2021031592/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2021. - Ordonnance portant approbation de la délibération budgétaire n° 1 du Collège réuni de la Commission communautaire commune autorisant l'engagement, la liquidation et le paiement des dépenses, imputables sur le budget général des Dépenses de la Commission communautaire commune pour l'année budgétaire 2021

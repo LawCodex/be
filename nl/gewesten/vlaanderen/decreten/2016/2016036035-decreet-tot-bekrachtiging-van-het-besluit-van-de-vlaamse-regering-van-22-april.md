@@ -13,7 +13,7 @@ entry_into_force: 2016-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/10/2016036035/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2016. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 22 april 2016 betreffende het tijdelijke project "schoolbank op de werkplek" rond duaal leren in het secundair onderwijs

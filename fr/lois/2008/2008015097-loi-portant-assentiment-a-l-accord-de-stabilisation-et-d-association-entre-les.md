@@ -12,7 +12,7 @@ entry_into_force: 2010-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/03/2008015097/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2008. - Loi portant assentiment à l'Accord de stabilisation et d'association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Monténégro, d'autre part, fait à Luxembourg le 15 octobre 2007

@@ -13,7 +13,7 @@ entry_into_force: 2002-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/11/2002029438/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2002. - Décret modifiant le décret du 14 juillet 1997 portant organisation de la promotion de la santé en Communauté française.

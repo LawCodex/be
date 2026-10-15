@@ -12,7 +12,7 @@ entry_into_force: 2006-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/02/09/2006015038/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2006. - Loi portant assentiment à la Convention générale de coopération au développement entre le Royaume de Belgique et la République unie de Tanzanie, signée à Dar Es Salaam le 16 octobre 2002.

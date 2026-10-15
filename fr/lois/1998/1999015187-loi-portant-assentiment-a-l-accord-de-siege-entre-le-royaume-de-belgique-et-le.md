@@ -12,7 +12,7 @@ entry_into_force: 2000-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/01/15/1999015187/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 1998. - Loi portant assentiment à l'Accord de siège entre le Royaume de Belgique et le groupe des Etats d'Afrique, des Caraïbes et du Pacifique, signé à Bruxelles le 26 avril 1993.

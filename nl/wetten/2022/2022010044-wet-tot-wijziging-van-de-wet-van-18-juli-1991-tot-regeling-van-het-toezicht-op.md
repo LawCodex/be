@@ -11,7 +11,7 @@ entry_into_force: 2022-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/04/25/2022010044/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2022. - Wet tot wijziging van de wet van 18 juli 1991 tot regeling van het toezicht op politie- en inlichtingendiensten en op het Coördinatieorgaan voor de dreigingsanalyse, wat de verplichting voor de Dienst Enquêtes van het Comité P betreft om in het geval van een strafonderzoek de bevoegde tuchtrechtelijke overheid in te lichten over het bestaan van een mogelijke tuchtrechtelijke fout

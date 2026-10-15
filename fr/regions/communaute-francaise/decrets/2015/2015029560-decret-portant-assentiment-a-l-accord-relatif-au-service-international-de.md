@@ -13,7 +13,7 @@ entry_into_force: 2015-11-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/10/22/2015029560/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2015. - Décret portant assentiment à l'Accord relatif au Service International de Recherches et à l'Accord de partenariat sur les relations entre les Archives fédérales de la République fédérale d'Allemagne et le Service International de Recherches, fait à Berlin le 9 décembre 2011

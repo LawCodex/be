@@ -13,7 +13,7 @@ entry_into_force: 2001-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/05/18/2001035646/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2001. - Decreet houdende wijziging van het decreet van 22 februari 1995 betreffende de bodemsanering, wat de sanering van sites betreft.

@@ -12,7 +12,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/01/30/1996003084/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 1996. - Wet tot wijziging van de wet van 6 april 1995 inzake de secundaire markten, het statuut van en het toezicht op de beleggingsondernemingen, de bemiddelaars en beleggingsadviseurs en van de wet van 4 december 1990 op de financiële transacties en de financiële markten.

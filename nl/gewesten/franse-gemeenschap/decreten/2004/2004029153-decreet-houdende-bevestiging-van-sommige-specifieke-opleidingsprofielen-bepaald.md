@@ -13,7 +13,7 @@ entry_into_force: 2004-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/31/2004029153/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2004. - Decreet houdende bevestiging van sommige specifieke opleidingsprofielen bepaald overeenkomstig artikel 6 van het decreet van 27 oktober 1994 tot regeling van het overleg in het secundair onderwijs (VERTALING).

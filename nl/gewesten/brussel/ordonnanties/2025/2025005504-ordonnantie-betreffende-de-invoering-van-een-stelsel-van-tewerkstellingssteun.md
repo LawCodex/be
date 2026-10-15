@@ -11,7 +11,7 @@ date: 2025-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/07/17/2025005504/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2025. - Ordonnantie betreffende de invoering van een stelsel van tewerkstellingssteun voor de beroepsinschakeling van personen met een handicap

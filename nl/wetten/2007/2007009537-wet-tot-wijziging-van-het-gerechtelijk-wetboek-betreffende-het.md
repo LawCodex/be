@@ -11,7 +11,7 @@ published: 2007-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/15/2007009537/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2007. - Wet tot wijziging van het Gerechtelijk Wetboek betreffende het deskundigenonderzoek en tot herstel van artikel 509quater van het Strafwetboek.

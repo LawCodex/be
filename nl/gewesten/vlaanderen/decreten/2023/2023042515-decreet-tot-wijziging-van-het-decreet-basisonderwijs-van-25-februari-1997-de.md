@@ -12,7 +12,7 @@ published: 2023-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/04/28/2023042515/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2023. - Decreet tot wijziging van het decreet basisonderwijs van 25 februari 1997, de Codex Secundair Onderwijs van 17 december 2010 en het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs, wat betreft het gebruik van persoonsgegevens in het basisonderwijs, het secundair onderwijs en het deeltijds kunstonderwijs

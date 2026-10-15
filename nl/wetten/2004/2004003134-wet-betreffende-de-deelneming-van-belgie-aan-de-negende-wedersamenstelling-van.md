@@ -12,7 +12,7 @@ entry_into_force: 2004-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/02/10/2004003134/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2004. - Wet betreffende de deelneming van België aan de negende wedersamenstelling van de middelen van het Afrikaans Ontwikkelingsfonds.

@@ -13,7 +13,7 @@ entry_into_force: 2008-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/10/2008202737/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2008. - Decreet houdende wijziging van het decreet van 24 juli 1996 houdende regeling tot erkenning van de instellingen voor schuldbemiddeling in de Vlaamse Gemeenschap.

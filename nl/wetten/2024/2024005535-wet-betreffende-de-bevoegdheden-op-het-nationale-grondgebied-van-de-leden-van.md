@@ -12,7 +12,7 @@ entry_into_force: 2024-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/16/2024005535/justel"
 department: "Justitie - Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Wet betreffende de bevoegdheden op het nationale grondgebied van de leden van de Europese grens- en kustwacht

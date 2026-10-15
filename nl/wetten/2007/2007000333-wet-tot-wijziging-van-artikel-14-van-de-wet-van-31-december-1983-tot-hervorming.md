@@ -12,7 +12,7 @@ entry_into_force: 2007-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/20/2007000333/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2007. - Wet tot wijziging van artikel 14 van de wet van 31 december 1983 tot hervorming der instellingen voor de Duitstalige Gemeenschap.

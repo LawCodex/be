@@ -13,7 +13,7 @@ entry_into_force: 2012-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/19/2012203366/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2012. - Décret portant assentiment à la Convention entre la Belgique et la France tendant à éviter les doubles impositions et à établir des règles d'assistance administrative et juridique réciproque en matière d'impôts sur les revenus, le Protocole final et l'échange de lettre faits à Bruxelles le 10 mars 1964, telle que modifiée par les avenants des 15 février 1971, 8 février 1999, 12 décembre 2008 et 7 juillet 2009

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/02/1999035844/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 21-08-1999 et mise à jour au 31-12-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 1999. - Décret réglant certaines matières relatives à l'éducation des adultes. (TRADUCTION)

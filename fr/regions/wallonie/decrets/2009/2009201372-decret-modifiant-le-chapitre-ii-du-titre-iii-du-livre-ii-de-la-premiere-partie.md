@@ -13,7 +13,7 @@ entry_into_force: 2010-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/06/2009201372/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2009. - Décret modifiant le Chapitre II du Titre III du Livre II de la première partie du Code de la démocratie locale et de la décentralisation relatif aux funérailles et sépultures

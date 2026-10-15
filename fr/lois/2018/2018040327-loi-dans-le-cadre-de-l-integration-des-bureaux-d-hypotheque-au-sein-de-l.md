@@ -12,7 +12,7 @@ entry_into_force: 2018-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/11/2018040327/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2018. - Loi dans le cadre de l'intégration des bureaux d'hypothèque au sein de l'Administration Sécurité juridique de l'Administration générale de la Documentation patrimoniale du Service public fédéral Finances et des nouvelles organisation et répartition des compétences au sein de l'Administration de la Sécurité juridique

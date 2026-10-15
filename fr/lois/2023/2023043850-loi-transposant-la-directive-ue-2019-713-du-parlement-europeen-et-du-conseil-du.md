@@ -12,7 +12,7 @@ entry_into_force: 2023-09-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/07/12/2023043850/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2023. - Loi transposant la directive (UE) 2019/713 du Parlement européen et du Conseil du 17 avril 2019 concernant la lutte contre la fraude et la contrefaçon des moyens de paiement autres que les espèces et remplaçant la décision-cadre 2001/413/JAI du Conseil

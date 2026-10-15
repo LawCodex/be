@@ -12,7 +12,7 @@ published: 2023-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/10/13/2023046393/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OKTOBER 2023. - Ordonnantie betreffende de steun voor de economische ontwikkeling en transitie van ondernemingen

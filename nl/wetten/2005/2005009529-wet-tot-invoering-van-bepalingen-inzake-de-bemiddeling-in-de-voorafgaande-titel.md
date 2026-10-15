@@ -12,7 +12,7 @@ entry_into_force: 2005-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/06/22/2005009529/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2005. - Wet tot invoering van bepalingen inzake de bemiddeling in de Voorafgaande Titel van het Wetboek van Strafvordering en in het Wetboek van strafvordering.

@@ -13,7 +13,7 @@ last_amended: 2026-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1808/12/12/1808121250/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-10-1996 en tekstbijwerking tot 24-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 1808. - WETBOEK VAN STRAFVORDERING. - BOEK II, TITEL IV. (448 tot en met 524septies) &lt;Om technische redenen is het Wetboek van Strafvordering ingedeeld in 8 delen waarvan het zesde deel Titel IV van het tweede Boek omvat.&gt;

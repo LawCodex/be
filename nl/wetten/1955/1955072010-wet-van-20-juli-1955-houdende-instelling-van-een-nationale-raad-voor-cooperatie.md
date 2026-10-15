@@ -13,7 +13,7 @@ last_amended: 2024-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1955/07/20/1955072010/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 24-07-2013 en tekstbijwerking tot 11-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 1955. - [Wet van 20 juli 1955 houdende instelling van een Nationale Raad voor Coöperatie, het Sociaal Ondernemerschap en de Landbouwonderneming.] &lt;W 2019-03-23/06 , art. 24, 003; Inwerkingtreding : 01-05-2019&gt;

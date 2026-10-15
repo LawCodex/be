@@ -13,7 +13,7 @@ entry_into_force: 2017-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/11/10/2017040793/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2017. - Décret portant assentiment à l'accord de coopération du 28 mars 2017 entre la Communauté flamande, la Région flamande et la Communauté germanophone relatif à la promotion de la coopération générale

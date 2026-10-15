@@ -13,7 +13,7 @@ entry_into_force: 2018-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/08/2018012898/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2018. - Decreet houdende wijziging van diverse bepalingen van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en wijziging van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009

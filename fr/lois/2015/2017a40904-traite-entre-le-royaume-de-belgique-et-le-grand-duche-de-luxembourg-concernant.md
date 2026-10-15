@@ -12,7 +12,7 @@ entry_into_force: 2017-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/02/05/2017A40904/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 2015. - Traité entre le Royaume de Belgique et le Grand-Duché de Luxembourg concernant la coopération en matière de défense et de sécurité, fait à Bruxelles le 5 février 2015

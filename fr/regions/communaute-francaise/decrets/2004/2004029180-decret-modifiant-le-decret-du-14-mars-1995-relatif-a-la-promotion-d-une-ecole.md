@@ -13,7 +13,7 @@ entry_into_force: 2004-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/19/2004029180/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2004. - Décret modifiant le décret du 14 mars 1995 relatif à la promotion d'une école de la réussite dans l'enseignement fondamental.

@@ -13,7 +13,7 @@ entry_into_force: 2008-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/03/14/2008201062/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2008. - Décret modifiant le décret communal en ce qui concerne la compétence d'ester en justice d'un organe décisionnel communal (TRADUCTION).

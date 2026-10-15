@@ -12,7 +12,7 @@ published: 2024-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/01/25/2024000829/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2024. - Ordonnance portant assentiment à l'accord de coopération du 26 avril 2023 entre l'Etat fédéral, la Région wallonne, la Région flamande et la Région de Bruxelles-Capitale portant création du Registre central des cycles

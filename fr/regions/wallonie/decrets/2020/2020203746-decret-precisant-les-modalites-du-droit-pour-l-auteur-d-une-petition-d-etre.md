@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/09/03/2020203746/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 10-09-2020 et mise à jour au 12-07-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBRE 2020. - Décret précisant les modalités du droit pour l'auteur d'une pétition d'être entendu

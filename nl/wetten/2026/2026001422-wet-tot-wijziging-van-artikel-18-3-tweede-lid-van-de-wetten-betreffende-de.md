@@ -12,7 +12,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/02/11/2026001422/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEBRUARI 2026. - Wet tot wijziging van artikel 18, § 3, tweede lid, van de wetten betreffende de jaarlijkse vakantie van de werknemers gecoördineerd op 28 juni 1971

@@ -13,7 +13,7 @@ entry_into_force: 2012-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/05/31/2012203582/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2012. - Décret portant assentiment à l'Accord de Siège entre le Royaume de Belgique et le Secrétariat du " Regional Cooperation Council ", signé à Bruxelles le 29 août 2008

@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/29/2018015277/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2018. - Decreet tot wijziging van het decreet van 5 maart 2009 met betrekking tot het aanbod van ambulante diensten in de domeinen van de sociale actie, het gezin en de gezondheid

@@ -13,7 +13,7 @@ entry_into_force: 2013-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/01/18/2013035168/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2013. - Décret portant assentiment à l'accord de siège entre le Royaume de Belgique et l'" International Management Group ", signé à Bruxelles le 13 juin 2012

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1989/12/20/1989030036/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-12-1990 et mise à jour au 24-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1989. - Décret contenant des dispositions d'exécution du budget de la Communauté flamande. &lt;Traduction&gt;

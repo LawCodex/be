@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/12/11/2003003554/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 15-12-2003 en tekstbijwerking tot 29-12-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2003. - Wet houdende overname door de Belgische Staat van de wettelijke pensioenverplichtingen van de naamloze vennootschap van publiek recht [Proximus] ten opzichte van haar statutair personeel &lt;Opschrift gewijzigd bij W 2015-08-10/26 , art. 3, 002; Inwerkingtreding : 22-06-2015 (zie KB 2015-09-11/02 , art. 1)&gt;

@@ -13,7 +13,7 @@ entry_into_force: 2000-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/12/01/2000036240/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er DECEMBRE 2000. - Décret modifiant certaines dispositions concernant les télévisions régionales des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 25 janvier 1995 (TRADUCTION).

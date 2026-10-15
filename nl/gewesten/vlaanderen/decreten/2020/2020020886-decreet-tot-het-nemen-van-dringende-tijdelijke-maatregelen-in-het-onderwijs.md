@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/05/08/2020020886/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 14-05-2020 en tekstbijwerking tot 06-07-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2020. - Decreet tot het nemen van dringende tijdelijke maatregelen in het onderwijs naar aanleiding van de coronacrisis

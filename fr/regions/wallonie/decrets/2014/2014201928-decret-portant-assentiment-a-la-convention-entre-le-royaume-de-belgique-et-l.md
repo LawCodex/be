@@ -13,7 +13,7 @@ entry_into_force: 2014-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/13/2014201928/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2014. - Décret portant assentiment à la Convention entre le Royaume de Belgique et l'île de Man tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu, faite à Bruxelles le 16 juillet 2009

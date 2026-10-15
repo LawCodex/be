@@ -12,7 +12,7 @@ published: 2021-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/09/20/2021204540/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBER 2021. - Decreet houdende instemming met het Verdrag van de Raad van Europa inzake cinematografische coproductie (herzien), opgemaakt te Rotterdam op 30 januari 2017

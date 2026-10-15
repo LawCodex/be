@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/15/2018201408/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 28-03-2018 en tekstbijwerking tot 16-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2018. - Decreet betreffende de woninghuurovereenkomst

@@ -12,7 +12,7 @@ entry_into_force: 2000-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/07/03/2000014174/justel"
 department: "Communications"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2000. - Loi modifiant la loi du 30 juillet 1979 relative aux radiocommunications et la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques.

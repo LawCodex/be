@@ -12,7 +12,7 @@ entry_into_force: 2005-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/07/07/2005015105/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2005. - Loi portant assentiment aux Actes internationaux suivants : 1° Convention établie sur la base de l'article K.3 du Traité sur l'Union européenne, sur l'emploi de l'informatique dans le domaine des douanes, faite à Bruxelles le 26 juillet 1995; 2° Accord relatif à l'application provisoire entre certains Etats membres de l'Union européenne de la Convention établie sur la base de l'article K.3 du Traité sur l'Union européenne sur l'emploi de l'informatique dans le domaine des douanes, fait à Bruxelles le 26 juillet 1995; 3° Protocole établi sur la base de l'article K.3 du Traité sur l'Union européenne, concernant l'interprétation, à titre préjudiciel, par la Cour de justice des Communautés européennes de la Convention sur l'emploi de l'informatique dans le domaine des douanes, et la Déclaration, faits à Bruxelles le 29 novembre 1996; 4° Protocole établi sur la base de l'article K.3 du Traité sur l'Union européenne, relatif au champ d'application du blanchiment de revenus dans la Convention sur l'emploi de l'informatique dans le domaine des douanes et à l'inclusion du numéro d'immatriculation du moyen de transport dans la Convention, et les Déclarations, faits à Bruxelles le 12 mars 1999.

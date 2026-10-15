@@ -12,7 +12,7 @@ entry_into_force: 2000-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/05/25/2000015097/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2000. - Loi portant assentiment au Statut de Rome de la Cour pénale internationale, fait à Rome le 17 juillet 1998.

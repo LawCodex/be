@@ -13,7 +13,7 @@ entry_into_force: 2021-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/13/2018031587/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2018. - Décret portant la commission de reconnaissance et de médiation pour les victimes d'abus historiques

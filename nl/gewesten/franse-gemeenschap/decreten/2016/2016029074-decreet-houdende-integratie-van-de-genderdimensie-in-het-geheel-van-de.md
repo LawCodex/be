@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/01/07/2016029074/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 12-02-2016 en tekstbijwerking tot 11-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JANUARI 2016. - Decreet houdende integratie van de genderdimensie in het geheel van de beleidslijnen van de Franse Gemeenschap

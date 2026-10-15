@@ -12,7 +12,7 @@ published: 2013-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/09/23/2013205519/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBER 2013. - Decreet houdende instemming met de Kaderovereenkomst inzake partnerschap en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek der Filippijnen, anderzijds, gedaan te Phnom-Penh op 11 juli 2012

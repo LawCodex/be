@@ -12,7 +12,7 @@ entry_into_force: 2022-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/06/2022042945/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBER 2022. - Wet houdende de vierde aanpassing van de Algemene uitgavenbegroting voor het begrotingsjaar 2022

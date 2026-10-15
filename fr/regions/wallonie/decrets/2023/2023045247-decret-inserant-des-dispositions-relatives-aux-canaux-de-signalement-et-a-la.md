@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/05/19/2023045247/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2023. - Décret insérant des dispositions relatives aux canaux de signalement et à la protection des personnes qui signalent une violation au sein des services ou organes d'une autorité locale dans le Code de la démocratie locale et de la décentralisation

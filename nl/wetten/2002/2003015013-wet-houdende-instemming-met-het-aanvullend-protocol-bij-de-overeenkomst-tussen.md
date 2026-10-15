@@ -12,7 +12,7 @@ entry_into_force: 2003-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/11/13/2003015013/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2002. - Wet houdende instemming met het Aanvullend Protocol bij de Overeenkomst tussen de Republiek Oostenrijk, het Koninkrijk België, het Koninkrijk Denemarken, de Republiek Finland, de Bondsrepubliek Duitsland, de Helleense Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Portugese Republiek, het Koninkrijk Spanje, het Koninkrijk Zweden, de Europese Gemeenschap voor Atoomenergie en de Internationale Organisatie voor Atoomenergie ter uitvoering van Artikel III, leden 1 en 4, van het Verdrag inzake de niet-verspreiding van kernwapens en met de Bijlagen I, II en III, gedaan te Wenen op 22 september 1998.

@@ -13,7 +13,7 @@ entry_into_force: 2006-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/22/2006202147/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2006. - Décret modifiant le décret du 10 novembre 2004 instaurant un système d'échange de quotas d'émission de gaz à effet de serre, créant un Fonds wallon Kyoto et relatif aux mécanismes de flexibilité du Protocole de Kyoto.

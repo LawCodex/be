@@ -13,7 +13,7 @@ entry_into_force: 2019-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/12/17/2019011604/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2014. - Decreet houdende de uitgavenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2015

@@ -13,7 +13,7 @@ entry_into_force: 2023-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/10/2023047706/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2023. - Décret modifiant le Décret sur l'Energie du 8 mai 2009, en ce qui concerne la gestion du réseau, l'efficacité énergétique et la production d'énergie respectueuse de l'environnement

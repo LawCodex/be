@@ -11,7 +11,7 @@ published: 1860-07-02
 entry_into_force: 1860-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1860/07/01/1860070150/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er JUILLET 1860. - Loi apportant des modifications à la loi provinciale et à la loi communale en ce qui concerne le serment.

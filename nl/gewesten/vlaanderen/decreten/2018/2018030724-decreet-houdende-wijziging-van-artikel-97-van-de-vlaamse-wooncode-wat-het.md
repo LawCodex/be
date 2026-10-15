@@ -13,7 +13,7 @@ entry_into_force: 2018-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/23/2018030724/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2018. - Decreet houdende wijziging van artikel 97 van de Vlaamse Wooncode, wat het stimuleren van hernieuwbare energie betreft

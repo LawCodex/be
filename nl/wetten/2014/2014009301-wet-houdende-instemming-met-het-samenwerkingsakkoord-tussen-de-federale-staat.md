@@ -12,7 +12,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/12/2014009301/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2014. - Wet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, de Gemeenschappen en de Gewesten betreffende het strafrechtelijk beleid en het veiligheidsbeleid

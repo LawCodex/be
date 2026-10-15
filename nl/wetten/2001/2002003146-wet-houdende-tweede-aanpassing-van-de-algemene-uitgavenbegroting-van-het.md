@@ -12,7 +12,7 @@ entry_into_force: 2002-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/12/24/2002003146/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2001. - Wet houdende tweede aanpassing van de Algemene uitgavenbegroting van het begrotingsjaar 2001.

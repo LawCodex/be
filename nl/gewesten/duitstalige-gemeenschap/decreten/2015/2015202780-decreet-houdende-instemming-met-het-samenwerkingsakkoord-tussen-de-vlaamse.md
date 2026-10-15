@@ -13,7 +13,7 @@ entry_into_force: 2015-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/05/18/2015202780/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2015. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie tot wijziging van het samenwerkingsakkoord van 9 december 2011 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende dopingpreventie en -bestrijding in de sport, gedaan te Brussel op 17 december 2014

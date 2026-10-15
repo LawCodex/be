@@ -12,7 +12,7 @@ entry_into_force: 2023-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/06/28/2023043266/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2023. - Wet tot wijziging van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, teneinde de huidige titel van verpleegkundige aan Richtlijn 2005/36/EG te verduidelijken en de basisverpleegkundige en de klinisch verpleegkundig onderzoeker hierin op te nemen

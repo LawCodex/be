@@ -13,7 +13,7 @@ entry_into_force: 2019-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/09/2019013018/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2019. - Décret portant assentiment à l'accord de coopération conclu entre la Communauté flamande, la Commission communautaire française et la Commission communautaire commune relatif au parcours d'accueil obligatoire des primo-arrivants à Bruxelles-Capitale

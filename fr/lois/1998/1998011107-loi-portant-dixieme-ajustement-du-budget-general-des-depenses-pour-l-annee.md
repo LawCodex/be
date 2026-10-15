@@ -12,7 +12,7 @@ entry_into_force: 1998-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/04/16/1998011107/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 AVRIL 1998. - Loi portant dixième ajustement du budget général des dépenses pour l'année budgétaire 1997 - Section 32 - Ministère des Affaires économiques.

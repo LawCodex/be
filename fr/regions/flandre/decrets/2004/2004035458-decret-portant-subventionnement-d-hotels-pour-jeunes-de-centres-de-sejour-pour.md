@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/03/2004035458/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 27-01-2009 et mise à jour au 17-08-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2004. - Décret portant subventionnement d'hôtels pour jeunes, de centres de séjour pour jeunes, de structures d'appui et de l'asbl " Algemene Dienst voor Jeugdtoerisme " (TRADUCTION). &lt;Intitulé remplacé par DCFL 2008-11-21/48 , art. 65, 002; En vigueur : 27-01-2009&gt;

@@ -13,7 +13,7 @@ entry_into_force: 2004-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/20/2006029107/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2006. - Décret modifiant le décret du 20 décembre 2001 relatif à la promotion de la santé à l'école et le décret du 16 mai 2002 relatif à la promotion de la santé dans l'enseignement supérieur hors université.

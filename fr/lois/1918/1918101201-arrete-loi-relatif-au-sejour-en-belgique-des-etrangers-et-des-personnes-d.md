@@ -11,7 +11,7 @@ published: 1918-10-13
 entry_into_force: 1918-10-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1918/10/12/1918101201/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OCTOBRE 1918. - ARRETE-LOI relatif au séjour en Belgique des étrangers et des personnes d'origine étrangère.

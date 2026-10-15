@@ -12,7 +12,7 @@ entry_into_force: 2013-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/04/2013206906/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2013. - Wet tot wijziging van de wet van 17 juni 2013 betreffende de motivering, de informatie en de rechtsmiddelen inzake overheidsopdrachten en bepaalde opdrachten voor werken, leveringen en diensten en tot bekrachtiging van de bepalingen inzake rechtsbescherming van twee koninklijke besluiten genomen met toepassing van artikel 80, derde tot vijfde lid, van de wet overheidsopdrachten en bepaalde opdrachten voor werken, leveringen en diensten van 15 juni 2006

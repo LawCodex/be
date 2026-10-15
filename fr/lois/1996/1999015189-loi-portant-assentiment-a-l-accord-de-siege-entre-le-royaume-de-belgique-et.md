@@ -12,7 +12,7 @@ entry_into_force: 1999-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/11/18/1999015189/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBRE 1996. - Loi portant assentiment à l'Accord de siège entre le Royaume de Belgique et AELE, signé à Bruxelles le 27 janvier 1993

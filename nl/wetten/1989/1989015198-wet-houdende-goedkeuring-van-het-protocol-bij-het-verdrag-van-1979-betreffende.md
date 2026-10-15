@@ -12,7 +12,7 @@ entry_into_force: 1990-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/04/20/1989015198/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 1989. - Wet houdende goedkeuring van het Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand inzake de vermindering van zwavelemissies of van grensoverschrijdende stromen van deze zwavelverbindingen met ten minste 30 %, opgemaakt te Helsinki op 8 juli 1985.

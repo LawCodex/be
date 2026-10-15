@@ -12,7 +12,7 @@ entry_into_force: 2006-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/18/2006009912/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2006. - Wet tot invoeging van een nieuw lid in artikel 417ter van het Strafwetboek.

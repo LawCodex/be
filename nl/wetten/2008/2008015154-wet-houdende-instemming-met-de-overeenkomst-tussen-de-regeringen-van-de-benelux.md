@@ -11,7 +11,7 @@ entry_into_force: 2008-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/09/18/2008015154/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 SEPTEMBER 2008. - Wet houdende instemming met de Overeenkomst tussen de Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en de Macedoonse Regering betreffende de overname van onregelmatig verblijvende personen (Overnameovereenkomst) en het Uitvoeringsprotocol, gedaan te Voorburg op 30 mei 2006.

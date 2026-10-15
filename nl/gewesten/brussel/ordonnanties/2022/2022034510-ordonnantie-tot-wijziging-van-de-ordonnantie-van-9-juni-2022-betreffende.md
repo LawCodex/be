@@ -13,7 +13,7 @@ entry_into_force: 2022-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/12/01/2022034510/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2022. - Ordonnantie tot wijziging van de ordonnantie van 9 juni 2022 betreffende taxidiensten en de ordonnantie van 6 maart 2019 betreffende de Brusselse Codex Fiscale Procedure

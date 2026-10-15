@@ -12,7 +12,7 @@ entry_into_force: 2016-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/04/27/2016009200/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2016. - Wet inzake aanvullende maatregelen ter bestrijding van terrorisme

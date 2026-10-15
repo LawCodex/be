@@ -13,7 +13,7 @@ entry_into_force: 2024-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/02/26/2024201293/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2024. - Décret portant assentiment aux accords internationaux suivants : 1° l'Accord d'étape vers un accord de partenariat économique entre la Communauté européenne et ses Etats membres, d'une part, et la partie Afrique centrale, d'autre part, fait à Yaoundé et à Bruxelles le 22 janvier 2009; 2° l'Accord de partenariat économique d'étape entre la Côte d'Ivoire, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, fait à Abidjan le 26 novembre 2008 et à Bruxelles le 22 janvier 2009

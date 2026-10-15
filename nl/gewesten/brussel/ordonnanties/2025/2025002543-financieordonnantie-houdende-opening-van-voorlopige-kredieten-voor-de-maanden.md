@@ -13,7 +13,7 @@ entry_into_force: 2025-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/03/21/2025002543/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2025. - Financieordonnantie houdende opening van voorlopige kredieten voor de maanden april, mei en juni 2025 op de begroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2025

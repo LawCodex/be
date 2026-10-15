@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/03/23/2017202012/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 19-04-2017 et mise à jour au 08-10-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2017. - Décret insérant un Titre X/1 relatif aux aides destinées à remédier aux dommages causés par des calamités agricoles dans le Code wallon de l'Agriculture

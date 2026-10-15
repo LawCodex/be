@@ -12,7 +12,7 @@ entry_into_force: 2016-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/06/2016015105/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2016. - Loi portant assentiment à la Convention du Conseil de l'Europe sur la contrefaçon des produits médicaux et les infractions similaires menaçant la santé publique, faite à Moscou le 28 octobre 2011

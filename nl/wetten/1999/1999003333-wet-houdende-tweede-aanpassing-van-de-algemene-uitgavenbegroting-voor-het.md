@@ -10,7 +10,7 @@ date: 1999-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/07/1999003333/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 1999. - Wet houdende tweede aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 1999 - Sectie 23 "Ministerie van Tewerkstelling en Arbeid" en Sectie 26 - "Ministerie van Sociale Zaken, Volksgezondheid en Leefmilieu".

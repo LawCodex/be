@@ -13,7 +13,7 @@ entry_into_force: 2012-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/19/2012203355/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2012. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Franse Gemeenschap, het Waals Gewest en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest, enerzijds, en de Regering van de Republiek Kroatië, anderzijds, ondertekend te Namen op 21 december 2010

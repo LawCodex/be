@@ -12,7 +12,7 @@ entry_into_force: 2012-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/06/20/2012015106/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2012. - Wet houdende instemming met het Verdrag tot instelling van het Europees Stabiliteitsmechanisme (ESM), ondertekend te Brussel op 2 februari 2012

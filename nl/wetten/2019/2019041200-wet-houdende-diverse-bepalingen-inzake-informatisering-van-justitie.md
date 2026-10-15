@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/05/2019041200/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 19-06-2019 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2019. - Wet houdende diverse bepalingen inzake informatisering van Justitie, modernisering van het statuut van rechters in ondernemingszaken en inzake de notariële aktebank

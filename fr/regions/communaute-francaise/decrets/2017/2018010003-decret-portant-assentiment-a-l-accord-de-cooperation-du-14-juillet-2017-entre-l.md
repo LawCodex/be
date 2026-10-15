@@ -13,7 +13,7 @@ entry_into_force: 2018-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/20/2018010003/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2017. - Décret portant assentiment à l'accord de coopération du 14 juillet 2017 entre l'Etat fédéral, les Communautés et les Régions dans le cadre de la transposition de la directive 2014/61/UE

@@ -12,7 +12,7 @@ entry_into_force: 1995-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/05/24/1994000408/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 1994. - Loi créant un registre d'attente pour les étrangers qui se déclarent réfugiés ou qui demandent la reconnaissance de la qualité de réfugié.

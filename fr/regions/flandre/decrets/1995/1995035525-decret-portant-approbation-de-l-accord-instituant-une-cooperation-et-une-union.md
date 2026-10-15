@@ -13,7 +13,7 @@ entry_into_force: 1995-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/03/08/1995035525/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 1995. - Décret portant approbation de l'accord instituant une coopération et une union douanière entre la Communauté économique européenne et la République de San Marino, de l'Annexe et de cinq Déclarations, faits à Bruxelles le 16 décembre 1991. (TRADUCTION)

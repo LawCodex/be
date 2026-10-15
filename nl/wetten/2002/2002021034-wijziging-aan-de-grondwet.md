@@ -12,7 +12,7 @@ entry_into_force: 2002-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/02/21/2002021034/justel"
 department: "Kanselarij en Algemene Diensten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2002. - Wijziging aan de Grondwet.

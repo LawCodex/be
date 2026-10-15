@@ -13,7 +13,7 @@ entry_into_force: 2019-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/14/2019012860/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2019. - Décret portant assentiment à l'accord de coopération entre la Communauté française et la Communauté germanophone relatif à la mise à disposition de la fréquence Liège 88.5 MHz

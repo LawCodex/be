@@ -12,7 +12,7 @@ published: 2016-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/06/23/2016031469/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2016. - Ordonnantie tot wijziging van de ordonnantie van 14 mei 1998 houdende regeling van het administratief toezicht op de gemeenten van het Brussels Hoofdstedelijk Gewest, alsook van artikel 112 van de Nieuwe Gemeentewet

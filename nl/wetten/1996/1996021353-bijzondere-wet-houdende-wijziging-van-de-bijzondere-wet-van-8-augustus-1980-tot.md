@@ -12,7 +12,7 @@ entry_into_force: 1997-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/12/04/1996021353/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 1996. - Bijzondere wet houdende wijziging van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen, ten einde een regeling te treffen voor de onverenigbaarheid van het ambt van lid van een parlementaire assemblée met het ambt van lid van een federale Regering, een Gemeenschaps- en Gewestregering.

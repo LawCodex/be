@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/10/19/2017031486/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 16-11-2017 et mise à jour au 30-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2017. - Décret relatif à la protection culturelle du livre

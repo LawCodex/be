@@ -13,7 +13,7 @@ entry_into_force: 2011-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/07/20/2011031390/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2011. - Ordonnantie houdende de eerste aanpassing van de Algemene Uitgavenbegroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2011 ingevolge de begrotingsberaadslaging nr. 01 van de Brusselse Hoofdstedelijke Regering

@@ -13,7 +13,7 @@ entry_into_force: 2016-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/12/12/2016031912/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2016. - Ordonnance contenant l'ajustement du Budget général des Dépenses de la Région de Bruxelles-Capitale pour l'année budgétaire 2016

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/18/2020016467/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-12-2020 et mise à jour au 20-08-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2020. - Décret-programme accompagnant le budget 2021

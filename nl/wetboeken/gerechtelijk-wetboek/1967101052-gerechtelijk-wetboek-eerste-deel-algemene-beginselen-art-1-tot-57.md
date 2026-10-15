@@ -12,7 +12,7 @@ last_amended: 2026-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1967/10/10/1967101052/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 12-06-1985 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 1967. - GERECHTELIJK WETBOEK - Eerste deel : ALGEMENE BEGINSELEN. (art. 1 tot 57)

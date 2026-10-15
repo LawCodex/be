@@ -10,7 +10,7 @@ date: 2006-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/10/2006015086/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 2006. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en Japan betreffende de sociale zekerheid, ondertekend te Brussel op 23 februari 2005.

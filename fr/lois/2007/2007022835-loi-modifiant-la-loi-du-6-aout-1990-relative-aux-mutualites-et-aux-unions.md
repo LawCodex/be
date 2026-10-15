@@ -12,7 +12,7 @@ entry_into_force: 2007-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/11/2007022835/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2007. - Loi modifiant la loi du 6 août 1990 relative aux mutualités et aux unions nationales de mutualités.

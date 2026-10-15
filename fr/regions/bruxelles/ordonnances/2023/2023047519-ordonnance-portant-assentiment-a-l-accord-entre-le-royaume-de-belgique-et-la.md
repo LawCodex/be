@@ -13,7 +13,7 @@ entry_into_force: 2024-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/11/23/2023047519/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Ordonnance portant assentiment à l'Accord entre le Royaume de Belgique et la République d'Ouganda sur l'exercice des activités à but lucratif par des membres de la famille du personnel de missions diplomatiques et de postes consulaires sur la base de réciprocité, fait à Kampala le 8 décembre 2022

@@ -12,7 +12,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/10/22/2003201891/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2003. - Decreet houdende wijziging van de artikelen 257 en 258 van het Wetboek van de inkomstenbelastingen 1992 (VERTALING).

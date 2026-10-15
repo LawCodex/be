@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/20/2005201995/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2005. - Decreet houdende wijziging van het decreet van 11 juli 2002 betreffende de toekenning van een premie voor de invoering van e-business in de kleine en middelgrote ondernemingen. (Vertaling).

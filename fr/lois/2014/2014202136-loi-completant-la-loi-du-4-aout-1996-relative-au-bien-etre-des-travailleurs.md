@@ -12,7 +12,7 @@ entry_into_force: 2014-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/28/2014202136/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2014. - Loi complétant la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail quant à la prévention des risques psychosociaux au travail dont, notamment, la violence et le harcèlement moral ou sexuel au travail

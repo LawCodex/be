@@ -13,7 +13,7 @@ entry_into_force: 1998-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/03/23/1998029290/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1998. - Decreet houdende toestemming in de samenwerkingsovereenkomst tussen de Regering van de Franse Gemeenschap van België en de Waalse Regering, enerzijds, en de Regering van de Republiek Polen, anderzijds, met inbegrip van de uitleggende verklaringen, opgemaakt te Brussel op 10 oktober 1996 (VERTALING).

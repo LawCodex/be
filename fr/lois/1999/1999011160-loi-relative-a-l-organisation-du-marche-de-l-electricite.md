@@ -16,7 +16,7 @@ department: "Affaires économiques"
 justel_notes:
   - "art. 7undecies ; 7duodecies ; 7terdecies modifiés avec effet à une date indéterminée par L 2019-04-22/21 , art. 6-10, 049; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 11-05-1999 et mise à jour au 20-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 1999. - Loi relative à l'organisation du marché de l'électricité

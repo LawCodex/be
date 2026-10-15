@@ -13,7 +13,7 @@ entry_into_force: 2008-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/03/06/2008031121/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2008. - Ordonnantie houdende instemming met het avenant van 28 december 2006 aan het Samenwerkingsakkoord van 30 mei 2005 gesloten tussen de Federale Staat, het Vlaams, het Waals en het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie.

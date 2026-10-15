@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/12/12/2009029130/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-03-2009 en tekstbijwerking tot 12-02-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2008. - Programmadecreet houdende verscheidene maatregelen betreffende de radio-omroep, de oprichting van een begrotingsfonds voor de financiering van programma's voor het opsporen van kankers, de onderwijsinrichtingen, de internaten, de psycho-medisch-sociale centra en de schoolgebouwen

@@ -13,7 +13,7 @@ entry_into_force: 2016-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/04/27/2017030326/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2017. - Décret modifiant le décret du 28 avril 2004 relatif à la reconnaissance et au soutien des écoles de devoirs

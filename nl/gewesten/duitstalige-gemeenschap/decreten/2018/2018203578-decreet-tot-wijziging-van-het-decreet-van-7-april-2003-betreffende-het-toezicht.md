@@ -13,7 +13,7 @@ entry_into_force: 2018-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/18/2018203578/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2018. - Decreet tot wijziging van het decreet van 7 april 2003 betreffende het toezicht op de verkiezingsuitgaven voor de verkiezing van de Raad en op de mededelingen van de overheden van de Duitstalige Gemeenschap

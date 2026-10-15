@@ -12,7 +12,7 @@ entry_into_force: 1995-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/19/1995035995/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 1995. - Decreet houdende eerste aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 1995.

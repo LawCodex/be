@@ -12,7 +12,7 @@ entry_into_force: 2024-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/11/18/2024010495/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBRE 2024. - Loi modifiant la loi du 9 octobre 2023 modifiant la loi relative à l'exercice des professions des soins de santé, coordonnée le 10 mai 2015, en vue de prolonger l'habilitation accordée aux pharmaciens d'administrer le vaccin contre la grippe

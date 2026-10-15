@@ -12,7 +12,7 @@ published: 2010-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/09/2010206369/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2010. - Bijzonder decreet tot beperking van de cumulatie van mandaten in hoofde van de volksvertegenwoordigers van het Waalse Parlement

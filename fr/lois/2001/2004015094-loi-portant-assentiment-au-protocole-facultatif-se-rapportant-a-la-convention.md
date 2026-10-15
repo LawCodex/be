@@ -12,7 +12,7 @@ entry_into_force: 2004-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/08/10/2004015094/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2001. - Loi portant assentiment au Protocole facultatif se rapportant à la Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes, fait à New York le 6 octobre 1999.

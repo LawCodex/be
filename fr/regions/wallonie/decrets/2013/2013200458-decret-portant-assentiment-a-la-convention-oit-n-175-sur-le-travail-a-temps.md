@@ -13,7 +13,7 @@ entry_into_force: 2013-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/01/17/2013200458/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANVIER 2013. - Décret portant assentiment à la Convention OIT n° 175 sur le travail à temps partiel, adoptée à Genève le 24 juin 1994 par la Conférence internationale du Travail lors de sa 81 e session

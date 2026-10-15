@@ -13,7 +13,7 @@ entry_into_force: 2021-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/07/15/2021031840/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2021. - Ordonnantie houdende bekrachtiging van de besluiten van de Brusselse Hoofdstedelijke Regering tot uitvoering van de ordonnantie van 23 november 2020 om bijzondere machten toe te kennen aan de Brusselse Hoofdstedelijke Regering in het kader van de gezondheidscrisis COVID-19

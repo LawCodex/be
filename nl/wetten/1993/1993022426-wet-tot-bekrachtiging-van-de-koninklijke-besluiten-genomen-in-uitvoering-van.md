@@ -12,7 +12,7 @@ entry_into_force: 1993-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/08/06/1993022426/justel"
 department: "Sociale Voorzorg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AUGUSTUS 1993. - Wet tot bekrachtiging van de koninklijke besluiten genomen in uitvoering van artikel 39bis, § 5, van de wet van 29 juni 1981 houdende de algemene beginselen van de sociale zekerheid voor werknemers.

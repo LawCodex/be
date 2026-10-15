@@ -13,7 +13,7 @@ entry_into_force: 2018-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/03/01/2018011167/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2018. - Ordonnance portant assentiment à : l'Accord instituant la Fondation internationale UE-ALC, signé le 25 octobre 2016 à Santo Domingo

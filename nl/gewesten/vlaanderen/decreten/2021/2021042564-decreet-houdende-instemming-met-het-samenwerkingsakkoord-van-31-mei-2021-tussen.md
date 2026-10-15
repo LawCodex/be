@@ -13,7 +13,7 @@ entry_into_force: 2021-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/25/2021042564/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2021. - Decreet houdende instemming met het samenwerkingsakkoord van 31 mei 2021 tussen de Federale Staat, de Vlaamse Gemeenschap, de Duitstalige Gemeenschap, het Waalse Gewest en de Gemeenschappelijke Gemeenschapscommissie betreffende bijzondere verwerkingen van persoonsgegevens met het oog op het opsporen en onderzoeken van clusters en collectiviteiten, met het oog op de handhaving van de verplichte quarantaine en testing en met het oog op het toezicht op de naleving door de bevoegde sociaal inspecteurs van de maatregelen om de verspreiding van het coronavirus COVID-19 tegen te gaan op de arbeidsplaatsen

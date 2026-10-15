@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999021324/justel"
 department: "Premier Ministre"
 justel_note: "consultation des versions antérieures à partir du 17-08-1999 et mise à jour au 19-05-2009."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 1999. - Loi portant création, au sein des Services fédéraux des affaires scientifiques, techniques et culturelles, d'un service de l'Etat à gestion séparée dénommé " Réseau télématique belge de la recherche, BELNET ".

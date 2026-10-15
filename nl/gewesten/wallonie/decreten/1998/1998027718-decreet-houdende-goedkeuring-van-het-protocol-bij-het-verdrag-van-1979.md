@@ -13,7 +13,7 @@ entry_into_force: 1999-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/12/17/1998027718/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 1998. - Decreet houdende goedkeuring van het Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand inzake de beheersing van emissies van stikstofoxiden of van de grensoverschrijdende stromen van deze stikstofverbindingen en van de technische bijlage, opgemaakt te Sofia op 31 oktober 1998 (VERTALING).

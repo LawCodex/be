@@ -13,7 +13,7 @@ entry_into_force: 2022-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/01/24/2022200671/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANUARI 2022. - Decreet houdende instemming met het Verdrag van de Raad van Europa inzake een integrale benadering van veiligheid, beveiliging en gastvrijheid bij voetbalwedstrijden en andere sportevenementen, gedaan te Saint-Denis op 3 juli 2016

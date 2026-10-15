@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/03/2015035974/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 07-08-2015 en tekstbijwerking tot 10-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2015. - Decreet houdende regeling van de binnenlandse adoptie van kinderen en houdende wijziging van het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen (aangehaald als : decreet Binnenlandse Adoptie van 3 juli 2015.)

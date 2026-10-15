@@ -13,7 +13,7 @@ entry_into_force: 2014-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/23/2014200791/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 2014. - Decreet tot wijziging van sommige bepalingen van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn

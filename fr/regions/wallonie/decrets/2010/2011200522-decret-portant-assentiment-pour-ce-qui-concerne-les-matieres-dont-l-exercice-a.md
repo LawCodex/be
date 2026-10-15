@@ -13,7 +13,7 @@ entry_into_force: 2011-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/22/2011200522/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2010. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, à l'Accord de coopération du 2 avril 2010 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale pour la coordination d'une infrastructure d'information géographique

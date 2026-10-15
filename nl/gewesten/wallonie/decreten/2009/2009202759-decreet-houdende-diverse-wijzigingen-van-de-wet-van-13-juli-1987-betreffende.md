@@ -13,7 +13,7 @@ entry_into_force: 2009-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202759/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende diverse wijzigingen van de wet van 13 juli 1987 betreffende het kijk- en luistergeld, het decreet van 27 mei 2004 tot invoering van een belasting op de afgedankte bedrijfsruimten, het decreet van 6 mei 1999 betreffende de vestiging, de invordering en de geschillen inzake de directe gewestelijke belastingen, het Waterwetboek, het Wetboek der successierechten en het Wetboek van registratie-, hypotheek- en griffierechten, de Ecobonus en tot voorziening in een machtiging aan de Regering om de Waalse fiscale wetgeving te codificeren

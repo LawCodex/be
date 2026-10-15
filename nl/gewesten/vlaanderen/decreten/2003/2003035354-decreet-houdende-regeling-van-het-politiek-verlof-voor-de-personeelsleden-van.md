@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/03/14/2003035354/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 24-04-2003 en tekstbijwerking tot 31-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2003. - Decreet houdende regeling van het politiek verlof voor de personeelsleden van de provincies, gemeenten, de agglomeraties van gemeenten en openbare centra voor maatschappelijk welzijn, alsook de openbare instellingen en publiekrechtelijke verenigingen die onder hun controle of toezicht vallen.

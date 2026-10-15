@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/12/2001029289/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 02-08-2001 en tekstbijwerking tot 21-02-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2001. - Decreet waarbij de materiële omstandigheden van de inrichtingen van het basis- en secundair onderwijs worden verbeterd. (Vertaling).

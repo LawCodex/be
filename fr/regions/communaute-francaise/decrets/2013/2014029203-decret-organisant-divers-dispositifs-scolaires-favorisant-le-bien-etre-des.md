@@ -17,7 +17,7 @@ department: "Communauté française"
 justel_notes:
   - "art. 7-18, 22, 23, 25 et 26 modifiés dans le futur par <DCFR 2024-05-16/96 , art. 53, 013; En vigueur : 24-08-2026 et 23-08-2027>"
   - "Consultation des versions antérieures à partir du 03-04-2014 et mise à jour au 24-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2013. - Décret organisant divers dispositifs scolaires favorisant le bien-être des jeunes à l'école, l'accrochage scolaire, la prévention de la violence à l'école et l'accompagnement des démarches d'orientation scolaire

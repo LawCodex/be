@@ -13,7 +13,7 @@ entry_into_force: 2014-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/10/2014031509/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2014. - Décret portant assentiment à l'accord de coopération du 30 janvier 2014 entre la Commission communautaire française, la Communauté française et la Région wallonne, relatif à la création d'une commission de déontologie

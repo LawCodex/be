@@ -13,7 +13,7 @@ entry_into_force: 2014-11-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029646/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret portant assentiment à l'accord de coopération du 20 mars 2014 entre la Région wallonne et la Communauté française relatif à la gouvernance dans l'exécution des mandats publics au sein des organismes publics et des entités dérivées de l'autorité publique

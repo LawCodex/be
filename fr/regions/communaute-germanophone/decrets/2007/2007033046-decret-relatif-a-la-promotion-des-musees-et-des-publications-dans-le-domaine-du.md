@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/07/2007033046/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 10-07-2007 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2007. - Décret relatif à la promotion des musées et des publications dans le domaine du patrimoine culturel (TRADUCTION)

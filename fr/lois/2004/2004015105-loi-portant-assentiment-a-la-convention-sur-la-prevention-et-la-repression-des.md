@@ -12,7 +12,7 @@ entry_into_force: 2004-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/04/27/2004015105/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2004. - Loi portant assentiment à la Convention sur la prévention et la répression des infractions contre les personnes jouissant d'une protection internationale, y compris les agents diplomatiques, faite à New York le 14 décembre 1973.

@@ -12,7 +12,7 @@ entry_into_force: 2023-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/10/06/2022042710/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OKTOBER 2022. - Decreet tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn met het oog op de vereenvoudiging van de bepalingen inzake overheidsopdrachten en concessies van diensten en werken

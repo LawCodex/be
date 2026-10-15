@@ -13,7 +13,7 @@ entry_into_force: 2006-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/01/2006201975/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er JUIN 2006. - Décret modifiant les articles 4, 111 et 127 du Code wallon de l'Aménagement du Territoire, de l'Urbanisme et du Patrimoine.

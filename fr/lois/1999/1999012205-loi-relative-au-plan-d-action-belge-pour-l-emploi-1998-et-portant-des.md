@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/26/1999012205/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 01-04-1999 et mise à jour au 29-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 1999. - Loi relative au plan d'action belge pour l'emploi 1998 et portant des dispositions diverses.

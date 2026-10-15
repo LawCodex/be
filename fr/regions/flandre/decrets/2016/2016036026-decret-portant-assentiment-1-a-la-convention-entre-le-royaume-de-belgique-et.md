@@ -13,7 +13,7 @@ entry_into_force: 2016-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/03/2016036026/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2016. - Décret portant assentiment : 1° à la convention entre le Royaume de Belgique et les Etats-Unis mexicains en vue d'éviter les doubles impositions et de prévenir la fraude fiscale en matière d'impôt sur le revenu, signée à Mexico le 24 novembre 1992, telle que modifiée par le protocole du 26 août 2013; 2° au protocole, signé à Mexico le 26 août 2013, modifiant la convention visée au 1°

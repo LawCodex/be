@@ -12,7 +12,7 @@ entry_into_force: 2007-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/01/22/2007000115/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 2007. - Wet tot oprichting van het Federaal Kenniscentrum voor de Civiele Veiligheid.

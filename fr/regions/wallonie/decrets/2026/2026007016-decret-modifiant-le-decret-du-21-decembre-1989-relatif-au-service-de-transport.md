@@ -13,7 +13,7 @@ entry_into_force: 2026-09-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/09/03/2026007016/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBRE 2026. - Décret modifiant le décret du 21 décembre 1989 relatif au service de transport public de personnes en Région wallonne

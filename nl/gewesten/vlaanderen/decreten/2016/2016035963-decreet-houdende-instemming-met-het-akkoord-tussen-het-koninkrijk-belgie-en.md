@@ -13,7 +13,7 @@ entry_into_force: 2016-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/03/2016035963/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2016. - Decreet houdende instemming met het akkoord tussen het Koninkrijk België en Bermuda inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, ondertekend te Brussel op 11 april 2013 en te Hamilton op 23 mei 2013

@@ -13,7 +13,7 @@ entry_into_force: 2014-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/27/2014029248/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2014. - Decreet houdende instemming met de wijziging aan artikel 8, § 7, van het Internationaal Verdrag van 7 maart 1966 inzake de uitbanning van alle vormen van rassendiscriminatie, met de wijziging aan artikel 20, § 1er, van het Verdrag van 18 december 1979 inzake de uitbanning van alle vormen van discriminatie tegen vrouwen, en de wijzigingen aan artikel 17, § 7, en aan artikel 18, § 5, van het Internationaal Verdrag van 10 december 1984 tegen foltering en andere wrede, onmenselijke of onterende behandelingen

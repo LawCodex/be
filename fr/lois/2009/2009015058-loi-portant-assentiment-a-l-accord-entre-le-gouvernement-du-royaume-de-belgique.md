@@ -12,7 +12,7 @@ entry_into_force: 2009-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/02/12/2009015058/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2009. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la Région administrative spéciale de Hong Kong de la République populaire de Chine sur le transfèrement des personnes condamnées, signé à Bruxelles le 8 novembre 2006

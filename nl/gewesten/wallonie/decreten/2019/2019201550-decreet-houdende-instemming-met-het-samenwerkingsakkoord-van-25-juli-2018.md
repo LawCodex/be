@@ -13,7 +13,7 @@ entry_into_force: 2019-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/28/2019201550/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2019. - Decreet houdende instemming met het samenwerkingsakkoord van 25 juli 2018 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering en financiering van de bodemsanering van tankstations en gasolietanks voor verwarmingsdoeleinden

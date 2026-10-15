@@ -13,7 +13,7 @@ entry_into_force: 2022-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/10/13/2022033714/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OCTOBRE 2022. - Ordonnance portant modification du Code bruxellois du Logement en vue de modifier l'indexation des loyers

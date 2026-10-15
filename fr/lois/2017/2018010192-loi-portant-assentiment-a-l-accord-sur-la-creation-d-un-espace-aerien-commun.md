@@ -12,7 +12,7 @@ entry_into_force: 2018-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/01/20/2018010192/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2017. - Loi portant assentiment à l'Accord sur la création d'un espace aérien commun entre l'Union européenne et ses Etats membres et la République de Moldavie, fait à Bruxelles le 26 juin 2012

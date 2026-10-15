@@ -13,7 +13,7 @@ entry_into_force: 2003-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/11/13/2003202132/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2003. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende het opstellen, het uitvoeren en het opvolgen van een Nationaal Klimaatplan, alsook het rapporteren, in het kader van het Raamverdrag van de Verenigde Naties inzake Klimaatverandering en het Protocol van Kyoto (VERTALING).

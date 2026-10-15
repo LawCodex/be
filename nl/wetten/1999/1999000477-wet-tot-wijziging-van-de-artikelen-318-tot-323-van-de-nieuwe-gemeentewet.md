@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/13/1999000477/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 1999. - Wet tot wijziging van de artikelen 318 tot 323 van de nieuwe gemeentewet betreffende de gemeentelijke volksraadpleging.

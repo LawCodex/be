@@ -12,7 +12,7 @@ entry_into_force: 1993-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1992/12/11/1993003122/justel"
 department: "Financiën"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 1992. - Wet betreffende de na 30 juni 1992 vervallen coupons behorende tot de voor 1 juli 1992 met verzet aangetekende Staatseffecten.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/13/2023044133/justel"
 department: "Instituut voor de gelijkheid van vrouwen en mannen"
 justel_note: "Raadpleging van vroegere versies vanaf 31-08-2023 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2023. - Wet voor de preventie en de bestrijding van feminicides en gendergerelateerde dodingen

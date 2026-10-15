@@ -11,7 +11,7 @@ date: 1997-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/06/30/1997033086/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1997. - Decreet houdende de eerste aanpassing van de algemene uitgavenbegroting van de Duitstalige Gemeenschap voor het begrotingsjaar 1997. (Vertaling).

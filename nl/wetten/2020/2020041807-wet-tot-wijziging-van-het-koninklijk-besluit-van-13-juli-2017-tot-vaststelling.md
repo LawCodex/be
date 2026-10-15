@@ -12,7 +12,7 @@ entry_into_force: 2020-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/06/09/2020041807/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 2020. - Wet tot wijziging van het koninklijk besluit van 13 juli 2017 tot vaststelling van de toelagen en vergoedingen van de personeelsleden van het federaal openbaar ambt met het oog op het vergoeden van het gebruik van speed pedelecs

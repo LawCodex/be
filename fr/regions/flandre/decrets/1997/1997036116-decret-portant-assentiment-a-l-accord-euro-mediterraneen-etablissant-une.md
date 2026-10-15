@@ -13,7 +13,7 @@ entry_into_force: 1997-09-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/15/1997036116/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 1997. - Décret portant assentiment à l'accord euro-méditerranéen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la république tunisienne, d'autre part, aux Annexes I, II, III, IV, V, VI, VII, aux protocoles 1, 2, 3, 4, et 5 et à l'acte final, faits à Bruxelles le 17 juillet 1995 (TRADUCTION).

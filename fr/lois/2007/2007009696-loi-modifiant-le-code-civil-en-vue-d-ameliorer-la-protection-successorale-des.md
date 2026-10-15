@@ -12,7 +12,7 @@ entry_into_force: 2007-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/10/2007009696/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAI 2007. - Loi modifiant le Code civil en vue d'améliorer la protection successorale des enfants nés hors mariage.

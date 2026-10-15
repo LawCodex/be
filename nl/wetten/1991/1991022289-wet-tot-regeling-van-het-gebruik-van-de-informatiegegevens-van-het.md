@@ -12,7 +12,7 @@ entry_into_force: 1991-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/04/04/1991022289/justel"
 department: "Sociale Voorzorg"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 1991. - Wet tot regeling van het gebruik van de informatiegegevens van het Rijksregister van de natuurlijke personen door ministeriële diensten en door de instellingen van sociale zekerheid die onder het Ministerie van Sociale Voorzorg ressorteren.

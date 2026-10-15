@@ -12,7 +12,7 @@ entry_into_force: 2025-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/01/09/2026000405/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 2026. - Wet tot wijziging van de wet van 4 juli 1989 betreffende de beperking en de controle van de verkiezingsuitgaven voor de Kamer van volksvertegenwoordigers, de financiering en de open boekhouding van de politieke partijen om de forfaitaire bedragen te bevriezen en de indexering van de financiering van de politieke partijen op te heffen voor de begrotingsjaren 2025-2029

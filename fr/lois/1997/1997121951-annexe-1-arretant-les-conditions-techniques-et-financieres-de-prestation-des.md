@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/19/1997121951/justel"
 department: "Communications"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1997 et mise à jour au 31-12-2002"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1997. - Annexe 1. - Arrêtant les conditions techniques et financières de prestation des services offerts au titre du service universel visé à l'[article 84, § 3], de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques. (L 2002-12-24/31, art. 482, 006; En vigueur : 10-01-2003)

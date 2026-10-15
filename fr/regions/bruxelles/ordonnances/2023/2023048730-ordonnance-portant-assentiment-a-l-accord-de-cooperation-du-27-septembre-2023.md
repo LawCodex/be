@@ -13,7 +13,7 @@ entry_into_force: 2024-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/12/22/2023048730/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2023. - Ordonnance portant assentiment à l'accord de coopération du 27 septembre 2023 entre la Région de Bruxelles-Capitale et la Commission communautaire commune relatif à l'aide sociale aux ménages dans le cadre de la mise en oeuvre de mesures sociales dans le secteur de l'eau

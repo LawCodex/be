@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/04/23/2021041529/justel"
 department: "Mobiliteit en Vervoer"
 justel_note: "Raadpleging van vroegere versies vanaf 25-05-2021 en tekstbijwerking tot 04-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 2021. - Wet tot implementatie van het UNESCO-verdrag van 2 november 2001 ter bescherming van het cultureel erfgoed onder water en de bescherming van waardevolle wrakken

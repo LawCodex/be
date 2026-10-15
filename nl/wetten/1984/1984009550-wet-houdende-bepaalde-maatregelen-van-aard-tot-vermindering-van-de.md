@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1984/07/17/1984009550/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 10-06-2014 en tekstbijwerking tot 22-10-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 1984. - Wet houdende bepaalde maatregelen van aard tot vermindering van de gerechtelijke achterstand

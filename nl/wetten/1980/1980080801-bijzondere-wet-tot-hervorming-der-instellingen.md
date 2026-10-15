@@ -13,7 +13,7 @@ last_amended: 2024-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1980/08/08/1980080801/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 13-08-1988 en tekstbijwerking tot 01-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 AUGUSTUS 1980. - Bijzondere wet tot hervorming der instellingen

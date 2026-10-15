@@ -12,7 +12,7 @@ entry_into_force: 2022-11-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/10/16/2022033780/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2022. - Loi modifiant la loi du 22 décembre 2009 relative au régime général d'accise

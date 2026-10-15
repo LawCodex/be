@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/04/01/2022040901/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 18-05-2022 et mise à jour au 18-05-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2022. - Loi portant exécution du règlement (UE) 2017/821 du Parlement européen et du Conseil du 17 mai 2017 fixant des obligations liées au devoir de diligence à l'égard de la chaîne d'approvisionnement pour les importateurs de l'Union qui importent de l'étain, du tantale et du tungstène, leurs minerais et de l'or provenant de zones de conflit ou à haut risque

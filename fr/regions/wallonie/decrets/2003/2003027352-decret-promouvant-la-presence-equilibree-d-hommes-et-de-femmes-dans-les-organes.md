@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/05/15/2003027352/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 21-05-2003 et mise à jour au 16-04-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2003. - Décret promouvant la présence équilibrée d'hommes et de femmes dans les organes consultatifs dans les matières à l'égard desquelles la Région exerce les compétences de la Communauté française

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/07/16/1993021259/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 11-01-1994 et mise à jour au 20-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 1993. - Loi ordinaire visant à achever la structure fédérale de l'Etat.

@@ -12,7 +12,7 @@ entry_into_force: 2026-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/01/20/2025003859/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2025. - Loi modifiant la loi du 4 avril 2014 relative aux assurances en vue d'étendre le droit à l'oubli

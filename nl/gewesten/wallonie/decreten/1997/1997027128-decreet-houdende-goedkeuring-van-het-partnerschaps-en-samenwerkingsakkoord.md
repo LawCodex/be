@@ -13,7 +13,7 @@ entry_into_force: 1997-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/02/20/1997027128/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 1997. - Decreet houdende goedkeuring van het Partnerschaps- en samenwerkingsakkoord, waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Russische Federatie, anderzijds, opgemaakt te Korfoe op 24 juni 1994. (VERTALING).

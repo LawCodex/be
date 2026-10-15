@@ -13,7 +13,7 @@ entry_into_force: 2014-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/18/2014029009/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2013. - Décret portant assentiment à l'accord de coopération du 11 juillet 2013 conclu entre la Communauté française et la Région wallonne augmentant, pour l'année 2014, la contribution de la Wallonie au Financement du FRIA

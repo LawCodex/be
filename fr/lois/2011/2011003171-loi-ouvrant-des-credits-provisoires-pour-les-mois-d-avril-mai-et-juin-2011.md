@@ -12,7 +12,7 @@ entry_into_force: 2011-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/04/11/2011003171/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2011. - Loi ouvrant des crédits provisoires pour les mois d'avril, mai et juin 2011

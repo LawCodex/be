@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/12/2021205490/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 2021. - Décret modifiant le Livre II du Code de l'Environnement contenant le Code de l'Eau en vue d'instaurer un cadre pour la valorisation des eaux d'exhaure

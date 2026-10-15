@@ -12,7 +12,7 @@ entry_into_force: 2006-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/04/19/2006009384/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2006. - Wet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie inzake de tenuitvoerlegging van de wet van 24 april 2003 tot hervorming van de adoptie.

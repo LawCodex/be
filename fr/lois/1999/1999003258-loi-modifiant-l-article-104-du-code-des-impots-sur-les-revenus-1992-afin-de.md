@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/21/1999003258/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 1999. - Loi modifiant l'article 104 du Code des impôts sur les revenus 1992 afin de permettre la déductibilité des libéralités faites en argent aux refuges agréés pour animaux.

@@ -12,7 +12,7 @@ entry_into_force: 2019-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/02/25/2019011649/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 2017. - Loi portant assentiment au Protocole, fait à Luxembourg le 14 avril 2014, modifiant la Convention entre la Belgique et l'Irlande en vue d'éviter la double imposition et l'évasion fiscale en matière d'impôts sur le revenu, signée à Bruxelles le 24 juin 1970

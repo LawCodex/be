@@ -13,7 +13,7 @@ entry_into_force: 2004-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/30/2004035883/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2004. - Decreet houdende instemming met het Akkoord tussen de Regering van het Koninkrijk België, de Vlaamse regering, de Regering van de Franse Gemeenschap en de Regering van het Waalse Gewest, enerzijds, en de Regering van de Franse Republiek, anderzijds, inzake de grensoverschrijdende samenwerking tussen territoriale gemeenschappen en lokale openbare lichamen, ondertekend in Brussel op 16 september 2002.

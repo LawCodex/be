@@ -11,7 +11,7 @@ published: 1999-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/22/1999009060/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1998. - Wet tot wijziging van het Wetboek van de Belgische nationaliteit wat de naturalisatieprocedure betreft.

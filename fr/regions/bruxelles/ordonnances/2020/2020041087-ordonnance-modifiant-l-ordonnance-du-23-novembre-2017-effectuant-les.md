@@ -13,7 +13,7 @@ entry_into_force: 2020-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/04/30/2020041087/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2020. - Ordonnance modifiant l'ordonnance du 23 novembre 2017 effectuant les adaptations législatives en vue de la reprise du service du précompte immobilier par la Région de Bruxelles-Capitale, en vue d'adapter l'indexation de la prime au bénéfice des personnes titulaires d'un droit réel sur un bien immobilier situé en Région de Bruxelles-Capitale, dans lequel elles et leur ménage sont domiciliés

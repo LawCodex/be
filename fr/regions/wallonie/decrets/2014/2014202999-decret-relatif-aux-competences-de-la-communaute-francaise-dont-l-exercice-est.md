@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014202999/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret relatif aux compétences de la Communauté française dont l'exercice est transféré à la Région wallonne et à la Commission communautaire française

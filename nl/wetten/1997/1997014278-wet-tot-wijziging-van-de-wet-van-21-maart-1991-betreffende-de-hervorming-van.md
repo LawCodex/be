@@ -11,7 +11,7 @@ published: 1997-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/19/1997014278/justel"
 department: "Verkeerswezen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1997. - Wet tot wijziging van de wet van 21 maart 1991 betreffende de hervorming van sommige economische overheidsbedrijven teneinde het reglementaire kader aan te passen aan de verplichtingen die inzake vrije mededinging en harmonisatie op de markt voor telecommunicatie, voortvloeien uit de van kracht zijnde beslissingen van de Europese Unie.

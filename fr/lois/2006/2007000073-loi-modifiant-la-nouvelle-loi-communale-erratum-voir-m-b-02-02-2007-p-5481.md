@@ -12,7 +12,7 @@ entry_into_force: 2007-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/01/12/2007000073/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2006. - Loi modifiant la nouvelle loi communale. (Erratum, voir M.B. 02-02-2007, p. 5481)

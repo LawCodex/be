@@ -12,7 +12,7 @@ entry_into_force: 2013-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/21/2013009363/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUILLET 2013. - Loi modifiant la loi du 31 mai 1961 relative à l'emploi des langues en matière législative, à la présentation, à la publication et à l'entrée en vigueur des textes légaux et réglementaires

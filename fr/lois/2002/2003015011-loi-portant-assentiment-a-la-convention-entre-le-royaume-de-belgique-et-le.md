@@ -12,7 +12,7 @@ entry_into_force: 2003-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/03/15/2003015011/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2002. - Loi portant assentiment à la Convention entre le Royaume de Belgique et le Royaume des Pays-Bas portant réglementation de la navigation et des activités de loisirs sur la Meuse mitoyenne, signée à Bruxelles le 6 janvier 1993.

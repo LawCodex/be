@@ -13,7 +13,7 @@ entry_into_force: 2008-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/06/05/2008031284/justel"
 department: "Assemblée Réunie de la Commission Communautaire Commune - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 2008. - Ordonnance portant assentiment à l'Accord de coopération entre la Communauté française, la Communauté flamande et la Commission communautaire commune relatif à l'aide à la jeunesse.

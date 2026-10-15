@@ -13,7 +13,7 @@ entry_into_force: 2026-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/17/2026005947/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2026. - Decreet houdende een overgangsmaatregel in het kader van de verhoging van de werkbelasting van bepaalde leerkrachten

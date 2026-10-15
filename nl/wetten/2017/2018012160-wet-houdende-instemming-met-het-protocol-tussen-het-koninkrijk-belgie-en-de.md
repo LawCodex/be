@@ -12,7 +12,7 @@ entry_into_force: 2018-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/01/20/2018012160/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 2017. - Wet houdende instemming met het Protocol tussen het Koninkrijk België en de Republiek Polen, gedaan te Luxemburg op 14 april 2014, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Republiek Polen tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken en het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Warschau op 20 augustus 2001

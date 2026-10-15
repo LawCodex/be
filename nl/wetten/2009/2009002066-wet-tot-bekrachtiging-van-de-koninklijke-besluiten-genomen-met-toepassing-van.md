@@ -10,7 +10,7 @@ date: 2009-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/08/21/2009002066/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AUGUSTUS 2009. - Wet tot bekrachtiging van de koninklijke besluiten genomen met toepassing van het artikel 13 van de programmawet van 8 juni 2008

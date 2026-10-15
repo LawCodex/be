@@ -13,7 +13,7 @@ entry_into_force: 2019-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/01/28/2019200853/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 2019. - Décret portant assentiment à l'Accord-cadre entre l'Union européenne et ses états membres, d'une part, et l'Australie, d'autre part, fait à Manille, le 7 août 2017

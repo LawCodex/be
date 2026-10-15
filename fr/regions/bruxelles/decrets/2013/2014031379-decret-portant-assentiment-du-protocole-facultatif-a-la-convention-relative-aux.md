@@ -13,7 +13,7 @@ entry_into_force: 2014-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/05/2014031379/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 2013. - Décret portant assentiment du Protocole facultatif à la Convention relative aux droits de l'enfant établissant une procédure de communications, adopté à New York le 19 décembre 2011

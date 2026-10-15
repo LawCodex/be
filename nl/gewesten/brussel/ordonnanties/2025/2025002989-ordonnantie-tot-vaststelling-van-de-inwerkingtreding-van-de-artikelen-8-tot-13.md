@@ -13,7 +13,7 @@ entry_into_force: 2025-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/04/10/2025002989/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2025. - Ordonnantie tot vaststelling van de inwerkingtreding van de artikelen 8 tot 13 van de ordonnantie van 28 oktober 2021 tot oprichting van een paritaire huurcommissie en ter bestrijding van buitensporige huurprijzen

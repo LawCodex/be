@@ -12,7 +12,7 @@ entry_into_force: 2026-09-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/08/27/2026006574/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AOUT 2026. - Loi modifiant la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, en ce qui concerne l'évaluation et le contrôle médicaux

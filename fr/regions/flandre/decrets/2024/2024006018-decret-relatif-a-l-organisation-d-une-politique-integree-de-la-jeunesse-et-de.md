@@ -13,7 +13,7 @@ entry_into_force: 2024-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/17/2024006018/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2024. - Décret relatif à l'organisation d'une politique intégrée de la jeunesse et de la famille

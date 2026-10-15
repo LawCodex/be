@@ -12,7 +12,7 @@ entry_into_force: 2012-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/11/12/2012011448/justel"
 department: "Développement Durable"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 2012. - Loi modifiant l'article 12 de la loi du 5 mai 1997 relative à la coordination de la politique fédérale de développement durable

@@ -12,7 +12,7 @@ entry_into_force: 2003-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/18/2002013507/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2002. - Wet tot wijziging van de wet van 8 april 1965 tot instelling van de arbeidsreglementen.

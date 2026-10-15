@@ -13,7 +13,7 @@ entry_into_force: 2022-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/02/04/2022040269/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2022. - Decreet tot wijziging van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, wat de gegevensdeling met het OCMW en de samenwerking met de kraamklinieken betreft

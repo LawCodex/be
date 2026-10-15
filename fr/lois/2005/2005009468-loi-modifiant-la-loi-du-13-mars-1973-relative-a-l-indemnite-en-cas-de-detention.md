@@ -12,7 +12,7 @@ entry_into_force: 2005-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/05/31/2005009468/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2005. - Loi modifiant la loi du 13 mars 1973 relative à l'indemnité en cas de détention préventive inopérante, la loi du 20 juillet 1990 relative à la détention préventive et certaines dispositions du Code d'instruction criminelle.

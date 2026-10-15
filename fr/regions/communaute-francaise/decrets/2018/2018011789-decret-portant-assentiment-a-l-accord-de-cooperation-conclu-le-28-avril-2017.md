@@ -13,7 +13,7 @@ entry_into_force: 2018-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/04/19/2018011789/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2018. - Décret portant assentiment à l'accord de coopération conclu le 28 avril 2017 entre la Communauté française, la Région wallonne et la Commission communautaire française relatif à l'Agence francophone pour l'éducation et la formation tout au long de la vie, en abrégé " AEF-Europe "

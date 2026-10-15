@@ -13,7 +13,7 @@ entry_into_force: 2024-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/25/2024203065/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2024. - Decreet tot wijziging van het decreet van 15 maart 2018 betreffende de woninghuurovereenkomsten en tot invoeging van de indicatieve huurschaal voor studentenwoningen

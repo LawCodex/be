@@ -12,7 +12,7 @@ entry_into_force: 2012-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/03/2012024263/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2012. - Loi modifiant la loi du 13 juin 1986 sur le prélèvement et la transplantation d'organes et la loi du 19 décembre 2008 relative à l'obtention et à l'utilisation de matériel corporel humain destiné à des applications médicales humaines ou à des fins de recherche scientifique

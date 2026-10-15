@@ -12,7 +12,7 @@ entry_into_force: 2023-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/05/25/2023042154/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2023. - Wet tot wijziging van het Wetboek van vennootschappen en verenigingen, van de wet van 16 juli 2004 houdende het Wetboek van internationaal privaatrecht en van het Gerechtelijk Wetboek, onder meer ingevolge de omzetting van Richtlijn (EU) 2019/2121 van het Europees Parlement en de Raad van 27 november 2019 tot wijziging van Richtlijn (EU) 2017/1132 met betrekking tot grensoverschrijdende omzettingen, fusies en splitsingen

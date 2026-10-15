@@ -13,7 +13,7 @@ entry_into_force: 2020-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/03/2020042203/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2020. - Décret portant assentiment à l'accord entre le Gouvernement de la République française et le Gouvernement de la Communauté flamande relatif à la coproduction cinématographique, signé à Bruxelles le 23 mai 2019

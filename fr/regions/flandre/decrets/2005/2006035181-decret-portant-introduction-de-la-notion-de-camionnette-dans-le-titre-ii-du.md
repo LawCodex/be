@@ -13,7 +13,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/23/2006035181/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2005. - Décret portant introduction de la notion de " camionnette " dans le titre II du Code des taxes assimilées aux impôts sur les revenus (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 2007-09-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/07/2007003403/justel"
 department: "Finances - Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2007. - Loi relative à la contribution de la Belgique à l'initiative PPTE " Pays pauvres très endettés " dans le cadre de la quatorzième reconstitution des ressources de l'Association internationale de Développement AID.

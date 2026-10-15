@@ -13,7 +13,7 @@ last_amended: 2001-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1924/05/08/1924050850/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-01-1987 et mise à jour au 20-12-2001."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 1924. - Loi relative au trafic et à la refonte des monnaies métalliques. -

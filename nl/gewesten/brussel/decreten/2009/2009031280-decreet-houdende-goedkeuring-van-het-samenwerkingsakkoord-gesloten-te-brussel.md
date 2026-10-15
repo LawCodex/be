@@ -13,7 +13,7 @@ entry_into_force: 2009-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009031280/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende goedkeuring van het Samenwerkingsakkoord gesloten te Brussel, op 27 maart 2009, tussen de Franse Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende de oprichting van de " Service francophone des Métiers et des Qualifications "

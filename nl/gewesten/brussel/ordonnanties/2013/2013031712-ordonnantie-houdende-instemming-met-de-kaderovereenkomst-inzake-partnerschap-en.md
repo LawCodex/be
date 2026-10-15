@@ -11,7 +11,7 @@ date: 2013-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/07/26/2013031712/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JULI 2013. - Ordonnantie houdende instemming met : de Kaderovereenkomst inzake Partnerschap en Samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek der Filippijnen, anderzijds, gedaan te Phnom Penh op 11 juli 2012

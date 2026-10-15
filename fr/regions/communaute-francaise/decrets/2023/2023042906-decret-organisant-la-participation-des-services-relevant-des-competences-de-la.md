@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/08/2023042906/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 28-08-2023 et mise à jour au 23-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2023. - Décret organisant la participation des services relevant des compétences de la Communauté française aux cellules de sécurité intégrale locales en matière de radicalisme, d'extrémisme et de terrorisme

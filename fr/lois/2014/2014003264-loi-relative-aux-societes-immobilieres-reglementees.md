@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/12/2014003264/justel"
 department: "Economie, PME, Classes moyennes et Energie - Justice - Finances"
 justel_note: "Consultation des versions antérieures à partir du 30-06-2014 et mise à jour au 01-06-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2014. - Loi relative aux sociétés immobilières réglementées

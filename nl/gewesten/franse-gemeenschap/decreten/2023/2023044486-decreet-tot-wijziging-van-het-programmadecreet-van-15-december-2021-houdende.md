@@ -12,7 +12,7 @@ published: 2023-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/20/2023044486/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2023. - Decreet tot wijziging van het Programmadecreet van 15 december 2021 houdende diverse bepalingen bij de begroting 2022

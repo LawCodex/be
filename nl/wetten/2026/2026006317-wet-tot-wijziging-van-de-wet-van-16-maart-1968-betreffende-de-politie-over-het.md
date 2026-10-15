@@ -11,7 +11,7 @@ published: 2026-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/03/03/2026006317/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 2026. - Wet tot wijziging van de wet van 16 maart 1968 betreffende de politie over het wegverkeer, wat de verbeurdverklaring van het voertuig bij rijden spijts verval betreft

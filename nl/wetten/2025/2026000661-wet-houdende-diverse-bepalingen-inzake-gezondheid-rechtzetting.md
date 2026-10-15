@@ -12,7 +12,7 @@ entry_into_force: 2026-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/11/25/2026000661/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2025. - Wet houdende diverse bepalingen inzake gezondheid. - Rechtzetting

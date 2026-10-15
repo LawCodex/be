@@ -17,7 +17,7 @@ department: "Région de Bruxelles-Capitale"
 justel_notes:
   - "par son arrêt n° du 16-01-2025 ( 2025-01-16/12 , M.B. 07-02-2025, p. 24641), la Cour constitutionnelle a annulé la présente ordonnance. - La Cour maintient les effets de l'ordonnance annulée"
   - "Consultation des versions antérieures à partir du 11-10-2023 et mise à jour au 07-02-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 OCTOBRE 2023. - Ordonnance instituant une procédure d'instruction spécifique d'une demande de permis d'urbanisme relative à la déconstruction de l'intérieur du Palais du Midi et à la modification du permis délivré par le fonctionnaire délégué de la Région de Bruxelles-Capitale le 24 mai 2019 à la Société des Transports Intercommunaux de Bruxelles

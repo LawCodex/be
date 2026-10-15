@@ -13,7 +13,7 @@ entry_into_force: 2009-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/01/22/2009031044/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 2009. - Ordonnantie betreffende de invoering van een verzekering gewaarborgd wonen voor nieuwe eigenaars.

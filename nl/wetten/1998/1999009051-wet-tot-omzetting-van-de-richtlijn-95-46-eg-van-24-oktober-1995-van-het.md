@@ -11,7 +11,7 @@ published: 1999-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/11/1999009051/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 1998. - Wet tot omzetting van de richtlijn 95/46/EG van 24 oktober 1995 van het Europees Parlement en de Raad betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrij verkeer van die gegevens.

@@ -12,7 +12,7 @@ entry_into_force: 2005-10-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/09/17/2005011401/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBRE 2005. - Loi modifiant en ce qui concerne les catastrophes naturelles, la loi du 25 juin 1992 sur le contrat d'assurance terrestre et la loi du 12 juillet 1976 relative à la réparation de certains dommages causés à des biens privés par des calamités naturelles.

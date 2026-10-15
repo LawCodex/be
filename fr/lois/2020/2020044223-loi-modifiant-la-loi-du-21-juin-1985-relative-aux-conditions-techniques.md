@@ -12,7 +12,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/07/31/2020044223/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2020. - Loi modifiant la loi du 21 juin 1985 relative aux conditions techniques auxquelles doivent répondre tout véhicule de transport par terre, ses éléments ainsi que les accessoires de sécurité et modifiant l'arrêté royal du 23 décembre 1994 portant détermination des conditions d'agrément et des règles du contrôle administratif des organismes chargés du contrôle des véhicules en circulation

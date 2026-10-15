@@ -13,7 +13,7 @@ entry_into_force: 2013-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/12/2013204599/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2013. - Décret portant assentiment au Traité entre la Région flamande et le Royaume des Pays-Bas modifiant le Traité (du 24 février 1961) entre le Royaume de Belgique et le Royaume des Pays-Bas en vue de l'amélioration de la liaison entre le canal Albert et le canal Juliana, signé à Bruxelles le 27 février 2013

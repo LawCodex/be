@@ -11,7 +11,7 @@ last_amended: 2018-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1919/10/25/1919102550/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 19-04-1993 en tekstbijwerking tot 20-07-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 OKTOBER 1919. - [Wet betreffende het in pand geven van de handelszaak, het disconto en het in pand geven van de factuur, alsmede de aanvaarding en de keuring van de rechtstreeks voor het verbruik gedane leveringen.] (KB 30-03-1936, art. 1)

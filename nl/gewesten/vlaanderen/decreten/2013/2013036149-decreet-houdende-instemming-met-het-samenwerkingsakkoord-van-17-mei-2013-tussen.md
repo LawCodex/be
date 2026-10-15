@@ -13,7 +13,7 @@ entry_into_force: 2013-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/06/2013036149/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2013. - Decreet houdende instemming met het samenwerkingsakkoord van 17 mei 2013 tussen de Vlaamse Gemeenschap en de Franse Gemeenschap betreffende het beheer en de werking van de "Nationale Plantentuin van België"

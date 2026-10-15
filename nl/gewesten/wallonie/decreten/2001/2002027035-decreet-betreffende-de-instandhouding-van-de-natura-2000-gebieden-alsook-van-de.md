@@ -13,7 +13,7 @@ entry_into_force: 2002-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/06/2002027035/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2001. - Decreet betreffende de instandhouding van de Natura 2000-gebieden alsook van de wilde fauna en flora (VERTALING).

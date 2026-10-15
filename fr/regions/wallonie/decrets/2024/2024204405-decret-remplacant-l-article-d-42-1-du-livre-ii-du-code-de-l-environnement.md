@@ -13,7 +13,7 @@ entry_into_force: 2024-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/25/2024204405/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2024. - Décret remplaçant l'article D.42-1 du Livre II du Code de l'Environnement constituant le Code de l'Eau

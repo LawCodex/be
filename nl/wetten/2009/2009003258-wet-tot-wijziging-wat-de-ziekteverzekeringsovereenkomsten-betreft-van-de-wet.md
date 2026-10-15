@@ -12,7 +12,7 @@ entry_into_force: 2007-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/06/17/2009003258/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2009. - Wet tot wijziging, wat de ziekteverzekeringsovereenkomsten betreft, van de wet van 25 juni 1992 op de landverzekeringsovereenkomst en van de wet van 20 juli 2007 tot wijziging, wat de private ziekteverzekeringsovereenkomsten betreft, van de wet van 25 juni 1992 op de landverzekeringsovereenkomst

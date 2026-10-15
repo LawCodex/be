@@ -12,7 +12,7 @@ entry_into_force: 2019-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/17/2019013211/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2019. - Wet houdende instemming met het Protocol voor de toetreding van de Republiek Noord-Macedonië tot de Noord-Atlantische Verdragsorganisatie, ondertekend te Brussel op 6 februari 2019

@@ -13,7 +13,7 @@ entry_into_force: 2002-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/04/15/2002033055/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 APRIL 2002. - Decreet houdende goedkeuring van het in Brussel op 22 september 1998 gedane protocol tot aanvulling van de Beneluxovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale samenwerkingsverbanden of autoriteiten met gemeenschappelijke memorie van toelichting ondertekend te Brussel op 12 september 1986 (VERTALING).

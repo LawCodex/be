@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/06/11/2002012823/justel"
 department: "Tewerkstelling en Arbeid"
 justel_note: "Raadpleging van vroegere versies vanaf 22-06-2002 en tekstbijwerking tot 06-06-2007"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2002. - Wet betreffende de bescherming tegen geweld, pesterijen en ongewenst seksueel gedrag op het werk.

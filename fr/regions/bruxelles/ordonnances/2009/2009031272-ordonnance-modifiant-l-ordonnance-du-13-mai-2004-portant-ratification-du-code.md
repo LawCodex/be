@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/05/14/2009031272/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 27-05-2009 et mise à jour au 22-03-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAI 2009. - Ordonnance modifiant l'ordonnance du 13 mai 2004 portant ratification du Code bruxellois de l'Aménagement du Territoire

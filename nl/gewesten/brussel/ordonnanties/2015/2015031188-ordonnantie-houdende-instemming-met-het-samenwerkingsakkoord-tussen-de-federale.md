@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/03/26/2015031188/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2015. - Ordonnantie houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, de Gemeenschappen en de Gewesten betreffende het strafrechtelijk beleid en het veiligheidsbeleid

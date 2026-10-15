@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/10/2003002035/justel"
 department: "Personeel en Organisatie"
 justel_note: "Raadpleging van vroegere versies vanaf 27-02-2003 en tekstbijwerking tot 01-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2003. - Wet betreffende de aansprakelijkheid van en voor personeelsleden in dienst van openbare rechtspersonen

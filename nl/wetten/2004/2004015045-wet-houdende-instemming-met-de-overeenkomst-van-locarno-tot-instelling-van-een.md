@@ -12,7 +12,7 @@ entry_into_force: 2004-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/02/13/2004015045/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2004. - Wet houdende instemming met de Overeenkomst van Locarno tot instelling van een internationale classificatie voor tekeningen en modellen van nijverheid, en met de Bijlage, ondertekend te Locarno op 8 oktober 1968 en gewijzigd op 28 september 1979.

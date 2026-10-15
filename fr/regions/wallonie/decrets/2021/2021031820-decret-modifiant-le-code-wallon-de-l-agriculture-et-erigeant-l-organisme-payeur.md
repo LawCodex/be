@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/08/2021031820/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2021. - Décret modifiant le Code wallon de l'Agriculture et érigeant l'Organisme payeur en service administratif à comptabilité autonome

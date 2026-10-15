@@ -12,7 +12,7 @@ entry_into_force: 2016-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/09/2015015196/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2015. - Wet houdende instemming met de Samenwerkingsovereenkomst inzake satellietnavigatie tussen de Europese Unie en haar lidstaten en het Koninkrijk Noorwegen, gedaan te Brussel op 22 september 2010

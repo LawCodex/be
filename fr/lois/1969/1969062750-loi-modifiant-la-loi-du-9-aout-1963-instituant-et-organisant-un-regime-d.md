@@ -10,7 +10,7 @@ date: 1969-06-27
 published: 1969-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1969/06/27/1969062750/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 1969. - LOI modifiant la loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité

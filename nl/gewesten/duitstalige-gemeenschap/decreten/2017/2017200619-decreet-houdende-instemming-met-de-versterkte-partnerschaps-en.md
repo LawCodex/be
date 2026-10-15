@@ -13,7 +13,7 @@ entry_into_force: 2017-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/01/23/2017200619/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 2017. - Decreet houdende instemming met de Versterkte Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Kazachstan, anderzijds, gedaan te Astana op 21 december 2015

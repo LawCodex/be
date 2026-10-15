@@ -14,7 +14,7 @@ last_amended: 2020-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1975/04/16/1975041617/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 29-02-2012 en tekstbijwerking tot 25-06-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 APRIL 1975. - DECREET CULTUURRAAD VAN DE FRANSE CULTUURGEMEENSCHAP tot inrichting van een [letterkundige prijs van het Parlement van de Franse Gemeenschap] &lt;DFG 2012-02-01/09 , art. 1, 002; Inwerkingtreding : 10-03-2012&gt;

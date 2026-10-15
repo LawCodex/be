@@ -13,7 +13,7 @@ entry_into_force: 2007-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/06/2007036490/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2007. - Décret portant assentiment à l'Accord entre la Communauté européenne et ses Etats membres, d'une part, et le Gouvernement de la République populaire de Chine, d'autre part, relatif aux transports maritimes, signé à Bruxelles le 6 décembre 2002 et au Protocole modifiant l'Accord entre la Communauté européenne et ses Etats membres, d'une part, et le Gouvernement de la République populaire de Chine, d'autre part, relatif aux transports maritimes, signé à Pékin le 5 septembre 2005 (TRADUCTION).

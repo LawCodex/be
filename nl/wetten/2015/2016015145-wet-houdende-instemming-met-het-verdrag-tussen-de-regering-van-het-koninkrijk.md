@@ -12,7 +12,7 @@ entry_into_force: 2016-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/07/02/2016015145/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 2015. - Wet houdende instemming met het Verdrag tussen de Regering van het Koninkrijk België en de Regering van de Republiek Kosovo betreffende de overbrenging van gevonniste personen, gedaan te Brussel op 18 juni 2010

@@ -12,7 +12,7 @@ entry_into_force: 2008-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/09/22/2005015140/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 SEPTEMBER 2005. - Wet houdende instemming met de Overeenkomst houdende oprichting van het " International plant genetic resources institute ", gedaan te Rome op 9 oktober 1991

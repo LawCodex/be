@@ -10,7 +10,7 @@ date: 2024-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/06/11/2024006894/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2024. - Wet houdende instemming met de Wijziging van het Verdrag van Espoo van 25 februari 1991 inzake milieu-effectrapportage in grensoverschrijdend verband, aangenomen in Sofia op 27 februari 2001

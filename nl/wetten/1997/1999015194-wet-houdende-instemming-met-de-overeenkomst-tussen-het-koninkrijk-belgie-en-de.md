@@ -12,7 +12,7 @@ entry_into_force: 2003-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/08/08/1999015194/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 AUGUSTUS 1997. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Democratische Volksrepubliek Algerije tot het vermijden van dubbele belasting en tot regeling van wederzijdse bijstand inzake belastingen naar het inkomen en het vermogen, ondertekend te Algiers op 15 december 1991.

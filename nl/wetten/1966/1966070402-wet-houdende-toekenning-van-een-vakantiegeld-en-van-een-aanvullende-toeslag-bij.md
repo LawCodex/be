@@ -13,7 +13,7 @@ last_amended: 2013-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1966/07/04/1966070402/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 20-10-2004 en tekstbijwerking tot 16-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 1966. - Wet [houdende toekenning van een vakantiegeld en van een aanvullende toeslag bij het vakantiegeld] aan de gepensioneerden van de openbare diensten. &lt;W 1999-12-24/36, art. 105, Inwerkingtreding : 01-01-2000&gt;

@@ -12,7 +12,7 @@ entry_into_force: 1999-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/22/1999003034/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1998. - Wet houdende achttiende aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 1998 - Secties 19 "Ministerie van Ambtenarenzaken" en 18 "Ministerie van Financiën".

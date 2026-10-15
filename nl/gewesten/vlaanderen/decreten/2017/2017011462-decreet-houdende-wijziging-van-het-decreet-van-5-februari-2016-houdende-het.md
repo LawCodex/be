@@ -12,7 +12,7 @@ published: 2017-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/03/10/2017011462/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2017. - Decreet houdende wijziging van het decreet van 5 februari 2016 houdende het toeristische logies, wat betreft de brandveiligheid en de controle op de naleving van de uitbatingsvoorwaarden

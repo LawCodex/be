@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/21/2012203690/justel"
 department: "Service public de Wallonie"
 justel_note: "par son arrêt n° 169/2013 du 19-12-2013 (M.B. 13-03-2014, p. 21465), la Cour constitutionnelle a annulé le présent décret"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2012. - Décret relatif à l'importation, à l'exportation, au transit et au transfert d'armes civiles et de produits liés à la défense

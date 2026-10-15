@@ -12,7 +12,7 @@ entry_into_force: 1999-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/26/1999003290/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 1999. - Loi portant approbation de la Résolution relative au quatrième amendement aux Statuts du Fonds monétaire international.

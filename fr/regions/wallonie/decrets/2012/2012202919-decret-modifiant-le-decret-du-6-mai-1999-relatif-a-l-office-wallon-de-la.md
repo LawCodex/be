@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/05/10/2012202919/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAI 2012. - Décret modifiant le décret du 6 mai 1999 relatif à l'Office wallon de la Formation professionnelle et de l'Emploi

@@ -12,7 +12,7 @@ entry_into_force: 2005-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/09/17/2005015138/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBRE 2005. - Loi portant assentiment au Protocole établi sur la base de l'article 43, paragraphe 1er, de la Convention portant création d'un Office européen de Police (Convention Europol), modifiant ladite Convention, fait à Bruxelles le 27 novembre 2003.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/14/2021042965/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 26-11-2021 en tekstbijwerking tot 11-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2021. - Decreet betreffende de versteviging van de vervrouwelijking van de namen van beroepen, ambten, graden of titels en betreffende goede niet-discriminerende praktijken in officiële of formele mededelingen

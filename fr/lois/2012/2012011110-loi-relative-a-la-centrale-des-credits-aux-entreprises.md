@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/03/04/2012011110/justel"
 department: "Finances - Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 18-04-2012 et mise à jour au 07-12-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 2012. - Loi relative à la Centrale des Crédits aux Entreprises

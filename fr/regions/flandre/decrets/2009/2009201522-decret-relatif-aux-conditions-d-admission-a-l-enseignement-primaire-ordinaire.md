@@ -13,7 +13,7 @@ entry_into_force: 2009-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/20/2009201522/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2009. - Décret relatif aux conditions d'admission à l'enseignement primaire ordinaire et à la déclaration d'engagement entre l'école et les parents dans l'enseignement fondamental et secondaire

@@ -12,7 +12,7 @@ entry_into_force: 2007-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/23/2007009223/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 2007. - Loi modifiant l'article 46bis du Code d'instruction criminelle.

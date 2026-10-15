@@ -12,7 +12,7 @@ published: 2014-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/25/2014035580/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Decreet tot wijziging van het decreet van 24 januari 2003 houdende bescherming van het roerend cultureel erfgoed van uitzonderlijk belang, wat betreft de definitie van `topstuk' en tot omzetting van de Verordening (EG) nr. 116/2009 van de Raad van 18 december 2008 betreffende de uitvoer van cultuurgoederen

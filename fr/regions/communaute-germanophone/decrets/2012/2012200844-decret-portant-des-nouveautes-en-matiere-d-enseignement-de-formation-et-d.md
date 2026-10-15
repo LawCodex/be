@@ -13,7 +13,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/01/16/2012200844/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JANVIER 2012. - Décret portant des nouveautés en matière d'enseignement, de formation et d'emploi - 2011

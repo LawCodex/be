@@ -12,7 +12,7 @@ entry_into_force: 1997-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/09/06/1997015133/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 SEPTEMBRE 1996. - Loi portant assentiment à la Convention n° 174 concernant la prévention des accidents industriels majeurs, adoptée à Genève le 22 juin 1993 par la Conférence internationale du Travail lors de sa quatre-vingtième session.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/08/10/2015022279/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 21-08-2015 et mise à jour au 30-03-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2015. - [Loi visant à relever l'âge légal de la pension de retraite et portant modification des conditions d'accès à la pension de retraite anticipée et de l'âge minimum de la pension de survie].

@@ -13,7 +13,7 @@ entry_into_force: 2019-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/01/25/2019040208/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2019. - Décret portant assentiment au Traité relatif à la Banque asiatique d'investissement dans les infrastructures, ainsi qu'au rapport établi à Beijing le 29 juin 2015

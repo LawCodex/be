@@ -12,7 +12,7 @@ entry_into_force: 2023-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/11/2023043080/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2023. - Loi modifiant la loi du 1er juillet 2011 relative à la sécurité et la protection des infrastructures critiques

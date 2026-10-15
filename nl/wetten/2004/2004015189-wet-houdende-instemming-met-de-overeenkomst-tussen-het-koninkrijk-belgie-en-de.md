@@ -10,7 +10,7 @@ date: 2004-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/09/13/2004015189/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 SEPTEMBER 2004. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Speciale Administratieve Regio Hong Kong van de Volksrepubliek China tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en met het Protocol, ondertekend te Hong Kong op 10 december 2003.

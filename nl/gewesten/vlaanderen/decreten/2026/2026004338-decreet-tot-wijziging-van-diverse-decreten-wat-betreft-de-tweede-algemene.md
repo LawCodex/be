@@ -12,7 +12,7 @@ published: 2026-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/05/2026004338/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUNI 2026. - Decreet tot wijziging van diverse decreten, wat betreft de tweede algemene implementatie van het Kaderdecreet Vlaamse Handhaving van 14 juli 2023

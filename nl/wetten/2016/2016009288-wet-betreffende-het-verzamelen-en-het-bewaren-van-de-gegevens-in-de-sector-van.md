@@ -12,7 +12,7 @@ entry_into_force: 2016-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/05/29/2016009288/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2016. - Wet betreffende het verzamelen en het bewaren van de gegevens in de sector van de elektronische communicatie

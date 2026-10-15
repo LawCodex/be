@@ -12,7 +12,7 @@ entry_into_force: 1995-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/05/1995014272/justel"
 department: "Communications"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 1994. - Loi portant septième ajustement du Budget général des dépenses de l'année budgétaire 1993, Section 33, "Communications et Infrastructure".

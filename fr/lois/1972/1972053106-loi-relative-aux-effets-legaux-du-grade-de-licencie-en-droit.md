@@ -11,7 +11,7 @@ published: 1972-06-30
 entry_into_force: 1972-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1972/05/31/1972053106/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 1972. - Loi relative aux effets légaux du grade de licencié en droit.

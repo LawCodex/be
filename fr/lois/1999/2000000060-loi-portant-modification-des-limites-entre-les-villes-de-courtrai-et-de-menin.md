@@ -12,7 +12,7 @@ entry_into_force: 2000-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/12/22/2000000060/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1999. - Loi portant modification des limites entre les villes de Courtrai et de Menin et la commune de Wevelgem.

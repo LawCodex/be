@@ -13,7 +13,7 @@ entry_into_force: 1997-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/01/1998029086/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 1997. - Décret portant assentiment à l'accord de coopération du 25 juillet 1997 entre la Communauté francaise, la Communauté flamande et la Communauté germanophone concernant la perception de la redevance radio et télévision.

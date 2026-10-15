@@ -12,7 +12,7 @@ entry_into_force: 2003-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/26/2003002046/justel"
 department: "Personeel en Organisatie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2003. - Wet tot wijziging van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens en van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de Commissie voor de bescherming van de persoonlijke levenssfeer en tot uitbreiding van haar bevoegdheden.

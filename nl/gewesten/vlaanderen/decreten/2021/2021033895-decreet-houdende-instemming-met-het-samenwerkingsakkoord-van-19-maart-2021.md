@@ -13,7 +13,7 @@ entry_into_force: 2021-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/12/2021033895/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 2021. - Decreet houdende instemming met het samenwerkingsakkoord van 19 maart 2021 tussen het Waals Gewest, het Vlaamse Gewest, het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap met betrekking tot de coördinatie inzake het toezicht en de naleving van de gewestelijke wetgevingen betreffende tewerkstelling

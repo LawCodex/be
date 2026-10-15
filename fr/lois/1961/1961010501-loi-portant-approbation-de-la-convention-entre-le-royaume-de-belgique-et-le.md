@@ -12,7 +12,7 @@ entry_into_force: 1961-11-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1961/01/05/1961010501/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JANVIER 1961. - Loi portant approbation de la Convention entre le Royaume de Belgique et le Grand-Duché de Luxembourg, concernant, la sécurité sociale des travailleurs frontaliers et du protocole spécial, signés à Luxembourg, le 16 novembre 1959.

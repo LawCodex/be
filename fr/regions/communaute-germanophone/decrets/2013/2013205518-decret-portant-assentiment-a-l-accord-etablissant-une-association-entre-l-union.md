@@ -13,7 +13,7 @@ entry_into_force: 2013-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/09/23/2013205518/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBRE 2013. - Décret portant assentiment à l'Accord établissant une association entre l'Union européenne et ses Etats membres, d'une part, et l'Amérique centrale, d'autre part, ainsi qu'au Protocole de coopération culturelle, faits à Tegucigalpa le 29 juin 2012

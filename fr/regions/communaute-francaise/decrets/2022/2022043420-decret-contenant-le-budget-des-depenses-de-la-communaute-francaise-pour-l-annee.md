@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/14/2022043420/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 04-01-2023 et mise à jour au 15-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2022. - Décret contenant le budget des dépenses de la Communauté française pour l'année budgétaire 2023

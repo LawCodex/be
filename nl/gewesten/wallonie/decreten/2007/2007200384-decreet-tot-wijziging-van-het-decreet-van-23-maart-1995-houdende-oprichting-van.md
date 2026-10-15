@@ -13,7 +13,7 @@ entry_into_force: 2007-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/01/18/2007200384/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2007. - Decreet tot wijziging van het decreet van 23 maart 1995 houdende oprichting van een Gewestelijk Hulpcentrum voor gemeenten dat moet zorgen voor de opvolging en de controle op de beheersplannen van de gemeenten en provincies en dat het financiële evenwicht van de gemeenten en provincies van het Waalse Gewest moet helpen handhaven (VERTALING).

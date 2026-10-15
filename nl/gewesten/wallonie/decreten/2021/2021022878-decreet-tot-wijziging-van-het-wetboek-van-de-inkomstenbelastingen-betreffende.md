@@ -13,7 +13,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/12/22/2021022878/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2021. - Decreet tot wijziging van het Wetboek van de inkomstenbelastingen betreffende de uitgaven voor de enige eigen woning

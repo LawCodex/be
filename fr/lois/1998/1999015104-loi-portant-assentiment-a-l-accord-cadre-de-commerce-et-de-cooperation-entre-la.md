@@ -12,7 +12,7 @@ entry_into_force: 1999-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/07/05/1999015104/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 1998. - Loi portant assentiment à l'Accord-cadre de commerce et de coopération entre la Communauté européenne et ses Etats membres, d'une part, et la République de Corée, d'autre part, et Annexe, faits à Luxembourg le 28 octobre 1996.

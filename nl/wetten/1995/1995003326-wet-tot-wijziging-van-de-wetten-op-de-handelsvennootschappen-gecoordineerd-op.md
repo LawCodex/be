@@ -12,7 +12,7 @@ entry_into_force: 1995-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/07/1995003326/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 1995. - Wet tot wijziging van de wetten op de handelsvennootschappen, gecoördineerd op 30 november 1935 en tot wijziging van het koninklijk besluit nr. 62 van 10 november 1967 ter bevordering van de omloop van de effecten.

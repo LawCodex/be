@@ -11,7 +11,7 @@ published: 1851-12-22
 entry_into_force: 1852-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1851/12/16/1851121651/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 1851. - Loi sur la révision du régime hypothécaire

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/11/2007035873/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-06-2007 et mise à jour au 11-07-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2007. - Décret portant statut du tireur sportif (TRADUCTION).

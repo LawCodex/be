@@ -12,7 +12,7 @@ entry_into_force: 1982-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1982/07/06/1982001228/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 1982. \_ Loi modifiant l'article 83 de la loi du 5 août 1978 de réformes économiques et budgétaires.

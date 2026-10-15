@@ -12,7 +12,7 @@ entry_into_force: 2000-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/08/12/2000000696/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AOUT 2000. - Loi modifiant la loi du 7 juillet 1994 relative à la limitation et au contrôle des dépenses électorales engagées pour les élections des conseils provinciaux, communaux et de district et pour l'élection directe des conseils de l'aide sociale et, l'arrêté royal du 26 août 1988 déterminant les modalités de l'élection du Conseil de l'aide sociale dans les communes visées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, et dans les communes de Comines-Warneton et de Fourons.

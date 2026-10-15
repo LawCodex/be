@@ -11,7 +11,7 @@ published: 1948-03-06
 entry_into_force: 1948-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1947/12/31/1947123112/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 DECEMBER 1947. \_ Wet houdende goedkeuring van de schikking betreffende de instandhouding of het herstel der door de tweede wereldoorlog getroffen rechten van nijverheidseigendom, getekend op 8 Februari 1947, te Neufchâtel.

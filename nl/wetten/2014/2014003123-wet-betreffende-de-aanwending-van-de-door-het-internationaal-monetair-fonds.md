@@ -12,7 +12,7 @@ entry_into_force: 2014-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/03/09/2014003123/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2014. - Wet betreffende de aanwending van de door het Internationaal Monetair Fonds uitgekeerde buitengewone winsten van de goudverkoop

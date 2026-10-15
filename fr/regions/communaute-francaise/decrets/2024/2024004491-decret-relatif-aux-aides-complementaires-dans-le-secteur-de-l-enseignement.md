@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/04/2024004491/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 30-05-2024 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2024. - Décret relatif aux aides complémentaires dans le secteur de l'enseignement bénéficiant des subventions régionales, abrogeant diverses dispositions en matière d'enseignement fondamental et secondaire et modifiant diverses dispositions relatives aux puériculteurs

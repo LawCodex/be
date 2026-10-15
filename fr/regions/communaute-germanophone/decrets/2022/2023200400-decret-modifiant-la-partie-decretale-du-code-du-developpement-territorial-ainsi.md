@@ -13,7 +13,7 @@ entry_into_force: 2023-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/11/21/2023200400/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2022. - Décret modifiant la partie décrétale du Code du Développement territorial ainsi que le décret du 18 mars 2002 relatif à l'Infrastructure

@@ -13,7 +13,7 @@ entry_into_force: 2014-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/12/2014200493/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2013. - Decreet houdende instemming met de Overeenkomst inzake de Internationale Opsporingsdienst en met de Partnerschapsovereenkomst inzake de betrekkingen tussen de Federale Archieven van de Bondsrepubliek Duitsland en de Internationale Opsporingsdienst, gedaan te Berlijn op 9 december 2011

@@ -13,7 +13,7 @@ entry_into_force: 2008-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/17/2008033014/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2007. - Decreet houdende goedkeuring van het verdrag betreffende het Eurokorps en de rechtspositie van zijn hoofdkwartier tussen, de Franse Republiek, de Bondsrepubliek Duitsland, het Koninkrijk België, het Koninkrijk Spanje en het Groothertogdom Luxemburg, gedaan te Brussel op 22. november 2004 (VERTALING).

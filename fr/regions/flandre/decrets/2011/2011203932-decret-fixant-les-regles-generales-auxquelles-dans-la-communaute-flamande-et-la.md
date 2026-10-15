@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/15/2011203932/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 11-08-2011 et mise à jour au 15-07-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2011. - Décret fixant les règles générales auxquelles dans la Communauté flamande et la Région flamande des obligations de planning et de rapportage périodiques peuvent être imposées à des administrations locales

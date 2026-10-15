@@ -12,7 +12,7 @@ entry_into_force: 2022-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/05/05/2022032193/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2022. - Wet tot wijziging van de wet van 2 oktober 2017 tot regeling van de private en bijzondere veiligheid

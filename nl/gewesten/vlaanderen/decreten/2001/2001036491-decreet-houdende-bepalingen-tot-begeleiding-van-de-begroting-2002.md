@@ -17,7 +17,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "deze tekst werd gewijzigd door erratum die is verschenen in het B.S. 14-02-2002, p. 5488 - 5502; hierna volgt de correcte tekst"
   - "Raadpleging van vroegere versies vanaf 29-12-2001 en tekstbijwerking tot 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2001. - Decreet houdende bepalingen tot begeleiding van de begroting 2002.

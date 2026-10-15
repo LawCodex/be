@@ -13,7 +13,7 @@ entry_into_force: 2002-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/11/2002029387/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2002. - Decreet tot wijziging van artikel 97 van het decreet van 24 juli 1997 dat de prioritaire taken bepaalt van het basisonderwijs en van het secundair onderwijs en de structuren organiseert die het mogelijk maken ze uit te voeren (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2024-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/01/18/2024001097/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2024. - Decreet houdende instemming met het Samenwerkingsakkoord van 22 november 2023 tussen de Federale Staat, de Franse Gemeenschap, de Vlaamse Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie inzake slachtofferzorg voor het tweetalige gebied Brussel-Hoofdstad

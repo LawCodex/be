@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/11/2024006420/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 22-07-2024 et mise à jour au 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2024. - Décret relatif à l'agrément de partenaires et au subventionnement d'actions en matière de mobilité durable, de sensibilisation et d'éducation à la sécurité routière

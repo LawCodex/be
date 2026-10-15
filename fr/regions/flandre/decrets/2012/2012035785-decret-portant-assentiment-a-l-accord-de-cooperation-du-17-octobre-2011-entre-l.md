@@ -13,7 +13,7 @@ entry_into_force: 2012-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/29/2012035785/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2012. - Décret portant assentiment à l'Accord de coopération du 17 octobre 2011 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH)

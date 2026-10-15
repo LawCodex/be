@@ -12,7 +12,7 @@ entry_into_force: 2003-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/29/2003022154/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2003. - Loi portant création de la banque de données fédérale des professionnels des soins de santé.

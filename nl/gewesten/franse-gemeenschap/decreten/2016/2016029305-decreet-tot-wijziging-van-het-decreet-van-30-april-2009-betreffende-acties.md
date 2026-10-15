@@ -12,7 +12,7 @@ published: 2016-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/02/2016029305/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2016. - Decreet tot wijziging van het decreet van 30 april 2009 betreffende acties inzake alfabetisering en integratie in het onderwijs voor sociale promotie

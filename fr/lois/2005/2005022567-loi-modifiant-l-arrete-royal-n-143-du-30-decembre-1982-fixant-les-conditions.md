@@ -12,7 +12,7 @@ entry_into_force: 2005-01-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/05/24/2005022567/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2005. - Loi modifiant l'arrêté royal n° 143 du 30 décembre 1982 fixant les conditions auxquelles les laboratoires doivent répondre en vue de l'intervention de l'assurance maladie pour les prestations de biologie clinique.

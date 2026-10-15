@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/19/2024005691/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 12-06-2024 et mise à jour au 03-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2024. - Décret relatif à l'opérationnalisation d'un Régulateur flamand des services d'utilité publique

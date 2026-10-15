@@ -13,7 +13,7 @@ last_amended: 2011-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1963/08/09/1963080914/justel"
 justel_note: "Consultation des versions antérieures à partir du 13-04-1984 et mise à jour au 10-05-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 AOUT 1963. - [Loi instituant et organisant un régime d'assurance obligatoire soins de santé et indemnités.] &lt;L 1993-02-15/33, art. 1, 027; En vigueur : 01-01-1993&gt; (NOTE 1 : les mots " Caisse des soins de santé de la Société nationale des Chemins de fer belges " sont remplacés par les mots " Caisse des soins de santé de la S.N.C.B. Holding " ; voir AR 2004-10-18/32, art. 38 ; En vigueur : 01-01-2005)

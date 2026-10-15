@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/17/2004033056/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 26-10-2007 et mise à jour au 05-06-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2004. - Décret relatif à la garantie de l'égalité de traitement sur le marché du travail (TRADUCTION). )

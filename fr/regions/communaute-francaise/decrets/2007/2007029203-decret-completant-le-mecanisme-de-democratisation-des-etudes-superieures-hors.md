@@ -13,7 +13,7 @@ entry_into_force: 2007-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/19/2007029203/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2007. - Décret complétant le mécanisme de démocratisation des études supérieures hors universités mis en place par les décrets du 20 juillet 2005 et du 20 juillet 2006.

@@ -13,7 +13,7 @@ last_amended: 1994-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1900/05/04/1900050450/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1989 en tekstbijwerking tot 21-07-1994"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 1900. - Wet op den handel in scheuten van harsboomen.

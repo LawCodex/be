@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/17/2024005323/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 07-06-2024 et mise à jour au 07-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2024. - Décret spécial modifiant le décret spécial du 14 juillet 1998 relatif à l'éducation communautaire, en ce qui concerne l'enseignement dans les institutions communautaires créées en exécution du droit en matière de délinquance juvénile

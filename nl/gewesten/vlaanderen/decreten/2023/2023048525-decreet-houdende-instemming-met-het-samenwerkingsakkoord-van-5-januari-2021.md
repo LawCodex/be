@@ -13,7 +13,7 @@ entry_into_force: 2024-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/15/2023048525/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2023. - Decreet houdende instemming met het samenwerkingsakkoord van 5 januari 2021 tussen de ministers van Landbouw van de Federale Staat en de gewesten inzake de verdeling van opdrachten voor de toepassing van de beschermende maatregelen tegen plaagorganismen bij planten

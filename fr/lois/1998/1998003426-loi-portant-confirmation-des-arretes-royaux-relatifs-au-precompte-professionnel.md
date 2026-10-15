@@ -12,7 +12,7 @@ entry_into_force: 1998-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/07/09/1998003426/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 1998. - Loi portant confirmation des arrêtés royaux relatifs au précompte professionnel.

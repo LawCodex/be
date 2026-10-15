@@ -12,7 +12,7 @@ entry_into_force: 2004-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/01/08/2004015009/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JANUARI 2004. - Wet houdende instemming met de wijziging van artikel 1 van het Verdrag inzake het verbod of de beperking van het gebruik van bepaalde conventionele wapens die geacht kunnen worden buitensporig leed te veroorzaken of een niet-onderscheidende werking te hebben aangenomen te Genève op 21 december 2001.

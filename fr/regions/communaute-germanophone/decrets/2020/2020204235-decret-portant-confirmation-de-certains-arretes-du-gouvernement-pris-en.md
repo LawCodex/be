@@ -13,7 +13,7 @@ entry_into_force: 2020-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/12/2020204235/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OCTOBRE 2020. - Décret portant confirmation de certains arrêtés du Gouvernement pris en exécution du décret de crise 2020 du 6 avril 2020

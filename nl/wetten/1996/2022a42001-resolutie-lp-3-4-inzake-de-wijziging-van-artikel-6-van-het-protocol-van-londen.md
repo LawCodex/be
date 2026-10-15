@@ -11,7 +11,7 @@ entry_into_force: 2022-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/11/07/2022A42001/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 1996. - Résolutie LP.3(4) inzake de wijziging van artikel 6 van het Protocol van Londen aangenomen te Londen op 30 oktober 2009

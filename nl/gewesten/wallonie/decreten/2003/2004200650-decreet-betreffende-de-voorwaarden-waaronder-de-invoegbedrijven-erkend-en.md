@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/18/2004200650/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 14-12-2006 en tekstbijwerking tot 21-01-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2003. - Decreet betreffende de voorwaarden waaronder de invoegbedrijven erkend en gesubsidieerd worden. (VERTALING)

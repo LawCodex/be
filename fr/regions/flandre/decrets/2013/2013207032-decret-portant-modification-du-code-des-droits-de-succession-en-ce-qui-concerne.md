@@ -13,7 +13,7 @@ entry_into_force: 2014-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/06/2013207032/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2013. - Décret portant modification du Code des Droits de Succession, en ce qui concerne le retour légal

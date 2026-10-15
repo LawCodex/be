@@ -13,7 +13,7 @@ entry_into_force: 2018-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/19/2018203827/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2018. - Decreet houdende instemming met het samenwerkingsakkoord van 17 december 2015 tot wijziging van het samenwerkingsakkoord van 2 maart 2007 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussel Hoofdstedelijk Gewest betreffende de uitvoering van de Overeenkomst tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens, gedaan te Parijs op 13 januari 1993

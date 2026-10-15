@@ -12,7 +12,7 @@ entry_into_force: 2011-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/01/19/2016015013/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JANUARI 2016. - Wet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Organisatie van de Islamitische Conferentie, gedaan te Brussel op 4 februari 2011

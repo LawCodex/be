@@ -12,7 +12,7 @@ entry_into_force: 2013-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/04/29/2013009352/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2013. - Loi visant à modifier l'article 433quinquies du Code pénal en vue de clarifier et d'étendre la définition de la traite des êtres humains

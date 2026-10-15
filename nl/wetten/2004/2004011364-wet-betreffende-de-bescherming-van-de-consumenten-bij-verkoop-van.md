@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/09/01/2004011364/justel"
 department: "Economie, KMO, Middenstand en Energie - Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 21-09-2004 en tekstbijwerking tot 31-03-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 SEPTEMBER 2004. - Wet betreffende de bescherming van de consumenten bij verkoop van consumptiegoederen

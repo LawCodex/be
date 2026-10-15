@@ -13,7 +13,7 @@ entry_into_force: 2015-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/17/2015036020/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2015. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 5 juni 2015 tot wijziging van artikel 2 en van de bijlage van het besluit van de Vlaamse Regering van 27 mei 1997 tot bepaling van de ontwikkelingsdoelen en de eindtermen van het gewoon basisonderwijs

@@ -13,7 +13,7 @@ entry_into_force: 2007-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/07/2007203397/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 2007. - Décret modifiant le décret du 12 février 2004 relatif au statut de l'administrateur public, pour les matières réglées en vertu de l'article 138 de la Constitution, en vue de promouvoir la présence équilibrée d'hommes et de femmes.

@@ -13,7 +13,7 @@ entry_into_force: 2020-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/03/05/2020020625/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2020. - Décret portant assentiment à l'Accord de siège, avec échanges de lettres, entre le Royaume de Belgique et l'Organisation internationale de Police Criminelle. - INTERPOL (O.I.P.C. - INTERPOL), fait à Lyon, le 14 octobre 2014 et à Bruxelles, le 24 octobre 2014

@@ -13,7 +13,7 @@ entry_into_force: 2023-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/04/27/2023042123/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2023. - Ordonnantie houdende instemming met het samenwerkings-akkoord van 29 augustus 2022 tussen het Waalse Gewest, de Gemeenschappelijke Gemeenschaps-commissie en de Duitstalige Gemeenschap betreffende het interregionaal orgaan voor de gezinsbijslagen

@@ -13,7 +13,7 @@ entry_into_force: 2016-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/02/04/2016029096/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2016. - Decreet houdende verschillende bepalingen inzake onderwijs

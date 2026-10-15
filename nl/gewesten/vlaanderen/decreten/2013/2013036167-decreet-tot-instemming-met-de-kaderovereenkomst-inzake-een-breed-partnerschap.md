@@ -13,7 +13,7 @@ entry_into_force: 2014-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/22/2013036167/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2013. - Decreet tot instemming met de kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar lidstaten enerzijds, en de Socialistische Republiek Vietnam, anderzijds, ondertekend in Brussel op 27 juni 2012

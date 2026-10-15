@@ -11,7 +11,7 @@ published: 1961-07-29
 entry_into_force: 1961-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1961/07/27/1961072701/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JULI 1961. - Wet tot wijziging van sommige bepalingen van Titel IV van de wet van 14 februari 1961 voor economische expansie, sociale vooruitgang en financieel herstel en tot intrekking van de wet van 28 februari 1961 houdende aanvulling van artikel 75 van de gemeentewet.

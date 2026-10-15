@@ -13,7 +13,7 @@ entry_into_force: 2012-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/12/21/2012036306/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2012. - Decreet betreffende de wederzijdse bijstand inzake de invordering van schuldvorderingen die voortvloeien uit belastingen, rechten en andere maatregelen

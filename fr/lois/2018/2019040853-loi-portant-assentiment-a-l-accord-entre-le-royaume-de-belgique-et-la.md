@@ -12,7 +12,7 @@ entry_into_force: 2019-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/09/05/2019040853/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 SEPTEMBRE 2018. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et la République argentine concernant l'autorisation pour les membres de la famille à charge du personnel des missions diplomatiques et des postes consulaires d'effectuer des activités rémunérées, fait à Bruxelles le 20 avril 2017

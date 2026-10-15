@@ -13,7 +13,7 @@ last_amended: 2026-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1977/01/24/1977012405/justel"
 justel_note: "Consultation des versions antérieures à partir du 26-10-1989 et mise à jour au 07-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 1977. - Loi relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits.

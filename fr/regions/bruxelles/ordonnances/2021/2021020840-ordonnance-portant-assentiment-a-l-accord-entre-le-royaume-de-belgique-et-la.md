@@ -13,7 +13,7 @@ entry_into_force: 2021-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/04/15/2021020840/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 AVRIL 2021. - Ordonnance portant assentiment à l'accord entre le Royaume de Belgique et la République d'Arménie sur l'exercice des activités à but lucratif par des membres de la famille du personnel de missions diplomatiques et de postes consulaires, signé à Bruxelles le 4 décembre 2018

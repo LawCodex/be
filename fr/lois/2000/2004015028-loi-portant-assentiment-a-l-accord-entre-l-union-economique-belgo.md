@@ -12,7 +12,7 @@ entry_into_force: 2004-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/08/20/2004015028/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 AOUT 2000. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République libanaise concernant l'encouragement et la protection réciproques des investissements, fait à Bruxelles le 6 septembre 1999.

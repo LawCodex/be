@@ -12,7 +12,7 @@ entry_into_force: 2025-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/03/17/2024003876/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2024. - Wet ter bevordering van de herstelbaarheid en de levensduur van goederen

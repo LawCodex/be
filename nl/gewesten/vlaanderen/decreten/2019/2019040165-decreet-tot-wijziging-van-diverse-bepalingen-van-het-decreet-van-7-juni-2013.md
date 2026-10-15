@@ -13,7 +13,7 @@ entry_into_force: 2019-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/01/18/2019040165/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2019. - Decreet tot wijziging van diverse bepalingen van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid

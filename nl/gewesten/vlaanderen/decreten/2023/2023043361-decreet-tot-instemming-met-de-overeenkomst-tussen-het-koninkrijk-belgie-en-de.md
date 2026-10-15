@@ -13,7 +13,7 @@ entry_into_force: 2023-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/23/2023043361/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2023. - Decreet tot instemming met de overeenkomst tussen het Koninkrijk België en de Republiek Moldavië inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het personeel van de diplomatieke missies en consulaire posten, ondertekend te Praag op 31 augustus 2022

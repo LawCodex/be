@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/07/12/2000022561/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2000. - Wet tot wijziging, wat de door de werkgevers verschuldigde bijdrage voor werkloosheid wegens economische oorzaken betreft, van de wet van 29 juni 1981 houdende de algemene beginselen van de sociale zekerheid voor werknemers.

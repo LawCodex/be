@@ -16,7 +16,7 @@ department: "Landbouw"
 justel_notes:
   - "bij arrest van 31 januari 1989, B.St. van 03-03-1989, p. 3860, Heeft het Arbitragehof voor de Vlaamse en de Waalse gewesten, de artikelen 8, L 1, 1° tot 4°, 10, 11, L 1 en 2, 14 en 17 vernietigd"
   - "Raadpleging van vroegere versies vanaf 09-01-1991 en tekstbijwerking tot 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 1987. - Dierengezondheidswet

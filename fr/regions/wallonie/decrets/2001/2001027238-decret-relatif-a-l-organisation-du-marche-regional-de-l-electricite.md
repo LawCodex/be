@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/04/12/2001027238/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 01-05-2001 et mise à jour au 19-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 AVRIL 2001. - Décret relatif à l'organisation du marché régional de l'électricité.

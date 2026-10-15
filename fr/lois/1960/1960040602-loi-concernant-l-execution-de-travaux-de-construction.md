@@ -13,7 +13,7 @@ last_amended: 2026-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1960/04/06/1960040602/justel"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1989 et mise à jour au 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1960. - Loi concernant l'exécution de travaux de construction

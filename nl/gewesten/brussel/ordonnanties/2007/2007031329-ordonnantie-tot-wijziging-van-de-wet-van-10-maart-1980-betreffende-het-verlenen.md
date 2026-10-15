@@ -12,7 +12,7 @@ published: 2007-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2007/07/19/2007031329/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2007. - Ordonnantie tot wijziging van de wet van 10 maart 1980 betreffende het verlenen van de eretitel van hun ambt aan de burgemeesters, aan de schepenen en aan de voorzitters van de raden van de openbare centra voor maatschappelijk welzijn of van de gewezen commissies van openbare onderstand.

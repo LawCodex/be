@@ -12,7 +12,7 @@ entry_into_force: 1998-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/15/1997010103/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 1997. - Loi constituant l'Institut national de Criminalistique et de Criminologie en service de l'Etat à gestion séparée.

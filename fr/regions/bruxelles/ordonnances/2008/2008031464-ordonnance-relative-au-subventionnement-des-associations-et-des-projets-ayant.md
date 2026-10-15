@@ -13,7 +13,7 @@ entry_into_force: 2008-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/09/04/2008031464/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBRE 2008. - Ordonnance relative au subventionnement des associations et des projets ayant pour objectif l'amélioration de l'environnement urbain et du cadre de vie en Région de Bruxelles-Capitale.

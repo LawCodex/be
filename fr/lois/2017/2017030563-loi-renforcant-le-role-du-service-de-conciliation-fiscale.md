@@ -12,7 +12,7 @@ entry_into_force: 2017-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/10/2017030563/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2017. - Loi renforçant le rôle du service de conciliation fiscale

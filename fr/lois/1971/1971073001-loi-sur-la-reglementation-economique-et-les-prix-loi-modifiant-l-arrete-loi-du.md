@@ -11,7 +11,7 @@ published: 1971-08-31
 entry_into_force: 1971-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/07/30/1971073001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 1971. - Loi sur la réglementation économique et les prix \_ loi modifiant l'arrêté-loi du 22 janvier 1945 concernant la répression des infractions à la réglementation relative à l'approvisionnement du pays.

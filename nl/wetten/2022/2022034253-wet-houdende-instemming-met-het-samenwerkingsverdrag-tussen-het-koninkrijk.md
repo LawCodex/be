@@ -12,7 +12,7 @@ entry_into_force: 2023-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/07/2022034253/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2022. - Wet houdende instemming met het Samenwerkingsverdrag tussen het Koninkrijk België en het Groothertogdom Luxemburg inzake geneesmiddelen en gezondheidsproducten, gedaan te Luxemburg op 17 januari 2018

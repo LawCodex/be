@@ -12,7 +12,7 @@ published: 1998-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/03/17/1998035404/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 1998. - Décret portant approbation des actes internationaux suivants : 1. convention modifiant la Quatrième Convention ACP-CE de Lomé et Acte final, signés à l'île Maurice le 4 novembre 1995; 2. protocole à la Quatrième Convention ACP-CE de Lomé à l'occasion de l'adhésion de la République d'Autriche, de la République de Finlande et du Royaume de Suède à l'Union européenne, signée à l'île Maurice le 4 novembre 1995 (TRADUCTION).

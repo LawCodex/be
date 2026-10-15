@@ -13,7 +13,7 @@ entry_into_force: 2002-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/03/01/2002035444/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2002. - Decreet houdende instemming met het Verdrag inzake de grensoverschrijdende gevolgen van industriële ongevallen en met de bijlagen I tot XIII, ondertekend in Helsinki op 17 maart 1992.

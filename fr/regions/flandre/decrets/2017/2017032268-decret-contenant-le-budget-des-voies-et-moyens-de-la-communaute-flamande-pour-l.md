@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/22/2017032268/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2017 et mise à jour au 30-07-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2017. - Décret contenant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 2018

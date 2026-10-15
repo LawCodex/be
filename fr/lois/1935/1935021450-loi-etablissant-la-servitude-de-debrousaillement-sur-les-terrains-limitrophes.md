@@ -13,7 +13,7 @@ last_amended: 2024-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1935/02/14/1935021450/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-07-2024 et mise à jour au 01-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEVRIER 1935. - Loi établissant la servitude de débrousaillement sur les terrains limitrophes des voies ferrées

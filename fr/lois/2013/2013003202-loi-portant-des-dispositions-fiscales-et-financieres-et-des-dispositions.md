@@ -12,7 +12,7 @@ entry_into_force: 2013-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/06/17/2013003202/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2013. - Loi portant des dispositions fiscales et financières et des dispositions relatives au développement durable

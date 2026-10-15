@@ -13,7 +13,7 @@ entry_into_force: 2026-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/10/2026006115/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2026. - Décret ajustant le budget des dépenses de la Communauté flamande pour l'année budgétaire 2026

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004035927/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 11-06-2004 en tekstbijwerking tot 21-02-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, tot aanvulling ervan met een titel Agentschappen en tot wijziging van diverse andere wetten en decreten.

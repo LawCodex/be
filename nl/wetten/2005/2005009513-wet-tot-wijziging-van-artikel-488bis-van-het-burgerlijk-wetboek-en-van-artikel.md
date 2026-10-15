@@ -12,7 +12,7 @@ entry_into_force: 2005-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/06/15/2005009513/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 2005. - Wet tot wijziging van artikel 488bis van het Burgerlijk Wetboek en van artikel 1727 van het Gerechtelijk Wetboek.

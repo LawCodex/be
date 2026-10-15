@@ -12,7 +12,7 @@ entry_into_force: 2023-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/11/2023031131/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2023. - Loi spéciale abrogeant l'article 65quater et l'annexe de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions

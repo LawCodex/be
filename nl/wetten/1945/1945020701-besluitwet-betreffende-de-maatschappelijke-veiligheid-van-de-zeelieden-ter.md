@@ -13,7 +13,7 @@ last_amended: 2025-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1945/02/07/1945020701/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 11-04-1985 en tekstbijwerking tot 29-07-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 FEBRUARI 1945. - Besluitwet betreffende de maatschappelijke veiligheid van de zeelieden ter koopvaardij

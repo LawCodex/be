@@ -13,7 +13,7 @@ entry_into_force: 2012-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/19/2012031602/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2012. - Décret modifiant le décret de la Commission communautaire française du 17 mars 1994 portant création de l'Institut bruxellois francophone pour la Formation professionnelle

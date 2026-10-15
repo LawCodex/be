@@ -13,7 +13,7 @@ last_amended: 2013-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1974/12/19/1974121902/justel"
 justel_note: "Consultation des versions antérieures à partir du 04-08-1983 et mise à jour au 16-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1974. - Loi organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités.

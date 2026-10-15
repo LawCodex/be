@@ -13,7 +13,7 @@ entry_into_force: 1982-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/06/25/1996033078/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 1996. - Décret relatif à la fin de carrière et au congé spécial pour prestations réduites dans l'enseignement et dans les centres psycho-médico-sociaux et modifiant l'article 10 de l'arrêté royal n° 63 du 20 juillet 1982 modifiant les dispositions des statuts pécuniaires applicables au personnel enseignant et assimilé de l'enseignement de plein exercice et de l'enseignement de promotion sociale ou à horaire réduit.

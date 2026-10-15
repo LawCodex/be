@@ -12,7 +12,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/27/2007003223/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2007. - Loi portant modification de la loi du 20 juillet 1979 concernant l'assistance mutuelle en matière de recouvrement des créances relatives à certains cotisations, droits, taxes et autres mesures, en exécution de la directive 2006/84/CE de la Commission du 23 octobre 2006.

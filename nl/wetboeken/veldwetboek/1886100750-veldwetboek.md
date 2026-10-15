@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1886/10/07/1886100750/justel"
 justel_notes:
   - "de Nederlandse tekst van deze wet werd vastgesteld door de wet van 8 april 1969"
   - "Raadpleging van vroegere versies vanaf 26-07-1991 en tekstbijwerking tot 10-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 OKTOBER 1886. - Veldwetboek.

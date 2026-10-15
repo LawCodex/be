@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/06/24/1996029252/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 23-10-1996 et mise à jour au 02-04-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 1996. - Décret octroyant la personnalité juridique au pouvoir organisateur de la Haute Ecole Lucia de Brouckère.

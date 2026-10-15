@@ -12,7 +12,7 @@ entry_into_force: 2018-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/09/09/2018030243/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 SEPTEMBER 2015. - Wet houdende instemming met : - de Luchtvervoerovereenkomst tussen ten eerste, de Verenigde Staten van Amerika, ten tweede, de Europese Unie en haar Lidstaten, ten derde, IJsland en ten vierde, het Koninkrijk Noorwegen, gedaan te Luxemburg en Oslo op 16 en 21 juni 2011; - de Aanvullende Overeenkomst tussen ten eerste, de Europese Unie en haar Lidstaten, ten tweede, IJSland, en ten derde, het Koninkrijk Noorwegen, betreffende de toepassing van de Overeenkomst inzake luchtvervoer tussen ten eerste, de Verenigde Staten van Amerika, ten tweede, de Europese Unie en haar Lidstaten, ten derde, IJsland en ten vierde, het Koninkrijk Noorwegen, gedaan te Luxemburg en Oslo op 16 en 21 juni 2011

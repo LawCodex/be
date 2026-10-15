@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/06/09/2022041571/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 07-07-2022 en tekstbijwerking tot 18-12-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 2022. - Ordonnantie betreffende taxidiensten

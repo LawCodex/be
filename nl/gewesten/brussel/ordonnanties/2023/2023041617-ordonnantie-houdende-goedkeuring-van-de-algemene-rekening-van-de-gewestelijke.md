@@ -13,7 +13,7 @@ entry_into_force: 2023-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/03/30/2023041617/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2023. - Ordonnantie houdende goedkeuring van de algemene rekening van de gewestelijke entiteit voor het jaar 2021

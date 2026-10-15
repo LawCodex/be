@@ -13,7 +13,7 @@ entry_into_force: 1999-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/11/30/1999033060/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 1998. - Decreet houdende instemming met het samenwerkingsakkoord van 5 mei 1998 betreffende de bestendiging van het armoedebeleid (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2024-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/04/09/2024009732/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 AVRIL 2025. - Ordonnance fixant le règlement particulier de la cour du travail de Bruxelles

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/07/22/1985011261/justel"
 department: "Affaires économiques"
 justel_note: "Consultation des versions antérieures à partir du 04-10-2000 et mise à jour au 14-12-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 1985. - Loi sur la responsabilité civile dans le domaine de l'énergie nucléaire.

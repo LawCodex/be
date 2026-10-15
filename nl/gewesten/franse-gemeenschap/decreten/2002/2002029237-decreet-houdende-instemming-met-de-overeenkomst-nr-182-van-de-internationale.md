@@ -13,7 +13,7 @@ entry_into_force: 2002-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/04/25/2002029237/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2002. - Decreet houdende instemming met de overeenkomst nr. 182 van de Internationale Arbeidsorganisatie betreffende het verbod van de ergste vormen van kinderarbeid en de onmiddellijke maatregelen voor de afschaffing ervan, gedaan te Genève op 17 juni 1999 (VERTALING).

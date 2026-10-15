@@ -12,7 +12,7 @@ entry_into_force: 2024-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/03/29/2024003695/justel"
 department: "Justitie - Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2024. - Wet tot wijziging van de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus om tot een geïntegreerd en globaal veiligheidsbeleid te komen binnen de provincies en het Brussels Hoofdstedelijk Gewest

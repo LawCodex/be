@@ -12,7 +12,7 @@ entry_into_force: 2020-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/03/26/2020201773/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2020. - Loi modifiant la loi du 6 mars 2007 modifiant la loi du 27 février 1987 relative aux allocations aux personnes handicapées et l'arrêté royal du 22 mai 2003 relatif à la procédure concernant le traitement des dossiers en matière des allocations aux personnes handicapées, en vue de permettre l'octroi automatique d'allocations

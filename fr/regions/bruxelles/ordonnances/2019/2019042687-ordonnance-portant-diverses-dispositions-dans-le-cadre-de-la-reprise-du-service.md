@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/11/28/2019042687/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2019. - Ordonnance portant diverses dispositions dans le cadre de la reprise du service des taxes de circulation et du précompte immobilier par la Région de Bruxelles-Capitale

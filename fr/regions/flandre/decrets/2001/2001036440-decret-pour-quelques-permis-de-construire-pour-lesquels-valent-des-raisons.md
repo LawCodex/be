@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/14/2001036440/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-12-2001 et mise à jour au 07-07-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2001. - Décret pour quelques permis de construire pour lesquels valent des raisons obligatoires d'intérêt général. (Traduction)

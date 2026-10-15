@@ -12,7 +12,7 @@ published: 2026-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/17/2026006021/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2026. - Decreet tot wijziging van het decreet Basisonderwijs van 25 februari 1997, de Codex Secundair Onderwijs van 17 december 2010 en de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, wat het inschrijvingsrecht in Brussel en in het buitengewoon onderwijs en het extra werkingsbudget voor de B-stroom in het gewoon secundair onderwijs betreft

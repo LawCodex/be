@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1984/12/06/1984021266/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 27-03-1991 en tekstbijwerking tot 01-09-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 1984. - Wet tot bekrachtiging van de koninklijke besluiten vastgesteld ter uitvoering van artikel 1, 3° tot 10°, van de wet van 6 juli 1983 tot toekenning van bepaalde bijzondere machten aan de Koning

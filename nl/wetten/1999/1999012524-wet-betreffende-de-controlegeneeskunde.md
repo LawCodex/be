@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/13/1999012524/justel"
 department: "Tewerkstelling en Arbeid"
 justel_note: "Raadpleging van vroegere versies vanaf 13-07-1999 en tekstbijwerking tot 05-02-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 1999. - Wet betreffende de controlegeneeskunde

@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/16/2006200157/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2005. - Décret modifiant le décret du 19 mai 2004 portant création d'une école de gestion à l'Université de Liège.

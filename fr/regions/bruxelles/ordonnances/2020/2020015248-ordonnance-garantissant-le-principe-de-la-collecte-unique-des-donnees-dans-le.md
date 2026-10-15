@@ -13,7 +13,7 @@ entry_into_force: 2020-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/07/17/2020015248/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2020. - Ordonnance garantissant le principe de la collecte unique des données dans le fonctionnement des services et instances qui relèvent de ou exécutent certaines missions pour l'autorité, et portant simplification et harmonisation des formulaires électroniques et papier

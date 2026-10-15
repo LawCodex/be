@@ -12,7 +12,7 @@ entry_into_force: 2002-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/11/27/2002003659/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2001. - Wet houdende eindregeling van de begrotingen van de diensten van algemeen bestuur van de Staat van het jaar 1996.

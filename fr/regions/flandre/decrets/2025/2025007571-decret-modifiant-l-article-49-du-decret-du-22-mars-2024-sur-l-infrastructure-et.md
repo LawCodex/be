@@ -13,7 +13,7 @@ entry_into_force: 2025-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/10/03/2025007571/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 OCTOBRE 2025. - Décret modifiant l'article 49 du décret du 22 mars 2024 sur l'infrastructure et la politique routières et l'infrastructure hydraulique et la politique de l'eau, en ce qui concerne l'adaptation d'une date limite d'entrée en vigueur

@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/06/2023043806/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2023. - Decreet tot integratie van het gesubsidieerd administratief personeel van het gesubsidieerd onderwijs in de decreten van 6 juni 1994 tot vaststelling van de rechtspositie van de gesubsidieerde personeelsleden van het officieel gesubsidieerd onderwijs en van 1 februari 1993 houdende het statuut van de gesubsidieerde personeelsleden van het gesubsidieerd vrij onderwijs

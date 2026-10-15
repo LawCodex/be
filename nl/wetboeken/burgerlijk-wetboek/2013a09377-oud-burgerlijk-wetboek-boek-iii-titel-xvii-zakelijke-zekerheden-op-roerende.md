@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/11/2013A09377/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 02-08-2013 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2013. - [OUD] BURGERLIJK WETBOEK. - BOEK III - Titel XVII : Zakelijke zekerheden op roerende goederen - (Opschrift gewijzigd door W 2019-04-13/28 , art. 2, 005; Inwerkingtreding : 01-11-2020) (Oude artikelen 2071 tot en met 2091 van het Burgerlijk Wetboek vormende de Titel XVII : Inpandgeving)

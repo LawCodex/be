@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/15/2018201408/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 28-03-2018 et mise à jour au 16-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2018. - Décret relatif au bail d'habitation

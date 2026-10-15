@@ -13,7 +13,7 @@ entry_into_force: 2023-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/06/08/2023042717/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2023. - Ordonnantie tot wijziging van verschillende bepalingen van de Nieuwe Gemeentewet

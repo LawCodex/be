@@ -12,7 +12,7 @@ entry_into_force: 2002-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/05/17/2002015081/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2002. - Loi portant assentiment à l'Accord entre les Gouvernements des Etats du Benelux (le Royaume de Belgique, le Royaume des Pays-Bas, le Grand-Duché de Luxembourg) et le Gouvernement de la République de Bulgarie relatif à la réadmission des personnes en séjour irréguliers (Accord de réadmission), et au Protocole d'application, faits à Bruxelles le 7 octobre 1998.

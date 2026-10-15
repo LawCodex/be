@@ -12,7 +12,7 @@ entry_into_force: 2006-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/07/20/2006015085/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 1998. - Wet houdende instemming met het Protocol van overeenkomst tussen het Koninkrijk België en de Internationale Douaneraad betreffende het behoud van de zetel van de Wereld Douane Organisatie in Brussel, ondertekend te Brussel op 7 februari 1997.

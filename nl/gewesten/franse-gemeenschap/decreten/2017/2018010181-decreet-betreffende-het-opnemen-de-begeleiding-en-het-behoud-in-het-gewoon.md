@@ -12,7 +12,7 @@ published: 2018-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/12/07/2018010181/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2017. - Decreet betreffende het opnemen, de begeleiding en het behoud in het gewoon basis- en secundair onderwijs van leerlingen met specifieke behoeften

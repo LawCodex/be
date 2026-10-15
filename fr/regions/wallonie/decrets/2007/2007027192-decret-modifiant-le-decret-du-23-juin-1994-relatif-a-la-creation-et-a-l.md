@@ -13,7 +13,7 @@ entry_into_force: 2008-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/19/2007027192/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2007. - Décret modifiant le décret du 23 juin 1994 relatif à la création et à l'exploitation des aéroports et aérodromes relevant de la Région wallonne.

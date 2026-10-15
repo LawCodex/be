@@ -12,7 +12,7 @@ entry_into_force: 2002-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/12/2002012838/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2002. - Loi modifiant la nouvelle loi communale en ce qui concerne la mise à disposition de personnel.

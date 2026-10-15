@@ -11,7 +11,7 @@ published: 2024-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/06/16/2024006701/justel"
 department: "Justitie - Landsverdediging - Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2024. - Wet houdende wijziging van de wet van 11 december 1998 tot oprichting van een beroepsorgaan inzake veiligheidsmachtigingen, veiligheidsattesten en veiligheidsadviezen

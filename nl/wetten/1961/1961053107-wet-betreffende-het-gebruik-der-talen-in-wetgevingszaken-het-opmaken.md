@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1961/05/31/1961053107/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 13-06-2007 en tekstbijwerking tot 21-07-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 1961. - Wet betreffende het gebruik der talen in wetgevingszaken, het opmaken, bekendmaken en inwerkingtreden van wetten en verordeningen.

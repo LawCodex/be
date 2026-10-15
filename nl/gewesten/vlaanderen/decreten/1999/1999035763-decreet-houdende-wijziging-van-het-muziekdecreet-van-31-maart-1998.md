@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/18/1999035763/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "artikel 60 van DVR 2001-12-21/37 schrapt, zonder een artikel te specificeren, een deel van een onvindbare zin in huidig decreet"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 1999. - Decreet houdende wijziging van het Muziekdecreet van 31 maart 1998.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/07/22/1993029398/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1999 et mise à jour au 12-05-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 1993. - Décret II attribuant l'exercice de certaines compétences de la Communauté française à la Région wallonne et à la Commission communautaire française.

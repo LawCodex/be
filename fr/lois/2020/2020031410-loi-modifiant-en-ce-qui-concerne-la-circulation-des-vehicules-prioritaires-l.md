@@ -12,7 +12,7 @@ entry_into_force: 2020-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/07/16/2020031410/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2020. - Loi modifiant, en ce qui concerne la circulation des véhicules prioritaires, l'arrêté royal du 1er décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique. - Erratum (Ce texte est annule et remplace celui paru au M.B. 01-10-2020, p. 68969)

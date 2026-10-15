@@ -12,7 +12,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/11/27/2013003449/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2013. - Loi concernant les dotations et les indemnités octroyées à des membres de la Famille royale ainsi que la transparence du financement de la monarchie

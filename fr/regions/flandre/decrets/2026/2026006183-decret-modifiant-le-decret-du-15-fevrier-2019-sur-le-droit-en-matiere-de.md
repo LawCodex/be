@@ -13,7 +13,7 @@ entry_into_force: 2026-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/10/2026006183/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2026. - Décret modifiant le décret du 15 février 2019 sur le droit en matière de délinquance juvénile, en ce qui concerne l'harmonisation en fonction du nouveau Code pénal et d'autres modifications

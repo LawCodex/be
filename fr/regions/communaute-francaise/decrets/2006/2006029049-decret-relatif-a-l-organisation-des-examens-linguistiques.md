@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/02/03/2006029049/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 13-03-2008 et mise à jour au 05-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2006. - Décret relatif à l'organisation des examens linguistiques

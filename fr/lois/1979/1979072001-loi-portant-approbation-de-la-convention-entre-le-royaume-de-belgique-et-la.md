@@ -11,7 +11,7 @@ published: 1980-06-24
 entry_into_force: 1980-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1979/07/20/1979072001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 1979. - Loi portant approbation de la Convention entre le Royaume de Belgique et la République des Philippines tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, et du Protocole, signés à Manille le 2 octobre 1976.

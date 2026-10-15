@@ -13,7 +13,7 @@ entry_into_force: 2026-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/04/24/2026003633/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 APRIL 2026. - Decreet tot instemming met het samenwerkingsakkoord van 3 oktober 2025 tot wijziging van het samenwerkingsakkoord van 31 december 2018 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Franse Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de financiering van zorg bij gebruik van zorgvoorzieningen over de grenzen van de deelstaat

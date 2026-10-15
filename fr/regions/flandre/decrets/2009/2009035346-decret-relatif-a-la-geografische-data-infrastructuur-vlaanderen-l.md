@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/02/20/2009035346/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-04-2009 et mise à jour au 28-04-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2009. - Décret relatif à la " Geografische Data-Infrastructuur Vlaanderen " (l'infrastructure de données géographiques de la Flandre) (Cité comme : Décret GDI)

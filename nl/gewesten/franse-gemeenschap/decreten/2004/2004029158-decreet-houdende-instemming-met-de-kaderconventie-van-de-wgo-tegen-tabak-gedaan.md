@@ -13,7 +13,7 @@ entry_into_force: 2004-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/12/2004029158/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Decreet houdende instemming met de Kaderconventie van de WGO tegen tabak, gedaan te Genève op 21 mei 2003 (VERTALING).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/01/06/1989021001/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 17-01-1989 en tekstbijwerking tot 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JANUARI 1989. - Bijzondere wet op het [Grondwettelijk Hof]. &lt;Opschrift gewijzigd door W 2010-02-21/01 , art. 6, 009; Inwerkingtreding : 08-03-2010&gt;

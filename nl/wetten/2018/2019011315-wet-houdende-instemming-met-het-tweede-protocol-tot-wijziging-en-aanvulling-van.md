@@ -11,7 +11,7 @@ entry_into_force: 2016-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/06/2019011315/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2018. - Wet houdende instemming met het Tweede Protocol tot wijziging en aanvulling van het Aanvullend Akkoord, gesloten te Straatsburg op 3 december 1974 tussen het Koninkrijk België en de Raad van Europa, bij het Algemeen Akkoord inzake de voorrechten en immuniteiten van de Raad van Europa, ondertekend te Parijs op 2 september 1949, gedaan te Brussel op 15 april 2016

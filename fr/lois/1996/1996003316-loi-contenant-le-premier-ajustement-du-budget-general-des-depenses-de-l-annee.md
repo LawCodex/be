@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/07/10/1996003316/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 21-08-1996 et mise à jour au 04-03-1998"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 1996. - Loi contenant le premier ajustement du Budget général des dépenses de l'année budgétaire 1996.

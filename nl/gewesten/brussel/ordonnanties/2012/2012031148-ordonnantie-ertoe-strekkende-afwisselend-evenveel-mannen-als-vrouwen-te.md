@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/03/15/2012031148/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2012. - Ordonnantie ertoe strekkende afwisselend evenveel mannen als vrouwen te plaatsen op de kieslijsten voor de gemeenteraadsverkiezingen in het Brussels Hoofdstedelijk Gewest

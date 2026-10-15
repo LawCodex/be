@@ -12,7 +12,7 @@ entry_into_force: 2015-11-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/08/30/2015015142/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AOUT 2015. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République française relatif à la coopération en matière de défense aérienne contre les menaces aériennes non militaires, conclu à Tours le 6 juillet 2005

@@ -12,7 +12,7 @@ entry_into_force: 2002-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/01/22/2002000120/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 2002. - Loi visant à réduire de moitié l'effet dévolutif des votes exprimés en case de tête et à supprimer la distinction entre candidats titulaires et candidats suppléants pour l'élection du Conseil flamand, du Conseil régional wallon et du Conseil de la Région de Bruxelles-Capitale.

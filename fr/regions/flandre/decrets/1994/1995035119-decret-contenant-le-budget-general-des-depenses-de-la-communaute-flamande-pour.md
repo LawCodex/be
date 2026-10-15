@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/21/1995035119/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieur à partir du 31-08-1995 et mis à jour au 15-03-1996"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 1994. - Décret contenant le budget général des dépenses de la Communauté flamande pour l'année budgétaire 1995. (Traduction)

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/13/2019012168/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 14-05-2019 en tekstbijwerking tot 01-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 2019. - Wet tot invoering van een Burgerlijk Wetboek en tot invoeging van boek 8 "Bewijs" in dat Wetboek

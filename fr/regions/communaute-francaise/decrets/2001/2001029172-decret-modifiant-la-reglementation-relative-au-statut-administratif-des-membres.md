@@ -13,7 +13,7 @@ entry_into_force: 2001-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/03/29/2001029172/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2001. - Décret modifiant la réglementation relative au statut administratif des membres du personnel directeur et enseignant, du personnel auxiliaire d'éducation, du personnel paramédical, du personnel psychologique et du personnel social des établissements d'enseignement gardien, primaire, spécial, moyen, technique, de promotion sociale et artistique de la Communauté française, des internats dépendant de ces établissements et des membres du personnel du service d'inspection chargé de la surveillance de ces établissements.

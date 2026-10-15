@@ -11,7 +11,7 @@ published: 2012-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/09/20/2012009416/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBER 2012. - Wet tot instelling van het " una via "-principe in de vervolging van overtredingen van de fiscale wetgeving en tot verhoging van de fiscale penale boetes

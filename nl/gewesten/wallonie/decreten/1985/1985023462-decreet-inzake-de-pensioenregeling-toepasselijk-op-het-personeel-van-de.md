@@ -13,7 +13,7 @@ entry_into_force: 1984-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1985/03/27/1985023462/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 1985. - Decreet inzake de pensioenregeling toepasselijk op het personeel van de organismen van openbaar nut behorend tot het Waalse Gewest.

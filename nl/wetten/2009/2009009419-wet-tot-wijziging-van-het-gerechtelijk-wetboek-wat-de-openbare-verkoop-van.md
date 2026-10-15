@@ -12,7 +12,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/05/15/2009009419/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2009. - Wet tot wijziging van het Gerechtelijk Wetboek wat de openbare verkoop van onroerende goederen betreft

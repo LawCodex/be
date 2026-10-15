@@ -11,7 +11,7 @@ published: 1972-06-30
 entry_into_force: 1972-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1972/05/31/1972053106/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 1972. - Wet betreffende de wettelijke gevolgen verbonden aan de graad van licentiaat in de rechten.

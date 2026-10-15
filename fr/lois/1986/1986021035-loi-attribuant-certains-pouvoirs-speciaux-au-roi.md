@@ -12,7 +12,7 @@ entry_into_force: 1986-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1986/03/27/1986021035/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 1986. - Loi attribuant certains pouvoirs spéciaux au Roi.

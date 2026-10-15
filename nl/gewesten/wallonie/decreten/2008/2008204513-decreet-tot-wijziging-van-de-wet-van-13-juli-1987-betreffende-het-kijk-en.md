@@ -13,7 +13,7 @@ entry_into_force: 2008-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/12/05/2008204513/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 2008. - Decreet tot wijziging van de wet van 13 juli 1987 betreffende het kijk- en luistergeld.

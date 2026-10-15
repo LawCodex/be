@@ -10,7 +10,7 @@ date: 1971-08-16
 entry_into_force: 1971-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/08/16/1971081611/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 AUGUSTUS 1971. - Wet houdende goedkeuring van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting op het gebied van belastingen naar het inkomen en naar het vermogen en tot vaststellen van enige andere regelen verband houdende met de belastingheffing, en van het protocol, ondertekend te Brussel op 19 oktober 1970.

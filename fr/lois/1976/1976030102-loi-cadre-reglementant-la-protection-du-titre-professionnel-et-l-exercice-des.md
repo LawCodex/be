@@ -13,7 +13,7 @@ last_amended: 2007-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/03/01/1976030102/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-01-1987 et mise à jour au 28-07-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 1976. - Loi-cadre réglementant la protection du titre professionnel et l'exercice des professions intellectuelles prestataires de services.

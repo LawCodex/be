@@ -12,7 +12,7 @@ entry_into_force: 1999-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/04/1999015075/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 1998. - Wet houdende instemming met het Tweede Facultatieve Protocol bij het Internationaal Verdrag inzake burgerrechten en politieke rechten, gericht op de afschaffing van de doodstraf, gedaan te New York op 15 december 1989.

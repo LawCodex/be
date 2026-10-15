@@ -13,7 +13,7 @@ entry_into_force: 2023-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/03/17/2023041249/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2023. - Ordonnance relative à la gestion de la sécurité des infrastructures routières

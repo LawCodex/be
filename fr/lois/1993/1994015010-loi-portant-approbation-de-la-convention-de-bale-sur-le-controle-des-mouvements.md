@@ -12,7 +12,7 @@ entry_into_force: 1994-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/08/06/1994015010/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AOUT 1993. - Loi portant approbation de la Convention de Bâle sur le contrôle des mouvements transfrontières de déchets dangereux et de leur élimination et des Annexes I, II, III, IV, V-A, V-B et VI, faites à Bâle, le 22 mars 1989.

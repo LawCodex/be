@@ -12,7 +12,7 @@ entry_into_force: 2015-11-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/05/21/2015015128/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 2015. - Loi portant assentiment aux Amendements aux articles 25 et 26 de la Convention sur la protection et l'utilisation des cours d'eau transfrontières et des lacs internationaux, adoptés à Madrid le 28 novembre 2003

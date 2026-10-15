@@ -11,7 +11,7 @@ date: 2012-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/13/2012204756/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2012. - DECREET houdende instemming met : 1° de Overeenkomst tussen het Koninkrijk België en het Groothertogdom Luxemburg tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en naar het vermogen, en het desbetreffende slotprotocol, ondertekend te Luxemburg op 17 september 1970, zoals gewijzigd door de Avenanten van 11 december 2002 en 16 juli 2009; 2° het Avenant tot wijziging van de overeenkomst, zoals eerder gewijzigd, vermeld onder 1°, met de daarbij gevoegde briefwisseling, ondertekend te Brussel op 16 juli 2009

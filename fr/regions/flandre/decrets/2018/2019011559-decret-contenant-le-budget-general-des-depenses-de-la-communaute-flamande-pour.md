@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/21/2019011559/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-04-2019 et mise à jour au 04-02-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2018. - Décret contenant le budget général des dépenses de la Communauté flamande pour l'année budgétaire 2019

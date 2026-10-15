@@ -13,7 +13,7 @@ entry_into_force: 2016-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/03/17/2016201615/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2016. - Décret modifiant le décret du 6 mai 1999 relatif à l'Office wallon de la Formation professionnelle et de l'Emploi

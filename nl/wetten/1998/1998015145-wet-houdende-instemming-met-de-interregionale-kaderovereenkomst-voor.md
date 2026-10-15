@@ -12,7 +12,7 @@ entry_into_force: 1998-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/07/05/1998015145/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1998. - Wet houdende instemming met de Interregionale Kaderovereenkomst voor samenwerking tussen de Europese Gemeenschap en haar Lid-Staten, enerzijds en de Mercado Comùn del Sur en zijn deelnemende Staten anderzijds, gedaan te Madrid op 15 december 1995.

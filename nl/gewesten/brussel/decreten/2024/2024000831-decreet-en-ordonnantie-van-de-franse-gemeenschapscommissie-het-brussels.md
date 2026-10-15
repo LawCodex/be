@@ -13,7 +13,7 @@ entry_into_force: 2024-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/01/25/2024000831/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2024. - Decreet en ordonnantie van de Franse Gemeenschapscommissie, het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschapscommissie betreffende de digitale transitie van de overheidsinstanties

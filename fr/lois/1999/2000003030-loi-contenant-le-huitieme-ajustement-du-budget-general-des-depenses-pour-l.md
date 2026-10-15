@@ -12,7 +12,7 @@ entry_into_force: 2000-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/12/24/2000003030/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 1999. - Loi contenant le huitième ajustement du budget général des dépenses pour l'année budgétaire 1999.

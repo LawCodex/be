@@ -9,7 +9,7 @@ language: nl
 date: 1944-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1944/05/25/1944052550/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 1944. - BESLUIT-WET betreffende de bindende kracht van sommige verordeningen van den Opperbevelhebber der geallieerde legers.

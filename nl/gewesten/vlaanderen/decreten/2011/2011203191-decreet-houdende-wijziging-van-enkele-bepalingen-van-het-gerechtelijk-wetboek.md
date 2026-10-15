@@ -13,7 +13,7 @@ entry_into_force: 2011-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/06/10/2011203191/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2011. - Decreet houdende wijziging van enkele bepalingen van het Gerechtelijk Wetboek

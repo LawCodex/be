@@ -13,7 +13,7 @@ entry_into_force: 2003-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/20/2003031088/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2002. - Decreet houdende instemming met het Intern Akkoord tussen de vertegenwoordigers van de Regeringen van de lid-Staten verenigd in de schoot van de Raad, betreffende maatregelen en procedures voor de tenuitvoerlegging van de ACS-EU Partnerschapsovereenkomst (VERTALING).

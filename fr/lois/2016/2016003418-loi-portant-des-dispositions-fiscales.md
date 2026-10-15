@@ -12,7 +12,7 @@ entry_into_force: 2016-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/01/2016003418/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2016. - Loi portant des dispositions fiscales

@@ -12,7 +12,7 @@ entry_into_force: 2019-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/30/2018031810/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2018. - Loi modifiant la loi du 15 mai 2007 relative à la création de la fonction de gardien de la paix, à la création du service des gardiens de la paix et à la modification de l'article 119bis de la nouvelle loi communale, en ce qui concerne la formation

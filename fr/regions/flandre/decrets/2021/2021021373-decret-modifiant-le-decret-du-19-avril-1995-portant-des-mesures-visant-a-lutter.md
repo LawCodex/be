@@ -13,7 +13,7 @@ entry_into_force: 2021-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/18/2021021373/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2021. - Décret modifiant le décret du 19 avril 1995 portant des mesures visant à lutter contre et à prévenir la désaffectation et l'abandon de sites d'activité économique, le décret du 5 juillet 2013 portant modification de diverses dispositions du décret du 19 avril 1995 contenant des mesures visant à lutter contre l'abandon et le délabrement de sites industriels et le Code flamand de la Fiscalité du 13 décembre 2013, en ce qui concerne le régime de subventionnement

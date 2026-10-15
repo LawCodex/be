@@ -13,7 +13,7 @@ entry_into_force: 2008-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/20/2008202649/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2008. - Décret modifiant le décret sur les Arts (TRADUCTION).

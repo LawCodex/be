@@ -13,7 +13,7 @@ entry_into_force: 2025-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/05/23/2025004351/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2025. - Decreet tot instemming met de overeenkomst in het kader van het Verdrag van de Verenigde Naties inzake het recht van de zee, inzake het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht, gedaan te New York op 19 juni 2023

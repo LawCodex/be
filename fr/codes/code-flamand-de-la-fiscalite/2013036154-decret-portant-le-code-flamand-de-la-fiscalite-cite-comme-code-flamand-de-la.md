@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/13/2013036154/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 23-12-2013 et mise à jour au 30-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2013. - Décret portant le Code flamand de la Fiscalité (cité comme Code flamand de la Fiscalité du 13 décembre 2013)

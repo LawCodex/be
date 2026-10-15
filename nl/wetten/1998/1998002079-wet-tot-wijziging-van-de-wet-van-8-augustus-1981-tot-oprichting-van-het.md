@@ -12,7 +12,7 @@ entry_into_force: 1998-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/05/18/1998002079/justel"
 department: "Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 1998. - Wet tot wijziging van de wet van 8 augustus 1981 tot oprichting van het Nationaal Instituut voor oorlogsinvaliden, oud-strijders en oorlogsslachtoffers en van de Hoge Raad voor oorlogsinvaliden, oud-strijders en oorlogsslachtoffers.

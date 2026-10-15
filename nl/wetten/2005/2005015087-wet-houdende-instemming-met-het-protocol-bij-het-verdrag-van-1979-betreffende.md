@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/05/25/2005015087/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
 justel_note: "Raadpleging van vroegere versies vanaf 28-06-2005 en tekstbijwerking tot 11-09-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2005. - Wet houdende instemming met het Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, inzake zware metalen, en met de Bijlagen, gedaan te Aarhus op 24 juni 1998

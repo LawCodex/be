@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/06/2001035984/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-10-2001 et mise à jour au 15-02-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2001. - Décret portant réglementation de la coopération intercommunale (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2002-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/05/2002035984/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2002. - Decreet houdende wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, wat betreft de openbaarheid van de vergaderingen.

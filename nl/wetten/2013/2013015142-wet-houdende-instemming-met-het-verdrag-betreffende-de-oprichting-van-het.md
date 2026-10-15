@@ -12,7 +12,7 @@ entry_into_force: 2013-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/04/29/2013015142/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2013. - Wet houdende instemming met het Verdrag betreffende de oprichting van het Functioneel Luchtruimblok " Europe Central " tussen de Bondsrepubliek Duitsland, het Koninkrijk België, de Republiek Frankrijk, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat

@@ -12,7 +12,7 @@ entry_into_force: 2023-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/08/2023047415/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2023. - Loi visant à étendre le nombre de membres du Comité d'étude sur le vieillissement

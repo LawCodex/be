@@ -12,7 +12,7 @@ entry_into_force: 2023-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/16/2022034556/justel"
 department: "Justice - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2022. - Loi modifiant la loi du 5 août 1992 sur la fonction de police en vue d'assortir l'usage des menottes de garanties claires dans le cas d'enfants mineurs

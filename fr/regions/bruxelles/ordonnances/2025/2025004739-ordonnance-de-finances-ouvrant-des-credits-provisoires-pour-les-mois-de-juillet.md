@@ -13,7 +13,7 @@ entry_into_force: 2025-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/06/20/2025004739/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2025. - Ordonnance de finances ouvrant des crédits provisoires pour les mois de juillet, d'août et de septembre 2025 sur le budget de la Commission communautaire commune pour l'année budgétaire 2025

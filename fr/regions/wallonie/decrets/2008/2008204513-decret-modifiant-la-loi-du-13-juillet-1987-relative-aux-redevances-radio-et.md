@@ -13,7 +13,7 @@ entry_into_force: 2008-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/05/2008204513/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 2008. - Décret modifiant la loi du 13 juillet 1987 relative aux redevances radio et télévision.

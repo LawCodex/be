@@ -10,7 +10,7 @@ date: 2022-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/08/21/2022042195/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AUGUSTUS 2022. - Wet tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen, wat betreft de onderzoekers, stagiairs en vrijwilligers

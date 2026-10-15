@@ -13,7 +13,7 @@ entry_into_force: 2003-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/10/16/2003201549/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 2003. - Decreet houdende wijziging van het decreet van 27 juni 1996 betreffende de afvalstoffen (VERTALING).

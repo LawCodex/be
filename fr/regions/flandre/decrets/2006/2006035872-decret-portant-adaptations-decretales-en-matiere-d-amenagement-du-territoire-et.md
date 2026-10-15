@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/03/10/2006035872/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 07-06-2006 et mise à jour au 09-08-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2006. - Décret portant adaptations décrétales en matière d'aménagement du territoire et du patrimoine immobilier suite à la politique administrative (TRADUCTION)

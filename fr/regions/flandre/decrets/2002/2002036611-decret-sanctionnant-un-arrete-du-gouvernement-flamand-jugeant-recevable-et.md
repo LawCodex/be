@@ -13,7 +13,7 @@ entry_into_force: 2003-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/06/2002036611/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2002. - Décret sanctionnant un arrêté du Gouvernement flamand jugeant recevable et équivalente la demande de dérogation aux objectifs finaux des deuxième et troisième degrés de l'enseignement secondaire ordinaire à temps plein (TRADUCTION).

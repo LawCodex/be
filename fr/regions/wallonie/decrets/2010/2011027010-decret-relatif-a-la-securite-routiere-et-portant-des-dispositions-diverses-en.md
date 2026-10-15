@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/22/2011027010/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 25-01-2011 et mise à jour au 16-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2010. - Décret relatif à la sécurité routière et portant des dispositions diverses en matière routière et de voies hydrauliques

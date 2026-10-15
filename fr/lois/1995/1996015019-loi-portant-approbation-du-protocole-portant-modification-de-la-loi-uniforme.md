@@ -12,7 +12,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/05/11/1996015019/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 1995. - Loi portant approbation du Protocole portant modification de la loi uniforme Benelux sur les marques, signé à Bruxelles le 2 décembre 1992.

@@ -15,7 +15,7 @@ department: "Economie, KMO, Middenstand en Energie"
 justel_notes:
   - "Inwerkingtreding : 01-01-2015, zie KB 2014-04-19/61 , art. 1"
   - "Raadpleging van vroegere versies vanaf 16-02-2011 en tekstbijwerking tot 29-12-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANUARI 2011. - Wet ter uitvoering van het Verdrag inzake octrooirecht en de Akte tot herziening van het Verdrag inzake de verlening van Europese octrooien, alsook tot wijziging van diverse bepalingen inzake uitvindingsoctrooien

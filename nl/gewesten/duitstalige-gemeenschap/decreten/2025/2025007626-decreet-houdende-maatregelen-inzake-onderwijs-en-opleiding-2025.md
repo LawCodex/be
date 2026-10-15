@@ -12,7 +12,7 @@ published: 2025-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/06/30/2025007626/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2025. - Decreet houdende maatregelen inzake onderwijs en opleiding 2025

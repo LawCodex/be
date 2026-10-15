@@ -10,7 +10,7 @@ date: 2011-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/07/28/2011003317/justel"
 department: "Financiën - Werkgelegenheid, Arbeid en Sociaal Overleg - Justitie - Personeel en Organisatie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JULI 2011. - Wet tot wijziging van de wet van 21 maart 1991 betreffende de hervorming van sommige economische overheidsbedrijven, het Wetboek van vennootschappen en de wet van 19 april 2002 tot rationalisering van de werking en het beheer van de Nationale Loterij teneinde te garanderen dat vrouwen zitting hebben in de raad van bestuur van de autonome overheidsbedrijven, de genoteerde vennootschappen en de Nationale Loterij

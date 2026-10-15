@@ -13,7 +13,7 @@ entry_into_force: 2017-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/03/31/2017040215/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2017. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 23 december 2016 tot ontvankelijkheid en gelijkwaardigheid van een aanvraag tot afwijking van de eindtermen, wat de tweede graad technisch secundair onderwijs betreft

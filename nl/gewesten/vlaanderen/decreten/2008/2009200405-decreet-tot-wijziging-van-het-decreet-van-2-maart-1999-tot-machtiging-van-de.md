@@ -12,7 +12,7 @@ published: 2009-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/12/12/2009200405/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2008. - Decreet tot wijziging van het decreet van 2 maart 1999 tot machtiging van de Vlaamse Regering om een coöperatieve vennootschap met beperkte aansprakelijkheid op te richten voor de uitvoering van opdrachten met betrekking tot de werving en selectie van overheidspersoneel en het decreet van 7 mei 2004 betreffende het privaatrechtelijk vormgegeven extern verzelfstandigde agentschap ''Vlaams Agentschap voor Rekrutering en Selectie'' en houdende wijziging van het decreet van 2 maart 1999 tot machtiging van de Vlaamse Regering om een coöperatieve vennootschap met beperkte aansprakelijkheid op te richten voor de uitvoering van opdrachten met betrekking tot de werving en selectie van overheidspersoneel.

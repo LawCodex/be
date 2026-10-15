@@ -12,7 +12,7 @@ entry_into_force: 2001-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/03/23/2001003193/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2001. - Wet tot wijziging van de wet van 22 oktober 1997 betreffende de structuur en de accijnstarieven inzake minerale olie.

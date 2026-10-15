@@ -13,7 +13,7 @@ entry_into_force: 2024-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/03/07/2024002041/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2024. - Ordonnance portant assentiment: 1° à la Convention entre le Royaume de Belgique et la République de l'Ouganda tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu et sur la fortune faite à Kampala le 26 juillet 2007, telle que modifiée par le protocole fait à Kampala le 25 avril 2014; et 2° au Protocole, signé à Kampala le 25 avril 2014, amendant la Convention entre le Royaume de Belgique et la République de l'Ouganda tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu et sur la fortune faite à Kampala le 26 juillet 2007

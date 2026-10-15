@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014203022/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret modifiant le décret du 2 mars 2007 abrogeant le décret du 5 avril 1995 portant création du " Vlaamse Opera " et réglant la succession en droits

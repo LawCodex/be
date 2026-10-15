@@ -12,7 +12,7 @@ entry_into_force: 2026-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/19/2026005943/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2026. - Loi transposant la directive (UE) 2023/2673 du Parlement européen et du Conseil du 22 novembre 2023 modifiant la directive 2011/83/UE en ce qui concerne les contrats de services financiers conclus à distance et abrogeant la directive 2002/65/CE et modifiant le Code de droit économique et la loi du 4 avril 2014 relative aux assurances

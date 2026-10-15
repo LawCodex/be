@@ -12,7 +12,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/01/19/1998015037/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JANVIER 1998. - Loi relative au statut en Belgique du Haut Représentant chargé de la mise en application, dans le domaine civil, de l'Accord de paix pour la Bosnie-Herzégovine.

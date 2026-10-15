@@ -12,7 +12,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/01/24/1994007018/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JANUARI 1994. - Wet tot vaststelling van de legersterkte voor het jaar 1994.

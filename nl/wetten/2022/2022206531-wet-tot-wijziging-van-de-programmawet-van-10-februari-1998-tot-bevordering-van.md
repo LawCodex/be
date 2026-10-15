@@ -10,7 +10,7 @@ date: 2022-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/07/2022206531/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2022. - Wet tot wijziging van de programmawet van 10 februari 1998 tot bevordering van het zelfstandig ondernemerschap

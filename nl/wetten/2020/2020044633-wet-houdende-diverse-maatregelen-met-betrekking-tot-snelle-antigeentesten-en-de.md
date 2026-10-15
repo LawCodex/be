@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/12/22/2020044633/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 24-12-2020 en tekstbijwerking tot 29-08-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2020. - Wet houdende diverse maatregelen met betrekking tot snelle antigeentesten en de registratie en verwerking van gegevens betreffende vaccinaties in het kader van de strijd tegen de COVID-19-pandemie

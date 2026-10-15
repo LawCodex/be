@@ -11,7 +11,7 @@ published: 1931-07-16
 entry_into_force: 1931-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1931/07/06/1931070650/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 1931. - Loi préparatoire à l'organisation des assurances sociales des marins de tous grades de la marine marchande.

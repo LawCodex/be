@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/01/04/1999029055/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 11-02-1999 et mise à jour au 29-11-2000"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JANVIER 1999. - Décret modifiant le décret du 17 juillet 1987 sur l'audiovisuel et assurant la transposition de la directive 97/36/CE du 30 juin 1997 et de la directive 95/47/CE du 24 octobre 1995.

@@ -12,7 +12,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/03/16/2026002536/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2026. - Wet tot wijziging van de bepalingen van de wet van 15 mei 2007 betreffende de civiele veiligheid in verband met de federale dotaties en subsidies en de bijbehorende koninklijke besluiten

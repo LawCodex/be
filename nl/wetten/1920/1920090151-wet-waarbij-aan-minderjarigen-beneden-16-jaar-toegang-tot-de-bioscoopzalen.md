@@ -13,7 +13,7 @@ last_amended: 2019-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1920/09/01/1920090151/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 17-07-1999 en tekstbijwerking tot 04-06-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 SEPTEMBER 1920. - Wet waarbij aan minderjarigen beneden 16 jaar toegang tot de bioscoopzalen wordt ontzegd.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1985/05/09/1985023482/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 07-01-1989 et mise à jour au 19-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 1985. - Décret concernant la valorisation de terrils.

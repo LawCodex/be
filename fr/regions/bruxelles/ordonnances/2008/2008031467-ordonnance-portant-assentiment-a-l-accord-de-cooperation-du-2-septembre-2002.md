@@ -13,7 +13,7 @@ entry_into_force: 2008-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/09/04/2008031467/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBRE 2008. - Ordonnance portant assentiment à l'accord de coopération du 2 septembre 2002 entre l'Etat fédéral, les Communautés, la Commission communautaire commune, la Commission communautaire française et les Régions pour une politique de drogues globale et intégrée.

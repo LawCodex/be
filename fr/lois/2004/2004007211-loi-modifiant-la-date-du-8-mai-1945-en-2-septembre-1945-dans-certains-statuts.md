@@ -12,7 +12,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/08/10/2004007211/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2004. - Loi modifiant la date du 8 mai 1945 en 2 septembre 1945 dans certains statuts de reconnaissance nationale.

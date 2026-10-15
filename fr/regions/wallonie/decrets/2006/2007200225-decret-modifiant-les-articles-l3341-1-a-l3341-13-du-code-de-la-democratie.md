@@ -13,7 +13,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/21/2007200225/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2006. - Décret modifiant les articles L3341-1 à L3341-13 du Code de la démocratie locale et de la décentralisation relatifs aux subventions à certains investissements d'intérêt public.

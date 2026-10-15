@@ -13,7 +13,7 @@ entry_into_force: 2004-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/04/2004200068/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2003. - Decreet houdende instemming met het Aanvullend Protocol nr. 6 bij de Herziene Rijnvaartakte, gedaan te Straatsburg op 21 oktober 1999. (Vertaling).

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/01/2017203782/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 18-07-2017 en tekstbijwerking tot 17-11-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2017. - Decreet houdende wijziging van het Waalse Wetboek van Huisvesting en Duurzaam Wonen

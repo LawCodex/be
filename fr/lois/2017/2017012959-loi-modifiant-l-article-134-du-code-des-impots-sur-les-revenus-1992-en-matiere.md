@@ -12,7 +12,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/06/30/2017012959/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2017. - Loi modifiant l'article 134 du Code des impôts sur les revenus 1992 en matière de calcul du crédit d'impôts pour enfant à charge

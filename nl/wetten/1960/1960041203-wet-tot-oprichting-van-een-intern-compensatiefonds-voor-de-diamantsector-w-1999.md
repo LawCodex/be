@@ -13,7 +13,7 @@ last_amended: 2012-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1960/04/12/1960041203/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-1989 en tekstbijwerking tot 28-12-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 APRIL 1960. - [Wet tot oprichting van een intern compensatiefonds voor de diamantsector.] &lt;W 1999-03-26/30, art. 81, 005; Inwerkingtreding : 01-01-1999&gt;

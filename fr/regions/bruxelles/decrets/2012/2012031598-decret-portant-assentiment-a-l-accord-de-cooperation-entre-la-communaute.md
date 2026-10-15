@@ -13,7 +13,7 @@ entry_into_force: 2012-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/14/2012031598/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 2012. - Décret portant assentiment à l'Accord de coopération entre la Communauté française, la Région wallonne et la Commission communautaire française de la Région de Bruxelles-Capitale d'une part, et la République de Croatie, d'autre part, signé à Namur le 21 décembre 2010

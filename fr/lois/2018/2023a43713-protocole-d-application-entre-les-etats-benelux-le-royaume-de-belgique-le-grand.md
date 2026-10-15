@@ -12,7 +12,7 @@ entry_into_force: 2023-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/12/17/2023A43713/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2018. - Protocole d'application entre les Etats Benelux (le Royaume de Belgique, le Grand-Duché de Luxembourg, le Royaume des Pays-Bas) et l'Ukraine de l'Accord entre la Communauté européenne et l'Ukraine sur la réadmission des personnes, fait à Bruxelles le 17 décembre 2018

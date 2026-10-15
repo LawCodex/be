@@ -12,7 +12,7 @@ entry_into_force: 1999-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/10/1999009159/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 1999. - Loi relative aux organisations criminelles.

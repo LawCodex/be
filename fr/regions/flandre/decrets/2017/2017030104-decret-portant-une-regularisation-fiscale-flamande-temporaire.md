@@ -13,7 +13,7 @@ entry_into_force: 2017-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/10/2017030104/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2017. - Décret portant une régularisation fiscale flamande temporaire

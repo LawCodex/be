@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/02/08/2013200992/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 22-02-2013 en tekstbijwerking tot 10-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 2013. - Decreet houdende duurzaam gebruik van pesticiden in het Vlaamse Gewest

@@ -13,7 +13,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/05/18/2001035645/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2001. - Décret modifiant le décret du 21 décembre 1990 contenant les dispositions budgétaires techniques ainsi que les dispositions accompagnant le budget 1991 (TRADUCTION).

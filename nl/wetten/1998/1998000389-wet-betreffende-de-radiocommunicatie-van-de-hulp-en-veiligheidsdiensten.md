@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/08/1998000389/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 13-06-1998 en tekstbijwerking tot 25-09-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 1998. - Wet betreffende de radiocommunicatie van de hulp- en veiligheidsdiensten.

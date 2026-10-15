@@ -13,7 +13,7 @@ entry_into_force: 2024-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/05/16/2024005040/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Ordonnance modifiant l'ordonnance du 17 juillet 1997 relative à la lutte contre le bruit en milieu urbain

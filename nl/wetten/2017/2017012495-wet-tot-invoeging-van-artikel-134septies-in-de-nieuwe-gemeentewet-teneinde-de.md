@@ -12,7 +12,7 @@ entry_into_force: 2017-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/05/13/2017012495/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2017. - Wet tot invoeging van artikel 134septies in de Nieuwe gemeentewet, teneinde de Burgemeester toe te staan over te gaan tot sluiting van de inrichtingen waarvan vermoed wordt dat er terroristische activiteiten plaatsvinden

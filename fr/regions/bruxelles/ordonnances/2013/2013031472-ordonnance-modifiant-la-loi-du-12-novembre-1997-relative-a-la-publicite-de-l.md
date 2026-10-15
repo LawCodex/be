@@ -13,7 +13,7 @@ entry_into_force: 2013-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/05/30/2013031472/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2013. - Ordonnance modifiant la loi du 12 novembre 1997 relative à la publicité de l'administration dans les provinces et les communes

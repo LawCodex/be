@@ -13,7 +13,7 @@ entry_into_force: 2021-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/02/04/2021020388/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2021. - Decreet houdende diverse maatregelen betreffende de bevorderings- en selectieambten in het onderwijs

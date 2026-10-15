@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/29/1999022439/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 29-03-2013 et mise à jour au 31-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 1999. - Loi relative aux pratiques non conventionnelles dans les domaines de l'art médical, de l'art pharmaceutique, de la kinésithérapie, de l'art infirmier et des professions paramédicales

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/03/2004029120/justel"
 department: "Franse Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 19-04-2004 en tekstbijwerking tot 14-08-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 2004. - Decreet houdende verschillende dringende maatregelen inzake niet verplicht onderwijs. (VERTALING)

@@ -13,7 +13,7 @@ entry_into_force: 2009-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/27/2009035396/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2009. - Decreet houdende wijziging van het decreet van 28 juni 1985 betreffende de milieuvergunning tot afstemming van de aanvraagprocedures van de stedenbouwkundige vergunning en milieuvergunning en het decreet van 22 december 2006 houdende eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat van gebouwen en tot invoering van een energieprestatiecertificaat en tot wijziging van artikel 22 van het REG-decreet

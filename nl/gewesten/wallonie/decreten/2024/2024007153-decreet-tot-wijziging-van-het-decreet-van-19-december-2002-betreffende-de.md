@@ -13,7 +13,7 @@ entry_into_force: 2024-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/28/2024007153/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2024. - Decreet tot wijziging van het decreet van 19 december 2002 betreffende de organisatie van de gewestelijke gasmarkt en het decreet van 9 december 1993 betreffende de bevordering van rationeel energiegebruik, energiebesparingen en hernieuwbare energieën

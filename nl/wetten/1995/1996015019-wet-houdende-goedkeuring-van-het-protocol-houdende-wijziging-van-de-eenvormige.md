@@ -12,7 +12,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/05/11/1996015019/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 1995. - Wet houdende goedkeuring van het Protocol houdende wijziging van de eenvormige Beneluxwet op de merken, ondertekend te Brussel op 2 december 1992.

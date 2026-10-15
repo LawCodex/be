@@ -11,7 +11,7 @@ date: 2018-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/07/12/2018040416/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2018. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 26 februari 2018 tussen het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de oprichting van de Stichting Zoniënwoud

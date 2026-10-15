@@ -13,7 +13,7 @@ last_amended: 2024-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1962/04/26/1962042602/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 14-10-2024 en tekstbijwerking tot 14-10-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 1962. - Wet betreffende het gemeenschappelijk vervoer van de leerlingen van de onderwijsinrichtingen

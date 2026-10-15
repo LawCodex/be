@@ -13,7 +13,7 @@ entry_into_force: 2018-10-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/10/17/2018014407/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OKTOBER 2018. - Decreet houdende afwijkingen op de gewestelijke vergunningsplicht in geval van civiele noodsituatie

@@ -13,7 +13,7 @@ entry_into_force: 2015-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/25/2015029305/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2015. - Décret portant assentiment à l'Accord d'association entre l'Union européenne et la Communauté européenne de l'énergie atomique et leurs Etats membres, d'une part, et la République de Moldavie, d'autre part, fait à Bruxelles le 27 juin 2014

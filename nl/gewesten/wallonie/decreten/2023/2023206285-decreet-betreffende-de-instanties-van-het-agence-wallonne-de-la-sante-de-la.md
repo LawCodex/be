@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/10/12/2023206285/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OKTOBER 2023. - Decreet betreffende de instanties van het "Agence wallonne de la santé, de la protection sociale, du handicap et des familles" (Waals Agentschap voor Gezondheid, Sociale Bescherming, Handicap en Gezinnen) en houdende wijziging van het Waalse Wetboek van Sociale Actie en Gezondheid

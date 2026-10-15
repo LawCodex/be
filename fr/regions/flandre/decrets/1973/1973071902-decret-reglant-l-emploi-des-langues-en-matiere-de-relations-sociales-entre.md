@@ -14,7 +14,7 @@ last_amended: 2023-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1973/07/19/1973071902/justel"
 justel_note: "Consultation des versions antérieures à partir du 03-08-1994 et mise à jour au 12-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 1973. - Décret réglant l'emploi des langues en matière de relations sociales entre employeurs et travailleurs, ainsi qu'en matière d'actes et de documents d'entreprise prescrits par la loi et les règlements (note : La Cour d'arbitrage a décidé, dans son arrêt du 30-01-1986 (M.B. du 12-02-1986), que ce décret est annulé dans la mesure où son champ d'application tel qu'il est défini à l'article 1er, comprend les communes ou groupes de communes de la région de langue néerlandaise contigus à une autre région linguistique et où la loi prescrit ou permet l'emploi d'une autre langue que celle de la région dans laquelle ils sont situés).

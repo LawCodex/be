@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/11/2014029364/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 03-07-2014 en tekstbijwerking tot 05-08-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2014. - Decreet tot finalisering van de overdracht van de studies van vertaler-tolk naar de universiteit

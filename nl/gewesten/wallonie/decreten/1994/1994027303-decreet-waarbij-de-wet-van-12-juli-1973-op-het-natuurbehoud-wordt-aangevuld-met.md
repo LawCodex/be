@@ -13,7 +13,7 @@ entry_into_force: 1994-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/04/21/1994027303/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 1994. - Decreet waarbij de wet van 12 juli 1973 op het natuurbehoud wordt aangevuld met aan het Waalse Gewest eigen bepalingen betreffende het verkeer op en in de waterlopen. (Vertaling).

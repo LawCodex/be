@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/04/16/1991029357/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 18-07-1991 en tekstbijwerking tot 31-12-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 APRIL 1991. - Decreet houdende oprichting van het Bureau en van de Raad voor Wetenschap en Ethiek inzake Aids-preventie voor de Franse Gemeenschap.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/12/20/2020044502/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2020 en tekstbijwerking tot 30-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2020. - Wet houdende dringende diverse fiscale en fraudebestrijding bepalingen

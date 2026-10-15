@@ -13,7 +13,7 @@ entry_into_force: 2009-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/01/19/2009033014/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JANUARI 2009. - Decreet houdende instemming met het Protocol nr. 2 bij de Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten betreffende interterritoriale samenwerking, gedaan te Straatsburg op 5 mei 1998

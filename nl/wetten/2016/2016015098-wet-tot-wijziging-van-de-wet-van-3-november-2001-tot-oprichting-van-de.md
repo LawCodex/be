@@ -12,7 +12,7 @@ entry_into_force: 2016-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/07/21/2016015098/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JULI 2016. - Wet tot wijziging van de wet van 3 november 2001 tot oprichting van de Belgische Investeringsmaatschappij voor Ontwikkelingslanden en tot wijziging van de wet van 21 december 1998 tot oprichting van de "Belgische technische coöperatie" in de vorm van een vennootschap van publiek recht

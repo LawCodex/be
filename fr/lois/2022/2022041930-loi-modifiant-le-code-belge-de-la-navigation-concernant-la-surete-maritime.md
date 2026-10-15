@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/10/13/2022041930/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 OCTOBRE 2022. - Loi modifiant le Code belge de la Navigation concernant la sûreté maritime

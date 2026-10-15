@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/03/21/2000000300/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2000. - Loi spéciale modifiant la loi spéciale du 8 août 1980 de réformes institutionnelles.

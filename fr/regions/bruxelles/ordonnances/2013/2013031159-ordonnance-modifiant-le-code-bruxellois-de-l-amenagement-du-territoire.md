@@ -13,7 +13,7 @@ entry_into_force: 2013-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/03/15/2013031159/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2013. - Ordonnance modifiant le Code bruxellois de l'Aménagement du Territoire

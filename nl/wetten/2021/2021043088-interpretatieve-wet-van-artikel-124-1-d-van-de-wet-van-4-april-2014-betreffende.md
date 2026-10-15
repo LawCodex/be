@@ -11,7 +11,7 @@ entry_into_force: 2021-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/10/29/2021043088/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 OKTOBER 2021. - Interpretatieve wet van artikel 124, § 1, d), van de wet van 4 april 2014 betreffende de verzekeringen

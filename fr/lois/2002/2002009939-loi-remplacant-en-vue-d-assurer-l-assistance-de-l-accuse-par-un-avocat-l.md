@@ -12,7 +12,7 @@ entry_into_force: 2002-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/09/20/2002009939/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBRE 2002. - Loi remplaçant, en vue d'assurer l'assistance de l'accusé par un avocat, l'article 293 du Code d'instruction criminelle.

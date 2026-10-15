@@ -13,7 +13,7 @@ entry_into_force: 2009-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/27/2009202405/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2009. - Décret portant assentiment aux traités internationaux suivants : 1) Accord de stabilisation et d'association entre les Communautés européennes et leurs Etats membres, d'une part, et la République du Monténégro, d'autre part, y compris l'Acte final, faits à Luxembourg, le 15 octobre 2007; 2) Accord de stabilisation et d'association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Serbie, d'autre part, y compris l'Acte final, faits à Luxembourg, le 29 avril 2008; 3) Accord de stabilisation et d'association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Bosnie-Herzégovine, d'autre part, y compris l'Acte final, faits à Luxembourg, le 16 juin 2008

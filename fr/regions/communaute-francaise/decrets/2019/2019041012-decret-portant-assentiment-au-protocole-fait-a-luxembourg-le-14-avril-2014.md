@@ -13,7 +13,7 @@ entry_into_force: 2019-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/14/2019041012/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2019. - Décret portant assentiment au Protocole, fait à Luxembourg le 14 avril 2014, modifiant la Convention entre la Belgique et l'Irlande en vue d'éviter la double imposition et l'évasion fiscale en matière d'impôts sur le revenu, signée à Bruxelles le 24 juin 1970

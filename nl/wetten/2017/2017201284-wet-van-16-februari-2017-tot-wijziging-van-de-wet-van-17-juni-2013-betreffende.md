@@ -11,7 +11,7 @@ published: 2017-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/02/16/2017201284/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 2017. - Wet van 16 februari 2017 tot wijziging van de wet van 17 juni 2013 betreffende de motivering, de informatie en de rechtsmiddelen inzake overheidsopdrachten en bepaalde opdrachten voor werken, leveringen en diensten

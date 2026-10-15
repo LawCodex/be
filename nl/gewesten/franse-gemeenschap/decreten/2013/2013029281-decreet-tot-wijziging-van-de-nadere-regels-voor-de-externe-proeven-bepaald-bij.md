@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/03/28/2013029281/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2013. - Decreet tot wijziging van de nadere regels voor de externe proeven bepaald bij het decreet van 2 juni 2006 betreffende de externe evaluatie van de verworven kennis van leerlingen van het leerplichtonderwijs en het getuigschrift van basisonderwijs na het lager onderwijs

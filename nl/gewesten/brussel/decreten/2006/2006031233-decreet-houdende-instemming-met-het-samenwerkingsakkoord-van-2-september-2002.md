@@ -13,7 +13,7 @@ entry_into_force: 2006-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/04/20/2006031233/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2006. - Decreet houdende instemming met het samenwerkingsakkoord van 2 september 2002 tussen de federale Staat, de Gemeenschappen, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie en de Gewesten voor een globaal en geïntegreerd drugsbeleid (VERTALING).

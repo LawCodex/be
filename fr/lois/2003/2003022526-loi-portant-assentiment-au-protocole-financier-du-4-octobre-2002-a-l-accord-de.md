@@ -12,7 +12,7 @@ entry_into_force: 2003-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/04/2003022526/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement - Sante Publique, Sécurité de la Chaine Alimentaire et Environnement - Communauté flamande - Région Wallonne - Région de Bruxelles-Capitale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2003. - Loi portant assentiment au Protocole financier du 4 octobre 2002 à l'accord de coopération du 5 avril 1995 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à la politique internationale de l'environnement.

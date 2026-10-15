@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/03/25/2016035674/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2016. - Decreet houdende wijziging van diverse bepalingen betreffende de pensioenen van de vastbenoemde personeelsleden van de Vlaamse Radio- en Televisieomroeporganisatie en hun rechtverkrijgenden

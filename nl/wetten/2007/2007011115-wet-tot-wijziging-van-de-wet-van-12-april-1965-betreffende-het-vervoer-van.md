@@ -12,7 +12,7 @@ entry_into_force: 2007-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/16/2007011115/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2007. - Wet tot wijziging van de wet van 12 april 1965 betreffende het vervoer van gasachtige en andere producten door middel van leidingen en van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt.

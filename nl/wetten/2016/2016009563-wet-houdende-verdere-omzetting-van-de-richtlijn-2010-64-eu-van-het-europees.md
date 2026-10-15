@@ -11,7 +11,7 @@ entry_into_force: 2017-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/10/28/2016009563/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2016. - Wet houdende verdere omzetting van de Richtlijn 2010/64/EU van het Europees Parlement en de Raad van 20 oktober 2010 betreffende het recht op vertolking en vertaling in strafprocedures en van de Richtlijn 2012/29/EU van het Europees Parlement en de Raad van 25 oktober 2012 tot vaststelling van minimumnormen voor de rechten, de ondersteuning en de bescherming van slachtoffers van strafbare feiten, en ter vervanging van Kaderbesluit 2001/220/JBZ

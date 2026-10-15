@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/12/2013204597/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 13-08-2013 et mise à jour au 05-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2013. - Décret portant octroi de subsides pour bâtiments du [ 1 culte et bâtiments ] 1 destinés à l'exercice public de l'assistance morale non confessionnelle [ 1 ...] ( 1 )&lt;DCFL 2024-02-09/18 , art.12 , 003; En vigueur : 15-03-2024&gt;

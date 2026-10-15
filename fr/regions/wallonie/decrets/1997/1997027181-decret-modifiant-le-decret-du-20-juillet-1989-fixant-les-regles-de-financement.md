@@ -12,7 +12,7 @@ published: 1997-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/03/27/1997027181/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 1997. - Décret modifiant le décret du 20 juillet 1989 fixant les règles de financement général des communes wallonnes.

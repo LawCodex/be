@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/07/03/2015035995/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 10-08-2015 et mise à jour au 30-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2015. - Décret introduisant le prélèvement kilométrique et annulant le prélèvement de l'Eurovignette et modifiant le Code flamand de la Fiscalité du 13 décembre 2013 en la matière

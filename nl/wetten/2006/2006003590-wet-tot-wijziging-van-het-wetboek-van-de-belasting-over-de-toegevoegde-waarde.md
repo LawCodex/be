@@ -12,7 +12,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/07/2006003590/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2006. - Wet tot wijziging van het Wetboek van de belasting over de toegevoegde waarde.

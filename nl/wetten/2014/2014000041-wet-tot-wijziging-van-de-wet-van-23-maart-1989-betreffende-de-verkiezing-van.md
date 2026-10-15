@@ -12,7 +12,7 @@ entry_into_force: 2014-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/07/2014000041/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANUARI 2014. - Wet tot wijziging van de wet van 23 maart 1989 betreffende de verkiezing van het Europees Parlement

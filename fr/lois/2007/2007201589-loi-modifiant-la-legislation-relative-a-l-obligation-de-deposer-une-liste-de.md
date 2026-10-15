@@ -12,7 +12,7 @@ entry_into_force: 2007-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/06/03/2007201589/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2007. - Loi modifiant la législation relative à l'obligation de déposer une liste de mandats, fonctions et professions et une déclaration de patrimoine, en ce qui concerne les mandataires communaux et provinciaux.

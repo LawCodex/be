@@ -12,7 +12,7 @@ entry_into_force: 2023-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/26/2022043494/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBRE 2022. - Loi modifiant la loi du 15 mai 2014 portant exécution du pacte de compétitivité, d'emploi et de relance, relatif à la seconde prolongation de la période d'application des zones d'aide et introduisant une dispense de versement de précompte professionnel pour les employeurs touchés par une calamité naturelle

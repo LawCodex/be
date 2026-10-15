@@ -12,7 +12,7 @@ entry_into_force: 1984-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/09/19/1984015342/justel"
 department: "Affaires étrangères - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBRE 1984. - Loi portant approbation du Protocole modifiant l'article 1er du traité relatif à l'institution et au statut d'une Cour de Justice Bénélux signé à Bruxelles le 10 juin 1981.

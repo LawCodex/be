@@ -11,7 +11,7 @@ published: 2013-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/31/2013011420/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2013. - Wet tot versterking van de bescherming van de afnemers van financiële producten en diensten alsook van de bevoegdheden van de Autoriteit voor financiële diensten en markten en houdende diverses bepalingen (II)

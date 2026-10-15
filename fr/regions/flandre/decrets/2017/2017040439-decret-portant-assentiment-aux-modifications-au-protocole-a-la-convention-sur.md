@@ -13,7 +13,7 @@ entry_into_force: 2017-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017040439/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2017. - Décret portant assentiment aux modifications au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance de 1979, relatif aux polluants organiques persistants, avec annexes, fait à Genève le 18 décembre 2009

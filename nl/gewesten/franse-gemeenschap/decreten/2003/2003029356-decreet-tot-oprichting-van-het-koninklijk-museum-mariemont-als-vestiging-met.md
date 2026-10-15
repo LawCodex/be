@@ -13,7 +13,7 @@ entry_into_force: 2003-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/06/12/2003029356/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 2003. - Decreet tot oprichting van het Koninklijk museum Mariemont als vestiging met afzonderlijk beheer (VERTALING).

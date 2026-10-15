@@ -11,7 +11,7 @@ entry_into_force: 2020-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/10/27/2020043799/justel"
 department: "Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 2020. - Wet tot wijziging van de artikelen 5 § 2 en 6 van het koninklijk besluit van 13 mei 2020 houdende het invoeren van een subsidie "COVID-19" voor de doelgroep van de openbare centra voor maatschappelijk welzijn

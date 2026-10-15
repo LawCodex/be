@@ -13,7 +13,7 @@ entry_into_force: 2001-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/12/2001027441/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2001. - Décret portant assentiment au Protocole portant adaptation des aspects institutionnels de l'Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Bulgarie, d'autre part, afin de tenir compte de l'adhésion de la République d'Autriche, de la République de Finlande et du Royaume de Suède à l'Union européenne, et les Annexes I et II, faits à Bruxelles le 30 juin 1999.

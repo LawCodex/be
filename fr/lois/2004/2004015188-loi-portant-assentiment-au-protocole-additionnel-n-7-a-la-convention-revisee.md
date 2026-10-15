@@ -12,7 +12,7 @@ entry_into_force: 2005-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/09/13/2004015188/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 SEPTEMBRE 2004. - Loi portant assentiment au Protocole additionnel n° 7 à la Convention révisée pour la Navigation du Rhin, signé à Strasbourg le 27 novembre 2002.

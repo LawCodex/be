@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035856/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret modifiant le décret sur l'Electricité du 17 juillet 2000, en ce qui concerne le système des certificats d'électricité écologique, et portant interprétation de l'article 37, § 2, du même décret (TRADUCTION).

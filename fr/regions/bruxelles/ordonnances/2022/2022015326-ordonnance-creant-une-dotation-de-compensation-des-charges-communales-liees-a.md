@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/07/06/2022015326/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2022. - Ordonnance créant une dotation de compensation des charges communales liées à la distribution de l'eau et à la collecte des eaux usées

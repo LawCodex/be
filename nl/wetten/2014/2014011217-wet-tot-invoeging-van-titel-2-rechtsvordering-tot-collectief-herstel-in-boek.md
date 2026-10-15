@@ -11,7 +11,7 @@ published: 2014-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/03/28/2014011217/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2014. - Wet tot invoeging van titel 2 "Rechtsvordering tot collectief herstel" in boek XVII "Bijzondere rechts procedures" van het Wetboek van economisch recht en houdende invoeging van de definities eigen aan boek XVII in boek I van het Wetboek van economisch recht

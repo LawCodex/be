@@ -12,7 +12,7 @@ entry_into_force: 1994-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/07/15/1994009220/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 1993. - Loi portant modification de l'article 42, § 6, de la loi du 1er août 1985, portant des mesures fiscales et autres.

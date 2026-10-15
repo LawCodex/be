@@ -12,7 +12,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/11/24/1995003684/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 1995. - LOI contenant le budget des Voies et Moyens de l'année budgétaire 1996

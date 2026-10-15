@@ -13,7 +13,7 @@ entry_into_force: 2011-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/08/2011035608/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2011. - Décret contenant diverses mesures fiscales et financières

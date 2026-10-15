@@ -13,7 +13,7 @@ entry_into_force: 2024-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/12/20/2024011940/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2024. - Décret modifiant la réglementation relative à l'opérationnalisation du Régulateur flamand des services d'utilité publique, en ce qui concerne l'abrogation de l'article 4, § 5, et une adaptation des entrées en vigueur

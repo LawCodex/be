@@ -12,7 +12,7 @@ entry_into_force: 2010-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/12/30/2010003001/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBER 2009. - Wet tot wijziging van de wet van 31 december 1983 tot hervorming der instellingen voor de Duitstalige Gemeenschap betreffende de onverenigbaarheden voor de leden van het Parlement van de Duitstalige Gemeenschap

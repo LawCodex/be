@@ -12,7 +12,7 @@ entry_into_force: 1990-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/04/18/1990015175/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 1989. - Wet houdende goedkeuring van de Europese Overeenkomst inzake gewelddadigheden gepleegd door en wangedrag van toeschouwers rond sportevenementen en in het bijzonder rond voetbalwedstrijden, opgemaakt te Straatsburg op 19 augustus 1985.

@@ -13,7 +13,7 @@ entry_into_force: 2012-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/11/22/2012206786/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2012. - Decreet houdende wijziging van het decreet van 25 februari 1999 houdende toekenning van subsidies voor bepaalde investeringen inzake sportinfrastructuur

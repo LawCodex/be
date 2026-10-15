@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/05/2009031234/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 08-05-2009 et mise à jour au 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2009. - Décret relatif à l'offre de services ambulatoires dans les domaines de l'action sociale, de la famille et de la santé

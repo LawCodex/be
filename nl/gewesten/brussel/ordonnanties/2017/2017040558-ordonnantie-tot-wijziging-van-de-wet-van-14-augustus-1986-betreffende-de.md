@@ -11,7 +11,7 @@ date: 2017-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/07/27/2017040558/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JULI 2017. - Ordonnantie tot wijziging van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren wat betreft het verbod op dwangvoederen van dieren

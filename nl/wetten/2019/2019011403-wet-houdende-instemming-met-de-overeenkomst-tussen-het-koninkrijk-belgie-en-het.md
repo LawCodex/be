@@ -12,7 +12,7 @@ entry_into_force: 2019-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/10/2019011403/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2019. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en het Groothertogdom Luxemburg betreffende het beheer en de definitieve berging van het radioactief afval van het Groothertogdom Luxemburg op het grondgebied van het Koninkrijk België, gedaan te Luxemburg op 4 juli 2016

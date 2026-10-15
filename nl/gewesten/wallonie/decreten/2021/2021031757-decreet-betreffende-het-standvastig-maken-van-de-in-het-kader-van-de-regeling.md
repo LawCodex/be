@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/10/2021031757/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 01-07-2021 en tekstbijwerking tot 29-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2021. - Decreet betreffende het standvastig maken van de in het kader van de regeling voor de steun ter bevordering van de tewerkstelling (Franse afkorting "APE") gecreëerde jobs en de creatie van jobs die beantwoorden aan prioritaire maatschappelijke behoeften

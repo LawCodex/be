@@ -12,7 +12,7 @@ entry_into_force: 2001-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/07/08/2001021410/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2001. - Wet tot wijziging van de wet van 30 maart 1995 betreffende de netten voor distributie voor omroepuitzendingen en de uitoefening van de televisieomroepactiviteiten in het tweetalig gebied Brussel-Hoofdstad.

@@ -12,7 +12,7 @@ entry_into_force: 1997-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/09/06/1997015133/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 SEPTEMBER 1996. - Wet houdende instemming met het Verdrag nr. 174 betreffende de voorkoming van zware industriële ongevallen, aangenomen te Genève op 22 juni 1993 door de Internationale Arbeidsorganisatie tijdens haar tachtigste zitting.

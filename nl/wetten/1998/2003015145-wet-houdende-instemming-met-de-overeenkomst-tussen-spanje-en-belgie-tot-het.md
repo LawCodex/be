@@ -11,7 +11,7 @@ entry_into_force: 2003-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/08/10/2003015145/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1998. - Wet houdende instemming met de Overeenkomst tussen Spanje en België tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan en het ontduiken van belasting inzake belastingen naar het inkomen en naar het vermogen, en het Protocol, ondertekend te Brussel op 14 juni 1995.

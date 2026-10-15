@@ -12,7 +12,7 @@ entry_into_force: 2003-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/10/07/2002015147/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 OKTOBER 2002. - Wet houdende instemming met het Protocol tot wijziging van de Europese Overeenkomst voor de bescherming van gewervelde dieren die gebruikt worden voor experimentele en andere wetenschappelijke doeleinden, gedaan te Straatsburg op 22 juni 1998.

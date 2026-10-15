@@ -12,7 +12,7 @@ entry_into_force: 2024-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/13/2024005030/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2024. - Loi modifiant la loi du 15 août 2012 relative à la création et à l'organisation d'un intégrateur de services fédéral

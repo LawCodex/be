@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/03/04/2004012078/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 26-03-2004 et mise à jour au 22-05-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 2004. - Loi accordant des avantages complémentaires en matière de pension de retraite aux personnes désignées pour exercer une fonction de management ou d'encadrement dans un service public.

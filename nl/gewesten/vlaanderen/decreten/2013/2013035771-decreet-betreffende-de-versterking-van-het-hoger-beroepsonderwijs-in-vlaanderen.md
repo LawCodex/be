@@ -12,7 +12,7 @@ published: 2013-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/12/2013035771/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2013. - Decreet betreffende de versterking van het hoger beroepsonderwijs in Vlaanderen

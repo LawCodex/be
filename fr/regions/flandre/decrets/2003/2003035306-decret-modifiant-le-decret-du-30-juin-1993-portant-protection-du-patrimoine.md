@@ -13,7 +13,7 @@ entry_into_force: 2003-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/28/2003035306/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2003. - Décret modifiant le décret du 30 juin 1993 portant protection du patrimoine archéologique (TRADUCTION).

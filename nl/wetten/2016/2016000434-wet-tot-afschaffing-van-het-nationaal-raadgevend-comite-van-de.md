@@ -12,7 +12,7 @@ entry_into_force: 2016-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/05/29/2016000434/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2016. - Wet tot afschaffing van het nationaal raadgevend comité van de hulpverleningszones van de civiele veiligheid

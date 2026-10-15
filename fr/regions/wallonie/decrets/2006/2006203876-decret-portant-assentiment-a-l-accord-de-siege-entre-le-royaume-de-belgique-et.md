@@ -13,7 +13,7 @@ entry_into_force: 2006-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/11/10/2006203876/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2006. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et l' " International Plan Genetic Ressources Institute (I.P.G.R.I.) ", fait à Bruxelles le 15 octobre 2003.

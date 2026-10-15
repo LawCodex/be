@@ -13,7 +13,7 @@ entry_into_force: 2012-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/12/16/2012200517/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2011. - Ordonnantie tot wijziging van het Brussels Gemeentelijk Kieswetboek

@@ -12,7 +12,7 @@ entry_into_force: 1997-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/12/16/1997003659/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 1996. - Wet houdende vierde aanpassing van de Algemene Uitgavenbegroting van het begrotingsjaar 1996 en tweede aanpassing van de Rijksmiddelenbegroting van het begrotingsjaar 1996.

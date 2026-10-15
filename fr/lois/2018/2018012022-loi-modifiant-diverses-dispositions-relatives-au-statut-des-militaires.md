@@ -12,7 +12,7 @@ entry_into_force: 2018-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/04/30/2018012022/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2018. - Loi modifiant diverses dispositions relatives au statut des militaires

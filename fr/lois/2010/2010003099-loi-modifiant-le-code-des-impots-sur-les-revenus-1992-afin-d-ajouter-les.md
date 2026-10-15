@@ -12,7 +12,7 @@ entry_into_force: 2010-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/02/21/2010003099/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2010. - Loi modifiant le Code des impôts sur les revenus 1992 afin d'ajouter les polders et wateringues aux personnes morales de droit public assujetties à l'impôt des personnes morales

@@ -13,7 +13,7 @@ entry_into_force: 2014-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014203167/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret modifiant le décret du 10 mars 1994 relatif à la création de la Société wallonne de financement complémentaire des infrastructures

@@ -13,7 +13,7 @@ entry_into_force: 2014-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014202973/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - [Décret modifiant le Code des droits d'enregistrement, d'hypothèque, de greffe, le Code des droits de succession, la procédure fiscale wallonne et le décret du 19 septembre 2013 portant des dispositions fiscales diverses] .

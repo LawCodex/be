@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/15/2024004698/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 28-05-2024 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2024. - Loi portant dispositions en matière de digitalisation de la justice et dispositions diverses II

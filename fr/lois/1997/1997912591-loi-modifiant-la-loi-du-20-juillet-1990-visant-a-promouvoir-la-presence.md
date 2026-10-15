@@ -12,7 +12,7 @@ entry_into_force: 1997-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/07/17/1997912591/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 1997. - Loi modifiant la loi du 20 juillet 1990 visant à promouvoir la présence équilibrée d'hommes et de femmes dans les organes possédant une compétence d'avis.

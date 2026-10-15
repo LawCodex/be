@@ -10,7 +10,7 @@ date: 2024-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/25/2024007252/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2024. - Wet houdende instemming met de amendementen van het Protocol van Aarhus van 1998 inzake persistente organische stoffen, gedaan te Genève op 18 december 2009, en met de amendementen van het Protocol van Aarhus van 1998 inzake zware metalen, gedaan te Genève op 13 december 2012, en tot wijziging van de beide wetten van 25 mei 2005 houdende instemming met het Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, inzake zware metalen, en met de Bijlagen, gedaan te Aarhus op 24 juni 1998, en houdende instemming met het Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, inzake persistente organische stoffen, en met de Bijlagen, gedaan te Aarhus op 24 juni 1998

@@ -13,7 +13,7 @@ entry_into_force: 2015-11-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035580/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret modifiant le décret du 24 janvier 2003 portant protection du patrimoine culturel mobilier présentant un intérêt exceptionnel, en ce qui concerne la définition de " pièce maîtresse ", et portant transposition du Règlement (CE) n° 116/2009 du Conseil du 18 décembre 2008 concernant l'exportation de biens culturels

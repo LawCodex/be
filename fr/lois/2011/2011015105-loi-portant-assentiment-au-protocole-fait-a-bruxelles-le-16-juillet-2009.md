@@ -12,7 +12,7 @@ entry_into_force: 2013-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/08/19/2011015105/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AOUT 2011. - Loi portant assentiment au Protocole, fait à Bruxelles le 16 juillet 2009, modifiant la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Singapour tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Singapour le 6 novembre 2006

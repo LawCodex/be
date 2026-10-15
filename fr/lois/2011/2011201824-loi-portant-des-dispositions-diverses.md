@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/04/14/2011201824/justel"
 department: "Chancellerie du Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 06-05-2011 et mise à jour au 30-11-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 AVRIL 2011. - Loi portant des dispositions diverses

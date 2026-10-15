@@ -12,7 +12,7 @@ entry_into_force: 2006-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/01/2006022456/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er MAI 2006. - Loi modifiant la loi du 19 février 1965 relative à l'exercice, par les étrangers, des activités professionnelles indépendantes.

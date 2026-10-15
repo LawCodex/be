@@ -13,7 +13,7 @@ entry_into_force: 2025-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/01/30/2025001289/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2025. - Decreet houdende instemming met het samenwerkingsakkoord van 8 juli 2024 tussen de Federale Overheid en het Waalse Gewest betreffende de uitvoering van de artikelen 19/1 tot 19/3 van de wet van 15 mei 2014 houdende uitvoering van het pact voor competitiviteit, werkgelegenheid en relance

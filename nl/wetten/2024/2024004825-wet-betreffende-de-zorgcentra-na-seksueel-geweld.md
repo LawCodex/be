@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/26/2024004825/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2024. - Wet betreffende de Zorgcentra na Seksueel Geweld

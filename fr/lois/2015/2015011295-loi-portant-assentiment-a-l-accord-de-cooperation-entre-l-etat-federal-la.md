@@ -12,7 +12,7 @@ entry_into_force: 2015-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/07/17/2015011295/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2015. - Loi portant assentiment à l'Accord de Coopération entre l'Etat fédéral, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune de Bruxelles-Capitale et la Commission communautaire française concernant les modalités de fonctionnement de l'Institut interfédéral de Statistique, du conseil d'administration et des comités scientifiques de l'Institut des Comptes nationaux, fait à Bruxelles, le 15 juillet 2014

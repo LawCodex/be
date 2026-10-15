@@ -13,7 +13,7 @@ entry_into_force: 2002-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/06/13/2002027588/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 2002. - Décret portant assentiment à la Convention sur l'accès à l'information, la participation du public au processus décisionnel et à l'accès à la justice en matière d'environnement, faite à Aarhus, le 25 juin 1998, ainsi que ses Annexes.

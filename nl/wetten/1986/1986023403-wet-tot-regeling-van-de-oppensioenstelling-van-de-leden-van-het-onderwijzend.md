@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1986/08/04/1986023403/justel"
 department: "Onderwijs - Nationale Opvoeding"
 justel_note: "Raadpleging van vroegere versies vanaf 13-03-2003 en tekstbijwerking tot 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AUGUSTUS 1986. - Wet tot regeling van de oppensioenstelling van de leden van het onderwijzend personeel van het universitair onderwijs en tot wijziging van andere bepalingen van de onderwijswetgeving.

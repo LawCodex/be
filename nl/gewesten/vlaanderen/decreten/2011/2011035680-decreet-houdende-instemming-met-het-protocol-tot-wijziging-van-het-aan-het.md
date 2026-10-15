@@ -12,7 +12,7 @@ published: 2011-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/15/2011035680/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2011. - Decreet houdende instemming met het protocol tot wijziging van het aan het verdrag betreffende de Europese Unie, het verdrag betreffende de werking van de Europese Unie en het verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie gehechte protocol betreffende de overgangsbepalingen, ondertekend in Brussel op 23 juni 2010

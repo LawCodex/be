@@ -12,7 +12,7 @@ entry_into_force: 2023-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/29/2023204646/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2023. - Decreet houdende bekrachtiging van het besluit van de Waalse Regering van 29 september 2022 tot vaststelling van de verplichte bijdragen bestemd voor de bevordering van landbouwproducten vermeld in artikel D. 234 van het Waalse Landbouwwetboek

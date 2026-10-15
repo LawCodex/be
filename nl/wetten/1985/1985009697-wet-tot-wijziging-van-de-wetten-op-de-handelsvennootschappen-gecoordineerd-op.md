@@ -12,7 +12,7 @@ entry_into_force: 1985-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/07/15/1985009697/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 1985. - Wet tot wijziging van de wetten op de handelsvennootschappen, gecoördineerd op 30 november 1935.

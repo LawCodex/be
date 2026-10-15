@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/02/04/2022040496/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 16-03-2022 en tekstbijwerking tot 23-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2022. - Decreet tot wijziging van het decreet basisonderwijs van 25 februari 1997, de Codex Secundair Onderwijs van 17 december 2010 en de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, wat betreft het inschrijvingsrecht in het gewoon onderwijs buiten het tweetalige gebied Brussel-Hoofdstad en de regelgeving over het LOP en de CLR

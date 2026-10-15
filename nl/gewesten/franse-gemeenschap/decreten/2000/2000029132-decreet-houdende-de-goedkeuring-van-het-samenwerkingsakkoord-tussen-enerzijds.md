@@ -13,7 +13,7 @@ entry_into_force: 2000-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/03/23/2000029132/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2000. - Decreet houdende de goedkeuring van het Samenwerkingsakkoord tussen, enerzijds, de Regering van de Franse Gemeenschap van België en de Waalse Regering en, anderzijds, de Regering van het Groothertogdom Luxemburg, gemaakt te Luxemburg op 6 mei 1999 (VERTALING).

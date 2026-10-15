@@ -12,7 +12,7 @@ published: 2019-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/22/2019011493/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2019. - Décret portant les mesures temporaires en cas de retrait du Royaume-Uni de l'Union européenne sans accord

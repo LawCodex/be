@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/07/24/1987012597/justel"
 department: "Emploi et Travail - Prévoyance Sociale"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1989 et mise à jour au 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 1987. - Loi sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs.

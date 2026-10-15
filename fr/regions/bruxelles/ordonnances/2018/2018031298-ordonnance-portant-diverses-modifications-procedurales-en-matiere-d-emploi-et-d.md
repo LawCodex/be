@@ -13,7 +13,7 @@ entry_into_force: 2018-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/06/14/2018031298/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 2018. - Ordonnance portant diverses modifications procédurales en matière d'emploi et d'économie

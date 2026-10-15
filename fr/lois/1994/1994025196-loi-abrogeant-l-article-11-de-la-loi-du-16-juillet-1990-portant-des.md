@@ -12,7 +12,7 @@ entry_into_force: 1994-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/04/25/1994025196/justel"
 department: "Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 1994. - Loi abrogeant l'article 11 de la loi du 16 juillet 1990 portant des dispositions budgétaires.

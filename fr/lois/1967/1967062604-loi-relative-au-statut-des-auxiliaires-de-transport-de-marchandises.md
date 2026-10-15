@@ -13,7 +13,7 @@ last_amended: 2024-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1967/06/26/1967062604/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-07-2024 et mise à jour au 10-10-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 1967. - Loi relative au statut des auxiliaires de transport de marchandises

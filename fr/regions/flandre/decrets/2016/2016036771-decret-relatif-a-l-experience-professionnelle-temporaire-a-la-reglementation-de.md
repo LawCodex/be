@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/09/2016036771/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2016. - Décret relatif à l'expérience professionnelle temporaire, à la réglementation de stages et à diverses mesures dans le cadre de la sixième réforme de l'Etat (cité comme : Décret relatif à l'expérience professionnelle temporaire du 9 décembre 2016)

@@ -12,7 +12,7 @@ entry_into_force: 2003-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/10/07/2002015150/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 OKTOBER 2002. - Wet houdende instemming met het Verdrag inzake de procedure van voorafgaande geïnformeerde toestemming voor bepaalde gevaarlijke chemische stoffen en pesticiden in de internationale handel en de Bijlagen I tot V, aangenomen te Rotterdam op 10 september 1998.

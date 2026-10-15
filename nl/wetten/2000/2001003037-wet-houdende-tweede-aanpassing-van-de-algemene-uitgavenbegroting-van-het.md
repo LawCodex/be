@@ -12,7 +12,7 @@ entry_into_force: 2001-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/12/14/2001003037/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2000. - Wet houdende tweede aanpassing van de algemene uitgavenbegroting van het begrotingsjaar 2000.

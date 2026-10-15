@@ -13,7 +13,7 @@ entry_into_force: 2020-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/09/2020044341/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2020. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française de pouvoirs spéciaux n° 19 du 4 juin 2020 relatif au plan sanitaire dans les bâtiments scolaires dans le cadre de la crise sanitaire de la COVID-19

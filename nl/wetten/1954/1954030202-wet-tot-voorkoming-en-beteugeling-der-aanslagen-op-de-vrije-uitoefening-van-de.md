@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1954/03/02/1954030202/justel"
 department: "Binnenlandse Zaken - Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 08-05-2012 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 1954. - Wet tot voorkoming en beteugeling der aanslagen op de vrije uitoefening van de door de Grondwet ingestelde souvereine machten

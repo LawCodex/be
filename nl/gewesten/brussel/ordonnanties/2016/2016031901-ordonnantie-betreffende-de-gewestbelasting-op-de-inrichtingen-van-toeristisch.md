@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/12/23/2016031901/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 06-01-2017 en tekstbijwerking tot 24-07-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2016. - Ordonnantie betreffende de gewestbelasting op de inrichtingen van toeristisch logies

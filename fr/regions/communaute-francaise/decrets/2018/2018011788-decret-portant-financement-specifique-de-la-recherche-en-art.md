@@ -13,7 +13,7 @@ entry_into_force: 2018-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/04/19/2018011788/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2018. - Décret portant financement spécifique de la Recherche en art

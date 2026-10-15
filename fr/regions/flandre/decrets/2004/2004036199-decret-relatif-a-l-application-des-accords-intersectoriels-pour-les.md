@@ -12,7 +12,7 @@ published: 2004-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036199/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret relatif à l'application des accords intersectoriels pour les organisations relevant du comité paritaire pour le secteur socioculturel (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 2026-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/12/19/2025009871/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2025. - Loi modifiant la loi du 19 décembre 2023 concernant l'introduction d'un impôt minimum pour les groupes d'entreprises multinationales et les groupes nationaux de grande envergure

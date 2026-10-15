@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/03/25/2016035746/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2016. - Décret modifiant le décret du 8 mai 2009 concernant le sous-sol profond, pour ce qui est de l'insertion d'un chapitre sur la recherche et l'extraction d'énergie géothermique et d'un chapitre sur une vision structurelle du sous-sol profond

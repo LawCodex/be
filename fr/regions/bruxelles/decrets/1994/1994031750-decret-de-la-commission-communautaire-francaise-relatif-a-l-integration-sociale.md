@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/03/17/1994031750/justel"
 department: "Commission communautaire française"
 justel_note: "le mot \"Fonds\" est remplacé par \"Commission communautaire française\" en vertu du DEC 1996-07-18/47, art. 4) - (NOTE : Consultation des versions antérieures à partir du 10-05-1994 et mise à jour au 03-04-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 1994. - Décret de la Commission communautaire française relatif à l'intégration sociale et professionnelle des personnes handicapées. (Ce texte remplace le Décret 1994-03-17/32 paru au Moniteur Belge du 6-04-1996, p. 9162.) -

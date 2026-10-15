@@ -13,7 +13,7 @@ entry_into_force: 2009-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/11/26/2009205535/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2009. - Decreet houdende instemming met de samenwerkingsovereenkomst gesloten op 8 oktober 2009 tussen de Franse Gemeenschap en het Waalse Gewest in het kader van de versterking van de samenwerkingsverbanden inzake statistieken

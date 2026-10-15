@@ -13,7 +13,7 @@ last_amended: 1994-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1921/06/25/1921062550/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 20-08-1991 en tekstbijwerking tot 27-07-1994"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 1921. - Wet tot het innen van een recht op de openbare kunstveilingen, ten bate der kunstenaars, auteurs der verkochte werken.

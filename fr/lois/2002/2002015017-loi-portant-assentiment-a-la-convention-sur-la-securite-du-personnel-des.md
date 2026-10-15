@@ -12,7 +12,7 @@ entry_into_force: 2002-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/01/29/2002015017/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2002. - Loi portant assentiment à la Convention sur la sécurité du personnel des Nations Unies et du personnel associé, fait à New York le 9 décembre 1994.

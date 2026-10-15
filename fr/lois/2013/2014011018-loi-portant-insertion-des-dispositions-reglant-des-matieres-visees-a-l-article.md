@@ -12,7 +12,7 @@ entry_into_force: 2014-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/26/2014011018/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBRE 2013. - Loi portant insertion des dispositions réglant des matières visées à l'article 77 de la Constitution dans le livre XVII " Procédures juridictionnelles particulières " du Code de droit économique

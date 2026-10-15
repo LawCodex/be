@@ -13,7 +13,7 @@ entry_into_force: 2014-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/18/2014029160/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2013. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Benelux Unie, ondertekend te Brussel op 3 februari 2012

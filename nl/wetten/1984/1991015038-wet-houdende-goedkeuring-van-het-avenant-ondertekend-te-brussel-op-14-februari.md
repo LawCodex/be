@@ -12,7 +12,7 @@ entry_into_force: 1990-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1984/04/05/1991015038/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 1984. - Wet houdende goedkeuring van het Avenant, ondertekend te Brussel op 14 februari 1983, tot wijziging en aanvulling van de Overeenkomst en het Slotprotocol tussen België en Marokko tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen, ondertekend te Rabat op 4 mei 1972.

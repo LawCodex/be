@@ -13,7 +13,7 @@ entry_into_force: 2006-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/05/05/2006035984/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2006. - Decreet tot wijziging van het decreet van 7 mei 2004 tot omvorming van de Vlaamse openbare instelling Commissariaat-generaal voor de Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie tot het intern verzelfstandigd agentschap met rechtspersoonlijkheid BLOSO.

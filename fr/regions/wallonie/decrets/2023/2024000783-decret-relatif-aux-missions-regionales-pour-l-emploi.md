@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/13/2024000783/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 02-02-2024 et mise à jour au 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2023. - Décret relatif aux missions régionales pour l'emploi

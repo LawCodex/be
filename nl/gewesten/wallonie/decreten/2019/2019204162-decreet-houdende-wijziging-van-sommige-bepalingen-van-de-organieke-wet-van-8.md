@@ -11,7 +11,7 @@ date: 2019-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019204162/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet houdende wijziging van sommige bepalingen van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn met betrekking tot de gewestelijke ontvangers

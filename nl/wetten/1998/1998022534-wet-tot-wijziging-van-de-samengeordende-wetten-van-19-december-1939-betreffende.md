@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/10/1998022534/justel"
 department: "Sociale Voorzorg - Volksgezondheid en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 15-08-1998 en tekstbijwerking tot 05-05-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 1998. - Wet tot wijziging van de samengeordende wetten van 19 december 1939 betreffende de kinderbijslag voor loonarbeiders

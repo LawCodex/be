@@ -12,7 +12,7 @@ entry_into_force: 2016-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/10/2016024159/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2016. - Loi modifiant la loi du 4 avril 2014 réglementant les professions des soins de santé mentale et modifiant l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice des professions des soins de santé d'une part et modifiant la loi relative à l'exercice des professions des soins de santé, coordonnée le 10 mai 2015 d'autre part

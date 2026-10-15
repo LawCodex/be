@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1987/01/21/1987025045/justel"
 department: "Volksgezondheid en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 07-11-1987 en tekstbijwerking tot 29-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JANUARI 1987. - [Wet ter stijving van het fonds voor risico's van zware ongevallen en van het fonds voor preventie van zware ongevallen.] &lt;W 2002-05-26/43, art. 2, 008; Inwerkingtreding : 07-07-2002&gt;

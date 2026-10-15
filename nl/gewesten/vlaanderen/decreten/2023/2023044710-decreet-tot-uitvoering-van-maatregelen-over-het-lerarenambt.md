@@ -12,7 +12,7 @@ published: 2023-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/14/2023044710/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2023. - Decreet tot uitvoering van maatregelen over het lerarenambt

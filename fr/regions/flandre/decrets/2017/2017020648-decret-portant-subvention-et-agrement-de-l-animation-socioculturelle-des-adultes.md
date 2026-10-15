@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017020648/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 17-05-2019 et mise à jour au 14-04-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2017. - Décret portant subvention et agrément de l'animation socioculturelle des adultes

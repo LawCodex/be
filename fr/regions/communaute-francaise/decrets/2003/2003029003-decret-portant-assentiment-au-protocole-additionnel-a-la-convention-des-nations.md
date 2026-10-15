@@ -13,7 +13,7 @@ entry_into_force: 2004-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/17/2003029003/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2003. - Décret portant assentiment au Protocole additionnel à la Convention des Nations unies contre la criminalité transnationale organisée visant à prévenir, réprimer et punir la traite des personnes, en particulier des femmes et des enfants, fait à New York, le 15 novembre 2000.

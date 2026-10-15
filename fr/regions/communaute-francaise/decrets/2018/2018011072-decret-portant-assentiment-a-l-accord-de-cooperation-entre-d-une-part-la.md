@@ -13,7 +13,7 @@ entry_into_force: 2018-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/02/01/2018011072/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2018. - Décret portant assentiment à l'Accord de coopération entre, d'une part, la Communauté française de Belgique et la Région wallonne et, d'autre part, l'Organisation de Libération de la Palestine (O.L.P.) agissant pour le compte de l'Autorité palestinienne, fait à Bruxelles le 29 janvier 2001

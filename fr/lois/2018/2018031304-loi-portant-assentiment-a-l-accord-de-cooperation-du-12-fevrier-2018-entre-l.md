@@ -12,7 +12,7 @@ entry_into_force: 2018-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/06/15/2018031304/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2018. - Loi portant assentiment à l'accord de coopération du 12 février 2018 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif au partage des objectifs belges climat et énergie pour la période 2013-2020

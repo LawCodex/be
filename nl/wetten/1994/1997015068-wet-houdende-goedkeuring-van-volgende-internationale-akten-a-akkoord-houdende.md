@@ -12,7 +12,7 @@ entry_into_force: 1997-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/12/23/1997015068/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1994. - Wet houdende goedkeuring van volgende Internationale Akten : A. Akkoord houdende oprichting van de Wereldhandelsorganisatie, Slotakte, Bijlagen 1A, 1B, 1C, 2, 3 en 4, Besluiten en Verklaringen en Memorandum van Akkoord inzake de verbintenissen betreffende financiële diensten, en B. Akkoord inzake overheidsaanbestedingen en Aanhangsels I, II, III en IV, gedaan te Marrakech op 15 april 1994

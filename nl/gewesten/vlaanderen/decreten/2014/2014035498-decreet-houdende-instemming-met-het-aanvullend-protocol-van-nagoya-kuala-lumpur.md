@@ -13,7 +13,7 @@ entry_into_force: 2014-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/04/2014035498/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2014. - Decreet houdende instemming met het Aanvullend Protocol van Nagoya-Kuala Lumpur inzake aansprakelijkheid en schadeloosstelling bij het Protocol van Cartagena inzake bioveiligheid, gedaan te Nagoya op 15 oktober 2010

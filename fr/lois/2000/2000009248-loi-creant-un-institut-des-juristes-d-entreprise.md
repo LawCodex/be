@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/03/01/2000009248/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 04-07-2000 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2000. - Loi créant un Institut des juristes d'entreprise.

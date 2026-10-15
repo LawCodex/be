@@ -13,7 +13,7 @@ entry_into_force: 2002-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/03/27/2002029172/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2002. - Decreet houdende instemming met de Europese Overeenkomst inzake de coproductie op het gebied van de film en met de Bijlagen I en II, opgemaakt te Straatsburg op 2 oktober 1992 (VERTALING).

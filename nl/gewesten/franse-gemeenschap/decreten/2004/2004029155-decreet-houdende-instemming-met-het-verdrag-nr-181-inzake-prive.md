@@ -13,7 +13,7 @@ entry_into_force: 2004-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/12/2004029155/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Decreet houdende instemming met het Verdrag nr. 181 inzake privé-tewerkstellingsdiensten, aangenomen te Genève op 19 juni 1997 (VERTALING).

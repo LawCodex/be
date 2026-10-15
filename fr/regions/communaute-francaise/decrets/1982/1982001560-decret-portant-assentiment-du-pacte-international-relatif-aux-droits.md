@@ -13,7 +13,7 @@ entry_into_force: 1982-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1982/06/08/1982001560/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 1982. - Décret portant assentiment du Pacte international relatif aux droits économiques, sociaux et culturels, fait à New York le 19 décembre 1966.

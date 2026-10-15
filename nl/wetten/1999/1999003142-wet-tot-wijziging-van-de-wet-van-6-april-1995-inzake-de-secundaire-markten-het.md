@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/10/1999003142/justel"
 department: "Financiën"
 justel_note: "raadpleging van vroegere versies vanaf 14-04-1999 en tekstbijwerking tot 01-02-2005"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 1999. - Wet tot wijziging van de wet van 6 april 1995 inzake de secundaire markten, het statuut van en het toezicht op de beleggingsondernemingen, de bemiddelaars en beleggingsadviseurs, tot fiscale regeling van de verrichtingen van lening van aandelen en houdende diverse andere bepalingen.

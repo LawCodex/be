@@ -12,7 +12,7 @@ entry_into_force: 2013-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/01/10/2013014096/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2013. - Loi portant exécution de Conventions internationales diverses en matière de responsabilité civile pour la pollution par les navires, concernant des matières visées à l'article 77 de la Constitution

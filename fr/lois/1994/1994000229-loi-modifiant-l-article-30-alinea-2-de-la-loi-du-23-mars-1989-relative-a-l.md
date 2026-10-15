@@ -12,7 +12,7 @@ entry_into_force: 1994-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/04/29/1994000229/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 1994. - Loi modifiant l'article 30, alinéa 2, de la loi du 23 mars 1989 relative à l'élection du Parlement européen et complétant la loi du 11 avril 1994 modifiant la loi du 23 mars 1989 relative à l'élection du Parlement européen et portant exécution de la directive du Conseil des Communautés européennes - n° 93/109/CE du 6 décembre 1993.

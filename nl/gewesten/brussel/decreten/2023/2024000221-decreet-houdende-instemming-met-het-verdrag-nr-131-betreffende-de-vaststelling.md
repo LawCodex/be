@@ -13,7 +13,7 @@ entry_into_force: 2024-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/08/2024000221/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2023. - Decreet houdende instemming met het Verdrag nr. 131 betreffende de vaststelling van minimumlonen, in het bijzonder met betrekking tot de ontwikkelingslanden, aangenomen te Genève op 22 juni 1970 door de Internationale Arbeidsconferentie tijdens haar 54ste zitting

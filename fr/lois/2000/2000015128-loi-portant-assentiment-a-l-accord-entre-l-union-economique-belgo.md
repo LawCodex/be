@@ -12,7 +12,7 @@ entry_into_force: 2002-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/05/14/2000015128/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MAI 2000. - Loi portant assentiment à l'accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République de Slovénie concernant l'encouragement et la protection réciproques des investissements, fait à Ljubljana le 1 février 1999.

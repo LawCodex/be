@@ -11,7 +11,7 @@ published: 1993-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/03/18/1993015151/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 1993. - Wet houdende goedkeuring van volgende Internationale Akten :

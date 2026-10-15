@@ -12,7 +12,7 @@ entry_into_force: 1995-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/27/1996031297/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 1995. - Decreet tot instelling van het politiek verlof voor de personeelsleden van de diensten van het College van de Franse Gemeenschapscommissie met het oog op de uitoefening van een mandaat van lid van de Raad of het College van de Franse Gemeenschapscommissie (VERTALING).

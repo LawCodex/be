@@ -13,7 +13,7 @@ entry_into_force: 2018-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/14/2018031641/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUNI 2018. - Decreet tot wijziging van het gecoördineerde decreet van 26 maart 2009 betreffende de audiovisuele mediadiensten

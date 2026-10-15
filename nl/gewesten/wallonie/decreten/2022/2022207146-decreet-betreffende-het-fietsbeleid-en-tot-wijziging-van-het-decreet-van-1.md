@@ -13,7 +13,7 @@ entry_into_force: 2022-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/11/24/2022207146/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2022. - Decreet betreffende het fietsbeleid en tot wijziging van het decreet van 1 april 2004 betreffende de plaatselijke mobiliteit en toegankelijkheid en het decreet van 4 april 2019 met het oog op een algemene invoering van kwaliteitsvolle fietsvoorzieningen in Wallonië en een hogere fietsersveiligheid

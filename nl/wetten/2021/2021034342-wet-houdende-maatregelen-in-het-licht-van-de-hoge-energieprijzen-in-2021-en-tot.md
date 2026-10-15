@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/15/2021034342/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 23-12-2021 en tekstbijwerking tot 31-03-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2021. - Wet houdende maatregelen in het licht van de hoge energieprijzen in 2021 en tot bekrachtiging van het koninklijk besluit van 22 december 2020 tot wijziging van het koninklijk besluit van 24 maart 2003 tot bepaling van de nadere regels betreffende de federale bijdrage tot financiering van sommige openbare dienstverplichtingen en van de kosten verbonden aan de regulering van en controle op de elektriciteitsmarkt

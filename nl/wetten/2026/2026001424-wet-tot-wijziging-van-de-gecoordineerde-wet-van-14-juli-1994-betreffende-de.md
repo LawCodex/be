@@ -12,7 +12,7 @@ entry_into_force: 2026-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/02/11/2026001424/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEBRUARI 2026. - Wet tot wijziging van de gecoördineerde wet van 14 juli 1994 betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, teneinde tijdens de moederschapsrust de uitoefening van bepaalde activiteiten toe te staan

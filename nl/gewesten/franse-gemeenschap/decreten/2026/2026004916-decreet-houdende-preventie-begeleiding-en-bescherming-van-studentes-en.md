@@ -12,7 +12,7 @@ published: 2026-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/11/2026004916/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2026. - Decreet houdende preventie, begeleiding en bescherming van studentes en studenten tegen alle vormen van pesterijen, seksistisch en seksueel geweld en discriminatie in instellingen voor hoger onderwijs met een volledig leerplan

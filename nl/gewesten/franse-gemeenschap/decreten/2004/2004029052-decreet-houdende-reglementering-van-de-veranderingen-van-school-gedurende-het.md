@@ -12,7 +12,7 @@ published: 2004-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/01/28/2004029052/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 2004. - Decreet houdende reglementering van de veranderingen van school gedurende het schooljaar in het gewoon basisonderwijs (VERTALING).

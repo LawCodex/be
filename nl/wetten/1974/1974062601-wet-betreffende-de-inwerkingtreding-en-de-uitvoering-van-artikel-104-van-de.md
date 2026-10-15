@@ -11,7 +11,7 @@ published: 1974-07-06
 entry_into_force: 1974-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1974/06/26/1974062601/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 1974. - Wet betreffende de inwerkingtreding en de uitvoering van artikel 104 van de Grondwet.

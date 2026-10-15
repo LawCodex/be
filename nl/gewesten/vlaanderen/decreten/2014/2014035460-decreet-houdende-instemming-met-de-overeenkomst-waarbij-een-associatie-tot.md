@@ -13,7 +13,7 @@ entry_into_force: 2014-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/28/2014035460/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2014. - Decreet houdende instemming met de overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar lidstaten, enerzijds, en Midden-Amerika, anderzijds, ondertekend in Tegucigalpa op 29 juni 2012

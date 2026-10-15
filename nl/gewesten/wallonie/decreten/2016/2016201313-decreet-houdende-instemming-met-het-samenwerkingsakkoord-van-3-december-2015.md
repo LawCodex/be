@@ -13,7 +13,7 @@ entry_into_force: 2016-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/03/03/2016201313/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 2016. - Decreet houdende instemming met het samenwerkingsakkoord van 3 december 2015 tussen de Franse Gemeenschap en het Waalse Gewest waarbij de Waalse aankoopcomités ertoe gemachtigd worden vermogensverrichtingen uit te voeren voor rekening van de Franse Gemeenschap en de entiteiten die eronder ressorteren

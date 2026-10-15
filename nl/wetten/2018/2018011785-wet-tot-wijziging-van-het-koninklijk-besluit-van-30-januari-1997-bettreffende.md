@@ -11,7 +11,7 @@ published: 2018-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/30/2018011785/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2018. - Wet tot wijziging van het koninklijk besluit van 30 januari 1997 bettreffende het pensioenstelsel der zelfstandigen met toepassing van de artikelen 15 en 27 van de wet van 26 juli 1996 tot modernisering van de sociale zekerheid en tot vrijwaring van de leefbaarheid van de wettelijke pensioenstelsels en van artikel 3, § 1, 4° van de wet van 26 juli 1996 strekkende tot realisatie van de budgettaire voorwaarden tot deelname van België aan de Europese en Monetaire Unie voor wat betreft de minimumovergangsuitkering

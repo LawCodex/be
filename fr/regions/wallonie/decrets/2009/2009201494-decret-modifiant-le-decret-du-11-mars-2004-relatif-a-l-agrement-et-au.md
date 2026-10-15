@@ -13,7 +13,7 @@ entry_into_force: 2009-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/19/2009201494/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2009. - Décret modifiant le décret du 11 mars 2004 relatif à l'agrément et au subventionnement des missions régionales pour l'emploi

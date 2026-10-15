@@ -12,7 +12,7 @@ entry_into_force: 2026-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/06/16/2026004598/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2026. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers en vue de la mise en oeuvre du Pacte sur la migration et l'asile de l'Union européenne

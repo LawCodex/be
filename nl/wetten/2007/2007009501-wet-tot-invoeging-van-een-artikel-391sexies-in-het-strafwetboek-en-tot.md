@@ -12,7 +12,7 @@ entry_into_force: 2007-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/25/2007009501/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2007. - Wet tot invoeging van een artikel 391sexies in het Strafwetboek en tot wijziging van een aantal bepalingen van het Burgerlijk Wetboek met het oog op de strafbaarstelling en het uitbreiden van de middelen tot nietigverklaring van het gedwongen huwelijk.

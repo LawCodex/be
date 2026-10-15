@@ -12,7 +12,7 @@ entry_into_force: 2012-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/01/08/2012009010/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JANVIER 2012. - Loi modifiant le Code des sociétés à la suite de la Directive 2009/109/CE en ce qui concerne les obligations en matière de rapports et de documentation en cas de fusions ou de scissions

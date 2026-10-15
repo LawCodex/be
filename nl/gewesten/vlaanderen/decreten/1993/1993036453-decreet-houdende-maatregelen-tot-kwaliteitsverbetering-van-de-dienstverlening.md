@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/11/10/1993036453/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 15-02-1994 en tekstbijwerking tot 20-07-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 1993. - Decreet houdende maatregelen tot kwaliteitsverbetering van de dienstverlening door huwelijks- en relatiebemiddelaars. -

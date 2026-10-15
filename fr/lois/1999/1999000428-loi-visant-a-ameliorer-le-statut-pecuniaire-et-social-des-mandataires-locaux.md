@@ -11,7 +11,7 @@ published: 1999-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/04/1999000428/justel"
 department: "Intérieur - Affaires sociales - Santé Publique et Environnement - Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 1999. - Loi visant à améliorer le statut pécuniaire et social des mandataires locaux.

@@ -13,7 +13,7 @@ entry_into_force: 2016-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/03/11/2016201503/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2016. - Decreet tot wijziging van Boek II van het Milieuwetboek, dat het Waterwetboek inhoudt, teneinde de openbare sectoren die tot het watergebied behoren, als diensten van algemeen economisch belang te verklaren

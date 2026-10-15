@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/11/29/2001009986/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 08-12-2001 en tekstbijwerking tot 16-02-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2001. - Wet tot vaststelling van een tijdelijke personeelsformatie van raadsheren teneinde de gerechtelijke achterstand bij de hoven van beroep weg te werken.

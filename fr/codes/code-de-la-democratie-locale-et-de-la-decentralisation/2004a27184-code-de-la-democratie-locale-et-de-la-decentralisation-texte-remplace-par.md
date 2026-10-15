@@ -17,7 +17,7 @@ justel_notes:
   - "Les livres II et III de la 3e Partie du code sont abrogés pour la Communauté germanophone, pour autant qu'ils concernant les communes par DCG 2018-04-23/17 , art. 205, 2°, 078; En vigueur : 03-12-2018"
   - "articles L1122-10; L3221-4; L3221-5; L3221-6; L3221-7; L3221-8 modifiés dans le futur par DRW 2022-05-18/21 , art. 1-6, 098; En vigueur : 01-09-2022 pour les communes de 50 000 habitants et plus et pour les provinces; 01-04-2023 pour les communes entre 12 000 et 49 999 habitants; 01-10-2023 pour les communes de moins de 12 000 habitants."
   - "Consultation des versions antérieures à partir du 12-08-2004 et mise à jour au 27-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2004. - Code de la démocratie locale et de la décentralisation (Texte remplacé par Erratum, voir M.B. 22-03-2005, p. 12266-12381)

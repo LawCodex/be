@@ -13,7 +13,7 @@ entry_into_force: 1999-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/01/1999035691/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er AVRIL 1999. - Décret portant approbation de l'accord de coopération entre la Communauté flamande et la Région wallonne en matière d'intégration des personnes handicapées.

@@ -13,7 +13,7 @@ entry_into_force: 2024-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/03/07/2024002046/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2024. - Ordonnance portant assentiment à l'accord de coopération du 8 janvier 2024 entre la Région de Bruxelles-Capitale et la Commission communautaire française portant sur la désignation d'un intégrateur de services commun pour l'échange électronique de données

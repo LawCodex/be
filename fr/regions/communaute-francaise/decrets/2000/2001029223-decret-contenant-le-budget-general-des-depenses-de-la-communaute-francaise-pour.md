@@ -13,7 +13,7 @@ entry_into_force: 2001-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/12/12/2001029223/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2000. - Décret contenant le budget général des dépenses de la Communauté française pour l'année budgétaire 2001.

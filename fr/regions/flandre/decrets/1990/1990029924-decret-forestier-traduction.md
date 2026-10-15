@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/06/13/1990029924/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 15-03-1997 et mise à jour au 17-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 1990. - Décret forestier. (Traduction)

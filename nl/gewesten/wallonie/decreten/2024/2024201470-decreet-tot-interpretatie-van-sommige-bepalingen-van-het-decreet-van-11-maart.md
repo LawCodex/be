@@ -13,7 +13,7 @@ entry_into_force: 2024-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/01/10/2024201470/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANUARI 2024. - Decreet tot interpretatie van sommige bepalingen van het decreet van 11 maart 1999 betreffende de milieuvergunning

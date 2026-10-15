@@ -12,7 +12,7 @@ entry_into_force: 2026-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/02/2023044046/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 2023. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Togo betreffende het luchtvervoer, gedaan te Lomé op 13 juni 2019

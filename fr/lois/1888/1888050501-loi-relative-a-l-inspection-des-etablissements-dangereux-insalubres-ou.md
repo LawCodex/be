@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1888/05/05/1888050501/justel"
 justel_notes:
   - "Cette loi sera abrogée, pour la Communauté flamande, par DCFL 1985-06-28/36 (art. 42), 002, au moment de son entrée en vigueur (voir art. 46)"
   - "Consultation des versions antérieures à partir du 17-09-1985 et mise à jour au 21-04-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 1888. - Loi relative à l'inspection des établissements dangereux, insalubres ou incommodes, et à la surveillance des machines et chaudières à vapeur.

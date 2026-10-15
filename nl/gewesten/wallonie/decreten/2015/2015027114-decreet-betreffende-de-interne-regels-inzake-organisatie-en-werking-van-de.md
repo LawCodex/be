@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/16/2015027114/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 28-07-2015 en tekstbijwerking tot 29-12-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2015. - Decreet betreffende de interne regels inzake organisatie en werking van de intercommunales die optreden als beheerders van distributienetwerken of communicatienetwerken

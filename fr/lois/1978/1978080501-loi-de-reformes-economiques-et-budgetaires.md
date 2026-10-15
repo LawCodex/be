@@ -13,7 +13,7 @@ last_amended: 2026-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/08/05/1978080501/justel"
 justel_note: "Consultation des versions antérieures à partir du 22-05-1984 et mise à jour au 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AOUT 1978. - Loi de réformes économiques et budgétaires.

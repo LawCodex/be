@@ -11,7 +11,7 @@ published: 1995-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/03/1995009420/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 1995. - Wet tot wijziging van de wet van 29 oktober 1846 op de inrichting van het Rekenhof en van de wetten op de rijkscomptabiliteit, gecoördineerd op 17 juli 1991.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/01/18/1995011852/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieur à partir du 19-08-1995 et mis à jour au 17-04-1996"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 1995. - ANNEXE AU BUDGET GENERAL DES RECETTES DE LA COMMUNAUTE GERMANOPHONE POUR L'ANNEE BUDGETAIRE 1995.

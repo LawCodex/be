@@ -13,7 +13,7 @@ entry_into_force: 2008-11-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/10/10/2008203857/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 2008. - Décret portant assentiment au Traité de Lisbonne modifiant le Traité sur l'Union européenne et le Traité instituant la Communauté européenne, et l'Acte final, signé à Lisbonne le 13 décembre 2007 (TRADUCTION).

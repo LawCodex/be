@@ -12,7 +12,7 @@ entry_into_force: 2021-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/14/2021033651/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2021. - Decreet houdende bekrachtiging van verschillende besluiten van de regering van de Franse Gemeenschap van bijzondere machten inzake sport

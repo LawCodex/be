@@ -11,7 +11,7 @@ published: 2019-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/29/2019202371/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2019. - Loi relative au remboursement des tests diagnostiques et génétiques en cas de mort subite d'un jeune sportif

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/12/09/2004022975/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 17-01-2005 en tekstbijwerking tot 21-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2004. - Wet betreffende de financiering van het Federaal Agentschap voor de Veiligheid van de Voedselketen.

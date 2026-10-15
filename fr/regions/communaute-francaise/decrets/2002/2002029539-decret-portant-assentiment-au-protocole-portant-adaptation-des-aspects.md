@@ -13,7 +13,7 @@ entry_into_force: 2002-11-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/10/24/2002029539/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OCTOBRE 2002. - Décret portant assentiment au Protocole portant adaptation des aspects institutionnels de l'Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République tchèque, d'autre part, afin de tenir compte de l'adhésion de la République d'Autriche, de la République de Finlande et du Royaume de Suède à l'Union européenne, fait à Bruxelles le 24 juin et le 29 novembre 1999.

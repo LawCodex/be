@@ -13,7 +13,7 @@ entry_into_force: 2013-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/10/2013204342/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2013. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap aan het Waalse Gewest is overgedragen, met de Kaderovereenkomst inzake partnerschap en samenwerking tussen de Europese Unie en haar lidstaten enerzijds, en de Republiek der Filippijnen, anderzijds, ondertekend in Phnom-Penh op 11 juli 2012

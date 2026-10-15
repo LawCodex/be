@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/07/22/1991003413/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 31-07-1991 en tekstbijwerking tot 04-05-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 1991. - Wet betreffende de Nationale Loterij.

@@ -13,7 +13,7 @@ entry_into_force: 2024-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/15/2024000219/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 2023. - Decreet tot wijziging van het decreet betreffende het aanbod van ambulante diensten in de domeinen van de sociale actie, het gezin en de gezondheid om ze in staat te stellen de geneesmiddelen te leveren die nodig zijn voor hun opdracht van risicobeperking

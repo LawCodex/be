@@ -16,7 +16,7 @@ department: "Volksgezondheid en Leefmilieu - Tewerkstelling en Arbeid"
 justel_notes:
   - "artikelen gewijzigd met ingang op een onbepaalde datum bij W 2019-04-05/27 , art. 2-4; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 07-09-1995 en tekstbijwerking tot 19-01-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 APRIL 1994. - Wet betreffende de bescherming van de bevolking en van het leefmilieu tegen de uit ioniserende stralingen voortspruitende gevaren en betreffende het Federaal Agentschap voor Nucleaire Controle

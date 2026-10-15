@@ -12,7 +12,7 @@ entry_into_force: 2025-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/03/27/2025008666/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2025. - Loi visant à transposer la directive (UE) 2019/1937 du Parlement européen et du Conseil du 23 octobre 2019 sur la protection des personnes qui signalent des violations du droit de l'Union, en ce qui concerne la Chambre des Représentants et du Sénat

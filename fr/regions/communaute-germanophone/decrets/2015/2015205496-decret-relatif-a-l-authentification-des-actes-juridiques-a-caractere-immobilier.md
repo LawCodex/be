@@ -13,7 +13,7 @@ entry_into_force: 2015-11-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/11/02/2015205496/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 NOVEMBRE 2015. - Décret relatif à l'authentification des actes juridiques à caractère immobilier de la Communauté germanophone ainsi que des organismes publics qui en dépendent

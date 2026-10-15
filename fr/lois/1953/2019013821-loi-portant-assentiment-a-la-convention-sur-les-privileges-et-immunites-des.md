@@ -11,7 +11,7 @@ published: 2019-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1953/04/08/2019013821/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 AVRIL 1953. - Loi portant assentiment à la Convention sur les Privilèges et Immunités des institutions spécialisées, adoptée à New York, le 21 novembre 1947, par l'Assemblée générale des Nations-Unies, au cours de sa deuxième session (1). - Addendum

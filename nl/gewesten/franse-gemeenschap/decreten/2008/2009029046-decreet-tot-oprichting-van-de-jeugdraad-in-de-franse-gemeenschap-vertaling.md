@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/14/2009029046/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 25-02-2009 en tekstbijwerking tot 01-10-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2008. - Decreet tot oprichting van de Jeugdraad in de Franse Gemeenschap (VERTALING)

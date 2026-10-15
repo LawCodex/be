@@ -12,7 +12,7 @@ entry_into_force: 1999-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/02/12/1999000140/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 1999. - Wet tot invoeging van een artikel 15ter in de wet van 4 juli 1989 betreffende de bepaling en de controle van de verkiezingsuitgaven voor de verkiezingen van de federale Kamers, de financiering en de open boekhouding van de politieke partijen en van een artikel 16bis van de wetten op de Raad van State, gecoördineerd op 12 januari 1973.

@@ -12,7 +12,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/07/2007203398/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2007. - Decreet houdende instemming met het aanhangsel van 28 december 2006 bij het samenwerkingsakkoord van 30 mei 2005 tussen de federale Staat, het Vlaams Gewest, het Waals Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie (VERTALING).

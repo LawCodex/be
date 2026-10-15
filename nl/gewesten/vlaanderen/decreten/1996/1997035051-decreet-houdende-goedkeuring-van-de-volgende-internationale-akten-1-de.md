@@ -13,7 +13,7 @@ entry_into_force: 1997-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/12/17/1997035051/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 1996. - Decreet houdende goedkeuring van de volgende internationale akten : 1. de Overeenkomst inzake partnerschap en samenwerking tussen de Europese Gemeenschappen en hun lidstaten enerzijds, en de Russische Federatie anderzijds, de Bijlagen 1, 2, 3, 4, 5, 6, 7, 8, 9 en 10, de Protocollen 1 en 2 en de Slotakte, ondertekend in Korfoe op 24 juni 1994; 2. de Overeenkomst inzake partnerschap en samenwerking tussen de Europese Gemeenschappen en hun lidstaten enerzijds, en de Republiek Moldavië anderzijds, de Bijlagen 1, 2, 3, 4 en 5, het Protocol en de Slotakte, ondertekend in Brussel op 28 november 1994.

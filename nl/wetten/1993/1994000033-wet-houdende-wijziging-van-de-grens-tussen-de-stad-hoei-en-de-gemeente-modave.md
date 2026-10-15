@@ -12,7 +12,7 @@ entry_into_force: 1994-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/12/30/1994000033/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBER 1993. - Wet houdende wijziging van de grens tussen de stad Hoei en de gemeente Modave.

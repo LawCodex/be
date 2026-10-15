@@ -12,7 +12,7 @@ entry_into_force: 2013-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/05/07/2013015160/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2013. - Loi portant assentiment à l'Echange de lettres entre le Royaume de Belgique et l'Organisation du Traité de l'Atlantique Nord concernant l'ouverture et l'exploitation d'une pharmacie sur le siège permanent de l'Organisation du Traité de l'Atlantique Nord, signées à Bruxelles le 3 février 2009 et le 3 mars 2009

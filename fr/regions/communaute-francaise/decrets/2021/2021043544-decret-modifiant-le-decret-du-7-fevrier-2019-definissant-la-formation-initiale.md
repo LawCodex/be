@@ -13,7 +13,7 @@ entry_into_force: 2022-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/02/2021043544/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2021. - Décret modifiant le décret du 7 février 2019 définissant la formation initiale des enseignants

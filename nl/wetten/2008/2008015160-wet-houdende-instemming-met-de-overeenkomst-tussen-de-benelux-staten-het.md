@@ -11,7 +11,7 @@ entry_into_force: 2008-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/09/18/2008015160/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 SEPTEMBER 2008. - Wet houdende instemming met de Overeenkomst tussen de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden) en Bosnië-Herzegovina betreffende de terug- en overname van onregelmatig binnengekomen en/of verblijvende personen (Terug- en overnameovereenkomst), en met het Uitvoeringsprotocol, gedaan te Sarajevo op 19 juli 2006.

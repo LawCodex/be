@@ -12,7 +12,7 @@ entry_into_force: 2020-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/18/2020041726/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2020. - Loi portant ajustement de loi du 23 mars 2020 ouvrant des crédits provisoires pour les mois d'avril, mai et juin 2020

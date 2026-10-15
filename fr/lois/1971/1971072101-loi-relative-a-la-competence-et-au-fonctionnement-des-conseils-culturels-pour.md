@@ -11,7 +11,7 @@ published: 1971-07-23
 entry_into_force: 1971-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/07/21/1971072101/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUILLET 1971. - LOI relative à la compétence et au fonctionnement des conseils culturels pour la Communauté culturelle française et pour la Communauté culturelle néerlandaise.

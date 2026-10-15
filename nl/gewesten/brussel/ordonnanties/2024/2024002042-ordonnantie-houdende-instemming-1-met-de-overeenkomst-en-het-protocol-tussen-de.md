@@ -13,7 +13,7 @@ entry_into_force: 2024-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/03/07/2024002042/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 2024. - Ordonnantie houdende instemming: 1° met de Overeenkomst en het Protocol tussen de Regering van het Koninkrijk België en de Regering van de Republiek India tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, gedaan te Brussel op 26 april 1993; en 2° met het Protocol, gedaan te New Delhi op 9 maart 2017, tot wijziging van de Overeenkomst en van het Protocol tussen de Regering van het Koninkrijk België en de Regering van de Republiek India tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, gedaan te Brussel op 26 april 1993

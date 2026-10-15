@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/02/1998009893/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 25-11-1998 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 1998. - Wet houdende oprichting van een Informatie- en Adviescentrum inzake de schadelijke sektarische organisaties en van een Administratieve coördinatiecel inzake de strijd tegen schadelijke sektarische organisaties.

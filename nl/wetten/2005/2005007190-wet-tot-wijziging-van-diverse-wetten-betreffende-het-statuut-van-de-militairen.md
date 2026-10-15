@@ -12,7 +12,7 @@ entry_into_force: 2005-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/07/16/2005007190/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2005. - Wet tot wijziging van diverse wetten betreffende het statuut van de militairen.

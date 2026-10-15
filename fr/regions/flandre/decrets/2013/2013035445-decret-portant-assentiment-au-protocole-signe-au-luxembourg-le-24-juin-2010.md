@@ -13,7 +13,7 @@ entry_into_force: 2013-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/05/03/2013035445/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2013. - Décret portant assentiment au protocole, signé au Luxembourg le 24 juin 2010, modifiant l'accord de transport aérien entre les Etats-Unis d'Amérique, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, signé les 25 et 30 avril 2007

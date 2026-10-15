@@ -13,7 +13,7 @@ entry_into_force: 2018-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/24/2018202799/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2018. - Décret portant assentiment à l'Accord de dialogue politique et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la République de Cuba, d'autre part, signé à Bruxelles, le 12 décembre 2016

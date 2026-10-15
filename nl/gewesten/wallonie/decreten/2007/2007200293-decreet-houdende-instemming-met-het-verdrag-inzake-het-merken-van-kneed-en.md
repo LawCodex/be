@@ -13,7 +13,7 @@ entry_into_force: 2007-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/01/18/2007200293/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2007. - Decreet houdende instemming met het Verdrag inzake het merken van kneed- en bladspringstoffen ten behoeve van de opsporing ervan, gedaan te Montreal op 1 maart 1991 (VERTALING).

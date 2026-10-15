@@ -13,7 +13,7 @@ entry_into_force: 2013-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/28/2013204102/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2013. - Décret modifiant diverses dispositions du décret du 20 mars 2009 relatif à l'accessibilité aux personnes accompagnées de chiens d'assistance des lieux publics

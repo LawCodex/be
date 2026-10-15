@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/14/2024200690/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 27-02-2024 et mise à jour au 26-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2023. - Décret contenant le budget des recettes et le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2024

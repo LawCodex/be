@@ -12,7 +12,7 @@ entry_into_force: 2014-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/21/2014009266/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2014. - Wet tot wijziging van de hypotheekwet van 16 december 1851, teneinde voorrechten in te stellen ten gunste van de slachtoffers van strafbare feiten

@@ -13,7 +13,7 @@ entry_into_force: 2001-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/11/15/2001029518/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBER 2001. - Decreet tot wijziging van het decreet van 24 juli 1997 betreffende de Hoge Raad voor de Audiovisuele Sector (VERTALING).

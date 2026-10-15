@@ -13,7 +13,7 @@ last_amended: 2007-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1965/04/02/1965040211/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1990 en tekstbijwerking tot 24-08-2007."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 1965. - Wet waarbij de dopingpraktijk verboden wordt bij sportcompetities. (NOTA 1 : Opgeheven voor de Vlaamse Gemeenschap bij DVR 1991-03-27/35, art. 45, 2°, 002; Inwerkingtreding : 10-04-1992) - (NOTA 2 : Opgeheven voor de Franse Gemeenschap door DFG 2001-03-08/33, art. 22; Inwerkingtreding : 24-12-2002) - (NOTA 3 : Opgeheven voor de Duitstalige Gemeenschap door DDG 2006-01-30/40, art. 41, 1°; Inwerkingtreding : 22-04-2006) - (NOTA 4 : Opgeheven voor het Brussels Hoofdstedelijk Gewest door ORD 2007-07-19/69 , 18, 2°; Inwerkingtreding : onbepaald ) -

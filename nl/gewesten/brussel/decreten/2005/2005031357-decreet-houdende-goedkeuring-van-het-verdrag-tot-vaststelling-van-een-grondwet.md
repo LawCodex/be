@@ -11,7 +11,7 @@ date: 2005-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/20/2005031357/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2005. - Decreet houdende goedkeuring van het Verdrag tot vaststelling van een Grondwet voor Europa en van de Finale Akte, gedaan te Rome op 29 oktober 2004 (VERTALING).

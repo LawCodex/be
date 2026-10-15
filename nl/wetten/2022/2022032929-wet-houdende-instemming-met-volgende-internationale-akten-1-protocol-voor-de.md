@@ -11,7 +11,7 @@ published: 2022-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/21/2022032929/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JULI 2022. - Wet houdende instemming met volgende internationale akten: 1) Protocol voor de toetreding van de Republiek Finland tot de Noord-Atlantische Verdragsorganisatie, ondertekend te Brussel op 5 juli 2022; 2) Protocol voor de toetreding van het Koninkrijk Zweden tot de Noord-Atlantische Verdragsorganisatie, ondertekend te Brussel op 5 juli 2022

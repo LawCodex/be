@@ -13,7 +13,7 @@ entry_into_force: 2010-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/10/2010035974/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2010. - Décret portant désignation de géomètres agréés par des provinces, communes et C.P.A.S. pour l'établissement de rapports d'expertise dans le cadre d'opérations immobilières exécutées par les provinces, les communes et les C.P.A.S.

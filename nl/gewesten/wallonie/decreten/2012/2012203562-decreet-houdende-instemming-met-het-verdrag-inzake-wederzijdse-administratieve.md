@@ -13,7 +13,7 @@ entry_into_force: 2012-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/21/2012203562/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2012. - Decreet houdende instemming met het Verdrag inzake wederzijdse administratieve bijstand in fiscale aangelegenheden, en met de bijlagen A, B en C, gedaan te Straatsburg op 25 januari 1988, zoals gewijzigd bij het Wijzigingsprotocol, gedaan te Parijs op 27 mei 2010

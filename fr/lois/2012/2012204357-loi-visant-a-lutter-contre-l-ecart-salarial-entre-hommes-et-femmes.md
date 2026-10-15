@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/04/22/2012204357/justel"
 department: "Emploi, Travail et Concertation sociale"
 justel_note: "Consultation des versions antérieures à partir du 28-08-2012 et mise à jour au 27-04-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2012. - Loi visant à lutter contre l'écart salarial entre hommes et femmes

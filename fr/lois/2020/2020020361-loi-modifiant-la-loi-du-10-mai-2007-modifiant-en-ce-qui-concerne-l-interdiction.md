@@ -12,7 +12,7 @@ entry_into_force: 2020-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/02/04/2020020361/justel"
 department: "Institut pour l'égalité des femmes et des hommes"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2020. - Loi modifiant la loi du 10 mai 2007 modifiant, en ce qui concerne l'interdiction de discrimination relative à la paternité ou à la comaternité, la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes

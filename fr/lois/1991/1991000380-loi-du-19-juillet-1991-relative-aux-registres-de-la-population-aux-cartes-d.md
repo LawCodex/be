@@ -17,7 +17,7 @@ justel_notes:
   - "art. 6 et 6bis modifiés avec effet à une date indéterminée par L 2018-07-30/54 , art. 5; En vigueur : indéterminée "
   - "art. 6 modifié avec effet à une date indéterminée par L 2020-06-18/29 , art. 2, 024; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 09-07-1991 et mise à jour au 05-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 1991. - [Loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes des étrangers et aux documents de séjour] &lt;Intitulé remplacé par L 2018-11-25/05 , art. 22, 022; En vigueur : 23-12-2018&gt;

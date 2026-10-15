@@ -13,7 +13,7 @@ entry_into_force: 1995-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/10/1995029602/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 1995. - Décret portant assentiment de l'Accord culturel entre le Gouvernement de la Communauté française de Belgique et le Gouvernement de la République du Chili, conclu à Bruxelles le 11 janvier 1994.

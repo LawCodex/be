@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/12/03/2017031916/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 10-01-2018 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2017. - Wet tot oprichting van de Gegevensbeschermingsautoriteit

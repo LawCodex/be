@@ -13,7 +13,7 @@ last_amended: 2026-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101054/justel"
 justel_note: "Consultation des versions antérieures à partir du 13-02-1985 et mise à jour au 12-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OCTOBRE 1967. - CODE JUDICIAIRE - Troisième partie : DE LA COMPETENCE. (art. 556 à 663)

@@ -12,7 +12,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/03/1997002139/justel"
 department: "Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 1997. - Wet tot wijziging van de wet van 10 april 1995 betreffende de herverdeling van de arbeid in de openbare sector.

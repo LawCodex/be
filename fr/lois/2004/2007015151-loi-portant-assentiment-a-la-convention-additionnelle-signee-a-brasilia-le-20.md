@@ -12,7 +12,7 @@ entry_into_force: 2007-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/12/17/2007015151/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2004. - Loi portant assentiment à la Convention additionnelle, signée à Brasilia le 20 novembre 2002, modifiant la Convention entre le Royaume de Belgique et la République fédérative du Brésil en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu, et le Protocole final, signés à Brasilia le 23 juin 1972

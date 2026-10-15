@@ -13,7 +13,7 @@ entry_into_force: 2003-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/20/2003029120/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2003. - Décret portant assentiment à l'Accord interne entre les représentants des Gouvernements des Etats membres, réunis au sein du Conseil, relatif aux mesures à prendre et aux procédures à suivre pour la mise en oeuvre de l'accord de partenariat ACP-CE, fait à Bruxelles, le 18 septembre 2000

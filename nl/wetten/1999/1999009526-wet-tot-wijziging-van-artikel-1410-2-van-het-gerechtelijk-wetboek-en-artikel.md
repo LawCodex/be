@@ -12,7 +12,7 @@ entry_into_force: 1999-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/18/1999009526/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 1999. - Wet tot wijziging van artikel 1410, § 2, van het Gerechtelijk Wetboek en artikel 2071 van het Burgerlijk Wetboek.

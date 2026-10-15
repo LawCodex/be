@@ -13,7 +13,7 @@ entry_into_force: 2018-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/05/18/2017012349/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2017. - Décret modifiant les articles 3, 15 et 16 et insérant un article 45ter dans la loi du 14 août 1986 relative à la protection et au bien-être des animaux

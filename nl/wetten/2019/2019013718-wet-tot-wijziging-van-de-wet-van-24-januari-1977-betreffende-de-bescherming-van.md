@@ -11,7 +11,7 @@ published: 2019-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/07/12/2019013718/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2019. - Wet tot wijziging van de wet van 24 januari 1977 betreffende de bescherming van de gezondheid van gebruikers op het stuk van de voedingsmiddelen en andere producten, wat betreft de verkoop van tabak en soortgelijke producten aan minderjarigen

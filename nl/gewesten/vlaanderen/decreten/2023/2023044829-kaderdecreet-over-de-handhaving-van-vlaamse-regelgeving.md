@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/14/2023044829/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 29-08-2023 en tekstbijwerking tot 12-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2023. - Kaderdecreet over de handhaving van Vlaamse regelgeving

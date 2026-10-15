@@ -13,7 +13,7 @@ entry_into_force: 2003-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/05/19/2003033047/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2003. - Décret portant assentiment à l'Accord de Coopération concernant la pratique sportive dans le respect des impératifs de santé (TRADUCTION).

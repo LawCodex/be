@@ -12,7 +12,7 @@ entry_into_force: 2015-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/10/29/2015205079/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OKTOBER 2015. - Decreet houdende wijziging van de wet van 27 december 1994 houdende instemming met het akkoord inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend te Brussel op 9 februari 1994, tussen de Regeringen van de Bondsrepubliek Duitsland, het Koninkrijk België, het Koninkrijk Denemarken, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden en tot invoering van een Eurovignet, overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993

@@ -13,7 +13,7 @@ entry_into_force: 2002-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/11/2002029387/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2002. - Décret modifiant l'article 97 du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre.

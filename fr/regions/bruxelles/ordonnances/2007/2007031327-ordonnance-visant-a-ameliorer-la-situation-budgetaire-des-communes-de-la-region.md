@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2007/07/19/2007031327/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 14-09-2017 et mise à jour au 14-09-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2007. - Ordonnance visant à améliorer la situation budgétaire des communes de la Région de Bruxelles-Capitale

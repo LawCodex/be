@@ -13,7 +13,7 @@ entry_into_force: 2002-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/02/18/2002033039/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 2002. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et le Comité international de la Croix-Rouge, fait à Bruxelles le 19 avril 1999 (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 2002-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/26/2002003343/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2002. - Loi de confirmation de l'arrêté royal du 13 juillet 2001 portant exécution de la loi du 30 juin 2000 relative à l'introduction de l'euro dans la législation concernant les matières visées à l'article 77 de la Constitution, en ce qui concerne le statut pécuniaire des magistrats et des greffiers de l'Ordre judiciaire, et des secrétaires de parquets.

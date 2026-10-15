@@ -13,7 +13,7 @@ entry_into_force: 2014-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/11/24/2014207476/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2014. - Decreet houdende instemming met het Protocol, gedaan te Brussel op 15 september 2009, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Republiek IJsland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 23 mei 2000

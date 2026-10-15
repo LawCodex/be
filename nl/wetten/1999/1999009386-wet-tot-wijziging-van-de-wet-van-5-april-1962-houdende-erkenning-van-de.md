@@ -12,7 +12,7 @@ entry_into_force: 1999-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/10/1999009386/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 1999. - Wet tot wijziging van de wet van 5 april 1962 houdende erkenning van de wijzigingen aan het aartsbisdom Mechelen en van de oprichting van het bisdom Antwerpen, de wet van 4 maart 1870 op de temporaliën van de erediensten en het keizerlijk decreet van 30 december 1809 op de kerkfabrieken.

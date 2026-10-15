@@ -13,7 +13,7 @@ entry_into_force: 2022-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/04/28/2022041027/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2022. - Ordonnance portant assentiment au Protocole n° 3 à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales relatif aux Groupements eurorégionaux de coopération (GEC), fait à Utrecht le 16 novembre 2009

@@ -13,7 +13,7 @@ entry_into_force: 2016-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/02/24/2022040507/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2022. - Decreet houdende instemming met het Tweede Protocol tot wijziging en aanvulling van het Aanvullend Akkoord, gesloten te Straatsburg op 3 december 1974 tussen het Koninkrijk België en de Raad van Europa, bij het Algemeen Akkoord inzake de voorrechten en immuniteiten van de Raad van Europa, ondertekend te Parijs op 2 september 1949, gedaan te Brussel op 15 april 2016

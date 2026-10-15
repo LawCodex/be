@@ -13,7 +13,7 @@ entry_into_force: 2014-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/05/08/2014031463/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2014. - Ordonnance portant sur la prise de participation en capital de la Région de Bruxelles-Capitale dans la société de droit privé créée en partenariat public pur et organisant un data centre régional

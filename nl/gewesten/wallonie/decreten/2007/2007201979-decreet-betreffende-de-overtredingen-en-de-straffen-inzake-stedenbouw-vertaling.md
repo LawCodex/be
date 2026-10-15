@@ -13,7 +13,7 @@ entry_into_force: 2007-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/05/24/2007201979/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 2007. - Decreet betreffende de overtredingen en de straffen inzake stedenbouw (VERTALING).

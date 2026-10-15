@@ -12,7 +12,7 @@ entry_into_force: 1994-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/06/30/1994009585/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1994. - Wet houdende wijziging van artikel 931 van het Gerechtelijk Wetboek en van de bepalingen betreffende de procédures van echtscheiding.

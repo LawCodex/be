@@ -12,7 +12,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/11/21/2016011500/justel"
 department: "Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2016. - Wet tot bevordering van de integratie van erkende vluchtelingen en subsidiair beschermden in het kader van de opvolging na de asielprocedure

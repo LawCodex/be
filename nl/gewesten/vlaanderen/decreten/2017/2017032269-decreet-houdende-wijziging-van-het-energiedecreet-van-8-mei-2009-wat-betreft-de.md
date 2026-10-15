@@ -13,7 +13,7 @@ entry_into_force: 2018-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/12/22/2017032269/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2017. - Decreet houdende wijziging van het Energiedecreet van 8 mei 2009, wat betreft de aanpassing van de groenestroomdoelstellingen, de WKK-doelstellingen en de energieheffing

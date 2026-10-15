@@ -13,7 +13,7 @@ entry_into_force: 1991-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/02/22/1995035489/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 1995. - Décret modifiant la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement et modifiant le décret du 17 juillet 1991 relatif à l'inspection et aux services d'encadrement pédagogique. (TRADUCTION).

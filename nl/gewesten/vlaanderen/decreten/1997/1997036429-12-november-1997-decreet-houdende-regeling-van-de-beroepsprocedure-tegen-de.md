@@ -13,7 +13,7 @@ entry_into_force: 1997-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/11/12/1997036429/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 1997. \_ Decreet houdende regeling van de beroepsprocedure tegen de beslissingen genomen door het Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap.

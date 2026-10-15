@@ -12,7 +12,7 @@ entry_into_force: 2022-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/02/17/2023030779/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2023. - Wet tot wijziging van het koninklijk besluit van nr. 38 van 27 juli 1967 houdende inrichting van het sociaal statuut der zelfstandigen betreffende de bijdrageberekening voor startende zelfstandige artiesten

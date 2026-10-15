@@ -12,7 +12,7 @@ published: 2014-10-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/05/05/2014203917/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2014. - Decreet tot verlaging van de schoolkosten in het basisonderwijs

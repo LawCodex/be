@@ -12,7 +12,7 @@ entry_into_force: 2018-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/04/2018030870/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 2018. - Loi portant assentiment au Protocole n° 15 portant amendement à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, fait à Strasbourg le 24 juin 2013

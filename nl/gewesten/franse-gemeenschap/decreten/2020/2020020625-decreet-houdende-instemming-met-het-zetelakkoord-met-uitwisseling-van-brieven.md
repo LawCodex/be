@@ -13,7 +13,7 @@ entry_into_force: 2020-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/03/05/2020020625/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2020. - Decreet houdende instemming met het Zetelakkoord met uitwisseling van brieven tussen het Koninkrijk België en de Internationale Organisatie voor Criminele Politie - INTERPOL (O.I.C.P. - INTERPOL), gedaan te Lyon op 14 oktober 2014 en te Brussel op 24 oktober 2014

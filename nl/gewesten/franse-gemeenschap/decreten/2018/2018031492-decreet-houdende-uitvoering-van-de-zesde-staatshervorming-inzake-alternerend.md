@@ -13,7 +13,7 @@ entry_into_force: 2016-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/14/2018031492/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUNI 2018. - Decreet houdende uitvoering van de zesde Staatshervorming inzake alternerend onderwijs

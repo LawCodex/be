@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/21/2009035037/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 27-01-2009 en tekstbijwerking tot 17-11-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2008. - Decreet houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2008

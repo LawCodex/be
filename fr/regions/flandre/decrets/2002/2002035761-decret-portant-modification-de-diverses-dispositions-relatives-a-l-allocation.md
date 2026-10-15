@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/05/08/2002035761/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2002. - Décret portant modification de diverses dispositions relatives à l'allocation de foyer et de résidence et au pécule de vacances du personnel communal et provincial (TRADUCTION).

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/18/2004200252/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 06-02-2004 et mise à jour au 05-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2003. - Décret-programme portant diverses mesures en matière de fiscalité régionale, de trésorerie et de dette, d'organisation des marchés de l'énergie, d'environnement, d'agriculture, de pouvoirs locaux et subordonnés, de patrimoine et de logement et de la Fonction publique

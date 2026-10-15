@@ -11,7 +11,7 @@ published: 1999-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/09/1999000590/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 1999. - Wet tot wijziging van de wet van 10 april 1990 op de bewakingsondernemingen, de beveiligingsondernemingen en de interne bewakingsdiensten.

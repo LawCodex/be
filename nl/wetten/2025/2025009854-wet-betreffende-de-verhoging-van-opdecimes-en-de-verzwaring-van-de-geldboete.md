@@ -12,7 +12,7 @@ entry_into_force: 2026-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/12/19/2025009854/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2025. - Wet betreffende de verhoging van opdecimes en de verzwaring van de geldboete voor inbreuk op het Sociaal Strafwetboek met een verzwarende factor

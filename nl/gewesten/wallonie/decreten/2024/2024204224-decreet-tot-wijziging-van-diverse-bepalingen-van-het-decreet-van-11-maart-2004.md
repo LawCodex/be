@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/25/2024204224/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2024. - Decreet tot wijziging van diverse bepalingen van het decreet van 11 maart 2004 betreffende de gewestelijke incentives ten gunste van kleine en middelgrote ondernemingen, alsook van het decreet van 11 maart 2004 betreffende de gewestelijke incentives ten gunste van de grote ondernemingen inzake investeringspremies

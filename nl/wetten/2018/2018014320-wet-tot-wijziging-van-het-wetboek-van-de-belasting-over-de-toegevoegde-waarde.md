@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/10/14/2018014320/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2018. - Wet tot wijziging van het Wetboek van de belasting over de toegevoegde waarde wat de optionele belastingheffing inzake verhuur van uit hun aard onroerende goederen betreft en tot wijziging van het koninklijk besluit nr. 20, van 20 juli 1970, tot vaststelling van de tarieven van de belasting over de toegevoegde waarde en tot indeling van de goederen en de diensten bij die tarieven wat het verlaagde btw-tarief inzake de belaste verhuur van uit hun aard onroerende goederen betreft

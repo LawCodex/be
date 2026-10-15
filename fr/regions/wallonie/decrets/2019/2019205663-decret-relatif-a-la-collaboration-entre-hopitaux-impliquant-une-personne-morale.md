@@ -13,7 +13,7 @@ entry_into_force: 2019-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/11/28/2019205663/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2019. - Décret relatif à la collaboration entre hôpitaux impliquant une personne morale de droit public soumise à la loi du 8 juillet 1976 organique des centres publics d'action sociale

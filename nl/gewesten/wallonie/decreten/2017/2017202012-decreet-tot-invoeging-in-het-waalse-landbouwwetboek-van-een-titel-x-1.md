@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/03/23/2017202012/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 19-04-2017 en tekstbijwerking tot 08-10-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2017. - Decreet tot invoeging, in het Waalse Landbouwwetboek, van een Titel X/1 betreffende de steun bij schade veroorzaakt door landbouwrampen

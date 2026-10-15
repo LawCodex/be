@@ -13,7 +13,7 @@ entry_into_force: 2007-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/06/27/2007202198/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2007. - Decreet tot wijziging van het decreet van 8 december 2005 tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn (VERTALING).

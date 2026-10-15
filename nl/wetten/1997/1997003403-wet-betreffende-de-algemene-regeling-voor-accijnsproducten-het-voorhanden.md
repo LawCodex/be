@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/06/10/1997003403/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 29-05-1999 en tekstbijwerking tot 31-12-2009"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 1997. - Wet betreffende de algemene regeling voor accijnsproducten, het voorhanden hebben en het verkeer daarvan en de controles daarop.

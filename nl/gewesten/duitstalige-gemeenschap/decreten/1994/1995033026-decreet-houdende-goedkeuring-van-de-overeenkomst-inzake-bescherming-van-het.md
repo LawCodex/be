@@ -13,7 +13,7 @@ entry_into_force: 1995-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/19/1995033026/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1994. - DECREET houdende goedkeuring van de Overeenkomst inzake bescherming van het cultureel en natuurlijk erfgoed van de wereld, gedaan te Parijs op 23 november 1972

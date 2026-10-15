@@ -12,7 +12,7 @@ entry_into_force: 2004-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/02/19/2004015044/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 FEBRUARI 2004. - Wet houdende instemming met het Verdrag inzake de strafrechtelijke bestrijding van corruptie, gedaan te Straatsburg op 27 januari 1999.

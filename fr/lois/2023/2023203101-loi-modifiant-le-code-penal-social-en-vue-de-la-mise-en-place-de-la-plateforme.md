@@ -12,7 +12,7 @@ entry_into_force: 2023-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/05/13/2023203101/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2023. - Loi modifiant le Code pénal social en vue de la mise en place de la plateforme eDossier

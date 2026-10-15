@@ -12,7 +12,7 @@ entry_into_force: 2012-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/01/16/2012003064/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JANVIER 2012. - Loi portant approbation de la quatorzième révision générale des quotes-parts des membres du Fonds monétaire international et des amendements des statuts du Fonds monétaire international, comme prévu dans la Résolution n° 66-2 du 15 décembre 2010 du Conseil des Gouverneurs du Fonds monétaire international

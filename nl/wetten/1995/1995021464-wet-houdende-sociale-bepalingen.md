@@ -12,7 +12,7 @@ entry_into_force: 1996-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/12/20/1995021464/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 1995. - Wet houdende sociale bepalingen.

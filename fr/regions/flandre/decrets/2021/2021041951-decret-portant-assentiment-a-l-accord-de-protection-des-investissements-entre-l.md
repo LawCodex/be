@@ -13,7 +13,7 @@ entry_into_force: 2021-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/05/21/2021041951/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 2021. - Décret portant assentiment à l'accord de protection des investissements entre l'Union européenne et ses Etats membres, d'une part, et la République socialiste du Vietnam, d'autre part, signé à Hanoi le 30 juin 2019

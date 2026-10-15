@@ -13,7 +13,7 @@ entry_into_force: 2014-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/03/27/2014031311/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Ordonnantie houdende instemming met : 1° de Overeenkomst tussen het Koninkrijk België en de Republiek Korea tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, ondertekend te Brussel op 29 augustus 1977, zoals gewijzigd door de Aanvullende Overeenkomst, ondertekend te Brussel op 20 april 1994, zoals gewijzigd door het Protocol, gedaan te Brussel op 8 maart 2010; en 2° het Protocol, gedaan te Brussel op 8 maart 2010, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Republiek Korea tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, ondertekend te Brussel op 29 augustus 1977, zoals gewijzigd door de Aanvullende Overeenkomst, ondertekend te Brussel op 20 april 1994

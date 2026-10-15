@@ -12,7 +12,7 @@ entry_into_force: 2014-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/08/25/2012015168/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AUGUSTUS 2012. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Staat Qatar inzake de wederzijdse bevordering en bescherming van investeringen, gedaan te Dawhaw 6 november 2007

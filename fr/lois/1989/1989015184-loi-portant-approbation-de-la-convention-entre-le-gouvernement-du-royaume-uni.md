@@ -12,7 +12,7 @@ entry_into_force: 1989-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/09/27/1989015184/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 SEPTEMBRE 1989. - Loi portant approbation de la Convention entre le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord et le Gouvernement du Royaume de Belgique tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur les gains en capital, signée à Bruxelles le 1er juin 1987.

@@ -12,7 +12,7 @@ entry_into_force: 1966-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1966/01/26/1966012607/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 1966. - Loi portant approbation du traité portant interdiction des essais d'armes nucléaires dans l'atmosphère, dans l'espace extra-atmosphérique et sous l'eau, fait à Moscou, le 5 août 1963.

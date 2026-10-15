@@ -13,7 +13,7 @@ entry_into_force: 2026-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2026/06/18/2026004582/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2026. - Ordonnantie tot invoering van het principe "agent of change" in het Brussels Wetboek van Ruimtelijke Ordening en in de Brusselse Huisvestingscode

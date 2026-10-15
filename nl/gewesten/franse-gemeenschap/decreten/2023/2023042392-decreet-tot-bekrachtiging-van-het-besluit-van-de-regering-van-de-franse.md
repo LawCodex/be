@@ -12,7 +12,7 @@ entry_into_force: 2023-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/04/27/2023042392/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2023. - Decreet tot bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van 25 augustus 2022 tot vaststelling van de overeenstemming tussen de cursussen en de ambten in het secundair kunstonderwijs met beperkt leerplan gesubsidieerd door de Franse Gemeenschap

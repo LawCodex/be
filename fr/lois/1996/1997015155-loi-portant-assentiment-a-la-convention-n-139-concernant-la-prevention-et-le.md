@@ -12,7 +12,7 @@ entry_into_force: 1997-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/09/16/1997015155/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 SEPTEMBRE 1996. - Loi portant assentiment à la Convention n° 139 concernant la prévention et le contrôle des risques professionnels causés par les substances et agents cancérigènes, adoptée à Genève le 24 juin 1974 par la Conférence internationale du travail à sa cinquante-neuvième session.

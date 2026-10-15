@@ -12,7 +12,7 @@ last_amended: 1996-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1963/04/16/1963041604/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1987 en tekstbijwerking tot 31-12-1996."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 APRIL 1963. - [Wet betreffende de controle op de N.V. Gemeentelijke Holding]. -

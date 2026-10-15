@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/12/28/1983004517/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieur à partir du 10-08-1984 et mis à jour au 23-05-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBRE 1983. - Loi portant des dispositions fiscales et budgétaires.

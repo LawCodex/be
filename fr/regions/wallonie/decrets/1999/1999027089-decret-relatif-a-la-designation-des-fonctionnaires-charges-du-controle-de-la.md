@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/04/1999027089/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 16-02-1999 et mise à jour au 07-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 1999. - Décret relatif à la désignation des fonctionnaires chargés du contrôle de la réglementation sur les transports de personnes en Région wallonne

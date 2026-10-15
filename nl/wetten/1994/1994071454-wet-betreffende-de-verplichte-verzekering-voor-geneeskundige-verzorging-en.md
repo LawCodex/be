@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/07/14/1994071454/justel"
 department: "Sociale Voorzorg"
 justel_note: "Raadpleging van vroegere versies vanaf 27-08-1994 en tekstbijwerking tot 20-10-2004"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1994. - Wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen gecoördineerd op 14 juli 1994. - DEEL 2. : BIJLAGEN en REFERENTIES.

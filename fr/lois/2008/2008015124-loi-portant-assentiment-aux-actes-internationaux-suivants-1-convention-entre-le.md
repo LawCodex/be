@@ -12,7 +12,7 @@ entry_into_force: 2010-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/19/2008015124/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2008. - Loi portant assentiment aux Actes internationaux suivants : 1° Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement du Royaume de Thaïlande sur l'entraide en matière pénale; 2° Convention entre le Royaume de Belgique et le Royaume de Thaïlande sur le transfèrement des personnes condamnées et sur la coopération dans l'application des peines, signée à Bangkok le 12 novembre 2005

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/01/31/2003035259/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-02-2003 et mise à jour au 27-11-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2003. - Décret portant création d'un propre Actif "Flanders Hydraulics" (TRADUCTION).

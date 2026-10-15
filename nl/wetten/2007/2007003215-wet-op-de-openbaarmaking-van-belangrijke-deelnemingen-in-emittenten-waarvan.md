@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/02/2007003215/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 12-06-2007 en tekstbijwerking tot 09-07-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2007. - Wet op de openbaarmaking van belangrijke deelnemingen in emittenten waarvan aandelen zijn toegelaten tot de verhandeling op een gereglementeerde markt en houdende diverse bepalingen.

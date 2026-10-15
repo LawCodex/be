@@ -13,7 +13,7 @@ entry_into_force: 2002-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/04/15/2002033054/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 AVRIL 2002. - Décret portant assentiment à l'Accord de coopération culturelle entre le Gouvernement de la République française et le Gouvernement de la Communauté germanophone de Belgique, fait à Eupen le 5 décembre 2000 (TRADUCTION).

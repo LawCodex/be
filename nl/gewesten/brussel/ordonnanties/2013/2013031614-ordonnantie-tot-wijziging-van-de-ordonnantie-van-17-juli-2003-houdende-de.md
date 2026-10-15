@@ -13,7 +13,7 @@ entry_into_force: 2013-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/07/11/2013031614/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2013. - Ordonnantie tot wijziging van de ordonnantie van 17 juli 2003 houdende de Brusselse Huisvestingscode (tekst vervangen door erratum gepubliceerd in p. 47151-47212 van B.St. van 26-07-2013)

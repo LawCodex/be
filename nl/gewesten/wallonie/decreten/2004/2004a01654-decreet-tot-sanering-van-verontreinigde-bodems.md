@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/01/2004A01654/justel"
 department: "Waalse Gewest"
 justel_note: "raadpleging van vroegere versies vanaf 07-06-2004 en tekstbijwerking tot 07-03-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2004. - Decreet tot sanering van verontreinigde bodems.

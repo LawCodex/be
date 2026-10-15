@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036491/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 04-10-2004 et mise à jour au 07-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret relatif au statut du mineur dans l'aide intégrale à la jeunesse [et dans le cadre du décret sur le droit en matière de délinquance juvénile]. (TRADUCTION) &lt;DCFL 2019-03-15/10 , art. 3, 009; En vigueur : 01-09-2019&gt;

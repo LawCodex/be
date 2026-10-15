@@ -13,7 +13,7 @@ entry_into_force: 2026-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/02/26/2026002146/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2026. - Decreet tot wijziging van de wet van 12 juli 1973 op het natuurbehoud en Boek 1 van het Milieuwetboek

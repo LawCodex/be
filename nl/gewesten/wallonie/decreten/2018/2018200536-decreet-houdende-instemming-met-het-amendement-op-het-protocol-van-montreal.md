@@ -13,7 +13,7 @@ entry_into_force: 2018-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/01/25/2018200536/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2018. - Decreet houdende instemming met het Amendement op het Protocol van Montréal betreffende stoffen die de ozonlaag afbouwen, aangenomen te Kigali op 15 oktober 2016

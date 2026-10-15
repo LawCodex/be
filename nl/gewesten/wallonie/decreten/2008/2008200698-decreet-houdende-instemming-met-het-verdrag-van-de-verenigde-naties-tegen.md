@@ -13,7 +13,7 @@ entry_into_force: 2008-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/02/21/2008200698/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2008. - Decreet houdende instemming met het Verdrag van de Verenigde Naties tegen corruptie, opgemaakt in New York, op 31 oktober 2003 (VERTALING).

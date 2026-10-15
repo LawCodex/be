@@ -12,7 +12,7 @@ entry_into_force: 1999-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/02/12/1999000140/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 1999. - Loi insérant un article 15ter dans la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour les élections des chambres fédérales, ainsi qu'au financement et à la comptabilité ouverte des partis politiques et un article 16bis dans les lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973.

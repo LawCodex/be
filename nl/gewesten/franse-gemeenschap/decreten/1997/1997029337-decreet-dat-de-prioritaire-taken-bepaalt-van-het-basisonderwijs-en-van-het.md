@@ -15,7 +15,7 @@ department: "Franse Gemeenschap"
 justel_notes:
   - "art. 79/1 tot 79/26 gewijzigd in de toekomst door DFG 2022-01-13/08 , art. 55, 076; Inwerkingtreding : 01-11-2022"
   - "Raadpleging van vroegere versies vanaf 23-09-1997 en tekstbijwerking tot 10-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1997. - Decreet dat de prioritaire taken bepaalt van het basisonderwijs en van het secundair onderwijs en de structuren organiseert die het mogelijk maken ze uit te voeren (takendecreet)

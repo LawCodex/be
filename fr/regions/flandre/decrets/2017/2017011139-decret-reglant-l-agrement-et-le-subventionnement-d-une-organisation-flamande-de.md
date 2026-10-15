@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/17/2017011139/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 21-03-2017 et mise à jour au 29-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2017. - Décret réglant l'agrément et le subventionnement d'une organisation flamande de soutien à la promotion du bien-être et à l'animation socio-éducative

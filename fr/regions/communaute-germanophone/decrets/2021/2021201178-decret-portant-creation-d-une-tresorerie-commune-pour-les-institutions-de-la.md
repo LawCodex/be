@@ -13,7 +13,7 @@ entry_into_force: 2021-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/03/01/2021201178/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2021. - Décret portant création d'une trésorerie commune pour les institutions de la Communauté germanophone

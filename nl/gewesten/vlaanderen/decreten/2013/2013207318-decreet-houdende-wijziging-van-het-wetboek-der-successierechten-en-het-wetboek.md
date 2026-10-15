@@ -13,7 +13,7 @@ entry_into_force: 2014-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/06/2013207318/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2013. - Decreet houdende wijziging van het Wetboek der Successierechten en het Wetboek der Registratie-, Hypotheek- en Griffierechten, wat het tarief inzake successie- en schenkingsrechten voor goede doelen betreft

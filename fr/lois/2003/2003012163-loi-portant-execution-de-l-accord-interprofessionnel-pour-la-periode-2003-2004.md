@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/01/2003012163/justel"
 department: "Emploi, Travail et Concertation sociale"
 justel_note: "Consultation des versions antérieures à partir du 16-05-2003 et mise à jour au 17-04-2003"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er AVRIL 2003. - Loi portant exécution de l'accord interprofessionnel pour la période 2003-2004.

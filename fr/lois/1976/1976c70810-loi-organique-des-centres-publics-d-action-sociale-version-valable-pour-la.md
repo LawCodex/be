@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1976/07/08/1976C70810/justel"
 justel_notes:
   - "Pour les versions de ce texte antérieures au 23-11-2006, voir les archives de L 1976-07-08/01 "
   - "Consultation des versions antérieures à partir du 28-12-2006 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 1976. - Loi organique des [centres publics d'action sociale] - Version valable pour la Communauté germanophone. &lt;L 2002-01-07/45 , art. 2; ED 01-02-2004&gt;

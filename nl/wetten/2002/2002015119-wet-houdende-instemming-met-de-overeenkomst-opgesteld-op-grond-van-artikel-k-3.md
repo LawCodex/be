@@ -12,7 +12,7 @@ entry_into_force: 2002-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/05/27/2002015119/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2002. - Wet houdende instemming met de Overeenkomst opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie aangaande de verkorte procedure tot uitlevering tussen de Lidstaten van de Europese Unie, gedaan te Brussel op 10 maart 1995.

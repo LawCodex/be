@@ -13,7 +13,7 @@ entry_into_force: 2019-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/26/2019030509/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2019. - Decreet houdende bekrachtiging van het besluit van de Vlaamse Regering van 1 februari 2019 betreffende de deelname van de particuliere niet-lineaire televisieomroeporganisaties aan de productie van Vlaamse audiovisuele werken

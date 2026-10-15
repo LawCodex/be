@@ -13,7 +13,7 @@ entry_into_force: 2008-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/03/2008202449/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2008. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening van de Franse Gemeenschap naar het Waalse Gewest is overgedragen, met de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Albanië, anderzijds, en de Slotakte, ondertekend in Luxemburg, op 12 juni 2006 (VERTALING).

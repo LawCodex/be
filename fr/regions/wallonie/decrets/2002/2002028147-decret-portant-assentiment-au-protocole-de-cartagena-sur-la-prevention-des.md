@@ -13,7 +13,7 @@ entry_into_force: 2002-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/13/2002028147/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2002. - Décret portant assentiment au Protocole de Cartagena sur la prévention des risques biotechnologiques relatif à la Convention sur la diversité biologique, fait à Montréal, le 29 janvier 2000.

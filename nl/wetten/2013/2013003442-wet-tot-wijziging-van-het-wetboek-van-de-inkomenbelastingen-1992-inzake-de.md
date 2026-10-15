@@ -12,7 +12,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/21/2013003442/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2013. - Wet tot wijziging van het Wetboek van de inkomenbelastingen 1992, inzake de aftrekbaarheid van gewestelijke belastingen, heffingen en retributies

@@ -12,7 +12,7 @@ entry_into_force: 2011-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/12/02/2011014311/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2011. - Wet houdende bekrachtiging van het koninklijk besluit van 12 mei 2011 houdende wijziging van het koninklijk besluit van 27 mei 2004 betreffende de omzetting van Brussels International Airport Company (BIAC) in een naamloze vennootschap van privaatrecht en betreffende de luchthaveninstallaties en van het koninklijk besluit van 12 mei 2011 houdende wijziging van het koninklijk besluit van 21 juni 2004 betreffende de toekenning van de eploitatielicentie van de luchthaven Brussel-Nationaal aan de naamloze vennootschap BIAC en tot wijziging van de wet van 13 maart 2011 houdende diverse bepalingen betreffende Mobiliteit wat de verlenging van de termijn van bekrachtiging betreft

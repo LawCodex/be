@@ -13,7 +13,7 @@ entry_into_force: 2011-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/02/25/2011201213/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 2011. - Décret ratifiant l'arrêté du Gouvernement flamand du 17 décembre 2010 portant fixation définitive d'une révision partielle du Schéma de Structure d'Aménagement de la Flandre, en ce qui concerne les modifications aux dispositions obligatoires de ce Schéma de Structure d'Aménagement de la Flandre

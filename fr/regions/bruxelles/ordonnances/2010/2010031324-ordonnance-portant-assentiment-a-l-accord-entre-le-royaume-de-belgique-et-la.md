@@ -13,7 +13,7 @@ entry_into_force: 2010-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2010/06/17/2010031324/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2010. - Ordonnance portant assentiment à : l'Accord entre le Royaume de Belgique et la République d'Albanie, la Bosnie Herzégovine, la République de Croatie, l'Ancienne République yougoslave de Macédoine, la République de Moldavie, le Monténégro, la République de Serbie et la "United Nations Interim Administration Mission in Kosovo" au nom du Kosovo conformément à la Résolution 1244 concernant les privilèges et immunités du Secrétariat du "Central European Free Trade Agreement", signé à Bruxelles le 26 juin 2008

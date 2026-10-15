@@ -11,7 +11,7 @@ date: 2005-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/20/2005029238/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2005. - Decreet houdende aanpassing van de middelenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2005. (Vertaling).

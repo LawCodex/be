@@ -13,7 +13,7 @@ entry_into_force: 2025-11-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/10/24/2025008536/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OCTOBRE 2025. - Décret modifiant le décret du 22 décembre 2017 sur l'administration locale, en ce qui concerne un parcours de remédiation après un audit judiciaire

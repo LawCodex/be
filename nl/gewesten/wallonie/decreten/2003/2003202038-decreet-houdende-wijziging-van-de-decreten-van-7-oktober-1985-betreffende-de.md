@@ -12,7 +12,7 @@ entry_into_force: 2001-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/10/22/2003202038/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2003. - Decreet houdende wijziging van de decreten van 7 oktober 1985 betreffende de bescherming van het oppervlaktewater tegen verontreiniging, van 30 april 1990 tot instelling van een belasting op het lozen van industrieel en huishoudelijk afvalwater, van 15 april 1999 betreffende de kringloop van het water en houdende oprichting van een "Société publique de Gestion de l'Eau" (Openbare maatschappij voor waterbeheer) en van 7 maart 2001 tot hervorming van de "Société wallonne des Distributions d'Eau" (Waalse maatschappij voor waterdistributie) (VERTALING).

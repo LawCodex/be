@@ -11,7 +11,7 @@ published: 2020-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/07/31/2020042506/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2020. - Wet tot wijziging van het gerechtelijk wetboek teneinde de toegang tot de juridische tweedelijnsbijstand en de rechtsbijstand te verbeteren, door de ter zake geldende inkomensmaxima te verhogen

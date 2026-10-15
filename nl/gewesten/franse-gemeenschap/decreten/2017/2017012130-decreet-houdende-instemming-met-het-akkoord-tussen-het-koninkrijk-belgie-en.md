@@ -13,7 +13,7 @@ entry_into_force: 2017-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/04/27/2017012130/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2017. - Decreet houdende instemming met het Akkoord tussen het Koninkrijk België en Bermuda inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te Brussel op 11 april 2013 en te Hamilton op 23 mei 2013

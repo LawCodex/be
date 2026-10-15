@@ -13,7 +13,7 @@ entry_into_force: 2014-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/01/30/2014031130/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2014. - Ordonnantie tot wijziging van de ordonnantie van 14 juli 2011 betreffende het gemengd beheer van de arbeidsmarkt in het Brussels Hoofdstedelijk Gewest

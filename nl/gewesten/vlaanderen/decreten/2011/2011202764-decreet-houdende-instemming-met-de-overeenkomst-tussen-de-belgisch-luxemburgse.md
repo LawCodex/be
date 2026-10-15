@@ -13,7 +13,7 @@ entry_into_force: 2011-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/05/06/2011202764/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2011. - Decreet houdende instemming met de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Regering van de Republiek Kosovo, anderzijds, inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Pristina op 9 maart 2010

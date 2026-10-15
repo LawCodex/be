@@ -12,7 +12,7 @@ entry_into_force: 2025-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/06/18/2025004777/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2025. - Loi modifiant les articles 572bis, 1179 et 1184 du Code judiciaire, la quatrième partie, livre IV, chapitre VI, du même Code, relatif aux partages et licitations, ainsi que l'article 4.101 du Code civil

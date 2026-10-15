@@ -12,7 +12,7 @@ entry_into_force: 1999-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/03/04/2003015068/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 2002. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et la Banque internationale pour la Reconstruction et le Développement sur l'Etablissement en Belgique d'un bureau de liaison de cette organisation signé à Bruxelles, le 26 avril 1999.

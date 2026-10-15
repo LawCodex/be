@@ -13,7 +13,7 @@ entry_into_force: 1995-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/11/28/1995033102/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 1994. - Décret portant assentiment à l'Accord européen établissant une Association entre les Communautés européennes et leurs Etats membres, d'une part, et la République tchèque, d'autre part, les Protocoles 1, 2, 3, 4, 5, 8, 7 et 8, les Annexes I, II, III, IV, V, VI, VII, VIII, IX, X, XIa, XIb, XII, XIII, XIV, XV, XVIa, XVIb, XVIc, XVII et l'Acte final, signés à Luxembourg le 4 octobre 1993 (TRADUCTION).

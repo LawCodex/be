@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/04/30/2009031245/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Ordonnantie ertoe strekkend een hoofdstuk V toe te voegen aan titel III van de huisvestingscode betreffende de straffen in geval van woningleegstand, tot wijziging van de ordonnantie van 12 december 1991 houdende oprichting van begrotingsfondsen en tot wijziging van het Gerechtelijke Wetboek

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/26/2019013067/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 24-06-2019 et mise à jour au 06-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2019. - Décret portant diverses dispositions concernant la politique de la mobilité, les travaux publics et le transport, la politique en matière de sécurité routière et la VVM - De Lijn

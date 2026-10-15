@@ -12,7 +12,7 @@ entry_into_force: 1997-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/11/10/1997003629/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 1997. - Loi modifiant la loi ordinaire du 16 juillet 1993 visant à achever la structure fédérale de l'Etat.

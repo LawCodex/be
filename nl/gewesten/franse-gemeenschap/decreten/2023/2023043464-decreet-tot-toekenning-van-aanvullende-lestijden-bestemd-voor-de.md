@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/22/2023043464/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 25-10-2023 en tekstbijwerking tot 09-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2023. - Decreet tot toekenning van aanvullende lestijden bestemd voor de gemeenschappelijke kern in het gewoon lager onderwijs

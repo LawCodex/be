@@ -13,7 +13,7 @@ entry_into_force: 2007-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/12/2007202389/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2007. - Decreet betreffende de inwerkingtreding van het decreet van 10 november 2006 tot wijziging van Boek I van het Milieuwetboek betreffende de evaluatie van de milieueffecten van projecten voor de periode tussen 5 mei 2005 en 4 december 2006 (VERTALING).

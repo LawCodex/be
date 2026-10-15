@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/01/18/2002035155/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 03-10-2008 et mise à jour au 17-06-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2002. - Décret relatif aux objectifs finaux, aux objectifs de développement et aux objectifs finaux spécifiques dans l'enseignement secondaire ordinaire et spécial à temps plein (TRADUCTION). (Erratum, M.B. 12-04-2002, p. 15134 - 15138)

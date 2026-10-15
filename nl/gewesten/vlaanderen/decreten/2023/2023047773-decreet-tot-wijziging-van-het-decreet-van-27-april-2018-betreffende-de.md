@@ -13,7 +13,7 @@ entry_into_force: 2023-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/11/17/2023047773/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2023. - Decreet tot wijziging van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding, wat de verwerking van persoonsgegevens door de centra voor leerlingenbegeleiding betreft

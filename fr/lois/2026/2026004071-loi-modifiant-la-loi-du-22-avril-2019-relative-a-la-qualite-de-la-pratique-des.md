@@ -12,7 +12,7 @@ entry_into_force: 2026-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/05/25/2026004071/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2026. - Loi modifiant la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé et modifiant la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé (Note: A l'exception de l'article 3, paragraphes 7 et 8, qui entrent en vigueur à la date de publication de la présente loi au Moniteur belge, les dispositions du chapitre 2 ne s'appliquent qu'aux procédures engagées par la Commission de contrôle ou les inspecteurs visés à l'article 49, § 1er, de la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé, après l'entrée en vigueur de la présente loi.)

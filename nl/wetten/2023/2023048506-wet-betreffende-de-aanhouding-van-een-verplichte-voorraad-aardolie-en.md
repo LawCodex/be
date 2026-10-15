@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/12/21/2023048506/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2023. - Wet betreffende de aanhouding van een verplichte voorraad aardolie en aardolieproducten, de aanhouding van bijkomende strategische voorraden voor de energiebevoorrading van het land in geval van een energiecrisis, het beheer van een aardoliebevoorradingscrisis en de organisatie van ASEVA

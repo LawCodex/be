@@ -13,7 +13,7 @@ entry_into_force: 2012-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/06/21/2012031539/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2012. - Ordonnance portant assentiment à l'Accord de coopération du 24 novembre 2011 entre la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune en matière de prévention et de lutte contre le dopage dans le sport

@@ -12,7 +12,7 @@ entry_into_force: 2004-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/07/2003015195/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 2003. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de Sa Majesté le Sultan et Yang Di-Pertuan du Brunei Darussalam relatif au transport aérien, et l'Annexe, faits à Bruxelles le 18 février 1994.

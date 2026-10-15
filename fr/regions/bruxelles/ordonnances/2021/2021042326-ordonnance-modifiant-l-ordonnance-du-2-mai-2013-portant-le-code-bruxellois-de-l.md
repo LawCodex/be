@@ -13,7 +13,7 @@ entry_into_force: 2021-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/06/17/2021042326/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2021. - Ordonnance modifiant l'ordonnance du 2 mai 2013 portant le Code bruxellois de l'Air, du Climat et de la Maîtrise de l'Energie ainsi que l'ordonnance organique du 23 février 2006 portant les dispositions applicables au budget, à la comptabilité et au contrôle (aussi appelée ordonnance climat)

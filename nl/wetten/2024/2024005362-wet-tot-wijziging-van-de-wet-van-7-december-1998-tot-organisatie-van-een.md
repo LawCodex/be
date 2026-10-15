@@ -12,7 +12,7 @@ entry_into_force: 2024-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/16/2024005362/justel"
 department: "Mobiliteit en Vervoer - Justitie - Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Wet tot wijziging van de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus en tot wijziging van de wet van 6 december 2005 betreffende de verdeling van een deel van de federale ontvangsten inzake verkeersveiligheid, teneinde de modaliteiten van een fusie of defusie van politiezones ook van toepassing te maken op politiezones van één gemeente en teneinde de overgangsregeling te actualiseren

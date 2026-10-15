@@ -10,7 +10,7 @@ date: 2003-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/07/03/2003003440/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2003. - Wet tot wijziging van de wet van 31 december 1983 tot hervorming der instellingen voor de Duitstalige Gemeenschap, om de vertegenwoordiging van de Duitstalige Gemeenschap door de Raad van de Duitstalige Gemeenschap in en buiten rechte te regelen.

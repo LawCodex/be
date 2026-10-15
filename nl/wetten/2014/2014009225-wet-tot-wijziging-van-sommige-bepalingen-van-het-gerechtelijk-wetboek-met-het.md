@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/10/2014009225/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 10-06-2014 en tekstbijwerking tot 16-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2014. - Wet tot wijziging van sommige bepalingen van het Gerechtelijk Wetboek met het oog op het invoeren van een nieuwe geldelijke loopbaan voor het gerechtspersoneel en van een mandatensysteem voor de hoofdgriffiers en de hoofdsecretarissen

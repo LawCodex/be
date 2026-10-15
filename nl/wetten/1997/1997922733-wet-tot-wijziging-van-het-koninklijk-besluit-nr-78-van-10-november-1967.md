@@ -12,7 +12,7 @@ entry_into_force: 1997-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/03/17/1997922733/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 1997. - Wet tot wijziging van het koninklijk besluit nr. 78 van 10 november 1967 betreffende de uitoefening van de geneeskunst, de verpleegkunde, de paramedische beroepen en de geneeskundige commissies, met het oog op de uitoefening van de klinische biologie.

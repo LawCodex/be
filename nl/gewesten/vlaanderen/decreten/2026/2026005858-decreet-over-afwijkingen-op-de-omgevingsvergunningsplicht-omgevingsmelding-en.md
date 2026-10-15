@@ -13,7 +13,7 @@ entry_into_force: 2026-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/03/2026005858/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2026. - Decreet over afwijkingen op de omgevingsvergunningsplicht, omgevingsmelding en andere toelatingen in geval van een defensiegerelateerde uitzonderingssituatie

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/03/14/2008201457/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 06-05-2008 et mise à jour au 13-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2008. - Décret portant la libération et l'échange d'informations sur les câbles et canalisations souterrains (cité comme : Décret KLIP)(TRADUCTION)

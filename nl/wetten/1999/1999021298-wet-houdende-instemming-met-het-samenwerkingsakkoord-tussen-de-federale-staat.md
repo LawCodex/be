@@ -10,7 +10,7 @@ date: 1999-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/04/1999021298/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 1999. - Wet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat en het Waalse Gewest inzake de begeleiding en behandeling van daders van seksueel misbruik.

@@ -13,7 +13,7 @@ entry_into_force: 2020-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/06/26/2020042000/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2020. - Decreet tot wijziging van het decreet van 21 juni 2013 betreffende de administratieve samenwerking op het gebied van de belastingen, wat betreft de verplichte automatische uitwisseling van inlichtingen op belastinggebied met betrekking tot meldingsplichtige grensoverschrijdende constructies

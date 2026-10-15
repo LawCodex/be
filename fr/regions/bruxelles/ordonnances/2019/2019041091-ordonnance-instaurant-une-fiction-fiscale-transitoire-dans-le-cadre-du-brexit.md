@@ -12,7 +12,7 @@ published: 2019-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/04/25/2019041091/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2019. - Ordonnance instaurant une fiction fiscale transitoire dans le cadre du Brexit

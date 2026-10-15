@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/26/2019013067/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 24-06-2019 en tekstbijwerking tot 06-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2019. - Decreet houdende diverse bepalingen over het mobiliteitsbeleid, de openbare werken en het vervoer, het verkeersveiligheidsbeleid en VVM - De Lijn

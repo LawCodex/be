@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/09/07/2023045750/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 19-01-2024 et mise à jour au 09-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBRE 2023. - Décret relatif à la sauvegarde du patrimoine culturel immatériel

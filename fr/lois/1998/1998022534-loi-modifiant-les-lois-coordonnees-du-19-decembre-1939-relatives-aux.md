@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/10/1998022534/justel"
 department: "Prévoyance Sociale - Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 15-08-1998 et mise à jour au 05-05-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 1998. - Loi modifiant les lois coordonnées du 19 décembre 1939 relatives aux allocations familiales pour travailleurs salariés

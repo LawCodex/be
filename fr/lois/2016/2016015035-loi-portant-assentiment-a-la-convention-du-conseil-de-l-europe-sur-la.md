@@ -12,7 +12,7 @@ entry_into_force: 2016-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/03/01/2016015035/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2016. - Loi portant assentiment à la Convention du Conseil de l'Europe sur la prévention et la lutte contre la violence à l'égard des femmes et la violence domestique, faite à Istanbul le 11 mai 2011

@@ -12,7 +12,7 @@ entry_into_force: 2000-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/12/15/2000003007/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 1999. - Wet houdende zesde aanpassing van de algemene uitgavenbegroting van het begrotingsjaar 1999.

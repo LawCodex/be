@@ -13,7 +13,7 @@ entry_into_force: 2003-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/21/2003031041/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2002. - Décret portant assentiment par l'Assemblée de la Commission communautaire française au Traité d'Amsterdam modifiant le Traité sur l'Union européenne, les traités instituant les Communautés européennes et certains actes annexés, à l'Annexe, aux Protocoles A, B, C et D, à l'Acte final et aux déclarations communes et unilatérales.

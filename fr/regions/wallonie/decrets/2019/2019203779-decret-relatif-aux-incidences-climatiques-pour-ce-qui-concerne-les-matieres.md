@@ -13,7 +13,7 @@ entry_into_force: 2019-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019203779/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret relatif aux incidences climatiques pour ce qui concerne les matières réglées en vertu de l'article 138 de la constitution

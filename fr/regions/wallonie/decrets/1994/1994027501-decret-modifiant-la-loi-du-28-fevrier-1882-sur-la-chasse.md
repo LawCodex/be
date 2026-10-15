@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/07/14/1994027501/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 28-09-1994 et mise à jour au 26-04-1995."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1994. - Décret modifiant la loi du 28 février 1882 sur la chasse.

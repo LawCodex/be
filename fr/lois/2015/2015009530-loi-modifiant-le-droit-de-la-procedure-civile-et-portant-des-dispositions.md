@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/10/19/2015009530/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 22-10-2015 et mise à jour au 30-05-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2015. - Loi modifiant le droit de la procédure civile et portant des dispositions diverses en matière de justice

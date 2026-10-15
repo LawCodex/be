@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/14/2017010274/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2016. - Décret-programme portant diverses mesures relatives à l'Audiovisuel et aux Médias, aux Affaires générales, aux Fonds budgétaires, aux Infrastructures culturelles, à la Culture, à l'Enfance, aux Bâtiments scolaires, à l'Enseignement supérieur et à la Recherche

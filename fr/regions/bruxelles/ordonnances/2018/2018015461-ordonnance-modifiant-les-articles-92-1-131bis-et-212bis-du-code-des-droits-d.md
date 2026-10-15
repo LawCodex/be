@@ -13,7 +13,7 @@ entry_into_force: 2018-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/12/13/2018015461/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2018. - Ordonnance modifiant les articles 92 1 , 131bis et 212bis du Code des droits d'enregistrement, d'hypothèque et de greffe et l'article 7 du Code des droits de succession

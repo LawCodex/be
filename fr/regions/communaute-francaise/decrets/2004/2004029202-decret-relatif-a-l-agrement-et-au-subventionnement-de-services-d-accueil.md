@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/12/2004029202/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 18-06-2004 et mise à jour au 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Décret relatif à l'agrément et au subventionnement de services d'accueil téléphonique des enfants. )

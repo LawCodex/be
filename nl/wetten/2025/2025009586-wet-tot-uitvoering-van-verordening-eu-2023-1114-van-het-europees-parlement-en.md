@@ -12,7 +12,7 @@ entry_into_force: 2026-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/12/11/2025009586/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2025. - Wet tot uitvoering van Verordening (EU) 2023/1114 van het Europees Parlement en de Raad van 31 mei 2023 betreffende cryptoactivamarkten en tot wijziging van Verordeningen (EU) 1093/2010 en (EU) 1095/2010 en Richtlijnen 2013/36/EU en (EU) 2019/1937, en van verordening (EU) 2023/1113 van het Europees Parlement en de Raad van 31 mei 2023 betreffende bij geldovermakingen en overdrachten van bepaalde cryptoactiva te voegen informatie en tot wijziging van Richtlijn (EU) 2015/849 en houdende diverse financiële bepalingen

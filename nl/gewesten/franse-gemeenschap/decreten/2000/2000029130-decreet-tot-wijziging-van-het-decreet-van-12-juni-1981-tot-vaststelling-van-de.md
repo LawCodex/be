@@ -13,7 +13,7 @@ entry_into_force: 2000-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/03/16/2000029130/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2000. - Decreet tot wijziging van het decreet van 12 juni 1981 tot vaststelling van de onderzoeksprocedure (VERTALING).

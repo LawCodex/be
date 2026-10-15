@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/02/09/2024001491/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2024. - Décret modifiant les articles 166, 166/1, 167, 168, 169 et 170 du décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision, en ce qui concerne les organismes régionaux de radiodiffusion télévisuelle

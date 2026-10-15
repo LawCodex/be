@@ -12,7 +12,7 @@ entry_into_force: 2018-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/06/27/2018040247/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2018. - Wet inzake de omzetting van richtlijn 2014/50/EU van het Europees Parlement en de Raad van 16 april 2014 betreffende minimumvereisten voor de vergroting van de mobiliteit van werknemers tussen de lidstaten door het verbeteren van de verwerving en het behoud van aanvullende pensioenrechten

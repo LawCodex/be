@@ -12,7 +12,7 @@ entry_into_force: 1990-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/04/18/1990015175/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 1989. - Loi portant approbation de la Convention européenne sur la violence et les débordements de spectateurs lors de manifestations sportives et notamment de matches de football, faite à Strasbourg le 19 août 1985.

@@ -12,7 +12,7 @@ entry_into_force: 2024-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/02/18/2024002078/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 2024. - Loi portant assentiment à l'accord de coopération législatif du 22 décembre 2023 entre l'état fédéral, la communauté flamande, la communauté française, la communauté germanophone, la commission communautaire commune, la région wallonne et la commission communautaire française concernant le traitement de données relatives à COBRHA+

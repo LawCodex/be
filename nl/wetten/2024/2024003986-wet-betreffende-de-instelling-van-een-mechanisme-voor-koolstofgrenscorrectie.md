@@ -12,7 +12,7 @@ entry_into_force: 2024-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/14/2024003986/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 APRIL 2024. - Wet betreffende de instelling van een mechanisme voor koolstofgrenscorrectie

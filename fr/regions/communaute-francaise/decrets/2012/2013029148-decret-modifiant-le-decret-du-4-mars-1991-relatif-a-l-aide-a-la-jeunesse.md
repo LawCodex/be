@@ -13,7 +13,7 @@ entry_into_force: 2013-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/11/29/2013029148/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2012. - Décret modifiant le décret du 4 mars 1991 relatif à l'aide à la jeunesse

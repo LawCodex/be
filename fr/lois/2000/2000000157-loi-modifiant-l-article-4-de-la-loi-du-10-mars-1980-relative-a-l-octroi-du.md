@@ -12,7 +12,7 @@ entry_into_force: 2000-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/02/10/2000000157/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2000. - Loi modifiant l'article 4 de la loi du 10 mars 1980 relative à l'octroi du titre honorifique de leurs fonctions aux bourgmestres, aux échevins et aux présidents des conseils des centres publics d'aide sociale ou des anciennes commissions d'assistance publique.

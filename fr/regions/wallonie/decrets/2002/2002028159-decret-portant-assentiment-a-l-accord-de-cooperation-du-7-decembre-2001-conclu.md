@@ -13,7 +13,7 @@ entry_into_force: 2002-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/28/2002028159/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2002. - Décret portant assentiment à l'Accord de coopération du 7 décembre 2001 conclu entre l'Etat fédéral, les Régions et la Communauté germanophone concernant le développement des services et des emplois de proximité.

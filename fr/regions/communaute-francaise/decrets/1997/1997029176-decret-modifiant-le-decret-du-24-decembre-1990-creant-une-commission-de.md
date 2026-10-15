@@ -13,7 +13,7 @@ entry_into_force: 1997-11-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/03/17/1997029176/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 1997. - Décret modifiant le décret du 24 décembre 1990 créant une Commission de surveillance de la législation sur la langue francaise.

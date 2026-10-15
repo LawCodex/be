@@ -12,7 +12,7 @@ entry_into_force: 2023-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/04/16/2023202462/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 AVRIL 2023. - Loi modifiant la loi du 8 mars 2017 créant un Conseil consultatif fédéral des Aînés

@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/14/2024006582/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 AVRIL 2024. - Loi modifiant le Code belge de la Navigation concernant le cadre juridique de la navigation intérieure

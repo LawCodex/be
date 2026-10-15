@@ -12,7 +12,7 @@ entry_into_force: 2014-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/22/2014014365/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2014. - Loi modifiant la loi du 6 avril 1995 relative à la prévention de la pollution par les navires et la loi du 20 janvier 1999 visant la protection du milieu marin et l'organisation de l'aménagement des espaces marins sous juridiction de la Belgique

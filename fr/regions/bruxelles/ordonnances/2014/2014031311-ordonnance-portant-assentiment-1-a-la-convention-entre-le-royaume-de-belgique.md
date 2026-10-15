@@ -13,7 +13,7 @@ entry_into_force: 2014-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/03/27/2014031311/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Ordonnance portant assentiment : 1° à la Convention entre le Royaume de Belgique et la République de Corée tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Bruxelles le 29 août 1977, telle que modifiée par la Convention additionnelle signée à Bruxelles le 20 avril 1994, telle que modifiée par le Protocole, fait à Bruxelles le 8 mars 2010; et 2° au Protocole, fait à Bruxelles le 8 mars 2010, modifiant la Convention entre le Royaume de Belgique et la République de Corée tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Bruxelles le 29 août 1977, telle que modifiée par la Convention additionnelle signée à Bruxelles le 20 avril 1994

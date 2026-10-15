@@ -13,7 +13,7 @@ entry_into_force: 2018-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/12/20/2018010003/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2017. - Decreet houdende instemming met het samenwerkingsakkoord van 14 juli 2017 tussen de Federale Staat, de Gemeenschappen en de Gewesten in het kader van de omzetting van richtlijn 2014/61/EU

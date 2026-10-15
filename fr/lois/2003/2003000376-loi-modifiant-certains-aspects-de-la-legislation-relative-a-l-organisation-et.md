@@ -12,7 +12,7 @@ entry_into_force: 2003-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/02/2003000376/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2003. - Loi modifiant certains aspects de la législation relative à l'organisation et au fonctionnement de la section de législation du Conseil d'Etat.

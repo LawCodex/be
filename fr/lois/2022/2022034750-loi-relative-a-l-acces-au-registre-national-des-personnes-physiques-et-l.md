@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/15/2022034750/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2022. - Loi relative à l'accès au Registre national des personnes physiques et l'utilisation du numéro du Registre national en vue de mettre en oeuvre l'administration des salaires et du personnel des autorités et institutions publiques

@@ -13,7 +13,7 @@ entry_into_force: 2020-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/16/2020203301/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2020. - Décret portant assentiment aux amendements au protocole de 1999 à la Convention de 1979 sur la pollution atmosphérique transfrontière à longue distance, relatif à la réduction de l'acidification, de l'eutrophisation et de l'ozone troposphérique, faits à Genève, le 4 mai 2012

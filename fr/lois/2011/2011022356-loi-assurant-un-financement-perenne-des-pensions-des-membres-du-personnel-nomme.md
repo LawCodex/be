@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/10/24/2011022356/justel"
 department: "Emploi, Travail et Concertation sociale - Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 03-11-2011 et mise à jour au 22-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 OCTOBRE 2011. - Loi assurant un financement pérenne des pensions des membres du personnel nommé à titre définitif des administrations provinciales et locales et des zones de police locale et modifiant la loi du 6 mai 2002 portant création du fonds des pensions de la police intégrée et portant des dispositions particulières en matière de sécurité sociale et contenant diverses dispositions modificatives

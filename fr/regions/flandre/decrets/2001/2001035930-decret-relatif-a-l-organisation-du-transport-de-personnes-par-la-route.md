@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "Ce texte est modifié par DCFL 2004-04-30/42 , art. 25 à 26, 004; En vigueur : indéterminée ; voir M.B. 08-06-2004, p. 43418"
   - "Consultation des versions antérieures à partir du 21-08-2001 et mise à jour au 24-03-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2001. - Décret relatif à l'organisation du transport de personnes par la route [...] (TRADUCTION). (Intitulé modifié par DCFL 2006-07-07/65, art. 18, 005; En vigueur : 01-10-2006)

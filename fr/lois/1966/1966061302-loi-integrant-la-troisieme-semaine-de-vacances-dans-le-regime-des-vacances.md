@@ -11,7 +11,7 @@ published: 1966-06-18
 entry_into_force: 1967-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1966/06/13/1966061302/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 1966. - Loi intégrant la troisième semaine de vacances dans le régime des vacances annuelles des travailleurs.

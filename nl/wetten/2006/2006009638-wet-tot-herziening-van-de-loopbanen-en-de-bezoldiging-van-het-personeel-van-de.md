@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/06/10/2006009638/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 24-11-2006 en tekstbijwerking tot 01-06-2007"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2006. - Wet tot herziening van de loopbanen en de bezoldiging van het personeel van de griffies en de parketsecretariaten.

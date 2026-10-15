@@ -12,7 +12,7 @@ published: 2008-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/21/2008201135/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2007. - Decreet tot oprichting van het Vlaams Onderhandelingscomité voor de basiseducatie.

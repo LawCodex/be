@@ -13,7 +13,7 @@ entry_into_force: 2023-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/23/2023030123/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2022. - Decreet tot wijziging van artikel 8.2.2 van het Energiedecreet, wat de verbouwlening voor werken aan gemene delen betreft

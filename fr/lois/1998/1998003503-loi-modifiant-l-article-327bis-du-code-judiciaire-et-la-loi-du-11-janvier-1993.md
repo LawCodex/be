@@ -12,7 +12,7 @@ entry_into_force: 1998-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/08/10/1998003503/justel"
 department: "Finances - Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1998. - Loi modifiant l'article 327bis du Code judiciaire et la loi du 11 janvier 1993 relative à la prévention de l'utilisation du système financier aux fins du blanchiment de capitaux.

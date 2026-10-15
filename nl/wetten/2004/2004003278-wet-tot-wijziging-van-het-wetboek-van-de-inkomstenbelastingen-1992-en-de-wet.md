@@ -12,7 +12,7 @@ entry_into_force: 2004-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/21/2004003278/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2004. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992 en de wet van 24 december 2002 tot wijziging van de vennootschapsregeling inzake inkomstenbelastingen en tot instelling van een systeem van voorafgaande beslissingen in fiscale zaken.

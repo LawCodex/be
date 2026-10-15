@@ -13,7 +13,7 @@ entry_into_force: 2008-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/10/29/2007033088/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OKTOBER 2007. - Decreet houdende instemming met de volgende internationale rechtshandelingen : 1) de Overeenkomst tot wijziging van de Partnerschapsovereenkomst tussen de leden van de groep van Afrika, het Caribisch gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, ondertekend te Cotonou op 23 juni 2000; 2) het Intern Akkoord tussen de vertegenwoordigers van de regeringen van de Lidstaten, in het kader van de Raad bijeen, houdende wijziging van het Intern Akkoord van 18 september 2000 inzake maatregelen en procedures voor de uitvoering van de ACS-EG-Partnerschapsovereenkomst, gedaan te Luxemburg op 10 april 2006 (VERTALING).

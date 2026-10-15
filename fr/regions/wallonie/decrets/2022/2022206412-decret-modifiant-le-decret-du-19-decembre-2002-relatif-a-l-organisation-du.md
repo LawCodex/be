@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/10/06/2022206412/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OCTOBRE 2022. - Décret modifiant le décret du 19 décembre 2002 relatif à l'organisation du marché régional du gaz et remplaçant l'article 9 du décret du 17 février 2022 modifiant les articles 2, 33bis/1, 34 et 35 du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité et insérant les articles 33bis/3 et 33bis/4

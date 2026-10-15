@@ -12,7 +12,7 @@ entry_into_force: 1999-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/08/10/1999015020/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1998. - Wet houdende instemming met het Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden inzake de afbakening van het continentaal plat, en Bijlage, en briefwisseling; en het Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden inzake de zijwaartse afbakening van de territoriale zee, ondertekend te Brussel op 18 december 1996.

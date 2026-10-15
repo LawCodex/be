@@ -12,7 +12,7 @@ entry_into_force: 2014-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/08/2014003197/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2014. - Wet tot invoeging van een artikel 36/45 in de wet van 22 februari 1998 tot vaststelling van het organiek statuut van de Nationale Bank van België

@@ -12,7 +12,7 @@ entry_into_force: 2014-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/26/2014015043/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBRE 2013. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et Saint-Christophe-et-Nevis en vue de l'échange de renseignements en matière fiscale, et au Protocole, faits à Bruxelles le 18 décembre 2009

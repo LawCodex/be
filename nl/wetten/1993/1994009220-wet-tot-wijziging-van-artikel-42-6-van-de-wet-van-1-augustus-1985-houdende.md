@@ -12,7 +12,7 @@ entry_into_force: 1994-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/07/15/1994009220/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 1993. - Wet tot wijziging van artikel 42, § 6, van de wet van 1 augustus 1985 houdende fiscale en andere bepalingen.

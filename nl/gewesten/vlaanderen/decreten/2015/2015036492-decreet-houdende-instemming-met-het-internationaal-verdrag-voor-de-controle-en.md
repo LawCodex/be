@@ -13,7 +13,7 @@ entry_into_force: 2015-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/13/2015036492/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2015. - Decreet houdende instemming met het Internationaal Verdrag voor de controle en het beheer van ballastwater en sedimenten van schepen, gedaan te Londen op 13 februari 2004

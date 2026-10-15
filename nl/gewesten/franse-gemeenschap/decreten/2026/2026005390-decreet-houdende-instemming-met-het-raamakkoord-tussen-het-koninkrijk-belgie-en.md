@@ -13,7 +13,7 @@ entry_into_force: 2026-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/09/2026005390/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2026. - Decreet houdende instemming met het Raamakkoord tussen het Koninkrijk België en het Groothertogdom Luxemburg betreffende de grensoverschrijdende samenwerking inzake gezondheidszorg, ondertekend te Brussel op 29 maart 2023

@@ -12,7 +12,7 @@ entry_into_force: 2006-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/03/27/2006021059/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2006. - Loi spéciale adaptant diverses dispositions à la nouvelle dénomination du Parlement wallon, du Parlement de la Communauté française, du Parlement de la Région de Bruxelles-Capitale, du Parlement flamand et du Parlement de la Communauté germanophone.

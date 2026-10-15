@@ -13,7 +13,7 @@ entry_into_force: 2024-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/28/2024203602/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2024. - Décret relatif au transport de dioxyde de carbone par canalisations

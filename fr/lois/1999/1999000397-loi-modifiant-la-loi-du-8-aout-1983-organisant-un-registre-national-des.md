@@ -12,7 +12,7 @@ entry_into_force: 1999-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/27/1999000397/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 1999. - Loi modifiant la loi du 8 août 1983 organisant un Registre national des personnes physiques.

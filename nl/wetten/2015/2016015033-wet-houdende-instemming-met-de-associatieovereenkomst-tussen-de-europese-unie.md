@@ -11,7 +11,7 @@ published: 2016-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/05/13/2016015033/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2015. - Wet houdende instemming met de Associatieovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en de Republiek Moldavië, anderzijds, gedaan te Brussel op 27 juni 2014

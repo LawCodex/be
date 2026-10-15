@@ -11,7 +11,7 @@ published: 1973-04-10
 entry_into_force: 1973-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1973/03/13/1973031309/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 1973. - Loi modifiant la loi du 20 avril 1874 relative à la détention préventive et complétant l'article 447 du Code d'Instruction criminelle.

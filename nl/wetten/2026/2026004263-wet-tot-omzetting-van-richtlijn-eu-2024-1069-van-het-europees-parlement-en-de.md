@@ -12,7 +12,7 @@ entry_into_force: 2026-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/05/30/2026004263/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2026. - Wet tot omzetting van Richtlijn (EU) 2024/1069 van het Europees Parlement en de Raad van 11 april 2024 betreffende bescherming van bij publieke participatie betrokken personen tegen kennelijk ongegronde vorderingen of misbruik van procesrecht ("strategische rechtszaken tegen publieke participatie")

@@ -12,7 +12,7 @@ entry_into_force: 2002-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/03/08/2002015073/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 2002. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van Macau inzake luchtvervoer, en Bijlage, ondertekend te Brussel op 16 november 1994.

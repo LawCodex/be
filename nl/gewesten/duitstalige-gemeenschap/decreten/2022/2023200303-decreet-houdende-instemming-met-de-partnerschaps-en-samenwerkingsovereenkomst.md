@@ -13,7 +13,7 @@ entry_into_force: 2023-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/12/2023200303/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2022. - Decreet houdende instemming met de Partnerschaps- en samenwerkingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Singapore, anderzijds, gedaan te Brussel op 19 oktober 2018

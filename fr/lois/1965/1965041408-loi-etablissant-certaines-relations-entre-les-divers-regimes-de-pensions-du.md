@@ -13,7 +13,7 @@ last_amended: 2026-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/14/1965041408/justel"
 justel_note: "Consultation des versions antérieures à partir du 30-05-2002 et mise à jour au 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 AVRIL 1965. - Loi établissant certaines relations entre les divers régimes de pensions du secteur public.

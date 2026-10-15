@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/07/31/2017040487/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 11-08-2017 en tekstbijwerking tot 22-03-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2017. - Wet houdende diverse financiële en fiscale bepalingen en houdende maatregelen inzake concessieovereenkomsten

@@ -11,7 +11,7 @@ date: 2017-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/10/05/2017013989/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 OKTOBER 2017. - Decreet tot wijziging van het decreet van 13 maart 2009 betreffende de overdracht van de herinnering aan misdaden van genocide, misdaden tegen de menselijkheid, oorlogsmisdaden en verzetsdaden of bewegingen die verzet boden tegen de regimes die deze misdaden hebben veroorzaakt

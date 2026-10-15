@@ -13,7 +13,7 @@ entry_into_force: 2012-11-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/10/22/2012206263/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2012. - Décret portant assentiment à l'Accord de partenariat économique entre les Etats du CARIFORUM, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, et à l'Acte final, faits à Bridgetown (la Barbade) le 15 octobre 2008

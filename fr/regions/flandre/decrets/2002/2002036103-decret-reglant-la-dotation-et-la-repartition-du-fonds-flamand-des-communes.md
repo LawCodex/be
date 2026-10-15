@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/05/2002036103/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-08-2002 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2002. - Décret réglant la dotation et la répartition du Fonds flamand des Communes. (TRADUCTION)

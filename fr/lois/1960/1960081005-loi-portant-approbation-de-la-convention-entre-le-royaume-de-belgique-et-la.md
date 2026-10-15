@@ -11,7 +11,7 @@ published: 1960-09-21
 entry_into_force: 1960-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1960/08/10/1960081005/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1960. - Loi portant approbation de la Convention entre le Royaume de Belgique et la République Francaise, relative aux pensions d'invalidité et de décès des victimes civiles de la guerre, signée à Paris, le 20 septembre 1958.

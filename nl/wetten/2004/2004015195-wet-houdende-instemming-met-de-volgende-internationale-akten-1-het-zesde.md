@@ -12,7 +12,7 @@ entry_into_force: 2005-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/09/21/2004015195/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 SEPTEMBER 2004. - Wet houdende instemming met de volgende internationale akten : 1° het Zesde Protocol ter aanvulling van de Stichtingsakte van de Wereldpostvereniging; 2° het Algemeen Reglement van de Wereldpostvereniging; 3° de Wereldpostconventie en het Slotprotocol en 4° de Overeenkomst betreffende de uitbetalingsdiensten van De Post, gedaan te Peking op 15 september 1999.

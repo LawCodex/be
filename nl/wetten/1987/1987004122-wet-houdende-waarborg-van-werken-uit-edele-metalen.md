@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1987/08/11/1987004122/justel"
 department: "Economische Zaken - Financiën - Middenstand"
 justel_note: "Raadpleging van vroegere versies vanaf 23-05-1995 en tekstbijwerking tot 24-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AUGUSTUS 1987. - Wet houdende waarborg van werken uit edele metalen.

@@ -12,7 +12,7 @@ entry_into_force: 2007-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/11/23/2007010072/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2007. - Wet tot wijziging van de wet van 8 juni 2006 houdende regeling van economische en individuele activiteiten met wapens teneinde de termijn voor de aangifte van wapenbezit te verlengen.

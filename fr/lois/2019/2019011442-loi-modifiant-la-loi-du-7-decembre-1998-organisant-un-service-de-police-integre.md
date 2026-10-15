@@ -12,7 +12,7 @@ entry_into_force: 2019-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/01/2019011442/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2019. - Loi modifiant la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux et la loi modifiant la loi du 15 mai 2007 relative à la sécurité civile, en vue de préciser les règles de compétence en matière de marchés publics applicables aux zones de police et aux zone de secours

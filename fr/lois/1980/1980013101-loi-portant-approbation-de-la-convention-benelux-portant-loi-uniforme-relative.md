@@ -11,7 +11,7 @@ published: 1980-02-20
 entry_into_force: 1980-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1980/01/31/1980013101/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 1980. - Loi portant approbation de la Convention Benelux portant loi uniforme relative à l'astreinte, et de l'Annexe (loi uniforme relative à l'astreinte), signées à La Haye le 26 novembre 1973.

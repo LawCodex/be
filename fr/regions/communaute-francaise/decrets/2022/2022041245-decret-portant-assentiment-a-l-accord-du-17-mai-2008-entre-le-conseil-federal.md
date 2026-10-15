@@ -13,7 +13,7 @@ entry_into_force: 2022-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/05/12/2022041245/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2022. - Décret portant assentiment à l'Accord du 17 mai 2008 entre le Conseil fédéral suisse et le Gouvernement de la Communauté française de Belgique dans le domaine du cinéma, tel que modifié le 24 avril 2019 par Protocole

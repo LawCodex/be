@@ -11,7 +11,7 @@ published: 2026-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/11/10/2026005085/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2025. - Wet houdende de oprichting van het Raadgevend comité voor het Goederenvervoer per Spoor

@@ -12,7 +12,7 @@ published: 2017-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/19/2017012993/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2017. - Decreet betreffende het aanbod van plaatsen in zones met demografische spanning, de subsidies in verband met schoolgebouwen, het prioritaire programma voor werken, en de subsidiëring van de inrichtingen voor leerplichtonderwijs

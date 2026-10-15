@@ -13,7 +13,7 @@ entry_into_force: 2021-09-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/14/2021032599/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2021. - Décret contenant l'ajustement du budget des dépenses de la Communauté française pour l'année budgétaire 2021

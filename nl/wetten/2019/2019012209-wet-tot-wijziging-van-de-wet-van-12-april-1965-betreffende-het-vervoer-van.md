@@ -12,7 +12,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/02/2019012209/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Wet tot wijziging van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen, van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt en van de programmawet van 27 april 2007

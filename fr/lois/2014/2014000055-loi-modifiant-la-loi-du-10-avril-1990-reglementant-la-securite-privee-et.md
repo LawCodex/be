@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/13/2014000055/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 23-01-2014 et mise à jour au 19-08-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JANVIER 2014. - Loi modifiant la loi du 10 avril 1990 réglementant la sécurité privée et particulière

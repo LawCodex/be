@@ -10,7 +10,7 @@ date: 2016-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/08/03/2016014245/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AUGUSTUS 2016. - Wet tot wijziging van het koninklijk besluit van 30 september 2005 tot aanwijzing van de overtredingen per graad van de algemene reglementen genomen ter uitvoering van de wet betreffende de politie over het wegverkeer, wat de niet-inachtneming van verkeersbord C21 betreft

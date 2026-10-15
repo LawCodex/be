@@ -13,7 +13,7 @@ entry_into_force: 1999-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/13/1999035622/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 1999. - Decreet houdende instemming met de overeenkomst tussen het koninkrijk België en het koninkrijk der Nederlanden betreffende het verdedigen van de oevers van de Westerschelde tegen inscharing, ondertekend in Brussel op 6 januari 1993.

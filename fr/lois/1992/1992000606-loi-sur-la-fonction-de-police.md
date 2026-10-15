@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1992/08/05/1992000606/justel"
 department: "Intérieur - Fonction publique - Justice"
 justel_note: "Consultation des versions antérieures à partir du 02-04-1998 et mise à jour au 27-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AOUT 1992. - Loi sur la fonction de police

@@ -13,7 +13,7 @@ entry_into_force: 2019-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/25/2019201337/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 2019. - Decreet houdende instemming met de Aanvullende overeenkomst tussen het Koninkrijk België en het Europees Ruimteagentschap bij het Verdrag tot oprichting van een Europees Ruimteagentschap, gedaan te Parijs op 30 mei 1975, over de voorrechten en immuniteiten van het Europees Ruimteagentschap in België, gedaan te Brussel op 24 mei 2017

@@ -11,7 +11,7 @@ date: 1998-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/23/1998027489/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 1998. - Decreet houdende wijziging van het decreet van 27 november 1997 tot wijziging van het Waalse Wetboek van Ruimtelijke Ordening, Stedebouw en Patrimonium (VERTALING).

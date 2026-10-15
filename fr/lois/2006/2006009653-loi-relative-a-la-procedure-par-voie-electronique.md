@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/10/2006009653/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 07-09-2006 et mise à jour au 29-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2006. - Loi relative à la procédure par voie électronique

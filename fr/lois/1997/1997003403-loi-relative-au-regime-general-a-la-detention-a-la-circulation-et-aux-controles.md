@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/06/10/1997003403/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 29-05-1999 et mise à jour au 31-12-2009"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 1997. - Loi relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis à accise.

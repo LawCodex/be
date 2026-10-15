@@ -13,7 +13,7 @@ entry_into_force: 2002-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/08/2002035547/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 2002. - Décret portant assentiment : - à l'accord entre l'Union économique belgo-luxembourgeoise et la République algérienne démocratique concernant l'encouragement et la protection réciproques des investissements, signé à Alger le 24 avril 1991, - à l'accord entre l'Union économique belgo-luxembourgeoise et la République tunisienne concernant l'encouragement et la protection réciproques des investissements, signé à Tunis le 8 janvier 1997, - à l'accord entre l'Union économique belgo-luxembourgeoise et la République arabe d'Egypte concernant l'encouragement et la protection réciproques des investissements, signé au Caire le 28 février 1999, et - à l'accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement du Royaume du Maroc concernant l'encouragement et la protection réciproques des investissements, signé à Rabat le 13 avril 1999 (TRADUCTION).

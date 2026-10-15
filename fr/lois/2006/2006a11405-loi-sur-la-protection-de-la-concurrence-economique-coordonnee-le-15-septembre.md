@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/09/15/2006A11405/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 29-09-2006 et mise à jour au 29-11-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 SEPTEMBRE 2006. - Loi sur la protection de la concurrence économique, coordonnée le 15 septembre 2006.

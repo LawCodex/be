@@ -12,7 +12,7 @@ entry_into_force: 2002-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/05/03/2002003368/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2002. - Loi modifiant le régime des incompatibilités applicable aux dirigeants d'établissements de crédit et d'entreprises d'investissement.

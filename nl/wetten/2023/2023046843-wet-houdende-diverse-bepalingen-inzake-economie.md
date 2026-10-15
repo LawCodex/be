@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/11/05/2023046843/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 11-12-2023 en tekstbijwerking tot 31-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 NOVEMBER 2023. - Wet houdende diverse bepalingen inzake economie

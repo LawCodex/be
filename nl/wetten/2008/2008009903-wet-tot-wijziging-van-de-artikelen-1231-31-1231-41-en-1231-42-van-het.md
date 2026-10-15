@@ -10,7 +10,7 @@ date: 2008-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/10/28/2008009903/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2008. - Wet tot wijziging van de artikelen 1231-31, 1231-41 en 1231-42 van het Gerechtelijk Wetboek en 24bis van de wet van 24 april 2003 tot hervorming van de adoptie, met het oog op het verlengen van de geldigheidsduur van geschiktheidsvonnissen en attesten inzake adoptie.

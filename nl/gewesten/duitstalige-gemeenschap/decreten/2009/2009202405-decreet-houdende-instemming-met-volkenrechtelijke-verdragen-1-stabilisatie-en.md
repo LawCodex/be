@@ -13,7 +13,7 @@ entry_into_force: 2009-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/27/2009202405/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2009. - Decreet houdende instemming met volkenrechtelijke verdragen : 1) Stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Montenegro, anderzijds, en de Slotakte, gedaan te Luxemburg, op 15 oktober 2007; 2) Stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Servië, anderzijds, en de Slotakte, gedaan te Luxemburg, op 29 april 2008; 3) Stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en Bosnië en Herzegovina, anderzijds, en de Slotakte, gedaan te Luxemburg, op 16 juni 2008

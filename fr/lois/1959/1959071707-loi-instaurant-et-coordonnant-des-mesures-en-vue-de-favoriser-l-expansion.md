@@ -14,7 +14,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1959/07/17/1959071707/justel"
 justel_notes:
   - "Pour la Région de Bruxelles-Capitale, abrogé par ORD 1993-07-01/31, art. 19, 002; En vigueur : 31-07-1993"
   - "pour la Région flamande, abrogé par DCFL 1993-12-15/33, art. 18, 003; En vigueur : 01-08-1991"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 1959. - Loi instaurant et coordonnant des mesures en vue de favoriser l'expansion économique et la création d'industries nouvelles.

@@ -12,7 +12,7 @@ entry_into_force: 2024-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/01/08/2023048774/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JANUARI 2024. - Wet tot wijziging van het Wetboek van vennootschappen en verenigingen wat de openbaarmaking van informatie over de inkomstenbelasting door bepaalde vennootschappen en bijkantoren betreft

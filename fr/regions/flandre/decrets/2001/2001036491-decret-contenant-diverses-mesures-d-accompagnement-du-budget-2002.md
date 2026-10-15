@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "ce texte est modifié par l'erratum paru au M.B. 14-02-2002, p. 5504 à 5518; ci-après suit le texte correct"
   - "Consultation des versions antérieures à partir du 29-12-2001 et mise à jour au 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2001. - Décret contenant diverses mesures d'accompagnement du budget 2002.

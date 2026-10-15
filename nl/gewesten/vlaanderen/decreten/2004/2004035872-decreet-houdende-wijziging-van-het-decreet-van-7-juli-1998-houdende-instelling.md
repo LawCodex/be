@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004035872/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende wijziging van het decreet van 7 juli 1998 houdende instelling van de Vlaamse Ombudsdienst, wat betreft de bescherming van ambtenaren die melding maken van onregelmatigheden.

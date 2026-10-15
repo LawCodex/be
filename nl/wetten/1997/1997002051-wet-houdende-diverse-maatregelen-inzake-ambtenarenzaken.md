@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/05/20/1997002051/justel"
 department: "Openbaar Ambt"
 justel_note: "raadpleging van vroegere versies vanaf 08-07-1997 en tekstbijwerking tot 19-02-2003"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 1997. - Wet houdende diverse maatregelen inzake ambtenarenzaken.

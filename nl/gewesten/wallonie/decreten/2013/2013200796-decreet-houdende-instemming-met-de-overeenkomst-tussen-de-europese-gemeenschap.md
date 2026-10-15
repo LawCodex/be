@@ -13,7 +13,7 @@ entry_into_force: 2013-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/01/31/2013200796/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2013. - Decreet houdende instemming met de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds, tot wijziging van de Overeenkomst inzake handel, ontwikkeling en samenwerking, gedaan te Kleinmond, Zuid-Afrika op 11 september 2009

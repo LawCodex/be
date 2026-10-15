@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/13/1995009497/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 10-06-1995 en tekstbijwerking tot 23-12-1995"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 1995. - Wet tot wijziging van de naturalisatieprocedure en van het Wetboek van de Belgische nationaliteit.

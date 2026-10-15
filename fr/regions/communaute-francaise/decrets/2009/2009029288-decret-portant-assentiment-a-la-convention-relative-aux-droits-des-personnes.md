@@ -13,7 +13,7 @@ entry_into_force: 2009-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/26/2009029288/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2009. - Décret portant assentiment à la Convention relative aux droits des personnes handicapées et au Protocole facultatif se rapportant à la Convention relative aux droits des personnes handicapées, adoptés à New York le 13 décembre 2006

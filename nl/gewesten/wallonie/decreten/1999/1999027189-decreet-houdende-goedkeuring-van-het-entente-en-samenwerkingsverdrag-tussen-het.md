@@ -13,7 +13,7 @@ entry_into_force: 1999-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/25/1999027189/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 1999. - Decreet houdende goedkeuring van het Entente- en Samenwerkingsverdrag tussen het Koninkrijk België, de Franse Gemeenschap van België, de Vlaamse Gemeenschap van België, de Duitstalige Gemeenschap van België, het Waalse Gewest van België, het Vlaamse Gewest van België, het Brussels Hoofdstedelijk Gewest van België en Oekraïne, opgemaakt te Brussel op 23 april 1997 (VERTALING).

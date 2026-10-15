@@ -12,7 +12,7 @@ entry_into_force: 2004-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/03/29/2004015074/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2004. - Loi portant assentiment à la Décision du Conseil du 25 juin 2002 et du 23 septembre 2002 modifiant l'Acte portant élection des représentants au Parlement européen au suffrage universel direct, annexé à la Décision 76/787/CECA, CEE, Euratom, et à l'Annexe.

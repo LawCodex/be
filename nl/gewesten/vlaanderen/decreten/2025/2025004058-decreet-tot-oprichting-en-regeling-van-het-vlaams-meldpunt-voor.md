@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/05/02/2025004058/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 28-05-2025 en tekstbijwerking tot 20-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2025. - Decreet tot oprichting en regeling van het Vlaams Meldpunt voor Grensoverschrijdend Gedrag

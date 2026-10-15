@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/03/04/2013003037/justel"
 department: "Begroting en Beheerscontrole"
 justel_note: "Raadpleging van vroegere versies vanaf 15-03-2013 en tekstbijwerking tot 01-09-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 2013. - Wet houdende de algemene uitgavenbegroting voor het begrotingsjaar 2013

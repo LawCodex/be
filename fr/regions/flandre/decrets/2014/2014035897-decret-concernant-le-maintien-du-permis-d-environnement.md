@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035897/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 27-08-2014 et mise à jour au 20-12-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret concernant le maintien du permis d'environnement

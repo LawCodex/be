@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/09/26/2016205129/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 SEPTEMBER 2016. - Decreet tot wijziging van het decreet van 25 mei 2009 houdende het financieel reglement van de Duitstalige Gemeenschap

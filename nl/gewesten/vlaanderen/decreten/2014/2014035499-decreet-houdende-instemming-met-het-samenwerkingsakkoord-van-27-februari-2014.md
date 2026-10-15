@@ -13,7 +13,7 @@ entry_into_force: 2014-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/04/2014035499/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2014. - Decreet houdende instemming met het Samenwerkingsakkoord van 27 februari 2014 tussen de Federale Staat, het Vlaamse Gewest, Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de oprichting van een vergunningscoördinerend en -faciliterend comité voor trans-Europese energie-infrastructuurprojecten, ter uitvoering van verordening (EU) nr. 347/2013

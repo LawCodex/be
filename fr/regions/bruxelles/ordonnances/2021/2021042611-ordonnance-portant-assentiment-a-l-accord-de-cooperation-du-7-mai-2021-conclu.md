@@ -13,7 +13,7 @@ entry_into_force: 2021-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/07/22/2021042611/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2021. - Ordonnance portant assentiment à l'accord de coopération du 7 mai 2021 conclu entre la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune modifiant l'accord de coopération du 9 décembre 2011 conclu entre la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune en matière de prévention et de lutte contre le dopage dans le sport

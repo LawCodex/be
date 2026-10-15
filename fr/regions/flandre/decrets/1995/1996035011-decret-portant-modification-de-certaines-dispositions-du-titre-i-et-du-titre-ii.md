@@ -13,7 +13,7 @@ entry_into_force: 1996-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/22/1996035011/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1995. - Décret portant modification de certaines dispositions du Titre I et du Titre II des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 25 janvier 1995 (TRADUCTION).

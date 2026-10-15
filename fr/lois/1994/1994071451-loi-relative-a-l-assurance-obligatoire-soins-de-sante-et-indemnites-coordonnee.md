@@ -22,7 +22,7 @@ justel_notes:
   - "art. 36quater et 36duodecies modifiés dans le futur pour la Région flamande avec effet à une date indéterminée par DCFL 2016-07-15/17 , art. 17 et 20; En vigueur : indéterminée "
   - "art. 22 modifié avec effet à une date indéterminée par L 2019-03-29/40 , art. 4; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 31-08-1994 et mise à jour au 07-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1994. - Loi relative à l'assurance obligatoire soins de santé et indemnités coordonnée le 14 juillet 1994. Partie 1. : TEXTE.

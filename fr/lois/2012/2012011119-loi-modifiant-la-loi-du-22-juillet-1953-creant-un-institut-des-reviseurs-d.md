@@ -12,7 +12,7 @@ entry_into_force: 2012-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/03/12/2012011119/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MARS 2012. - Loi modifiant la loi du 22 juillet 1953 créant un Institut des réviseurs d'entreprises et organisant la supervision publique de la profession de réviseur d'entreprises, coordonnée le 30 avril 2007

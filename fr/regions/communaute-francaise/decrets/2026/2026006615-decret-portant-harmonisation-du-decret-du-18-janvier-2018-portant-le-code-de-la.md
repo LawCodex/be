@@ -13,7 +13,7 @@ entry_into_force: 2026-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/09/04/2026006615/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBRE 2026. - Décret portant harmonisation du décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse avec le nouveau Code pénal du 29 février 2024

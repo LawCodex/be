@@ -12,7 +12,7 @@ entry_into_force: 2016-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/06/27/2016015102/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2016. - Loi portant assentiment à la Convention entre le Royaume de Belgique et le Grand-Duché de Luxembourg sur la coopération et l'entraide administrative en matière de sécurité sociale, faite à Bruxelles le 5 février 2015

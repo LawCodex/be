@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1946/12/30/1946123002/justel"
 justel_notes:
   - "art. 2 gewijzigd met uitwerking op een onbepaalde datum voor het Brussels Hoofdstedelijk Gewest bij ORD 2008-03-06/36 , art. 2, 004; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 08-12-1989 en tekstbijwerking tot 28-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBER 1946. - [Besluitwet betreffende het bezoldigd vervoer van personen over de weg met autobussen en met autocars.] &lt;W 29-06-1984, art. 1er&gt;

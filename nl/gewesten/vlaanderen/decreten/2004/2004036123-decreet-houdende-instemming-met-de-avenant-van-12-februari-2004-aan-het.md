@@ -13,7 +13,7 @@ entry_into_force: 2004-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004036123/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende instemming met de avenant van 12 februari 2004 aan het Samenwerkingsakkoord tussen de Staat, de Gewesten en de Duitstalige Gemeenschap van 4 juli 2000 betreffende de sociale economie, bekrachtigd door de wet van 26 juni 2001, gewijzigd door de wet van 6 mei 2003 houdende instemming met de avenant van 15 augustus 2002 aan het Samenwerkingsakkoord tussen de Staat, de Gewesten en de Duitstalige Gemeenschap van 4 juli 2000 betreffende de sociale economie.

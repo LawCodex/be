@@ -13,7 +13,7 @@ entry_into_force: 1998-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/02/19/1998027135/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEBRUARI 1998. - Decreet houdende wijziging, wat het Waalse Gewest betreft, van het koninklijk besluit nr. 83 van 28 november 1939 betreffende het opsporen en het ontginnen van bitumineuze gesteenten, van petroleum en van brandbare gassen, bekrachtigd bij de wet van 16 juni 1947 (VERTALING).

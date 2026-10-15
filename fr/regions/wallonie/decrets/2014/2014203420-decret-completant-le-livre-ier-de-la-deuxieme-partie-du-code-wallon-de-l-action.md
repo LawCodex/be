@@ -13,7 +13,7 @@ entry_into_force: 2014-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/28/2014203420/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2014. - Décret complétant le Livre Ier de la deuxième partie du Code wallon de l'Action sociale et de la Santé, relatif à l'aide aux gens du voyage

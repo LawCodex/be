@@ -13,7 +13,7 @@ entry_into_force: 2017-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/01/2017203058/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2017. - Decreet tot wijziging van de artikelen L4124-1, L4135-3 en L4142-7 van het Wetboek van de Plaatselijke Democratie en de Decentralisatie wat betreft de organisatie van de gemeenteraadsverkiezingen

@@ -12,7 +12,7 @@ entry_into_force: 2005-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/26/2005009380/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2005. - Loi modifiant les articles 53, § 6, et 54bis de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire et insérant dans celle-ci un article 54ter et un article 66bis.

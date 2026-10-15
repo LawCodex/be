@@ -12,7 +12,7 @@ entry_into_force: 1996-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/07/10/1996003350/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 1996. - Wet houdende aanpassing van de Rijksmiddelenbegroting voor het begrotingsjaar 1996.

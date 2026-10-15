@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/18/2004200246/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 21-12-2011 en tekstbijwerking tot 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2003. - Programmadecreet houdende verschillende maatregelen inzake thesaurie en schuld, sociale actie en gezondheid (VERTALING)

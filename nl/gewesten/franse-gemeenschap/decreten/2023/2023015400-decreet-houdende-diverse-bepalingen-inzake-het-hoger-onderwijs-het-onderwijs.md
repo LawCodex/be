@@ -11,7 +11,7 @@ date: 2023-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/05/25/2023015400/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2023. - Decreet houdende diverse bepalingen inzake het hoger onderwijs, het onderwijs voor sociale promotie en de universitaire ziekenhuizen

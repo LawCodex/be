@@ -12,7 +12,7 @@ entry_into_force: 2002-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/05/14/2000015128/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MEI 2000. - Wet houdende instemming met de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Republiek Slovenië inzake de wederzijdse bevordering en bescherming van investeringen, gedaan te Ljubljana op 1 februari 1999.

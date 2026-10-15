@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/17/1998035127/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 10-07-1999 et mise à jour au 30-06-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 1997. - Décret modifiant la loi du 8 juillet 1976 organique des centres publics d'Aide sociale (TRADUCTION).

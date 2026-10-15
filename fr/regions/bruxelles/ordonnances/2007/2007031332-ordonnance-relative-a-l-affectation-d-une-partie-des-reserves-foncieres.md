@@ -13,7 +13,7 @@ entry_into_force: 2007-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2007/07/19/2007031332/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2007. - Ordonnance relative à l'affectation d'une partie des réserves foncières régionales à certains équipements.

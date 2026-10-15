@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/12/2019012931/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 21-06-2019 et mise à jour au 12-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2019. - Loi portant création d'un Institut fédéral pour la protection et la promotion des droits humains

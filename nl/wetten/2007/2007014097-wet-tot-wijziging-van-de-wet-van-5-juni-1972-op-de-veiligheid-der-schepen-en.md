@@ -12,7 +12,7 @@ entry_into_force: 2007-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/01/22/2007014097/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 2007. - Wet tot wijziging van de wet van 5 juni 1972 op de veiligheid der schepen en van de wet van 30 juli 1926 tot instelling van een onderzoeksraad voor de scheepvaart.

@@ -13,7 +13,7 @@ entry_into_force: 2023-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/23/2023040582/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2022. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschap en het Waalse Gewest betreffende de creatie van opvangplaatsen voor jonge kinderen

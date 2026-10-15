@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/12/21/2007003613/justel"
 department: "Finances"
 justel_note: "par son arrêt n° 116/2011 du 30-06-2011 (M.B. 11-08-2011, p. 45813-45817), la Cour constitutionnelle a annulé la présente loi, mais elle maintient les effets de cette loi jusqu'au 21 décembre 2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2007. - Loi modifiant la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes, pour ce qui est de l'appartenance sexuelle en matière d'assurance.}

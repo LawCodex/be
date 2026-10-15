@@ -13,7 +13,7 @@ entry_into_force: 1999-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/13/1999035595/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 1999. - Décret spécial relatif aux conditions et aux modalités de création d'organes territoriaux intracommunaux (TRADUCTION).

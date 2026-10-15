@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/02/12/2004200850/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 15-07-2008 en tekstbijwerking tot 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2004. - Decreet tot organisatie van de Waalse provincies (VERTALING)

@@ -12,7 +12,7 @@ entry_into_force: 1999-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/08/04/1999015088/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AUGUSTUS 1996. - Wet houdende instemming met het Protocol tussen de regering van het Koninkrijk België en de regering van de Franse Republiek betreffende het kraamgeld, ondertekend te Brussel op 26 april 1993

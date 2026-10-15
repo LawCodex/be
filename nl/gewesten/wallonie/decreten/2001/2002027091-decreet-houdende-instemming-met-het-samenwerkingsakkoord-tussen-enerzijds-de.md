@@ -13,7 +13,7 @@ entry_into_force: 2002-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/20/2002027091/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2001. - Decreet houdende instemming met het Samenwerkingsakkoord tussen, enerzijds, de Regering van de Republiek Benin en, anderzijds, de Regering van de Franse Gemeenschap van België, de Regering van het Waalse Gewest en het College van de Franse Gemeenschapscommissie van het Brusselse Hoofdstedelijke Gewest, opgemaakt te Brussel, op 28 januari 1999 (VERTALING).

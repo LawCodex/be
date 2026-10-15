@@ -13,7 +13,7 @@ entry_into_force: 2008-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/27/2008202891/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2008. - Décret portant assentiment au Protocole d'amendement (amendements à la Convention portant création du Centre européen pour les prévisions météorologiques à moyen terme ainsi qu'au Protocole sur les privilèges et immunités du Centre européen pour les prévisions météorologiques à moyen terme, signés à Bruxelles, le 11 octobre 1973), adopté le 22 avril 2005 (TRADUCTION).

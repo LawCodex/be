@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/17/2004029036/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-01-2004 en tekstbijwerking tot 17-01-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2003. - Programmadecreet houdende verscheidene maatregelen inzake begrotingsfondsen, inning van schuldvorderingen, de RTBF, de deskundigen en commissarissen der rekeningen van de Regering, de " Ecole d'Administration publique " (School voor Overheidsbestuur) van de Franse Gemeenschap, het ETNIC, de vervreemding van onroerende domeingoederen die tot de Franse Gemeenschap behoren, de universitaire instellingen, de statuten van het onderwijspersoneel, het onderwijs, de psycho-medisch-sociale centra, de vakantiecentra, de sport, de permanente opvoeding en de culturele infrastructuren. (Vertaling)

@@ -13,7 +13,7 @@ entry_into_force: 2024-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/29/2024003728/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2024. - Decreet tot wijziging van het decreet van 24 januari 2003 houdende bescherming van het roerend cultureel erfgoed van uitzonderlijk belang, wat betreft een recht van voorkoop voor roerend cultureel erfgoed, en het Onroerenderfgoeddecreet van 12 juli 2013, wat betreft de bescherming van topstukken die beschermd zijn door de monumentenwetgeving

@@ -13,7 +13,7 @@ entry_into_force: 2013-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/17/2022020342/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2022. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et l'Organisation des Nations Unies pour l'éducation, la science et la culture (UNESCO) sur l'établissement en Belgique par cette organisation d'un bureau de liaison auprès des institutions de l'Union européenne, avec Annexe, faits à Paris le 3 juillet 2013

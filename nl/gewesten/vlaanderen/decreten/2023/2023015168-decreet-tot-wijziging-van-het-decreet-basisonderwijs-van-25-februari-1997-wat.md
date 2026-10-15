@@ -13,7 +13,7 @@ entry_into_force: 2023-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/02/03/2023015168/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEBRUARI 2023. - Decreet tot wijziging van het decreet basisonderwijs van 25 februari 1997, wat betreft de rol van de centra voor leerlingenbegeleiding

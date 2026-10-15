@@ -12,7 +12,7 @@ entry_into_force: 2022-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/05/18/2022203341/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2022. - Wet tot bevordering van de integratie van de begunstigden van het tijdelijk beschermingsstatuut

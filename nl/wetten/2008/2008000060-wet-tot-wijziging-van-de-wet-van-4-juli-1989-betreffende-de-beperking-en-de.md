@@ -12,7 +12,7 @@ entry_into_force: 2008-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/01/18/2008000060/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2008. - Wet tot wijziging van de wet van 4 juli 1989 betreffende de beperking en de controle van de verkiezingsuitgaven voor de verkiezingen van de federale Kamers, de financiering en de open boekhouding van de politieke partijen, wat de voor de uitoefening van de bevoegdheden van de Controlecommissie gestelde termijnen betreft.

@@ -13,7 +13,7 @@ entry_into_force: 2014-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/04/03/2014031338/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2014. - Ordonnance portant assentiment à l'Accord de coopération du 31 janvier 2014 entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'introduction du système de prélèvement kilométrique sur le territoire des trois Régions et à la construction d'un Partenariat interrégional de droit public ViaPass sous forme d'une institution commune telle que visée à l'article 92bis, § 1er, de la loi spéciale du 8 août 1980 de réformes institutionnelles

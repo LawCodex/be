@@ -12,7 +12,7 @@ entry_into_force: 2013-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/15/2014007250/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2014. - Wet tot wijziging van de wet van 28 februari 2007 tot vaststelling van het statuut van de militairen en kandidaat-militairen van het actief kader van de krijgsmacht wat de maximumleeftijd van bepaalde aanvullingsonderofficieren voor deelname aan cursussen betreft

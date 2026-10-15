@@ -13,7 +13,7 @@ entry_into_force: 2000-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/05/1999029514/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 1999. - Décret portant approbation de l'accord de coopération relatif à la coordination et à la gestion des aides octroyées par la Commission européenne dans le domaine des ressources humaines et à la création de l'Agence Fonds Social Européen, conclu à Bruxelles le 2 septembre 1998 entre le Gouvernement wallon, le Gouvernement de la Communauté française et la Commission communautaire française de la Région de Bruxelles-Capitale.

@@ -13,7 +13,7 @@ entry_into_force: 2024-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/25/2024203497/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2024. - Décret modifiant le décret du 6 novembre 2008 portant rationalisation de la fonction consultative, et créant un Conseil wallon de lutte contre le racisme pour les matières réglées en vertu de l'article 138 de la Constitution

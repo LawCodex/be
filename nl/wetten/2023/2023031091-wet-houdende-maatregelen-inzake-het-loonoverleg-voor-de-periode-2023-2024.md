@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/05/24/2023031091/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 31-05-2023 en tekstbijwerking tot 19-04-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 2023. - Wet houdende maatregelen inzake het loonoverleg voor de periode 2023-2024

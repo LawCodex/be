@@ -13,7 +13,7 @@ entry_into_force: 2018-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/05/31/2018012501/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2018. - Ordonnantie tot wijziging van de ordonnantie van 23 maart 2017 houdende de oprichting van de bicommunautaire Dienst voor Gezondheid, Bijstand aan Personen en Gezinsbijslag

@@ -13,7 +13,7 @@ entry_into_force: 2001-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/02/15/2001027107/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2001. - Decreet houdende wijziging van het decreet van 27 juni 1996 betreffende de afvalstoffen en het decreet van 11 maart 1999 betreffende de milieuvergunning (VERTALING).

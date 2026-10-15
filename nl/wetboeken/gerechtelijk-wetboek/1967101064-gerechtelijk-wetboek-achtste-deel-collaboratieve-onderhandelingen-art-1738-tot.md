@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1967/10/10/1967101064/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 02-07-2018 en tekstbijwerking tot 29-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 1967. - Gerechtelijk Wetboek. - ACHTSTE DEEL : Collaboratieve onderhandelingen (art. 1738 tot en met 1747)

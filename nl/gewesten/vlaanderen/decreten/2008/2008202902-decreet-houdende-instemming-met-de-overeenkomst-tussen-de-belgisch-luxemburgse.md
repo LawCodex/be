@@ -12,7 +12,7 @@ published: 2008-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/20/2008202902/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2008. - Decreet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Republiek Korea inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Brussel, op 12 december 2006.

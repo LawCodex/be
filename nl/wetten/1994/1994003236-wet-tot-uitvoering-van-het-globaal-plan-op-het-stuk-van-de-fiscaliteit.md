@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/03/30/1994003236/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 31-03-1994 en tekstbijwerking tot 12-05-2003"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 1994. - Wet tot uitvoering van het globaal plan op het stuk van de fiscaliteit.

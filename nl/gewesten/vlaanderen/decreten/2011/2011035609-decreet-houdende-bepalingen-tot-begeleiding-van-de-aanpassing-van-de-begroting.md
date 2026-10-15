@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/08/2011035609/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 25-07-2011 en tekstbijwerking tot 07-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2011. - Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2011

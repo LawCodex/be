@@ -12,7 +12,7 @@ entry_into_force: 2017-11-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/11/21/2017014119/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2017. - Loi contenant le deuxième ajustement du budget général des dépenses pour l'année budgétaire 2017

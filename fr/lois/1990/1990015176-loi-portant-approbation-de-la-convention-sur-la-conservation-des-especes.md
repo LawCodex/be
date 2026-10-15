@@ -12,7 +12,7 @@ entry_into_force: 1991-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/04/27/1990015176/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 1990. - Loi portant approbation de la Convention sur la conservation des espèces migratrices appartenant à la faune sauvage, et des Annexes I et II, faites à Bonn le 23 juin 1979.

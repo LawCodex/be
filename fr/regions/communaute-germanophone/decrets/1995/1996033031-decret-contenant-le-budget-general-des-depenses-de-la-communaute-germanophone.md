@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/21/1996033031/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 24-05-1996 et mise à jour au 28-05-1997."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 1995. - Décret contenant le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 1996 (TRADUCTION). -

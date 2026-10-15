@@ -12,7 +12,7 @@ entry_into_force: 2019-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/02/28/2019040712/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2019. - Wet tot wijziging van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen, wat de klinische netwerking tussen ziekenhuizen betreft

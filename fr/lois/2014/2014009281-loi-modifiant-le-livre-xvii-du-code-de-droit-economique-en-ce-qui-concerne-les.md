@@ -12,7 +12,7 @@ entry_into_force: 2014-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/15/2014009281/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2014. - Loi modifiant le livre XVII du Code de droit économique en ce qui concerne les personnes exerçant une profession libérale

@@ -13,7 +13,7 @@ entry_into_force: 2018-10-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/10/17/2018014407/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OCTOBRE 2018. - Décret portant dérogation à l'obligation régionale d'autorisation en situation d'urgence civile

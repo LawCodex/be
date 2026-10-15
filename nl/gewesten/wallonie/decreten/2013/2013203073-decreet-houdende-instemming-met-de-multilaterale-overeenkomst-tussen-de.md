@@ -13,7 +13,7 @@ entry_into_force: 2013-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/05/16/2013203073/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2013. - Decreet houdende instemming met de Multilaterale Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, de Republiek Albanië, de voormalige Joegoslavische Republiek Macedonië, Bosnië en Herzegovina, de Republiek Bulgarije, de Republiek Kroatië, de Republiek IJsland, de Republiek Montenegro, het Koninkrijk Noorwegen, Roemenië, de Republiek Servië en de Missie van de Verenigde Naties voor interimbestuur in Kosovo betreffende de totstandbrenging van een Europese Gemeenschappelijke Luchtvaartruimte, gedaan te Luxemburg op 9 juni 2006

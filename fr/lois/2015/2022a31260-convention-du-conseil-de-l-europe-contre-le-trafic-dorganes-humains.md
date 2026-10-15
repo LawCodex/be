@@ -12,7 +12,7 @@ entry_into_force: 2022-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/03/25/2022A31260/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2015. - Convention du Conseil de l'Europe contre le trafic dorganes humains

@@ -12,7 +12,7 @@ entry_into_force: 2018-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/11/25/2018014993/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2018. - Wet tot omzetting in Belgisch recht van de Richtlijn 2017/1564/EU van het Europees Parlement en de Raad van 13 september 2017 inzake bepaalde toegestane vormen van gebruik van bepaalde werken en ander materiaal die door het auteursrecht en naburige rechten beschermd zijn ten behoeve van personen die blind zijn, visueel gehandicapt of anderszins een leeshandicap hebben, en tot wijziging van Richtlijn 2001/29/EG betreffende de harmonisatie van bepaalde aspecten van het auteursrecht en de naburige rechten in de informatiemaatschappij

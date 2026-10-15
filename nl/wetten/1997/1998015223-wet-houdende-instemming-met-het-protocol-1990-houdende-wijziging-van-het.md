@@ -12,7 +12,7 @@ entry_into_force: 1998-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/08/29/1998015223/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AUGUSTUS 1997. - Wet houdende instemming met het Protocol 1990 houdende wijziging van het Verdrag betreffende het Internationale Spoorwegvervoer (COTIF) van 9 mei 1980, gedaan te Bern op 20 december 1990.

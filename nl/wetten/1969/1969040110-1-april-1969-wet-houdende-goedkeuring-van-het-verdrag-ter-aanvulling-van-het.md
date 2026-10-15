@@ -11,7 +11,7 @@ published: 1969-05-08
 entry_into_force: 1969-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1969/04/01/1969040110/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 1969. \_ Wet houdende goedkeuring van het Verdrag ter aanvulling van het Verdrag van Warschau, tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer verricht door een ander dan de contractuele vervoerder, opgemaakt te Guadalajara op 18 september 1961.

@@ -12,7 +12,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/09/17/2005022826/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBER 2005. - Wet houdende invoering van een egalisatiebijdrage voor pensioenen.

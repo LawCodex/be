@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/12/20/1996036584/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-1996 en tekstbijwerking tot 28-02-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 1996. - Decreet houdende bepalingen tot begeleiding van de begroting 1997.

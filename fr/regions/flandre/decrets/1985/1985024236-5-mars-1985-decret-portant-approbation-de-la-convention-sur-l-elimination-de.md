@@ -13,7 +13,7 @@ entry_into_force: 1985-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1985/03/05/1985024236/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 1985. \_ Décret portant approbation de la Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes, établie à New York le 18 décembre 1979.

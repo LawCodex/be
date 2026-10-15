@@ -11,7 +11,7 @@ entry_into_force: 2018-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/09/11/2018031938/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 SEPTEMBER 2015. - Wet houdende instemming met het Akkoord tussen het Koninkrijk België en Bermuda inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te Brussel op 11 april 2013 en te Hamilton op 23 mei 2013

@@ -13,7 +13,7 @@ entry_into_force: 2022-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/07/06/2022015325/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2022. - Ordonnance modifiant les articles 8, 17, 37, 38, 40 et 42 du Code des droits de succession

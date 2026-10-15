@@ -13,7 +13,7 @@ entry_into_force: 2015-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/12/04/2014029804/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2014. - Décret portant assentiment à l'Accord fait à Bruxelles le 23 octobre 2009, entre le Gouvernement du Royaume de Belgique et le Gouvernement de la Principauté d'Andorre en vue de l'échange de renseignements en matière fiscale

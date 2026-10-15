@@ -13,7 +13,7 @@ entry_into_force: 1997-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/02/20/1997027129/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 1997. - Decreet houdende goedkeuring van het Verdrag inzake verstandhouding en samenwerking tussen het Koninkrijk België en de Russische Federatie, opgemaakt te Brussel op 8 december 1993. (VERTALING).

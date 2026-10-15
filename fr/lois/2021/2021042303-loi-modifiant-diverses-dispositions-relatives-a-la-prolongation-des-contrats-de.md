@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/04/2021042303/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUIN 2021. - Loi modifiant diverses dispositions relatives à la prolongation des contrats de fourniture d'énergie des clients résidentiels et des PME

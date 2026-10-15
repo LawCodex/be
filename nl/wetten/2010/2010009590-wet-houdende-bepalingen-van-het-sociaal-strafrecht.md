@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/06/02/2010009590/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 01-07-2010 en tekstbijwerking tot 01-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2010. - Wet houdende bepalingen van het sociaal strafrecht

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/10/2023030839/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 14-04-2023 et mise à jour au 06-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2023. - Décret relatif au subventionnement de l'animation socioculturelle des adultes

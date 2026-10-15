@@ -12,7 +12,7 @@ entry_into_force: 2000-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/03/12/2000011096/justel"
 department: "Affaires économiques - Communications"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MARS 2000. - Loi réprimant certaines fraudes relatives au kilométrage des véhicules.

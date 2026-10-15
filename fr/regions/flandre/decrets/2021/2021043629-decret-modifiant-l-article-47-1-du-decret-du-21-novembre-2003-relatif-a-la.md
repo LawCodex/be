@@ -12,7 +12,7 @@ published: 2021-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/23/2021043629/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2021. - Décret modifiant l'article 47/1 du décret du 21 novembre 2003 relatif à la politique de santé préventive et prorogeant le décret du 29 mai 2020 portant organisation du suivi des contacts central par une structure de coopération de partenaires externes, du suivi des contacts local par les administrations locales ou les conseils des soins et portant organisation des équipes COVID-19 dans le cadre du COVID-19

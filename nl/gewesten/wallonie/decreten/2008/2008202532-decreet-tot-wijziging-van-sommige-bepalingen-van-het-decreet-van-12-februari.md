@@ -13,7 +13,7 @@ entry_into_force: 2008-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/03/2008202532/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2008. - Decreet tot wijziging van sommige bepalingen van het decreet van 12 februari 2004 tot organisatie van de Waalse provincies en van het Wetboek van de plaatselijke democratie en de decentralisatie (VERTALING).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/11/26/2018015046/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 04-12-2018 en tekstbijwerking tot 30-11-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2018. - Wet tot wijziging van het Wetboek van de belasting over de toegevoegde waarde wat de automatisering van de uitvoerbare titel inzake de belasting over de toegevoegde waarde betreft

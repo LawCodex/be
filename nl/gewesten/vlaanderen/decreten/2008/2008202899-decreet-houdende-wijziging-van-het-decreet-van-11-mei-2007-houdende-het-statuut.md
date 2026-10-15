@@ -13,7 +13,7 @@ entry_into_force: 2008-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/04/2008202899/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2008. - Decreet houdende wijziging van het decreet van 11 mei 2007 houdende het statuut van de sportschutter, wat het toepassingsgebied betreft.

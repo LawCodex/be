@@ -12,7 +12,7 @@ entry_into_force: 2010-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/02/04/2010009144/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2010. - Wet betreffende de methoden voor het verzamelen van gegevens door de inlichtingen- en veiligheidsdiensten

@@ -13,7 +13,7 @@ entry_into_force: 2005-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/08/2005035867/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2005. - Décret spécial modifiant le décret spécial du 6 juillet 2001 réglant le droit de présenter des requêtes au Parlement flamand. (Traduction).

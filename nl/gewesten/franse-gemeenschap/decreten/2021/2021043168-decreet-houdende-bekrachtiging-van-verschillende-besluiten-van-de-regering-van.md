@@ -13,7 +13,7 @@ entry_into_force: 2021-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/28/2021043168/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2021. - Decreet houdende bekrachtiging van verschillende besluiten van de regering van de Franse Gemeenschap van bijzondere machten inzake leerplichtonderwijs overeenkomstig artikel 3, eerste lid, van het decreet van 14 november 2020 houdende toekenning van bijzondere machten aan de regering om het hoofd te bieden aan de tweede golf van de COVID-19-gezondheidscrisis en houdende diverse maatregelen met betrekking tot de organisatie van het einde van het schooljaar 2020-2021

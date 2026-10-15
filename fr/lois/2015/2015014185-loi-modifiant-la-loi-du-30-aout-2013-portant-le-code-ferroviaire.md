@@ -12,7 +12,7 @@ entry_into_force: 2015-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/06/15/2015014185/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2015. - Loi modifiant la loi du 30 août 2013 portant le Code ferroviaire

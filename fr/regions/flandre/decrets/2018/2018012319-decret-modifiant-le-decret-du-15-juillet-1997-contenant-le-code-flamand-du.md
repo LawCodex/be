@@ -13,7 +13,7 @@ entry_into_force: 2018-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/04/2018012319/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2018. - Décret modifiant le décret du 15 juillet 1997 contenant le code flamand du Logement, en ce qui concerne le droit de préemption et le droit de gestion sociale, et modifiant diverses dispositions du décret du 27 mars 2009 relatif à la politique foncière et immobilière

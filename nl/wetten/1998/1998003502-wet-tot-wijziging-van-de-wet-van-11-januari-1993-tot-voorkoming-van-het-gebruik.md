@@ -12,7 +12,7 @@ entry_into_force: 1998-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/08/10/1998003502/justel"
 department: "Financiën - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1998. - Wet tot wijziging van de wet van 11 januari 1993 tot voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld en van de wet van 6 april 1995 inzake de secundaire markten, het statuut van en het toezicht op de beleggingsondernemingen, de bemiddelaars en beleggingsadviseurs.

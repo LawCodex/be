@@ -11,7 +11,7 @@ published: 2006-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/08/05/2006009658/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 AUGUSTUS 2006. - Wet tot wijziging van de wet van 16 juli 1970 tot vaststelling van de personeelsformatie van de politierechtbanken, van de wet van 13 juni 2006 tot wijziging van de wetgeving betreffende de jeugdbescherming en het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en van de wet van 17 mei 2006 houdende oprichting van strafuitvoeringsrechtbanken.

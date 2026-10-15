@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/05/06/2010202827/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 20-03-2024 et mise à jour au 20-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2010. - Décret créant un Fonds budgétaire pour la promotion et le développement de l'activité hippique

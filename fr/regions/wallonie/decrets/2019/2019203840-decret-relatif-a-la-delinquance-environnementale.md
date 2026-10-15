@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/06/2019203840/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 28-08-2019 et mise à jour au 21-12-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2019. - Décret relatif à la délinquance environnementale

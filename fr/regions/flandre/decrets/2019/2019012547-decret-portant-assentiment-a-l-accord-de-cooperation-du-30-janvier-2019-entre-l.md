@@ -13,7 +13,7 @@ entry_into_force: 2019-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019012547/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Décret portant assentiment à l'accord de coopération du 30 janvier 2019 entre l'Etat fédéral, les Communautés et les Régions relatif à la prévention et à la gestion de l'introduction et de la propagation des espèces exotiques envahissantes

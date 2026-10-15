@@ -12,7 +12,7 @@ entry_into_force: 2014-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/27/2014014284/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2014. - Wet tot instemming met bepaalde wijzigingen van verscheidene internationale akten aangenomen onder de auspiciën van de Internationale Maritieme Organisatie

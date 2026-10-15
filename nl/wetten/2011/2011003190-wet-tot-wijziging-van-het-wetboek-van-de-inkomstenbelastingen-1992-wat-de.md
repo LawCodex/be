@@ -12,7 +12,7 @@ entry_into_force: 2010-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/04/28/2011003190/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2011. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992 wat de vrijstelling van doorstorting van de ingehouden bedrijfsvoorheffing voor bezoldigingen van sportbeoefenaars betreft

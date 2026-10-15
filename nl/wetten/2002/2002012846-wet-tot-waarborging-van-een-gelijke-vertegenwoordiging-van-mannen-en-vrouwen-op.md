@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/06/17/2002012846/justel"
 department: "Tewerkstelling en Arbeid"
 justel_note: "Raadpleging van vroegere versies vanaf 28-08-2002 en tekstbijwerking tot 17-04-2003."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2002. - Wet tot waarborging van een gelijke vertegenwoordiging van mannen en vrouwen op de kandidatenlijsten voor de verkiezingen van het Europees Parlement. -

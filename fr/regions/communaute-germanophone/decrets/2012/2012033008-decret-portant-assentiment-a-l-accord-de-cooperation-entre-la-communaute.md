@@ -13,7 +13,7 @@ entry_into_force: 2012-09-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/25/2012033008/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2012. - Décret portant assentiment à l'accord de coopération entre la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune en matière de prévention et de lutte contre le dopage dans le sport, fait à Bruxelles le 9 décembre 2011

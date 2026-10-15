@@ -12,7 +12,7 @@ entry_into_force: 2020-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/16/2020041891/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2020. - Loi relative au transport de membres du personnel industriel à bord de navires

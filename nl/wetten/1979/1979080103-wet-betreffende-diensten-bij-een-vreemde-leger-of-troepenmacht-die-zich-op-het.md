@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1979/08/01/1979080103/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 23-06-2003 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AUGUSTUS 1979. - Wet betreffende diensten bij een vreemde leger- of troepenmacht die zich op het grondgebied van een vreemde Staat bevindt. -

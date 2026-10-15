@@ -13,7 +13,7 @@ entry_into_force: 2019-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/01/2019040739/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2019. - Decreet houdende wijziging van het decreet van 14 juli 1993 tot oprichting van het Grindfonds en tot regeling van de grindwinning

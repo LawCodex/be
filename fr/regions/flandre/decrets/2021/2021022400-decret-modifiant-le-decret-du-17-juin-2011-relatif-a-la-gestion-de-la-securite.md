@@ -13,7 +13,7 @@ entry_into_force: 2021-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/22/2021022400/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2021. - Décret modifiant le décret du 17 juin 2011 relatif à la gestion de la sécurité routière de l'infrastructure routière

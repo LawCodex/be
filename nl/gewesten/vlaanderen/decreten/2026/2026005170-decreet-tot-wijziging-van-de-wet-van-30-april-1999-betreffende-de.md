@@ -13,7 +13,7 @@ entry_into_force: 2026-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/19/2026005170/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2026. - Decreet tot wijziging van de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers, de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen, het decreet houdende sociaalrechtelijk toezicht van 30 april 2004, het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding" en het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen

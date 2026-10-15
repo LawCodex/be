@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/08/16/2016204157/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 05-09-2016 et mise à jour au 29-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 AOUT 2016. - Loi portant fusion du Fonds des accidents du travail et du Fonds des maladies professionnelles

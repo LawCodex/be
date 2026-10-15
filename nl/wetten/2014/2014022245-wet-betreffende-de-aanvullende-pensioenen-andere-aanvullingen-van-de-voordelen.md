@@ -11,7 +11,7 @@ published: 2014-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/08/2014022245/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2014. - Wet betreffende de aanvullende pensioenen, andere aanvullingen van de voordelen toegekend voor de verschillende takken van de sociale zekerheid en de bevoegdheid van de arbeidsrechtbank

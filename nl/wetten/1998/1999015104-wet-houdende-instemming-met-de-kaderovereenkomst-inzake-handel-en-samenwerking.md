@@ -12,7 +12,7 @@ entry_into_force: 1999-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/07/05/1999015104/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1998. - Wet houdende instemming met de Kaderovereenkomst inzake handel en samenwerking tussen de Europese Gemeenschap en haar Lid-Staten enerzijds, en de Republiek Korea, anderzijds, en Bijlage, gedaan te Luxemburg op 28 oktober 1996.

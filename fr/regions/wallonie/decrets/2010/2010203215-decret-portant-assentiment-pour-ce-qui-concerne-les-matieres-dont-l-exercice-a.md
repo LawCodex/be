@@ -13,7 +13,7 @@ entry_into_force: 2010-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/06/03/2010203215/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2010. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française, à la Convention internationale pour la protection de toutes les personnes contre les disparitions forcées, adoptée à New York le 20 décembre 2006

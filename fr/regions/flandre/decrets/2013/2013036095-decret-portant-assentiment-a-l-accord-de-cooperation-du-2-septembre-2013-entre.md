@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/08/2013036095/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 06-12-2013 et mise à jour au 25-03-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 2013. - Décret portant assentiment à l'accord de coopération du [2 septembre 2013] entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'intégration des activités aériennes dans le système communautaire d'échange de quotas d'émission de gaz à effet de serre conformément à la Directive 2008/101/CE du Parlement européen et du Conseil du 19 novembre 2008 modifiant la Directive 2003/87/CE afin d'intégrer les activités aériennes dans le système communautaire d'échange de quotas d'émission de gaz à effet de serre dans la Communauté &lt;DCFL 2014-02-28/11 , art. 84, 002; En vigueur : 04-04-2014&gt;

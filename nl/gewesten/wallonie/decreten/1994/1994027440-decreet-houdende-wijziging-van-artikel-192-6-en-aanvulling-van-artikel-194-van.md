@@ -13,7 +13,7 @@ entry_into_force: 1994-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/07/14/1994027440/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1994. - Decreet houdende wijziging van artikel 192, 6°, en aanvulling van artikel 194 van het Waalse Wetboek van Ruimtelijke Ordening, Stedebouw en Patrimonium.

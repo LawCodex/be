@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/06/2008204573/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 19-12-2008 en tekstbijwerking tot 07-08-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBER 2008. - Decreet ter bestrijding van bepaalde vormen van discriminatie [...] &lt;DWG 2009-03-19/51 , art. 1, 002; Inwerkingtreding : 20-04-2009&gt;

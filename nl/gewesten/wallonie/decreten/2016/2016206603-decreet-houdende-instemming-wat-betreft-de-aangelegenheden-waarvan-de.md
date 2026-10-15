@@ -13,7 +13,7 @@ entry_into_force: 2017-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/21/2016206603/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2016. - Decreet houdende instemming, wat betreft de aangelegenheden waarvan de uitoefening door de Franse Gemeenschap naar het Waalse Gewest is overgedragen, met het Verdrag nr. 187 van de Internationale Arbeidsconferentie inzake het promotioneel kader voor de veiligheid en gezondheid op het werk, aangenomen te Genève op 15 juni 2006

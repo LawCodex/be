@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/01/2002035445/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er MARS 2002. - Décret modifiant le décret du 21 décembre 2001 contenant diverses mesures d'accompagnement du budget 2002, pour ce qui concerne l'éducation populaire (TRADUCTION).

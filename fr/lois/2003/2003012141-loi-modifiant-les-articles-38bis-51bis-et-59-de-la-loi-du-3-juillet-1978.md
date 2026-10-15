@@ -12,7 +12,7 @@ entry_into_force: 2003-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/22/2003012141/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2003. - Loi modifiant les articles 38bis, 51bis et 59 de la loi du 3 juillet 1978 relative aux contrats de travail.

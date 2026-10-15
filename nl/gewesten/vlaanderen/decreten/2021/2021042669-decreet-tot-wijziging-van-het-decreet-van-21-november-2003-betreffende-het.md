@@ -12,7 +12,7 @@ published: 2021-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/19/2021042669/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2021. - Decreet tot wijziging van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid en het decreet van 29 mei 2020 tot organisatie van het centrale contactonderzoek door een samenwerkingsverband van externe partners, het lokale contactonderzoek door lokale besturen of zorgraden en tot organisatie van de COVID-19-teams in het kader van COVID-19

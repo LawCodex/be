@@ -13,7 +13,7 @@ entry_into_force: 2001-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/11/2001021179/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 1999. - Decreet houdende goedkeuring van het samenwerkingsakkoord van 28 februari 1994, gewijzigd op 7 juli 1998, tussen de Staat en de Vlaamse Gemeenschap inzake de sociale hulpverlening aan gedetineerden met het oog op hun sociale reïntegratie.

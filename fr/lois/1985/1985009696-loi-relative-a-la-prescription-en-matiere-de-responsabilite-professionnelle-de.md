@@ -12,7 +12,7 @@ entry_into_force: 1985-09-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/08/08/1985009696/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 AOUT 1985. - Loi relative à la prescription en matière de responsabilité professionnelle de l'avocat et de conservation des archives.

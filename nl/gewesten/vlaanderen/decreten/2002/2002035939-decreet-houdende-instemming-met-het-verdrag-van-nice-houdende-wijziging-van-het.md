@@ -13,7 +13,7 @@ entry_into_force: 2002-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/06/28/2002035939/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2002. - Decreet houdende instemming met het Verdrag van Nice houdende wijziging van het Verdrag betreffende de Europese Unie, de Verdragen tot oprichting van de Europese Gemeenschappen en sommige bijbehorende akten, met de Protocollen en de Slotakte, ondertekend in Nice op 26 februari 2001.

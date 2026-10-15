@@ -12,7 +12,7 @@ entry_into_force: 2010-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/03/15/2010011137/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2010. - Loi portant modification de l'article 30 de la loi du 13 juin 2005 relative aux communications électroniques

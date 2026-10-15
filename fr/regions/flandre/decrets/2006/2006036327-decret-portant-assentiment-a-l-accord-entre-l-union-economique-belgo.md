@@ -13,7 +13,7 @@ entry_into_force: 2006-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/07/2006036327/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2006. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et la République démocratique du Congo, d'autre part, concernant l'encouragement et la protection réciproques des investissements, signé à Kinshasa le 17 février 2005 (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2015-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/04/2015036559/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2015. - Décret portant modification de l'article 173 du Décret sur les arts du 13 décembre 2013

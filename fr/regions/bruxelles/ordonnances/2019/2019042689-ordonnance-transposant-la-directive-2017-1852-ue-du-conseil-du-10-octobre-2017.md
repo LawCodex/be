@@ -13,7 +13,7 @@ entry_into_force: 2019-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/11/28/2019042689/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2019. - Ordonnance transposant la directive 2017/1852/UE du Conseil du 10 octobre 2017 concernant les mécanismes de règlement des différends fiscaux dans l'Union européenne

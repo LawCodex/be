@@ -13,7 +13,7 @@ entry_into_force: 1999-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/11/30/1999033129/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 1998. - Decreet houdende instemming met het samenwerkingsakkoord tussen het Waalse Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende de installatie van computers in de scholen van het Waalse Gewest (VERTALING).

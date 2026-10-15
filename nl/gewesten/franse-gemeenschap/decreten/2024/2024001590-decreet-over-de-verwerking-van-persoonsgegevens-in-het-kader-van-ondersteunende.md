@@ -13,7 +13,7 @@ entry_into_force: 2024-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/02/01/2024001590/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2024. - Decreet over de verwerking van persoonsgegevens in het kader van ondersteunende opdrachten, preventieve geneeskundeprogramma's en ouderschapsondersteuningsprogramma's van het Office de la Naissance et de l'Enfance

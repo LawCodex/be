@@ -12,7 +12,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/08/30/2013014638/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AUGUSTUS 2013. - Wet houdende invoeging van een titel 7/1 in de wet van 30 augustus 2013 houdende de Spoorcodex voor wat betreft de aangelegenheden als bedoeld in artikel 77 van de Grondwet

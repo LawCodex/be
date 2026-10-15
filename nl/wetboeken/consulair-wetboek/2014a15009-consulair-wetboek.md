@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/21/2014A15009/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
 justel_note: "Raadpleging van vroegere versies vanaf 21-01-2014 en tekstbijwerking tot 03-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2013. - Consulair Wetboek

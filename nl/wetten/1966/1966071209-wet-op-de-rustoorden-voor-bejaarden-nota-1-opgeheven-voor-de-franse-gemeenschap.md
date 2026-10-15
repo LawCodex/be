@@ -9,7 +9,7 @@ language: nl
 date: 1966-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1966/07/12/1966071209/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 1966. - Wet op de rustoorden voor bejaarden. (NOTA 1 : opgeheven voor de Franse Gemeenschap bij DFG 1984-05-10/30, art. 14, Inwerkingtreding : 1984-06-15) (NOTA 2 : opgeheven voor de Vlaamse Gemeenschap bij DVR 1985-03-05/37, art. 20, 1°, Inwerkingtreding : 1985-01-01) (NOTA 3 : voor het Brusselse Gewest zie ORD 1992-02-20/31, art. 15, Inwerkingtreding : 1992-07-01) (NOTA 4 : opgeheven voor de Duitstalige Gemeenschap bij DDG 1994-05-09/44, art. 15, 1°, Inwerkingtreding : 1994-05-09)

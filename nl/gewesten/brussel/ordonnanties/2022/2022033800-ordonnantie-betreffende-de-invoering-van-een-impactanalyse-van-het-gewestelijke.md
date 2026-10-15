@@ -13,7 +13,7 @@ entry_into_force: 2022-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/10/13/2022033800/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OKTOBER 2022. - Ordonnantie betreffende de invoering van een impactanalyse van het gewestelijke beleid op kleine, middelgrote en micro-ondernemingen en van een evenredigheidsbeoordeling van de beroepsreglementering

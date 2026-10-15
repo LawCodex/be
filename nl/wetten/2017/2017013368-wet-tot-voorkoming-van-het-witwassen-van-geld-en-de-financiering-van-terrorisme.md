@@ -16,7 +16,7 @@ department: "Economie, KMO, Middenstand en Energie - Binnenlandse Zaken - Justit
 justel_notes:
   - "De wijzigingen aangebracht door artikel 32, eerste lid, 1°, n), en de artikelen 153 tot 170 van de wet 2020-07-20/12 worden vernietigd bij arrest nr. 166/2021 van het Grondwettelijk Hof 2021-11-18/21 "
   - "Raadpleging van vroegere versies vanaf 06-10-2017 en tekstbijwerking tot 28-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 SEPTEMBER 2017. - Wet tot voorkoming van het witwassen van geld en de financiering van terrorisme en tot beperking van het gebruik van contanten

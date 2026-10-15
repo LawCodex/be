@@ -13,7 +13,7 @@ entry_into_force: 1996-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/03/19/1996035448/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 1996. - Décret portant approbation de la Convention relative à la diversité biologique, ainsi que des annexes I et II, signées à Rio de Janeiro le 5 juin 1992 (TRADUCTION).

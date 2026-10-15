@@ -13,7 +13,7 @@ entry_into_force: 2026-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/03/2026005305/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2026. - Decreet tot wijziging van diverse regelingen, wat betreft de uitvoering van verordening (EU) 2024/1309 van het Europees Parlement en de Raad van 29 april 2024 inzake maatregelen om de kosten van de uitrol van elektronische communicatienetwerken met gigabitsnelheden te verlagen, tot wijziging van Verordening (EU) 2015/2120 en tot intrekking van Richtlijn 2014/61/EU (gigabitinfrastructuurverordening)

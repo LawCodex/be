@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/22/2019012267/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 16-05-2019 et mise à jour au 19-03-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2019. - Loi modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité portant la mise en place d'un mécanisme de rémunération de capacité

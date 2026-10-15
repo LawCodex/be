@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/12/10/2009024465/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2009 en tekstbijwerking tot 06-04-2012"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2009. - Wet houdende diverse bepalingen inzake gezondheid

@@ -11,7 +11,7 @@ published: 2002-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/09/20/2002009939/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBER 2002. - Wet ter vervanging van artikel 293 van het Wetboek van strafvordering teneinde de beschuldigde bijstand door een advocaat te verlenen.

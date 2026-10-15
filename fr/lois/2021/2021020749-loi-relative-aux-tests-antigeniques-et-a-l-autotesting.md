@@ -12,7 +12,7 @@ entry_into_force: 2021-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/04/02/2021020749/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2021. - Loi relative aux tests antigeniques et à l'autotesting

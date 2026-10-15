@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009202359/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 29-05-2009 et mise à jour au 14-11-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret portant création de la société anonyme de droit public "Société de Développement de Liège-Guillemins"

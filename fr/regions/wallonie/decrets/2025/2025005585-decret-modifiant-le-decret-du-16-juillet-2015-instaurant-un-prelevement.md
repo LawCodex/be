@@ -13,7 +13,7 @@ entry_into_force: 2025-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/07/09/2025005585/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2025. - Décret modifiant le décret du 16 juillet 2015 instaurant un prélèvement kilométrique à charge des poids lourds pour l'utilisation des routes

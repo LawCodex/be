@@ -12,7 +12,7 @@ entry_into_force: 2024-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/12/19/2023048226/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2023. - Wet houdende instemming met samenwerkingsakkoord van 22 september 2023 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende sommige bepalingen van de verdeling van de Belgische klimaat- en energiedoelstellingen voor het begin van de periode 2021-2030 en de verdeling van de federale opbrengsten uit de veiling van emissierechten voor de jaren 2015 tot en met 2020

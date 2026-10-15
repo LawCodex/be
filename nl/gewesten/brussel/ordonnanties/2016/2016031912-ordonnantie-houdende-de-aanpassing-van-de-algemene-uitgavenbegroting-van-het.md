@@ -13,7 +13,7 @@ entry_into_force: 2016-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/12/12/2016031912/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2016. - Ordonnantie houdende de aanpassing van de Algemene Uitgavenbegroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2016

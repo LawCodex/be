@@ -12,7 +12,7 @@ entry_into_force: 1999-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/07/14/2025005809/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2025. - Loi modifiant la loi de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus, la loi du 12 mai 2019 portant création d'un Institut fédéral pour la protection et la promotion des droits humains et la loi du 22 mars 1995 instaurant des médiateurs fédéraux, afin d'octroyer des droits de pension

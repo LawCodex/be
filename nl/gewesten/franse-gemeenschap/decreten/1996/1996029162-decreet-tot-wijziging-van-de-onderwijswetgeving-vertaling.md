@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/04/02/1996029162/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 10-05-1996 en tekstbijwerking tot 23-04-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 1996. - Decreet tot wijziging van de onderwijswetgeving (VERTALING).

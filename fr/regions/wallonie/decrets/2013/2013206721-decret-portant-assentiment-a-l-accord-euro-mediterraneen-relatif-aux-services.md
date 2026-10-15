@@ -13,7 +13,7 @@ entry_into_force: 2013-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/28/2013206721/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2013. - Décret portant assentiment à l'Accord euro-méditerranéen relatif aux services aériens entre la Communauté européenne et ses Etats membres, d'une part, et le Royaume du Maroc, d'autre part, fait à Bruxelles le 12 décembre 2006

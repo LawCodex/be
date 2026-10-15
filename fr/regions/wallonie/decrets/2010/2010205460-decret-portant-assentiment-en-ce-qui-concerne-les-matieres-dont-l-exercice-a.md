@@ -13,7 +13,7 @@ entry_into_force: 2010-11-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/10/06/2010205460/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OCTOBRE 2010. - Décret portant assentiment, en ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, au Protocole n° 7 à la Convention de Sauvegarde des Droits de l'Homme et des Libertés fondamentales, fait à Strasbourg le 22 novembre 1984

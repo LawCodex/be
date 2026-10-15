@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/10/2014011324/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2014. - [Wet houdende invoeging van de bepalingen die een aangelegenheid regelen als bedoeld in artikel 77 van de Grondwet, in boek XI "Intellectuele eigendom" van het Wetboek van economisch recht, houdende invoeging van een bepaling eigen aan boek XI in boek XVII van hetzelfde Wetboek, en tot wijziging van het Gerechtelijk Wetboek wat de organisatie van de hoven en rechtbanken betreffende vorderingen inzake intellectuele eigendomsrechten en inzake transparantie van het auteursrecht en de naburige rechten betreft] (ERRATUM, zie B.St. 27-06-2014, p. 48237)

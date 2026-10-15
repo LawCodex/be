@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/01/14/2022040298/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 11-03-2022 et mise à jour au 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 2022. - Décret relatif au travail adapté dans le cadre de l'intégration individuelle

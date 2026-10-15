@@ -13,7 +13,7 @@ entry_into_force: 2021-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/06/19/2020041989/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2020. - Decreet tot opheffing van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, tot regeling van de taken en bevoegdheden en tot wijziging van de naam Hermesfonds

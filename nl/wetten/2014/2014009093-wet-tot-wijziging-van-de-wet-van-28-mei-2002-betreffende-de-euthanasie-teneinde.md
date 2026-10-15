@@ -12,7 +12,7 @@ entry_into_force: 2014-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/28/2014009093/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2014. - Wet tot wijziging van de wet van 28 mei 2002 betreffende de euthanasie, teneinde euthanasie voor minderjarigen mogelijk te maken

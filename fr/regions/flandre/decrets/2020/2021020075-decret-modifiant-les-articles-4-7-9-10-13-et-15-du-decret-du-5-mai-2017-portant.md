@@ -13,7 +13,7 @@ entry_into_force: 2021-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/12/18/2021020075/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2020. - Décret modifiant les articles 4, 7, 9, 10, 13 et 15 du décret du 5 mai 2017 portant le soutien de l'infrastructure sportive supralocale et de l'infrastructure sportive de haut niveau

@@ -12,7 +12,7 @@ entry_into_force: 2023-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/02/2023040898/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 2023. - Loi modifiant la loi du 6 août 1990 relative aux mutualités et aux unions nationales de mutualités

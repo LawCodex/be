@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/15/2019030252/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 03-05-2019 en tekstbijwerking tot 27-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2019. - Decreet betreffende de woonzorg (aangehaald als : Woonzorgdecreet van 15 februari 2019)

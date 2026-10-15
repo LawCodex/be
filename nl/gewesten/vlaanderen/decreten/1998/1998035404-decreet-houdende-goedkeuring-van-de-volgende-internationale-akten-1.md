@@ -12,7 +12,7 @@ published: 1998-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/03/17/1998035404/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 1998. - Decreet houdende goedkeuring van de volgende internationale akten : 1. overeenkomst tot wijziging van de vierde ACS-EG-Overeenkomst van Lomé en slotakte, ondertekend in Mauritius op 4 november 1995; 2. protocol bij de vierde ACS-EG-Overeenkomst van Lomé naar aanleiding van de toetreding van de republiek Oostenrijk, de republiek Finland en het koninkrijk Zweden tot de Europese Unie, ondertekend in Mauritius op 4 november 1995.

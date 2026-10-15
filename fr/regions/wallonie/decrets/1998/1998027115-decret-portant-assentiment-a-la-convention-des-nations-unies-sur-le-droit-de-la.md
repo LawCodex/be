@@ -13,7 +13,7 @@ entry_into_force: 1998-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/02/05/1998027115/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 1998. - Décret portant assentiment à la Convention des Nations Unies sur le droit de la mer et aux Annexes, signées à Montégo Bay le 10 décembre 1982 et à l'Accord relatif à l'application de la Partie XI de la Convention des Nations Unies sur le droit de la mer du 10 décembre 1982 et à l'Annexe, signés à New York le 28 juillet 1994.

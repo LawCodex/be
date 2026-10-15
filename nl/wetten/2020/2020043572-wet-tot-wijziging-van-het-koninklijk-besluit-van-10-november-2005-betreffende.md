@@ -10,7 +10,7 @@ date: 2020-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/10/27/2020043572/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 2020. - Wet tot wijziging van het koninklijk besluit van 10 november 2005 betreffende heffingen bepaald bij artikel 4 van de wet van 9 december 2004 betreffende de financiering van het Federaal Agentschap voor de Veiligheid van de Voedselketen

@@ -12,7 +12,7 @@ entry_into_force: 2020-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/07/08/2020042286/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2020. - Wet tot wijziging van de wet van 21 maart 2018 tot wijziging van de wet op het politieambt om het gebruik van camera's door de politiediensten te regelen, en tot wijziging van de wet van 21 maart 2007 tot regeling van de plaatsing en het gebruik van bewakingscamera's, van de wet van 30 november 1998 houdende regeling van de inlichtingen- en veiligheidsdiensten en van de wet van 2 oktober 2017 tot regeling van de private en bijzondere veiligheid

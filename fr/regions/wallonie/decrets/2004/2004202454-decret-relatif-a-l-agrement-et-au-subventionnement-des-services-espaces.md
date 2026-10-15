@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/27/2004202454/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 19-12-2008 et mise à jour au 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2004. - Décret relatif à l'agrément et au subventionnement des services " Espaces-Rencontres "

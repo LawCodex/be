@@ -12,7 +12,7 @@ entry_into_force: 2014-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/15/2014009414/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2014. - Wet tot wijziging van de wet van 9 december 2004 betreffende de wederzijdse internationale rechtshulp in strafzaken en tot wijziging van artikel 90ter van het Wetboek van strafvordering en tot wijziging van de wet van 5 augustus 1992 op het politieambt

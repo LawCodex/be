@@ -12,7 +12,7 @@ entry_into_force: 1998-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/08/06/1998015163/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AOUT 1993. - Loi portant assentiment à la Convention n° 148 concernant la protection des travailleurs contre les risques professionnels dus à la pollution de l'air, au bruit et aux vibrations sur les lieux de travail, adoptée à Genève le 20 juin 1977 par la Conférence internationale du Travail lors de sa soixante-troisième session.

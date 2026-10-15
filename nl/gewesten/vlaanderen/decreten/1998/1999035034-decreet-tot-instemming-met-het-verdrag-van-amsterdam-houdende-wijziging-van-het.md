@@ -13,7 +13,7 @@ entry_into_force: 1999-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/12/19/1999035034/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1998. - Decreet tot instemming met het Verdrag van Amsterdam houdende wijziging van het verdrag betreffende de Europese Unie, de verdragen tot oprichting van de Europese Gemeenschappen en sommige bijbehorende akten, protocollen 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 en 13, de slotakte en de bijlage, ondertekend in Amsterdam op 2 oktober 1997.

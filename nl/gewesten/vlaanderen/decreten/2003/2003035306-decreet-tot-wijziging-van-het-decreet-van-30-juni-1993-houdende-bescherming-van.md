@@ -13,7 +13,7 @@ entry_into_force: 2003-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/02/28/2003035306/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 2003. - Decreet tot wijziging van het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium.

@@ -13,7 +13,7 @@ entry_into_force: 2004-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/30/2004035885/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2004. - Decreet houdende wijziging van het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten.

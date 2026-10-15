@@ -13,7 +13,7 @@ entry_into_force: 2008-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/18/2008202857/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2008. - Décret modifiant le décret sur l'Electricité du 17 juillet 2000, pour ce qui concerne la quantité d'électricité gratuite, le décret sur le Gaz naturel du 6 juillet 2001, pour ce qui concerne l'extension du degré de couverture du réseau de distribution du gaz naturel, le décret REG du 2 avril 2004, pour ce qui concerne la Commission autonome de la Politique énergétique en Flandre, le décret EPB du 22 décembre 2006, pour ce qui concerne les contrôles et le décret du 25 mai 2007 modifiant le décret du 20 décembre 1996 réglant le droit à la fourniture minimale d'électricité, de gaz et d'eau, en ce qui concerne l'électricité et le gaz, le décret du 17 juillet 2000 relatif à l'organisation du marché de l'électricité, en ce qui concerne les obligations de service public et le décret du 6 juillet 2001 relatif à l'organisation du marché du gaz, en ce qui concerne les obligations de service public (TRADUCTION).

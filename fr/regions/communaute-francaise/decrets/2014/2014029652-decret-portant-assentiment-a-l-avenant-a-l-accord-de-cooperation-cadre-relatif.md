@@ -13,7 +13,7 @@ entry_into_force: 2014-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029652/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret portant assentiment à l'avenant à l'accord de coopération-cadre relatif à la formation en alternance, conclu à Bruxelles, le 24 octobre 2008, entre la Communauté française, la Région Wallonne et la Commission communautaire française

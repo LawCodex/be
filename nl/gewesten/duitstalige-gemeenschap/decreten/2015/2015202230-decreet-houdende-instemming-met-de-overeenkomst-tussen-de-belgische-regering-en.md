@@ -13,7 +13,7 @@ entry_into_force: 2015-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/04/20/2015202230/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2015. - Decreet houdende instemming met de Overeenkomst tussen de Belgische Regering en de Macedonische Regering tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en naar het vermogen en tot het voorkomen van het ontduiken van belasting en met het Protocol, gedaan te Brussel op 6 juli 2010

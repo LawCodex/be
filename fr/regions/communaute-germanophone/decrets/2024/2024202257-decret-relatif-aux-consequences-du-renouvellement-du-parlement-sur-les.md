@@ -13,7 +13,7 @@ entry_into_force: 2024-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/25/2024202257/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2024. - Décret relatif aux conséquences du renouvellement du Parlement sur les propositions de décret et projets de décret déposés

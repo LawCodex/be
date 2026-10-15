@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/12/15/2017032175/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 14-03-2018 et mise à jour au 11-01-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2017. - Ordonnance contenant le Budget général des Dépenses de la Région de Bruxelles-Capitale pour l'année budgétaire 2018

@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1970/06/03/1970060309/justel"
 justel_notes:
   - "art. 34 modifié et art. 42bis inséré avec effet à une date indéterminée <L 2006-07-13/68 , art. 80 et 81, 042; En vigueur : indéterminée >"
   - "Consultation des versions antérieures à partir du 08-07-1981 et mise à jour au 31-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 1970. - [Lois relatives à la prévention des maladies professionnelles et à la réparation des dommages résultant de celles-ci, coordonnées le 3 juin 1970.] (Intitulé remplacé par L 2006-07-13/68 , art. 2, 042; En vigueur : 01-09-2006)

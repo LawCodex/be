@@ -13,7 +13,7 @@ entry_into_force: 2024-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/02/08/2024202513/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 2024. - Decreet houdende wijziging van het decreet van 31 januari 2019 betreffende de kwaliteit van de binnenlucht

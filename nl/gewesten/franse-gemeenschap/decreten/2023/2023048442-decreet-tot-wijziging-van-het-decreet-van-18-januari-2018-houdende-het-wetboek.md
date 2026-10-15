@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/07/2023048442/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2023. - Decreet tot wijziging van het decreet van 18 januari 2018 houdende het wetboek van preventie, hulpverlening aan de jeugd en jeugdbescherming, het decreet van 14 maart 2019 betreffende de opvang, in een "Centre communautaire" (Gemeenschappelijk centrum), van uithandengegeven jongeren en artikel 606 van het wetboek van strafvordering

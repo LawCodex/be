@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1935/11/30/1935113052/justel"
 justel_notes:
   - "mise à jour jusqu'au 04-05-1999"
   - "Consultation des versions antérieures à partir du 27-04-2018 et mise à jour au 27-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 1935. - Lois coordonnées sur les sociétés commerciales. (2ème Partie : art. 165 à 219 - Pour des raisons techniques propres au cédérom, ceci est la suite du texte 1935-11-30/31)

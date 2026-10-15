@@ -13,7 +13,7 @@ entry_into_force: 2021-10-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/09/23/2021204652/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBER 2021. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap aan het Waalse Gewest is overgedragen, met de Strategische partnerschapsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Japan, anderzijds, gedaan te Tokyo op 17 juli 2018

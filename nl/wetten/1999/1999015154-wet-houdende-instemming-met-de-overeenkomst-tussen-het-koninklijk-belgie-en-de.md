@@ -12,7 +12,7 @@ entry_into_force: 2000-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/09/1999015154/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 1999. - Wet houdende instemming met de Overeenkomst tussen het Koninklijk België en de Republiek Cyprus tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, gedaan te Brussel op 14 mei 1996.

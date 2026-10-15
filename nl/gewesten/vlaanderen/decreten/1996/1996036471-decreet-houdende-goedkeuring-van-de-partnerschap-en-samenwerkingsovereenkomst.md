@@ -13,7 +13,7 @@ entry_into_force: 1996-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/11/26/1996036471/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 1996. - Decreet houdende goedkeuring van de Partnerschap- en Samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun Lidstaten, enerzijds, en Oekraïne, anderzijds, met de Bijlagen I tot V, met het Protocol, en met de Slotakte, ondertekend te Luxemburg op 14 juni 1994.

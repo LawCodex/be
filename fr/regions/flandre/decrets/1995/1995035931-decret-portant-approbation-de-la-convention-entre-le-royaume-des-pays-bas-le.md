@@ -13,7 +13,7 @@ entry_into_force: 1995-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/05/1995035931/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 1995. - Décret portant approbation de la convention entre le Royaume des Pays-Bas, le Royaume de Belgique et la Région flamande portant révision du Règlement en exécution de l'article IX du traité du 19 avril 1839 et du Chapitre II, Sections 1re et 2, du traité du 5 novembre 1842 tels que modifiés, relatifs au pilotage et à la surveillance commune de ce dernier (règlement de l'Escaut). (TRADUCTION)

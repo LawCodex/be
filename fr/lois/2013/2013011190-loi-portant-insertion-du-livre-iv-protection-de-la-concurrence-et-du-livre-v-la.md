@@ -11,7 +11,7 @@ published: 2013-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/04/03/2013011190/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2013. - Loi portant insertion du livre IV " Protection de la concurrence " et du livre V " La concurrence et les évolutions de prix " dans le Code de droit économique et portant insertion des définitions propres au livre IV et au livre V et des dispositions d'application de la loi propres au livre IV et au livre V, dans le livre Ier du Code de droit économique

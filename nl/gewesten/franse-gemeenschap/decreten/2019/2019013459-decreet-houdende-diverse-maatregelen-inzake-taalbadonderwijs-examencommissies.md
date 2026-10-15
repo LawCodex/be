@@ -13,7 +13,7 @@ entry_into_force: 2019-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/28/2019013459/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2019. - Decreet houdende diverse maatregelen inzake taalbadonderwijs, examencommissies die het getuigschrift van grondige kennis van de taal van het taalbadonderwijs, het getuigschrift van kennis van de onderwijstaal uitreiken en de taalcommissies

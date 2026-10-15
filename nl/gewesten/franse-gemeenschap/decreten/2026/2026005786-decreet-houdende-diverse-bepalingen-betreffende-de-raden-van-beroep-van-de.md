@@ -13,7 +13,7 @@ entry_into_force: 2026-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/11/2026005786/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2026. - Decreet houdende diverse bepalingen betreffende de raden van beroep van de personeelsleden van het door de Franse Gemeenschap georganiseerde onderwijs en conformering in toepassing van het bijzonder decreet van 7 februari 2019 tot oprichting van de overheidsinstelling belast met het ambt van inrichtende macht voor het door de Franse Gemeenschap georganiseerde onderwijs

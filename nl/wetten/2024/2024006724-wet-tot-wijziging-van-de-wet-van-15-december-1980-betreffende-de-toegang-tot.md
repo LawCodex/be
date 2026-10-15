@@ -11,7 +11,7 @@ published: 2024-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/03/10/2024006724/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2024. - Wet tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen wat betreft de aanvraag om toelating tot verblijf wegens staatloosheid

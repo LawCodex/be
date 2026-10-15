@@ -13,7 +13,7 @@ entry_into_force: 2018-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/15/2018201402/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2018. - Decreet houdende instemming met de Samenwerkingsovereenkomst inzake partnerschap en ontwikkeling tussen de Europese Unie en haar Lidstaten, enerzijds, en de Islamitische Republiek Afghanistan, anderzijds, ondertekend te München op 18 februari 2017

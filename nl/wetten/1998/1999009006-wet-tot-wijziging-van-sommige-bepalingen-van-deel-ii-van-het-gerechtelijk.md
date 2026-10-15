@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/22/1999009006/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 02-02-1999 en tekstbijwerking tot 02-06-2003"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1998. - Wet tot wijziging van sommige bepalingen van deel II van het Gerechtelijk Wetboek met betrekking tot de Hoge Raad voor de Justitie, de benoeming en aanwijzing van magistraten en tot invoering van een evaluatiesysteem. -

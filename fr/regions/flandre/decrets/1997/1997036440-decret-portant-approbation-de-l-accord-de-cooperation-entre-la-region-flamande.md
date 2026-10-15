@@ -13,7 +13,7 @@ entry_into_force: 1997-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/11/12/1997036440/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 1997. - Décret portant approbation de l'Accord de coopération entre la Région flamande et la Région wallonne concernant la nappe phréatique dans le calcaire carbonifère de la Région de Tournai (TRADUCTION).

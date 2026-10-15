@@ -12,7 +12,7 @@ published: 2012-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/06/2012035986/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2012. - Decreet houdende wijziging van diverse bepalingen van de Vlaamse Codex Ruimtelijke Ordening, wat de Raad voor Vergunningsbetwistingen betreft

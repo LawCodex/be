@@ -13,7 +13,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/06/16/2003033084/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2003. - Décret contenant le premier ajustement du budget des recettes de la Communauté germanophone pour l'année budgétaire 2003. (Traduction).

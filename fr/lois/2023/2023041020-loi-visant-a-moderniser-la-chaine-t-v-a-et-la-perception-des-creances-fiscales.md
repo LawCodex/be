@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/12/2023041020/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MARS 2023. - Loi visant à moderniser la chaîne T.V.A. et la perception des créances fiscales et non fiscales au sein du SPF Finances

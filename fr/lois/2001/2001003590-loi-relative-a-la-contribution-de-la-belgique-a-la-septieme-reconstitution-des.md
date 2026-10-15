@@ -12,7 +12,7 @@ entry_into_force: 2002-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/12/19/2001003590/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2001. - Loi relative à la contribution de la Belgique à la septième reconstitution des ressources du Fonds asiatique de Développement.

@@ -12,7 +12,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/08/10/2005003642/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2005. - Loi modifiant l'article 394 du Code des impôts sur les revenus 1992 et l'article 2 du Code des taxes assimilées aux impôts sur les revenus, en vue d'humaniser le recouvrement fiscal à l'égard des conjoints.

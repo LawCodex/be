@@ -13,7 +13,7 @@ entry_into_force: 2019-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/05/2019011883/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 2019. - Décret portant assentiment à l'accord de partenariat stratégique entre l'Union européenne et ses Etats membres, d'une part, et le Japon, d'autre part, signé à Tokyo le 17 juillet 2018

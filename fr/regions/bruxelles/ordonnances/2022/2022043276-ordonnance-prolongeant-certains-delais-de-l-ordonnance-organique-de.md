@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/12/23/2022043276/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 25-01-2023 et mise à jour au 24-09-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2022. - Ordonnance prolongeant certains délais de l'ordonnance organique de revitalisation urbaine du 6 octobre 2016 (OORU) et octroyant la faculté d'une ultime modification de programme et prolongeant un délai fixé dans l'ordonnance du 31 mai 2018 relative à l'octroi de subsides aux investissements en infrastructures sportives communales

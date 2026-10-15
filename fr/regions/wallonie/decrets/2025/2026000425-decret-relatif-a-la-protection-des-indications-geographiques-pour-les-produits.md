@@ -13,7 +13,7 @@ entry_into_force: 2026-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/11/2026000425/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2025. - Décret relatif à la protection des indications géographiques pour les produits artisanaux et industriels

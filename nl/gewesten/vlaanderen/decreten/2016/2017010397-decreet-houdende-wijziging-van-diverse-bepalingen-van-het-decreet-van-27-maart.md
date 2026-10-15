@@ -13,7 +13,7 @@ entry_into_force: 2017-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/23/2017010397/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2016. - Decreet houdende wijziging van diverse bepalingen van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft de radio-omroeporganisaties

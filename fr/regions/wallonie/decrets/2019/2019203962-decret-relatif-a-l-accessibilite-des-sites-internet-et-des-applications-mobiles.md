@@ -13,7 +13,7 @@ entry_into_force: 2018-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019203962/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret relatif à l'accessibilité des sites internet et des applications mobiles des organismes du secteur public

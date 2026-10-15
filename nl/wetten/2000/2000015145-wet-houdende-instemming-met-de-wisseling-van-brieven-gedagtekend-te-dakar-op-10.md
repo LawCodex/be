@@ -12,7 +12,7 @@ entry_into_force: 2001-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/09/03/2000015145/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBER 2000. - Wet houdende instemming met de wisseling van brieven gedagtekend te Dakar op 10 maart en 16 november 1998 tot wijziging van de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Senegal inzake de Handelsscheepvaart, gedaan te Dakar op 1 december 1982.

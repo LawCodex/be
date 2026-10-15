@@ -13,7 +13,7 @@ entry_into_force: 2005-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/04/11/2005033043/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2005. - Decreet houdende instemming met de avenant van 12 februari 2004 aan het Samenwerkingsakkoord tussen de Staat, de Gewesten en de Duitstalige Gemeenschap van 4 juli 2000 betreffende de sociale economie (VERTALING).

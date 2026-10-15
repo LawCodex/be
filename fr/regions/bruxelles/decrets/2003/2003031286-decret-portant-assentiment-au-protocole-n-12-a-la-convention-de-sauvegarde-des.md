@@ -13,7 +13,7 @@ entry_into_force: 2003-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/05/15/2003031286/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2003. - Décret portant assentiment au Protocole n° 12 à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales.

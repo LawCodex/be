@@ -13,7 +13,7 @@ entry_into_force: 2026-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/15/2024003631/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2024. - Décret relatif à l'enseignement à la conduite professionnel

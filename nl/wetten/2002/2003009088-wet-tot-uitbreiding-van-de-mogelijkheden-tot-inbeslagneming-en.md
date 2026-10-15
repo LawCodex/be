@@ -12,7 +12,7 @@ entry_into_force: 2003-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/19/2003009088/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2002. - Wet tot uitbreiding van de mogelijkheden tot inbeslagneming en verbeurdverklaring in strafzaken.

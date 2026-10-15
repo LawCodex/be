@@ -12,7 +12,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/19/1997021419/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1997. - Loi spéciale modifiant l'article 6 de la loi spéciale du 28 février 1997 portant exécution temporaire et partielle de l'article 125 de la Constitution.

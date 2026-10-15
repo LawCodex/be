@@ -12,7 +12,7 @@ entry_into_force: 2022-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/05/26/2016015132/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 2016. - Loi portant assentiment à la Convention de coopération entre le gouvernement du Royaume de Belgique et le gouvernement du Royaume du Maroc en matière de lutte contre la criminalité organisée et le terrorisme, faite à Bruxelles le 18 février 2014

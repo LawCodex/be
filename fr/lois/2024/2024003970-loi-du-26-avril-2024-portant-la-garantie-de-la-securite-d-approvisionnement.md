@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/26/2024003970/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 05-06-2024 et mise à jour au 26-05-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2024. - Loi du 26 avril 2024 portant la garantie de la sécurité d'approvisionnement dans le domaine de l'énergie et la réforme du secteur de l'énergie nucléaire

@@ -12,7 +12,7 @@ entry_into_force: 2009-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/12/22/2008021117/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2008. - Loi modifiant la loi du 16 novembre 1993 fixant la Liste civile pour la durée du règne du Roi Albert II, l'attribution d'une dotation annuelle et viagère à Sa Majesté la Reine Fabiola et l'attribution d'une dotation annuelle à Son Altesse Royale le Prince Philippe et la loi du 7 mai 2000 attribuant une dotation annuelle à Son Altesse Royale le Prince Philippe, une dotation annuelle à Son Altesse Royale la Princesse Astrid et une dotation annuelle à Son Altesse Royale le Prince Laurent.

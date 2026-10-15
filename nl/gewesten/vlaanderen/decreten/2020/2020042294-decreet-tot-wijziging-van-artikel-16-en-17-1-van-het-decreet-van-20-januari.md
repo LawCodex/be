@@ -12,7 +12,7 @@ published: 2020-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/10/2020042294/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2020. - Decreet tot wijziging van artikel 16 en 17/1 van het decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid

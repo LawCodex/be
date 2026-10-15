@@ -13,7 +13,7 @@ entry_into_force: 2018-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/12/13/2018015461/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2018. - Ordonnantie tot wijziging van de artikelen 92 1 , 131bis en 212bis van het Wetboek der registratie-, hypotheek- en griffierechten en van artikel 7 van het Wetboek der successierechten

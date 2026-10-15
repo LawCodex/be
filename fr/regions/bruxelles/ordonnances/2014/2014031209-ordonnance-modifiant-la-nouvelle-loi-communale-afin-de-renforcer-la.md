@@ -13,7 +13,7 @@ entry_into_force: 2014-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/02/27/2014031209/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2014. - Ordonnance modifiant la Nouvelle loi communale afin de renforcer la coordination entre commune et C.P.A.S.

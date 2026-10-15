@@ -12,7 +12,7 @@ entry_into_force: 2001-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/07/04/2001009667/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2001. - Wet tot wijziging van artikel 633 van het Gerechtelijk Wetboek.

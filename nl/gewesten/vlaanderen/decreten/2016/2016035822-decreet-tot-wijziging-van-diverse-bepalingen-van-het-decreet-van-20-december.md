@@ -13,7 +13,7 @@ entry_into_force: 2016-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/05/04/2016035822/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2016. - Decreet tot wijziging van diverse bepalingen van het decreet van 20 december 2013 inzake gezond en ethisch sporten

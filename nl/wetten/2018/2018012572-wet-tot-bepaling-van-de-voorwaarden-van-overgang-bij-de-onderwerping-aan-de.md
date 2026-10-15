@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/05/29/2018012572/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 11-06-2018 en tekstbijwerking tot 10-05-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2018. - Wet tot bepaling van de voorwaarden van overgang bij de onderwerping aan de vennootschapsbelasting van havenbedrijven

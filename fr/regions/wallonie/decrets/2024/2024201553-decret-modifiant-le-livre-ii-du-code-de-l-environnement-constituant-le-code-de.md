@@ -13,7 +13,7 @@ entry_into_force: 2024-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/10/2024201553/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2024. - Décret modifiant le Livre II du Code de l'Environnement, constituant le Code de l'Eau, en ce qui concerne la réalisation de certains travaux en lien avec les cours d'eau en vue d'atténuer les conséquences des cas de force majeure

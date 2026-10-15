@@ -11,7 +11,7 @@ date: 2001-11-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/11/14/2001027691/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2001. - Decreet betreffende de successierechten tussen wettelijk samenwonenden (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 1995-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/06/30/1994009610/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1994. - Wet tot invoering van een artikel 1412bis in het Gerechtelijk Wetboek.

@@ -13,7 +13,7 @@ entry_into_force: 2006-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/02/2006029096/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2006. - Décret portant assentiment à la Convention sur la protection et la promotion de la diversité des expressions culturelles, adoptée le 20 octobre 2005 et faite à Paris le 9 décembre 2005.

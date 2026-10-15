@@ -12,7 +12,7 @@ published: 2012-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/06/2012035980/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2012. - Decreet tot wijziging van het decreet basisonderwijs van 25 februari 1997, met het oog op de invoering van een deels op socio-economische leerlingenkenmerken gebaseerd omkaderingssysteem, waarbij het kleuteronderwijs evenwaardig omkaderd wordt als het lager onderwijs

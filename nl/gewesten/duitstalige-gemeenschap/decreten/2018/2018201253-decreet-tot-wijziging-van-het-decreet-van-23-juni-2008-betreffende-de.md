@@ -13,7 +13,7 @@ entry_into_force: 2018-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/26/2018201253/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2018. - Decreet tot wijziging van het decreet van 23 juni 2008 betreffende de bescherming van monumenten, klein erfgoed, ensembles en landschappen en betreffende de opgravingen

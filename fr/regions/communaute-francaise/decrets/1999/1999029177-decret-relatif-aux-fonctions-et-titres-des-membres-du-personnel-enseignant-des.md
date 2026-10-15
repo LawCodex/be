@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/08/1999029177/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 29-04-1999 et mise à jour au 04-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 1999. - Décret relatif aux fonctions et titres des membres du personnel enseignant des hautes écoles organisées ou subventionnées par la Communauté française.

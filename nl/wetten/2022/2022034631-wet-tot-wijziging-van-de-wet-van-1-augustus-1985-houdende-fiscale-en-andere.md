@@ -12,7 +12,7 @@ entry_into_force: 2023-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/15/2022034631/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2022. - Wet tot wijziging van de wet van 1 augustus 1985 houdende fiscale en andere bepalingen met het oog op de invoering van een facultatieve versnelde procedure voor de Algemene Afdeling van de Commissie voor financiële hulp aan slachtoffers van opzettelijke gewelddaden en aan de occasionele redders

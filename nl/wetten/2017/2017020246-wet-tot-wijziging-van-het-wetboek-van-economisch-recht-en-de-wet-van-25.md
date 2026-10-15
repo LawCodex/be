@@ -12,7 +12,7 @@ entry_into_force: 2017-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/02/20/2017020246/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 2017. - Wet tot wijziging van het Wetboek van economisch recht en de wet van 25 december 2016 tot wijziging van de rechtspositie van de gedetineerden en van het toezicht op de gevangenissen en houdende diverse bepalingen inzake justitie

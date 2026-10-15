@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/02/2007003215/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 12-06-2007 et mise à jour au 09-07-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2007. - Loi relative à la publicité des participations importantes dans des émetteurs dont les actions sont admises à la négociation sur un marché réglementé et portant des dispositions diverses.

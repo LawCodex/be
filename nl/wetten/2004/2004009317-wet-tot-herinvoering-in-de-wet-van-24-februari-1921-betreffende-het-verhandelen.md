@@ -12,7 +12,7 @@ entry_into_force: 2004-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/04/12/2004009317/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 APRIL 2004. - Wet tot herinvoering in de wet van 24 februari 1921 betreffende het verhandelen van giftstoffen, slaapmiddelen, psychotrope stoffen, ontsmettingsstoffen en antiseptica en van de stoffen die kunnen gebruikt worden voor de illegale vervaardiging van verdovende middelen en psychotrope stoffen van de bevoegdheid van officieren van gerechtelijke politie om 's nachts alle plaatsen te betreden en te doorzoeken zonder voorafgaande toelating van de politierechtbank.

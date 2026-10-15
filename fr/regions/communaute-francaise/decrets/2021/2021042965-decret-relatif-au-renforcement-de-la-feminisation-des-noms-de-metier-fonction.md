@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/14/2021042965/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 26-11-2021 et mise à jour au 11-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OCTOBRE 2021. - Décret relatif au renforcement de la féminisation des noms de métier, fonction, grade ou titre et aux bonnes pratiques non discriminatoires quant au genre dans le cadre des communications officielles ou formelles

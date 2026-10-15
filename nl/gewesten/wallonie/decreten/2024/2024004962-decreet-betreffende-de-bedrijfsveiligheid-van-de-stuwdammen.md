@@ -12,7 +12,7 @@ published: 2024-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/02/22/2024004962/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2024. - Decreet betreffende de bedrijfsveiligheid van de stuwdammen

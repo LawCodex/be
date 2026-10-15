@@ -12,7 +12,7 @@ entry_into_force: 2020-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/26/2021030116/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2020. - Loi modifiant la loi coordonnée du 10 juillet 2008 sur les hôpitaux et autres établissements de soins en vue de protéger les victimes de la pandémie provoquée par le coronavirus SARS-CoV-2 contre la facturation de suppléments d'honoraires et de protéger le patient pour lequel les frais des services sont couverts par le budget des moyens financiers contre la facturation de coûts supplémentaires

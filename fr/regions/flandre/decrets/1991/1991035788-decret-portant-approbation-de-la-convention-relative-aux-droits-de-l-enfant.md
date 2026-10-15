@@ -13,7 +13,7 @@ entry_into_force: 1991-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/05/15/1991035788/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 1991. - Décret portant approbation de la Convention relative aux droits de l'Enfant, adoptée à Neuw York le 20 novembre 1989. .

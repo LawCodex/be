@@ -13,7 +13,7 @@ entry_into_force: 2009-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/21/2008204743/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2008. - Décret modifiant le décret du 4 juin 2003 relatif à la politique flamande d'intégration par le travail (TRADUCTION).

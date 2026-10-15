@@ -11,7 +11,7 @@ published: 1976-05-21
 entry_into_force: 1976-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/02/02/1971020250/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 1971. \_ Wet houdende goedkeuring van het Aanvullend Protocol bij de Benelux-Overeenkomst van 24 mei 1966, betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen, ondertekend te Brussel op 26 september 1968.

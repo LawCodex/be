@@ -13,7 +13,7 @@ entry_into_force: 2017-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/02/2017201454/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 2017. - Decreet tot opheffing, voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet, van het decreet van 18 juli 1997 betreffende de beroepsopleiding gegeven in het kader van het doorstromingsprogramma en van het besluit van de Waalse Regering van 18 juli 2013 betreffende de instapstages in het kader van de invoering van de regeling betreffende het inschakelingscontract

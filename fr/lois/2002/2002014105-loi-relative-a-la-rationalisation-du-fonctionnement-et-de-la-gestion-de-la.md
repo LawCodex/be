@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/04/19/2002014105/justel"
 department: "Communications"
 justel_note: "Consultation des versions antérieures à partir du 04-05-2002 et mise à jour au 13-05-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2002. - Loi relative à la rationalisation du fonctionnement et de la gestion de la Loterie Nationale.

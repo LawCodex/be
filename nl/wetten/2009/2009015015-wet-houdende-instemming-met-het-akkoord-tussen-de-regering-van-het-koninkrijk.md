@@ -12,7 +12,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/02/05/2009015015/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 2009. - Wet houdende instemming met het Akkoord tussen de Regering van het Koninkrijk België en de Regering van de Republiek Kazachstan over samenwerking en wederzijdse administratieve bijstand inzake de douane, ondertekend te Brussel op 5 december 2006

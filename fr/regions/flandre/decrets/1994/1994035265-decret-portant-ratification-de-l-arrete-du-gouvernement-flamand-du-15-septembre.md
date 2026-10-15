@@ -13,7 +13,7 @@ entry_into_force: 1994-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/01/26/1994035265/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 1994. - Décret portant ratification de l'arrêté du Gouvernement flamand du 15 septembre 1993 relatif à la désignation de zones de dunes protégées et de zones agricoles ayant une importance pour les dunes.

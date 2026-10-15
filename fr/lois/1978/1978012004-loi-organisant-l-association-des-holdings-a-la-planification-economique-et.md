@@ -11,7 +11,7 @@ published: 1978-02-10
 entry_into_force: 1978-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/01/20/1978012004/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 1978. - Loi organisant l'association des holdings à la planification économique et modifiant le statut des sociétés à portefeuille.

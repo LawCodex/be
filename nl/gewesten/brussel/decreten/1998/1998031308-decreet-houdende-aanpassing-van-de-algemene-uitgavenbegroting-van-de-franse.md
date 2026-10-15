@@ -13,7 +13,7 @@ entry_into_force: 1998-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/06/18/1998031308/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 1998. - Decreet houdende aanpassing van de algemene uitgavenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 1998 (VERTALING).

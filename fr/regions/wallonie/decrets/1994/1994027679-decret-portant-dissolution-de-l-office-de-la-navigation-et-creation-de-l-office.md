@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/11/24/1994027679/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 16-02-1999 et mise à jour au 18-12-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 1994. - Décret portant dissolution de l'Office de la navigation et création de l'Office de promotion des voies navigables (1).

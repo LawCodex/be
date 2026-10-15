@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1976/07/08/1976D70810/justel"
 justel_notes:
   - "Pour les versions de ce texte antérieures au 01-02-2007, voir les archives de L 1976-07-08/01 "
   - "Consultation des versions antérieures à partir du 29-12-2008 et mise à jour au 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 1976. - Loi organique des [centres publics d'action sociale]. - Forme valable dans la Région de Bruxelles-Capitale. &lt;L 2002-01-07/45 , art. 2 et 3; ED 01-02-2004&gt;.

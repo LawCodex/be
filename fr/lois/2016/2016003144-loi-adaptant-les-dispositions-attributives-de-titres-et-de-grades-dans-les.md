@@ -12,7 +12,7 @@ entry_into_force: 2016-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/04/27/2016003144/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2016. - Loi adaptant les dispositions attributives de titres et de grades dans les codes fiscaux et les dispositions légales relatives aux douanes et accises et portant diverses autres dispositions

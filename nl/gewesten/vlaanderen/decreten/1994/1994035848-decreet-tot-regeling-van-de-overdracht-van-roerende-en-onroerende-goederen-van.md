@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/06/01/1994035848/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 02-08-1994 en tekstbijwerking tot 17-04-1998"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 1994. - Decreet tot regeling van de overdracht van roerende en onroerende goederen van de Vlaamse Gemeenschap aan de Vlaamse Gemeenschapscommissie.

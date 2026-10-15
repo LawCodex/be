@@ -13,7 +13,7 @@ entry_into_force: 2015-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/04/20/2015202230/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2015. - Décret portant assentiment à la Convention entre le Gouvernement belge et le Gouvernement macédonien tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et au Protocole, signés à Bruxelles le 6 juillet 2010

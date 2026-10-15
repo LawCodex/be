@@ -12,7 +12,7 @@ entry_into_force: 2022-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/19/2022043068/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2022. - Loi portant l'octroi d'une deuxième prime fédérale d'électricité et de gaz

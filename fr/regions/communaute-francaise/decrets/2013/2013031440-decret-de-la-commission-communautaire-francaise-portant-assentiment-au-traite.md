@@ -13,7 +13,7 @@ entry_into_force: 2013-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/05/30/2013031440/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2013. - Décret de la Commission communautaire française portant assentiment au Traité relatif à l'adhésion de la République de Croatie à l'Union européenne avec Acte final, déclarations et échange de lettres, faits à Bruxelles le 9 décembre 2011

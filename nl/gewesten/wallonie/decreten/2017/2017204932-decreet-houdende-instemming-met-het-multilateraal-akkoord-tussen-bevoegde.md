@@ -12,7 +12,7 @@ entry_into_force: 2017-10-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/09/07/2017204932/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBER 2017. - Decreet houdende instemming met het Multilateraal Akkoord tussen bevoegde autoriteiten betreffende de automatische uitwisseling van inlichtingen inzake financiële rekeningen, ondertekend te Berlijn op 29 oktober 2014

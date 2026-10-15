@@ -11,7 +11,7 @@ published: 1973-09-28
 entry_into_force: 1973-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1973/06/14/1973061404/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 1973. - Loi portant approbation de la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Singapour tendant à éviter la double imposition en matière d'impôt sur le revenu, et du Protocole, signés à Singapour le 8 février 1972.

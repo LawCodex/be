@@ -13,7 +13,7 @@ entry_into_force: 2013-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/05/02/2013031349/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2013. - Ordonnance portant assentiment : 1° à la Convention entre la Belgique et le Danemark en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 16 octobre 1969, telle que modifiée et complétée par le Protocole signé à Copenhague le 27 septembre 1999 et par le Protocole fait à Bruxelles le 7 juillet 2009; 2° au Protocole, fait à Bruxelles le 7 juillet 2009, modifiant la Convention entre la Belgique et le Danemark en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, signée à Bruxelles le 16 octobre 1969, telle que modifiée et complétée par le Protocole signé à Copenhague le 27 septembre 1999 3° à l'échange de lettres du 9 et du 16 février 2011

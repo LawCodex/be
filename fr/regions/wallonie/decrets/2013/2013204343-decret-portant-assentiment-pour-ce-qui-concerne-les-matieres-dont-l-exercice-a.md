@@ -13,7 +13,7 @@ entry_into_force: 2013-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/10/2013204343/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2013. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, à l'Accord de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la République d'Iraq, d'autre part, fait à Bruxelles le 11 mai 2012

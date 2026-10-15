@@ -11,7 +11,7 @@ published: 2015-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/10/26/2015011409/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 OKTOBER 2015. - Wet houdende wijziging van het Wetboek van economisch recht en houdende diverse andere wijzigingsbepalingen

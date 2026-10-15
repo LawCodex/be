@@ -12,7 +12,7 @@ entry_into_force: 2007-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/26/2007009538/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2007. - Wet houdende bepalingen inzake de woninghuur.

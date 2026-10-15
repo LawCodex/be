@@ -12,7 +12,7 @@ entry_into_force: 2016-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/04/27/2016009200/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2016. - Loi relative à des mesures complémentaires en matière de lutte contre le terrorisme

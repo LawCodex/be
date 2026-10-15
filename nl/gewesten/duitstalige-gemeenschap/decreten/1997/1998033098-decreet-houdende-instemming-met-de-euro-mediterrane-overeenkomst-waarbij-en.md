@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/06/30/1998033098/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1997. - Decreet houdende instemming met de euro-mediterrane overeenkomst waarbij en Associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Republiek Tunisië, anderzijds, met de bijlagen 1, 2, 3, 4, 5, 6 en 7, met de protocollen 1, 2, 3, 4 en 5 en met de Slotakte, gedaan te Brussel op 17 juli 1995 (VERTALING).

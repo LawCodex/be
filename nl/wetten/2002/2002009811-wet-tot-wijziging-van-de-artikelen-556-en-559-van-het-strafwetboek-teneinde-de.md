@@ -10,7 +10,7 @@ date: 2002-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/08/02/2002009811/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AUGUSTUS 2002. - Wet tot wijziging van de artikelen 556 en 559 van het Strafwetboek teneinde de gelijkstelling van krankzinnigen of razenden met woeste dieren op te heffen.

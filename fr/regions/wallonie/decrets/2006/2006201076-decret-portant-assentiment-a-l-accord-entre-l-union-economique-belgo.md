@@ -13,7 +13,7 @@ entry_into_force: 2006-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/03/16/2006201076/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2006. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et la République du Nicaragua, d'autre part, concernant l'encouragement et la protection réciproques des investissements, fait à Luxembourg le 27 mai 2005.

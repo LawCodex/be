@@ -11,7 +11,7 @@ published: 1999-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/25/1999015181/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 1999. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Democratische Volksrepubliek Algerije betreffende het internationale wegvervoer en het transitvervoer van personen en goederen, en Protocol, ondertekend te Brussel op 29 maart 1994.

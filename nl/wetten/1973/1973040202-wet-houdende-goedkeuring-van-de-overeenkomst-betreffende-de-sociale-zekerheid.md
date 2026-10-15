@@ -12,7 +12,7 @@ entry_into_force: 1973-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1973/04/02/1973040202/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 1973. - Wet houdende goedkeuring van de Overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk België en de Staat Israël, ondertekend te Brussel op 5 juli 1971.

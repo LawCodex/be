@@ -13,7 +13,7 @@ entry_into_force: 2009-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/02/19/2009029199/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEBRUARI 2009. - Decreet houdende wijziging van het decreet van 4 maart 1991 inzake hulpverlening aan de jeugd

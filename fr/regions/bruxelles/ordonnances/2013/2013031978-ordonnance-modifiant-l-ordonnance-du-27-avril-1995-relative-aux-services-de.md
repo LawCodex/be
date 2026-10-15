@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/11/21/2013031978/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 03-12-2013 et mise à jour au 16-01-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2013. - Ordonnance modifiant l'ordonnance du 27 avril 1995 relative aux services de taxis et aux services de location de voitures avec chauffeur

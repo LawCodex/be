@@ -13,7 +13,7 @@ entry_into_force: 2018-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/01/26/2018030576/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2018. - Décret modifiant le décret du 25 février 1997 relatif à l'enseignement fondamental et le Code de l'Enseignement secondaire, pour ce qui est des objectifs pédagogiques, et modifiant les Décrets Statut Personnel de l'enseignement

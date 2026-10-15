@@ -12,7 +12,7 @@ entry_into_force: 1998-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/11/25/1997010050/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 1997. - Loi modifiant la loi du 27 juin 1921 accordant la personnalité civile aux associations sans but lucratif et aux établissements d'utilité publique, en ce qui concerne la responsabilité des membres.

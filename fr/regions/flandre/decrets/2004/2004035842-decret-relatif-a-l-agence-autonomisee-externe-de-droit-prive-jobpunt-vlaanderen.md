@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035842/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 07-06-2004 et mise à jour au 12-02-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret relatif à l'agence autonomisée externe de droit privé [" Jobpunt Vlaanderen "] et modifiant le décret du 2 mars 1999 autorisant le Gouvernement flamand à créer une société coopérative à responsabilité limitée en vue de l'accomplissement des missions en matière de recrutement et de sélection du personnel de la fonction publique (TRADUCTION). &lt;DCFL 2008-12-12/76 , art. 8, 002; En vigueur : 01-09-2008&gt;

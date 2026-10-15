@@ -10,7 +10,7 @@ date: 2022-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/07/20/2022015583/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2022. - Wet tot wijziging van de wet van 25 oktober 2016 betreffende de toegang tot het beleggingsdienstenbedrijf en betreffende het statuut van en het toezicht op de vennootschappen voor vermogensbeheer en belegginsadvies, en houdende diverse andere bepalingen tot omzetting van Richtlijn (EU) 2019/2034 van het Europees Parlement en de Raad van 27 november 2019 betreffende het prudentiële toezicht op beleggingsondernemingen

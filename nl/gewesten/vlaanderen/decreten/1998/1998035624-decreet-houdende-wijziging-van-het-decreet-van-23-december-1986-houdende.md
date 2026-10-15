@@ -13,7 +13,7 @@ entry_into_force: 1998-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/05/12/1998035624/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 1998. - Decreet houdende wijziging van het decreet van 23 december 1986 houdende integratie van kunstwerken in gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot het Vlaamse Gewest behoren.

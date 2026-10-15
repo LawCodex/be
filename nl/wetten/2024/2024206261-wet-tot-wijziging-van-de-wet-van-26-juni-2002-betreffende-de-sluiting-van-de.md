@@ -12,7 +12,7 @@ entry_into_force: 2025-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/12/20/2024206261/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2024. - Wet tot wijziging van de wet van 26 juni 2002 betreffende de sluiting van de ondernemingen tot aanpassing van de toekenningsvoorwaarde met betrekking tot de leeftijd van de werknemer om recht te hebben op de sluitingsvergoeding

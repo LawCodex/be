@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/04/10/2016007106/justel"
 department: "Landsverdediging"
 justel_note: "Raadpleging van vroegere versies vanaf 26-04-2016 en tekstbijwerking tot 18-04-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2016. - Wet betreffende het werken op afstand binnen Defensie

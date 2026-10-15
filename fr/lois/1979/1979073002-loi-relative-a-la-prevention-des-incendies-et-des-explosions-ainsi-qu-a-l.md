@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1979/07/30/1979073002/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1989 et mise à jour au 25-09-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 1979. - Loi relative à la prévention des incendies et des explosions ainsi qu'à l'assurance obligatoire de la responsabilité civile dans ces mêmes circonstances.

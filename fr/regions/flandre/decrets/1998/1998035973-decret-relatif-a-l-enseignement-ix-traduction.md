@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/14/1998035973/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-08-1998 et mise à jour au 13-02-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1998. - Décret relatif à l'enseignement IX. (TRADUCTION)

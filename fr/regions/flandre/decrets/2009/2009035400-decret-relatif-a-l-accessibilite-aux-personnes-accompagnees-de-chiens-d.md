@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/20/2009035400/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-05-2009 et mise à jour au 23-02-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2009. - Décret relatif à l'accessibilité aux personnes accompagnées de chiens d'assistance des lieux publics

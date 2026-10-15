@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/12/31/2012009533/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2012 en tekstbijwerking tot 31-01-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 DECEMBER 2012. - Wet houdende diverse bepalingen betreffende justitie

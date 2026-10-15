@@ -13,7 +13,7 @@ entry_into_force: 2009-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/05/25/2009203227/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2009. - Decreet houdende instemming met het Verdrag van de Raad van Europa en de UNESCO inzake de erkenning van kwalificaties betreffende het hoger onderwijs in de Europese regio, opgemaakt te Lissabon op 11 april 1997

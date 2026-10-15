@@ -13,7 +13,7 @@ entry_into_force: 2008-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/19/2008202183/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2008. - Décret visant à assimiler, pour les droits de succession, les cohabitants légaux avec lien de parenté aux cohabitants légaux sans lien de parenté.

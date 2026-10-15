@@ -12,7 +12,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/07/19/1996003454/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 1996. - Loi modifiant les lois sur la comptabilité de l'Etat, coordonnées le 17 juillet 1991 et la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public.

@@ -12,7 +12,7 @@ entry_into_force: 1999-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/23/1999014013/justel"
 department: "Verkeerswezen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1998. - Wet betreffende de begroting van de Regie voor Maritiem Transport voor het begrotingsjaar 1996.

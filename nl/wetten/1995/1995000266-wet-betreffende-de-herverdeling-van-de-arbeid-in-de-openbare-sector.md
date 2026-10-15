@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/10/1995000266/justel"
 department: "Openbaar Ambt"
 justel_note: "Raadpleging van vroegere versies vanaf 20-04-1995 en tekstbijwerking tot 30-03-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 1995. - Wet betreffende de herverdeling van de arbeid in de openbare sector.

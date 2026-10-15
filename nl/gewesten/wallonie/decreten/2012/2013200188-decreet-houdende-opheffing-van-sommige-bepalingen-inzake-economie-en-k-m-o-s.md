@@ -13,7 +13,7 @@ entry_into_force: 2013-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/12/19/2013200188/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2012. - Decreet houdende opheffing van sommige bepalingen inzake economie en K.M.O.'s

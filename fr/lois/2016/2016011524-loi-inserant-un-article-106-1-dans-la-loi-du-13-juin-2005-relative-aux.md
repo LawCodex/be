@@ -12,7 +12,7 @@ entry_into_force: 2016-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/07/2016011524/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2016. - Loi insérant un article 106/1 dans la loi du 13 juin 2005 relative aux communications électroniques

@@ -13,7 +13,7 @@ entry_into_force: 2021-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/09/2021031818/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2021. - Decreet tot wijziging van het Energiedecreet van 8 mei 2009, wat het invoeren van een databank voor premies en subsidies betreft

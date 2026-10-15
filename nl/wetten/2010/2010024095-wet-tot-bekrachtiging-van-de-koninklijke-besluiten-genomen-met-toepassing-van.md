@@ -12,7 +12,7 @@ entry_into_force: 2010-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/03/23/2010024095/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2010. - Wet tot bekrachtiging van de koninklijke besluiten genomen met toepassing van artikelen 2 en 3 van de wet van 16 oktober 2009 die machtigingen verleent aan de Koning in geval van een griepepidemie of -pandemie

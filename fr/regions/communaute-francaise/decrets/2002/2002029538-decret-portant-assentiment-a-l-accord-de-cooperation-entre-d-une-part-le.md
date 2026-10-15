@@ -13,7 +13,7 @@ entry_into_force: 2002-11-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/10/24/2002029538/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OCTOBRE 2002. - Décret portant assentiment à l'accord de coopération entre, d'une part, le Gouvernement de la République du Bénin et, d'autre part, le Gouvernement de la Communauté française de Belgique, le Gouvernement de la Région wallonne et le Collège de la Commission communautaire française de la Région de Bruxelles-Capitale, fait à Bruxelles le 28 janvier 1999.

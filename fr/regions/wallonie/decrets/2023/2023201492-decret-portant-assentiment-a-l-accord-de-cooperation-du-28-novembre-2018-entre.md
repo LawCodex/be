@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/09/2023201492/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2023. - Décret portant assentiment à l'accord de coopération du 28 novembre 2018 entre la Communauté française et la Région wallonne relatif à la reconnaissance des sociétés mutualistes régionales wallonnes, de la Caisse auxiliaire d'assurance maladie-invalidité et de la Caisse des soins de santé de HR-rail en qualité d'organismes assureurs wallons pour le compte de la Communauté française

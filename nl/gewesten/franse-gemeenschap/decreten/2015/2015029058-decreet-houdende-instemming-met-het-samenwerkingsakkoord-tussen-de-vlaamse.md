@@ -13,7 +13,7 @@ entry_into_force: 2015-03-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/01/29/2015029058/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2015. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende het beheer van het elektronisch toezicht

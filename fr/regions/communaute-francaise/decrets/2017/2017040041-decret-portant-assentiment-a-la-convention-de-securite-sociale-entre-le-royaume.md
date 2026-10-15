@@ -13,7 +13,7 @@ entry_into_force: 2017-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/01/26/2017040041/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2017. - Décret portant assentiment à la Convention de sécurité sociale entre le Royaume de Belgique et la République Tunisienne, signée à Tunis le 28 mars 2013

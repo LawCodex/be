@@ -12,7 +12,7 @@ entry_into_force: 2014-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/25/2014024209/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Wet tot wijziging van de wet van 21 december 1998 betreffende de productnormen ter bevordering van duurzame productie- en consumptiepatronen en ter bescherming van het leefmilieu, de volksgezondheid en de werknemers en tot opheffing van de wet van 14 juli 1994 inzake de oprichting van een comité voor het toekennen van het Europees milieukeurmerk

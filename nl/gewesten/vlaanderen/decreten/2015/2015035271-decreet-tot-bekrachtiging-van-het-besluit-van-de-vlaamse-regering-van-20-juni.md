@@ -13,7 +13,7 @@ entry_into_force: 2015-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/02/27/2015035271/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2015. - DECREET tot bekrachtiging van het besluit van de Vlaamse Regering van 20 juni 2014 tot wijziging van sommige eindtermen van het besluit van de Vlaamse Regering van 23 juni 2000 tot vaststelling van de vakgebonden eindtermen van de tweede en de derde graad van het gewoon secundair onderwijs, wat de natuurwetenschappen of fysica en/of chemie en/of biologie betreft

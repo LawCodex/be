@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/19/2025009821/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2025. - Décret modifiant le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement et le Décret sur l'Energie du 8 mai 2009, en ce qui concerne le maintien des consignes de sécurité pour la distribution de gaz naturel

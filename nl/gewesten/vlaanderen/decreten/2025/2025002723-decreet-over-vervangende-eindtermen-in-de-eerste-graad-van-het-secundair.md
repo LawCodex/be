@@ -12,7 +12,7 @@ published: 2025-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/03/21/2025002723/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2025. - Decreet over vervangende eindtermen in de eerste graad van het secundair onderwijs, wat betreft de sleutelcompetenties competenties inzake wiskunde, exacte wetenschappen en technologie en competenties met betrekking tot historisch bewustzijn, op initiatief van de Federatie Steinerscholen Vlaanderen vzw

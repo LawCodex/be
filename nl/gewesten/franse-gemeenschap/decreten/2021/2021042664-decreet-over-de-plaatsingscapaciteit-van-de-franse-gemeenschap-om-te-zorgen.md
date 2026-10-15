@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/14/2021042664/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 08-12-2021 en tekstbijwerking tot 23-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2021. - Decreet over de plaatsingscapaciteit van de Franse Gemeenschap om te zorgen voor de uitvoering van en de controle op het elektronisch toezicht, en over het tijdschema voor rechtzoekenden die zijn veroordeeld tot een vrijheidsbenemende straf van drie jaar of minder

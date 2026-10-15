@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/07/17/1984009550/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 10-06-2014 et mise à jour au 22-10-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 1984. - Loi portant certaines mesures de nature à réduire l'arriéré judiciaire

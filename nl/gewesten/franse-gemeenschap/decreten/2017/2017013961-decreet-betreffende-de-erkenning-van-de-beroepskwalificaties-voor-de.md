@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/10/19/2017013961/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 10-11-2017 en tekstbijwerking tot 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OKTOBER 2017. - Decreet betreffende de erkenning van de beroepskwalificaties voor de uitoefening van ambten van het onderwijzend personeel in de inrichtingen voor voorschools, lager en secundair gewoon en gespecialiseerd onderwijs, kunstonderwijs, onderwijs voor sociale promotie en niet universitair hoger onderwijs, kunstsecundair onderwijs met beperkt leerplan van de Franse Gemeenschap

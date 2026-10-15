@@ -10,7 +10,7 @@ date: 2013-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/30/2013011385/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2013. - Wet houdende invoeging van de bepalingen die aangelegenheden regelen als bedoeld in artikel 77 van de Grondwet, in de wet van 17 augustus 2013 betreffende de prospectie, de exploratie en de exploitatie van de rijkdommen van de zee- en oceaanbodem en de ondergrond ervan voorbij de grenzen van de nationale rechtmacht

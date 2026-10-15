@@ -13,7 +13,7 @@ entry_into_force: 2017-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/12/07/2017014317/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2017. - Ordonnantie houdende instemming met : het Protocol bij de Conventie betreffende de dwangarbeid van 1930, aangenomen te Genève op 11 juni 2014 door de Internationale Arbeidsconferentie tijdens haar honderd en derde zitting

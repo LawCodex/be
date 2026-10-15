@@ -12,7 +12,7 @@ entry_into_force: 2019-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/02/2019030680/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Loi relative à la modification de la mention "divorcé(e)" et "veuf/veuve" dans les actes administratifs

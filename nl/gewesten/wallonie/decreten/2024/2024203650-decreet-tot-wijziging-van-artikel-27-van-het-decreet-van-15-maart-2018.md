@@ -13,7 +13,7 @@ entry_into_force: 2024-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/29/2024203650/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2024. - Decreet tot wijziging van artikel 27 van het decreet van 15 maart 2018 betreffende de woninghuurovereenkomst en tot invoeging van een artikel 25/1

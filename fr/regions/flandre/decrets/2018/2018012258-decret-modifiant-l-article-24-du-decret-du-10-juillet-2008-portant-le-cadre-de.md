@@ -13,7 +13,7 @@ entry_into_force: 2018-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/18/2018012258/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2018. - Décret modifiant l'article 24 du décret du 10 juillet 2008 portant le cadre de la politique flamande de l'égalité des chances et de traitement

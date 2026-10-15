@@ -12,7 +12,7 @@ published: 2016-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/30/2016029341/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2016. - Decreet waarbij het decreet van 11 april 2014 tot regeling van de bekwaamheidsbewijzen en ambten in het door de Franse Gemeenschap georganiseerde en gesubsidieerde basis- en secundair onderwijs op de leermeesters en leraars godsdienst toepasselijk wordt gemaakt en houdende verschillende maatregelen inzake bekwaamheidsbewijzen en ambten

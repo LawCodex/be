@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/12/18/2010022158/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 10-03-2010 en tekstbijwerking tot 10-05-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2009. - Wet tot wijziging van de wet van 8 maart 2007 tot oprichting van een Federale Adviesraad voor Ouderen

@@ -12,7 +12,7 @@ entry_into_force: 2017-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/02/29/2016015038/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 FEVRIER 2016. - Loi portant assentiment au Protocole de Nagoya sur l'accès aux ressources génétiques et le partage juste et équitable des avantages découlant de leur utilisation relatif à la Convention sur la diversité biologique, et à l'annexe, faits à Nagoya le 29 octobre 2010

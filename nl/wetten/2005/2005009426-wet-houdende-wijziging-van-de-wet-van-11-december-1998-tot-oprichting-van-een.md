@@ -12,7 +12,7 @@ entry_into_force: 2005-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/05/03/2005009426/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2005. - Wet houdende wijziging van de wet van 11 december 1998 tot oprichting van een beroepsorgaan inzake veiligheidsmachtigingen

@@ -12,7 +12,7 @@ entry_into_force: 2014-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/15/2013011651/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2013. - Loi portant insertion du Livre XIII " Concertation ", dans le Code de droit économique

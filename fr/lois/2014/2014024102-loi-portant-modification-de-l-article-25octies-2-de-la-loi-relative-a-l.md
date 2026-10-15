@@ -11,7 +11,7 @@ published: 2014-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/03/09/2014024102/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2014. - Loi portant modification de l'article 25octies/2 de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994

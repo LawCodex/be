@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/05/08/2026003912/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2026. - Decreet tot wijziging van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid, wat betreft een uitbreiding van de opdrachten van het Expertisecentrum Onderzoek en Ontwikkelingsmonitoring

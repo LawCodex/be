@@ -13,7 +13,7 @@ entry_into_force: 2002-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/05/2002035963/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2002. - Décret modifiant l'article 118 de la loi du 8 juillet 1976 organique des centres publics d'aide sociale (TRADUCTION).

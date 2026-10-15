@@ -11,7 +11,7 @@ date: 2003-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/07/17/2003200774/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2003. - Decreet houdende instemming met het aanhangsel van 4 juni 2003 tot wijziging van het samenwerkingsakkoord gesloten op 20 februari 1995 door de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschap en het Waalse Gewest i.v.m. de permanente vorming van de middenstand en de kleine en middelgrote ondernemingen en de voogdij over het Instituut voor permanente vorming van de middenstand en de kleine en middelgrote ondernemingen (VERTALING).

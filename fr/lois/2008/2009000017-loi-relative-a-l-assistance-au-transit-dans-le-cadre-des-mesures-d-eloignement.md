@@ -12,7 +12,7 @@ entry_into_force: 2009-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/12/15/2009000017/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2008. - Loi relative à l'assistance au transit dans le cadre des mesures d'éloignement par voie aérienne.

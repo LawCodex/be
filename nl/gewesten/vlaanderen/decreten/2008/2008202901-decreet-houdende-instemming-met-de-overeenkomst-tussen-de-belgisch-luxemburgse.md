@@ -12,7 +12,7 @@ published: 2008-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/20/2008202901/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2008. - Decreet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Republiek Rwanda, anderzijds, inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Kigali op 16 april 2007.

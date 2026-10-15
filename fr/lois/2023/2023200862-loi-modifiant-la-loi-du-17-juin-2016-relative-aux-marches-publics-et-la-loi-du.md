@@ -12,7 +12,7 @@ entry_into_force: 2023-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/02/08/2023200862/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 2023. - Loi modifiant la loi du 17 juin 2016 relative aux marchés publics et la loi du 17 juin 2016 relative aux contrats de concession, en ce qui concerne la gouvernance

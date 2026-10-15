@@ -12,7 +12,7 @@ entry_into_force: 2014-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/03/26/2014011253/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2014. - Wet houdende wijzigingen van de wet van 6 juli 2005 betreffende sommige juridische bepalingen inzake elektronische communicatie en van de wet van 17 januari 2003 betreffende de rechtsmiddelen en de geschillenbehandeling naar aanleiding van de wet van 17 januari 2003 met betrekking tot het statuut van de regulator van de Belgische post- en telecommunicatiesector (I)

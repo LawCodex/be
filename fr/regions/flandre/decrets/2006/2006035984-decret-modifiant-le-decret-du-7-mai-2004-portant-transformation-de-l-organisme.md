@@ -13,7 +13,7 @@ entry_into_force: 2006-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/05/05/2006035984/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2006. - Décret modifiant le décret du 7 mai 2004 portant transformation de l'organisme public flamand " Commissariaat-generaal voor de Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie " (Commissariat général à la Promotion de l'Education physique, des Sports et de la Vie en plein air) en l'agence autonomisée interne dotée de la personnalité juridique BLOSO (TRADUCTION).

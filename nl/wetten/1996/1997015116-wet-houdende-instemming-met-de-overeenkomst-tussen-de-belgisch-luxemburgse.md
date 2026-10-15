@@ -12,7 +12,7 @@ entry_into_force: 1997-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/06/18/1997015116/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 1996. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Sociale Republiek Vietnam inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Hanoi op 24 januari 1991.

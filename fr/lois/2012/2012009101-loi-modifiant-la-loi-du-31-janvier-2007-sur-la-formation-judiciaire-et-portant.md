@@ -12,7 +12,7 @@ entry_into_force: 2011-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/02/23/2012009101/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 FEVRIER 2012. - Loi modifiant la loi du 31 janvier 2007 sur la formation judiciaire et portant création de l'Institut de formation judiciaire

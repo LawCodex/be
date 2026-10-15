@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/12/27/2012018484/justel"
 department: "Federaal Agentschap voor de Veiligheid van de Voedselketen - Mobiliteit en Vervoer"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2012 en tekstbijwerking tot 31-08-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 2012. - Wet houdende diverse dringende bepalingen

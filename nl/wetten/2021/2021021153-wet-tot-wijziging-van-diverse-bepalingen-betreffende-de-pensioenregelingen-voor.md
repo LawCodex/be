@@ -12,7 +12,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/06/15/2021021153/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 2021. - Wet tot wijziging van diverse bepalingen betreffende de pensioenregelingen voor werknemers en zelfstandigen, wat betreft de berekening van het proportioneel pensioen

@@ -12,7 +12,7 @@ entry_into_force: 2014-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/15/2013021138/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2013. - Loi portant des dispositions diverses concernant la simplification administrative

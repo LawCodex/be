@@ -13,7 +13,7 @@ entry_into_force: 2024-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/05/16/2024005047/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Ordonnance modifiant l'ordonnance du 23 décembre 2016 relative à la taxe régionale sur les établissements d'hébergement touristique et l'ordonnance du 6 mars 2019 relative au Code bruxellois de procédure fiscale

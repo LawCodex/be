@@ -13,7 +13,7 @@ entry_into_force: 2002-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/21/2002035145/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2001. - Décret portant second ajustement du budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 2001.

@@ -12,7 +12,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/03/26/2014009291/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2014. - Wet tot wijziging van het Gerechtelijk Wetboek en de wet van 2 augustus 2002 betreffende de bestrijding van de betalingsachterstand bij handelstransacties met het oog op de toekenning van bevoegdheid aan de natuurlijke rechter in diverse materies

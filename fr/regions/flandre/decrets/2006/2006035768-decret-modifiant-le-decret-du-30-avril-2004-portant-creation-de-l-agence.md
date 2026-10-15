@@ -13,7 +13,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/03/31/2006035768/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2006. - Décret modifiant le décret du 30 avril 2004 portant création de l'agence autonomisée externe de droit public " Vlaams Agentschap voor Geestelijke Gezondheidszorg " (Agence flamande pour la Santé mentale) (TRADUCTION).

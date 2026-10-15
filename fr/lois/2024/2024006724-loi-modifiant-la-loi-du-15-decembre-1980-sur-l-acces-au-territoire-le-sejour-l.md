@@ -12,7 +12,7 @@ entry_into_force: 2024-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/10/2024006724/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2024. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers concernant la demande d'admission au séjour pour apatridie

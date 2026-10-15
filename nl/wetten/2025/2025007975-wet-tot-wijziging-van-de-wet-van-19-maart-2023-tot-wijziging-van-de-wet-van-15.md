@@ -12,7 +12,7 @@ entry_into_force: 2025-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/10/16/2025007975/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 2025. - Wet tot wijziging van de wet van 19 maart 2023 tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen, wat betreft het inreis-uitreissysteem

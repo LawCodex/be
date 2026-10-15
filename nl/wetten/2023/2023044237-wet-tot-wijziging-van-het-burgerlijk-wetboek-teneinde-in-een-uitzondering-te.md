@@ -12,7 +12,7 @@ entry_into_force: 2023-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/06/19/2023044237/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2023. - Wet tot wijziging van het Burgerlijk Wetboek, teneinde in een uitzondering te voorzien op het rooien en snoeien van bomen en beplantingen als die zich op het openbaar domein bevinden en waarde hebben voor het algemeen belang

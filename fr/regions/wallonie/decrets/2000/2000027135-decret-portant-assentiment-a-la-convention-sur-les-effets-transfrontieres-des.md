@@ -12,7 +12,7 @@ published: 2000-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/03/24/2000027135/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2000. - Décret portant assentiment à la Convention sur les effets transfrontières des accidents industriels, et de ses Annexes, faite à Helsinki le 17 mars 1992.

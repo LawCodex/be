@@ -13,7 +13,7 @@ entry_into_force: 2010-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2010/02/04/2010031091/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2010. - Ordonnantie houdende instemming met : de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en Bosnië en Herzegovina, anderzijds, en met de Slotakte, gedaan te Luxemburg op 16 juni 2008

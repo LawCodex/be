@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/05/25/2000029245/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 12-09-2000 et mise à jour au 16-06-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2000. - [Décret portant confirmation de profils de formation tels que définis à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire.] &lt;Intitulé remplacé par DCFR 2007-01-25/46 , art. 1, 003; En vigueur : 21-03-2007&gt;

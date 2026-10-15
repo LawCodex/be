@@ -13,7 +13,7 @@ entry_into_force: 2014-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/05/2014031379/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 2013. - Decreet houdende instemming met het facultatief Protocol bij het Verdrag met betrekking tot de rechten van het kind tot vaststelling van een meldingsprocedure, goedgekeurd te New York op 19 december 2011

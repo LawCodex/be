@@ -13,7 +13,7 @@ entry_into_force: 2004-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/11/27/2004200078/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2003. - Decreet houdende goedkeuring van de Samenwerkingsovereenkomst tussen de Franse Gemeenschap en het Waalse Gewest inzake de milieuopleiding. (Vertaling).

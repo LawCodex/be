@@ -12,7 +12,7 @@ entry_into_force: 2011-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/05/12/2011024122/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2011. - Loi modifiant la loi du 9 juillet 1984 concernant l'importation, l'exportation et le transit de déchets

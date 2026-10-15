@@ -12,7 +12,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/05/17/2012003182/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2012. - Loi modifiant l'article 3 de la loi du 22 juillet 1991 relative aux billets de trésorerie et aux certificats de dépôt, afin de l'étendre aux associations de provinces ou de communes

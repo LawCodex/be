@@ -13,7 +13,7 @@ entry_into_force: 2012-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/03/16/2012035392/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2012. - Decreet houdende de wijziging van het decreet van 13 juli 1994 betreffende de rustpensioenen toegekend aan de vastbenoemde personeelsleden van de VRT en betreffende de overlevingspensioenen toegekend aan de rechtverkrijgenden van die personeelsleden

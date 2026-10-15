@@ -12,7 +12,7 @@ entry_into_force: 2013-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/08/20/2013015136/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 AOUT 2000. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République de Côte d'Ivoire concernant la promotion et la protection réciproques des investissements, fait à Bruxelles le 1er avril 1999

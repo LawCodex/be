@@ -12,7 +12,7 @@ published: 2019-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/29/2019011720/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2019. - Décret modifiant la loi relative à l'exercice des professions des soins de santé, coordonnée le 10 mai 2015

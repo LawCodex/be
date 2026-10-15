@@ -12,7 +12,7 @@ entry_into_force: 2014-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/07/2014018083/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 2014. - Loi modifiant la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes

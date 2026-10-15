@@ -10,7 +10,7 @@ date: 2003-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/13/2003015104/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2003. - Wet houdende instemming met de Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lid-Staten, enerzijds, en de Republiek Zuid-Afrika, anderzijds, met de Bijlagen I, II, III, IV, V, VI, VII, VIII, IX en X, met de Protocollen 1 en 2, en met de Slotakte, gedaan te Pretoria op 11 oktober 1999.

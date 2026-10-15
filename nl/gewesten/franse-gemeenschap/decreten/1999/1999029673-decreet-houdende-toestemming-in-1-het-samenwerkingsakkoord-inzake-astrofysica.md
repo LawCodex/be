@@ -12,7 +12,7 @@ entry_into_force: 1999-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/05/1999029673/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1999. - Decreet houdende toestemming in : 1. het Samenwerkingsakkoord inzake astrofysica met bijlage, gedaan in Santa Cruz de la Palma op 26 mei 1979; 2. het Protocol van amendement bij het samenwerkingsakkoord inzake astrofysica, gedaan in Madrid op 18 april 1988; 3. het Protocol van samenwerking inzake astrofysisch onderzoek in Spanje, gedaan in Santa Cruz de la Palma op 26 mei 1979; 4. het Protocol van amendement bij het Protocol van samenwerking inzake astrofysica, gedaan in Madrid op 18 april 1988; 5. het Addendum bij het Protocol van samenwerking inzake astrofysisch onderzoek tussen de Regeringen van het Koninkrijk Spanje, het Koninkrijk Denemarken, het Verenigd Koninkrijk Groot-Brittannië en Noord-Ierland en van het Koninkrijk Zweden, gedaan in Madrid op 8 april 1983; 6. het Protocol van amendement bij het Addendum bij het Protocol van samenwerking inzake astrofysisch onderzoek tussen de Regeringen van het Koninkrijk Spanje, het Koninkrijk Denemarken, het Verenigd Koninkrijk Groot-Brittannië en Noord-Ierland en van het Koninkrijk Zweden en van de Bondsrepubliek Duitsland, gedaan in Madrid op 18 april 1988 (Vertaling).

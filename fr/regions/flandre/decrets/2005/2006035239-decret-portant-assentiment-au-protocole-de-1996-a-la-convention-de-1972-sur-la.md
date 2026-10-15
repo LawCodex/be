@@ -13,7 +13,7 @@ entry_into_force: 2006-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/23/2006035239/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2005. - Décret portant assentiment au Protocole de 1996 à la Convention de 1972 sur la prévention de la pollution des mers résultant de l'immersion de déchets et autres matières, fait à Londres le 7 novembre 1996 (TRADUCTION).

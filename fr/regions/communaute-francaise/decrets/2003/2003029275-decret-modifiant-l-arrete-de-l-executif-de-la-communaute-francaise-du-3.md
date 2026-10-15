@@ -13,7 +13,7 @@ entry_into_force: 2003-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/04/10/2003029275/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2003. - Décret modifiant l'arrêté de l'Exécutif de la Communauté française du 3 décembre 1992 relatif à l'interruption de la carrière professionnelle dans l'enseignement et les centres psycho-médico-sociaux.

@@ -12,7 +12,7 @@ entry_into_force: 2023-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/04/07/2023041750/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2023. - Wet tot wijziging van het Gerechtelijk Wetboek met betrekking tot de niet voor beslag vatbare goederen

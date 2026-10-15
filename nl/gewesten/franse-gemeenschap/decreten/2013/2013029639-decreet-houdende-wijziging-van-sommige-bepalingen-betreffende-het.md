@@ -12,7 +12,7 @@ published: 2014-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/10/17/2013029639/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OKTOBER 2013. - Decreet houdende wijziging van sommige bepalingen betreffende het gespecialiseerd onderwijs, het gewoon basisonderwijs, het gewoon secundair onderwijs en de Psycho-Medisch-Sociale Centra

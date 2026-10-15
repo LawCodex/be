@@ -13,7 +13,7 @@ entry_into_force: 2013-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/01/17/2013200460/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANVIER 2013. - Décret portant assentiment à l'Accord sur le transport routier entre le Gouvernement belge et le Gouvernement macédonien, fait à Skopje le 10 septembre 1998

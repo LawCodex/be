@@ -13,7 +13,7 @@ entry_into_force: 2006-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/05/19/2006035825/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2006. - Décret modifiant certaines dispositions du titre II des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 4 mars 2005.

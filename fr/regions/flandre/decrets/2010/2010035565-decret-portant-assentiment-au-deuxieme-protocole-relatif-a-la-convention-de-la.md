@@ -13,7 +13,7 @@ entry_into_force: 2010-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/16/2010035565/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2010. - Décret portant assentiment au deuxième Protocole relatif à la Convention de La Haye de 1954 pour la protection des biens culturels en cas de conflit armé, établie à La Haye le 26 mars 1999

@@ -13,7 +13,7 @@ entry_into_force: 2003-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/10/02/2003201458/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 OCTOBRE 2003. - Décret portant assentiment au protocole financier du 4 octobre 2002 à l'accord de coopération du 5 avril 1995 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale, relatif à la politique internationale de l'environnement.

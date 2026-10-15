@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/11/2022034447/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 16-12-2022 en tekstbijwerking tot 04-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2022. - Wet ter bescherming van het marien milieu en ter organisatie van de mariene ruimtelijke planning in de Belgische zeegebieden

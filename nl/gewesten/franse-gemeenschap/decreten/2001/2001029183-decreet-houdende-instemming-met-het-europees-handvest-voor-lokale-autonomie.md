@@ -13,7 +13,7 @@ entry_into_force: 2001-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/03/29/2001029183/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2001. - Decreet houdende instemming met het Europees Handvest voor Lokale Autonomie, gedaan te Straatsburg op 15 oktober 1985. (VERTALING).

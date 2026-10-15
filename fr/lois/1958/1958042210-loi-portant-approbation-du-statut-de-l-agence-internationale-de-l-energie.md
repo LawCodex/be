@@ -11,7 +11,7 @@ published: 1958-09-20
 entry_into_force: 1958-09-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1958/04/22/1958042210/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 1958. - Loi portant approbation du statut de l'Agence internationale de l'énergie atomique et de l'annexe, signés à New-York, le 26 octobre 1956.

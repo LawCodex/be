@@ -13,7 +13,7 @@ entry_into_force: 2015-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/06/04/2015031348/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUNI 2015. - Ordonnantie ertoe strekkende de jaarlijkse openingsvergadering van het Brussels Hoofdstedelijk Parlement te vervroegen

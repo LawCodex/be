@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/12/2021043466/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2021. - Wet tot invoering van het "Terug Naar Werk-traject" onder de coördinatie van de "Terug Naar Werk-coördinator" in de uitkeringsverzekering voor werknemers

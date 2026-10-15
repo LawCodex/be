@@ -12,7 +12,7 @@ entry_into_force: 2016-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/11/10/2016205793/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2016. - Decreet tot wijziging van artikel 129 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn en met het oog op de verbetering van de sociale dialoog

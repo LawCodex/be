@@ -13,7 +13,7 @@ entry_into_force: 2010-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/05/07/2010035403/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2010. - Decreet houdende instemming met het Verdrag van Tampere inzake de levering van telecommunicatievoorzieningen voor rampenmitigatie en noodhulpoperaties, opgemaakt in Tampere op 18 juni 1998

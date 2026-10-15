@@ -12,7 +12,7 @@ entry_into_force: 2007-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/21/2007007128/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2007. - Wet tot wijziging van de wet van 8 augustus 1981 tot oprichting van het Nationaal Instituut voor oorlogsinvaliden, oud-strijders en oorlogsslachtoffers en van de Hoge Raad van oorlogsinvaliden, oud-strijders en oorlogsslachtoffers.

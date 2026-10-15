@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/30/1999036057/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 27-08-1999 et mise à jour au 17-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 1999. - Décret portant création d'un " Vlaams Fonds voor de letteren " (" Fonds flamand des lettres ") (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2014-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/02/21/2013201212/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2013. - Décret assurant une présence égale et alternée entre les femmes et les hommes sur les listes de candidatures aux élections communales et provinciales organisées en Région wallonne

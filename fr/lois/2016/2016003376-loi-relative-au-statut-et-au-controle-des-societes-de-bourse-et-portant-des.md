@@ -12,7 +12,7 @@ entry_into_force: 2016-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/10/25/2016003376/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 OCTOBRE 2016. - Loi relative au statut et au contrôle des sociétés de bourse et portant des dispositions diverses

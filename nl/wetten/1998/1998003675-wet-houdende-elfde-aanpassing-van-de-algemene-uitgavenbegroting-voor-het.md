@@ -12,7 +12,7 @@ entry_into_force: 1999-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/11/30/1998003675/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 1998. - Wet houdende elfde aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 1998, Sectie 12, Ministerie van Justitie.

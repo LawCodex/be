@@ -11,7 +11,7 @@ date: 1993-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/07/05/1993029378/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1993. - Decreet I betreffende de overdracht van de uitoefening van bepaalde bevoegdheden van de Franse Gemeenschap naar het Waalse Gewest en de Franse Gemeenschapscommissie.

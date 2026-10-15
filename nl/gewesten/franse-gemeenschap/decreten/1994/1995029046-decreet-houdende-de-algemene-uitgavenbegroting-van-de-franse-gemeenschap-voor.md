@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/22/1995029046/justel"
 department: "Franse Gemeenschap"
 justel_note: "Zie Arrest van het Arbitragehof nr. 54/96 van 3 oktober 1996. B.St. 10.10.1996, p. 26287-26094"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1994. - Decreet houdende de algemene uitgavenbegroting van de Franse Gemeenschap voor het begrotingsjaar 1995. (VERTALING)

@@ -12,7 +12,7 @@ entry_into_force: 1982-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1982/03/16/1982001063/justel"
 department: "Finances"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 1982. - Loi interprétative des articles 1er et 4 de l'arrêté royal n° 175 du 13 juin 1935 portant création d'un Institut de Réescompte et de Garantie.

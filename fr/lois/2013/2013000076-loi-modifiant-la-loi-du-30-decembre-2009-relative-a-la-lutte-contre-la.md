@@ -12,7 +12,7 @@ entry_into_force: 2013-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/01/16/2013000076/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JANVIER 2013. - Loi modifiant la loi du 30 décembre 2009 relative à la lutte contre la piraterie maritime et modifiant le Code judiciaire

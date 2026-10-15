@@ -13,7 +13,7 @@ entry_into_force: 2012-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/07/23/2012031649/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUILLET 2012. - Ordonnance portant aliénation de terrains régionaux boisés sis dans la Forêt de Soignes pour la construction du Réseau Express régional sur le territoire de la commune de Watermael-Boitsfort

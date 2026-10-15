@@ -13,7 +13,7 @@ entry_into_force: 2007-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/02/26/2007033026/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2007. - Décret portant assentiment à l'accord de coopération entre la Région de Bruxelles-Capitale et la Communauté germanophone (TRADUCTION).

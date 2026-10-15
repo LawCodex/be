@@ -13,7 +13,7 @@ entry_into_force: 2003-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/06/12/2003029356/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2003. - Décret érigeant le Musée royal de Mariemont en établissement à gestion séparée.

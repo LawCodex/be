@@ -13,7 +13,7 @@ entry_into_force: 2001-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/03/29/2001029172/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2001. - Decreet tot wijziging van de regelgeving betreffende het statuut van de leden van het bestuurs- en onderwijzend personeel, van het opvoedend hulppersoneel, van het paramedisch, psychologisch en sociaal personeel der inrichtingen voor kleuter-, lager, buitengewoon, middelbaar, technisch onderwijs, onderwijs voor sociale promotie en kunstonderwijs van de Franse Gemeenschap, alsmede der internaten die van deze inrichtingen afhangen en van de leden van de inspectiedienst die belast is met het toezicht op deze inrichtingen (VERTALING).HI:??2,Zitting 2000-2001. Documenten van de Raad. - Ontwerpdecreet, nr. 149-1. - Amendementen van de commissie, nr. 149-2. - Verslag, nr. 149-3. Integraal verslag. - Bespreking en stemming. Zitting van 27 maart 2001.

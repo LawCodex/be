@@ -13,7 +13,7 @@ entry_into_force: 2008-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/16/2007029457/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2007. - Décret portant assentiment à l'Accord interne entre les représentants des Gouvernements des Etats membres, réunis au sein du Conseil, modifiant l'Accord interne du 18 septembre 2000 relatif aux mesures à prendre et aux procédures à suivre pour la mise en oeuvre de l'accord de partenariat ACP-CE, fait à Luxembourg le 10 avril 2006.

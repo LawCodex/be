@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/07/09/2015031450/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 17-07-2015 en tekstbijwerking tot 20-06-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2015. - Ordonnantie houdende geharmoniseerde regels betreffende de administratieve geldboeten bepaald bij de wetgeving op het vlak van werkgelegenheid en economie

@@ -11,7 +11,7 @@ entry_into_force: 2004-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/19/2004022891/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2004. - Wet tot wijziging van de wet van 24 januari 1977 betreffende de bescherming van de gezondheid van de verbruikers op het stuk van de voedingsmiddelen en andere producten.

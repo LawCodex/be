@@ -12,7 +12,7 @@ entry_into_force: 2003-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/25/2003000234/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2003. - Loi modifiant la loi du 8 août 1983 organisant un Registre national des personnes physiques et la loi du 19 juillet 1991 relative aux registres de la population et aux cartes d'identité et modifiant la loi du 8 août 1983 organisant un Registre national des personnes physiques.

@@ -11,7 +11,7 @@ date: 2007-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/06/2007036489/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2007. - Decreet houdende instemming met het Protocol bij het Verdrag van 1998 betreffende toegang tot informatie, inspraak bij besluitvorming en toegang tot de rechter inzake milieuaangelegenheden, betreffende registers inzake de uitstoot en overbrenging van verontreinigende stoffen, opgemaakt in Kiev op 21 mei 2003.

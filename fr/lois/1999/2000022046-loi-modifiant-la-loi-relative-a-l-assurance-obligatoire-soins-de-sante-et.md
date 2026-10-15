@@ -12,7 +12,7 @@ entry_into_force: 2000-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/12/28/2000022046/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBRE 1999. - Loi modifiant la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994.

@@ -12,7 +12,7 @@ published: 2000-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/07/05/2000029262/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2000. - Decreet tot wijziging van het decreet van 24 juli 1997 dat de prioritaire taken bepaalt van het basisonderwijs en van het secundair onderwijs en de structuren organiseert die het mogelijk maken ze uit te voeren (VERTALING).

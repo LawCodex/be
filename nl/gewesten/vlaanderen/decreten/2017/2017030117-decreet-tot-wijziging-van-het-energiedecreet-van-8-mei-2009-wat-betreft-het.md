@@ -13,7 +13,7 @@ entry_into_force: 2017-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/24/2017030117/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2017. - Decreet tot wijziging van het Energiedecreet van 8 mei 2009, wat betreft het voorkomen, detecteren, vaststellen en bestraffen van energiefraude

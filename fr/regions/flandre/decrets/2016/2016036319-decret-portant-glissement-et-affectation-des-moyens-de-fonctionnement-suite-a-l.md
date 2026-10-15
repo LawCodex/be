@@ -13,7 +13,7 @@ entry_into_force: 2015-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/15/2016036319/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2016. - Décret portant glissement et affectation des moyens de fonctionnement suite à l'application du décret du 21 mars 2014 relatif à des mesures pour les élèves à besoins éducatifs spécifiques, et portant prolongation du délai d'affection pour l'allocation de fonctionnement supplémentaire pour l'augmentation du nombre de jeunes enfants allophones

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1988/12/19/1988030137/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 02-09-1994 en tekstbijwerking tot 30-09-1998"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1988. - Bijzonder decreet betreffende de Autonome Raad voor het Gemeenschapsonderwijs.

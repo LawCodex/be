@@ -13,7 +13,7 @@ entry_into_force: 1995-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/12/22/1995027085/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1994. - Decreet betreffende de inwerkingtreding van de nieuwe gemeenteboekhouding voor de Openbare Centra voor maatschappelijk Welzijn. (Vertaling)

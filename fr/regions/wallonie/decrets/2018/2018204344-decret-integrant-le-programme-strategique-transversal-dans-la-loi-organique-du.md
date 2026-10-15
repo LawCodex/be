@@ -13,7 +13,7 @@ entry_into_force: 2018-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/19/2018204344/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2018. - Décret intégrant le programme stratégique transversal dans la loi organique du 8 juillet 1976 des Centres publics d'action sociale

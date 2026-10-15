@@ -12,7 +12,7 @@ entry_into_force: 2012-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/11/27/2012003357/justel"
 department: "Finances - Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2012. - Loi modifiant la loi du 21 décembre 2009 relative au statut des établissements de paiement, à l'accès à l'activité de prestataire de services de paiement et à l'accès aux systèmes de paiement et d'autres législations dans la mesure où elles sont relatives au statut des établissements de paiement et des établissements de monnaie électronique et des associations de crédit du réseau du Crédit professionnel

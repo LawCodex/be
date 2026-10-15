@@ -13,7 +13,7 @@ entry_into_force: 2010-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/11/25/2010206164/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2010. - Decreet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Republiek Tadzjikistan, anderzijds, inzake de wederzijdse bevordering en bescherming van investeringen

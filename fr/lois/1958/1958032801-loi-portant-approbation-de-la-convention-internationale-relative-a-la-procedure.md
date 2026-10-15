@@ -11,7 +11,7 @@ published: 1958-05-11
 entry_into_force: 1958-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1958/03/28/1958032801/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 1958. - Loi portant approbation de la Convention internationale relative à la procédure civile, conclue à La Haye, le 1er mars 1954.

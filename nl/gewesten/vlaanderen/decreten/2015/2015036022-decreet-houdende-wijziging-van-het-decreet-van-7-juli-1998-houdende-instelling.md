@@ -13,7 +13,7 @@ entry_into_force: 2015-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/17/2015036022/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2015. - Decreet houdende wijziging van het decreet van 7 juli 1998 houdende instelling van de Vlaamse Ombudsdienst

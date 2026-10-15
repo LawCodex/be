@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/07/11/1994003432/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 11-08-1994 et mise à jour au 30-12-1995"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 1994. - Loi contenant le troisième ajustement du budget général des dépenses de l'année budgétaire 1994.

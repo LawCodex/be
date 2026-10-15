@@ -12,7 +12,7 @@ entry_into_force: 2005-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/03/09/2004015060/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2004. - Wet houdende instemming met het Akkoord tussen het Koninkrijk België en het Koninkrijk der Nederlanden betreffende de arbitrage in verband met de reactivering en de modernisering van de IJzeren Rijn, gesloten te Den Haag bij wisseling van nota's gedagtekend op 22 juli 2003 en 23 juli 2003.

@@ -12,7 +12,7 @@ entry_into_force: 2006-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/03/07/2006022296/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 2006. - Wet tot wijziging van de wet van 3 juli 2005 betreffende de rechten van vrijwilligers en van de wet van 27 december 2005 houdende diverse bepalingen.

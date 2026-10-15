@@ -11,7 +11,7 @@ date: 2002-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/10/07/2002033095/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 OKTOBER 2002. - Decreet houdende goedkeuring van het Protocol van Cartagena inzake bioveiligheid bij het Verdrag inzake biologische diversiteit goedgekeurd te Montreal op 29 januari 2000 (VERTALING).

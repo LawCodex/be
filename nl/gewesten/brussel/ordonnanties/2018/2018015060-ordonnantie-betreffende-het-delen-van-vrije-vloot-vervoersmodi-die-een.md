@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/11/29/2018015060/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 04-12-2018 en tekstbijwerking tot 20-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2018. - Ordonnantie betreffende het delen van vrije vloot vervoersmodi die een alternatief zijn voor de auto

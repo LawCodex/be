@@ -13,7 +13,7 @@ entry_into_force: 2025-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/04/09/2026002814/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 AVRIL 2026. - Décret portant confirmation de l'arrêté du Gouvernement wallon de pouvoirs spéciaux n° 1 du 12 juin 2025 modifiant le décret du 15 mai 2025 relatif à la prolongation des délais impactés par l'intrusion d'avril 2025 dans le système informatique des services du Gouvernement wallon et le décret du 15 mai 2025 relatif à la prolongation des délais impactés par l'intrusion d'avril 2025 dans le système informatique des services du Gouvernement wallon pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française

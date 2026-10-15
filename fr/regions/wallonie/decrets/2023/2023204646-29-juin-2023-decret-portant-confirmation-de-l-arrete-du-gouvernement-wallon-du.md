@@ -13,7 +13,7 @@ entry_into_force: 2023-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/29/2023204646/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2023. - 29 JUIN 2023. Décret portant confirmation de l'arrêté du Gouvernement wallon du 29 septembre 2022 fixant les cotisations obligatoires destinées à la promotion des produits agricoles mentionnées à l'article D.234 du Code wallon de l'Agriculture (1)

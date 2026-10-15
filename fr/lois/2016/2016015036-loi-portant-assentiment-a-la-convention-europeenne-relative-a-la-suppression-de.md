@@ -12,7 +12,7 @@ entry_into_force: 2016-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/02/19/2016015036/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2016. - Loi portant assentiment à la Convention européenne relative à la suppression de la légalisation des actes établis par les agents diplomatiques ou consulaires, faite à Londres le 7 juin 1968

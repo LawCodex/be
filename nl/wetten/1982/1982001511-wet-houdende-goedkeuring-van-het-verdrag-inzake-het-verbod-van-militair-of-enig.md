@@ -12,7 +12,7 @@ entry_into_force: 1982-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1982/06/03/1982001511/justel"
 department: "Buitenlandse Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 1982. - Wet houdende goedkeuring van het Verdrag inzake het verbod van militair of enig ander vijandelijk gebruik van milieuveranderingstechnieken, en van de Bijlage, opgemaakt te New York op 10 december 1976 en opengesteld voor ondertekening te Genève op 18 mei 1977.

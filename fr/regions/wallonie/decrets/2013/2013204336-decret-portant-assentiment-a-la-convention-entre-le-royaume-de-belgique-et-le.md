@@ -13,7 +13,7 @@ entry_into_force: 2013-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/10/2013204336/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2013. - Décret portant assentiment à la Convention entre le Royaume de Belgique et le Japon tendant à éviter les doubles impositions en matière d'impôts sur le revenu, signé à Tokyo le 28 mars 1968, telle que modifiée par le Protocole signé à Bruxelles le 9 novembre 1988 et par le Protocole signé à Bruxelles le 26 janvier 2010, et au Protocole, signé à Bruxelles le 26 janvier 2010, modifiant la Convention entre le Royaume de Belgique et le Japon tendant à éviter les doubles impositions en matière d'impôts sur le revenu

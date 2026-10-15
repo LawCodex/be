@@ -13,7 +13,7 @@ entry_into_force: 2022-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/08/2022015536/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2022. - Décret modifiant l'article 23 de la loi du 16 mars 1968 relative à la police de la circulation routière, l'article 1er de la loi du 21 juin 1985 relative aux conditions techniques auxquelles doivent répondre tout véhicule de transport par terre, ses éléments ainsi que les accessoires de sécurité, l'article 16 du décret du 20 avril 2001 relatif à l'organisation du transport de personnes par la route et l'article 44 du décret du 26 avril 2019 relatif à l'accessibilité de base

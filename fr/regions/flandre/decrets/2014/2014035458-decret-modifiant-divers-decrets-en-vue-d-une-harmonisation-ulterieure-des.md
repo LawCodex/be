@@ -13,7 +13,7 @@ entry_into_force: 2014-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/28/2014035458/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2014. - DECRET modifiant divers décrets en vue d'une harmonisation ultérieure des procédures relatives aux droits de préemption

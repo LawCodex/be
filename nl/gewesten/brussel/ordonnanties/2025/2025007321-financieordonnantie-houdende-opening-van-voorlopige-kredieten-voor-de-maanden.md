@@ -13,7 +13,7 @@ entry_into_force: 2025-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/09/29/2025007321/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 SEPTEMBER 2025. - Financieordonnantie houdende opening van voorlopige kredieten voor de maanden oktober, november en december 2025 van de begroting van de Gemeenschappelijke Gemeenschapscommissie voor het begrotingsjaar 2025

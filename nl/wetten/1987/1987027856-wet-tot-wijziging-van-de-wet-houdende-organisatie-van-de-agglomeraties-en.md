@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1987/08/21/1987027856/justel"
 department: "Brusselse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 11-03-2024 en tekstbijwerking tot 11-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AUGUSTUS 1987. - Wet tot wijziging van de wet houdende organisatie van de agglomeraties en federaties van gemeenten en houdende bepalingen betreffende het Brusselse Gewest

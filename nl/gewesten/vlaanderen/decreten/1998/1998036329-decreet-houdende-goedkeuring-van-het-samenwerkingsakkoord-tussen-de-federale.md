@@ -13,7 +13,7 @@ entry_into_force: 1998-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/11/17/1998036329/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 1998. - Decreet houdende goedkeuring van het samenwerkingsakkoord tussen de federale Staat, de Gemeenschappen en de Gewesten betreffende de bestendiging van het armoedebeleid, ondertekend te Brussel op 5 mei 1998.

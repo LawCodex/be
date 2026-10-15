@@ -13,7 +13,7 @@ entry_into_force: 2019-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/11/22/2019015605/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2019. - Décret modifiant divers décrets, en ce qui concerne la modification du droit d'inscription

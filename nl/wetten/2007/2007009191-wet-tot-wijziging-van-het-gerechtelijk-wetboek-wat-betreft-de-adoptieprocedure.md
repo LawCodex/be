@@ -12,7 +12,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/01/31/2007009191/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2007. - Wet tot wijziging van het Gerechtelijk Wetboek wat betreft de adoptieprocedure.

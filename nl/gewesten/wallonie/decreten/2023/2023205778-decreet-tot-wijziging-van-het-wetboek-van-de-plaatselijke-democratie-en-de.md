@@ -11,7 +11,7 @@ date: 2023-09-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/09/28/2023205778/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBER 2023. - Decreet tot wijziging van het Wetboek van de Plaatselijke Democratie en de Decentralisatie teneinde de drempel voor toegang tot de aanvullende zetelverdeling voor de provincieraadsverkiezingen met de helft te verlagen

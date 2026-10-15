@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/06/15/2001009457/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 2001. - Wet tot wijziging van het Gerechtelijk Wetboek teneinde de indeling van de vredegerechten in klassen af te schaffen en de wedde van sommige hoofdgriffiers en hoofdsecretarissen van parketten aan te passen.

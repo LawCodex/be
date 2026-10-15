@@ -11,7 +11,7 @@ published: 1946-10-23
 entry_into_force: 1946-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1946/10/07/1946100703/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 OKTOBER 1946. - BESLUITWET betreffende de bestraffing van valscheid en van zekere andere misdrijven in zake ravitailleeringszegels en andere ravitailleeringstitels

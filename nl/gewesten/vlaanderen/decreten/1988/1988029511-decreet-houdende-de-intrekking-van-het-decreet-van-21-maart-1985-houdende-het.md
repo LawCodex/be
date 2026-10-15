@@ -13,7 +13,7 @@ entry_into_force: 1985-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1988/06/01/1988029511/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 1988. - Decreet houdende de intrekking van het decreet van 21 maart 1985 houdende het statuut van de reisbureaus.

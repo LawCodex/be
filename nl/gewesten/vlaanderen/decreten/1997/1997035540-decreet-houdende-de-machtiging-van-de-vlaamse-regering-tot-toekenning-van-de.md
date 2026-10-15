@@ -13,7 +13,7 @@ entry_into_force: 1997-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/04/22/1997035540/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 1997. - Decreet houdende de machtiging van de Vlaamse regering tot toekenning van de gewestwaarborg voor de lease-in-lease-out-transactie van de Liefkenshoektunnel.

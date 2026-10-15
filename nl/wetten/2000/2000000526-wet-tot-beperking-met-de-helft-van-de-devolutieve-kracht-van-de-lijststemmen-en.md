@@ -12,7 +12,7 @@ entry_into_force: 2000-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/06/26/2000000526/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2000. - [Wet tot beperking met de helft van de devolutieve kracht] van de lijststemmen en tot afschaffing van het onderscheid tussen kandidaat-titularissen en kandidaat-opvolgers voor de verkiezing van de provincie- en gemeenteraden en het Europees Parlement. (Erratum, zie B.St. 04.08.2000, p. 26801).

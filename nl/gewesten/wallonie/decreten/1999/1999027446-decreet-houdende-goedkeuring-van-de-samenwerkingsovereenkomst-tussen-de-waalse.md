@@ -13,7 +13,7 @@ entry_into_force: 1999-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/06/1999027446/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 1999. - Decreet houdende goedkeuring van de Samenwerkingsovereenkomst tussen de Waalse Regering en de Regering van de Franse Gemeenschap, enerzijds, en de Regering van Roemenië, anderzijds, opgemaakt te Boekarest op 21 mei 1998, en van de Samenwerkingsovereenkomst inzake wetenschappelijke en technische samenwerking tussen de Minister van Internationale Betrekkingen van de Franse Gemeenschap van België, enerzijds, en de Minister van Onderzoek en Technologische Ontwikkeling van Roemenië, anderzijds, en van de bijlage, opgemaakt te Brussel op 25 juni 1997 (VERTALING).

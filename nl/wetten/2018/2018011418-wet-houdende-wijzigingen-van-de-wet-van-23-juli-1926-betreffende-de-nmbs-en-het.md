@@ -12,7 +12,7 @@ entry_into_force: 2018-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/18/2018011418/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 2018. - Wet houdende wijzigingen van de wet van 23 juli 1926 betreffende de NMBS en het personeel van de Belgische Spoorwegen en aan het Gerechtelijk Wetboek inzake de sociale verkiezingen voor bepaalde organen van sociale dialoog van de Belgische

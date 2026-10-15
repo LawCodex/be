@@ -13,7 +13,7 @@ entry_into_force: 2011-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/02/24/2011031111/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2011. - Ordonnance modifiant l'ordonnance du 29 novembre 2007 portant fixation des modes de sépulture, de la destination des cendres ainsi que des rites de la conviction philosophique pour les funérailles pouvant figurer dans l'acte de dernières volontés

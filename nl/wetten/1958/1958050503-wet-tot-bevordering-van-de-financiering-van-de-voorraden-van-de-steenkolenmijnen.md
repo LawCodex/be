@@ -13,7 +13,7 @@ last_amended: 2019-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1958/05/05/1958050503/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 14-05-2019 en tekstbijwerking tot 14-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1958. - Wet tot bevordering van de financiering van de voorraden van de steenkolenmijnen

@@ -13,7 +13,7 @@ entry_into_force: 2019-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/01/28/2019200852/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 2019. - Decreet houdende goedkeuring van het Verdrag betreffende de Aziatische Infrastructuurinvesteringsbank en de resolutie, gedaan te Beijing op 29 juni 2015

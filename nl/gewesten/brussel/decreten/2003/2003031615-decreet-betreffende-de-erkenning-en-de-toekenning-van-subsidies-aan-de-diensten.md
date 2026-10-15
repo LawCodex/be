@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/04/2003031615/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 08-01-2004 en tekstbijwerking tot 08-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2003. - Decreet betreffende de erkenning en de toekenning van subsidies aan de diensten voor opdrachten inzake bijstand aan de slachtoffers en aan hun naasten, enerzijds, en aan de verdachten en in vrijheid gestelde veroordeelden en aan ex-gedetineerden en aan hun naasten, anderzijds. (Vertaling). &lt;Erratum, B.St. 25-04-2005, p. 19154&gt;

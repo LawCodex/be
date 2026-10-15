@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/22/2014009373/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 23-07-2014 en tekstbijwerking tot 30-06-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2014. - Wet tot wijziging van diverse bepalingen ter voorkoming van internationale kinderontvoeringen door een ouder

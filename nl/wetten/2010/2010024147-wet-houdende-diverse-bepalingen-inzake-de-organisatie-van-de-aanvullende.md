@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/04/26/2010024147/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 28-05-2010 en tekstbijwerking tot 17-08-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2010. - Wet houdende diverse bepalingen inzake de organisatie van de aanvullende ziekteverzekering (I).

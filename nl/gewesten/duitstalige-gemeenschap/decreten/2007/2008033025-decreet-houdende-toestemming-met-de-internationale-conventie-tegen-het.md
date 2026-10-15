@@ -13,7 +13,7 @@ entry_into_force: 2008-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/17/2008033025/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2007. - Decreet houdende toestemming met de Internationale Conventie tegen het dopinggebruik in de sport, aangenomen in Parijs op 19 oktober 2005, en de bijlagen I en II ervan (VERTALING).

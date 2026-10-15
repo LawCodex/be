@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/02/11/2013200528/justel"
 department: "Emploi, Travail et Concertation sociale"
 justel_note: "Consultation des versions antérieures à partir du 22-02-2013 et mise à jour au 18-12-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEVRIER 2013. - Loi prévoyant des sanctions et des mesures à l'encontre des employeurs de ressortissants de pays tiers en séjour illégal

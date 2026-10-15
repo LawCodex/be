@@ -11,7 +11,7 @@ date: 2002-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/11/2002029437/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2002. - Decreet tot wijziging van het decreet van 20 december 2001 tot vaststelling van de regels die specifiek zijn voor het hoger kunstonderwijs georganiseerd in de hogere kunstscholen (organisatie, financiering, omkadering, statuut van het personeel, rechten en plichten van studenten) (VERTALING).

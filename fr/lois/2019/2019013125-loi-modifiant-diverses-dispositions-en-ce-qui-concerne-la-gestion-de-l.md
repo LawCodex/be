@@ -12,7 +12,7 @@ entry_into_force: 2019-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/22/2019013125/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2019. - Loi modifiant diverses dispositions en ce qui concerne la gestion de l'information policière

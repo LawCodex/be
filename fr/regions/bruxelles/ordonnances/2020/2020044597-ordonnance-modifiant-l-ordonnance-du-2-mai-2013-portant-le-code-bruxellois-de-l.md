@@ -13,7 +13,7 @@ entry_into_force: 2021-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/12/18/2020044597/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2020. - Ordonnance modifiant l'ordonnance du 2 mai 2013 portant le Code bruxellois de l'Air, du Climat et de la Maîtrise de l'énergie en vue de la transposition de la directive (UE) 2018/844

@@ -12,7 +12,7 @@ entry_into_force: 1984-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/12/08/1984015278/justel"
 department: "Affaires étrangères"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 1983. - Loi portant approbation du Protocole portant amendement de la Convention unique sur les stupéfiants de 1961, fait à Genève le 25 mars 1972.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/21/2013003445/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2013 en tekstbijwerking tot 05-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2013. - Wet houdende diverse fiscale en financiële bepalingen

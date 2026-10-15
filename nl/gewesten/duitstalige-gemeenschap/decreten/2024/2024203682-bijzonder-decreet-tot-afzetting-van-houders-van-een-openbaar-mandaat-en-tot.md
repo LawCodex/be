@@ -12,7 +12,7 @@ published: 2024-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/06/2024203682/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2024. - Bijzonder decreet tot afzetting van houders van een openbaar mandaat en tot wijziging van de wet van 31 december 1983 tot hervorming der instellingen voor de Duitstalige Gemeenschap

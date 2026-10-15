@@ -13,7 +13,7 @@ entry_into_force: 2016-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/20/2016204050/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2016. - Décret modifiant le décret du 22 juillet 2010 créant un Conseil de la Fiscalité et des Finances de Wallonie

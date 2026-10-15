@@ -12,7 +12,7 @@ entry_into_force: 2014-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/08/2014015140/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2014. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et les Etats-Unis d'Amérique sur le renforcement de la coopération dans la prévention et la lutte contre la criminalité grave, établi à Bruxelles le 20 septembre 2011

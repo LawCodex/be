@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/07/06/1997003351/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 24-09-1997 en tekstbijwerking tot 04-03-1998"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 1997. - Wet houdende tweede aanpassing van de Algemene Uitgavenbegroting van het begrotingsjaar 1997.

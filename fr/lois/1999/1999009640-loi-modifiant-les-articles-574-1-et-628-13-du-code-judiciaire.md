@@ -12,7 +12,7 @@ entry_into_force: 1999-09-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999009640/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 1999. - Loi modifiant les articles 574, 1°, et 628, 13°, du Code judiciaire.

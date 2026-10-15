@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/10/2013204849/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 05-09-2013 en tekstbijwerking tot 10-11-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2013. - Decreet tot vaststelling van een kader ter verwezenlijking van een duurzaam gebruik van pesticiden en tot wijziging van Boek I van het Milieuwetboek, Boek II van het Milieuwetboek, dat het Waterwetboek inhoudt, de wet van 28 december 1967 betreffende de onbevaarbare waterlopen en het decreet van 12 juli 2001 betreffende de beroepsopleiding in de landbouw

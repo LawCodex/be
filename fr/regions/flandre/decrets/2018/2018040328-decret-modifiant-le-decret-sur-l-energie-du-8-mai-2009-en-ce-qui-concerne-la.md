@@ -13,7 +13,7 @@ entry_into_force: 2018-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/13/2018040328/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2018. - Décret modifiant le Décret sur l'Energie du 8 mai 2009, en ce qui concerne la fixation du rythme d'amortissement d'investissements pour les demandes de prolongation des certificats verts

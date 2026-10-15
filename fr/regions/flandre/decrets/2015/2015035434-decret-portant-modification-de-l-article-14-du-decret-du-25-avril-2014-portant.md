@@ -13,7 +13,7 @@ entry_into_force: 2015-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/03/20/2015035434/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2015. - Décret portant modification de l'article 14 du décret du 25 avril 2014 portant le financement qui suit la personne pour des personnes handicapées et portant réforme du mode de financement des soins et du soutien pour des personnes handicapées

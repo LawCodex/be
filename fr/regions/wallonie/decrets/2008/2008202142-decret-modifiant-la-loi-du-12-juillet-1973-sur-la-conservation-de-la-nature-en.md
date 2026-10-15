@@ -13,7 +13,7 @@ entry_into_force: 2008-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/22/2008202142/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2008. - Décret modifiant la loi du 12 juillet 1973 sur la conservation de la nature en ce qui concerne la réglementation relative à la conservation des sites Natura 2000 ainsi que de la faune et de la flore sauvages.

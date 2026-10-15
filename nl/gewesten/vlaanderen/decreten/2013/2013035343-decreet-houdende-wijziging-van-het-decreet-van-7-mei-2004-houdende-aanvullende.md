@@ -13,7 +13,7 @@ entry_into_force: 2013-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/03/22/2013035343/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2013. - Decreet houdende wijziging van het decreet van 7 mei 2004 houdende aanvullende subsidies voor tewerkstelling in de culturele sector, wat de verdeling betreft van de middelen voor de aanvullende subsidie voor tewerkstelling binnen de sector gemeentelijk jeugdwerkbeleid

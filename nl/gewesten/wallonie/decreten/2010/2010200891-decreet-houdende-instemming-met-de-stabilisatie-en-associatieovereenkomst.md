@@ -13,7 +13,7 @@ entry_into_force: 2010-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/02/04/2010200891/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2010. - Decreet houdende instemming met de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Montenegro, anderzijds, ondertekend in Luxemburg op 15 oktober 2007

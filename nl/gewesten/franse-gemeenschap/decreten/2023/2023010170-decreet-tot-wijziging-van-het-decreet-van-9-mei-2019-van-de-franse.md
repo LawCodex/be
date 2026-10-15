@@ -13,7 +13,7 @@ entry_into_force: 2023-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/01/19/2023010170/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JANUARI 2023. - Decreet tot wijziging van het decreet van 9 mei 2019 van de Franse Gemeenschapscommissie houdende de toegankelijkheid van websites en mobiele applicaties van de openbare instellingen van de Franse Gemeenschapscommissie

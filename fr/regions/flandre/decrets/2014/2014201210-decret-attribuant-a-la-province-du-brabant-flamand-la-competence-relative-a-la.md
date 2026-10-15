@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/01/31/2014201210/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-02-2014 et mise à jour au 12-07-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2014. - [Décret attribuant à la Province du Brabant flamand la compétence relative à la conduite d'une politique foncière et du logement spécifique et d'une politique d'aide sociale et d'infrastructure de santé spécifique pour le Brabant flamand] &lt;Intitulé remplacé par DCFL 2017-12-22/44 , art. 2, 002; En vigueur : 01-01-2018&gt;

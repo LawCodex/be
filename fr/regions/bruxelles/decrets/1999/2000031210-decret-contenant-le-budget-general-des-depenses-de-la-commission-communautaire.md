@@ -16,7 +16,7 @@ department: "Commission communautaire française - Région de Bruxelles-Capitale
 justel_notes:
   - "voir ajustement par DEC 2000-06-23/43."
   - "Consultation des versions antérieures à partir du 12-07-2000 et mise à jour sommaire au 10-05-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 1999. - Décret contenant le budget général des dépenses de la Commission communautaire française pour l'année budgétaire 2000.

@@ -12,7 +12,7 @@ entry_into_force: 1994-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/12/01/1994010028/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 1994. - WET betreffende de opleiding en werving van magistraten

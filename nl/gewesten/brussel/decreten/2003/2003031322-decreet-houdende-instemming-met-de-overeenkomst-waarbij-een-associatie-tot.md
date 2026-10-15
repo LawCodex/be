@@ -13,7 +13,7 @@ entry_into_force: 2003-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/05/16/2003031322/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2003. - Decreet houdende instemming met de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lid-Staten, enerzijds, en de Republiek Chili anderzijds (VERTALING).

@@ -11,7 +11,7 @@ published: 2024-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/03/2024005017/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2024. - Loi portant institution d'un Conseil national de la coopération et de l'entreprise sociale

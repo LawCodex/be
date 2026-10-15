@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/24/2002003520/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2002 et mise à jour au 28-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 2002. - Loi modifiant le régime des sociétés en matière d'impôts sur les revenus et instituant un système de décision anticipée en matière fiscale.

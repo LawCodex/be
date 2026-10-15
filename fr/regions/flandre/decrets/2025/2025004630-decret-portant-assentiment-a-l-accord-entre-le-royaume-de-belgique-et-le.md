@@ -13,7 +13,7 @@ entry_into_force: 2025-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/06/13/2025004630/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 2025. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et le Royaume des Pays-Bas pour ce qui est des Antilles néerlandaises relatif au transport aérien, fait à Bruxelles le 5 février 2008

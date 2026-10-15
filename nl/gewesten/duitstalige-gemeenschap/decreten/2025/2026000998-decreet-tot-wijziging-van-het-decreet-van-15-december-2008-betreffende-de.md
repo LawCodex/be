@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/22/2026000998/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2025. - Decreet tot wijziging van het decreet van 15 december 2008 betreffende de financiering van de gemeenten en van de openbare centra voor maatschappelijk welzijn door de Duitstalige Gemeenschap

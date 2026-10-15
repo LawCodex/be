@@ -13,7 +13,7 @@ entry_into_force: 2003-10-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/07/11/2003031463/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2003. - Decreet houdende instemming met het Samenwerkingsakkoord tussen het Waalse Gewest, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest betreffende de oprichting van de Waals-Brusselse Raad voor Internationale Samenwerking (VERTALING).

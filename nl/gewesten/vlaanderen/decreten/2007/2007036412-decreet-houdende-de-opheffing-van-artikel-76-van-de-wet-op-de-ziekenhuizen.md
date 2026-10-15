@@ -13,7 +13,7 @@ entry_into_force: 2007-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/13/2007036412/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2007. - Decreet houdende de opheffing van artikel 76 van de wet op de ziekenhuizen, gecoördineerd op 7 augustus 1987.

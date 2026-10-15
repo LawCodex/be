@@ -13,7 +13,7 @@ entry_into_force: 2018-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/23/2018030676/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2018. - Décret modifiant le décret du 8 juillet 2016 instaurant un cadre modérément réglementé en fonction des projets pilotes d'accessibilité de base

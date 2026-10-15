@@ -17,7 +17,7 @@ department: "Autorité flamande"
 justel_notes:
   - "les mots \" het Milieuhandhavingscollege \", tels qu'utilisés présent à l'acte réglementaire, ne doivent pas être lus comme \" le Collège de Maintien environnemental \", mais comme \" la Cour environnementale de la Région flamande \"; voir M.B. 23-03-2010, p. 185522"
   - "Consultation des versions antérieures à partir du 29-02-2008 et mise à jour au 25-06-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2007. - Décret complétant le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement par un titre XVI "Contrôle, maintien et mesures de sécurité" (TRADUCTION)

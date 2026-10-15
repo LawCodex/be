@@ -12,7 +12,7 @@ entry_into_force: 2009-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/03/08/2009000432/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 2009. - Loi modifiant l'article 12bis de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers

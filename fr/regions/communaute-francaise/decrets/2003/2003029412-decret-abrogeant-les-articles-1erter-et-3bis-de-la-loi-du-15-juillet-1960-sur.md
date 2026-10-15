@@ -13,7 +13,7 @@ entry_into_force: 2003-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/07/03/2003029412/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2003. - Décret abrogeant les articles 1erter et 3bis de la loi du 15 juillet 1960 sur la préservation morale de la jeunesse.

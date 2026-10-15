@@ -12,7 +12,7 @@ entry_into_force: 2000-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/11/10/2000016325/justel"
 department: "Classes Moyennes - Agriculture"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2000. - Loi modifiant l'article 13 de la loi du 19 décembre 1950 créant l'Ordre des médecins vétérinaires.

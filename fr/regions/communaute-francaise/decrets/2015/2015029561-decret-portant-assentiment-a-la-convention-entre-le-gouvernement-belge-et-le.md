@@ -13,7 +13,7 @@ entry_into_force: 2015-11-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/10/22/2015029561/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2015. - Décret portant assentiment à la Convention entre le Gouvernement belge et le Gouvernement macédonien tendant à éviter la double imposition en matière d'impôts sur le revenu et sur la fortune et à prévenir l'évasion fiscale, faite à Bruxelles le 6 juillet 2010

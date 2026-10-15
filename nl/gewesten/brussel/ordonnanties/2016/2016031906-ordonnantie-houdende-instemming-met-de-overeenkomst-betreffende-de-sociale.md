@@ -13,7 +13,7 @@ entry_into_force: 2017-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/12/23/2016031906/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2016. - Ordonnantie houdende instemming met : de Overeenkomst betreffende de sociale zekerheid tussen de Regering van het Koninkrijk België en de Regering van de Republiek Turkije, opgemaakt te Ankara op 11 april 2014

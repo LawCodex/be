@@ -13,7 +13,7 @@ entry_into_force: 2017-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/19/2017031014/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2017. - Décret portant exécution du protocole d'accord sectoriel 2015-2016 entre le Gouvernement de la Communauté française et les organisations syndicales et les organes de représentation et de coordination des pouvoirs organisateurs

@@ -13,7 +13,7 @@ entry_into_force: 2013-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/07/2013203749/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 2013. - DECRET portant assentiment : 1° à la Convention entre le Royaume de Belgique et la République hellénique tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Athènes le 25 mai 2004, telle que modifiée par le protocole du 16 mars 2010; 2° au protocole modifiant la Convention, visé au 1°, signé à Bruxelles le 16 mars 2010

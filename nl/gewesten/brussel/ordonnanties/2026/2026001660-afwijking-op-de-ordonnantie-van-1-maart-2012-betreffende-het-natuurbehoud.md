@@ -13,7 +13,7 @@ entry_into_force: 2026-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2026/03/05/2026001660/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2026. - Afwijking op de ordonnantie van 1 maart 2012 betreffende het natuurbehoud

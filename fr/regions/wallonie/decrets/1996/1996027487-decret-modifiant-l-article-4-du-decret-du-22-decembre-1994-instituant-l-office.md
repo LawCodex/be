@@ -12,7 +12,7 @@ published: 1996-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/25/1996027487/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUILLET 1996. - Décret modifiant l'article 4 du décret du 22 décembre 1994 instituant l'Office régional de Promotion de l'Agriculture et de l'Horticulture.

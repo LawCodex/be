@@ -11,7 +11,7 @@ published: 2019-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/05/2019201999/justel"
 department: "Agence Fédérale de Contrôle nucléaire"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 2019. - Loi portant modification de la loi du 15 avril 1994 relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de Contrôle nucléaire concernant la cybersecurité nucléaire

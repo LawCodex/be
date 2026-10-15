@@ -13,7 +13,7 @@ entry_into_force: 2019-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/14/2019013096/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2019. - Decreet tot goedkeuring van de statuten van de Aziatische Infrastructuurinvesteringsbank

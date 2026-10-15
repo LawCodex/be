@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1963/12/31/1963123106/justel"
 justel_notes:
   - "loi abrogée avec effet à une date indéterminée <L 2007-05-15/61 , art. 201, 006; En vigueur : indéterminée >"
   - "Consultation des versions antérieures à partir du 16-04-2003 et mise à jour au 20-08-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 DECEMBRE 1963. - Loi sur la protection civile.

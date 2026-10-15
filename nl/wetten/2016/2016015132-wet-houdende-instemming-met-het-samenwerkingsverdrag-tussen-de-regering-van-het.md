@@ -12,7 +12,7 @@ entry_into_force: 2022-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/05/26/2016015132/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 2016. - Wet houdende instemming met het Samenwerkingsverdrag tussen de regering van het Koninkrijk België en de regering van het Koninkrijk Marokko inzake de bestrijding van de georganiseerde criminaliteit en het terrorisme, opgemaakt te Brussel op 18 februari 2014

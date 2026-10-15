@@ -13,7 +13,7 @@ entry_into_force: 2003-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/01/23/2003029057/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 2003. - Decreet tot goedkeuring van het samenwerkingsakkoord tussen de Franse Gemeenschap, het Waals Gewest en de Franse Gemeenschapscommissie tot oprichting van het Franstalig Comité voor de coördinatie van het welzijns- en gezondheidsbeleid (VERTALING).

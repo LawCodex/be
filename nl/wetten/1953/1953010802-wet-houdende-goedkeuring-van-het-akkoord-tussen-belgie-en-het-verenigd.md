@@ -11,7 +11,7 @@ published: 1953-01-25
 entry_into_force: 1953-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1953/01/08/1953010802/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JANUARI 1953. - Wet houdende goedkeuring van het Akkoord tussen België en het Verenigd Koninkrijk Groot-Brittannië en Noord-Ierland, betreffende de luchtdiensten tussen hun respectieve grondgebieden en verdere landen, ondertekend op 8 Mei 1951, te Londen.

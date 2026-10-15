@@ -12,7 +12,7 @@ published: 2012-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/29/2012203966/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2012. - DECREET tot bekrachtiging van het besluit van de Vlaamse Regering van 4 mei 2012 tot aanpassing van de eindtermen voor het leergebied maatschappijoriëntatie van de basiseducatie

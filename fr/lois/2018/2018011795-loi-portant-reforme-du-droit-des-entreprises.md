@@ -12,7 +12,7 @@ entry_into_force: 2018-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/04/15/2018011795/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 AVRIL 2018. - Loi portant réforme du droit des entreprises

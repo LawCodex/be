@@ -13,7 +13,7 @@ entry_into_force: 2025-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/05/30/2025004291/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2025. - Décret modifiant l'article 3 du décret du 16 novembre 2023 relatif au subventionnement des infrastructures et des équipements des milieux d'accueil de la petite enfance et insérant un article 15/1

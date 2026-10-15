@@ -12,7 +12,7 @@ published: 1994-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/12/27/1994029023/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 1993. - Decreet houdende dringende maatregelen inzake onderwijs (Vertaling).

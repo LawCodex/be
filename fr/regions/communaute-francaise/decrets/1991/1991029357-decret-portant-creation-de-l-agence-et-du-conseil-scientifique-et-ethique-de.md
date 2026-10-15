@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/04/16/1991029357/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 18-07-1991 et mise à jour au 31-12-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 AVRIL 1991. - Décret portant création de l'Agence et du Conseil scientifique et éthique de prévention du Sida pour la Communauté française.

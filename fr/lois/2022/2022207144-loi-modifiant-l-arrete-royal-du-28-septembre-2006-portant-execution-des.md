@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/27/2022207144/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2022. - Loi modifiant l'arrêté royal du 28 septembre 2006 portant exécution des articles 33, 33bis, 34 et 34bis de la loi de redressement du 10 février 1981 relative aux pensions du secteur social et la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions

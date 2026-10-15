@@ -13,7 +13,7 @@ entry_into_force: 2004-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035791/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant confirmation des autorisations urbanistiques accordées par le Gouvernement flamand le 2 avril 2004 en application du décret du 14 décembre 2001 pour quelques permis de bâtir auxquels s'appliquent des raisons obligatoires de grand intérêt publique (TRADUCTION).

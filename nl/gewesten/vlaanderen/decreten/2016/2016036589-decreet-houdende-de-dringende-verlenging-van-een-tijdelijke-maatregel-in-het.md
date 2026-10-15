@@ -12,7 +12,7 @@ published: 2016-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/11/18/2016036589/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2016. - Decreet houdende de dringende verlenging van een tijdelijke maatregel in het kader van het stijgend aantal anderstalige kleuters

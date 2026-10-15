@@ -12,7 +12,7 @@ entry_into_force: 2009-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/04/14/2009003147/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 AVRIL 2009. - Loi modifiant la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers

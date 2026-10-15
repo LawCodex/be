@@ -12,7 +12,7 @@ entry_into_force: 2019-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/12/20/2019040052/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2018. - Wet tot wijziging van de wet van 3 juni 1964 tot wijziging van het koninklijk besluit nr. 42 van 31 augustus 1939 houdende reorganisatie van de nationale Delcrederedienst en tot machtiging van de minister van Financiën en van de minister die de buitenlandse handelsbetrekkingen in zijn bevoegdheid heeft, leningen aan Staten en buitenlandse organismen toe te staan

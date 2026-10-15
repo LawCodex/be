@@ -12,7 +12,7 @@ entry_into_force: 2021-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/11/26/2021043330/justel"
 department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2021. - Loi modifiant l'article 98 de la loi organique du 8 juillet 1976 des centres publics d'action sociale

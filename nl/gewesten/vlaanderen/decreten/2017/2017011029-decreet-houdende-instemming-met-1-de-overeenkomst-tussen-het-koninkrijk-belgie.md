@@ -13,7 +13,7 @@ entry_into_force: 2017-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/10/2017011029/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2017. - Decreet houdende instemming met: 1° de overeenkomst tussen het Koninkrijk België en het Koninkrijk Noorwegen tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en tot het voorkomen van het ontduiken van belasting, ondertekend te Oslo op 23 april 2014; 2° het protocol bij de onder 1° vermelde overeenkomst, ondertekend te Oslo op 23 april 2014

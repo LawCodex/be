@@ -13,7 +13,7 @@ entry_into_force: 2024-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/01/2024003034/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2024. - Decreet tot wijziging van de regelgeving over de organisatie van de eerstelijnszorg voor de persoon met een zorg- en ondersteuningsnood, de zorgraden en de verwerking van persoonsgegevens in het kader van het digitale zorg- en ondersteuningsplan, de financiering van eerstelijnszorgaanbieders en voor beleidsdoeleinden

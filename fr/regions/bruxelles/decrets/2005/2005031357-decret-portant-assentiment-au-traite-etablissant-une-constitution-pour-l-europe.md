@@ -13,7 +13,7 @@ entry_into_force: 2005-11-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/20/2005031357/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2005. - Décret portant assentiment au Traité établissant une Constitution pour l'Europe et à l'Acte final faits à Rome, le 29 octobre 2004.

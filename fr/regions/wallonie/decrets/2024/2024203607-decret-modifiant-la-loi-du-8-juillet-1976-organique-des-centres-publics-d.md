@@ -13,7 +13,7 @@ entry_into_force: 2024-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/28/2024203607/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2024. - Décret modifiant la loi du 8 juillet 1976 organique des centres publics d'action sociale en vue de simplifier le fonctionnement et l'organisation de leurs organes

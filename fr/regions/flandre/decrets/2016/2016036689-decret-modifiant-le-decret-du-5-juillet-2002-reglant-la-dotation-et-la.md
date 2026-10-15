@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/02/2016036689/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2016. - Décret modifiant le décret du 5 juillet 2002 réglant la dotation et la répartition du Fonds flamand des Communes et abrogeant le décret du 13 décembre 2002 réglant le fonctionnement et la répartition du "Vlaams Stedenfonds"

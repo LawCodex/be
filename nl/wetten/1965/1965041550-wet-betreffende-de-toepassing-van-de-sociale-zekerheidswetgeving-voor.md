@@ -11,7 +11,7 @@ published: 1965-05-12
 entry_into_force: 1965-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1965/04/15/1965041550/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 APRIL 1965. - WET betreffende de toepassing van de sociale zekerheidswetgeving voor werknemers op sommige categorieën van personen

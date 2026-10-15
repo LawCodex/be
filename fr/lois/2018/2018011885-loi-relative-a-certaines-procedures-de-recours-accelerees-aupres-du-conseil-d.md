@@ -12,7 +12,7 @@ entry_into_force: 2018-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/04/27/2018011885/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2018. - Loi relative à certaines procédures de recours accélérées auprès du Conseil d'Etat

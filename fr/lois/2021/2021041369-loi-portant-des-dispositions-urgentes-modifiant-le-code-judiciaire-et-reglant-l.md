@@ -12,7 +12,7 @@ entry_into_force: 2021-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/05/10/2021041369/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAI 2021. - Loi portant des dispositions urgentes modifiant le Code judiciaire et réglant l'indemnité accordée au personnel judiciaire pour le télétravail effectué lors de la crise sanitaire liée au coronavirus COVID-19

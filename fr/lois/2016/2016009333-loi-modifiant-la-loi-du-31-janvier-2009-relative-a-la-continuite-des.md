@@ -12,7 +12,7 @@ entry_into_force: 2016-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/06/16/2016009333/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2016. - Loi modifiant la loi du 31 janvier 2009 relative à la continuité des entreprises en ce qui concerne l'appel dans le cadre d'une réorganisation judiciaire par accord collectif

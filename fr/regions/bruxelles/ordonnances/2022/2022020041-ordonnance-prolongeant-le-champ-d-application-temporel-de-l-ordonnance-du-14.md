@@ -13,7 +13,7 @@ entry_into_force: 2022-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/01/14/2022020041/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 2022. - Ordonnance prolongeant le champ d'application temporel de l'ordonnance du 14 octobre 2021 relative à l'extension du COVID Safe Ticket en cas de nécessité découlant d'une situation épidémiologique particulière

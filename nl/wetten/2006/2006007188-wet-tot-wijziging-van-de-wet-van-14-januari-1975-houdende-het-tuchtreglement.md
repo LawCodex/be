@@ -12,7 +12,7 @@ entry_into_force: 2006-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/06/14/2006007188/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUNI 2006. - Wet tot wijziging van de wet van 14 januari 1975 houdende het tuchtreglement van de krijgsmacht met het oog op de toelating tot bepaalde politieke mandaten en houdende diverse bepalingen.

@@ -13,7 +13,7 @@ last_amended: 2023-10-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1932/08/04/1932080450/justel"
 justel_note: "Consultation des versions antérieures à partir du 31-08-2001 et mise à jour au 13-10-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1932. - Loi électorale communale. (Egalement désignée comme code électoral communal bruxellois.)

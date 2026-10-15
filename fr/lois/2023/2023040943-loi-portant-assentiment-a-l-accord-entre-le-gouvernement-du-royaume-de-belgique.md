@@ -12,7 +12,7 @@ entry_into_force: 2025-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/02/12/2023040943/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2023. - Loi portant assentiment à l'Accord entre le gouvernement du Royaume de Belgique et le gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord concernant la protection des informations classifiées, fait à Bruxelles le 1er décembre 2020

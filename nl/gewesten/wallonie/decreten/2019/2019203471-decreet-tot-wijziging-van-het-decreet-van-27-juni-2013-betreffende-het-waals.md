@@ -13,7 +13,7 @@ entry_into_force: 2019-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019203471/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet tot wijziging van het decreet van 27 juni 2013 betreffende het Waals beleid inzake duurzame ontwikkeling en het decreet van 6 november 2008 houdende rationalisatie van de adviesverlenende functie

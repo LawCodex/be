@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1961/06/23/1961062307/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 30-04-2009 et mise à jour au 02-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 1961. - Loi relative au droit de réponse

@@ -12,7 +12,7 @@ entry_into_force: 2016-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/04/30/2016015047/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2015. - Wet houdende instemming met de Overeenkomst inzake de Internationale Opsporingsdienst en met de Partnerschapsovereenkomst inzake de relaties tussen de Federale Archieven van de Bondsrepubliek Duitsland en de Internationale Opsporingsdienst, ondertekend te Berlijn op 9 december 2011

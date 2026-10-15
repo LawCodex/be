@@ -12,7 +12,7 @@ entry_into_force: 2021-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/02/17/2021042353/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2021. - Loi visant à approuver le compte général de l'Administration générale pour l'année 2019 et des comptes d'exécution des budgets des Services de l'Etat à gestion séparée pour des années précédentes.

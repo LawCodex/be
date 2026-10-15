@@ -11,7 +11,7 @@ date: 2023-11-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/11/17/2023047405/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2023. - Bijzonder decreet tot wijziging van het bijzonder decreet van 26 juni 1991 betreffende de Universiteit Gent en het Universitair Centrum Antwerpen, wat betreft de delegatie door de raad van bestuur

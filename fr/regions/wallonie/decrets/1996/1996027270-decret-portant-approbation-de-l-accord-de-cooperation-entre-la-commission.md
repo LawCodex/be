@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/04/04/1996027270/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 14-06-1996 et mise à jour au 10-04-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 1996. - Décret portant approbation de l'accord de coopération entre la Commission communautaire française de Bruxelles-Capitale et la Région wallonne visant à garantir la libre circulation des personnes handicapées

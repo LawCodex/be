@@ -13,7 +13,7 @@ entry_into_force: 2020-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/17/2020042401/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2020. - Décret validant les conditions environnementales sectorielles pour les éoliennes

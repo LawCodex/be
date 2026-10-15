@@ -11,7 +11,7 @@ published: 1959-06-27
 entry_into_force: 1959-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1958/04/29/1958042957/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 1958. - Wet houdende goedkeuring van de Luchtvaartovereenkomst tussen België en Ierland en van de Bijlage, ondertekend op 10 September 1955, te Brussel.

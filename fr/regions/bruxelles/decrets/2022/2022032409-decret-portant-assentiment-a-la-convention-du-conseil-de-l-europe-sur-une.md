@@ -13,7 +13,7 @@ entry_into_force: 2022-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/05/12/2022032409/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2022. - Décret portant assentiment à la Convention du Conseil de l'Europe sur une approche intégrée de la sécurité, de la sûreté et des services lors de matches de football et autres manifestations sportives, faite à Saint-Denis, le 3 juillet 2016

@@ -12,7 +12,7 @@ published: 2006-04-10
 entry_into_force: 2006-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/02/17/2006031139/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2006. - Décret modifiant le décret du 5 juin 1997 portant création du Conseil consultatif bruxellois francophone de l'Aide aux Personnes et de la Santé.

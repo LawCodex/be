@@ -12,7 +12,7 @@ entry_into_force: 2001-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/07/13/2001022558/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2001. - Wet tot wijziging van de wet van 4 februari 2000 houdende oprichting van het Federaal Agentschap voor de Veiligheid van de Voedselketen.

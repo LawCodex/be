@@ -11,7 +11,7 @@ published: 1976-09-11
 entry_into_force: 1976-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/07/26/1976072602/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUILLET 1976. - Loi portant approbation de la Convention entre la Belgique et le Canada tendant à éviter les doubles impositions et à régler certaines autres questions en matière d'impôts sur le revenu, signée à Ottawa le 29 mai 1975.

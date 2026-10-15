@@ -12,7 +12,7 @@ entry_into_force: 2013-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/09/01/2012015179/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 SEPTEMBRE 2012. - Loi portant assentiment à la Convention n° 176 de l'Organisation internationale du Travail concernant la sécurité et la santé dans les mines, adoptée à Genève le 22 juin 1995

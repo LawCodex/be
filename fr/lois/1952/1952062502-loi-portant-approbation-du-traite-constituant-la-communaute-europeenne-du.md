@@ -11,7 +11,7 @@ published: 1952-08-06
 entry_into_force: 1952-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1952/06/25/1952062502/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 1952. - Loi portant approbation du Traité constituant la Communauté Européenne du Charbon et de l'Acier, des annexes I, II et III, du protocole sur les Privilèges et Immunités de la Communauté, du Protocole sur le Statut de la Cour de Justice, du Protocole sur les relations avec le Conseil de l'Europe et de la Convention relative aux Dispositions Transitoires, signés à Paris, le 18 avril 1951.

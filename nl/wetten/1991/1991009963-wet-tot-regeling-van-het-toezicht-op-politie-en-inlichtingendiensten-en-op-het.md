@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/07/18/1991009963/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 09-03-1994 en tekstbijwerking tot 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 1991. - [Wet tot regeling van het toezicht op politie- en inlichtingendiensten en op het Coördinatieorgaan voor de dreigingsanalyse]. &lt;Opschrift vervangen door W 2006-07-10/31, art. 2, 014; Inwerkingtreding : 01-12-2006&gt;

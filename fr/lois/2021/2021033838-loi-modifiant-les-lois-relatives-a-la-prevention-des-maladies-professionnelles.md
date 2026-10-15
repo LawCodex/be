@@ -12,7 +12,7 @@ entry_into_force: 2021-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/11/23/2021033838/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2021. - Loi modifiant les lois relatives à la prévention des maladies professionnelles et à la réparation des dommages résultant de celles-ci, coordonnées le 3 juin 1970 et modifiant la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés

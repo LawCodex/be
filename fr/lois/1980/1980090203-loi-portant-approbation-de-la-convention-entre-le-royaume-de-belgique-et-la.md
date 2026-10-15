@@ -11,7 +11,7 @@ published: 1980-10-14
 entry_into_force: 1980-09-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1980/09/02/1980090203/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 SEPTEMBRE 1980. - Loi portant approbation de la Convention entre le Royaume de Belgique et la Confédération suisse en vue d'éviter les doubles impositions en matière d'impôts sur le revenu et sur la fortune, signée à Berne le 28 août 1978.

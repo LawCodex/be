@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/01/10/2019030053/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 25-01-2019 en tekstbijwerking tot 01-07-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANUARI 2019. - Decreet tot wijziging van het decreet van 2 juni 1998 houdende organisatie van het secundair kunstonderwijs met beperkt leerplan gesubsidieerd door de Franse Gemeenschap

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/16/2006036937/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 09-02-2007 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2006. - Décret portant création d'une "Vlaamse Grondenbank" (Banque foncière flamande) et portant modification de diverses dispositions (TRADUCTION).

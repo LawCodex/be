@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1984/03/20/1984023744/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-1994 en tekstbijwerking tot 26-08-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 1984. - Decreet houdende het statuut van de logiesverstrekkende bedrijven.

@@ -12,7 +12,7 @@ entry_into_force: 1995-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/03/30/1995000269/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 1995. - Wet tot wijziging van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen

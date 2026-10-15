@@ -10,7 +10,7 @@ date: 2013-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/18/2013003284/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2013. - Wet tot wijziging van de wet van 12 mei 2004 tot regeling van een beroepsprocedure in het kader van de bescherming tegen valsemunterij

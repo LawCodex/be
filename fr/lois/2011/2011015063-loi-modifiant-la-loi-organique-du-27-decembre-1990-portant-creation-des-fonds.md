@@ -12,7 +12,7 @@ entry_into_force: 2011-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/06/19/2011015063/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2011. - Loi modifiant la loi organique du 27 décembre 1990 portant création des fonds budgétaires

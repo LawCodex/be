@@ -13,7 +13,7 @@ entry_into_force: 2002-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/01/18/2002035166/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2002. - Decreet houdende bekrachtiging van het besluit van de Vlaamse regering van 27 april 2001 tot bepaling van de ontwikkelingsdoelen voor het buitengewoon basisonderwijs type 8.

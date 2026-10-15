@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/28/2014035362/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 01-04-2014 et mise à jour au 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2014. - Décret autorisant la création de l'agence autonomisée externe de droit privé " Toegankelijk Vlaanderen " (La Flandre accessible) sous forme d'une fondation privée

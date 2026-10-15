@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/19/1996027711/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 31-12-1996 et mis à jour au 10-10-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1996. - Décret contenant le budget des recettes de la Région wallonne pour l'année budgétaire 1997.

@@ -13,7 +13,7 @@ entry_into_force: 2022-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/03/11/2022031395/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2022. - Décret portant réforme de la gestion des zones portuaires d'Anvers et de Bruges-Zeebrugge

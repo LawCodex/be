@@ -12,7 +12,7 @@ entry_into_force: 2026-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/22/2026005828/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 2026. - Wet ter omzetting van Richtlijn (EU) 2024/927 van het Europees Parlement en de Raad van 13 maart 2024 tot wijziging van de Richtlijnen 2011/61/EU en 2009/65/EG wat betreft delegatieregelingen, liquiditeitsrisicobeheer, toezichtrapportage, verlening van bewaar- en bewaarnemingsdiensten en leninginitiëring door alternatieve beleggingsfondsen

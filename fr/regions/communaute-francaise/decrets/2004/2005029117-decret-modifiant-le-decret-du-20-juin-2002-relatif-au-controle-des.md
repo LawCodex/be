@@ -13,7 +13,7 @@ entry_into_force: 2005-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/12/21/2005029117/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2004. - Décret modifiant le décret du 20 juin 2002 relatif au contrôle des communications des membres du Gouvernement en vue d'élargir le contrôle aux communications de la présidence du Parlement de la Communauté française.

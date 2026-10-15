@@ -12,7 +12,7 @@ entry_into_force: 2019-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/17/2019012297/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2019. - Wet tot aanpassing van bepaalde federale fiscale bepalingen aan het nieuwe Wetboek van vennootschappen en verenigingen

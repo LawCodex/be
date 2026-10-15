@@ -12,7 +12,7 @@ entry_into_force: 2019-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/01/11/2019010396/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JANVIER 2019. - Loi portant des mesures de lutte contre la fraude et l'évasion fiscales en matière de précompte mobilier

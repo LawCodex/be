@@ -12,7 +12,7 @@ entry_into_force: 2014-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/26/2014011178/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2014. - Loi contenant le deuxième ajustement du budget général des dépenses pour l'année budgétaire 2013

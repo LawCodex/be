@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/03/13/1991031350/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 30-06-1992 en tekstbijwerking tot 16-10-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 1991. - WET betreffende de afschaffing of de herstructurering van instellingen van openbaar nut en andere overheidsdiensten.

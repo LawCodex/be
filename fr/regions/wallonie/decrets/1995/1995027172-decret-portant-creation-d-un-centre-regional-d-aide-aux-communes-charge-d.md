@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/03/23/1995027172/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 05-04-1995 et mise à jour au 24-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1995. - [Décret portant création d'un Centre régional d'aide aux communes chargé d'assurer le suivi et le contrôle des plans de gestion des communes et des provinces et d'apporter son concours au maintien de l'équilibre financier des communes et des provinces de la Région wallonne]. (Intitulé remplacé par DRW 1997-06-26/34, art. 12, 002; En vigueur : 19-07-1997)

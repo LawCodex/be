@@ -13,7 +13,7 @@ entry_into_force: 1988-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/12/22/2000035002/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1999. - Décret modifiant le décret du 16 novembre 1983 instaurant un prix de la Communauté flamande pour la traduction de littérature néerlandaise (TRADUCTION).

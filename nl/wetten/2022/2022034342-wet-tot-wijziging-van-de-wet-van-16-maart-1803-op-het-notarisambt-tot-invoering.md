@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/22/2022034342/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 22-12-2022 en tekstbijwerking tot 27-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2022. - Wet tot wijziging van de wet van 16 maart 1803 op het notarisambt, tot invoering van een tuchtraad voor de notarissen en de gerechtsdeurwaarders in het Gerechtelijk Wetboek en diverse bepalingen

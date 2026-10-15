@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/06/2008204572/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 19-12-2008 et mise à jour au 21-02-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBRE 2008. - Décret -cadre portant rationalisation de la fonction consultative pour les matières réglées en vertu de l'article 138 de la Constitution

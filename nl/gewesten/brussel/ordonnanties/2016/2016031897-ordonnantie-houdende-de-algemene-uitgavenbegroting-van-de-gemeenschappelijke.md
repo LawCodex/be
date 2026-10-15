@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/12/23/2016031897/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2016. - Ordonnantie houdende de algemene Uitgavenbegroting van de Gemeenschappelijke Gemeenschapscommissie voor het begrotingsjaar 2017

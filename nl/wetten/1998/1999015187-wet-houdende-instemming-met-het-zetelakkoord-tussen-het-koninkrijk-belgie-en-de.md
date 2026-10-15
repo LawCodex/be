@@ -12,7 +12,7 @@ entry_into_force: 2000-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/01/15/1999015187/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 1998. - Wet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Groep van Staten in Afrika, het Caraïbisch gebied en de Stille Zuidzee, ondertekend te Brussel op 26 april 1993.

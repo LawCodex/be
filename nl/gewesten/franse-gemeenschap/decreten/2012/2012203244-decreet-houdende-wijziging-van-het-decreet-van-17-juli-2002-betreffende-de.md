@@ -13,7 +13,7 @@ entry_into_force: 2012-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/05/03/2012203244/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2012. - Decreet houdende wijziging van het decreet van 17 juli 2002 betreffende de erkenning en betoelaging van de musea en andere museale instellingen

@@ -13,7 +13,7 @@ entry_into_force: 2010-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/09/2010031360/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2010. - Décret visant à transposer la Directive 2006/123/CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans le marché intérieur

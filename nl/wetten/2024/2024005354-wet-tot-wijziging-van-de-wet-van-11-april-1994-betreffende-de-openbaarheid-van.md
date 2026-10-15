@@ -12,7 +12,7 @@ entry_into_force: 2024-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/12/2024005354/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2024. - Wet tot wijziging van de wet van 11 april 1994 betreffende de openbaarheid van bestuur en tot opheffing van de wet van 12 november 1997 betreffende de openbaarheid van bestuur in de provincies en gemeenten

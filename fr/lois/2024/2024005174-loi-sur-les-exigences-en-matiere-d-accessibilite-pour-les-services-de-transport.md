@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/08/2024005174/justel"
 department: "Mobilité et Transports"
 justel_note: "Consultation des versions antérieures à partir du 07-06-2024 et mise à jour au 30-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2024. - Loi sur les exigences en matière d'accessibilité pour les services de transport et créant l'Agence fédérale de Régulation du Transport

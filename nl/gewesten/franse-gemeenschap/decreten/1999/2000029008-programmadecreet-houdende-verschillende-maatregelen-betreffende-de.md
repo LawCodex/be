@@ -13,7 +13,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/12/23/2000029008/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1999. - Programmadecreet houdende verschillende maatregelen betreffende de begrotingsfondsen, onderwijs, kinderwelzijn en structuurfondsen (VERTALING).

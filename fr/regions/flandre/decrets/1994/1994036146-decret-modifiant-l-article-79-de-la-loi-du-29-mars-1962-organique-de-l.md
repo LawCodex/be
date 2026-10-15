@@ -13,7 +13,7 @@ entry_into_force: 1994-09-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/07/13/1994036146/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 1994. - Décret modifiant l'article 79 de la loi du 29 mars 1962 organique de l'aménagement du territoire et de l'urbanisme.

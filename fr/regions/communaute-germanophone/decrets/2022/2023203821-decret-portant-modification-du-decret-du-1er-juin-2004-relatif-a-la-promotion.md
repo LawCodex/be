@@ -13,7 +13,7 @@ entry_into_force: 2022-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/14/2023203821/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2022. - Décret portant modification du décret du 1er juin 2004 relatif à la promotion de la santé et à la prévention médicale

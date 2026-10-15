@@ -12,7 +12,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/10/22/2008015182/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2008. - Loi portant assentiment à l'Accord, conclu par échange de lettres à La Haye le 30 mai 2006, entre les Gouvernements des Etats du Benelux (le Royaume de Belgique, le grand-duché de Luxembourg, le Royaume des Pays-Bas) et le Gouvernement macédonien relatif à la suppression de l'obligation de visa concernant les passeports diplomatiques.

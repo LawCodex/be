@@ -12,7 +12,7 @@ entry_into_force: 1998-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/16/1998009556/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 1998. - Loi modifiant l'article 190quinquies des lois sur les sociétés commerciales, coordonnées le 30 novembre 1935.

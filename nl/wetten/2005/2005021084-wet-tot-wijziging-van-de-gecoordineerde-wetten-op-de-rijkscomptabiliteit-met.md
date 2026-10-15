@@ -12,7 +12,7 @@ entry_into_force: 2005-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/07/03/2005021084/justel"
 department: "Kanselarij van de Eerste Minister - Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2005. - Wet tot wijziging van de gecoördineerde wetten op de Rijkscomptabiliteit met het oog op het tijdig indienen van de beleidsnota's bij de Kamer van volksvertegenwoordigers.

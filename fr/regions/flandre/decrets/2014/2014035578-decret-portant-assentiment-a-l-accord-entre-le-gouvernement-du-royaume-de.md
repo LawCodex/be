@@ -13,7 +13,7 @@ entry_into_force: 2014-09-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035578/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République du Kazakhstan sur le transport international par la route, signé à Bruxelles le 5 décembre 2006

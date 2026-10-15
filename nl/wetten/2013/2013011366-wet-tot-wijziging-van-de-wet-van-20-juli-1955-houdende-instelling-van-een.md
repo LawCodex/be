@@ -12,7 +12,7 @@ entry_into_force: 2013-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/12/2013011366/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2013. - Wet tot wijziging van de wet van 20 juli 1955 houdende instelling van een Nationale Raad voor de Coöperatie

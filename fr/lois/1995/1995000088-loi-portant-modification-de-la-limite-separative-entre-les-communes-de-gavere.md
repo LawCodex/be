@@ -12,7 +12,7 @@ entry_into_force: 1995-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/01/26/1995000088/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 1995. - Loi portant modification de la limite séparative entre les communes de Gavere et de Zingem.

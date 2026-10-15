@@ -13,7 +13,7 @@ entry_into_force: 2001-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/04/17/2001033046/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 APRIL 2001. - Decreet tot wijziging van het decreet over de media van 26 april 1999 (VERTALING).

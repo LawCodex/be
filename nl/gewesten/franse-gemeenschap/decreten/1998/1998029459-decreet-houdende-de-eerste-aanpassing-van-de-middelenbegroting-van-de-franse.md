@@ -13,7 +13,7 @@ entry_into_force: 1998-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/17/1998029459/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 1998. - Decreet houdende de eerste aanpassing van de middelenbegroting van de Franse Gemeenschap voor het begrotingsjaar 1998 (VERTALING).

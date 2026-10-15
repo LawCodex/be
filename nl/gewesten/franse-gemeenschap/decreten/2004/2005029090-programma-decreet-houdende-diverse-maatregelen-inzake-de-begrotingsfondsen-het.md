@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/12/21/2005029090/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2004. - Programma-decreet houdende diverse maatregelen inzake de begrotingsfondsen, het " Fonds Ecureuil " van de Franse Gemeenschap en de schuldafbouw, de universitaire instellingen, de Hogescholen, de internaten, de psycho-medisch-sociale centra, de schoolgebouwen, het onderwijs en het statuut van de leden van het administratief personeel, het meester-, vak- en dienstpersoneel van de onderwijsinrichtingen ingericht door de Franse Gemeenschap (VERTALING).

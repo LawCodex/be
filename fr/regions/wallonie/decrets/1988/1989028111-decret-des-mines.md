@@ -17,7 +17,7 @@ department: "Région Wallonne"
 justel_notes:
   - "Par son arrêt du 17-01-1990, (M.B. 08-02-1990), la Cour d'arbitrage a annulé : 1. à l'article 60, les mots \"faisant foi jusqu'à preuve du contraire\"; 2. l'article 62, alinéa 2; 3. l'article 63, alinéa 2; 4. l'article 64; 5. l'article 66"
   - "Consultation des versions antérieures à partir du 10-07-2007 et mise à jour au 19-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 1988. - Décret des mines.

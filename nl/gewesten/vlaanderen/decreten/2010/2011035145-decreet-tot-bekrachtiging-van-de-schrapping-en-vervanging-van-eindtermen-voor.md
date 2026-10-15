@@ -13,7 +13,7 @@ entry_into_force: 2010-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/10/2011035145/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2010. - Decreet tot bekrachtiging van de schrapping en vervanging van eindtermen voor het leergebied wiskunde van de basiseducatie

@@ -11,7 +11,7 @@ published: 1998-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/07/05/1998014238/justel"
 department: "Verkeerswezen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1998. - Wet tot wijziging van artikel 118 van de wet van 21 maart 1991 betreffende de hervorming van sommige economische overheidsbedrijven.

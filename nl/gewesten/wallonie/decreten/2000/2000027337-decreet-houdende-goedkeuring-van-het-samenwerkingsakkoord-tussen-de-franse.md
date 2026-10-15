@@ -13,7 +13,7 @@ entry_into_force: 2000-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/07/18/2000027337/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2000. - Decreet houdende goedkeuring van het samenwerkingsakkoord tussen de Franse Gemeenschap en de Waalse Regering over de financiering van de samenwerking in het kader van gemeenschappelijke beleidsacties, over de Europese Structuurfondsen en de ontwikkeling van cultuurondernemingen (VERTALING).

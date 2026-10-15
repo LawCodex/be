@@ -11,7 +11,7 @@ published: 1976-11-30
 entry_into_force: 1976-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1975/01/22/1975012201/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 1975. - Loi portant approbation de l'Arrangement concernant la classification internationale des brevets, fait à Strasbourg le 24 mars 1971.

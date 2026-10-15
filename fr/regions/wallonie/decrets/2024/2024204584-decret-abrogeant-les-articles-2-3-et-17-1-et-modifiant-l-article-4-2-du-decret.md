@@ -13,7 +13,7 @@ entry_into_force: 2024-09-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/29/2024204584/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2024. - Décret abrogeant les articles 2, 3 et 17, 1°, et modifiant l'article 4, § 2, du décret du 17 janvier 2019 relatif à la lutte contre la pollution atmosphérique liée à la circulation des véhicules

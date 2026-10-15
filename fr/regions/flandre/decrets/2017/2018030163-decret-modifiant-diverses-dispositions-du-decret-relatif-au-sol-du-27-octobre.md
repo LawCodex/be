@@ -13,7 +13,7 @@ entry_into_force: 2018-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/08/2018030163/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2017. - Décret modifiant diverses dispositions du Décret relatif au sol du 27 octobre 2006 et l'article 38 du décret du 23 décembre 2011 relatif à la gestion durable de cycles de matériaux et de déchets, et abrogeant diverses dispositions de l'arrête VLAREBO du 14 décembre 2007

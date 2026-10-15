@@ -12,7 +12,7 @@ entry_into_force: 2026-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/09/2026005409/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2026. - Wet houdende instemming met het Aanvullend Protocol tussen het Koninkrijk België en de Europese Organisatie voor de veiligheid van de luchtvaart bij het Aanvullend Akkoord tussen de Europese Organisatie voor de veiligheid van de luchtvaart en het Koninkrijk België bij het Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart "Eurocontrol" van 13 december 1960 inzake de voorrechten en immuniteiten van de organisatie, ondertekend te Brussel op 17 juli 2006, gedaan te Brussel op 23 juli 2025

@@ -13,7 +13,7 @@ entry_into_force: 2020-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/09/2020044357/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2020. - Decreet houdende wijziging van artikel 15 van het decreet van 31 maart 2004 betreffende de adoptie

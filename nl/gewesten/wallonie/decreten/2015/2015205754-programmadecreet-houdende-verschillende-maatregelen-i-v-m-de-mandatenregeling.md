@@ -13,7 +13,7 @@ entry_into_force: 2015-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/03/2015205754/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2015. - Programmadecreet houdende verschillende maatregelen i.v.m. de mandatenregeling in verschillende instellingen van openbaar nut die onder het Waalse Gewest ressorteren

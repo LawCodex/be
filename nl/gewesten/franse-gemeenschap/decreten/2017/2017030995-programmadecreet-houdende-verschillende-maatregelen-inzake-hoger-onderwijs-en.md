@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/19/2017030995/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 21-08-2017 en tekstbijwerking tot 25-01-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2017. - Programmadecreet houdende verschillende maatregelen inzake hoger onderwijs en onderzoek, cultuur, begrotingsfondsen, schoolgebouwen, jeugd

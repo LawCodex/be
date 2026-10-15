@@ -13,7 +13,7 @@ entry_into_force: 2019-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/04/2019202617/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2019. - Décret portant assentiment à l'Accord de siège, avec échange de lettres, entre le Royaume de Belgique et l'Organisation internationale de Police criminelle - INTERPOL (O.I.P.C. - INTERPOL), fait à Lyon le 14 octobre 2014 et à Bruxelles le 24 octobre 2014

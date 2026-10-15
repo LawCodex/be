@@ -12,7 +12,7 @@ entry_into_force: 2017-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/06/08/2017012702/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2017. - Loi concernant la coordination de l'expertise et l'accélération de la procédure relative à certaines formes de responsabilité sans faute

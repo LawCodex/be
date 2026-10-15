@@ -12,7 +12,7 @@ entry_into_force: 1997-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/09/08/1997000707/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 SEPTEMBER 1997. - Wet tot toekenning van de titel van stad aan de gemeente Florenville.

@@ -11,7 +11,7 @@ entry_into_force: 1983-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1983/08/17/1983015316/justel"
 department: "Buitenlandse Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 AUGUSTUS 1983. - Wet houdende goedkeuring van volgende Internationale Akten :

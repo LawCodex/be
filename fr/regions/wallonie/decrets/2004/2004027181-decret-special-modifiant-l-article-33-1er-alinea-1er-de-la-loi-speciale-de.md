@@ -13,7 +13,7 @@ entry_into_force: 2004-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/07/27/2004027181/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUILLET 2004. - Décret spécial modifiant l'article 33, § 1er, alinéa 1er, de la loi spéciale de réformes institutionnelles du 8 août 1980 telle que modifiée, organisant les ouvertures de session parlementaire.

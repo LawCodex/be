@@ -10,7 +10,7 @@ date: 1925-12-30
 published: 1926-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1925/12/30/1925123001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBER 1925. - Wet tot wijziging van de wetten betreffende de uitvindingsbrevetten, de fabrieks- en handelsmerken, de nijverheidsteekeningen en modellen en den nijverheidseigendom in 't algemeen.

@@ -12,7 +12,7 @@ entry_into_force: 2005-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/02/21/2005009173/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2005. - Wet tot wijziging van het Gerechtelijk Wetboek in verband met de bemiddeling.

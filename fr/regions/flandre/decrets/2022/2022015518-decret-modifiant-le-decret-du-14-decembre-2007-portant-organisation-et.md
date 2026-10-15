@@ -13,7 +13,7 @@ entry_into_force: 2022-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/08/2022015518/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2022. - Décret modifiant le décret du 14 décembre 2007 portant organisation et fonctionnement des centres technologiques régionaux, en ce qui concerne l'optimisation du fonctionnement des centres technologiques régionaux

@@ -13,7 +13,7 @@ entry_into_force: 2023-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/08/2023048788/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2023. - Decreet over grensoverschrijdend gedrag in het hoger onderwijs

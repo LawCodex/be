@@ -11,7 +11,7 @@ published: 2012-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/19/2012000468/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2012. - Wet tot wijziging van het Kieswetboek, wat betreft het stemrecht van de Belgen in het buitenland

@@ -12,7 +12,7 @@ entry_into_force: 2020-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/04/28/2020041109/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2020. - Loi transposant la directive (UE) 2017/828 du Parlement européen et du Conseil du 17 mai 2017 modifiant la directive 2007/36/CE en vue de promouvoir l'engagement à long terme des actionnaires, et portant des dispositions diverses en matière de sociétés et d'associations

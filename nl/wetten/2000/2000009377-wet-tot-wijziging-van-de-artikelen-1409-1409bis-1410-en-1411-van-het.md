@@ -12,7 +12,7 @@ entry_into_force: 2000-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/03/24/2000009377/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2000. - Wet tot wijziging van de artikelen 1409, 1409bis, 1410 en 1411 van het Gerechtelijk Wetboek, met het oog op de aanpassing van het bedrag van het loon dat niet vatbaar is voor overdracht of beslag.

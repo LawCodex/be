@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/11/21/2017014256/justel"
 department: "Federaal Agentschap voor de Veiligheid van de Voedselketen"
 justel_note: "Raadpleging van vroegere versies vanaf 15-12-2017 en tekstbijwerking tot 07-05-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2017. - Wet betreffende compensaties ten gunste van bedrijven getroffen door de fipronilcrisis

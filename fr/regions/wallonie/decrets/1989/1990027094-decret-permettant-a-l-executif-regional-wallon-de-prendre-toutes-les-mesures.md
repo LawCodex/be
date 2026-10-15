@@ -13,7 +13,7 @@ entry_into_force: 1990-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1989/12/14/1990027094/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 1989. - Décret permettant à l'Exécutif régional wallon de prendre toutes les mesures que requiert l'application ou la mise en oeuvre des Traités et Conventions internationaux en matière de Chasse, Pêche, Protection des oiseaux et Conservation de la Nature.

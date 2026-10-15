@@ -13,7 +13,7 @@ entry_into_force: 2024-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/05/16/2024005045/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Ordonnantie houdende instemming met het samenwerkings-akkoord van 21 maart 2024 tussen de Franse Gemeenschap, de Franse Gemeenschapscommissie en het Brussels Hoofdstedelijk Gewest met betrekking tot de specifieke behoeften van het verplicht onderwijs en de kinderopvang in Brussel

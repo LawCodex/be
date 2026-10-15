@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/04/07/2003033075/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 04-12-2003 et mise à jour au 28-04-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2003. - [Décret relatif au contrôle des dépenses électorales et de l'origine des fonds pour l'élection du Parlement et des conseils communaux, au contrôle des communications des autorités publiques de la Communauté germanophone ainsi qu'à la surveillance du respect du Code de déontologie (Traduction)] (Intitulé remplacé par DCG 2004-03-29/37, art. 1) &lt;Intitulé remplacé par &lt;DCG 2025-02-03/16 , art. , 004; En vigueur : 03-02-2025&gt;.

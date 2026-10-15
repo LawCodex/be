@@ -13,7 +13,7 @@ entry_into_force: 2016-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/05/26/2016202970/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 2016. - Décret portant assentiment à l'accord de coopération du 24 mars 2016 entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à la création d'un organe de conciliation dans le cadre des systèmes de télépéage sur le territoire des trois Régions

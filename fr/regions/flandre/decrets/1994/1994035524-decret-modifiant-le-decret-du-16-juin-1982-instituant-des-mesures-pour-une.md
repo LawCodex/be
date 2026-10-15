@@ -13,7 +13,7 @@ entry_into_force: 1994-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/03/23/1994035524/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1994. - Décret modifiant le décret du 16 juin 1982 instituant des mesures pour une politique foncière sociale. (Traduction).

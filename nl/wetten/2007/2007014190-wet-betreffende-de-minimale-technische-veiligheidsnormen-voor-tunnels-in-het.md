@@ -12,7 +12,7 @@ entry_into_force: 2007-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/09/2007014190/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2007. - Wet betreffende de minimale technische veiligheidsnormen voor tunnels in het trans-Europese wegennet.

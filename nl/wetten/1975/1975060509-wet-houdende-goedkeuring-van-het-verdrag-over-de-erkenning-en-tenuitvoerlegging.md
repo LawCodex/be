@@ -9,7 +9,7 @@ language: nl
 date: 1975-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1975/06/05/1975060509/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUNI 1975. - Wet houdende goedkeuring van het Verdrag over de erkenning en tenuitvoerlegging van buitenlandse scheidsrechterlijke uitspraken, opgemaakt te New York op 10 juni 1958.

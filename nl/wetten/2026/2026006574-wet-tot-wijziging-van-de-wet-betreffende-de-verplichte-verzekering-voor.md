@@ -10,7 +10,7 @@ date: 2026-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/08/27/2026006574/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 AUGUSTUS 2026. - Wet tot wijziging van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, voor wat betreft geneeskundige evaluatie en controle

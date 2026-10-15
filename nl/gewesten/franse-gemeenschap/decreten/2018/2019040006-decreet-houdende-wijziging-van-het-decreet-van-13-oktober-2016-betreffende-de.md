@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/12/12/2019040006/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2018. - Decreet houdende wijziging van het decreet van 13 oktober 2016 betreffende de erkenning en de subsidiëring van partners die hulp verlenen aan rechtzoekenden

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/08/12/2000003444/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 26-09-2000 en tekstbijwerking tot 11-08-2001."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AUGUSTUS 2000. - Wet tot geleidelijke afschaffing van de aanvullende crisisbijdrage op de inkomsten van de natuurlijke personen. -

@@ -13,7 +13,7 @@ entry_into_force: 2004-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/10/27/2003033110/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2003. - Décret portant assentiment à l'Accord de coopération entre la Communauté germanophone de Belgique et le grand duché de Luxembourg, signé à Luxembourg le 19 décembre 2002.

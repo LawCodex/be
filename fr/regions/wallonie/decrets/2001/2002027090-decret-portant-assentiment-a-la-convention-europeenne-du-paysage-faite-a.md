@@ -13,7 +13,7 @@ entry_into_force: 2002-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/20/2002027090/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2001. - Décret portant assentiment à la Convention européenne du paysage, faite à Florence, le 20 octobre 2000.

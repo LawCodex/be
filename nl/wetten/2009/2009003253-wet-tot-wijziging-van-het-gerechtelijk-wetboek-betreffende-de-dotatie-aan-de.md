@@ -12,7 +12,7 @@ entry_into_force: 2009-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/06/18/2009003253/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2009. - Wet tot wijziging van het Gerechtelijk Wetboek betreffende de dotatie aan de Hoge Raad voor de Justitie

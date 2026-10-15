@@ -13,7 +13,7 @@ entry_into_force: 2008-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2007/07/19/2007031306/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2007. - Ordonnance modifiant l'ordonnance du 5 juin 1997 relative aux permis d'environnement et l'ordonnance du 25 mars 1999 relative à la recherche, la constatation, la poursuite et la répression des infractions en matière d'environnement

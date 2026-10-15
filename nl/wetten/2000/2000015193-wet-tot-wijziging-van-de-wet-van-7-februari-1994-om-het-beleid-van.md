@@ -12,7 +12,7 @@ entry_into_force: 2000-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/09/17/2000015193/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBER 2000. - Wet tot wijziging van de wet van 7 februari 1994 om het beleid van ontwikkelingssamenwerking te toetsen aan de eerbied voor de rechten van de mens.

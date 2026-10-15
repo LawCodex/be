@@ -13,7 +13,7 @@ entry_into_force: 2003-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/04/10/2003027222/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2003. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République du Costa Rica concernant l'encouragement et la protection réciproques des investissements, fait à Bruxelles le 26 avril 2002.

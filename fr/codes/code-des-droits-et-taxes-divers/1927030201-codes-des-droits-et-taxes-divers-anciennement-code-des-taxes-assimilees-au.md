@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1927/03/02/1927030201/justel"
 justel_notes:
   - "art. 25; 136; 166; 166/2; 179.1; 180; 181; 183; 183octies; 183nonies; 183decies; 187.3; 187.4;187.5; 197; 199; 201/9/2; 201.2; 201.14; 201.17; 201.25; 201.27; 201.34; 201.36; 201.37/2 modifiés dans le futur par L 2024-05-12/11 , art. 83-107, 060; En vigueur : 01-01-2028"
   - "Consultation des versions antérieures à partir du 30-12-2011 et mise à jour au 01-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 1927. - Codes des droits et taxes divers - Anciennement : Code des taxes assimilées au timbre (Intitulé remplacé par L 2006-12-19/33 , art. 2)

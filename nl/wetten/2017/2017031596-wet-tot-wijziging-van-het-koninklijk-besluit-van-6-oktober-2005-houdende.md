@@ -12,7 +12,7 @@ entry_into_force: 2018-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/09/03/2017031596/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBER 2017. - Wet tot wijziging van het koninklijk besluit van 6 oktober 2005 houdende diverse maatregelen met betrekking tot de vergelijkende aanwervingsselectie en met betrekking tot de stage het oog op de optimalisering van het quotum inzake tewerkstelling van personen met een handicap bij de federale overheidsdiensten.

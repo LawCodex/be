@@ -12,7 +12,7 @@ entry_into_force: 2021-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/11/07/2021022582/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 2021. - Loi modifiant l'article 179 de la loi du 8 août 1980 relative aux propositions budgétaires 1979-1980

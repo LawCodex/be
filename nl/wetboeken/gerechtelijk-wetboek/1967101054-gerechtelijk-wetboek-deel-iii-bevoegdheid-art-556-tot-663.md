@@ -12,7 +12,7 @@ last_amended: 2026-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1967/10/10/1967101054/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 13-02-1985 en tekstbijwerking tot 12-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 1967. - GERECHTELIJK WETBOEK - Deel III : BEVOEGDHEID. (art. 556 tot 663)

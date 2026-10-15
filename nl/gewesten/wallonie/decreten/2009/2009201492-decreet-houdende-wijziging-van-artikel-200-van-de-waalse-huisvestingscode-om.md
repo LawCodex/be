@@ -13,7 +13,7 @@ entry_into_force: 2009-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/19/2009201492/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2009. - Decreet houdende wijziging van artikel 200 van de Waalse Huisvestingscode om een vertegenwoordiger aangewezen op voorstel van de Regering van de Duitstalige Gemeenschap toe te voegen aan de leden van de Hoge Huisvestingsraad

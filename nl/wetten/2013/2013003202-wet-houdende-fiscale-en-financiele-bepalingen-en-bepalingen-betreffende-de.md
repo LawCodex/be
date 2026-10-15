@@ -12,7 +12,7 @@ entry_into_force: 2013-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/06/17/2013003202/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2013. - Wet houdende fiscale en financiële bepalingen en bepalingen betreffende de duurzame ontwikkeling

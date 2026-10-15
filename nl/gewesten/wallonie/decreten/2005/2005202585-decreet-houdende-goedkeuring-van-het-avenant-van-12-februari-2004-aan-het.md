@@ -12,7 +12,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/09/22/2005202585/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 SEPTEMBER 2005. - Decreet houdende goedkeuring van het avenant van 12 februari 2004 aan het Samenwerkingsakkoord van 4 juli 2000 tussen de Staat, de Gewesten en de Duitstalige Gemeenschap betreffende de sociale economie (VERTALING).

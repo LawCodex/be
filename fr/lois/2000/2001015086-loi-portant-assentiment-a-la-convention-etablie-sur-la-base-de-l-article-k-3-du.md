@@ -12,7 +12,7 @@ entry_into_force: 2001-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/07/03/2001015086/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2000. - Loi portant assentiment à la Convention établie sur la base de l'article K.3 du Traité sur l'Union européenne, relative à l'extradition entre les Etats membres de l'Union européenne, et Annexe, faites à Dublin le 27 septembre 1996. &lt;Erratum, M.B. 23-10-2001, p. 36749&gt;

@@ -13,7 +13,7 @@ entry_into_force: 2008-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/20/2008204388/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2008. - Décret portant assentiment à l'amendement à la Convention d'Aarhus sur l'accès à l'information, la participation du public au processus décisionnel et à l'accès à la justice en matière d'environnement, fait à Amalty (Kazakhstan), le 27 mai 2005.

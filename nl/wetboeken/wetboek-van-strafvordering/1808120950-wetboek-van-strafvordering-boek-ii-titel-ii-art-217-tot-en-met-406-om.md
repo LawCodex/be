@@ -13,7 +13,7 @@ last_amended: 2026-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1808/12/09/1808120950/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 14-08-1990 en tekstbijwerking tot 18-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 1808. - WETBOEK VAN STRAFVORDERING. - BOEK II, TITEL II. (Art. 217 tot en met 406) (Om technische redenen is het Wetboek van Strafvordering ingedeeld in 8 delen waarvan het vierde deel Titel II van het tweede Boek omvat)

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/12/2017204079/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 15-12-2022 en tekstbijwerking tot 15-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2017. - Decreet betreffende het hergebruik van informatie van de publieke sector en tot vaststelling van een open gegevensbeleid (Open Data") voor de aangelegenheden bedoeld bij artikel 138 van de Grondwet

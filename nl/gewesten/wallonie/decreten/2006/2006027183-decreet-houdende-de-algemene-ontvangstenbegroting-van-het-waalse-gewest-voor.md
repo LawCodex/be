@@ -13,7 +13,7 @@ entry_into_force: 2006-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/21/2006027183/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2006. - Decreet houdende de algemene ontvangstenbegroting van het Waalse Gewest voor het begrotingsjaar 2007 (VERTALING).

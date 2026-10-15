@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1986/06/26/1986029426/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 09-02-1988 et mise à jour au 07-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 1986. - Décret réglant l'agréation des services d'aide aux familles et aux personnes âgées, l'octroi de subventions à ces services et la contribution du bénéficiaire de l'aide (Traduction).

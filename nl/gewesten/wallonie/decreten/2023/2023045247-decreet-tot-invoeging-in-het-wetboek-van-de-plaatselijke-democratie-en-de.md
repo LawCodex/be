@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/05/19/2023045247/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2023. - Decreet tot invoeging in het Wetboek van de plaatselijke democratie en de decentralisatie van bepalingen betreffende meldingskanalen en de bescherming van personen die melding maken van een inbreuk binnen de diensten of organen van een lokale overheid

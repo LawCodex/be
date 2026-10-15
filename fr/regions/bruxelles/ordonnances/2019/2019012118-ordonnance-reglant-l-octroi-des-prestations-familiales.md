@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/04/25/2019012118/justel"
 department: "Commission communautaire commune"
 justel_note: "Consultation des versions antérieures à partir du 08-05-2019 et mise à jour au 20-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2019. - Ordonnance réglant l'octroi des prestations familiales

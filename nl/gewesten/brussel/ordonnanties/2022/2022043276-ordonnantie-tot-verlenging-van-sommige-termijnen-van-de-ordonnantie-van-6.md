@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/12/23/2022043276/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 25-01-2023 en tekstbijwerking tot 24-09-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2022. - Ordonnantie tot verlenging van sommige termijnen van de ordonnantie van 6 oktober 2016 houdende organisatie van de stedelijke herwaardering (OSH), tot toekenning van de mogelijkheid om een allerlaatste programmawijziging door te voeren en tot verlenging van een termijn bepaald in de ordonnantie van 31 mei 2018 met betrekking tot de toekenning van subsidies voor investeringen in gemeentelijke sportinfrastructuur

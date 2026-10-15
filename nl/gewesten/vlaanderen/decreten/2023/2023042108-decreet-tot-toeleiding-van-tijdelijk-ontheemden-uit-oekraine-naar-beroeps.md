@@ -13,7 +13,7 @@ entry_into_force: 2023-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/04/21/2023042108/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2023. - Decreet tot toeleiding van tijdelijk ontheemden uit Oekraïne naar (beroeps)opleidingen en naar de arbeidsmarkt via de verplichte inschrijving bij de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding

@@ -12,7 +12,7 @@ entry_into_force: 2014-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/02/25/2013015181/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 2013. - Wet houdende instemming met het Protocol tot wijziging van het verdrag van 9 februari 1994 inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, teneinde te voldoen aan Richtlijn 2006/38/EG van het Europees Parlement en de Raad van 17 mei 2006 tot wijziging van Richtlijn 1999/62/EG betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen en de introductie overeen te komen tussen de Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en het Koninkrijk Zweden voor een papierloos vignetsysteem in hun gemeenschappelijk stelsel voor de heffing van het gebruiksrecht, gedaan te Brussel op 21 oktober 2010, en tot wijziging van de artikelen 3, 9, 10, 11 en 12 van de wet van 27 december 1994 tot goedkeuring van voormeld verdrag en tot invoering van een Eurovignet overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993

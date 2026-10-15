@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/12/19/2015035015/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 12-01-2015 et mise à jour au 19-01-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2014. - Décret portant le Code Immobilier flamand

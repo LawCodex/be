@@ -12,7 +12,7 @@ entry_into_force: 2018-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/09/19/2017013422/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBRE 2017. - Loi modifiant le Code civil, le Code judiciaire, la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers et le Code consulaire, en vue de lutter contre la reconnaissance frauduleuse et comportant diverses dispositions en matière de recherche de paternité, de maternité et de comaternité, ainsi qu'en matière de mariage de complaisance et de cohabitation légale de complaisance

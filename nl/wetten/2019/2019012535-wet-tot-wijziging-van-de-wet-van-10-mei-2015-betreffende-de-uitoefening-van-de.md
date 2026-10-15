@@ -12,7 +12,7 @@ entry_into_force: 2019-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/29/2019012535/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2019. - Wet tot wijziging van de wet van 10 mei 2015 betreffende de uitoefening van de gezondheidszorgberoepen, teneinde een contingentering in te voeren voor de artsen en tandartsen die hun opleiding aan een buitenlandse universiteit hebben gevolgd

@@ -13,7 +13,7 @@ entry_into_force: 2020-09-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/09/03/2020203747/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBRE 2020. - Décret spécial modifiant l'article 41 de la loi spéciale du 8 août 1980 de réformes institutionnelles afin de consacrer le droit pour l'auteur d'une pétition d'être entendu pour les matières réglées en vertu de l'article 138 de la Constitution

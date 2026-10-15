@@ -12,7 +12,7 @@ entry_into_force: 2012-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/19/2012204206/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2012. - Loi spéciale portant modification de la loi du 9 août 1988 portant modification de la loi communale, de la loi électorale communale, de la loi organique des centres publics d'aide sociale, de la loi provinciale, du Code électoral, de la loi organique des élections provinciales et de la loi organisant l'élection simultanée pour les chambres législatives et les conseils provinciaux (dite " de pacification communautaire ") et de la loi spéciale du 8 août 1980 de réformes institutionnelles, concernant la nomination des bourgmestres des communes périphériques

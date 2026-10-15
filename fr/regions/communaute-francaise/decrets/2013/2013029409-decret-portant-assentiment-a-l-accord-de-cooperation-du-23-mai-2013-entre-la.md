@@ -13,7 +13,7 @@ entry_into_force: 2013-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/04/2013029409/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2013. - Décret portant assentiment à l'accord de coopération du 23 mai 2013 entre la Région wallonne et la Communauté française portant sur le développement d'une initiative commune en matière de partage de données et sur la gestion conjointe de cette initiative

@@ -11,7 +11,7 @@ published: 1973-07-14
 entry_into_force: 1972-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1973/07/06/1973070601/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 1973. \_ Loi portant amélioration de la législation relative à l'octroi d'allocations aux handicapés.

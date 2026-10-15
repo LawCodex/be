@@ -13,7 +13,7 @@ entry_into_force: 2001-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/03/07/2001027158/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2001. - Décret relatif à la publicité de l'administration dans les intercommunales wallonnes.

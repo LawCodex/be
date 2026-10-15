@@ -12,7 +12,7 @@ last_amended: 2011-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1963/08/09/1963080914/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 13-04-1984 en tekstbijwerking tot 10-05-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 AUGUSTUS 1963. - [Wet tot instelling en organisatie van een regeling voor verplichte verzekering voor geneeskundige verzorging en uitkeringen.] &lt;W 1993-02-15/33, art. 1, 027; Inwerkingtreding : 01-01-1993&gt; (NOTA 1 : De woorden " Kas der geneeskundige verzorging van de Nationale Maatschappij der Belgische Spoorwegen " worden vervangen door de woorden " Kas der geneeskundige verzorging van N.M.B.S. Holding " ; zie KB 2004-10-18/32, art. 38 ; Inwerkingtreding : 01-01-2005)

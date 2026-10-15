@@ -12,7 +12,7 @@ entry_into_force: 1999-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/02/1999014178/justel"
 department: "Communications"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 1999. - Loi relative à la réparation des dommages de guerre 40-45 en application de la loi du 6 juillet 1948 mettant à charge de l'Etat la réparation des dommages de guerre aux biens nécessaires à un service public ou à la poursuite d'une fin d'intérêt général.

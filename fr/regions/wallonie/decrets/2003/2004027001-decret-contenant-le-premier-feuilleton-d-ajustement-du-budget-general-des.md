@@ -13,7 +13,7 @@ entry_into_force: 2004-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/10/22/2004027001/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2003. - Décret contenant le premier feuilleton d'ajustement du budget général des dépenses de la Région wallonne pour l'année budgétaire 2003.

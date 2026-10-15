@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/06/24/2005035971/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 24-08-2005 en tekstbijwerking tot 29-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2005. - Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 2005.

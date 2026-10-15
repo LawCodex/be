@@ -12,7 +12,7 @@ entry_into_force: 2024-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/12/2024004526/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2024. - Loi modifiant la loi relative à l'assurance obligatoire soins de santé et indemnités coordonnée le 14 juillet 1994 en ce qui concerne l'entrée en vigueur de l'accord national dento-mutualiste 2024-2025

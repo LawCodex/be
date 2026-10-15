@@ -12,7 +12,7 @@ entry_into_force: 2020-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/03/15/2020040680/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2020. - Loi visant à modifier la législation relative à l'euthanasie

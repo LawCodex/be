@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/17/2019030319/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 29-03-2019 en tekstbijwerking tot 29-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 2019. - Wet betreffende de invoering van een mobiliteitsbudget

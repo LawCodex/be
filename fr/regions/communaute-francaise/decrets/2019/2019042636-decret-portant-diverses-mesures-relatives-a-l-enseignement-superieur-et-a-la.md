@@ -12,7 +12,7 @@ published: 2019-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019042636/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Décret portant diverses mesures relatives à l'Enseignement supérieur et à la Recherche. - Addendum

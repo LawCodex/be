@@ -12,7 +12,7 @@ entry_into_force: 2007-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/15/2007009619/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2007. - Loi modifiant la loi du 1er octobre 1833 sur les extraditions et la loi du 15 mars 1874 sur les extraditions.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/15/2016011317/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 28-07-2016 et mise à jour au 21-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2016. - [Loi portant exécution du Règlement (UE) 2019/1148 du Parlement européen et du Conseil du 20 juin 2019 relatif à la commercialisation et à l'utilisation de précurseurs d'explosifs, modifiant le Règlement (CE) n° 1907/2006 et abrogeant le Règlement (UE) n° 98/2013] &lt;L 2021-11-21/01 , art. 2, 003; En vigueur : 06-12-2021&gt;

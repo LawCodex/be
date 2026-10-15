@@ -10,7 +10,7 @@ date: 2004-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/09/2004003314/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2004. - Wet betreffende de bijdrage van België tot de dertiende wedersamenstelling van de werkmiddelen van de Internationale Ontwikkelingsassociatie.

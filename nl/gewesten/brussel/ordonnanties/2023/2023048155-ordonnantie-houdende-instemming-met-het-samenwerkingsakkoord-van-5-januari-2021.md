@@ -13,7 +13,7 @@ entry_into_force: 2023-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/12/14/2023048155/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2023. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 5 januari 2021 tussen de Ministers van Landbouw van de Federale Staat en de Gewesten inzake de verdeling van opdrachten voor de toepassing van de beschermende maatregelen tegen plaagorganismen bij planten.

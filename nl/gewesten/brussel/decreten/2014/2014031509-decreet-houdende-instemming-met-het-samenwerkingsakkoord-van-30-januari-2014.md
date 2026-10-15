@@ -13,7 +13,7 @@ entry_into_force: 2014-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/10/2014031509/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2014. - Decreet houdende instemming met het samenwerkingsakkoord van 30 januari 2014 tussen de Franse Gemeenschapscommissie, de Franse Gemeenschap en het Waalse Gewest betreffende de oprichting van een deontologische commissie

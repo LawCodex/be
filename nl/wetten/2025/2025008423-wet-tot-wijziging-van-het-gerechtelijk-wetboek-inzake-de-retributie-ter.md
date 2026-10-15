@@ -10,7 +10,7 @@ date: 2025-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/10/24/2025008423/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2025. - Wet tot wijziging van het Gerechtelijk Wetboek inzake de retributie ter financiering van de beheerskosten van het centraal register collectieve schuldenregelingen

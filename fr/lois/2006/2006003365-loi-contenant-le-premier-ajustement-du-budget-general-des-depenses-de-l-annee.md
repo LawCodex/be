@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/11/2006003365/justel"
 department: "Budget et Contrôle de la gestion"
 justel_note: "Consultation des versions antérieures à partir du 25-10-2006 et mise à jour au 05-04-2007"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2006. - Loi contenant le premier ajustement du Budget général des dépenses de l'année budgétaire 2006.

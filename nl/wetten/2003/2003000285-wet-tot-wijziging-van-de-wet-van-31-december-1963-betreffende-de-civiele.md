@@ -12,7 +12,7 @@ entry_into_force: 2003-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/28/2003000285/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2003. - Wet tot wijziging van de wet van 31 december 1963 betreffende de civiele bescherming.

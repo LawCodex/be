@@ -12,7 +12,7 @@ entry_into_force: 2011-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/03/03/2011009202/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 2011. - Wet tot wijziging van het Gerechtelijk Wetboek betreffende de samenstelling van de adviescommissie voor de benoemingen van de advocaten bij het Hof van Cassatie

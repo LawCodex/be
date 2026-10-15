@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/03/03/1993035508/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-1994 en tekstbijwerking tot 26-08-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 1993. - Decreet houdende het statuut van de terreinen voor openluchtrecreatieve [verblijven]. &lt;ERR. B.St. 21-12-1993, p. 28207&gt;

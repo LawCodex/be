@@ -13,7 +13,7 @@ entry_into_force: 2023-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/14/2023030252/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2022. - Décret relatif aux données ouvertes et à la réutilisation des informations du secteur public

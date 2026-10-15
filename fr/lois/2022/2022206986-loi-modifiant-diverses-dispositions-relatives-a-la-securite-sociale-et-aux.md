@@ -12,7 +12,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/05/2022206986/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 2022. - Loi modifiant diverses dispositions relatives à la sécurité sociale et aux conséquences du retrait du Royaume-Uni de l'Union européenne

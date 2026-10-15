@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999021323/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 20-08-1999 et mise à jour au 20-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 1999. - Loi portant création du Palais des Beaux-Arts sous la forme d'une société anonyme de droit public [...]. &lt;L 2023-12-08/09 , art. 2, 007; En vigueur : 30-12-2023&gt;

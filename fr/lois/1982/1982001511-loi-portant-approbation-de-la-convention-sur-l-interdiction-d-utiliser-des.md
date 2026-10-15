@@ -12,7 +12,7 @@ entry_into_force: 1982-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1982/06/03/1982001511/justel"
 department: "Affaires étrangères"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 1982. - Loi portant approbation de la Convention sur l'interdiction d'utiliser des techniques de modification de l'environnement à des fins militaires ou toutes autres fins hostiles, et de l'Annexe, faites à New York le 10 décembre 1976 et ouverte à la signature à Genève le 18 mai 1977.

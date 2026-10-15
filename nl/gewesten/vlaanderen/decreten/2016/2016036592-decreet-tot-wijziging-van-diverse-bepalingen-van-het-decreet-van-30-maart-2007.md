@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/11/18/2016036592/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2016. - Decreet tot wijziging van diverse bepalingen van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten

@@ -11,7 +11,7 @@ published: 2026-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/20/2026201995/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2026. - Wet houdende harmonisatie van diverse geldende wetsbepalingen met het Strafwetboek van 29 februari 2024

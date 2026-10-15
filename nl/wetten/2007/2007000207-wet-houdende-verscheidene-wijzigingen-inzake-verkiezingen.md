@@ -12,7 +12,7 @@ entry_into_force: 2007-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/02/13/2007000207/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2007. - Wet houdende verscheidene wijzigingen inzake verkiezingen.

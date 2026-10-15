@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/07/1998021488/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 05-01-1999 et mise à jour au 22-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 1998. - Loi organisant un service de police intégré, structuré à deux niveaux.

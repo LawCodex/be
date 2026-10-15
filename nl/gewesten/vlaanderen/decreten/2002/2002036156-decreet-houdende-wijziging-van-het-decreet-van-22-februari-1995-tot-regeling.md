@@ -13,7 +13,7 @@ entry_into_force: 2002-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/15/2002036156/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2002. - Decreet houdende wijziging van het decreet van 22 februari 1995 tot regeling van het administratief toezicht op de provincies in het Vlaamse Gewest.

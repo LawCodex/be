@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/07/12/1990029956/justel"
 department: "Communauté flamande"
 justel_note: "consultation des versions antérieures à partir du 15-08-1990 et mise à jour au 31-08-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 1990. - Décret portant organisation de l'éducation de base pour adultes peu scolarisés. (Traduction)

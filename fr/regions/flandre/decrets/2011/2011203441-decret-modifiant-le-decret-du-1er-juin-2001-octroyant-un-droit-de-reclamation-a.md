@@ -13,7 +13,7 @@ entry_into_force: 2011-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/06/17/2011203441/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2011. - Décret modifiant le décret du 1er juin 2001 octroyant un droit de réclamation à l'égard d'administrations

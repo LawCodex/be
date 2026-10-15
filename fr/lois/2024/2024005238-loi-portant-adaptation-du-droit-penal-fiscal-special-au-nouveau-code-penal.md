@@ -12,7 +12,7 @@ entry_into_force: 2026-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/16/2024005238/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Loi portant adaptation du droit pénal fiscal spécial au nouveau Code pénal

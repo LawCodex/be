@@ -10,7 +10,7 @@ date: 2021-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/10/27/2021042963/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 2021. - Wet wijziging van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen gecoördineerd op 14 juli 1994, wat het afficheren van de tarieven door zorgverstrekkers betreft

@@ -13,7 +13,7 @@ entry_into_force: 2015-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/07/02/2015031424/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2015. - Ordonnance portant les premières mesures d'exécution et d'application de la Sixième Réforme de l'Etat relatives aux organes d'avis et de médiation en matière de congé- éducation payé et du Fonds de l'expérience professionnelle

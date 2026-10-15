@@ -13,7 +13,7 @@ entry_into_force: 2016-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/02/22/2016201388/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2016. - Decreet houdende instemming met het Verdrag tot oprichting van het Internationaal Instituut voor democratie en verkiezingsondersteuning en de slotakte, gedaan te Stockholm op 27 februari 1995, zoals gewijzigd op 24 januari 2006

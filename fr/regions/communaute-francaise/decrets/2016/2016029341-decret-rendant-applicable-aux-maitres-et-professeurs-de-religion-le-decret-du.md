@@ -13,7 +13,7 @@ entry_into_force: 2016-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/30/2016029341/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2016. - Décret rendant applicable aux maîtres et professeurs de religion le décret du 11 avril 2014 règlementant les titres et fonctions dans l'enseignement fondamental et secondaire organisé et subventionné par la Communauté française et portant diverses mesures en matière de titres et fonctions

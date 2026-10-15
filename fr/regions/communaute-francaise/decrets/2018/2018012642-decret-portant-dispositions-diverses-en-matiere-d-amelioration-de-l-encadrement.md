@@ -13,7 +13,7 @@ entry_into_force: 2018-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/31/2018012642/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2018. - Décret portant dispositions diverses en matière d'amélioration de l'encadrement de l'enseignement maternel

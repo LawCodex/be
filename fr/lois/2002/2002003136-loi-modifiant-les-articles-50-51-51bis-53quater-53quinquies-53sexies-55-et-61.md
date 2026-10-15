@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/03/07/2002003136/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MARS 2002. - [Loi modifiant les articles 50, 51, 51bis, 53quater, 53quinquies, 53sexies, 55 et 61 du Code de la taxe sur la valeur ajoutée.] (Errata, M.B. 17-05-2002, p. 21009)

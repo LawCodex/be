@@ -13,7 +13,7 @@ entry_into_force: 2016-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/16/2023206801/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2023. - Décret portant assentiment à l'Accord, conclu à Strasbourg le 3 décembre 1974 entre le Royaume de Belgique et le Conseil de l'Europe, complémentaire à l'Accord général sur les privilèges et immunités du Conseil de l'Europe, signé à Paris le 2 septembre 1949, modifié par le Premier Protocole, signé à Strasbourg le 9 décembre 1987 et par le Deuxième Protocole, signé à Bruxelles le 15 avril 2016, et au Deuxième Protocole, signé à Bruxelles le 15 avril 2016, modifiant et complétant l'Accord complémentaire

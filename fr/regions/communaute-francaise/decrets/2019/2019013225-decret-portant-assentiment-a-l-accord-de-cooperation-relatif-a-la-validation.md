@@ -13,7 +13,7 @@ entry_into_force: 2019-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019013225/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Décret portant assentiment à l'accord de coopération relatif à la validation des compétences conclu le 21 mars 2019 entre la Communauté française, la Région wallonne et la Commission communautaire française

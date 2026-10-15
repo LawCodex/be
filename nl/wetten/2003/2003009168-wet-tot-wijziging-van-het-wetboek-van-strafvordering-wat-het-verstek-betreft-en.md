@@ -12,7 +12,7 @@ entry_into_force: 2003-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/12/2003009168/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2003. - Wet tot wijziging van het Wetboek van strafvordering wat het verstek betreft en tot opheffing van artikel 421 van hetzelfde Wetboek.

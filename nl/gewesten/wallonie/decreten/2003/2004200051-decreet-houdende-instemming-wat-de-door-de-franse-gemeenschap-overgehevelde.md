@@ -13,7 +13,7 @@ entry_into_force: 2004-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/04/2004200051/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2003. - Decreet houdende instemming, wat de door de Franse Gemeenschap overgehevelde materies betreft, met de Samenwerkingsovereenkomst tussen het Waalse Gewest en de Franse Gemeenschap van België, enerzijds, en de Republiek Letland, anderzijds, opgemaakt te Riga op 12 juli 2002. (Vertaling).

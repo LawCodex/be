@@ -13,7 +13,7 @@ entry_into_force: 2013-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/05/03/2013035443/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2013. - Decreet houdende instemming met de overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Georgië, anderzijds, betreffende een gemeenschappelijke luchtvaartruimte, ondertekend in Brussel op 2 december 2010

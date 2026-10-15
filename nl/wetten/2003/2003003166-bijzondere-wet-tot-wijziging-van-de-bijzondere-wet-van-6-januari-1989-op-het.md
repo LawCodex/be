@@ -12,7 +12,7 @@ entry_into_force: 2003-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/03/09/2003003166/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2003. - Bijzondere wet tot wijziging van de bijzondere wet van 6 januari 1989 op het Arbitragehof.

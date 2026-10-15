@@ -12,7 +12,7 @@ published: 2026-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/05/08/2026003889/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2026. - Decreet tot wijziging van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges, wat betreft het taalgebruik bij de Vlaamse bestuursrechtscolleges

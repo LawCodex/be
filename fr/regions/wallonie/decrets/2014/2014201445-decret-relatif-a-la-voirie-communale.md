@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/06/2014201445/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 04-03-2014 et mise à jour au 13-01-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 2014. - Décret relatif à la voirie communale

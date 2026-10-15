@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/08/03/2012003255/justel"
 department: "Financiën - Economie, KMO, Middenstand en Energie - Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 24-08-2012 en tekstbijwerking tot 01-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AUGUSTUS 2012. - Wet betreffende diverse maatregelen ter vergemakkelijking van de mobilisering van schuldvorderingen in de financiële sector

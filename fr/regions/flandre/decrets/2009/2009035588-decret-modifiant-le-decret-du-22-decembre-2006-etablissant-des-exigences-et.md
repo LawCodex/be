@@ -13,7 +13,7 @@ entry_into_force: 2009-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/08/2009035588/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2009. - Décret modifiant le décret du 22 décembre 2006 établissant des exigences et mesures de maintien en matière de performance énergétique et de climat intérieur de bâtiments et instaurant un certificat de performance énergétique et modifiant l'article 22 du décret REG

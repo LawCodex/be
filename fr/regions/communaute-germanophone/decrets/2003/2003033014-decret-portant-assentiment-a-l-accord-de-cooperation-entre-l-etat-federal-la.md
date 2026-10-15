@@ -13,7 +13,7 @@ entry_into_force: 2003-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/03/2003033014/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2003. - Décret portant assentiment à l'Accord de coopération entre l'Etat fédéral, la Communauté germanophone, la Communauté française et la Communauté flamande relatif au centre fermé pour le placement provisoire de mineurs ayant commis un fait qualifié infraction, conclu le 30 avril 2002 (TRADUCTION).

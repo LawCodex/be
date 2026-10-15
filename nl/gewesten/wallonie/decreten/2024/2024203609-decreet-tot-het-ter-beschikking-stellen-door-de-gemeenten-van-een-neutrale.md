@@ -12,7 +12,7 @@ published: 2024-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/11/2024203609/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2024. - Decreet tot het ter beschikking stellen door de gemeenten van een neutrale plaats voor de organisatie van begrafenisplechtigheden

@@ -11,7 +11,7 @@ published: 1999-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/04/1999000423/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 1999. - Loi visant à améliorer les congés politiques en faveur des conseillers provinciaux et communaux, membres du conseil de l'aide sociale, bourgmestres, échevins et présidents du conseil de l'aide sociale dans le secteur public et privé.

@@ -13,7 +13,7 @@ entry_into_force: 1999-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/18/1999035800/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 1999. - Decreet houdende wijziging van het decreet van 14 mei 1996 tot vaststelling van de regelen inzake de werking en de verdeling van het Sociaal Impulsfonds.

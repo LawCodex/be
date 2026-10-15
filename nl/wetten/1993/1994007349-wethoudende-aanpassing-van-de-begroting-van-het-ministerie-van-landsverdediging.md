@@ -12,7 +12,7 @@ entry_into_force: 1994-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/12/20/1994007349/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 1993. - Wethoudende aanpassing van de begroting van het Ministerie van Landsverdediging van het begrotingsjaar 1992.

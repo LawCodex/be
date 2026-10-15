@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/12/21/2013035030/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 17-01-2013 et mise à jour au 12-06-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2012. - Décret visant à compenser l'obligation de service public pour le transport des personnes handicapées ou à mobilité très réduite

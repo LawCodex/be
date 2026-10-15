@@ -12,7 +12,7 @@ entry_into_force: 2018-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/06/11/2018031548/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2018. - Loi instaurant le Temps Universel Coordonné (UTC) comme base de l'heure légale en Belgique

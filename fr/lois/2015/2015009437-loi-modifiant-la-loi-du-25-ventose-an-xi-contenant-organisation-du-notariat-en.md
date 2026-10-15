@@ -12,7 +12,7 @@ entry_into_force: 2015-09-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/07/17/2015009437/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2015. - Loi modifiant la loi du 25 ventôse an XI contenant organisation du notariat en ce qui concerne les conditions de nomination

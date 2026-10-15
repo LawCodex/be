@@ -12,7 +12,7 @@ entry_into_force: 2012-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/03/29/2012201995/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2012. - Herziening van artikel 195 van de Grondwet

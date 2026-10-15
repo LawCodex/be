@@ -13,7 +13,7 @@ entry_into_force: 2022-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/04/2022030770/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2022. - Décret modifiant les articles 10, 12, 13 et 14 du décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision

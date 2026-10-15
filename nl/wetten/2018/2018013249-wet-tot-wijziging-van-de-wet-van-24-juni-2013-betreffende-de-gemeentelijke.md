@@ -12,7 +12,7 @@ entry_into_force: 2018-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/19/2018013249/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2018. - Wet tot wijziging van de wet van 24 juni 2013 betreffende de gemeentelijke administratieve sancties wat de verkeersinbreuken betreft die het voorwerp kunnen maken van gemeentelijke en administratieve sancties

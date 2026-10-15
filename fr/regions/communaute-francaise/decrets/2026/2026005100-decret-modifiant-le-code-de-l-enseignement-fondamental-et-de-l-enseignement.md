@@ -13,7 +13,7 @@ entry_into_force: 2026-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/11/2026005100/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2026. - Décret modifiant le Code de l'enseignement fondamental et de l'enseignement secondaire concernant le bien-être des élèves, l'amélioration du climat scolaire et la prévention du harcèlement et du cyberharcèlement scolaires

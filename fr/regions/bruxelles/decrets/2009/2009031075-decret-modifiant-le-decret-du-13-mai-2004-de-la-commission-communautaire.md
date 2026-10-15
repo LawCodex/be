@@ -13,7 +13,7 @@ entry_into_force: 2009-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/01/15/2009031075/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 2009. - Décret modifiant le décret du 13 mai 2004 de la Commission communautaire française relatif à la cohésion sociale.

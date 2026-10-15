@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/15/2021022315/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 OKTOBER 2021. - DECREET tot wijziging van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector, wat betreft de G-sport

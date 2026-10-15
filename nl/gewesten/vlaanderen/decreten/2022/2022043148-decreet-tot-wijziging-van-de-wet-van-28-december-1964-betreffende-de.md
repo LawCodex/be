@@ -13,7 +13,7 @@ entry_into_force: 2023-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/23/2022043148/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2022. - Decreet tot wijziging van de wet van 28 december 1964 betreffende de bestrijding van de luchtverontreiniging, het Energiedecreet van 8 mei 2009, het decreet van 13 juli 2012 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2012 en het decreet van 17 december 2021 tot wijziging van het Energiedecreet van 8 mei 2009, wat betreft toewijzingen aan het Energiefonds, wijzigingen betreffende flexibiliteit en energiedelen, de uitbouw van het energiedataplatform en de herziening van de administratieve geldboetes aangaande installatie-eisen

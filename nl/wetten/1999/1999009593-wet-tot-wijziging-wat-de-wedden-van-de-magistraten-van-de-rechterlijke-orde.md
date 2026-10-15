@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/29/1999009593/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 1999. - Wet tot wijziging, wat de wedden van de magistraten van de Rechterlijke Orde betreft, van het Gerechtelijk Wetboek.

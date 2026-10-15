@@ -12,7 +12,7 @@ entry_into_force: 2023-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/21/2023030953/justel"
 department: "Politique Scientifique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2023. - Loi permettant l'accès aux archives en vue de la recomposition des familles à la suite des séparations contraintes

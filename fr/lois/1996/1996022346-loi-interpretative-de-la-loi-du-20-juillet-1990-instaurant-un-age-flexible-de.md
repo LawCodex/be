@@ -12,7 +12,7 @@ entry_into_force: 1996-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/06/19/1996022346/justel"
 department: "Prévoyance Sociale - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 1996. - Loi interprétative de la loi du 20 juillet 1990 instaurant un âge flexible de la retraite pour travailleurs salariés et adaptant les pensions des travailleurs salariés à l'évolution du bien-être général.

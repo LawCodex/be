@@ -13,7 +13,7 @@ entry_into_force: 2015-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/04/23/2015031254/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 2015. - Ordonnantie houdende instemming met de wijziging van het Protocol van Kyoto aangenomen in Doha op 8 december 2012

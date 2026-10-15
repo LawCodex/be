@@ -11,7 +11,7 @@ date: 2001-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/06/2001035953/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2001. - Decreet houdende aanpassing van de Middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2001.

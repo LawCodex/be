@@ -12,7 +12,7 @@ entry_into_force: 2000-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/12/24/1999024144/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 1999. - Wet houdende sociale en diverse bepalingen.

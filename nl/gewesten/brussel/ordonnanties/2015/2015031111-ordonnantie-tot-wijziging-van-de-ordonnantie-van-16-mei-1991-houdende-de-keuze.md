@@ -13,7 +13,7 @@ entry_into_force: 2015-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/02/12/2015031111/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2015. - Ordonnantie tot wijziging van de ordonnantie van 16 mei 1991 houdende de keuze van het embleem en de vlag van het Brussels Hoofdstedelijk Gewest

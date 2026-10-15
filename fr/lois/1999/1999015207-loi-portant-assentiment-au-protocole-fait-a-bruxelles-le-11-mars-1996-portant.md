@@ -12,7 +12,7 @@ entry_into_force: 2000-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/09/1999015207/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 1999. - Loi portant assentiment au Protocole, fait à Bruxelles, le 11 mars 1996, portant amendement à l'Accord de sécurité sociale entre la Belgique et le Canada, signé à Bruxelles le 10 mai 1984.

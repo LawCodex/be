@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/01/31/2013200939/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2013. - Décret modifiant le Code wallon de l'Action sociale et de la Santé pour ce qui concerne l'agrément des institutions pratiquant la médiation de dettes

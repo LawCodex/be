@@ -13,7 +13,7 @@ entry_into_force: 2014-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029361/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret modifiant certaines dispositions relatives au statut des membres du personnel administratif, du personnel de maîtrise, gens de métier et de service des établissements d'enseignement organisé par la Communauté française

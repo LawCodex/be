@@ -11,7 +11,7 @@ published: 2011-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/07/15/2011014213/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2011. - Wet tot wijziging van artikel 569 van het Gerechtelijk Wetboek, betreffende de bevoegdheid van de rechtbank van eerste aanleg inzake de opvang van schepen die bijstand behoeven

@@ -13,7 +13,7 @@ entry_into_force: 2023-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/13/2023205680/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2023. - Décret portant assentiment à l'Accord de protection des investissements entre l'Union européenne et ses Etats membres, d'une part, et la République socialiste du Viêt Nam, d'autre part, fait à Hanoï le 30 juin 2019

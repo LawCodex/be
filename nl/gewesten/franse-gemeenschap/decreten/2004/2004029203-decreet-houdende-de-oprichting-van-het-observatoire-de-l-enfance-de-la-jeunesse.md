@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/12/2004029203/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 18-06-2004 en tekstbijwerking tot 12-05-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Decreet houdende de oprichting van het " Observatoire de l'Enfance, de la Jeunesse et de l'Aide à la Jeunesse " (VERTALING)

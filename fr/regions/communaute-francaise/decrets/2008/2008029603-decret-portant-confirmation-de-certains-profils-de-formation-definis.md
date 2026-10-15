@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/10/24/2008029603/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 13-01-2009 et mise à jour au 08-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 OCTOBRE 2008. - Décret portant confirmation de certains profils de formation définis conformément à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire.

@@ -13,7 +13,7 @@ entry_into_force: 2020-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/05/28/2020021126/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MEI 2020. - Decreet tot wijziging van sommige bepalingen van het decreet van 8 februari 1999 betreffende de ambten en bekwaamheidsbewijzen van de leden van het onderwijzend personeel in de Hogescholen ingericht of gesubsidieerd door de Franse Gemeenschap

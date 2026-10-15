@@ -12,7 +12,7 @@ entry_into_force: 2007-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/06/07/2007015105/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2007. - Wet houdende instemming met het Protocol, opengesteld voor ondertekening te Berlijn van 1 juni 2006 tot 1 november 2006, tot wijziging van de Overeenkomst inzake de oprichting van een Internationale Commissie voor de Internationale Opsporingsdienst, gesloten te Bonn op 6 juni 1955.

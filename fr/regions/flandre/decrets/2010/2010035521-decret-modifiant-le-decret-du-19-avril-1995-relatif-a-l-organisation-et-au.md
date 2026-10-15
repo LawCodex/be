@@ -13,7 +13,7 @@ entry_into_force: 2010-08-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/09/2010035521/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2010. - Décret modifiant le décret du 19 avril 1995 relatif à l'organisation et au fonctionnement du service de pilotage de la Région flamande et relatif au brevet de pilote de port et de maître d'équipage

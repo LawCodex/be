@@ -13,7 +13,7 @@ entry_into_force: 2005-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/08/2005036234/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2005. - Decreet houdende wijziging van het decreet van 6 juli 2001 houdende nadere regeling van het recht om verzoekschriften bij het Vlaams Parlement in te dienen.

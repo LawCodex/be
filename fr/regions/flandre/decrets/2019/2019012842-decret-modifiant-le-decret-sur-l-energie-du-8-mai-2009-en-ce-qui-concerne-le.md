@@ -13,7 +13,7 @@ entry_into_force: 2019-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/26/2019012842/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2019. - Décret modifiant le décret sur l'Energie du 8 mai 2009 en ce qui concerne le déploiement de compteurs numériques et modifiant les articles 7.1.1, 7.1.2 et 7.1.5 du même décret

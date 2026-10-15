@@ -13,7 +13,7 @@ entry_into_force: 2025-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/05/15/2025201680/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2025. - Décret portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République du Congo relatif au transport aérien, fait à Bruxelles le 12 juin 2018

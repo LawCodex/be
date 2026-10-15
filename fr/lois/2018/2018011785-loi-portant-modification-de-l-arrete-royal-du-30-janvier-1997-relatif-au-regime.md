@@ -12,7 +12,7 @@ entry_into_force: 2017-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/30/2018011785/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2018. - Loi portant modification de l'arrêté royal du 30 janvier 1997 relatif au régime de pension des travailleurs indépendants en application des articles 15 et 27 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions et de l'article 3, § 1er, 4° de la loi du 26 juillet 1996 visant à réaliser les conditions budgétaires de la participation de la Belgique à l'Union économique et monétaire européenne en ce qui concerne l'allocation de transition minimum

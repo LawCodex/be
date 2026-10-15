@@ -13,7 +13,7 @@ entry_into_force: 2019-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/05/2019011954/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 2019. - Décret portant assentiment à l'accord de coopération du 15 février 2019 entre la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune relatif à la classification de films diffusés dans les salles de cinéma belges

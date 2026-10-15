@@ -12,7 +12,7 @@ entry_into_force: 2006-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/12/03/2005021172/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2005. - Wet tot wijziging van de artikelen 64 en 1476 van het Burgerlijk Wetboek en artikel 59/1 van het Wetboek van zegelrechten met het oog op de vereenvoudiging van de formaliteiten voor het huwelijk en de wettelijke samenwoning.

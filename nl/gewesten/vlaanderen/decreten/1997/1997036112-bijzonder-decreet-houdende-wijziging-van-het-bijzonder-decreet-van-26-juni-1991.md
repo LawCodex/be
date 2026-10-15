@@ -12,7 +12,7 @@ entry_into_force: 1991-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/15/1997036112/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 1997. - Bijzonder decreet houdende wijziging van het bijzonder decreet van 26 juni 1991 betreffende de Universiteit Gent en het Universitair Centrum Antwerpen.

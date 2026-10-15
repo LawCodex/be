@@ -13,7 +13,7 @@ entry_into_force: 2022-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/22/2022200072/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2021. - Décret modifiant la loi du 18 juillet 1973 relative à la lutte contre le bruit

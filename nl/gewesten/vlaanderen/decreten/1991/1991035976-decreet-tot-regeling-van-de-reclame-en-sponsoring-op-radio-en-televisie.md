@@ -13,7 +13,7 @@ entry_into_force: 1991-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/06/12/1991035976/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUNI 1991. - Decreet tot regeling van de reclame en sponsoring op radio en televisie.

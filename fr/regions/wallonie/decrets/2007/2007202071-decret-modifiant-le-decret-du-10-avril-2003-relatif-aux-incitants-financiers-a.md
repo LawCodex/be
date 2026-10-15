@@ -13,7 +13,7 @@ entry_into_force: 2006-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/06/14/2007202071/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 2007. - Décret modifiant le décret du 10 avril 2003 relatif aux incitants financiers à la formation des travailleurs occupés par les entreprises.

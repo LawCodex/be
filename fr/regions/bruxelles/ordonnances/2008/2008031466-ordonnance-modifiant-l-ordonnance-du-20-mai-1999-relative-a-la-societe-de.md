@@ -13,7 +13,7 @@ entry_into_force: 1978-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/09/04/2008031466/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBRE 2008. - Ordonnance modifiant l'ordonnance du 20 mai 1999 relative à la Société de Développement pour la Région de Bruxelles-Capitale.

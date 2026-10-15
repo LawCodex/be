@@ -13,7 +13,7 @@ entry_into_force: 2017-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/12/2016206371/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2016. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et Jersey en vue de l'échange de renseignements en matière fiscale, fait à Londres le 13 mars 2014

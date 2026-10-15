@@ -13,7 +13,7 @@ entry_into_force: 2023-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/06/08/2023042717/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 2023. - Ordonnance modifiant différentes dispositions de la Nouvelle loi communale

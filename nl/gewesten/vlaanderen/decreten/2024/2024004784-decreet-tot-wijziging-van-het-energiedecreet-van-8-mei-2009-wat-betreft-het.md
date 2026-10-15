@@ -13,7 +13,7 @@ entry_into_force: 2024-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/19/2024004784/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2024. - Decreet tot wijziging van het Energiedecreet van 8 mei 2009, wat betreft het uniek loket voor de aanvraag, behandeling, verwerking en uitbetaling van gebouwpremies of premies voor energieopwekkingsinstallaties en tot instelling van een rapportageverplichting voor datacentra

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/16/2023206399/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 12-12-2023 et mise à jour au 12-06-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2023. - Décret relatif au subventionnement des infrastructures et des équipements des milieux d'accueil de la petite enfance

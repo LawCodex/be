@@ -12,7 +12,7 @@ entry_into_force: 2018-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/12/13/2017206840/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2017. - Wet houdende wijziging van de wet van 15 april 1994 betreffende de bescherming van de bevolking en van het leefmilieu tegen de uit ioniserende stralingen voortspruitende gevaren en betreffende het federaal agentschap voor Nucleaire Controle

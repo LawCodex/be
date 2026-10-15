@@ -12,7 +12,7 @@ entry_into_force: 1999-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/10/1999003033/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANUARI 1999. - Wet houdende twaalfde aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 1998 - Sectie 18 "Ministerie van Financiën".

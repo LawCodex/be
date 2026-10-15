@@ -12,7 +12,7 @@ entry_into_force: 2024-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/07/2022034237/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2022. - Wet houdende instemming met de Overeenkomst tussen de regering van het Koninkrijk België en de regering van de Italiaanse Republiek inzake de uitwisseling en wederzijdse bescherming van geclassificeerde informatie, gedaan te Rome op 31 januari 2017

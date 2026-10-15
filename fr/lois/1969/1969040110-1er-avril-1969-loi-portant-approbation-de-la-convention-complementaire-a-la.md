@@ -11,7 +11,7 @@ published: 1969-05-08
 entry_into_force: 1969-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1969/04/01/1969040110/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er AVRIL 1969. \_ Loi portant approbation de la Convention complémentaire à la Convention de Varsovie, pour l'unification de certaines règles relatives au transport aérien international effectué par une personne autre que le transporteur contractuel, faite à Guadalajara le 18 septembre 1961.

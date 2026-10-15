@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/06/2014200332/justel"
 department: "Chancellerie du Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 31-01-2014 et mise à jour au 09-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANVIER 2014. - Loi relative à la Sixième Réforme de l'Etat concernant les matières visées à l'article 78 de la Constitution

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/08/31/1998037687/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 24-11-1998 et mise à jour au 31-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 AOUT 1998. - Décret relatif aux missions confiées aux pouvoirs organisateurs et au personnel des écoles et portant des dispositions générales d'ordre pédagogique et organisationnel pour les [écoles ordinaires et spécialisées] (TRADUCTION). &lt;Intitulé modifié par DCG 2009-05-11/15 , art. 129, 014; En vigueur : 01-09-2009&gt;

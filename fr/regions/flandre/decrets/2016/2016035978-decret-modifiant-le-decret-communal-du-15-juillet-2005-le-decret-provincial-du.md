@@ -13,7 +13,7 @@ entry_into_force: 2016-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/03/2016035978/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2016. - Décret modifiant le Décret communal du 15 juillet 2005, le Décret provincial du 9 décembre 2005 et le décret du 19 décembre 2008 relatif à l'organisation des centres publics d'aide sociale

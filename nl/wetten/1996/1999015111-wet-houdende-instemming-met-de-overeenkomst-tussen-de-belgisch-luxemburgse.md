@@ -12,7 +12,7 @@ entry_into_force: 1999-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/06/10/1999015111/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 1996. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Cyprus inzake de wederzijdse bevordering en bescherming van investeringen, en met de uitwisseling van brieven, ondertekend te Nicosia op 26 februari 1991.

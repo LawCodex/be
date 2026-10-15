@@ -13,7 +13,7 @@ entry_into_force: 2013-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/03/21/2013031201/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2013. - Ordonnantie houdende instemming met : de Multilaterale Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, de Republiek Albanië, Bosnië en Herzegovina, de Republiek Bulgarije, de Republiek Kroatië, de Republiek IJsland, de Republiek Montenegro, de voormalige Joegoslavische Republiek Macedonië, het Koninkrijk Noorwegen, de Republiek Servië, Roemenië, en de Missie van de Verenigde Naties voor interimbestuur in Kosovo (UNMIK) betreffende de totstandbrenging van een Europese Gemeenschappelijke Luchtvaartruimte, gedaan te Luxemburg op 9 juni 2006

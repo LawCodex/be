@@ -12,7 +12,7 @@ entry_into_force: 2018-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/09/11/2018013547/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 SEPTEMBRE 2015. - Loi portant assentiment au Protocole, fait à Bruxelles le 9 juillet 2013, modifiant la Convention entre le Royaume de Belgique et la République de Turquie tendant à éviter la double imposition en matière d'impôts sur le revenu, signée à Ankara le 2 juin 1987

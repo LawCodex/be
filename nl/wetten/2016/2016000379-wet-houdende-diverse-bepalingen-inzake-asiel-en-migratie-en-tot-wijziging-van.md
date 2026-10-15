@@ -12,7 +12,7 @@ entry_into_force: 2016-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/05/04/2016000379/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2016. - Wet houdende diverse bepalingen inzake asiel en migratie en tot wijziging van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen en de wet van 12 januari 2007 betreffende de opvang van asielzoekers en van bepaalde andere categorieën van vreemdelingen

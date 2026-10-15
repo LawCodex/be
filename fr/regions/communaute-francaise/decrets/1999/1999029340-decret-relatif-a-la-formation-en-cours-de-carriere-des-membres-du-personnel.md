@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/15/1999029340/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 16-07-1999 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 1999. - Décret relatif à la formation en cours de carrière des membres du personnel directeur et enseignant et du personnel auxiliaire d'éducation de l'enseignement secondaire artistique à horaire réduit subventionné par la Communauté francaise

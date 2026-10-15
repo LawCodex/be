@@ -17,7 +17,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "voor aanpassingen van de begroting, zie DVR 2000-06-30/44; Inwerkingtreding : 27-11-2000."
   - "raadpleging van vroegere versies vanaf 15-06-2000 en summiere tekstbijwerking tot 17-11-2000"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1999. - Decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2000.

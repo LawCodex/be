@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/21/1994036572/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1995 et mise à jour au 02-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 1994. - Décret contenant diverses mesures d'accompagnement du budget 1995. (Traduction)

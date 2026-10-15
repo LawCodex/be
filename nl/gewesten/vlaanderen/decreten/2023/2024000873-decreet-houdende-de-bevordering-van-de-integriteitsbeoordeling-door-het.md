@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/22/2024000873/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 14-02-2024 en tekstbijwerking tot 20-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2023. - Decreet houdende de bevordering van de integriteitsbeoordeling door het openbaar bestuur

@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/05/04/2005029139/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2005. - Décret modifiant le décret du 11 juillet 2002 relatif à la formation en cours de carrière des membres du personnel des établissements d'enseignement fondamental ordinaire.

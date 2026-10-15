@@ -12,7 +12,7 @@ entry_into_force: 2004-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/04/25/2004000265/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2004. - Wet tot invoeging van een artikel 17bis in de wet van 10 april 1990 op de bewakingsondernemingen, de beveiligingsondernemingen en de interne bewakingsdiensten.

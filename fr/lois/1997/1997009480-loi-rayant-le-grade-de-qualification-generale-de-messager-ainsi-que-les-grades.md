@@ -12,7 +12,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/05/20/1997009480/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 1997. - Loi rayant le grade de qualification générale de messager ainsi que les grades de promotion de messager principal, de messager-chef et de messager-chef principal dans les greffes et les parquets des cours et tribunaux et modifiant les conditions de nomination en qualité de traducteur au parquet.

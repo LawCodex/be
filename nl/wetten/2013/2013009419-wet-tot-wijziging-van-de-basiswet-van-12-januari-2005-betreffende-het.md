@@ -10,7 +10,7 @@ date: 2013-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/01/2013009419/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2013. - Wet tot wijziging van de basiswet van 12 januari 2005 betreffende het gevangeniswezen en de rechtspositie van de gedetineerden

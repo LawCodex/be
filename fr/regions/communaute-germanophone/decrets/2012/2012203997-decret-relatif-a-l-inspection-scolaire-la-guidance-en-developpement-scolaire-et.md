@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/25/2012203997/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 27-07-2012 et mise à jour au 09-11-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2012. - Décret relatif à l'inspection scolaire [, la guidance en développement scolaire et la guidance pour l'inclusion et l'intégration] &lt;DCG 2019-05-06/10 , art. 214, 006; En vigueur : 01-09-2019&gt;

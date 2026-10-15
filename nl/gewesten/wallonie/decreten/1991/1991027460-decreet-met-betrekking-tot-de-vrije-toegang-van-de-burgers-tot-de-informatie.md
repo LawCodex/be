@@ -17,7 +17,7 @@ department: "Waalse Gewest"
 justel_notes:
   - "deze tekst werd opgeheven bij DWG 2004-05-27/63, art. 2, 2°, 003; Inwerkingtreding : onbepaald ; zie B.S. 09-07-2004, p. 54697"
   - "Raadpleging van vroegere versies vanaf 11-10-1991 en tekstbijwerking tot 09-07-2004."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 1991. - Decreet met betrekking tot de vrije toegang van de burgers tot de informatie betreffende het leefmilieu (vertaling).

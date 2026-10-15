@@ -13,7 +13,7 @@ entry_into_force: 2018-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/09/2018010888/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2018. - Decreet houdende instemming met: 1° de overeenkomst tussen de Regering van het Koninkrijk België en de Regering van Canada tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en het protocol, ondertekend te Ottawa op 23 mei 2002, zoals gewijzigd door het protocol ondertekend te Brussel op 1 april 2014, 2° het protocol, ondertekend te Brussel op 1 april 2014 tot wijziging van de onder 1° vermelde overeenkomst

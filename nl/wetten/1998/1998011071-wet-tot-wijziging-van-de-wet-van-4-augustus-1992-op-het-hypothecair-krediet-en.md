@@ -11,7 +11,7 @@ published: 1998-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/03/13/1998011071/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 1998. - Wet tot wijziging van de wet van 4 augustus 1992 op het hypothecair krediet en tot wijziging van de wet van 13 april 1995 tot wijziging van de wet van 4 augustus 1992 op het hypothecair krediet.

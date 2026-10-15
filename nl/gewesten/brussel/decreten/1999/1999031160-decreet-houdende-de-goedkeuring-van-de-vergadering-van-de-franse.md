@@ -13,7 +13,7 @@ entry_into_force: 1999-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/03/11/1999031160/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 1999. - Decreet houdende de goedkeuring van de Vergadering van de Franse Gemeenschapscommissie over de vervreemding van het gebouw, gelegen in de Hertogstraat 59-61, te Brussel (VERTALING).

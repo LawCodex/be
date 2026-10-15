@@ -13,7 +13,7 @@ entry_into_force: 2015-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/05/15/2015029252/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2015. - Decreet waarbij de overheidsbesturen van het Waalse Gewest en het Brusselse Hoofdstedelijk Gewest ertoe worden gemachtigd vermogensverrichtingen uit te voeren voor rekening van de Franse Gemeenschap en de entiteiten die eronder ressorteren

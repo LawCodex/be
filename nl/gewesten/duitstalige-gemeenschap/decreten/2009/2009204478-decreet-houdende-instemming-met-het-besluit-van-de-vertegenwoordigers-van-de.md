@@ -13,7 +13,7 @@ entry_into_force: 2009-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/09/15/2009204478/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 SEPTEMBER 2009. - Decreet houdende instemming met het Besluit van de vertegenwoordigers van de regeringen van de lidstaten, in het kader van de Raad bijeen, betreffende de voorrechten en immuniteiten die aan het Europees defensieagentschap en zijn personeel worden verleend, ondertekend in Brussel op 10 november 2004, en het aanvullend Protocol tussen het Koninkrijk België en het Europees defensieagentschap, ondertekend in Brussel op 22 juni 2005

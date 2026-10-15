@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/08/2007029009/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-02-2007 en tekstbijwerking tot 07-10-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2006. - Decreet houdende organisatie en subsidiëring van de sport in de Franse Gemeenschap (VERTALING).

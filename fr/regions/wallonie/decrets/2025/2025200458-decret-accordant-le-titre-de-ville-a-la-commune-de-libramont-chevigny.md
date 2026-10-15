@@ -13,7 +13,7 @@ entry_into_force: 2025-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/01/30/2025200458/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 2025. - Décret accordant le titre de ville à la Commune de Libramont-Chevigny

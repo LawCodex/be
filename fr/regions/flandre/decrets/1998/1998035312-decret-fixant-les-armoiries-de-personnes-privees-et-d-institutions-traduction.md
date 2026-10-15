@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/02/03/1998035312/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 21-03-1998 et mise à jour au 17-10-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 1998. - Décret fixant les armoiries de personnes privées et d'institutions. (TRADUCTION)

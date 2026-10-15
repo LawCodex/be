@@ -13,7 +13,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/06/12/2019012684/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2019. - Décret modifiant le décret du 31 mars 2004 relatif à l'adoption

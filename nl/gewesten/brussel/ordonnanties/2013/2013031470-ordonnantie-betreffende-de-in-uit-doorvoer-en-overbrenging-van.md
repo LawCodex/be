@@ -13,7 +13,7 @@ entry_into_force: 2013-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/06/20/2013031470/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2013. - Ordonnantie betreffende de in-, uit-, doorvoer en overbrenging van defensiegerelateerde producten, ander voor militair gebruik dienstig materiaal, ordehandhavingsmateriaal, civiele vuurwapens, onderdelen, toebehoren en munitie ervan (Wapenordonnantie)

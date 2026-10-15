@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/26/2006033090/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 19-10-2006 en tekstbijwerking tot 15-02-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2006. - Decreet houdende maatregelen inzake onderwijs 2006 (VERTALING).

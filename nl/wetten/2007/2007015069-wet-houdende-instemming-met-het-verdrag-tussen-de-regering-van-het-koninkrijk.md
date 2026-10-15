@@ -12,7 +12,7 @@ entry_into_force: 2008-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/21/2007015069/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2007. - Wet houdende instemming met Het Verdrag tussen de Regering van het Koninkrijk België en de Regering van de Republiek Albanië inzake politiesamenwerking, ondertekend te Brussel op 22 maart 2005.

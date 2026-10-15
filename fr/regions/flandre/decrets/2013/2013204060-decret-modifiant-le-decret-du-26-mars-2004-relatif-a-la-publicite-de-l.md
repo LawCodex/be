@@ -13,7 +13,7 @@ entry_into_force: 2013-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/21/2013204060/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2013. - Décret modifiant le décret du 26 mars 2004 relatif à la publicité de l'administration, pour ce qui concerne les délais de recours

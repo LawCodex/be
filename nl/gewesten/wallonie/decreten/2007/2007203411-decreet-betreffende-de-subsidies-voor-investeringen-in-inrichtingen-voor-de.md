@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/07/2007203411/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 12-12-2008 en tekstbijwerking tot 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2007. - Decreet betreffende de subsidies voor investeringen in inrichtingen voor de opvang van bejaarde personen (VERTALING)

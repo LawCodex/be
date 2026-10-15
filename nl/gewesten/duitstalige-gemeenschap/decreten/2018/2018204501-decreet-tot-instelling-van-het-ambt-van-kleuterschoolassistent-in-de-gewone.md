@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/25/2018204501/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 25-09-2018 en tekstbijwerking tot 10-09-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2018. - Decreet tot instelling van het ambt van kleuterschoolassistent in de gewone basisscholen en tot verlaging van de instapleeftijd in het kleuteronderwijs tot twee jaar en zes maanden

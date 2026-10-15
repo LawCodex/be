@@ -12,7 +12,7 @@ entry_into_force: 2001-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/12/15/2000003753/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2000. - Loi relative à la contribution de la Belgique à la douzième reconstitution des ressources de l'Association internationale de Développement.

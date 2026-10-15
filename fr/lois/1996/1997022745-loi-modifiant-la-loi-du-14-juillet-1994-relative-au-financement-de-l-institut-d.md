@@ -12,7 +12,7 @@ entry_into_force: 1997-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/19/1997022745/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1996. - Loi modifiant la loi du 14 juillet 1994 relative au financement de l'Institut d'expertise vétérinaire.

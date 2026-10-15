@@ -12,7 +12,7 @@ entry_into_force: 2015-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/12/2014015225/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2014. - Loi portant assentiment à la Convention entre le Royaume de Belgique et la République dominicaine portant transfèrement des personnes condamnées, signée à Saint-Domingue le 5 mai 2009

@@ -12,7 +12,7 @@ entry_into_force: 2024-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/25/2024000103/justel"
 department: "Mobilité et Transports - Justice - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2023. - Loi modifiant la loi du 6 décembre 2005 relative à la répartition d'une partie des recettes fédérales en matière de sécurité routière

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/11/25/2016036651/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 10-01-2017 en tekstbijwerking tot 29-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2016. - Decreet betreffende de alternatieve financiering van schoolinfrastructuur via projectspecifieke DBFM-overeenkomsten

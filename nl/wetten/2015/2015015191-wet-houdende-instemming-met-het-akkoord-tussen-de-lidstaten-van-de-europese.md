@@ -12,7 +12,7 @@ entry_into_force: 2016-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/07/12/2015015191/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2015. - Wet houdende instemming met het Akkoord tussen de lidstaten van de Europese Unie betreffende de vorderingen van een lidstaat tegen een andere lidstaat ter zake van schade aan goederen die zijn eigendom zijn of door hem worden gebruikt of geëxploiteerd, dan wel van letsel of overlijden van een militair of een lid van het burgerpersoneel van zijn strijdkrachten in het kader van een EU-crisisbeheersingsoperatie, gedaan te Brussel op 28 april 2004

@@ -12,7 +12,7 @@ entry_into_force: 1987-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1987/07/14/1987009653/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1987. - Wet waarbij, voor wat bepaaldelijk de vluchtelingen betreft, wijzigingen worden aangebracht in de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen.

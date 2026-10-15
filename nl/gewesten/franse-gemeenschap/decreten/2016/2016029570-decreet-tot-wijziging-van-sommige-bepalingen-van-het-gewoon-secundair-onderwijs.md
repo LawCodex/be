@@ -12,7 +12,7 @@ published: 2016-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/13/2016029570/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2016. - Decreet tot wijziging van sommige bepalingen van het gewoon secundair onderwijs betreffende de organisatie, in de tweede graad en in de derde graad van het secundair onderwijs, van het taalbadonderwijs gebarentaal en schrijftaal Frans in tweetalige klassen Frans-gebarentaal

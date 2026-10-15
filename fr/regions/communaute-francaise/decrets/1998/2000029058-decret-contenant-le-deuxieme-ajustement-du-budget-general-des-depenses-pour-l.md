@@ -13,7 +13,7 @@ entry_into_force: 2000-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/11/30/2000029058/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 1998. - Décret contenant le deuxième ajustement du budget général des dépenses pour l'année budgétaire 1998.

@@ -13,7 +13,7 @@ entry_into_force: 2001-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/12/2001029283/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2001. - Décret portant assentiment à la Convention portant révision de la Convention de Florence du 19 avril 1972 portant création d'un institut universitaire européen et à l'Acte final, faits à Florence le 18 juin 1992 et le 17 septembre 1992.

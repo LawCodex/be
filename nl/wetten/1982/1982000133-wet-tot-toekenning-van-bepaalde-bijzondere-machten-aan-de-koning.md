@@ -12,7 +12,7 @@ entry_into_force: 1982-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1982/02/02/1982000133/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 1982. - Wet tot toekenning van bepaalde bijzondere machten aan de Koning.

@@ -13,7 +13,7 @@ entry_into_force: 2011-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/03/28/2011201958/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2011. - Décret portant assentiment à la Convention du Conseil de l'Europe pour la protection des enfants contre l'exploitation et les abus sexuels, faite à Lanzarote le 25 octobre 2007

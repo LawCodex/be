@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/11/2002012823/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 22-06-2002 et mise à jour au 06-06-2007"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2002. - Loi relative à la protection contre la violence et le harcèlement moral ou sexuel au travail.

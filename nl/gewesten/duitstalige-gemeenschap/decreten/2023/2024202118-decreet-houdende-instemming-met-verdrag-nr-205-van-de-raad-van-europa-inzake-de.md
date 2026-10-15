@@ -13,7 +13,7 @@ entry_into_force: 2024-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/13/2024202118/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2023. - Decreet houdende instemming met Verdrag nr. 205 van de Raad van Europa inzake de toegang tot officiële documenten, gedaan te Tromso op 18 juni 2009

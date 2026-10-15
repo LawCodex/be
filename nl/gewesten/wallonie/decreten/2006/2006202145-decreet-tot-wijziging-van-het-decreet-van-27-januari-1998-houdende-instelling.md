@@ -13,7 +13,7 @@ entry_into_force: 2006-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/22/2006202145/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2006. - Decreet tot wijziging van het decreet van 27 januari 1998 houdende instelling van een politie voor de bescherming van het gewestelijk openbaar waterwegendomein en houdende regeling van de voorwaarden voor de uitoefening van dat ambt (VERTALING).

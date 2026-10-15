@@ -12,7 +12,7 @@ entry_into_force: 2016-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/01/26/2016015039/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2016. - Wet houdende instemming met het Akkoord tussen de Regering van het Koninkrijk België en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de afbakening van de exclusieve economische zone tussen beide landen, gesloten door uitwisseling van brieven gedagtekend te Brussel op 25 juni 2013 en 12 augustus 2013, houdende wijziging van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de afbakening van het continentaal plat tussen beide landen, ondertekend te Brussel op 29 mei 1991, zoals gewijzigd door de uitwisseling van brieven gedagtekend te Brussel op 21 maart 2005 en 7 juni 2005

@@ -10,7 +10,7 @@ date: 1891-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1891/08/31/1891083100/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 AUGUSTUS 1891. - Wet houdende tarifering en invordering van de honoraria der notarissen

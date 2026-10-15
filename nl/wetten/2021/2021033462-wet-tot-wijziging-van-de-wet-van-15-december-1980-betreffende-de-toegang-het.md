@@ -11,7 +11,7 @@ entry_into_force: 2021-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/07/30/2021033462/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2021. - Wet tot wijziging van de wet van 15 december 1980 betreffende de toegang, het verblijf, de vestiging en de verwijdering van vreemdelingen, aangaande de elektronische communicatie van procedurestukken en het aanpassen van de bestaande louter schriftelijke procedure bij Raad voor Vreemdelingenbetwistingen

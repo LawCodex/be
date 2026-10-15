@@ -13,7 +13,7 @@ entry_into_force: 1999-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/06/1999027491/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 1999. - Decreet betreffende de budgettaire programmering voor de medefinancieringen van de tegemoetkomingen van het Europees Sociaal Fonds (VERTALING).

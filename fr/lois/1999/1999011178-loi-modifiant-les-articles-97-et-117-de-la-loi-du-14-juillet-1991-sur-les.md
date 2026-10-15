@@ -12,7 +12,7 @@ entry_into_force: 1999-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/25/1999011178/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 1999. - Loi modifiant les articles 97 et 117 de la loi du 14 juillet 1991 sur les pratiques du commerce et sur l'information et la protection du consommateur.

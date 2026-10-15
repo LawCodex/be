@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/08/1997036256/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 22-10-1997 en tekstbijwerking tot 27-11-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 1997. - Decreet houdende bepalingen tot begeleiding van de aanpassing van de begroting 1997.

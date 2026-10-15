@@ -11,7 +11,7 @@ published: 1978-01-27
 entry_into_force: 1978-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1977/12/30/1977123007/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBER 1977. - Wet tot verlenging van de wet van 24 januari 1977 houdende tijdelijke vermindering van de werkgeversbijdragen van sociale zekerheid ter bevordering van de tewerkstelling.

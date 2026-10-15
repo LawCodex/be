@@ -13,7 +13,7 @@ entry_into_force: 2023-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/04/28/2023031073/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2023. - Decreet tot wijziging van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid, wat de opheffing van de bepalingen over de tijdelijke afzondering in het kader van COVID-19 betreft

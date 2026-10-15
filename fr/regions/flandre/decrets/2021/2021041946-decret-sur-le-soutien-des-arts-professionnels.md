@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/04/23/2021041946/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 10-06-2021 et mise à jour au 29-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2021. - Décret sur le soutien des arts professionnels

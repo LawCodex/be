@@ -13,7 +13,7 @@ entry_into_force: 2019-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/03/28/2019011413/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2019. - Ordonnance portant assentiment à : certaines modifications à la Convention internationale de 1973 pour la prévention de la pollution par les navires, faite à Londres le 2 novembre 1973 (MARPOL), adoptées sur la base de l'article 16 de ladite Convention

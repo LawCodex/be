@@ -13,7 +13,7 @@ entry_into_force: 2014-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/01/30/2014031136/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 2014. - Ordonnance portant assentiment à : l'Accord de libre-échange entre l'Union européenne et ses Etats membres, d'une part, et la République de Corée, d'autre part, fait à Bruxelles le 6 octobre 2010

@@ -12,7 +12,7 @@ entry_into_force: 2006-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/01/10/2006015012/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2006. - Loi portant assentiment à la Convention générale de Coopération au Développement entre le Royaume de Belgique et la République algérienne démocratique et populaire, signée à Bruxelles le 10 décembre 2002.

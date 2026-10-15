@@ -13,7 +13,7 @@ entry_into_force: 2010-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/03/18/2010029211/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 2010. - Décret modifiant le décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre, en ce qui concerne les inscriptions en première année du secondaire

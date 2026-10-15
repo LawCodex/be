@@ -13,7 +13,7 @@ entry_into_force: 2015-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/07/02/2015031430/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 2015. - Ordonnantie houdende instemming met : het Akkoord tussen de Regering van het Koninkrijk België en de Regering van de Republiek Frankrijk voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid, opgemaakt te Parijs op 17 november 2008

@@ -12,7 +12,7 @@ entry_into_force: 2020-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/30/2020203351/justel"
 department: "Justice - Stratégie et Appui - Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2020. - Loi pérennisant le Fonds blouses blanches santé et affectant ses moyens correspondants pour les années 2019 et 2020

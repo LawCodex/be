@@ -12,7 +12,7 @@ published: 1998-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/16/1998027443/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 1998. - Décret modifiant le décret du 18 juillet 1997 créant un programme de transition professionnelle.

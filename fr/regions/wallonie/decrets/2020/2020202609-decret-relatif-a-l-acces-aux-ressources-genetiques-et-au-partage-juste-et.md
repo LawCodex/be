@@ -13,7 +13,7 @@ entry_into_force: 2020-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/05/20/2020202609/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 2020. - Décret relatif à l'accès aux ressources génétiques et au partage juste et équitable des avantages découlant de leur utilisation

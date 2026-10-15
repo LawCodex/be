@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/10/21/1998033093/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OCTOBRE 1996. - Décret portant assentiment au Traité d'entente et de coopération entre la Fédération de Russie et le Royaume de Belgique, signé à Bruxelles le 8 décembre 1993 (TRADUCTION).

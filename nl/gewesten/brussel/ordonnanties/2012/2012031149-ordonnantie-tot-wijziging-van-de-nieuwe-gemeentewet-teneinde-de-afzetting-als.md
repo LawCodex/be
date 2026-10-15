@@ -13,7 +13,7 @@ entry_into_force: 2012-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/03/15/2012031149/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2012. - Ordonnantie tot wijziging van de Nieuwe Gemeentewet teneinde de afzetting als straf opnieuw in te voeren

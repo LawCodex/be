@@ -13,7 +13,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/04/09/1998027288/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 APRIL 1998. - Decreet tot wijziging van het decreet van 7 juni 1990 houdende oprichting van een " Institut scientifique de Service public (ISSeP) " (Openbaar Wetenschappelijk Instituut) in het Waalse Gewest (VERTALING).

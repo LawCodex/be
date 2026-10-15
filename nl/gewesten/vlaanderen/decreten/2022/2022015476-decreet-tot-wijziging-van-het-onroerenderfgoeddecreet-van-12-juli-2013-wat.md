@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/10/2022015476/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 04-10-2022 en tekstbijwerking tot 11-10-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2022. - Decreet tot wijziging van het Onroerenderfgoeddecreet van 12 juli 2013, wat betreft de uitvoering van de Visienota Lokaal Onroerenderfgoedbeleid en de toekenning van beboetingsbevoegdheid aan de gewestelijke beboetingsentiteit

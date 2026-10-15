@@ -12,7 +12,7 @@ entry_into_force: 1982-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1982/07/09/1982001616/justel"
 department: "Affaires étrangères"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 1982. \_ Loi portant approbation de la Convention sur la pollution atmosphérique transfrontière à longue distance, faite à Genève le 13 novembre 1979.

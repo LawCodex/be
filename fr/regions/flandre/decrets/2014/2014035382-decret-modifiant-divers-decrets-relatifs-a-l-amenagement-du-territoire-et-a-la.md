@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/04/2014035382/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 15-04-2014 et mise à jour au 20-12-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2014. - Décret modifiant divers décrets relatifs à l'aménagement du territoire et à la politique foncière et immobilière

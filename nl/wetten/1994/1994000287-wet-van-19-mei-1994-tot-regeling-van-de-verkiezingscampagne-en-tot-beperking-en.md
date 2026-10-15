@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/05/19/1994000287/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
 justel_note: "Raadpleging van vroegere versies vanaf 30-08-2000 en tekstbijwerking tot 11-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 1994. - WET van 19 mei 1994 tot regeling van de verkiezingscampagne en tot beperking en aangifte van de verkiezingsuitgaven voor de verkiezingen van [het Vlaams Parlement, het Waals Parlement, het Brussels Hoofdstedelijk Parlement en het Parlement] van de Duitstalige Gemeenschap, alsmede tot vaststelling van de toetsingsnorm inzake officiële mededelingen van de overheid &lt;W 2006-03-27/35 , art. 28, 007; Inwerkingtreding : 21-04-2006&gt;

@@ -13,7 +13,7 @@ entry_into_force: 2011-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/04/29/2011035341/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2011. - Decreet houdende wijziging van diverse decreten met betrekking tot wonen

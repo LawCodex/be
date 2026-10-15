@@ -12,7 +12,7 @@ entry_into_force: 2000-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/05/14/2000022509/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MEI 2000. - Wet tot wijziging van de artikelen 42 en 51 van de samengeordende wetten van 19 december 1939 betreffende de kinderbijslag voor loonarbeiders.

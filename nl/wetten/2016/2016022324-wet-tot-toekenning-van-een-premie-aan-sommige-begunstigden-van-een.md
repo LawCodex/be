@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/07/06/2016022324/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 28-12-2017 en tekstbijwerking tot 16-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2016. - Wet tot toekenning van een premie aan sommige begunstigden van een minimumpensioen en tot verhoging van sommige minimumpensioenen, in het werknemers- en zelfstandigenstelsel

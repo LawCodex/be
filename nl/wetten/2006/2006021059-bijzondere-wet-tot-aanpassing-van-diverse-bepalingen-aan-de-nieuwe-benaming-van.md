@@ -12,7 +12,7 @@ entry_into_force: 2006-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/03/27/2006021059/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2006. - Bijzondere wet tot aanpassing van diverse bepalingen aan de nieuwe benaming van het Vlaams Parlement, het Waals Parlement, het Parlement van de Franse Gemeenschap, het Brussels Hoofdstedelijk Parlement en het Parlement van de Duitstalige Gemeenschap.

@@ -13,7 +13,7 @@ entry_into_force: 2003-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/19/2003200059/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2002. - Décret modifiant le décret du 7 septembre 1989 concernant l'attribution du label de qualité wallon, l'appellation d'origine locale et l'appellation d'origine wallonne.

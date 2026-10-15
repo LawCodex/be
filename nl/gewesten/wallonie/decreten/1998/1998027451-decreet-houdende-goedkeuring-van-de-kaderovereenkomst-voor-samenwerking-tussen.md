@@ -13,7 +13,7 @@ entry_into_force: 1998-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/23/1998027451/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 1998. - Decreet houdende goedkeuring van de Kaderovereenkomst voor samenwerking tussen de Regering van de Republiek Chili, enerzijds, en de Regering van het Waalse Gewest en de Regering van de Franse Gemeenschap van België, anderzijds, opgemaakt te Santiago op 31 juli 1997 (VERTALING).

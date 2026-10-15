@@ -12,7 +12,7 @@ entry_into_force: 2015-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/06/2015205693/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2015. - Wet tot wijziging van diverse wetten wat de benaming "Nationale Veiligheidsraad betreft"

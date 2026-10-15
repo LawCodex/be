@@ -12,7 +12,7 @@ entry_into_force: 2003-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/18/2003015053/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEBRUARI 2003. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Letland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, en met het Protocol, ondertekend te Brussel op 21 april 1999.

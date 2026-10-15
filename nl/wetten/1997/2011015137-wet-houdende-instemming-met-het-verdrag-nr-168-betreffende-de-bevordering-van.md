@@ -12,7 +12,7 @@ entry_into_force: 2012-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/04/03/2011015137/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 1997. - Wet houdende instemming met het Verdrag nr. 168 betreffende de bevordering van de werkgelegenheid en de bescherming tegen werkloosheid, aangenomen te Genève op 21 juni 1988 door de Internationale Arbeidsconferentie tijdens haar vijfenzeventigste zitting

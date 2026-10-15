@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/10/2003022215/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 27-03-2003 et mise à jour au 30-03-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2003. - Loi réglant le transfert de droits à pensions entre des régimes belges de pensions et ceux d'institutions de droit international public

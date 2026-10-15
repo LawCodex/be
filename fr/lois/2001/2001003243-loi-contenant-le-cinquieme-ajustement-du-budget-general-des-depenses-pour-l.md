@@ -12,7 +12,7 @@ entry_into_force: 2001-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/04/29/2001003243/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2001. - Loi contenant le cinquième ajustement du Budget général des dépenses pour l'année budgétaire 2000.

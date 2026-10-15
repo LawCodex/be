@@ -13,7 +13,7 @@ entry_into_force: 2014-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/05/16/2014031460/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2014. - Ordonnantie betreffende het nemen van kapitaalsparticipaties door de Gemeenschappelijke Gemeenschapscommissie in de vennootschap van privaat recht die een gewestelijk datacentrum organiseert, opgericht als zuiver publieke samenwerking

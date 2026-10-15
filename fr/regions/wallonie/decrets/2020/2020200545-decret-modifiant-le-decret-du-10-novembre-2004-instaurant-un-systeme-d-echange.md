@@ -13,7 +13,7 @@ entry_into_force: 2020-02-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/01/23/2020200545/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 2020. - Décret modifiant le décret du 10 novembre 2004 instaurant un système d'échange de quotas d'émission de gaz à effet de serre, créant un Fonds wallon Kyoto et relatif aux mécanismes de flexibilité du Protocole de Kyoto, en vue de transposer partiellement la directive (UE) 2018/410 du Parlement européen et du Conseil du 14 mars 2018

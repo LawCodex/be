@@ -12,7 +12,7 @@ entry_into_force: 2007-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/02/13/2007000207/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 2007. - Loi portant diverses modifications en matière électorale.

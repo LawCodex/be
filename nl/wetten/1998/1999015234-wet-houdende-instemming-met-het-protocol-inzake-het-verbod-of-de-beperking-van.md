@@ -12,7 +12,7 @@ entry_into_force: 1999-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/08/10/1999015234/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1998. - Wet houdende instemming met het Protocol inzake het verbod of de beperking van het gebruik van mijnen, valstrikmijnen en andere mechanismen, zoals gewijzigd op 3 mei 1996 (Protocol II zoals gewijzigd op 3 mei 1996) gehecht aan het Verdrag inzake het verbod of de beperking van het gebruik van bepaalde conventionele wapens die geacht kunnen worden buitensporig leed te veroorzaken of een niet onderscheidende werking te hebben, aangenomen te Genève op 3 mei 1996.

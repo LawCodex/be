@@ -13,7 +13,7 @@ entry_into_force: 2004-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/27/2004202357/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2004. - Decreet houdende instemming met het tweede protocol betreffende het Verdrag van Den Haag van 1954 inzake de bescherming van culturele goederen in geval van een gewapend conflict, opgemaakt te Den Haag, op 26 maart 1999 (VERTALING).

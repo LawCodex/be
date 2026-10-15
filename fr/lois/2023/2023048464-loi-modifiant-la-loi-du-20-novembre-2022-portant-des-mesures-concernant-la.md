@@ -12,7 +12,7 @@ entry_into_force: 2023-09-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/21/2023048464/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2023. - Loi modifiant la loi du 20 novembre 2022 portant des mesures concernant la pénurie de personnel dans le secteur des soins

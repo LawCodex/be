@@ -13,7 +13,7 @@ entry_into_force: 2022-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/10/07/2022042327/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 OCTOBRE 2022. - Décret modifiant le décret du 3 octobre 2022 portant limitation de l'indexation des loyers afin d'atténuer les conséquences de la crise énergétique

@@ -13,7 +13,7 @@ entry_into_force: 2020-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/04/30/2020041087/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2020. - Ordonnantie tot wijziging van de ordonnantie van 23 november 2017 houdende wetgevende aanpassingen met het oog op de overname van de dienst onroerende voorheffing door het Brussels Hoofdstedelijk Gewest, met als bedoeling de aanpassing van de indexatie van de premie ten voordele van de houders van een zakelijk recht op een in het Brussels Hoofdstedelijk Gewest gelegen onroerend goed waarin zij en hun gezin hun woonplaats hebben

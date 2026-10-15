@@ -13,7 +13,7 @@ last_amended: 2022-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1958/01/07/1958010703/justel"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1989 et mise à jour au 10-11-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JANVIER 1958. - Loi concernant les Fonds de sécurité d'existence.

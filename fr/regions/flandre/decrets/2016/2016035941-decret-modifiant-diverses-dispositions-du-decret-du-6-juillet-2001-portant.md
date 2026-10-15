@@ -13,7 +13,7 @@ entry_into_force: 2016-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/05/13/2016035941/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2016. - DECRET modifiant diverses dispositions du décret du 6 juillet 2001 portant réglementation de la coopération intercommunale et du décret provincial du 9 décembre 2005

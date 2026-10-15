@@ -12,7 +12,7 @@ entry_into_force: 2025-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/06/29/2025002667/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2018. - Loi portant approbation des statuts et de la résolution n° 24 du Conseil des Gouverneurs de la Banque asiatique d'investissement dans les infrastructures

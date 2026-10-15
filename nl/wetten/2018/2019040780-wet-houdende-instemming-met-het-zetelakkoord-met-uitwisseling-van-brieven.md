@@ -12,7 +12,7 @@ entry_into_force: 2014-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/06/2019040780/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2018. - Wet houdende instemming met het Zetelakkoord met uitwisseling van brieven tussen het Koninkrijk België en de Internationale Organisatie voor Criminele Politie - INTERPOL (O.I.C.P. - INTERPOL), gedaan te Lyon op 14 oktober 2014 en te Brussel op 24 oktober 2014

@@ -13,7 +13,7 @@ entry_into_force: 2002-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/20/2002027090/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2001. - Decreet houdende instemming met het Europees Landschapsverdrag, opgemaakt te Florence, op 20 oktober 2000 (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2025-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/07/18/2025005895/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2025. - Décret spécial modifiant l'entrée en vigueur du décret spécial du 17 mai 2024 modifiant le décret spécial du 14 juillet 1998 relatif à l'enseignement communautaire, en ce qui concerne l'enseignement dans les institutions communautaires créées en exécution du droit en matière de délinquance juvénile

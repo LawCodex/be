@@ -13,7 +13,7 @@ entry_into_force: 2023-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/01/2023203214/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2023. - Décret portant confirmation de l'arrêté du Gouvernement wallon n° 3 du 13 avril 2023 mettant fin à l'obligation du port du masque

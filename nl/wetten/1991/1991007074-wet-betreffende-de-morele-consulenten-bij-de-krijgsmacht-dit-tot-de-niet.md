@@ -12,7 +12,7 @@ entry_into_force: 1991-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/02/18/1991007074/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 FEBRUARI 1991. - Wet betreffende de morele consulenten bij de Krijgsmacht, dit tot de niet-confessionele Gemeenschap van België behoren.

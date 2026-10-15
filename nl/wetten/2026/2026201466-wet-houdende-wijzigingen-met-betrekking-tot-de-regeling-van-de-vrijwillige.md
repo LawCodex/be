@@ -12,7 +12,7 @@ entry_into_force: 2026-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/05/18/2026201466/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2026. - Wet houdende wijzigingen met betrekking tot de regeling van de vrijwillige overuren en van het Sociaal Strafwetboek

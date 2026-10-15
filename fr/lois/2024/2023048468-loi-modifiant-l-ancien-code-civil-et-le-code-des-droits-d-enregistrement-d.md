@@ -12,7 +12,7 @@ entry_into_force: 2024-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/01/07/2023048468/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANVIER 2024. - Loi modifiant l'ancien Code civil et le Code des droits d'enregistrement, d'hypothèque et de greffe en vue d'assouplir la procédure de changement de nom

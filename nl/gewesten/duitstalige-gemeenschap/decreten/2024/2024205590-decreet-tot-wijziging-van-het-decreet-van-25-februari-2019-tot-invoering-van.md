@@ -12,7 +12,7 @@ entry_into_force: 2024-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/22/2024205590/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2024. - Decreet tot wijziging van het decreet van 25 februari 2019 tot invoering van een permanente burgerdialoog in de Duitstalige Gemeenschap

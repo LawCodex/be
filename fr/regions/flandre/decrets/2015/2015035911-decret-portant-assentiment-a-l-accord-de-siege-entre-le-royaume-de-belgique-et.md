@@ -13,7 +13,7 @@ entry_into_force: 2015-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/26/2015035911/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2015. - Décret portant assentiment à l'accord de siège entre le Royaume de Belgique et l'Organisation de la Conférence islamique, signée à Bruxelles le 4 février 2011

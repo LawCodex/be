@@ -12,7 +12,7 @@ entry_into_force: 2013-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/02/15/2013015140/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2007. - Wet houdende instemming met het Tweede Aanvullend Protocol, ondertekend te Brussel op 11 oktober 2004, tot wijziging van de Overeenkomst tussen Belgie en Italië tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken en het ontgaan van belasting op het gebied van belastingen naar het inkomen, en van het Slotprotocol, ondertekend te Rome op 29 april 1983

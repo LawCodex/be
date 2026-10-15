@@ -12,7 +12,7 @@ entry_into_force: 2025-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/23/2022032062/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 FEVRIER 2022. - Loi portant assentiment à la Convention n° 188 sur le travail dans la pêche, adoptée à Genève le 14 juin 2007 par la Conférence internationale du Travail à sa 96e session

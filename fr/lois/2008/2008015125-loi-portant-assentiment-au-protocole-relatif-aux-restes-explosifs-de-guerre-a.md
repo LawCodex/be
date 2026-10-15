@@ -12,7 +12,7 @@ entry_into_force: 2010-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/19/2008015125/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2008. - Loi portant assentiment au Protocole relatif aux restes explosifs de guerre à la Convention sur l'interdiction ou la limitation de l'emploi de certaines armes classiques qui peuvent être considérées comme produisant des effets traumatiques excessifs ou comme frappant sans discrimination (Protocole V), adopté à Genève le 28 novembre 2003

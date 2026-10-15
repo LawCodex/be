@@ -12,7 +12,7 @@ entry_into_force: 2019-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/06/06/2019013428/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2019. - Loi modifiant l'arrêté royal n° 20, du 20 juillet 1970, fixant les taux de la taxe sur la valeur ajoutée et déterminant la répartition des biens et des services selon ces taux

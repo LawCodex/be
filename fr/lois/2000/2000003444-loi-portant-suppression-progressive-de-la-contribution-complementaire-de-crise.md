@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/08/12/2000003444/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 26-09-2000 et mise à jour au 11-08-2001."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AOUT 2000. - Loi portant suppression progressive de la contribution complémentaire de crise sur les revenus des personnes physiques. -

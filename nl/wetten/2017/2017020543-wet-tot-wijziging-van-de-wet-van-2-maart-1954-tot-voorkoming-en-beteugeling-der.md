@@ -11,7 +11,7 @@ published: 2017-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/07/06/2017020543/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2017. - Wet tot wijziging van de wet van 2 maart 1954 tot voorkoming en beteugeling der aanslagen op de vrije uitoefening van de door de Grondwet ingestelde souvereine machten

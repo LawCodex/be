@@ -12,7 +12,7 @@ published: 2003-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/07/17/2003029508/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2003. - Décret portant assentiment à l'accord de coopération du 2 septembre 2002 entre l'Etat, les Communautés, la Commission communautaire commune, la Commission communautaire française et les Régions pour une politique de drogues globale et intégrée.

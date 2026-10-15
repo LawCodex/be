@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/09/2006035132/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 02-02-2006 et mise à jour au 08-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2005. - Décret relatif à l'organisation de projets temporaires dans l'enseignement. (TRADUCTION)

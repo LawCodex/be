@@ -12,7 +12,7 @@ entry_into_force: 2013-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/26/2015011524/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBRE 2015. - Loi modifiant la loi du 17 juillet 2013 relative aux volumes nominaux minimaux de biocarburants durables qui doivent être incorporés dans les volumes de carburants fossiles mis annuellement à la consommation

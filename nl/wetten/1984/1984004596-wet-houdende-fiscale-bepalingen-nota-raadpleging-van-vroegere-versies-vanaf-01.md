@@ -12,7 +12,7 @@ entry_into_force: 1984-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1984/12/27/1984004596/justel"
 department: "Financiën"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 1984. - Wet houdende fiscale bepalingen. (Nota : raadpleging van vroegere versies vanaf 01-01-1989 en tekstbijwerking tot 11-08-2001)

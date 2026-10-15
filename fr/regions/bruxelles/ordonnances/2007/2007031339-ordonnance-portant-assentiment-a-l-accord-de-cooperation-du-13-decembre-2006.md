@@ -13,7 +13,7 @@ entry_into_force: 2007-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2007/07/19/2007031339/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2007. - Ordonnance portant assentiment à l'Accord de Coopération du 13 décembre 2006 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Région wallonne, la Communauté germanophone et la Commission communautaire commune portant sur l'entrée en vigueur de l'article 7, 7°, de la loi du 13 juin 2006 modifiant la législation relative à la protection de la jeunesse et à la prise en charge des mineurs ayant commis un fait qualifié infraction.

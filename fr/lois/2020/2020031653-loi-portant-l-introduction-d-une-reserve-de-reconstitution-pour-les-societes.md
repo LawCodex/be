@@ -12,7 +12,7 @@ entry_into_force: 2020-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/11/19/2020031653/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2020. - Loi portant l'introduction d'une réserve de reconstitution pour les sociétés

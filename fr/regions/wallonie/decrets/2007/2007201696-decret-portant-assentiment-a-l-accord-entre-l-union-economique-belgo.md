@@ -13,7 +13,7 @@ entry_into_force: 2007-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/03/2007201696/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2007. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et la République de l'Ouganda, d'autre part, concernant l'encouragement et la protection réciproques des investissements, fait à Kampala le 1er février 2005.

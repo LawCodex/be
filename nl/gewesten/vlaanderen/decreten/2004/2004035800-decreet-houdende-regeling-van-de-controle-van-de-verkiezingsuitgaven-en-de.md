@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004035800/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 28-05-2004 en tekstbijwerking tot 25-08-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - [Decreet houdende regeling van de controle van de verkiezingsuitgaven en de herkomst van de geldmiddelen voor de verkiezing van het Vlaams Parlement.] &lt;DVR 2011-07-08/24 , art. 279, 004; Inwerkingtreding : 04-09-2011&gt;

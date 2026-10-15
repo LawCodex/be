@@ -12,7 +12,7 @@ entry_into_force: 1999-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999009652/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 1999. - Loi modifiant la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme ou la xénophobie, ainsi que la loi du 23 mars 1995 tendant à réprimer la négation, la minimisation, la justification ou l'approbation du génocide commis par le régime national-socialiste allemand pendant la seconde guerre mondiale.

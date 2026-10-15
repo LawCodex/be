@@ -12,7 +12,7 @@ entry_into_force: 2020-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/07/20/2020042399/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2020. - Loi portant octroi de la garantie de l'Etat dans le cadre des instruments mis en place au ni-veau de l'Union européenne pour atténuer les conséquences socio-économiques du COVID-19

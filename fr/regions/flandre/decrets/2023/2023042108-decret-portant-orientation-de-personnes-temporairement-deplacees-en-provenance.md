@@ -13,7 +13,7 @@ entry_into_force: 2023-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/21/2023042108/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2023. - Décret portant orientation de personnes temporairement déplacées en provenance d'Ukraine vers des formations (professionnelles) et vers le marché du travail par le biais de l'inscription obligatoire auprès de l'Office flamand de l'Emploi et de la Formation professionnelle

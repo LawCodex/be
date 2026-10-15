@@ -13,7 +13,7 @@ entry_into_force: 2016-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/03/10/2016031220/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2016. - Ordonnance portant assentiment à l'Accord de coopération du 17 décembre 2014 conclu entre la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune modifiant l'Accord de coopération du 9 décembre 2011 entre la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune en matière de prévention et de lutte contre le dopage dans le sport

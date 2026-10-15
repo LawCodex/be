@@ -13,7 +13,7 @@ entry_into_force: 2008-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/08/2008201840/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2008. - Decreet tot wijziging van Boek II van het Milieuwetboek, dat het Waterwetboek inhoudt, wat betreft het "Fonds de solidarité internationale pour l'eau" (Internationaal solidariteitsfonds voor water) (VERTALING).

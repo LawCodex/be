@@ -12,7 +12,7 @@ entry_into_force: 2026-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/15/2026005819/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2026. - Wet tot wijziging van artikel 116 van de wet van 2 december 2024 betreffende de openbaarmaking van duurzaamheidsinformatie door bepaalde vennootschappen en groepen en de assurance van duurzaamheidsinformatie en houdende diverse bepalingen, inzake de datum van toepassing voor organisaties van openbaar belang

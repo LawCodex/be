@@ -13,7 +13,7 @@ entry_into_force: 2018-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/22/2018040090/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2018. - Décret portant assentiment à La Décision des représentants des Gouvernements des Etats membres réunis au sein du Conseil du 28 avril 2004, concernant les privilèges et immunités accordés à ATHENA

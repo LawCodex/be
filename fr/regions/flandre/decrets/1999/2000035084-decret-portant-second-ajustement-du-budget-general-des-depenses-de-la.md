@@ -13,7 +13,7 @@ entry_into_force: 2000-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/12/17/2000035084/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 1999. - Décret portant second ajustement du budget général des dépenses de la Communauté flamande pour l'année budgétaire 1999 (TRADUCTION).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/02/11/2019040488/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 22-03-2019 en tekstbijwerking tot 30-06-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEBRUARI 2019. - Wet houdende fiscale, fraudebestrijdende, financiële alsook diverse bepalingen

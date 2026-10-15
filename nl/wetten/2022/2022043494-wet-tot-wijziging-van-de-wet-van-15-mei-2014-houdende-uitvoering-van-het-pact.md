@@ -12,7 +12,7 @@ entry_into_force: 2023-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/26/2022043494/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBER 2022. - Wet tot wijziging van de wet van 15 mei 2014 houdende uitvoering van het pact voor competitiviteit, werkgelegenheid en relance, betreffende de tweede verlenging van de toepassingsperiode van de steunzones en tot invoering van een vrijstelling van doorstorting van bedrijfsvoorheffing voor werkgevers die getroffen worden door een natuurramp

@@ -12,7 +12,7 @@ entry_into_force: 2006-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/12/03/2005021172/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2005. - Loi modifiant les articles 64 et 1476 du Code civil et l'article 59/1 du Code des droits de timbre en vue de simplifier les formalités du mariage et de la cohabitation légale.

@@ -13,7 +13,7 @@ entry_into_force: 2023-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/10/12/2023206412/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OKTOBER 2023. - Decreet tot invoering van bepalingen betreffende de verwerking van persoonsgegevens in het kader van programma's voor preventieve geneeskunde in het Waalse Wetboek van Sociale Actie en Gezondheid

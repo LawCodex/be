@@ -12,7 +12,7 @@ entry_into_force: 2014-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/06/29/2014015216/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2014. - Wet houdende instemming met het Akkoord tussen het Koninkrijk België en het Internationaal Monetair Fonds inzake de vestiging in België van een Verbindingsbureau van deze Organisatie, gedaan te Brussel op 16 maart 2004

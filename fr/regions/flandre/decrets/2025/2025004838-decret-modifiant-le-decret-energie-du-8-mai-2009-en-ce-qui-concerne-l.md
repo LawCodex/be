@@ -13,7 +13,7 @@ entry_into_force: 2025-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/06/13/2025004838/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 2025. - Décret modifiant le décret Energie du 8 mai 2009, en ce qui concerne l'introduction d'un régime d'indemnisation forfaitaire pour les points d'accès bloqués et les possibilités de report de l'obligation PV

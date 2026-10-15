@@ -13,7 +13,7 @@ entry_into_force: 2019-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/01/24/2019040188/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 2019. - Décret portant assentiment à l'accord de coopération entre la Commission communautaire commune et la Commission communautaire française concernant la création et le fonctionnement de la Commission permanente de concertation en matière de transport médico sanitaire

@@ -12,7 +12,7 @@ entry_into_force: 2018-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/11/21/2017032079/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2017. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers et la loi du 12 janvier 2007 sur l'accueil des demandeurs d'asile et de certaines autres catégories d'étrangers

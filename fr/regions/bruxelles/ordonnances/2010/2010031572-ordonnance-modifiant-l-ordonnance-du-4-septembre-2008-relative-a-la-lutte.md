@@ -13,7 +13,7 @@ entry_into_force: 2010-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2010/12/09/2010031572/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2010. - Ordonnance modifiant l'ordonnance du 4 septembre 2008 relative à la lutte contre la discrimination et à l'égalité de traitement en matière d'emploi. &lt;Texte remplacé par Erratum, M.B. 31-12-2010, Ed. 2, p. 83383-83384&gt;

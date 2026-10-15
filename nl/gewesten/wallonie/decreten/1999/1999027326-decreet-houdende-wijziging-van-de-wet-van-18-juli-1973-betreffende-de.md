@@ -12,7 +12,7 @@ published: 1999-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/01/1999027326/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 1999. - Decreet houdende wijziging van de wet van 18 juli 1973 betreffende de bestrijding van de geluidshinder (VERTALING).

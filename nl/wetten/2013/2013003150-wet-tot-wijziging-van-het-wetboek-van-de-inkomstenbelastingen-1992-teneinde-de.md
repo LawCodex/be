@@ -12,7 +12,7 @@ entry_into_force: 2013-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/04/29/2013003150/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2013. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992, teneinde de fiscale bemiddeling uit te breiden tot verzoeken tot ambtshalve ontheffing

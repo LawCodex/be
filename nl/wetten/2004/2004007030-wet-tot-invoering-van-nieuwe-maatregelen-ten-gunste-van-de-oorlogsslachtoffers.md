@@ -12,7 +12,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/02/13/2004007030/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2004. - Wet tot invoering van nieuwe maatregelen ten gunste van de oorlogsslachtoffers door bemiddeling van het Instituut voor Veteranen. - Nationaal Instituut voor oorlogsinvaliden, oud-strijders en oorlogsslachtoffers.

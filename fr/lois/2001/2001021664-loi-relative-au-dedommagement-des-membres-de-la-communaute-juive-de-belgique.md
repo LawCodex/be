@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/12/20/2001021664/justel"
 department: "Justice - Finances"
 justel_note: "Consultation des versions antérieures à partir du 24-01-2002 et mise à jour au 28-07-2006"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2001. - Loi relative au dédommagement des membres de la Communauté juive de Belgique pour les biens dont ils ont été spoliés ou qu'ils ont délaissés pendant la guerre 1940-1945.

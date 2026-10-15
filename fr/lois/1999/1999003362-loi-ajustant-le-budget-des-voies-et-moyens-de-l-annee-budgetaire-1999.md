@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999003362/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 30-09-1999 et mise à jour au 23-12-1999."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 1999. - Loi ajustant le budget des Voies et Moyens de l'année budgétaire 1999. -

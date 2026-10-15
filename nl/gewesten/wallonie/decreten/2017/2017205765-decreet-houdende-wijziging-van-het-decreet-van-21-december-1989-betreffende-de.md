@@ -11,7 +11,7 @@ date: 2017-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/10/26/2017205765/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 OKTOBER 2017. - Decreet houdende wijziging van het decreet van 21 december 1989 betreffende de diensten voor het openbaar vervoer in het Waalse Gewest om de continuïteit van de openbare dienstverlening binnen de TEC-groep te verzekeren

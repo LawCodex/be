@@ -13,7 +13,7 @@ entry_into_force: 2007-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/13/2007036491/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2007. - Décret portant assentiment au Traité international sur les ressources phytogénétiques pour l'alimentation et l'agriculture, signé à Rome le 6 juin 2002 (TRADUCTION).

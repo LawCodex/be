@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/27/2004A02818/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 23-09-2004 et mise à jour au 29-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2004. - Code de l'Environnement - Livre 2 : Code de l'Eau. - Partie décrétale.

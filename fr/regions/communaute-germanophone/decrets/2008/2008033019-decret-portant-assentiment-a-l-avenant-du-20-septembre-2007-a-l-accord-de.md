@@ -13,7 +13,7 @@ entry_into_force: 2008-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/25/2008033019/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 2008. - Décret portant assentiment à l'avenant du 20 septembre 2007 à l'accord de coopération du 30 mai 2005 entre l'Etat fédéral, la Région flamande, la Région wallonne, la Région de Bruxelles-Capitale et la Communauté germanophone relatif à l'économie plurielle (TRADUCTION).

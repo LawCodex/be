@@ -12,7 +12,7 @@ entry_into_force: 2017-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/06/30/2017030467/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2017. - Loi portant des mesures de lutte contre la fraude fiscale

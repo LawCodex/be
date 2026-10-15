@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1988/05/09/1989029043/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 19-01-1991 en tekstbijwerking tot 15-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 1988. - [Decreet betreffende het Fonds voor bijzondere hulp aan kinderen en jongeren] &lt;Vertaling&gt; &lt;Opschrift vervangen door DDG 2015-03-02/05 , art. 8, 012; Inwerkingtreding : 26-03-2015&gt;

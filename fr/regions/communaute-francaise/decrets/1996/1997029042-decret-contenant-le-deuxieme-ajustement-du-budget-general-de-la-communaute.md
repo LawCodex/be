@@ -13,7 +13,7 @@ entry_into_force: 1997-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/12/20/1997029042/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1996. - Décret contenant le deuxième ajustement du budget général de la Communauté francaise pour l'année budgétaire 1996 et adaptant le décret contenant le budget général des dépenses de 1997.

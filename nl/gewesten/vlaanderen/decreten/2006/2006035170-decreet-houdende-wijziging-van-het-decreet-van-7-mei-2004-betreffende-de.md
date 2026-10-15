@@ -13,7 +13,7 @@ entry_into_force: 2006-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/01/20/2006035170/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 2006. - Decreet houdende wijziging van het decreet van 7 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten, wat de schrapping van de leeftijdsvereiste voor de leden van de bestuursorganen betreft.

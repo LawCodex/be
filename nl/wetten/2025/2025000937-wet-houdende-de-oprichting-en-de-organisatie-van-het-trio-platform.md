@@ -12,7 +12,7 @@ entry_into_force: 2025-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/01/31/2025000937/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2025. - Wet houdende de oprichting en de organisatie van het TRIO-platform

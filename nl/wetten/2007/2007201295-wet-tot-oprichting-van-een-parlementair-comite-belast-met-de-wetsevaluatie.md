@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/25/2007201295/justel"
 department: "Kanselarij van de Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 11-05-2007 en tekstbijwerking tot 26-02-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2007. - Wet tot oprichting van een Parlementair Comité belast met de wetsevaluatie.

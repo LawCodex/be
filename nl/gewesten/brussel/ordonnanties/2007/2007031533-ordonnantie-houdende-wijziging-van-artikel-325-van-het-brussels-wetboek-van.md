@@ -13,7 +13,7 @@ entry_into_force: 2007-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2007/11/29/2007031533/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2007. - Ordonnantie houdende wijziging van artikel 325 van het Brussels Wetboek van Ruimtelijke Ordening.

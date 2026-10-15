@@ -12,7 +12,7 @@ entry_into_force: 2010-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/03/15/2010011137/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2010. - Wet houdende wijziging van artikel 30 van de wet van 13 juni 2005 betreffende de elektronische communicatie

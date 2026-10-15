@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/10/2014009214/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 19-12-2014 et mise à jour au 28-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2014. - Loi modifiant diverses dispositions en vue d'établir un registre national des experts judiciaires et établissant un registre national des traducteurs, interprètes et traducteurs-interprètes jurés

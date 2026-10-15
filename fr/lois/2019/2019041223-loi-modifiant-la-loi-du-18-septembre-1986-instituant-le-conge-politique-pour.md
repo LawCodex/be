@@ -12,7 +12,7 @@ entry_into_force: 2019-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/07/2019041223/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2019. - Loi modifiant la loi du 18 septembre 1986 instituant le congé politique pour les membres du personnel des services publics

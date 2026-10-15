@@ -12,7 +12,7 @@ entry_into_force: 1999-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/08/10/1999015192/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1998. - Wet houdende instemming met volgende Internationale Akten : 1. Vijfde Protocol ter aanvulling van de Constitutie van de Wereldpostvereniging; 2. Algemeen Reglement van de Wereldpostvereniging, en Bijlage; 3. Wereldpostconventie, en Slotprotocol; 4. Overeenkomst betreffende de postcolli, en Slotprotocol; 5. Overeenkomst betreffende de postwissels; 6. Overeenkomst betreffende de dienst der postcheques; en 7. Overeenkomst betreffende de rembourszendingen; gedaan te Seoel op 14 september 1994.

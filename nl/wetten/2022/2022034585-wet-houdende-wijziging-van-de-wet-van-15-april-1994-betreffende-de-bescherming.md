@@ -12,7 +12,7 @@ entry_into_force: 2022-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/12/05/2022034585/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 2022. - Wet houdende wijziging van de wet van 15 april 1994 betreffende de bescherming van de bevolking en van het leefmilieu tegen de uit ioniserende stralingen voortspruitende gevaren en betreffende het Federaal Agentschap voor Nucleaire Controle

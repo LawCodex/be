@@ -12,7 +12,7 @@ entry_into_force: 2000-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/03/13/2001003030/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2001. - Loi portant assentiment du Protocole modifiant l'Accord du 9 février 1994 relatif à la perception d'un droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds, vu la mise en vigueur de la Directive 1999/62/CE du Parlement européen et du Conseil de l'Union européenne du 17 juin 1999 relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures, signé à Bruxelles le 22 mars 2000, entre les gouvernements du Royaume de Belgique, du Royaume du Danemark, de la République fédérale d'Allemagne, du Grand-Duché de Luxembourg, du Royaume des Pays-Bas et du Royaume de Suède, et modifiant la loi du 27 décembre 1994 portant assentiment de l'Accord précité et instaurant une Eurovignette, conformément à la Directive 93/89/CEE du Conseil des Communautés européennes du 25 octobre 1993.

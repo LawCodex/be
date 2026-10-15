@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/01/09/2003029016/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 14-05-2009 en tekstbijwerking tot 18-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 2003. - Decreet betreffende de adviesorganen op het vlak van het wetenschappelijk en universitair beleid en het overleg tussen de verschillende adviesorganen uit het hoger onderwijs (VERTALING)

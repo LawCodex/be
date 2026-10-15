@@ -13,7 +13,7 @@ entry_into_force: 2000-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/07/17/2000035814/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2000. - Decreet tot wijziging van het decreet van 28 april 1993 houdende regeling, voor het Vlaamse Gewest, van het administratief toezicht op de gemeenten en van het decreet van 22 februari 1995 tot regeling van het administratief toezicht op de provincies in het Vlaamse Gewest.

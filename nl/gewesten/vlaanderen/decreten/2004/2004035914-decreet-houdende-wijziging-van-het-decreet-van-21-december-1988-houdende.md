@@ -13,7 +13,7 @@ entry_into_force: 2006-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004035914/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende wijziging van het decreet van 21 december 1988 houdende oprichting van de Vlaamse Landmaatschappij.

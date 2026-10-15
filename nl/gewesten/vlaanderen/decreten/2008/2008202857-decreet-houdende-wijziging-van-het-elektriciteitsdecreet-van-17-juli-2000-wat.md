@@ -13,7 +13,7 @@ entry_into_force: 2008-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/18/2008202857/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2008. - Decreet houdende wijziging van het Elektriciteitsdecreet van 17 juli 2000, wat betreft de hoeveelheid gratis ontvangen elektriciteit, van het Aardgasdecreet van 6 juli 2001, wat betreft de uitbreiding van de dekkingsgraad van het aardgasdistributienetwerk, van het REG-decreet van 2 april 2004, wat betreft de Autonome Commissie Energiebeleid Vlaanderen, van het EPB-decreet van 22 december 2006, wat betreft de controles, en van het decreet van 25 mei 2007 tot wijziging van het decreet van 20 december 1996 tot regeling van het recht op minimumlevering van elektriciteit, gas en water, wat betreft elektriciteit en gas, van het decreet van 17 juli 2000 houdende de organisatie van de elektriciteitsmarkt, wat betreft de openbaredienstverplichtingen, en van het decreet van 6 juli 2001 houdende de organisatie van de gasmarkt, wat betreft de openbaredienstverplichtingen.

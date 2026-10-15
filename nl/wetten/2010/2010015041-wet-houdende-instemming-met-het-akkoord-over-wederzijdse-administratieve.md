@@ -12,7 +12,7 @@ entry_into_force: 2010-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/02/21/2010015041/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2010. - Wet houdende instemming met het Akkoord over wederzijdse administratieve bijstand op het gebied van de douane tussen de Regering van het Koninkrijk België en de Regering van de Republiek Mauritius, gedaan te Brussel op 10 april 2007

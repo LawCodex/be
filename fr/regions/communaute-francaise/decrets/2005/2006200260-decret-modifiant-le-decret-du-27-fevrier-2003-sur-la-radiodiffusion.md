@@ -13,7 +13,7 @@ entry_into_force: 2006-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/22/2006200260/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2005. - Décret modifiant le décret du 27 février 2003 sur la radiodiffusion.

@@ -13,7 +13,7 @@ entry_into_force: 2003-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/21/2003031043/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2002. - Decreet houdende instemming door de Vergadering van de Franse Gemeenschapscommissie met het Samenwerkingsakkoord tussen de Waalse Regering, de Regering van de Franse Gemeenschap en het College van de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest, enerzijds, en, anderzijds, de Regering van Quebec, en met de bijgevoegde gezamenlijke verklaring (VERTALING).

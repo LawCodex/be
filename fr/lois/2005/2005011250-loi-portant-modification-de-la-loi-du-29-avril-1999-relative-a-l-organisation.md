@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/06/01/2005011250/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 14-06-2005 et mise à jour au 19-05-2009"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2005. - Loi portant modification de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité.

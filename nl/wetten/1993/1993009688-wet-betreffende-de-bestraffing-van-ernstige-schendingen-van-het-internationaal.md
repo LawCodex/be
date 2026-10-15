@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/06/16/1993009688/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 05-08-1993 en tekstbijwerking tot 07-08-2003"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 1993. - [Wet betreffende de bestraffing van ernstige schendingen van het internationaal humanitair recht]. (W 1999-02-10/40, art. 2, 002; Inwerkingtreding : 02-04-1999)

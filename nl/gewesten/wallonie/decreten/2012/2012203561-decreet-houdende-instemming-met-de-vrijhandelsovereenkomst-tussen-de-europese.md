@@ -12,7 +12,7 @@ published: 2012-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/21/2012203561/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2012. - Decreet houdende instemming met de Vrijhandelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds, opgemaakt te Brussel op 6 oktober 2010

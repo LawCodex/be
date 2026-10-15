@@ -13,7 +13,7 @@ entry_into_force: 2014-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/03/27/2014031306/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Ordonnantie houdende instemming met : het Protocol van wijziging van het Verdrag betreffende de Internationale Hydrografische Organisatie, aangenomen in Monaco, op 14 april 2005

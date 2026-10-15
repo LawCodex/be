@@ -12,7 +12,7 @@ entry_into_force: 2006-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/20/2006003355/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2006. - Loi portant confirmation des arrêtés royaux des 26 novembre 2004, 28 juin 2005, 12 juillet 2005, 15 décembre 2005 et 2 février 2006 modifiant, en matière de précompte professionnel, l'AR/CIR 92.

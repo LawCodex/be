@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/03/29/1976032903/justel"
 department: "Middenstand"
 justel_note: "Raadpleging van vroegere versies vanaf 22-04-1993 en tekstbijwerking tot 05-05-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 1976. - Wet betreffende de gezinsbijslag voor zelfstandigen.

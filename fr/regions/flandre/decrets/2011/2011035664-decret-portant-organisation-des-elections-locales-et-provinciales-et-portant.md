@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/08/2011035664/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 25-08-2011 et mise à jour au 20-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2011. - Décret portant organisation des élections locales et provinciales et portant modification du décret communal du 15 juillet 2005, du décret provincial du 9 décembre 2005 et du décret du 19 décembre 2008 relatif à l'organisation des centres publics d'aide sociale (cité comme : le décret électoral local et provincial de 8 juillet 2011)

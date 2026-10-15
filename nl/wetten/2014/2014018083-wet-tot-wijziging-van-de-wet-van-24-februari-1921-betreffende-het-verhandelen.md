@@ -12,7 +12,7 @@ entry_into_force: 2014-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/07/2014018083/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEBRUARI 2014. - Wet tot wijziging van de wet van 24 februari 1921 betreffende het verhandelen van gifstoffen, slaapmiddelen en verdovende middelen, psychotrope stoffen, ontsmettingsstoffen en antiseptica en van de stoffen die kunnen gebruikt worden voor de illegale vervaardiging van verdovende middelen en psychotrope stoffen

@@ -13,7 +13,7 @@ entry_into_force: 2020-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/15/2020204339/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 OCTOBRE 2020. - Décret relatif à l'organisation du marché de l'énergie thermique et aux réseaux d'énergie thermique

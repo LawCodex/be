@@ -12,7 +12,7 @@ entry_into_force: 1999-11-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/09/1999015195/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 1999. - Loi portant assentiment à la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants, adoptée à New York le 10 décembre 1984.

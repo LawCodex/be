@@ -12,7 +12,7 @@ entry_into_force: 2014-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/03/14/2014007123/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2014. - Loi modifiant la loi du 15 août 2012 relative à la création et à l'organisation d'un intégrateur de services fédéral

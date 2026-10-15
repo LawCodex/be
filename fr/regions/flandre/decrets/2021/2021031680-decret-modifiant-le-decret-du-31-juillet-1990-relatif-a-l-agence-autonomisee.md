@@ -13,7 +13,7 @@ entry_into_force: 2021-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/05/28/2021031680/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAI 2021. - Décret modifiant le décret du 31 juillet 1990 relatif à l'agence autonomisée externe Vlaamse Vervoermaatschappij - De Lijn, en ce qui concerne la continuité de la prestation de service de la Vlaamse Vervoermaatschappij - De Lijn en cas de grève

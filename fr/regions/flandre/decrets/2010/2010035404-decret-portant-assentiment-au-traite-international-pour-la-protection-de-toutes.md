@@ -13,7 +13,7 @@ entry_into_force: 2010-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/05/07/2010035404/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2010. - Décret portant assentiment au Traité international pour la protection de toutes les personnes contre la disparition forcée, fait à New York le 20 décembre 2006

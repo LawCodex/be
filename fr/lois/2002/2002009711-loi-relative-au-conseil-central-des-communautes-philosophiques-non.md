@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/21/2002009711/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 22-10-2002 et mise à jour au 10-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2002. - Loi relative au Conseil central des Communautés philosophiques non confessionnelles de Belgique, aux délégués et aux établissements chargés de la gestion des intérêts matériels et financiers des communautés philosophiques non confessionnelles reconnues.

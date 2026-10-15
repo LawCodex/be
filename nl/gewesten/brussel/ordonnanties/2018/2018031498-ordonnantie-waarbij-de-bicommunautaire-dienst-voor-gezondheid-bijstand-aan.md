@@ -13,7 +13,7 @@ entry_into_force: 2018-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/07/05/2018031498/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2018. - Ordonnantie waarbij de bicommunautaire Dienst voor Gezondheid, Bijstand aan Personen en Gezinsbijslag (Iriscare) gemachtigd wordt om deel te nemen aan het pensioenstelsel ingesteld door de wet van 28 april 1958 betreffende het pensioen van het personeel van zekere organismen van openbaar nut alsmede van hun rechthebbenden

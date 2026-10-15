@@ -12,7 +12,7 @@ entry_into_force: 2000-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/04/18/2000000351/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2000. - Wet tot wijziging van de wetten op de Raad van State, gecoördineerd op 12 januari 1973, alsook de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen.

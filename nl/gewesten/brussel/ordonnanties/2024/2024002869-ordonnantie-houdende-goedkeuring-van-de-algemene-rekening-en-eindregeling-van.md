@@ -13,7 +13,7 @@ entry_into_force: 2024-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/03/21/2024002869/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2024. - Ordonnantie houdende goedkeuring van de algemene rekening en eindregeling van de begroting van de Haven van Brussel voor het jaar 2018

@@ -13,7 +13,7 @@ entry_into_force: 2009-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/13/2009201593/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2009. - Decreet houdende instemming met het raamakkoord tussen de Regering van het Koninkrijk België en de Regering van de Franse Republiek betreffende de grensoverschrijdende samenwerking inzake gezondheidszorg, ondertekend in Moeskroen op 30 september 2005

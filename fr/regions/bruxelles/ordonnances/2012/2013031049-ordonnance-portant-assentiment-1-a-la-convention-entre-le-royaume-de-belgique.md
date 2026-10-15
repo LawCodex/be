@@ -13,7 +13,7 @@ entry_into_force: 2013-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2012/12/21/2013031049/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2012. - Ordonnance portant assentiment : 1° à la Convention entre le Royaume de Belgique et le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur les gains en capital, signée à Bruxelles le 1er juin 1987, telle que modifiée par le Protocole fait à Paris le 24 juin 2009;2° au Protocole, fait à Paris le 24 juin 2009, modifiant la Convention entre le Royaume de Belgique et le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur les gains en capital, signée à Bruxelles le 1er juin 1987

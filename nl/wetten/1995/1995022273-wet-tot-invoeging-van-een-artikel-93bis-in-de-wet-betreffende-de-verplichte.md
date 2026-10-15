@@ -10,7 +10,7 @@ date: 1995-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/07/1995022273/justel"
 department: "Sociale Voorzorg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 1995. - Wet tot invoeging van een artikel 93bis in de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994.

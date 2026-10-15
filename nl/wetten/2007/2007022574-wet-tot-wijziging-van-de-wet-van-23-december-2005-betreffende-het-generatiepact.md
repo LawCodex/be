@@ -12,7 +12,7 @@ entry_into_force: 2007-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/01/31/2007022574/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2007. - Wet tot wijziging van de wet van 23 december 2005 betreffende het generatiepact met het oog op de invoering van een nieuw systeem voor de financiering van de ziekteverzekering.

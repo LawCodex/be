@@ -12,7 +12,7 @@ published: 2015-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/05/29/2015035758/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2015. - Decreet houdende wijziging van diverse bepalingen van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid

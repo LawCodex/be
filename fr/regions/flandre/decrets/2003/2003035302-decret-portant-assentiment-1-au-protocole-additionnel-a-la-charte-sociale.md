@@ -13,7 +13,7 @@ entry_into_force: 2003-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/28/2003035302/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2003. - Décret portant assentiment : 1° au Protocole additionnel à la Charte sociale européenne et à l'Annexe, faits à Strasbourg le 5 mai 1988; 2° au Protocole additionnel à la Charte sociale européenne prévoyant un système de réclamations collectives, fait à Strasbourg le 9 novembre 1995; 3° à la Charte sociale européenne révisée et à l'Annexe, faites à Strasbourg le 3 mai 1996 (TRADUCTION).

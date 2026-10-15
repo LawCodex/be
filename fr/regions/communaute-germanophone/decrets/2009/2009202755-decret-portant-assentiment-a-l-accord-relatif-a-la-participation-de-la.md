@@ -13,7 +13,7 @@ entry_into_force: 2009-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/11/2009202755/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2009. - Décret portant assentiment à l'accord relatif à la participation de la République de Bulgarie et de la Roumanie à l'Espace économique européen et à l'Acte final, signés à Bruxelles le 25 juillet 2007

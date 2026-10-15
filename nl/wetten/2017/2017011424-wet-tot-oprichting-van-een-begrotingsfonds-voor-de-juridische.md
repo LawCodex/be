@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/03/19/2017011424/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 31-03-2017 en tekstbijwerking tot 19-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2017. - Wet tot oprichting van een Begrotingsfonds voor de juridische tweedelijnsbijstand

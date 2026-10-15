@@ -12,7 +12,7 @@ entry_into_force: 1999-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/10/1999009378/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 1999. - Wet tot wijziging van de wet van 2 augustus 1974 betreffende de wedden van de titularissen van sommige openbare ambten en van de bedienaars van de erediensten.

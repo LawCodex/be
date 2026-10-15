@@ -12,7 +12,7 @@ entry_into_force: 2012-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/01/10/2012014033/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2012. - Loi modifiant l'arrêté royal du 1er décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique, en vue d'inscrire la rue cyclable dans le code de la route

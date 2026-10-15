@@ -12,7 +12,7 @@ entry_into_force: 2008-11-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/09/18/2008015155/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 SEPTEMBRE 2008. - Loi portant assentiment à l'Accord de coopération concernant un système mondial de navigation par satellite (GNSS) à usage civil entre la Communauté européenne ainsi que ses Etats membres et l'Ukraine, fait à Kiev le 1er décembre 2005.

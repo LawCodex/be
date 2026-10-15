@@ -13,7 +13,7 @@ entry_into_force: 2009-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/01/19/2009033018/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JANUARI 2009. - Decreet houdende instemming met het Protocol nr. 7 bij het Verdrag ter Bescherming van de Rechten van de Mens en de Fundamentele Vrijheden, gedaan te Straatsburg op 22 november 1984

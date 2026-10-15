@@ -13,7 +13,7 @@ entry_into_force: 2025-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/07/16/2025005627/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2025. - Décret portant modification du décret du 8 février 1999 relatif aux fonctions et titres des membres du personnel enseignant des Hautes Ecoles organisées ou subventionnées par la Communauté française

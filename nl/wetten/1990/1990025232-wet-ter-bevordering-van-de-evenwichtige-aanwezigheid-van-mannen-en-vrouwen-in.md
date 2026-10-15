@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/07/20/1990025232/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 31-07-1997 en tekstbijwerking tot 12-06-2003"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 1990. - Wet ter bevordering van de evenwichtige aanwezigheid van mannen en vrouwen in organen met adviserende bevoegdheid.

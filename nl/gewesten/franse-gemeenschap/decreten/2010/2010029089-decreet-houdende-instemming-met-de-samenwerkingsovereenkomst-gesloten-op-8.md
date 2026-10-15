@@ -13,7 +13,7 @@ entry_into_force: 2010-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/01/14/2010029089/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 2010. - Decreet houdende instemming met de samenwerkingsovereenkomst gesloten op 8 oktober 2009 tussen de Franse Gemeenschap en het Waalse Gewest in het kader van de versterking van de samenwerkingsverbanden inzake statistieken

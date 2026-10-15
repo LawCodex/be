@@ -13,7 +13,7 @@ entry_into_force: 2019-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/16/2018040080/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2018. - Décret modifiant le statut des membres du personnel des centres d'éducation des adultes et modifiant le volet financier du décret du 15 juin 2007 relatif à l'éducation des adultes

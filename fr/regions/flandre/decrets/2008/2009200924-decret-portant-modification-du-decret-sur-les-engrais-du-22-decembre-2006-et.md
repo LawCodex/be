@@ -13,7 +13,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/19/2009200924/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2008. - Décret portant modification du Décret sur les engrais du 22 décembre 2006 et portant modification du décret du 23 janvier 1991 relatif à la protection de l'environnement contre la pollution due aux engrais

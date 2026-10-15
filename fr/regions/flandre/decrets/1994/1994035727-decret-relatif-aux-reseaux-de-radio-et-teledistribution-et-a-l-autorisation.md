@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/05/04/1994035727/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 01-09-2015 et mise à jour au 01-09-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 1994. - DECRET relatif aux réseaux de radio et télédistribution et à l'autorisation requise pour l'établissement et l'exploitation de ces réseaux et relatif à la promotion de la diffusion et la production des programmes de télévision

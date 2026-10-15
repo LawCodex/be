@@ -13,7 +13,7 @@ entry_into_force: 2006-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/04/28/2006035759/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2006. - Décret modifiant le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement et modifiant le décret du 30 avril 2004 complétant le même décret (TRADUCTION).

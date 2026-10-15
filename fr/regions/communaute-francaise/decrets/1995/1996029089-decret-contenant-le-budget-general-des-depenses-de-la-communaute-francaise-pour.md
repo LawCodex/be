@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/20/1996029089/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 05-04-1996 et mise à jour au 18-04-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1995. - Décret contenant le budget général des dépenses de la Communauté française pour l'année budgétaire 1996.

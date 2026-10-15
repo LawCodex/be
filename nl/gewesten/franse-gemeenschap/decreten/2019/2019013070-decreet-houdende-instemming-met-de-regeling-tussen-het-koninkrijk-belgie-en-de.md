@@ -13,7 +13,7 @@ entry_into_force: 2012-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/14/2019013070/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2019. - Decreet houdende instemming met de Regeling tussen het Koninkrijk België en de Noord-Atlantische Verdragsorganisatie betreffende de rechtspositie van sommige personeelscategorieën van de agentschappen van de NAVO die op het grondgebied van het Koninkrijk België gevestigd zijn, gedaan te Brussel op 20 mei 2016

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/24/2003009435/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 16-05-2003 et mise à jour au 15-01-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2003. - Loi réformant l'adoption.

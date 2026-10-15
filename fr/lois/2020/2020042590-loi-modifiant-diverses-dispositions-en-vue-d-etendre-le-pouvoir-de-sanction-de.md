@@ -12,7 +12,7 @@ entry_into_force: 2020-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/07/31/2020042590/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2020. - Loi modifiant diverses dispositions en vue d'étendre le pouvoir de sanction de la CREG aux opérateurs étrangers

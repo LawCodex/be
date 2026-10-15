@@ -13,7 +13,7 @@ entry_into_force: 2019-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/12/20/2020020111/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2019. - Décret ajustant le budget général des dépenses de la Commission communautaire française pour l'année budgétaire 2019

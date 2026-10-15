@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/11/13/2012011010/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 24-02-2012 en tekstbijwerking tot 11-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2011. - Wet betreffende de vergoeding van de lichamelijke en morele schade ingevolge een technologisch ongeval

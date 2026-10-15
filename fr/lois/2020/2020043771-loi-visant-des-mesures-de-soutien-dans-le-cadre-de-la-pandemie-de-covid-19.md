@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/11/24/2020043771/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 30-11-2020 et mise à jour au 31-12-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 2020. - Loi visant des mesures de soutien dans le cadre de la pandemie de COVID-19

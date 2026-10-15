@@ -13,7 +13,7 @@ entry_into_force: 2008-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/12/07/2007037270/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2007. - Decreet houdende instemming met de avenant van 28 december 2006 aan het Samenwerkingsakkoord van 30 mei 2005 tussen de Federale Staat, het Vlaams, het Waals en het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie.

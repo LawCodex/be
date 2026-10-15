@@ -12,7 +12,7 @@ entry_into_force: 2019-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/11/12/2018015492/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 2018. - Wet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, het Waals Gewest, het Vlaams Gewest, het Brussels-Hoofdstedelijk Gewest en de Duitstalige Gemeenschap met betrekking tot de coördinatie tussen het beleid inzake de toelatingen tot arbeid en het beleid inzake de verblijfsvergunningen en inzake de normen betreffende de tewerkstelling en het verblijf van buitenlandse arbeidskrachten

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/26/2024004947/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 24-05-2024 en tekstbijwerking tot 11-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2024. - Decreet houdende wijziging van het Energiedecreet van 8 mei 2009, wat betreft de overdracht van taken van de energieregulator aan het VEKA in functie van de hervorming tot één overkoepelende Vlaamse nutsregulator

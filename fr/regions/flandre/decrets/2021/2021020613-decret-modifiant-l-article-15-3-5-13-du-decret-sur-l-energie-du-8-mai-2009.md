@@ -13,7 +13,7 @@ entry_into_force: 2021-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/03/19/2021020613/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2021. - Décret modifiant l'article 15.3.5/13 du Décret sur l'Energie du 8 mai 2009

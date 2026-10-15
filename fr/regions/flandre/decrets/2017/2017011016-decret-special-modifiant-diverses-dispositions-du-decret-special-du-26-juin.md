@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/03/2017011016/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2017. - Décret spécial modifiant diverses dispositions du décret spécial du 26 juin 1991 relatif à l'"Universiteit Gent" et à l'"Universitair Centrum Antwerpen"

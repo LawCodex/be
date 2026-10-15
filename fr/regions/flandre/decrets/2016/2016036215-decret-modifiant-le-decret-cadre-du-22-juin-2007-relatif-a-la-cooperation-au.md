@@ -13,7 +13,7 @@ entry_into_force: 2016-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/15/2016036215/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2016. - DECRET modifiant le décret cadre du 22 juin 2007 relatif à la coopération au développement, en ce qui concerne l'enseignement comme thème transversal

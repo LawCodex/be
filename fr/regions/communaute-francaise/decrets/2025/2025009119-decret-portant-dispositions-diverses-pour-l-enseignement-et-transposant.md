@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/11/20/2025009119/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 04-12-2025 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2025. - Décret portant dispositions diverses pour l'enseignement et transposant partiellement la directive (UE) 2022/2041 du Parlement européen et du Conseil du 19 octobre 2022 relative à des salaires minimaux adéquats dans l'Union européenne

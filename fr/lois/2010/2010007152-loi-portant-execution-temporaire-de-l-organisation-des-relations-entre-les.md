@@ -12,7 +12,7 @@ entry_into_force: 2010-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/04/23/2010007152/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2010. - Loi portant exécution temporaire de l'organisation des relations entre les autorités publiques et les syndicats du personnel militaire

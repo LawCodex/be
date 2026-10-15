@@ -13,7 +13,7 @@ entry_into_force: 2016-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/06/03/2016035962/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2016. - Decreet houdende instemming met 1° de overeenkomst tussen België en Ierland tot het vermijden van dubbele belasting en van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend in Brussel op 24 juni 1970, zoals gewijzigd door het protocol, ondertekend te Luxemburg op 14 april 2014; 2° het protocol, ondertekend te Luxemburg op 14 april 2014 tot wijziging van de onder 1° vermelde overeenkomst

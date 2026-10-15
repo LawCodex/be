@@ -12,7 +12,7 @@ published: 2018-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/10/11/2018014335/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 OKTOBER 2018. - Decreet houdende instemming met de Overeenkomst tot oprichting van de internationale EU-LAC-Stichting, ondertekend te Santo Domingo op 25 oktober 2016

@@ -12,7 +12,7 @@ entry_into_force: 2003-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/15/2003015019/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 2003. - Loi portant assentiment à l'Accord de partenariat entre les Membres du Groupe des Etats d'Afrique, des Caraïbes et du Pacifique, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, et aux Annexes Ire, II, III, IV, V et VI, signés à Cotonou le 23 juin 2000.

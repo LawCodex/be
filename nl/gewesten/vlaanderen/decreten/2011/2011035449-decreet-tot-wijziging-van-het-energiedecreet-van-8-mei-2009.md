@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/05/06/2011035449/justel"
 department: "Vlaamse Overheid"
 justel_note: "bij arrest nr 135/2012 van 30-10-2012 (B.St. 20-11-2012, p. 68990-68993), heeft het Grondwettelijk Hof de artikelen 5, 6 en 7, vernietigd"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2011. - Decreet tot wijziging van het Energiedecreet van 8 mei 2009

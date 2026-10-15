@@ -13,7 +13,7 @@ entry_into_force: 1991-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/04/20/2001035753/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2001. - Décret ajustant la réglementation de l'enseignement tertiaire (TRADUCTION).

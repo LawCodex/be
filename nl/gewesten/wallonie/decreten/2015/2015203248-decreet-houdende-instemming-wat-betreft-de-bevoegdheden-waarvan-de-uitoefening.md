@@ -13,7 +13,7 @@ entry_into_force: 2015-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/02/2015203248/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 2015. - Decreet houdende instemming, wat betreft de bevoegdheden waarvan de uitoefening door de Franse Gemeenschap naar het Waalse Gewest is overgedragen, met de Associatieovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en Oekraïne, anderzijds, gedaan te Brussel, op 21 maart en 27 juni 2014

@@ -13,7 +13,7 @@ entry_into_force: 2005-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/11/10/2005036517/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2005. - Décret spécial modifiant le décret spécial du 26 juin 1995 établissant des incompatibilités avec le mandat du membre du Conseil flamand ainsi que le décret spécial du 26 juin 1995 instituant un régime de congé politique pour les membres du personnel des services du Gouvernement flamand exerçant un mandat de membre du Conseil flamand ou du Gouvernement flamand (TRADUCTION).

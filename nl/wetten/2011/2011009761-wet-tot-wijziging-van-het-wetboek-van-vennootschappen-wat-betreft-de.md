@@ -11,7 +11,7 @@ entry_into_force: 2011-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/11/07/2011009761/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2011. - Wet tot wijziging van het Wetboek van vennootschappen wat betreft de aandelengerelateerde verloning van niet-uitvoerende bestuurders van beursgenoteerde ondernemingen

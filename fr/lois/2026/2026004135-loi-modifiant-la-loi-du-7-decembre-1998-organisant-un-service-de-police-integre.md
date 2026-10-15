@@ -12,7 +12,7 @@ entry_into_force: 2026-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/05/25/2026004135/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2026. - Loi modifiant la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux et diverses autres dispositions relatives aux services de police

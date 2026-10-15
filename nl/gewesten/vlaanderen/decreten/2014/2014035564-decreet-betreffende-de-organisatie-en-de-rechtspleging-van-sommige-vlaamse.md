@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/04/2014035564/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 01-10-2014 en tekstbijwerking tot 20-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2014. - Decreet betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges

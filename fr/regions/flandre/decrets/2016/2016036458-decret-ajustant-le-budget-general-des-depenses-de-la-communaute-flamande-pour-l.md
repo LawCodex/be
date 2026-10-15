@@ -13,7 +13,7 @@ entry_into_force: 2016-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/07/08/2016036458/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2016. - Décret ajustant le budget général des dépenses de la Communauté flamande pour l'année budgétaire 2016

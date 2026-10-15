@@ -12,7 +12,7 @@ entry_into_force: 2011-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/27/2003009292/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2003. - Loi portant modification de la loi du 29 mai 2000 portant création d'un fichier central des avis de saisie, de délégation, de cession et de règlement collectif de dettes et modifiant certaines dispositions du Code judiciaire

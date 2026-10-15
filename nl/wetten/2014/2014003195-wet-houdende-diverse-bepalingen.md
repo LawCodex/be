@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/25/2014003195/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 07-05-2014 en tekstbijwerking tot 28-12-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Wet houdende diverse bepalingen

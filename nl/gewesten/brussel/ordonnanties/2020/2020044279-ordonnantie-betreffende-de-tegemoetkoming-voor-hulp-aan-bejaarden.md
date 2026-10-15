@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/12/10/2020044279/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 16-12-2020 en tekstbijwerking tot 20-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2020. - Ordonnantie betreffende de tegemoetkoming voor hulp aan bejaarden

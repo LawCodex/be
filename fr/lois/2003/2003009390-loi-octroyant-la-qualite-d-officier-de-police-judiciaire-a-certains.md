@@ -12,7 +12,7 @@ entry_into_force: 2003-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/10/2003009390/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2003. - Loi octroyant la qualité d'officier de police judiciaire à certains fonctionnaires des administrations fiscales mis à la disposition de la police fédérale.

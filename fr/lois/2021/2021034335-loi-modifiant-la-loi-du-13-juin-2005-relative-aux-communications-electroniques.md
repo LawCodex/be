@@ -12,7 +12,7 @@ entry_into_force: 2022-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/11/26/2021034335/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2021. - Loi modifiant la loi du 13 juin 2005 relative aux communications électroniques en ce qui concerne la base de données de numéros centrale

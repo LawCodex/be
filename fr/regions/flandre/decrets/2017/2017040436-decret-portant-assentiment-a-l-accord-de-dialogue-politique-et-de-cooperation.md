@@ -13,7 +13,7 @@ entry_into_force: 2017-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017040436/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2017. - Décret portant assentiment à l'accord de dialogue politique et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la République de Cuba, d'autre part, signé à Bruxelles le 12 décembre 2016

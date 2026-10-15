@@ -12,7 +12,7 @@ entry_into_force: 1999-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/02/28/1999012101/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 1999. - Loi portant certaines mesures en matière d'élections sociales.

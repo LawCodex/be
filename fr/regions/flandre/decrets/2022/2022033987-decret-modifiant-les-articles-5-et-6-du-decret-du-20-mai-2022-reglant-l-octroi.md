@@ -13,7 +13,7 @@ entry_into_force: 2022-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/10/21/2022033987/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OCTOBRE 2022. - Décret modifiant les articles 5 et 6 du décret du 20 mai 2022 réglant l'octroi d'un bonus emploi

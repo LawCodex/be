@@ -12,7 +12,7 @@ entry_into_force: 2017-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/11/16/2017206134/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 2017. - Decreet houdende goedkeuring van het samenwerkingsakkoord tussen het Vlaams Gewest, het Waals Gewest, het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de erkende plaatselijke geloofsgemeenschappen van de erkende erediensten, waarvan de gebiedsomschrijving het grondgebied van meer dan één gewest bestrijkt

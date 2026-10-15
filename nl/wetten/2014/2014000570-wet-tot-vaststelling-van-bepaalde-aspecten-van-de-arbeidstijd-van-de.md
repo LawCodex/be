@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/19/2014000570/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 23-07-2014 en tekstbijwerking tot 30-11-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2014. - Wet tot vaststelling van bepaalde aspecten van de arbeidstijd van de operationele beroepsleden van de hulpverleningszones en van de Brusselse Hoofdstedelijke Dienst voor Brandweer en Dringende Medische Hulp en tot wijziging van de wet van 15 mei 2007 betreffende de civiele veiligheid

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/05/2002022382/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 04-07-2002 et mise à jour au 30-05-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 2002. - Loi relative au maximum à facturer dans l'assurance soins de santé.

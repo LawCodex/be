@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/18/2008029421/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 01-09-2008 et mise à jour au 27-08-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2008. - Décret démocratisant l'enseignement supérieur, oeuvrant à la promotion de la réussite des étudiants et créant l'Observatoire de l'enseignement supérieur

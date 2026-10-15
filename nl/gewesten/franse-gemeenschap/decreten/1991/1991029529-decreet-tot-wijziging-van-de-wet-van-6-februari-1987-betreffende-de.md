@@ -13,7 +13,7 @@ entry_into_force: 1991-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/07/19/1991029529/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 1991. - Decreet tot wijziging van de wet van 6 februari 1987 betreffende de radiodistributie en teledistributienetten en betreffende de handelspubliciteit op radio en televisie, van het decreet van 12 december 1977 houdende het statuut van de " Radio-Télévision belge de la Communauté francaise (RTBF) " en van het decreet van 17 juli 1987 over de audiovisuele sector.

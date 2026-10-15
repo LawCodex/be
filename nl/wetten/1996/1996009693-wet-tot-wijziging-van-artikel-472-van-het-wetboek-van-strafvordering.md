@@ -12,7 +12,7 @@ entry_into_force: 1996-10-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/08/04/1996009693/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AUGUSTUS 1996. - Wet tot wijziging van artikel 472, van het Wetboek van Strafvordering.

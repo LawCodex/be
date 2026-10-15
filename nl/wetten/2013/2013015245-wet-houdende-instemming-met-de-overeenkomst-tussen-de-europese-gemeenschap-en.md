@@ -10,7 +10,7 @@ date: 2013-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/03/20/2013015245/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2013. - Wet houdende instemming met de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds, tot wijziging van de Overeenkomst inzake handel, ontwikkeling en samenwerking, gedaan te Kleinmond, Zuid-Afrika, op 11 september 2009

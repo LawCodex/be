@@ -13,7 +13,7 @@ entry_into_force: 2011-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/04/23/2015031255/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 APRIL 2015. - Ordonnantie houdende instemming met de Internationale Overeenkomst van 2006 inzake tropisch hout, gedaan te Genève op 27 januari 2006

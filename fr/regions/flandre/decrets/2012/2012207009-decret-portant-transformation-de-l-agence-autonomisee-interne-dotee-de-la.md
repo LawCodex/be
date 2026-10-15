@@ -13,7 +13,7 @@ entry_into_force: 2012-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/11/16/2012207009/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2012. - Décret portant transformation de l'agence autonomisée interne dotée de la personnalité juridique "Agentschap voor Infrastructuur in het Onderwijs" en l'agence autonomisée externe de droit public "Agentschap voor Infrastructuur in het Onderwijs"

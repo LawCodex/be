@@ -13,7 +13,7 @@ entry_into_force: 2006-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/22/2006037068/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2006. - Décret modifiant la loi du 8 juillet 1976 des centres publics d'aide sociale, le décret du 6 juillet 2001 portant réglementation de la coopération intercommunale, le décret communal du 15 juillet 2005 et le Décret provincial du 9 décembre 2005 (TRADUCTION).

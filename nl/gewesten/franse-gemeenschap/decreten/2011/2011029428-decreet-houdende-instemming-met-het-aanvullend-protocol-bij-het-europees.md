@@ -13,7 +13,7 @@ entry_into_force: 2011-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/19/2011029428/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2011. - Decreet houdende instemming met het Aanvullend Protocol bij het Europees Handvest inzake lokale autonomie betreffende het recht op participatie in de aangelegenheden van lokale autoriteiten, ondertekend te Utrecht op 16 november 2009

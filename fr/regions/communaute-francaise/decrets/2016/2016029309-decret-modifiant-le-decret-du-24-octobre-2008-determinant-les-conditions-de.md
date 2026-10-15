@@ -13,7 +13,7 @@ entry_into_force: 2016-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/02/2016029309/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2016. - Décret modifiant le décret du 24 octobre 2008 déterminant les conditions de subventionnement de l'emploi dans les secteurs socioculturels de la Communauté française

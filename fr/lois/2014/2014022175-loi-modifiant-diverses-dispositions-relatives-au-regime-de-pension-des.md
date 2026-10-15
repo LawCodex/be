@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/19/2014022175/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2014. - Loi modifiant diverses dispositions relatives au régime de pension des travailleurs salariés compte tenu du principe de l'unité de carrière

@@ -12,7 +12,7 @@ entry_into_force: 2026-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/01/07/2026000594/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANUARI 2026. - Wet houdende instemming met de Overeenkomst tussen de regering van het Koninkrijk België en het Kabinet van ministers van Oekraïne betreffende technische en financiële samenwerking, gedaan te Brussel en Kyiv op 20 augustus 2024

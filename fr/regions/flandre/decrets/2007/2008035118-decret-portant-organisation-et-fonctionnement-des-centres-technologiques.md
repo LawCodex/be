@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/14/2008035118/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 01-02-2008 et mise à jour au 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2007. - Décret portant organisation et fonctionnement des centres technologiques régionaux (TRADUCTION)

@@ -13,7 +13,7 @@ entry_into_force: 2022-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/12/23/2022020076/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2021. - Decreet houdende diverse bepalingen over het gemeenschappelijk vervoer, het algemeen mobiliteitsbeleid, de weginfrastructuur en het wegenbeleid, en de waterinfrastructuur en het waterbeleid en houdende een subsidieregeling ter bevordering van een modal shift in het goederenvervoer

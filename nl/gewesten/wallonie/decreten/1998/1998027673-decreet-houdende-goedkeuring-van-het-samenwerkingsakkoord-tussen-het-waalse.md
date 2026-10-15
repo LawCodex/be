@@ -13,7 +13,7 @@ entry_into_force: 1998-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/11/26/1998027673/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 1998. - Decreet houdende goedkeuring van het Samenwerkingsakkoord tussen het Waalse Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende de installatie van computers in de Waalse onderwijsinrichtingen (VERTALING).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/04/1999000486/justel"
 department: "Intérieur - Justice"
 justel_note: "Consultation des versions antérieures à partir du 12-06-1999 et mise à jour au 08-02-2000."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 1999. - Loi modifiant la loi provinciale et la nouvelle loi communale. -

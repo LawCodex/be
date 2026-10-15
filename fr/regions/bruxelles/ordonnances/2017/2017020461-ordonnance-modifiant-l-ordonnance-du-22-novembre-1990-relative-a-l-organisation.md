@@ -13,7 +13,7 @@ entry_into_force: 2017-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/06/23/2017020461/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2017. - Ordonnance modifiant l'ordonnance du 22 novembre 1990 relative à l'organisation des transports en commun dans la Région de Bruxelles-Capitale

@@ -12,7 +12,7 @@ entry_into_force: 2017-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/06/06/2016011265/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2016. - Wet tot wijziging van het Wetboek van economisch recht wat uittreksels uit de Kruispuntbank van Ondernemingen betreft

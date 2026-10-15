@@ -13,7 +13,7 @@ entry_into_force: 2016-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/03/03/2016201319/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2016. - Décret portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la Fédération de Russie sur les transports routiers internationaux, fait à Moscou le 2 mars 2007

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/07/28/2011003299/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 31-08-2011 et mise à jour au 28-06-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUILLET 2011. - Loi visant à transposer diverses directives relatives au contrôle du secteur financier et portant dispositions diverses

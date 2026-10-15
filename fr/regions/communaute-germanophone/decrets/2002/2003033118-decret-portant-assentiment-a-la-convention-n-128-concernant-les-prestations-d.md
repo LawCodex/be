@@ -13,7 +13,7 @@ entry_into_force: 2003-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/16/2003033118/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2002. - Décret portant assentiment à la convention n° 128 concernant les prestations d'invalidité, de vieillesse et de survivants, 1967, adoptée à Genève le 29 juin 1967 par la Conférence générale de l'Organisation internationale du Travail (TRADUCTION).

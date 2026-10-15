@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/08/2003021140/justel"
 department: "Chancellerie du Premier Ministre - Politique Scientifique"
 justel_note: "Consultation des versions antérieures à partir du 02-06-2003 et mise à jour au 28-07-2006"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2003. - Loi relative à la réalisation d'une étude scientifique sur les persécutions et la déportation des juifs en Belgique pendant la Seconde Guerre mondiale.

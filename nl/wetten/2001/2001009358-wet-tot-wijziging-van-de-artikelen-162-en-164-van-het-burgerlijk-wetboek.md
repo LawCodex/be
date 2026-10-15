@@ -12,7 +12,7 @@ entry_into_force: 2001-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/03/27/2001009358/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2001. - Wet tot wijziging van de artikelen 162 en 164 van het Burgerlijk Wetboek.

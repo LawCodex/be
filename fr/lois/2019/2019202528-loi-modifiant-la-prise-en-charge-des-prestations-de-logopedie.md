@@ -12,7 +12,7 @@ entry_into_force: 2019-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/08/2019202528/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2019. - Loi modifiant la prise en charge des prestations de logopédie

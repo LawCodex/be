@@ -12,7 +12,7 @@ entry_into_force: 1995-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/03/23/1995009329/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 1995. - Wet tot wijziging van de artikelen 747, 748 en 750 van het Gerechtelijk Wetboek.

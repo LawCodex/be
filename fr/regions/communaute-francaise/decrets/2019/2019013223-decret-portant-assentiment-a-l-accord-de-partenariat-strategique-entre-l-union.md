@@ -13,7 +13,7 @@ entry_into_force: 2019-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/25/2019013223/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2019. - Décret portant assentiment à l'Accord de partenariat stratégique entre l'Union européenne et le Canada, signe à Bruxelles le 30 octobre 2016

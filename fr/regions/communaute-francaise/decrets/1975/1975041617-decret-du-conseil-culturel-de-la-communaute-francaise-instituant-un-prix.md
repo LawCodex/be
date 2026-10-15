@@ -14,7 +14,7 @@ last_amended: 2020-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1975/04/16/1975041617/justel"
 justel_note: "Consultation des versions antérieures à partir du 29-02-2012 et mise à jour au 25-06-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 AVRIL 1975. - DECRET DU CONSEIL CULTUREL DE LA COMMUNAUTE FRANCAISE instituant un [prix littéraire du Parlement de la Communauté française] &lt;DCFR 2012-02-01/09 , art. 1, 002; En vigueur : 10-03-2012&gt;

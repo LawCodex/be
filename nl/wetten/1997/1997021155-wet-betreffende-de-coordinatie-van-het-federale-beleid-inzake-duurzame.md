@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/05/05/1997021155/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 18-06-1997 en tekstbijwerking tot 04-02-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1997. - Wet betreffende de coördinatie van het federale beleid inzake duurzame ontwikkeling.

@@ -13,7 +13,7 @@ entry_into_force: 2025-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/03/27/2025002766/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2025. - Decreet houdende instemming met de investeringsbeschermingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds, gedaan te Hanoi op 30 juni 2019

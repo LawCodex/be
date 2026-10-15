@@ -13,7 +13,7 @@ entry_into_force: 1993-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/01/17/1994033019/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANUARI 1994. - Decreet tot vaststelling van de werking van de commissies van onderzoek ingericht in de Raad van de Duitstalige Gemeenschap.

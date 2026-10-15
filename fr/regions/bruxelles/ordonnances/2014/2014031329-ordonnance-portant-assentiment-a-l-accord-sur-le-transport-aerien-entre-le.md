@@ -13,7 +13,7 @@ entry_into_force: 2014-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/04/03/2014031329/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2014. - Ordonnance portant assentiment à : l'Accord sur le transport aérien entre le Canada et la Communauté européenne et ses Etats membres, fait à Bruxelles le 17 décembre 2009

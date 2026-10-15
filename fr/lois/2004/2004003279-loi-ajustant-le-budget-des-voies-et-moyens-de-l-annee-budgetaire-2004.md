@@ -12,7 +12,7 @@ entry_into_force: 2004-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/08/2004003279/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2004. - Loi ajustant le budget des Voies et Moyens de l'année budgétaire 2004.

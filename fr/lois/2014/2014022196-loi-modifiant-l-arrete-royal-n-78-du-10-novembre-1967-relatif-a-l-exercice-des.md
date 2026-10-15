@@ -12,7 +12,7 @@ entry_into_force: 2014-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/10/2014022196/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2014. - Loi modifiant l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice des professions des soins de santé

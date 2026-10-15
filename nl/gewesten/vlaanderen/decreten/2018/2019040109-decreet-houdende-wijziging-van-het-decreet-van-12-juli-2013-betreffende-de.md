@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/12/21/2019040109/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2018. - Decreet houdende wijziging van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, wat cliëntenorganisaties en een cliëntenforum in de integrale jeugdhulp betreft

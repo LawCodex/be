@@ -13,7 +13,7 @@ entry_into_force: 2018-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/29/2018201873/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2018. - Décret abrogeant l'article L4145-12 et modifiant l'article L4145-20 du Code de la démocratie locale et de la décentralisation en ce qui concerne les élections locales

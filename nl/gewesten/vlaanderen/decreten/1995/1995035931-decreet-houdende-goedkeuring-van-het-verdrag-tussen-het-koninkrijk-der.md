@@ -13,7 +13,7 @@ entry_into_force: 1995-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/05/1995035931/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 1995. - Decreet houdende goedkeuring van het verdrag tussen het Koninkrijk der Nederlanden, het Koninkrijk België en het Vlaamse Gewest tot herziening van het Reglement ter uitvoering van artikel IX van het tractaat van 19 april 1839 en van Hoofdstuk II, Afdelingen 1 en 2, van het tractaat van 5 november 1842, zoals gewijzigd, voor wat betreft het loodswezen en het gemeenschappelijk toezicht daarop (Scheldereglement).

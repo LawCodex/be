@@ -13,7 +13,7 @@ entry_into_force: 2026-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/12/2025009921/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2025. - Décret modifiant l'article 17 de la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, et la Codification de certaines dispositions relatives à l'enseignement du 28 octobre 2016, en ce qui concerne le subventionnement des frais liés à l'enlèvement et à l'évacuation des matériaux contenant et susceptibles de contenir de l'amiante dans les bâtiments destinés à l'enseignement subventionné et à l'enseignement communautaire

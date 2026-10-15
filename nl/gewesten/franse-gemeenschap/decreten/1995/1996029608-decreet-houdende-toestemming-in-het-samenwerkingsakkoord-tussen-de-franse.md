@@ -13,7 +13,7 @@ entry_into_force: 1996-02-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/10/1996029608/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 1995. - Decreet houdende toestemming in het Samenwerkingsakkoord tussen de Franse Gemeenschap van België en de Regering van de Valle d'Aosta, ondertekend te Aosta op 3 februari 1994. (VERTALING).

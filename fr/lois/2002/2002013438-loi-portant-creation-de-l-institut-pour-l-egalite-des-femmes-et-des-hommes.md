@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/16/2002013438/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2002 et mise à jour au 09-01-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2002. - Loi portant création de l'Institut pour l'égalité des femmes et des hommes. -

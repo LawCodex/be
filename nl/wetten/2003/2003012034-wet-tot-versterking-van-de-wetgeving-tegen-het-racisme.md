@@ -12,7 +12,7 @@ entry_into_force: 2003-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/01/20/2003012034/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 2003. - Wet tot versterking van de wetgeving tegen het racisme.

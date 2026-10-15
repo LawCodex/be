@@ -13,7 +13,7 @@ entry_into_force: 2011-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/02/10/2011029084/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2011. - Decreet houdende diverse bepalingen inzake leerplichtonderwijs en onderwijs voor sociale promotie

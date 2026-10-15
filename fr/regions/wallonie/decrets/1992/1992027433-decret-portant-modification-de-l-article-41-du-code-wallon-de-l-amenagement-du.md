@@ -13,7 +13,7 @@ entry_into_force: 1992-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1992/07/30/1992027433/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 1992. - Décret portant modification de l'article 41 du Code wallon de l'Aménagement du Territoire et de l'Urbanisme.

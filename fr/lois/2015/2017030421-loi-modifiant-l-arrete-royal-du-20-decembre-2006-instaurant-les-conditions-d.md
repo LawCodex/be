@@ -12,7 +12,7 @@ entry_into_force: 2017-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/18/2017030421/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - Loi modifiant l'arrêté royal du 20 décembre 2006 instaurant les conditions d'octroi d'une allocation d'adoption en faveur des travailleurs indépendants en vue de modifier la procédure de demande d'une telle allocation

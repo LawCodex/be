@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/16/2015027119/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 07-08-2015 en tekstbijwerking tot 09-11-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2015. - Decreet houdende de eerste aanpassing van de algemene uitgavenbegroting van het Waalse Gewest voor het begrotingsjaar 2015

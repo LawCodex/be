@@ -12,7 +12,7 @@ entry_into_force: 2003-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/12/07/2002023029/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2001. - Loi modifiant l'article 7 de la loi du 13 juin 1986 sur le prélèvement et la transplantation d'organes.

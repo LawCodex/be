@@ -12,7 +12,7 @@ entry_into_force: 1999-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999009634/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 1999. - Loi abrogeant la déclaration d'abandon et le transfert de l'autorité parentale.

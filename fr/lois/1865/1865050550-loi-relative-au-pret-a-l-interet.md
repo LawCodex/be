@@ -13,7 +13,7 @@ last_amended: 2026-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1865/05/05/1865050550/justel"
 justel_note: "Consultation des versions antérieures à partir du 28-12-2006 et mise à jour au 27-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 1865. - Loi relative au prêt à l'intérêt.

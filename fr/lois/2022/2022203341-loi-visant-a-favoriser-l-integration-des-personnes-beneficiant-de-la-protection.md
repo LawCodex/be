@@ -12,7 +12,7 @@ entry_into_force: 2022-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/05/18/2022203341/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2022. - Loi visant à favoriser l'intégration des personnes bénéficiant de la protection temporaire

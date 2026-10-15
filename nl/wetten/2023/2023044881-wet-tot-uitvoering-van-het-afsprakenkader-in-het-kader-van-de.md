@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/31/2023044881/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg - Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 05-09-2023 en tekstbijwerking tot 27-02-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2023. - Wet tot uitvoering van het afsprakenkader in het kader van de interprofessionele onderhandelingen voor de periode 2023-2024

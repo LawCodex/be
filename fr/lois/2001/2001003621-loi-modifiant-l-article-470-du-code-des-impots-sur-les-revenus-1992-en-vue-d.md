@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/12/10/2001003621/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2001. - Loi modifiant l'article 470 du Code des impôts sur les revenus 1992 en vue d'améliorer les finances communales.

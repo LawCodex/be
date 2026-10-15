@@ -13,7 +13,7 @@ entry_into_force: 2003-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/04/10/2003027235/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2003. - Décret portant assentiment, en ce qui concerne les matières transférées de la Communauté française, à l'Accord euro-méditerranéen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République arabe d'Egypte, d'autre part, ainsi qu'à l'Acte final y afférent, faits à Luxembourg le 25 juin 2001.

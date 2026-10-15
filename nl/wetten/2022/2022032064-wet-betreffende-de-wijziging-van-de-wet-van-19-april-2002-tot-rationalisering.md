@@ -12,7 +12,7 @@ entry_into_force: 2022-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/05/05/2022032064/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2022. - Wet betreffende de wijziging van de wet van 19 april 2002 tot rationalisering van de werking en het beheer van de Nationale Loterij

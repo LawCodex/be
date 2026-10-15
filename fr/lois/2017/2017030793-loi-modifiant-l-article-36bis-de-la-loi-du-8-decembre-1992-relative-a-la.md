@@ -12,7 +12,7 @@ entry_into_force: 2003-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/06/14/2017030793/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 2017. - Loi modifiant l'article 36bis de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel

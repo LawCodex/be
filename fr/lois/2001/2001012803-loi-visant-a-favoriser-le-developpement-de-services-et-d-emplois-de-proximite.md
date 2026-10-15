@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/20/2001012803/justel"
 department: "Emploi et Travail - Affaires sociales - Santé Publique et Environnement - Finances"
 justel_note: "Consultation des versions antérieures à partir du 11-08-2001 et mise à jour au 09-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2001. - Loi visant à favoriser le développement de services et d'emplois de proximité.

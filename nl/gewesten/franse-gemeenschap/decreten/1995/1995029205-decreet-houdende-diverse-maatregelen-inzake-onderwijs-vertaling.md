@@ -13,7 +13,7 @@ entry_into_force: 1995-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/03/14/1995029205/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 1995. - Decreet houdende diverse maatregelen inzake onderwijs. (Vertaling)

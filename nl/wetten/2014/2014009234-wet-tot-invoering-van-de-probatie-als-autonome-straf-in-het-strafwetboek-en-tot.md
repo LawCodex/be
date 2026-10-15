@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/10/2014009234/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 19-06-2014 en tekstbijwerking tot 19-02-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2014. - Wet tot invoering van de probatie als autonome straf in het Strafwetboek en tot wijziging van het Wetboek van strafvordering en de wet van 29 juni 1964 betreffende de opschorting, het uitstel en de probatie

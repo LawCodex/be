@@ -13,7 +13,7 @@ last_amended: 2026-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1969/07/09/1969070907/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-2006 en tekstbijwerking tot 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 1969. - Wet tot wijziging en aanvulling van de wetgeving betreffende de rust- en overlevingspensioenen van het personeel van de openbare sector.

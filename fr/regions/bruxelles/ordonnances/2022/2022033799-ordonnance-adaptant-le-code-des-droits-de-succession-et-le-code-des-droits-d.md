@@ -13,7 +13,7 @@ entry_into_force: 2022-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/10/13/2022033799/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 OCTOBRE 2022. - Ordonnance adaptant le Code des droits de succession et le Code des droits d'enregistrement, d'hypothèque et de greffe à la terminologie du nouveau Code civil

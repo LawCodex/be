@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/04/1999031163/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 03-04-1999 et mise à jour au 08-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 1999. - Décret organisant l'agrément et le subventionnement des centres de coordination de soins et services à domicile et des services de soins palliatifs et continués.

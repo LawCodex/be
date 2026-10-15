@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/06/30/2023043685/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 08-08-2023 en tekstbijwerking tot 20-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2023. - Decreet over de verwerking van de persoonsgegevens in het kader van een multidisciplinaire samenwerking bij deelname aan een casusoverleg op basis van [artikel 353, § 2,] van het Strafwetboek (Opschrift gewijzigd door DVR 2026-07-17/28 , art. 59, 002; Inwerkingtreding : 01-09-2026)

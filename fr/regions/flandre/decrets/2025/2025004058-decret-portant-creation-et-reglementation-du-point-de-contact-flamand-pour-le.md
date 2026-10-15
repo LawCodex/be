@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/05/02/2025004058/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-05-2025 et mise à jour au 20-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2025. - Décret portant création et réglementation du Point de Contact flamand pour le Signalement de Comportements abusifs

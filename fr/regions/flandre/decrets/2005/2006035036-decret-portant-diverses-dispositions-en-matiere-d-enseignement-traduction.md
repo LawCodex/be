@@ -13,7 +13,7 @@ entry_into_force: 1999-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/11/18/2006035036/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBRE 2005. - Décret portant diverses dispositions en matière d'enseignement (TRADUCTION).

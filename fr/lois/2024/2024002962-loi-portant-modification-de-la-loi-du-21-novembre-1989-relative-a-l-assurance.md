@@ -12,7 +12,7 @@ entry_into_force: 2024-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/17/2024002962/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2024. - Loi portant modification de la loi du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs

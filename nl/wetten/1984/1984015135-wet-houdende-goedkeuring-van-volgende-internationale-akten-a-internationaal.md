@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1984/01/17/1984015135/justel"
 department: "Buitenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 17-06-2014 en tekstbijwerking tot 17-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANUARI 1984. - Wet houdende goedkeuring van volgende Internationale Akten : - a) Internationaal Verdrag van 1973 ter voorkoming van verontreiniging door schepen, en Bijlagen, opgemaakt te Londen op 2 november 1973, - b) Protocol van 1978 bij het International Verdrag van 1973 ter voorkoming van verontreiniging door schepen, en Bijlage, opgemaakt te Londen op 17 februari 1978

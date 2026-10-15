@@ -12,7 +12,7 @@ entry_into_force: 2021-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019041776/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2019. - Loi portant assentiment au Protocole relatif à la Convention sur le travail forcé de 1930, adopté à Genève le 11 juin 2014 par le conférence générale de l'Organisation internationale du travail lors de sa 103 e session

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/01/07/2002033024/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 12-09-2002 et mise à jour au 14-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JANVIER 2002. - Décret-programme 2001 (TRADUCTION). -

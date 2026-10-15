@@ -12,7 +12,7 @@ entry_into_force: 1995-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/03/06/1995009267/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 1995. - Loi portant approbation de l'accord de coopération portant création d'un Comité consultatif de bioéthique, conclu à Bruxelles, le 15 janvier 1993 entre l'Etat, la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune.

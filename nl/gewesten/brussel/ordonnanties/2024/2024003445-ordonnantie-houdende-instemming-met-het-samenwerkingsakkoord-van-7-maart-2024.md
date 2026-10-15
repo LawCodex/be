@@ -13,7 +13,7 @@ entry_into_force: 2024-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/04/04/2024003445/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2024. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 7 maart 2024 tussen de Vlaamse Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie tot wijziging van het samenwerkingsakkoord van 20 december 2018 tussen de Vlaamse Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie met betrekking tot het verplicht inburgeringstraject voor de nieuwkomers in Brussel-Hoofdstad

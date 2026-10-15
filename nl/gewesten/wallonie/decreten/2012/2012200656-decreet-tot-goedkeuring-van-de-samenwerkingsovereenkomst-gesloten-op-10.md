@@ -13,7 +13,7 @@ entry_into_force: 2012-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/01/26/2012200656/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2012. - Decreet tot goedkeuring van de samenwerkingsovereenkomst gesloten op 10 november 2011 tussen de Franse Gemeenschap en het Waalse Gewest tot oprichting van een gemeenschappelijke " Ecole d'administration publique " (Bestuursschool) voor de Franse Gemeenschap en het Waalse Gewest

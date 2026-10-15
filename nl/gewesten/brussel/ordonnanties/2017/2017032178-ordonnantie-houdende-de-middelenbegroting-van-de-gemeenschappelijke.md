@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/12/15/2017032178/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2017. - Ordonnantie houdende de Middelenbegroting van de Gemeenschappelijke Gemeenschapscommissie voor het begrotingsjaar 2018

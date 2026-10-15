@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/19/2002028213/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 25-12-2002 et mise à jour au 24-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2002. - Décret instituant une centralisation financière des trésoreries des organismes d'intérêt public wallons dont les missions touchent les matières visées aux articles 127 et 128 de la Constitution

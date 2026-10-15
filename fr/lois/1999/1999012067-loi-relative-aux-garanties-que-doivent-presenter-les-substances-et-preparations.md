@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/28/1999012067/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 01-07-2010 et mise à jour au 19-08-2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 1999. - Loi relative aux garanties que doivent présenter les substances et préparations en matière de sécurité et de santé des travailleurs en vue de leur bien-être

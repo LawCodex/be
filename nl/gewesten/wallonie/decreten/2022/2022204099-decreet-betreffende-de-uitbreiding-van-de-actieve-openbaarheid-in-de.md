@@ -13,7 +13,7 @@ entry_into_force: 2022-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/05/18/2022204099/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2022. - Decreet betreffende de uitbreiding van de actieve openbaarheid in de plaatselijke besturen

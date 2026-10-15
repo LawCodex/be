@@ -13,7 +13,7 @@ entry_into_force: 2024-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/18/2024006921/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2024. - Décret modifiant le décret du 13 septembre 2018 portant création du service général de pilotage des écoles et centres psycho-médico-sociaux et fixant le statut des directeurs de zone et délégués au contrat d'objectifs, le décret du 10 janvier 2019 relatif au service général de l'inspection et diverses dispositions relatives au pilotage dans le code de l'enseignement fondamental et de l'enseignement secondaire

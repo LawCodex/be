@@ -12,7 +12,7 @@ entry_into_force: 1996-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/03/26/1996009416/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 1996. - Wet tot invoeging van een artikel 353bis in het Gerechtelijk Wetboek en tot wijziging van artikel 354 van hetzelfde Wetboek.

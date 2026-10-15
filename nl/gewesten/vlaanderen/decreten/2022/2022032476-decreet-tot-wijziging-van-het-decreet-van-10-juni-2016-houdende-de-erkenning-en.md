@@ -13,7 +13,7 @@ entry_into_force: 2022-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/05/20/2022032476/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 2022. - Decreet tot wijziging van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector

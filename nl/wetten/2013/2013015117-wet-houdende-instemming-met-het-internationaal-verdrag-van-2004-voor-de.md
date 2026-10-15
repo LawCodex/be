@@ -10,7 +10,7 @@ date: 2013-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/04/14/2013015117/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 APRIL 2013. - Wet houdende instemming met het Internationaal Verdrag van 2004 voor de controle en het beheer van ballastwater en sedimenten van schepen, gedaan te Londen op 13 februari 2004

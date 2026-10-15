@@ -12,7 +12,7 @@ entry_into_force: 2014-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/15/2014007208/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2014. - Loi modifiant diverses lois dans le cadre de l'engagement volontaire militaire

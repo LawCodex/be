@@ -12,7 +12,7 @@ entry_into_force: 2017-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/09/09/2017012066/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 SEPTEMBER 2015. - Wet houdende instemming met de Overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk België en de Republiek Tunesië, gedaan te Tunis op 28 maart 2013

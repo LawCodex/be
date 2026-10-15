@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/20/2005029231/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 31-08-2005 en tekstbijwerking tot 14-03-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2005. - Decreet betreffende het bijkomend inschrijvingsgeld geïnd in het niet-universitair hoger onderwijs. (VERTALING)

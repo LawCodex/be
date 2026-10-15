@@ -12,7 +12,7 @@ entry_into_force: 2003-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/20/2002013512/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2002. - Wet tot wijziging van het Gerechtelijk Wetboek naar aanleiding van de wet van 20 december 2002 betreffende de bescherming van de preventieadviseurs.

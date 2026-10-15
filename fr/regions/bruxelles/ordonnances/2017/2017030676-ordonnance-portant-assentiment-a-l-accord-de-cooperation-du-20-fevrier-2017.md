@@ -13,7 +13,7 @@ entry_into_force: 2017-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/07/13/2017030676/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2017. - Ordonnance portant assentiment à l'Accord de coopération du 20 février 2017 entre l'Etat fédéral, la Région wallonne et la Région de Bruxelles-Capitale relatif à la gestion du service pour la régularisation des impôts régionaux et des capitaux fiscalement prescrits non scindés et à la mise en place d'un système de régularisation des capitaux fiscalement prescrits non scindés, instaurant un régime de régularisation fiscale limité dans le temps et instaurant des mesures en vue de lutter contre les abus et les fraudes fiscales

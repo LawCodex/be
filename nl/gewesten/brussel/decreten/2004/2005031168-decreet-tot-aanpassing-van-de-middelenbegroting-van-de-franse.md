@@ -13,7 +13,7 @@ entry_into_force: 2004-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/12/13/2005031168/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBER 2004. - Decreet tot aanpassing van de middelenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 2004 (VERTALING).

@@ -11,7 +11,7 @@ published: 2023-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/16/2023044648/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2023. - Wet tot wijziging van 15 mei 2007 inzake civiele veiligheid

@@ -13,7 +13,7 @@ entry_into_force: 2016-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/04/25/2016202755/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2016. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'Office International des Epizooties, fait à Bruxelles le 14 mars 2013

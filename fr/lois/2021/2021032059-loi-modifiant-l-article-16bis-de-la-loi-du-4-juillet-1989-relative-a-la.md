@@ -12,7 +12,7 @@ entry_into_force: 2021-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/04/2021032059/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUIN 2021. - Loi modifiant l'article 16bis de la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour l'élection de la Chambre des représentants, ainsi qu'au financement et à la comptabilité ouverte des partis politiques, en ce qui concerne les donateurs

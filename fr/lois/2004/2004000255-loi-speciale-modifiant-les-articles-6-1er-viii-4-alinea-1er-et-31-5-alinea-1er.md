@@ -12,7 +12,7 @@ entry_into_force: 2004-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/04/25/2004000255/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2004. - Loi spéciale modifiant les articles 6, § 1er, VIII, 4°, alinéa 1er, et 31, § 5, alinéa 1er, de la loi spéciale du 8 août 1980 de réformes institutionnelles et l'article 22, § 5, alinéas 1er et 2, de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises, afin de préciser la compétence de contrôle des Conseils en matière de dépenses électorales et en matière de communications et de campagnes d'information destinées au public.

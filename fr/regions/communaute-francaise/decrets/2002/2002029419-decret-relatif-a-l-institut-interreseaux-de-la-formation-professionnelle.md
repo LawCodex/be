@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/11/2002029419/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 31-08-2002 et mise à jour au 12-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2002. - Décret relatif à l'Institut interréseaux de la Formation professionnelle continue (IFPC) (Intitulé remplacé par DCFR 2021-06-17/28 , art. 3, 019; En vigueur : 01-09-2022)

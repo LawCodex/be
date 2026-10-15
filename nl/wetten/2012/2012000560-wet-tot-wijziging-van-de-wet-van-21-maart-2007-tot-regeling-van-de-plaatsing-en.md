@@ -11,7 +11,7 @@ published: 2012-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/08/03/2012000560/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AUGUSTUS 2012. - Wet tot wijziging van de wet van 21 maart 2007 tot regeling van de plaatsing en het gebruik van bewakingscamera's met het oog op het versterken van de veiligheid in het openbaar vervoer en de nucleaire sites

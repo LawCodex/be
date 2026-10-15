@@ -10,7 +10,7 @@ date: 2019-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/28/2019015125/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2019. - Wet houdende instemming met het Verdrag van Straatsburg van 2012 inzake de beperking van aansprakelijkheid in de binnenvaart (CLNI 2012), gedaan te Straatsburg op 27 september 2012

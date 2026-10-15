@@ -13,7 +13,7 @@ entry_into_force: 2004-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/11/08/2004033095/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 2004. - Décret modifiant le décret du 27 juin 1986 relatif au Centre belge pour la Radiodiffusion-Télévision de la Communauté germanophone (TRADUCTION).

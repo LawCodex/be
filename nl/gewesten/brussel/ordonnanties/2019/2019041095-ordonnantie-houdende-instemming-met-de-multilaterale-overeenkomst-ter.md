@@ -13,7 +13,7 @@ entry_into_force: 2019-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/04/25/2019041095/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Ordonnantie houdende instemming met : de Multilaterale Overeenkomst ter implementatie van aan belastingverdragen gerelateerde maatregelen ter voorkoming van grondslaguitholling en winstverschuiving en de verklarende nota, gedaan te Parijs op 24 november 2016

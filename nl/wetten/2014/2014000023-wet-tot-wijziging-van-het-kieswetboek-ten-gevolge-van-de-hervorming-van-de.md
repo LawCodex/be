@@ -12,7 +12,7 @@ entry_into_force: 2014-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/06/2014000023/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANUARI 2014. - Wet tot wijziging van het Kieswetboek ten gevolge van de hervorming van de Senaat

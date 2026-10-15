@@ -12,7 +12,7 @@ entry_into_force: 2023-01-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/08/2022034749/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 2022. - Loi relatif aux canaux de signalement et à la protection des auteurs de signalement d'atteintes à l'intégrité dans les organismes du secteur public fédéral et au sein de la police intégrée

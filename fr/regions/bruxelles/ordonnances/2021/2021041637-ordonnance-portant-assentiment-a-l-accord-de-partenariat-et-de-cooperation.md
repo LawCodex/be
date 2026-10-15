@@ -13,7 +13,7 @@ entry_into_force: 2021-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/05/20/2021041637/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 2021. - Ordonnance portant assentiment à l'Accord de partenariat et de coopération entre l'Union européenne et ses Etats membres, d'une part, et la République de Singapour, d'autre part, signé à Bruxelles le 19 octobre 2018

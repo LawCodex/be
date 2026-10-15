@@ -13,7 +13,7 @@ entry_into_force: 2019-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/25/2019013094/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2019. - Décret modifiant l'article 101 du décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse

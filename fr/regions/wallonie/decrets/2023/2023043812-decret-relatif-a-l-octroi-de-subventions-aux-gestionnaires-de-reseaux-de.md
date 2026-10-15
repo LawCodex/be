@@ -13,7 +13,7 @@ entry_into_force: 2023-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/29/2023043812/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2023. - Décret relatif à l'octroi de subventions aux gestionnaires de réseaux de distribution en vue de favoriser la transition énergétique

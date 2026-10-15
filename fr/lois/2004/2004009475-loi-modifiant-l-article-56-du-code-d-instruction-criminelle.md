@@ -12,7 +12,7 @@ entry_into_force: 2004-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/21/2004009475/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2004. - Loi modifiant l'article 56 du Code d'instruction criminelle.

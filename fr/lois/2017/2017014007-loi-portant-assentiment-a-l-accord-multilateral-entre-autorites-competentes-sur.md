@@ -12,7 +12,7 @@ entry_into_force: 2017-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/08/11/2017014007/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AOUT 2017. - Loi portant assentiment à l'Accord multilatéral entre autorités compétentes sur l'échange des déclarations pays par pays, signé à Paris le 27 janvier 2016

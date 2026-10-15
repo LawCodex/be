@@ -12,7 +12,7 @@ entry_into_force: 2023-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/20/2023202193/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2023. - Loi modifiant la loi du 3 juillet 1978 relative aux contrats de travail en vue de limiter la durée de la succession des contrats de travail à durée déterminée et contrats de remplacement

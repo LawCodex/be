@@ -13,7 +13,7 @@ entry_into_force: 2021-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/01/28/2021020409/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 2021. - Ordonnance modifiant le chapitre IIIbis du titre IV du Code bruxellois de l'aménagement du territoire

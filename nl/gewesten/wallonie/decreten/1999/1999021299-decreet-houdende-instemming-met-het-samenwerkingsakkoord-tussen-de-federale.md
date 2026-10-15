@@ -11,7 +11,7 @@ date: 1999-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/01/1999021299/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 1999. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat en het Waalse Gewest inzake de begeleiding en behandeling van daders van seksueel misbruik.

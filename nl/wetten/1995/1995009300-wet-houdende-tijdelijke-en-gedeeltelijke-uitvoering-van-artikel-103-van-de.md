@@ -12,7 +12,7 @@ entry_into_force: 1995-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/03/1995009300/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 1995. - Wet houdende tijdelijke en gedeeltelijke uitvoering van artikel 103 van de Grondwet.

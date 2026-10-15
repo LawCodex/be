@@ -12,7 +12,7 @@ entry_into_force: 1993-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/07/08/1997002077/justel"
 department: "Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 1997. - Loi modifiant la loi du 26 mars 1968 facilitant le recrutement dans les services publics des personnes ayant accompli des services à la coopération avec les pays en voie de développement.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/26/2009029281/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 29-05-2009 et mise à jour au 16-08-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2009. - Décret modifiant le décret du 14 juillet 1997 portant organisation de la promotion de la santé en Communauté française

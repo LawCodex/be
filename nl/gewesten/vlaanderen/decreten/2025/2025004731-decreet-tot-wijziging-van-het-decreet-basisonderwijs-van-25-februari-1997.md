@@ -12,7 +12,7 @@ published: 2025-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/06/13/2025004731/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 2025. - Decreet tot wijziging van het decreet basisonderwijs van 25 februari 1997

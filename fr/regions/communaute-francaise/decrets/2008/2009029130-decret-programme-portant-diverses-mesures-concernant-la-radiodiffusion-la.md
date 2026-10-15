@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/12/2009029130/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 20-03-2009 et mise à jour au 12-02-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2008. - Décret -programme portant diverses mesures concernant la radiodiffusion, la création d'un fonds budgétaire relatif au financement des programmes de dépistage des cancers, les établissements d'enseignement, les internats, les centres psycho-médico-sociaux, et les bâtiments scolaires

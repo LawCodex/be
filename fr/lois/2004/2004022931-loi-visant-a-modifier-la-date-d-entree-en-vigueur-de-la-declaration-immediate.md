@@ -12,7 +12,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/23/2004022931/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2004. - Loi visant à modifier la date d'entrée en vigueur de la déclaration immédiate de l'emploi dans certains secteurs.

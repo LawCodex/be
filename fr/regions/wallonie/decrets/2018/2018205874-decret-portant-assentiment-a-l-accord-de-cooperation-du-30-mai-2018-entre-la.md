@@ -13,7 +13,7 @@ entry_into_force: 2018-11-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/08/2018205874/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 2018. - Décret portant assentiment à l'accord de coopération du 30 mai 2018 entre la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone portant sur la répartition des réserves des caisses libres agréées en vertu de la loi générale relative aux allocations familiales au moment de la reprise de la gestion et du paiement des allocations familiales par une entité fédérée

@@ -12,7 +12,7 @@ entry_into_force: 2013-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/09/2019011330/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2015. - Loi portant assentiment à l'Accord, fait à Bruxelles le 10 septembre 2013, modificatif et complémentaire à l'Accord, signé à Bruxelles le 12 mai 1967, entre le Royaume de Belgique et le Quartier Général Suprême des Forces Alliées en Europe concernant les conditions particulières d'installation et de fonctionnement de ce Quartier Général sur le territoire du Royaume de Belgique

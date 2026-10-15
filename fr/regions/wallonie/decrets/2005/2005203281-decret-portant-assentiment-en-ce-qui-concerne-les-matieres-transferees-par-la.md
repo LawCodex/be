@@ -13,7 +13,7 @@ entry_into_force: 2005-12-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/11/17/2005203281/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2005. - Décret portant assentiment, en ce qui concerne les matières transférées par la Communauté française, à l'Accord de coopération entre la Région wallonne et le Gouvernement de la République française, fait à Bruxelles le 10 mai 2004.

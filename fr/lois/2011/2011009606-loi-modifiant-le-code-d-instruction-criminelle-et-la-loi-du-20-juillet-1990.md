@@ -12,7 +12,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/08/13/2011009606/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AOUT 2011. - Loi modifiant le Code d'instruction criminelle et la loi du 20 juillet 1990 relative à la détention préventive afin de conférer des droits, dont celui de consulter un avocat et d'être assistée par lui, à toute personne auditionnée et à toute personne privée de liberté (cité comme : loi Salduz)

@@ -12,7 +12,7 @@ entry_into_force: 1980-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1973/11/26/1980B13101/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 1973. - Loi uniforme du 26 novembre 1973 relative à l'astreinte.

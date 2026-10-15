@@ -12,7 +12,7 @@ entry_into_force: 2003-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/13/2003015184/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2003. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Kroatië inzake de wederzijdse bevordering en bescherming van investeringen, gedaan te Brussel op 31 oktober 2001.

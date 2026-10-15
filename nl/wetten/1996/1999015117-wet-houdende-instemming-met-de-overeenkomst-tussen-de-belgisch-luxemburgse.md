@@ -12,7 +12,7 @@ entry_into_force: 1999-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/06/10/1999015117/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 1996. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Chili inzake de wederzijdse bevordering en bescherming van investeringen, en Protocol, ondertekend te Brussel op 15 juli 1992.

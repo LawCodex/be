@@ -13,7 +13,7 @@ entry_into_force: 2018-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/12/06/2018032451/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2018. - Ordonnantie tot wijziging van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren houdende erkenning van het specifiek statuut voor het dier

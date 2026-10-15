@@ -13,7 +13,7 @@ entry_into_force: 2004-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/12/2004029160/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Decreet houdende instemming met het Facultatief Protocol bij het Verdrag inzake de Rechten van het Kind betreffende de verkoop van kinderen, kinderprostitutie en kinderpornografie, aangenomen te New York op 25 mei 2000 (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2007-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/25/2007007129/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2007. - Wet tot wijziging van de wet van 11 april 2003 tot instelling van een vrijwillige dienst van collectief nut.

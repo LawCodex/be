@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/24/2014031574/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 19-01-2015 et mise à jour au 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2014. - Décret relatif à la gouvernance et à la transparence dans l'exécution des mandats publics

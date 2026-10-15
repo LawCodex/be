@@ -13,7 +13,7 @@ entry_into_force: 2020-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/01/2020043331/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 OKTOBER 2020. - Decreet houdende wijziging van het decreet van 6 mei 1999 betreffende de vestiging, de invordering en de geschillen inzake de Waalse gewestelijke belastingen, met het oog op de omzetting van Richtlijn 2018/822/EU wat betreft verplichte automatische uitwisseling van inlichtingen op belastinggebied met betrekking tot meldingsplichtige grensoverschrijdende constructies

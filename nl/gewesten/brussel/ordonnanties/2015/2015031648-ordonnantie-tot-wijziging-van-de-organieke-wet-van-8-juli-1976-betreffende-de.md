@@ -13,7 +13,7 @@ entry_into_force: 2015-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/10/08/2015031648/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 OKTOBER 2015. - Ordonnantie tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn

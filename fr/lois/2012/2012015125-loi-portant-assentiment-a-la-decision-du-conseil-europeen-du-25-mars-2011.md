@@ -12,7 +12,7 @@ entry_into_force: 2012-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/09/2012015125/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2012. - Loi portant assentiment à la Décision du Conseil européen du 25 mars 2011 modifiant l'article 136 du Traité sur le fonctionnement de l'Union européenne en ce qui concerne un mécanisme de stabilité pour les Etats membres dont la monnaie est l'euro

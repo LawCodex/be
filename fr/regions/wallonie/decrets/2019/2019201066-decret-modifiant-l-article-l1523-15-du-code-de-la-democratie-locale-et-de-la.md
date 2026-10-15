@@ -13,7 +13,7 @@ entry_into_force: 2018-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/14/2019201066/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEVRIER 2019. - Décret modifiant l'article L1523-15 du Code de la démocratie locale et de la décentralisation

@@ -13,7 +13,7 @@ entry_into_force: 2014-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029360/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret modifiant diverses dispositions en matière d'enseignement obligatoire

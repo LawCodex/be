@@ -13,7 +13,7 @@ entry_into_force: 2024-01-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/12/22/2023048740/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2023. - Ordonnantie houdende diverse bepalingen betreffende Gezondheid, Bijstand aan Personen en Gezinsbijslagen

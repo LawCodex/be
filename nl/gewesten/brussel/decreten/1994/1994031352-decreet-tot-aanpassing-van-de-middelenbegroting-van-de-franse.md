@@ -12,7 +12,7 @@ entry_into_force: 1994-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/07/16/1994031352/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 1994. - Decreet tot aanpassing van de Middelenbegroting van de Franse Gemeenschapscommissie voor het begrotingsjaar 1994 .

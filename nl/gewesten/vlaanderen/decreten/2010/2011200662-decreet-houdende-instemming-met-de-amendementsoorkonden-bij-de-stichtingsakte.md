@@ -13,7 +13,7 @@ entry_into_force: 2011-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/23/2011200662/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2010. - Decreet houdende instemming met de amendementsoorkonden bij de stichtingsakte en de overeenkomst van de Internationale Telecommunicatie Unie (Genève, 1992), zoals gewijzigd door de Conferentie van gevolmachtigden in 1994 en 1998, aangenomen in Marrakech op 18 oktober 2002

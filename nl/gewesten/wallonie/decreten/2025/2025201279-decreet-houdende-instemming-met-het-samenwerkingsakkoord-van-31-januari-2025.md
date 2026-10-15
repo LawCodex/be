@@ -13,7 +13,7 @@ entry_into_force: 2025-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/04/03/2025201279/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2025. - Decreet houdende instemming met het samenwerkingsakkoord van 31 januari 2025 tussen de Federale Staat, het Waalse Gewest, het Vlaamse Gewest, het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de oprichting van een elektronisch platform in het kader van de één-aanvraagprocedure voor verblijf met het oog op tewerkstelling van buitenlandse werknemers, van de aanvraagprocedure voor buitenlandse werknemers en zelfstandigen en in het kader van de coördinatie van het beleid inzake tewerkstelling en verblijf van buitenlandse werknemers en zelfstandigen

@@ -12,7 +12,7 @@ published: 2022-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/01/27/2022020232/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JANUARI 2022. - Decreet tot wijziging van het decreet van 8 februari 1999 betreffende de ambten en bekwaamheidsbewijzen van de leden van het onderwijzend personeel van de door de Franse Gemeenschap georganiseerde of gesubsidieerde hogescholen

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/06/22/2007036209/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 14-08-2007 et mise à jour au 29-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2007. - Décret cadre relatif à la coopération au développement

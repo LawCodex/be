@@ -13,7 +13,7 @@ entry_into_force: 2008-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/05/2008202169/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUNI 2008. - Decreet betreffende de opsporing, de vaststelling, de vervolging en de beteugeling van milieuovertredingen en de herstelmaatregelen inzake leefmilieu. (Vertaling)

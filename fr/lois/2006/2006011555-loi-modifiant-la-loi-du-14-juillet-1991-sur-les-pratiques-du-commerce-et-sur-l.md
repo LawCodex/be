@@ -12,7 +12,7 @@ entry_into_force: 2006-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/03/2006011555/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2006. - Loi modifiant la loi du 14 juillet 1991 sur les pratiques du commerce et sur l'information et la protection du consommateur et instaurant une interdiction d'augmenter le prix d'un produit ou service en raison du refus du consommateur de payer par domiciliation bancaire ou de recevoir des factures par courrier électronique.

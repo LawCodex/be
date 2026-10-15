@@ -13,7 +13,7 @@ entry_into_force: 1995-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/06/1995027256/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1995. - Decreet tot wijziging van de wet van 19 december 1854 houdende het Boswetboek en van de wet van 12 juli 1952 waarbij de Koning gemachtigd wordt bossen en wouden, eigendom van de provinciën, onder bosregime te plaatsen. (VERTALING).

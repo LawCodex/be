@@ -13,7 +13,7 @@ entry_into_force: 2017-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/04/20/2017202190/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AVRIL 2017. - Décret accordant le titre de ville à la commune de Tubize

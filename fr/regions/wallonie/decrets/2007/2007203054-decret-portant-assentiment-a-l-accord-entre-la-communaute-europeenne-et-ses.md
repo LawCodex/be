@@ -13,7 +13,7 @@ entry_into_force: 2007-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/09/20/2007203054/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBRE 2007. - Décret portant assentiment à l'Accord entre la Communauté européenne et ses Etats membres, d'une part, et le Gouvernement de la République populaire de Chine, d'autre part, relatif aux transports maritimes, fait à Bruxelles le 6 décembre 2002.

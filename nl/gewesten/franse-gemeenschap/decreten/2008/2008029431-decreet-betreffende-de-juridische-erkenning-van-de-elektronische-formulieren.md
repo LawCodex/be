@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/04/2008029431/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 30-04-2014 en tekstbijwerking tot 30-04-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2008. - Decreet betreffende de juridische erkenning van de elektronische formulieren van de Diensten van de Franse Gemeenschap, van de Hoge Raad voor de Audiovisuele Sector en van de instellingen van openbaar nut die ressorteren onder het Comité van Sector XVII (VERTALING)

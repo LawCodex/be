@@ -12,7 +12,7 @@ entry_into_force: 1995-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/06/1995012331/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 1995. - Wet waarbij aan de Rijksdienst voor Arbeidsvoorziening toelating verleend wordt sommige sociale gegevens van persoonlijke aard in te zamelen, op te slaan en te verwerken.

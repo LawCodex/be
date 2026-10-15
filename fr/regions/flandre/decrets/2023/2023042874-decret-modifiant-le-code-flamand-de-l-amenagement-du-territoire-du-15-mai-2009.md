@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/05/26/2023042874/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 27-06-2023 et mise à jour au 17-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 2023. - Décret modifiant le Code flamand de l'Aménagement du Territoire du 15 mai 2009, en ce qui concerne les zones de réserve d'habitat

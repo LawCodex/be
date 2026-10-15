@@ -13,7 +13,7 @@ entry_into_force: 2021-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/18/2021021373/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2021. - Decreet tot wijziging van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten, het decreet van 5 juli 2013 tot wijziging van diverse bepalingen van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten en de Vlaamse Codex Fiscaliteit van 13 december 2013, wat de subsidieregeling betreft

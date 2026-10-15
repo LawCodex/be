@@ -12,7 +12,7 @@ entry_into_force: 2026-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/02/22/2026001717/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 2026. - Loi portant des dispositions diverses en matière sociale 2026

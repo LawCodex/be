@@ -10,7 +10,7 @@ date: 2008-09-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/09/18/2008015153/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 SEPTEMBER 2008. - Wet houdende instemming met de Samenwerkingsovereenkomst betreffende een civiel globaal satellietnavigatiesysteem (Civil Global Navigations Satellite System) (GNSS) - GALILEO tussen de Europese Gemeenschap en haar lidstaten en de Volksrepubliek China, gedaan te Peking op 30 oktober 2003.

@@ -12,7 +12,7 @@ entry_into_force: 2018-11-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/11/07/2018014830/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 2018. - Loi modifiant la loi du 8 juillet 2018 portant organisation d'un point de contact central des comptes et contrats financiers et portant extension de l'accès au fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt

@@ -13,7 +13,7 @@ entry_into_force: 2018-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/22/2018206201/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2018. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et la République d'Afrique du Sud sur l'exercice d'activités à but lucratif par les conjoints de membres du personnel diplomatique et consulaire, fait à Pretoria, le 14 janvier 2016

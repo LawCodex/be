@@ -13,7 +13,7 @@ entry_into_force: 2006-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/03/16/2006201234/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2006. - Decreet tot wijziging van Boek I van het Milieuwetboek inzake het recht van toegang van het publiek tot milieu-informatie (VERTALING).

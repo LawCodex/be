@@ -11,7 +11,7 @@ date: 2019-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019203961/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet inzake de toegankelijkheid van de websites en mobiele applicaties van overheidsinstanties voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet

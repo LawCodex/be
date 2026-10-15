@@ -13,7 +13,7 @@ entry_into_force: 2006-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/07/2006036347/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2006. - Décret portant approbation des normes pour la communication des autorités flamandes et modifiant le décret du 19 juillet 2002 relatif au contrôle de la communication des autorités flamandes (TRADUCTION).

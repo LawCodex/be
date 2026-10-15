@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1981/02/09/1981000342/justel"
 department: "Affaires étrangères - Commerce extérieur"
 justel_note: "Consultation des versions antérieures à partir du 10-03-1981 et mise à jour au 10-05-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 1981. - Loi relative aux conditions d'exportation des matières et équipements nucléaires, ainsi que des données technologiques nucléaires

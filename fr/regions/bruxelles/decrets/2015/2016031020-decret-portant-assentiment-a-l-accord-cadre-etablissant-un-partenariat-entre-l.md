@@ -13,7 +13,7 @@ entry_into_force: 2016-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/04/02/2016031020/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2015. - Décret portant assentiment à l'Accord-cadre établissant un partenariat entre l'Union européenne et ses Etats membres, d'une part, et la République de Corée, d'autre part, fait à Bruxelles le 10 mai 2010

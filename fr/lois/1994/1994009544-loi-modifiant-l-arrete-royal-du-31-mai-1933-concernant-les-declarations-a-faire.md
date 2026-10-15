@@ -12,7 +12,7 @@ entry_into_force: 1994-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/06/07/1994009544/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 1994. - Loi modifiant l'arrêté royal du 31 mai 1933 concernant les déclarations à faire en matière de subventions, indemnités et allocations de toute nature, qui sont, en tout ou en partie, à charge de l'Etat.

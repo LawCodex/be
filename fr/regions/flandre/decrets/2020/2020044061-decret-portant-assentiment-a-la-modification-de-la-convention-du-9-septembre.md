@@ -13,7 +13,7 @@ entry_into_force: 2020-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/11/20/2020044061/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2020. - Décret portant assentiment à la modification de la Convention du 9 septembre 1996 relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure (CDNI), adoptée le 22 juin 2017 par la Conférence des Parties Contractantes, ainsi qu'à son annexe 2 et aux appendices I à V appartenant à l'annexe 2

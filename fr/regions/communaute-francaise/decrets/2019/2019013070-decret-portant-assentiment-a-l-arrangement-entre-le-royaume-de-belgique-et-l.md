@@ -13,7 +13,7 @@ entry_into_force: 2012-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/14/2019013070/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2019. - Décret portant assentiment à l'Arrangement entre le Royaume de Belgique et l'Organisation du Traité de l'Atlantique Nord concernant le statut de certaines catégories de personnel des agences de l'OTAN installées sur le territoire du Royaume de Belgique, fait à Bruxelles le 20 mai 2016

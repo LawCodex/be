@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/05/03/2013035499/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 13-06-2013 en tekstbijwerking tot 26-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2013. - Decreet betreffende de bescherming van de verkeersinfrastructuur in geval van bijzonder wegtransport

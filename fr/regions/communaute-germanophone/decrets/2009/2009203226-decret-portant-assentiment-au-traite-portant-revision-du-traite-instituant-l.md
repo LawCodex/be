@@ -13,7 +13,7 @@ entry_into_force: 2009-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/05/25/2009203226/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2009. - Décret portant assentiment au traité portant révision du traité instituant l'Union économique Benelux signé le 3 février 1958 et au Protocole sur les privilèges et les immunités de l'Union Benelux signés à La Haye le 17 juin 2008

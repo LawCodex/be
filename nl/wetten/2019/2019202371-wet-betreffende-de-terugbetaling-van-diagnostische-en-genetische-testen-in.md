@@ -11,7 +11,7 @@ published: 2019-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/29/2019202371/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2019. - Wet betreffende de terugbetaling van diagnostische en genetische testen in geval van plotse dood bij jonge sporters

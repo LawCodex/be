@@ -11,7 +11,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/04/2004011356/justel"
 department: "Economie, KMO, Middenstand en Energie - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2004. - Wet tot wijziging van artikel 29 van de programmawet van 10 februari 1998 tot bevordering van het zelfstandig ondernemerschap, met betrekking tot de vrijstelling voor bijkomend personeel

@@ -12,7 +12,7 @@ entry_into_force: 2014-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/21/2013009561/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2013. - Loi concernant la modification de l'entrée en vigueur de certains articles de la loi du 13 juin 2006 modifiant la législation relative à la protection de la jeunesse et à la prise en charge des mineurs ayant commis un fait qualifié infraction

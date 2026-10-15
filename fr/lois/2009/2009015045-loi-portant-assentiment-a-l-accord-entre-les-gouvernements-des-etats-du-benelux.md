@@ -12,7 +12,7 @@ entry_into_force: 2009-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/02/18/2009015045/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEVRIER 2009. - Loi portant assentiment à l'Accord entre les Gouvernements des Etats du Benelux et le Gouvernement du Commonwealth des Bahamas relatif à la suppression de l'obligation du visa de voyage pour les titulaires d'un passeport diplomatique et officiel ou de service, conclu par Echange de lettres signées à Washington D.C. le 2 février 2006 et le 3 mars 2006

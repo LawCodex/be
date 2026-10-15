@@ -13,7 +13,7 @@ entry_into_force: 2013-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/19/2013204469/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2013. - Decreet houdende wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie

@@ -13,7 +13,7 @@ entry_into_force: 2007-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/02/15/2007200673/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2007. - Décret modifiant le décret du 25 avril 2002 relatif aux aides visant à favoriser l'engagement de demandeurs d'emploi inoccupés par les pouvoirs locaux, régionaux et communautaires, par certains employeurs du secteur non marchand, de l'enseignement et du secteur marchand.

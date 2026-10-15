@@ -13,7 +13,7 @@ entry_into_force: 2023-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/04/20/2023031160/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2023. - Decreet houdende instemming, wat betreft de aangelegenheden bedoeld in artikel 138 van de Grondwet, met het samenwerkingsakkoord van 30 november 2022 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest, het Brusselse Hoofdstedelijk Gewest, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie tot het invoeren van een mechanisme voor de screening van buitenlandse directe investeringen

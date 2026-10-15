@@ -12,7 +12,7 @@ entry_into_force: 2022-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/10/30/2022034067/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 OKTOBER 2022. - Wet houdende instemming met het Protocol nr. 16 bij het verdrag ter bescherming van de rechten van de mens en de fundamentele vrijheden, gedaan te Straatsburg op 2 oktober 2013

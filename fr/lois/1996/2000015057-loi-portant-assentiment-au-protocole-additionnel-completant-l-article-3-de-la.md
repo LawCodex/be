@@ -12,7 +12,7 @@ entry_into_force: 2000-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/11/10/2000015057/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 1996. - Loi portant assentiment au Protocole additionnel complétant l'article 3 de la Convention belgo-franco-luxembourgeoise du 17 avril 1946 relative à l'exploitation des chemins de fer du Grand-Duché de Luxembourg, signé à Luxembourg le 2 décembre 1993.

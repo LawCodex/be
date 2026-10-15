@@ -12,7 +12,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/07/2019012006/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2019. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992 wat de afzonderlijke aanslag betreft

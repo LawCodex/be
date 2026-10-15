@@ -17,7 +17,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "art. 70; 71 gewijzigd met ingang op een onbepaalde datum bij <DVR 2006-12-22/38 art. 12 tot 14; Inwerkingtreding : onbepaald >"
   - "Raadpleging van vroegere versies vanaf 06-08-2004 en tekstbijwerking tot 23-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2004. - Decreet betreffende participatie op school en de Vlaamse Onderwijsraad.

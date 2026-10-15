@@ -13,7 +13,7 @@ entry_into_force: 2017-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/10/19/2017013914/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2017. - Décret relatif à la situation particulière des étudiants ayant présenté l'examen d'entrée et d'accès aux études de premier cycle en sciences médicales et dentaires et qui souhaitent s'inscrire pour l'année académique 2017-2018 aux études de sciences vétérinaires

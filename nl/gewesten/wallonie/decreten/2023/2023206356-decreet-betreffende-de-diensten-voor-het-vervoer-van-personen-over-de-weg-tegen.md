@@ -13,7 +13,7 @@ entry_into_force: 2024-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/09/28/2023206356/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBER 2023. - Decreet betreffende de diensten voor het vervoer van personen over de weg tegen vergoeding door middel van voertuigen met een kleine capaciteit

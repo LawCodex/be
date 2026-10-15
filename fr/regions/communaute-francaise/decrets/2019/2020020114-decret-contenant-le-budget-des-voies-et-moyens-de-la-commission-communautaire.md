@@ -13,7 +13,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/12/20/2020020114/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2019. - Décret contenant le budget des voies et moyens de la Commission communautaire française pour l'année budgétaire 2020

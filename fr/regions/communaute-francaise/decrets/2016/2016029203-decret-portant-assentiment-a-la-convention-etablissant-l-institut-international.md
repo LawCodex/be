@@ -13,7 +13,7 @@ entry_into_force: 2016-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/04/21/2016029203/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2016. - Décret portant assentiment à la Convention établissant l'Institut international pour la Démocratie et l'Assistance électorale, et l'Acte final, faits à Stockholm le 27 février 1995, tels qu'amendés le 24 janvier 2006

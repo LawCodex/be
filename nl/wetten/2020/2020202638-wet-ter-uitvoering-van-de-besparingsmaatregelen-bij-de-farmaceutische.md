@@ -12,7 +12,7 @@ entry_into_force: 2020-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/05/04/2020202638/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2020. - Wet ter uitvoering van de besparingsmaatregelen bij de farmaceutische specialiteiten in het kader van de gezondsheidszorgbegroting 2020

@@ -12,7 +12,7 @@ entry_into_force: 2022-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/17/2022041667/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2022. - Loi modifiant la loi du 4 juillet 2021 portant des mesures de soutien temporaires en raison de la pandémie du COVID-19 et redistribuant partiellement le solde résiduel

@@ -13,7 +13,7 @@ entry_into_force: 2024-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/03/2024004808/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2024. - Décret modifiant les articles 3, 11 et 12 du décret du 23 novembre 2018 relatif au Fonds de pension flamand et au régime de pension public pour les travailleurs des services de l'Autorité flamande et d'autres administrations

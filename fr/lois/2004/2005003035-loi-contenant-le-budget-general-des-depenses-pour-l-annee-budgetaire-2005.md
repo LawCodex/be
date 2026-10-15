@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/12/27/2005003035/justel"
 department: "Budget et Contrôle de la gestion"
 justel_note: "Consultation des versions antérieures à partir du 04-03-2005 et mise à jour au 01-09-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 2004. - Loi contenant le budget général des dépenses pour l'année budgétaire 2005.

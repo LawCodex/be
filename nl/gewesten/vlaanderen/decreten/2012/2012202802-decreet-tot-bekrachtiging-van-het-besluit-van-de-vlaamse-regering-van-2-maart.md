@@ -13,7 +13,7 @@ entry_into_force: 2012-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/05/11/2012202802/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2012. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 2 maart 2012 tot wijziging van sommige eindtermen van het besluit van de Vlaamse Regering van 23 juni 2000 tot vaststelling van de vakgebonden eindtermen van de tweede en de derde graad van het gewoon secundair onderwijs, wat betreft de natuurwetenschappen of fysica en/of chemie en/of biologie

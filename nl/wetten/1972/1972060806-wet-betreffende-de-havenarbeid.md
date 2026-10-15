@@ -13,7 +13,7 @@ last_amended: 2010-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1972/06/08/1972060806/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 31-08-1985 en tekstbijwerking tot 01-07-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 1972. - Wet betreffende de havenarbeid.

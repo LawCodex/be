@@ -12,7 +12,7 @@ entry_into_force: 1994-11-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/02/10/1994009323/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 1994. - Loi organisant une procédure de médiation pénale.

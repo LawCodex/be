@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/01/30/2006033029/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2006. - Decreet tot wijziging van de wet van 4 maart 1870 op het tijdelijke der erediensten (VERTALING).

@@ -13,7 +13,7 @@ last_amended: 1997-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1877/07/10/1877071050/justel"
 justel_note: "Consultation des versions antérieures à partir de la version précédant immédiatement le 27-03-1991 et mise à jour au 19-07-1997"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 1877. - Loi sur les protêts.

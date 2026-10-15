@@ -13,7 +13,7 @@ entry_into_force: 2026-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/11/2026004929/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2026. - Décret modifiant et coordonnant diverses dispositions relatives au budget, à la comptabilité et au contrôle applicables aux services du Gouvernement ainsi qu'aux entités relevant de son périmètre, et transposant partiellement la directive (UE) 2024/1265 du Conseil du 29 avril 2024 modifiant la directive 2011/85/UE sur les exigences applicables aux cadres budgétaires des Etats membres

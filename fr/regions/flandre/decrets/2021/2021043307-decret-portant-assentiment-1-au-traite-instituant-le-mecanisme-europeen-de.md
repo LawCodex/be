@@ -13,7 +13,7 @@ entry_into_force: 2021-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/26/2021043307/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2021. - Décret portant assentiment 1° au traité instituant le Mécanisme européen de stabilité (MES), signé à Bruxelles le 2 février 2012 ; 2° à l'accord, signé à Bruxelles le 27 janvier 2021, modifiant le traité instituant le Mécanisme européen de stabilité, signé à Bruxelles le 2 février 2012

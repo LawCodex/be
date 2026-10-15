@@ -12,7 +12,7 @@ entry_into_force: 2015-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/06/28/2015009302/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2015. - Wet tot wijziging van de wet van 21 december 2013 tot wijziging van het Wetboek van strafvordering en van de wet van 22 maart 1999 betreffende de identificatieprocedure via DNA-onderzoek in strafzaken, met het oog op de oprichting van een DNA-gegevensbank "Vermiste personen" wat de datum van inwerkingtreding betreft

@@ -10,7 +10,7 @@ date: 2020-10-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/10/13/2020015995/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 OKTOBER 2020. - Wet houdende goedkeuring van de beslissing 16645-(20/5) van de Raad van Beheer van het Internationaal Monetair Fonds betreffende de amendering van de Nieuwe Leningsovereenkomsten

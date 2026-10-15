@@ -12,7 +12,7 @@ entry_into_force: 2008-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/04/07/2008003123/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2008. - Wet tot opening van voorlopige kredieten voor de maanden april, mei en juni 2008.

@@ -12,7 +12,7 @@ entry_into_force: 2007-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/18/2005015064/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2005. - Loi portant assentiment au Traité international sur les Ressources phytogénétiques pour l'Alimentation et l'Agriculture, et aux Annexes Ire et II, faits à Rome le 6 juin 2002.

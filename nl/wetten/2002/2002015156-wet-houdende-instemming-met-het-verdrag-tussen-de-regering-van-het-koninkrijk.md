@@ -12,7 +12,7 @@ entry_into_force: 2003-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/10/07/2002015156/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 OKTOBER 2002. - Wet houdende instemming met het Verdrag tussen de Regering van het Koninkrijk België en de Regering van de Republiek Bulgarije inzake politiesamenwerking, ondertekend te Oostende op 24 juni 1998; en het Protocol, ondertekend te Sofia op 27 november 2000, betreffende artikel 1 van het Verdrag tussen de Regering van het Koninkrijk België en de Regering van de Republiek Bulgarije inzake politiesamenwerking, ondertekend te Oostende, België, op 24 juni 1998.

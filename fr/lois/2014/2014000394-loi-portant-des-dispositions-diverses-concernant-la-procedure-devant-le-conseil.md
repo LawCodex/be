@@ -12,7 +12,7 @@ entry_into_force: 2014-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/10/2014000394/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2014. - Loi portant des dispositions diverses concernant la procédure devant le Conseil du Contentieux des étrangers et devant le Conseil d'Etat

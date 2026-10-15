@@ -11,7 +11,7 @@ entry_into_force: 2005-01-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/05/24/2005022567/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 2005. - Wet tot wijziging van het koninklijk besluit nr. 143 van 30 december 1982 tot vaststelling van de voorwaarden waaraan de laboratoria moeten voldoen voor de tegemoetkoming van de ziekteverzekering voor verstrekkingen van klinische biologie.

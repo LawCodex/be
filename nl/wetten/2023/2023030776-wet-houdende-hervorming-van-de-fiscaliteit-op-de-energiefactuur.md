@@ -12,7 +12,7 @@ entry_into_force: 2023-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/03/19/2023030776/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2023. - Wet houdende hervorming van de fiscaliteit op de energiefactuur

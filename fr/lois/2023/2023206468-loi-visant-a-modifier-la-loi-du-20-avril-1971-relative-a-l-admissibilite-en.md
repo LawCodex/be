@@ -12,7 +12,7 @@ entry_into_force: 2022-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/11/23/2023206468/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2023. - Loi visant à modifier la loi du 20 avril 1971 relative à l'admissibilité, en matière de pensions à charge du Trésor public, de services antérieurs à la nomination définitive des membres du personnel enseignant et l'arrêté royal n° 442 du 14 août 1986 relatif à l'incidence de certaines positions administratives sur les pensions des agents des services publics

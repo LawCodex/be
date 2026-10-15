@@ -13,7 +13,7 @@ entry_into_force: 2024-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/18/2024004233/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2024. - Décret portant assentiment au protocole d'adhésion à l'accord commercial entre l'Union européenne et ses Etats membres, d'une part, et la Colombie et le Pérou, d'autre part, en vue de tenir compte de l'adhésion de l'Equateur, signé à Bruxelles le 11 novembre 2016

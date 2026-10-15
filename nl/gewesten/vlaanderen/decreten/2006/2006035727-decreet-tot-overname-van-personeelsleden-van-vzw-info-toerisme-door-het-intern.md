@@ -13,7 +13,7 @@ entry_into_force: 2006-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/03/31/2006035727/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2006. - Decreet tot overname van personeelsleden van VZW Info-Toerisme door het Intern Verzelfstandigd Agentschap Toerisme Vlaanderen.

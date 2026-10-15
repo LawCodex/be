@@ -12,7 +12,7 @@ entry_into_force: 2022-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/01/17/2019041858/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JANUARI 2019. - Wet houdende instemming met het Aanvullend Protocol van Nagoya-Kuala Lumpur inzake aansprakelijkheid en schadeloosstelling bij het Protocol van Cartagena inzake bioveiligheid, gedaan te Nagoya op 15 oktober 2010

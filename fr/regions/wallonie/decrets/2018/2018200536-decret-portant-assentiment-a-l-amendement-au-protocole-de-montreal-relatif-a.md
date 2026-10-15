@@ -13,7 +13,7 @@ entry_into_force: 2018-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/01/25/2018200536/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2018. - Décret portant assentiment à l'Amendement au Protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone, adopté à Kigali le 15 octobre 2016

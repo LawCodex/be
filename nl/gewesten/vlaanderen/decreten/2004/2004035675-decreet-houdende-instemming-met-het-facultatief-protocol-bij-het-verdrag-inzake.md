@@ -13,7 +13,7 @@ entry_into_force: 2004-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/26/2004035675/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2004. - Decreet houdende instemming met het facultatief protocol bij het verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen, opgemaakt in New York op 6 oktober 1999.

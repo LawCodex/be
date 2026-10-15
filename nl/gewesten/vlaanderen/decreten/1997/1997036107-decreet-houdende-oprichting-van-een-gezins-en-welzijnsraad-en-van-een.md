@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/07/15/1997036107/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 15-07-1999 en tekstbijwerking tot 21-12-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 1997. - Decreet houdende oprichting van een Gezins- en Welzijnsraad en van een adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden.

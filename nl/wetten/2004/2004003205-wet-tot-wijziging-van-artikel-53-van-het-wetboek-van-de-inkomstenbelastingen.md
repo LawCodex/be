@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/05/10/2004003205/justel"
 department: "Financiën"
 justel_note: "raadpleging van vroegere versies vanaf 24-05-2004 en tekstbijwerking tot 31-12-2004"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 2004. - Wet tot wijziging van artikel 53 van het Wetboek van de inkomstenbelastingen 1992 op het vlak van de restaurantkosten.

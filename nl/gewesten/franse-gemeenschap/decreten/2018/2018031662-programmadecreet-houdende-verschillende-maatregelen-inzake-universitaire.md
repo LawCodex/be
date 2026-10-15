@@ -13,7 +13,7 @@ entry_into_force: 2018-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/11/2018031662/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2018. - Programmadecreet houdende verschillende maatregelen inzake universitaire ziekenhuisinfrastructuren, hoger onderwijs, schoolinfrastructuren, begrotingsfondsen, algemene zaken, cultuur, huiswerkinstituten, subsidiëring van de tewerkstelling in de socioculturele sectoren

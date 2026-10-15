@@ -13,7 +13,7 @@ entry_into_force: 2021-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/09/23/2021204653/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBER 2021. - Decreet houdende instemming met het samenwerkingsakkoord van 13 juli 2021 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest houdende coördinatie van het beleid inzake grensoverschrijdende overbrenging van afvalstoffen

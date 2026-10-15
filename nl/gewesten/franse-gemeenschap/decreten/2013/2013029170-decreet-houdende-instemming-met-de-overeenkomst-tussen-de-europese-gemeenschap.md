@@ -13,7 +13,7 @@ entry_into_force: 2013-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/01/24/2013029170/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANUARI 2013. - Decreet houdende instemming met de overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds, tot wijziging van de overeenkomst inzake handel, ontwikkeling en samenwerking, ondertekend in Kleinmond op 11 september 2009

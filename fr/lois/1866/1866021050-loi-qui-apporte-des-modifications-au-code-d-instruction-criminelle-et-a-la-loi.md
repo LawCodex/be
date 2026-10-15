@@ -11,7 +11,7 @@ published: 1866-02-16
 entry_into_force: 1866-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1866/02/10/1866021050/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 1866. - LOI qui apporte des modifications au Code d'instruction criminelle et à la loi du 8 mai 1848 sur la garde civique.

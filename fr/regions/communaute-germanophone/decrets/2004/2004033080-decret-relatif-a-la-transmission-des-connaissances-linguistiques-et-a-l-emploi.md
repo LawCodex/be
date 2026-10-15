@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/19/2004033080/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 09-11-2004 et mise à jour au 31-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2004. - Décret relatif à la transmission des connaissances linguistiques et à l'emploi des langues dans l'enseignement (TRADUCTION)

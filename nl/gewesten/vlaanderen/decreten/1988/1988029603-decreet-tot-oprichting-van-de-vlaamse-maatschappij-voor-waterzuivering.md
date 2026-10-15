@@ -13,7 +13,7 @@ entry_into_force: 1988-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1988/07/13/1988029603/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 1988. - Decreet tot oprichting van de Vlaamse Maatschappij voor Waterzuivering.

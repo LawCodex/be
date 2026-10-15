@@ -13,7 +13,7 @@ entry_into_force: 2017-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/12/07/2017014319/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 2017. - Ordonnance portant assentiment à la Convention de Minamata sur le mercure, faite à Kumamoto (Japon), le 10 octobre 2013

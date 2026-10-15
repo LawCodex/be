@@ -12,7 +12,7 @@ entry_into_force: 2019-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/22/2019030551/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2019. - Wet tot wijziging van het koninklijk besluit van 20 juli 1971 houdende instelling van een uitkeringsverzekering en een moederschapsverzekering ten voordele van de zelfstandigen en van de meewerkende echtgenoten, teneinde de wachttijd op te heffen

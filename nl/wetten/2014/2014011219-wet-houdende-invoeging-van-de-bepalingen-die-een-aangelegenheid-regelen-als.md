@@ -11,7 +11,7 @@ published: 2014-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/03/27/2014011219/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Wet houdende invoeging van de bepalingen die een aangelegenheid regelen als bedoeld in artikel 77 van de Grondwet, in boek XVII "Bijzondere rechtsprocedures" van het Wetboek van economisch recht en tot wijziging van het Gerechtelijk Wetboek teneinde de hoven en rechtbanken te Brussel een exclusieve bevoegdheid toe te kennen om kennis te nemen van de rechtsvordering tot collectief herstel, bedoeld in boek XVII, titel 2 van het Wetboek van economisch recht

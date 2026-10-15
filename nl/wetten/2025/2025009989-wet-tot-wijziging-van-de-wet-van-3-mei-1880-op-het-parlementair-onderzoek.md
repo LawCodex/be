@@ -12,7 +12,7 @@ entry_into_force: 2026-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/11/16/2025009989/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 2025. - Wet tot wijziging van de wet van 3 mei 1880 op het parlementair onderzoek, teneinde een wettelijk mechanisme in te voeren voor het vervallen, verlengen en opheffen van de geheimhouding

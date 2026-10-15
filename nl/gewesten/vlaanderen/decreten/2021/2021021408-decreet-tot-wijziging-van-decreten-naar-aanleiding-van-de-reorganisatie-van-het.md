@@ -12,7 +12,7 @@ published: 2021-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/25/2021021408/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2021. - Decreet tot wijziging van decreten naar aanleiding van de reorganisatie van het beleidsdomein Kanselarij en Bestuur en van de samenvoeging van het beleidsdomein Kanselarij en Bestuur met het beleidsdomein Internationaal Vlaanderen

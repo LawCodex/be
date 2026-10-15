@@ -13,7 +13,7 @@ entry_into_force: 2023-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/05/22/2023204748/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2023. - Décret visant à soutenir le journalisme en Communauté germanophone

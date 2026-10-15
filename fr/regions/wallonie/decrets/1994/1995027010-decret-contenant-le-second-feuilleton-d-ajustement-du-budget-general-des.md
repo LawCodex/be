@@ -13,7 +13,7 @@ entry_into_force: 1995-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/16/1995027010/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 1994. - DECRET contenant le second feuilleton d'ajustement du budget général des dépenses de la Région wallonne pour l'année budgétaire 1994

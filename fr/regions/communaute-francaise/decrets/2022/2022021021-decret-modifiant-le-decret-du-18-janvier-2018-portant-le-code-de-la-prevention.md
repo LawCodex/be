@@ -13,7 +13,7 @@ entry_into_force: 2022-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/23/2022021021/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2022. - Décret modifiant le décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse

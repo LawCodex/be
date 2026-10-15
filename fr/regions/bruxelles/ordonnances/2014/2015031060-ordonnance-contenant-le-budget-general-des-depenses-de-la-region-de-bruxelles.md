@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/12/15/2015031060/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2014. - Ordonnance contenant le Budget général des Dépenses de la Région de Bruxelles-Capitale pour l'année budgétaire 2015, que le Parlement de la Région de Bruxelles-Capitale a adopté en sa séance du vendredi 12 décembre 2014

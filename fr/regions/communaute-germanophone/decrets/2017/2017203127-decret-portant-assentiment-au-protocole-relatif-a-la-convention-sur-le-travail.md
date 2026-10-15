@@ -13,7 +13,7 @@ entry_into_force: 2017-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/05/29/2017203127/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2017. - Décret portant assentiment au Protocole relatif à la convention sur le travail forcé, adopté à Genève le 11 juin 2014 par la Conférence internationale du travail lors de sa 103e session

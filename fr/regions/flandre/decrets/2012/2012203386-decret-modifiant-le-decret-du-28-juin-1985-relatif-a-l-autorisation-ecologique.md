@@ -13,7 +13,7 @@ entry_into_force: 2013-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/05/25/2012203386/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2012. - Décret modifiant le décret du 28 juin 1985 relatif à l'autorisation écologique, le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement et le décret du 27 octobre 2006 relatif à l'assainissement du sol et la protection du sol en vue de la transposition de la Directive 2010/75/UE du Parlement européen et du Conseil du 24 novembre 2010 relative aux émissions industrielles (prévention et réduction intégrées de la pollution)

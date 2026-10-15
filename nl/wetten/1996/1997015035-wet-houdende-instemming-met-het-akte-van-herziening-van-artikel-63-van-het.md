@@ -12,7 +12,7 @@ entry_into_force: 1997-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/09/10/1997015035/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 SEPTEMBER 1996. - Wet houdende instemming met het Akte van herziening van artikel 63 van het Verdrag inzake de verlening van Europese octrooien (Europees Octrooiverdrag) van 5 oktober 1973, gedaan te München op 17 december 1991.

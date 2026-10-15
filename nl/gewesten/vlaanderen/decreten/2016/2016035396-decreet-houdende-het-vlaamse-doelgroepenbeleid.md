@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/03/04/2016035396/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 04-04-2016 en tekstbijwerking tot 11-03-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 2016. - Decreet houdende het Vlaamse doelgroepenbeleid

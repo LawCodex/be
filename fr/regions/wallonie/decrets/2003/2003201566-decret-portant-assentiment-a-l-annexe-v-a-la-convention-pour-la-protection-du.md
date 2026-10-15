@@ -13,7 +13,7 @@ entry_into_force: 2003-11-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/10/16/2003201566/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2003. - Décret portant assentiment à l'annexe V à la Convention pour la protection du milieu marin de l'Atlantique du Nord-Est (OSPAR 1992),relative à la protection, la conservation des écosystèmes et de la diversité biologique de la zone maritime, ainsi qu'à l'appendice 3 correspondant.

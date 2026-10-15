@@ -12,7 +12,7 @@ entry_into_force: 1999-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/04/1999003331/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 1999. - Wet houdende diverse fiscale bepalingen.

@@ -12,7 +12,7 @@ entry_into_force: 2002-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/01/29/2002015022/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2002. - Wet houdende instemming met het Aanvullend Protocol bij het Europees Verdrag aangaande de wederzijdse rechtshulp in strafzaken, gedaan te Straatsburg op 17 maart 1978.

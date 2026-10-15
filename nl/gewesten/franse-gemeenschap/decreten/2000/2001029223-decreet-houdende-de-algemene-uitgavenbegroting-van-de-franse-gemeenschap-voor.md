@@ -12,7 +12,7 @@ entry_into_force: 2001-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/12/12/2001029223/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2000. - Decreet houdende de algemene uitgavenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2001 (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2006-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/01/27/2006035236/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JANUARI 2006. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 16 september 2005 tot ontvankelijkheid en gelijkwaardigheid van een aanvraag tot afwijking op de decretale specifieke eindtermen voor het algemeen secundair onderwijs.

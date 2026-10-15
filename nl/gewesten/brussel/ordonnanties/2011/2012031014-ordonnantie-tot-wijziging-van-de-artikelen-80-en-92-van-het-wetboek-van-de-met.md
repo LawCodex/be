@@ -13,7 +13,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/12/16/2012031014/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2011. - Ordonnantie tot wijziging van de artikelen 80 en 92 van het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen

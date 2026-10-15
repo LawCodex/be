@@ -3,7 +3,7 @@ title: "Wetboek van vennootschappen en verenigingen"
 identifier: "2019A40586"
 eli: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel"
 type: code
-justel_type: "CODE DES SOCIETES"
+justel_type: "CODE DES SOCIETES ET DES ASSOCIATIONS"
 jurisdiction: be
 language: nl
 date: 2019-03-23
@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019A40586/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 04-04-2019 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2019. - Wetboek van vennootschappen en verenigingen

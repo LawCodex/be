@@ -12,7 +12,7 @@ entry_into_force: 1992-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/07/22/1991003463/justel"
 department: "Finances"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 1991. - Loi modifiant la loi du 24 juillet 1921 relative à la dépossession involontaire des titres au porteur.

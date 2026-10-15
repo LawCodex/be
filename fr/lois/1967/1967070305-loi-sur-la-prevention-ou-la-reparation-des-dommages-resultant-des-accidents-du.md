@@ -13,7 +13,7 @@ last_amended: 2024-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1967/07/03/1967070305/justel"
 justel_note: "Consultation des versions antérieures à partir du 06-04-1984 et mise à jour au 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 1967. - Loi sur [la prévention ou] la réparation des dommages résultant des accidents du travail, des accidents survenus sur le chemin du travail et des maladies professionnelles dans le secteur public. (intitulé modifié par L 1998-10-19/37, art. 2, 013; En vigueur : 25-11-1998)

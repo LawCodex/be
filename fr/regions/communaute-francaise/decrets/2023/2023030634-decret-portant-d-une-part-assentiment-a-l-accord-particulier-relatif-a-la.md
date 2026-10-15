@@ -13,7 +13,7 @@ entry_into_force: 2023-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/02/2023030634/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 2023. - Décret portant d'une part, assentiment à l'Accord particulier relatif à la coopération universitaire en formation médicale entre le Gouvernement du Grand-Duché de Luxembourg et le Gouvernement de la Communauté française, fait à Luxembourg le 4 janvier 2022, et modifiant, d'autre part, le décret du 16 juin 2006 régulant le nombre d'étudiants dans certains cursus de premier cycle de l'enseignement supérieur

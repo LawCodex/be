@@ -12,7 +12,7 @@ entry_into_force: 1999-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/07/1999009706/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 1999. - Wet tot wijziging van sommige bepalingen van het Strafwetboek, van het Wetboek van strafvordering, van de wet van 17 april 1878 houdende de voorafgaande Titel van het Wetboek van strafvordering, van de wet van 9 april 1930 tot bescherming van de maatschappij tegen de abnormalen en de gewoontemisdadigers, vervangen door de wet van 1 juli 1964, van de wet van 29 juni 1964 betreffende de opschorting, het uitstel en de probatie, van de wet van 20 juli 1990 betreffende de voorlopige hechtenis, van de wet van 5 maart 1998 betreffende de voorwaardelijke invrijheidstelling en tot wijziging van de wet van 9 april 1930 tot bescherming van de maatschappij tegen de abnormalen en de gewoontemisdadigers, vervangen door de wet van 1 juli 1964.

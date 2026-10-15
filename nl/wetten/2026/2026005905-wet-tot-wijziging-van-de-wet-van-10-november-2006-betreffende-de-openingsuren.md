@@ -12,7 +12,7 @@ entry_into_force: 2026-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/07/20/2026005905/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2026. - Wet tot wijziging van de wet van 10 november 2006 betreffende de openingsuren in handel, ambacht en dienstverlening en van de wet van 24 juni 2013 betreffende de gemeentelijke administratieve sancties

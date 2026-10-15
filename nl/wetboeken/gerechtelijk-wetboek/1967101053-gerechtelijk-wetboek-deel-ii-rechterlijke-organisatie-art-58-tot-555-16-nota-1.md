@@ -12,7 +12,7 @@ last_amended: 2026-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1967/10/10/1967101053/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 22-01-1985 en tekstbijwerking tot 23-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 1967. - GERECHTELIJK WETBOEK - Deel II : RECHTERLIJKE ORGANISATIE. (art. 58 tot 555/16) (NOTA 1 : art. 259bis-15 gewijzigd met ingang op een onbepaalde datum bij W 2014-04-04/44 , art. 2, zelf gewijzigd bij W 2016-05-04/03 , art. 139)(NOTA 2 : art. 259bis-18 gewijzigd met ingang op een onbepaalde datum bij W 2014-04-04/44 , art. 3)

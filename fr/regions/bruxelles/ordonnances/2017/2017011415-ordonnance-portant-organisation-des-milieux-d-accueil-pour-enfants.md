@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/03/23/2017011415/justel"
 department: "Commission communautaire commune"
 justel_note: "Consultation des versions antérieures à partir du 13-04-2017 et mise à jour au 27-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2017. - Ordonnance portant organisation des milieux d'accueil pour enfants

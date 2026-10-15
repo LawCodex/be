@@ -13,7 +13,7 @@ entry_into_force: 2007-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/14/2006204184/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2006. - Décret portant transposition de la Directive 2003/98/CE du Parlement européen et du Conseil du 17 novembre 2003 concernant la réutilisation des informations du secteur public et relatif à la publicité de l'administration dans les matières à l'égard desquelles la Région exerce les compétences de la Communauté française.

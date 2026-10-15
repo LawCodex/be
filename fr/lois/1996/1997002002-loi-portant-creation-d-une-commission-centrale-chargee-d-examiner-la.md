@@ -12,7 +12,7 @@ entry_into_force: 1997-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/20/1997002002/justel"
 department: "Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1996. - Loi portant création d'une Commission Centrale chargée d'examiner la concrétisation des revendications non satisfaites des anciens combattants et des victimes de la guerre en fonction des disponibilités budgétaires.

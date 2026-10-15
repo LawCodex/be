@@ -10,7 +10,7 @@ date: 1968-01-14
 published: 1968-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1968/01/14/1968011401/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 1968. - Wet houdende goedkeuring van de volgende internationale akten : 1. Europese Overeenkomst betreffende de bescherming van televisie-uitzendingen, opgemaakt te Straatsburg op 22 juni 1960; 2. Protocol bij deze Overeenkomst, opgemaakt te Straatsburg op 22 januari 1965, en tot wijziging van artikel 12 van de wet van 26 januari 1960.

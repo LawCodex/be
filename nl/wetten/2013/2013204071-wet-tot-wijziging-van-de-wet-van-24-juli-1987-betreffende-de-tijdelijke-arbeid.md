@@ -11,7 +11,7 @@ published: 2013-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/06/26/2013204071/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2013. - Wet tot wijziging van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers, wat de arbeidsovereenkomst voor uitzendarbeid betreft

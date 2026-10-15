@@ -11,7 +11,7 @@ published: 1955-01-26
 entry_into_force: 1955-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1955/01/10/1955011001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 1955. - Loi relative à la divulgation et à la mise en oeuvre des inventions et des secrets de fabrique intéressant la défense du territoire ou la sûreté de l'Etat.

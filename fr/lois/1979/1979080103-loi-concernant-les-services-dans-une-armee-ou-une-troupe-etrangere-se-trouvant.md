@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1979/08/01/1979080103/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 23-06-2003 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AOUT 1979. - Loi concernant les services dans une armée ou une troupe étrangère se trouvant sur le territoire d'un Etat étranger. -

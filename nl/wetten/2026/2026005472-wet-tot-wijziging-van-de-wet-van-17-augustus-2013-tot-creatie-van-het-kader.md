@@ -12,7 +12,7 @@ entry_into_force: 2026-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/06/25/2026005472/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2026. - Wet tot wijziging van de wet van 17 augustus 2013 tot creatie van het kader voor het invoeren van intelligente vervoerssystemen en tot wijziging van de wet van 10 april 1990 tot regeling van de private en bijzondere veiligheid, en tot wijziging van de wet van 2 oktober 2017 tot regeling van de private en bijzondere veiligheid

@@ -13,7 +13,7 @@ entry_into_force: 2023-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/11/10/2022042898/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2022. - Décret modifiant le décret du 30 mars 2007 relatif aux conventions Brownfield, le Code flamand de la Fiscalité du 13 décembre 2013, le décret du 19 décembre 2014 portant le Code Immobilier flamand et le Code flamand du Logement de 2021 du 17 juillet 2020

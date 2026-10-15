@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/25/2019041236/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 24-06-2019 et mise à jour au 30-08-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2019. - Décret mettant fin au cadre d'extinction prévu par l'article 469 du décret du 20 décembre 2001 fixant les règles spécifiques à l'enseignement supérieur artistique organisé en écoles supérieures des arts (organisation, financement, encadrement, statut des personnels, droits et devoirs des étudiants) et complétant le statut de directeur de domaine

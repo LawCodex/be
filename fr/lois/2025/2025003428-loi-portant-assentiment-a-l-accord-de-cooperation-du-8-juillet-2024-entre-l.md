@@ -12,7 +12,7 @@ entry_into_force: 2025-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/04/09/2025003428/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 AVRIL 2025. - Loi portant assentiment à l'Accord de coopération du 8 juillet 2024 entre l'Etat fédéral et la Région wallonne relatif à l'exécution des articles 19/1 à 19/3 de la loi du 15 mai 2014 portant exécution du pacte de compétitivité, d'emploi et de relance

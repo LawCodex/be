@@ -13,7 +13,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/14/2006036543/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2006. - Décret modifiant le décret du 28 février 2003 relatif à la politique flamande d'intégration civique (TRADUCTION).

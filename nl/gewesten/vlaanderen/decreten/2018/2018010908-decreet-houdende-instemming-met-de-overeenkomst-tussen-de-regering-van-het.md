@@ -13,7 +13,7 @@ entry_into_force: 2018-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/09/2018010908/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2018. - Decreet houdende instemming met de overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Democratische Volksrepubliek Algerije betreffende het luchtvervoer, gedaan te Brussel, op 27 februari 2017

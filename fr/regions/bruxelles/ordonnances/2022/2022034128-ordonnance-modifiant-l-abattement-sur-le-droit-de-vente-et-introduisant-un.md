@@ -13,7 +13,7 @@ entry_into_force: 2023-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/11/17/2022034128/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2022. - Ordonnance modifiant l'abattement sur le droit de vente et introduisant un abattement complémentaire sur le droit de vente en cas d'amélioration de la performance énergétique

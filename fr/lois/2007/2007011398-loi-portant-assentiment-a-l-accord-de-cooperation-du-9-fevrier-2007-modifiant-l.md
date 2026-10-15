@@ -12,7 +12,7 @@ entry_into_force: 2007-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/15/2007011398/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2007. - Loi portant assentiment à l'accord de coopération du 9 février 2007 modifiant l'accord de coopération du 13 décembre 2002 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'exécution et au financement de l'assainissement du sol des stations-service.

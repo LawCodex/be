@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/12/22/2001003096/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 22-03-2001 et mise à jour au 14-05-2002"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2000. - Loi contenant le budget général des dépenses pour l'année budgétaire 2001.

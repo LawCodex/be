@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/04/2014000362/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 28-05-2014 en tekstbijwerking tot 29-04-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2014. - Wet tot wijziging van artikel 41 van de wet van 5 augustus 1992 op het politieambt, met het oog op het waarborgen van de identificatie van de politieambtenaren en politieagenten en de betere bescherming van hun persoonlijke levenssfeer

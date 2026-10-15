@@ -13,7 +13,7 @@ entry_into_force: 2009-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202285/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet waarbij de titel "stad" aan de gemeente Herstal verleend wordt

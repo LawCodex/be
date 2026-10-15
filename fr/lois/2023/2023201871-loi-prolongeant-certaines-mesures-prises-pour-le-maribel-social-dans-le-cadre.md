@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/03/20/2023201871/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2023. - Loi prolongeant certaines mesures prises pour le Maribel social dans le cadre de la lutte contre la propagation du coronavirus COVID-19

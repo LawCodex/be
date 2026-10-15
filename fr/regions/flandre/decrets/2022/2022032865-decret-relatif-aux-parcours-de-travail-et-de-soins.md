@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/08/2022032865/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 03-08-2022 et mise à jour au 06-02-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2022. - Décret relatif aux parcours de travail et de soins

@@ -12,7 +12,7 @@ entry_into_force: 2012-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/07/19/2012204203/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2012. - Loi spéciale complétant l'article 92bis de la loi spéciale du 8 août 1980 de réformes institutionnelles, en ce qui concerne la communauté métropolitaine de Bruxelles

@@ -12,7 +12,7 @@ entry_into_force: 1981-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1981/01/15/1981000116/justel"
 department: "Classes Moyennes"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 1981. - Loi portant des mesures en vue de la couverture partielle des charges financières afférentes au déficit cumulé du régime de pension des travailleurs indépendants.

@@ -12,7 +12,7 @@ entry_into_force: 2022-10-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/07/20/2022032839/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2022. - Ordonnantie houdende instemming met het Wijzigingsprotocol ter modernisering van het Verdrag van de Raad van Europa tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens van 28 januari 1981, gedaan te Straatsburg op 29 oktober 2018

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/06/2014200333/justel"
 department: "Kanselarij van de Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 31-01-2014 en tekstbijwerking tot 13-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANUARI 2014. - Wet houdende oprichting van een Federale Deontologische Commissie [en houdende de Deontologische Code voor de openbare mandatarissen]&lt;W 2018-07-15/04 , art. 2, 003; Inwerkingtreding : 05-08-2018&gt;

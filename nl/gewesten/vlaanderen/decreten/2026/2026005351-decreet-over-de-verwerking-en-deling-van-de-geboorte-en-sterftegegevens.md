@@ -13,7 +13,7 @@ entry_into_force: 2026-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/19/2026005351/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2026. - Decreet over de verwerking en deling van de geboorte- en sterftegegevens

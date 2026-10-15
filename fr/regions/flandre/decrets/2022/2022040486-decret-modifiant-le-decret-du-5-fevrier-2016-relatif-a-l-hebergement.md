@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/11/2022040486/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 FEVRIER 2022. - Décret modifiant le décret du 5 février 2016 relatif à l'hébergement touristique et abrogeant le décret du 18 juillet 2003 relatif aux résidences et associations actives dans le cadre de " Toerisme voor Allen " (" Tourisme pour Tous ")

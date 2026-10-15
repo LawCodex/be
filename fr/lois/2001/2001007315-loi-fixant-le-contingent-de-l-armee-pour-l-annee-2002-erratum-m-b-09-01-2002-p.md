@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/12/17/2001007315/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2001. - Loi fixant le contingent de l'armée pour l'année [2002]. (Erratum, M.B. 09-01-2002, p. 595)

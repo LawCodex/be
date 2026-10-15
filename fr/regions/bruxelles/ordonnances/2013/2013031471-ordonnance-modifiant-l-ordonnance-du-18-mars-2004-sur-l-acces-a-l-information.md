@@ -13,7 +13,7 @@ entry_into_force: 2013-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/05/30/2013031471/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2013. - Ordonnance modifiant l'ordonnance du 18 mars 2004 sur l'accès à l'information relative à l'environnement dans la Région de Bruxelles-Capitale

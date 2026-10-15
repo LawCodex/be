@@ -13,7 +13,7 @@ entry_into_force: 1999-11-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/08/1999029315/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 1999. - [Décret portant confirmation de profils de formation tels que définis à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire.] &lt;DCFR 2007-01-25/44 , art. 1, 003; En vigueur : 21-03-2007&gt;

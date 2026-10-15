@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/03/12/2023041020/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAART 2023. - Wet tot modernisering van de btw-ketting en van de inning van fiscale en niet-fiscale schuldvorderingen binnen de FOD Financiën

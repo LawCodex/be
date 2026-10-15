@@ -12,7 +12,7 @@ entry_into_force: 2006-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/08/05/2006000604/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 AUGUSTUS 2006. - Wet tot wijziging van de wet van 7 juli 1994 betreffende de beperking en de controle van de verkiezingsuitgaven voor de verkiezing van de provincieraden, de gemeenteraden en de districtsraden en voor de rechtstreekse verkiezing van de raden voor maatschappelijk welzijn.

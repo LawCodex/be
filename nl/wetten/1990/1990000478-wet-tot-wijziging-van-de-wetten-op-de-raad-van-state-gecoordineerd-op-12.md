@@ -10,7 +10,7 @@ date: 1990-10-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/10/17/1990000478/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OKTOBER 1990. - Wet tot wijziging van de wetten op de Raad van State gecoördineerd op 12 januari 1973, en van de wet van 5 april 1955 inzake de wedden van de ambtsdragers bij de Raad van State.

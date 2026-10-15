@@ -12,7 +12,7 @@ entry_into_force: 2010-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/02/21/2010015044/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2010. - Loi portant assentiment à la Convention d'Unidroit sur l'affacturage international, faite à Ottawa le 28 mai 1988

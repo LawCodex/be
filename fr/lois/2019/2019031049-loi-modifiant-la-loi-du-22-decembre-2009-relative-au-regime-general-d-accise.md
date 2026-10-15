@@ -12,7 +12,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/12/20/2019031049/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2019. - Loi modifiant la loi du 22 décembre 2009 relative au régime général d'accise transposant la directive (UE) 2019/475

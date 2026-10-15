@@ -11,7 +11,7 @@ published: 2018-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/30/2018013415/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2018. - Wet tot wijziging van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt met het oog op het aanpassen van het wettelijk kader voor de strategische reserve

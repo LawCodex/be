@@ -13,7 +13,7 @@ entry_into_force: 2007-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/24/2007201979/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2007. - Décret relatif aux infractions et sanctions en matière d'urbanisme.

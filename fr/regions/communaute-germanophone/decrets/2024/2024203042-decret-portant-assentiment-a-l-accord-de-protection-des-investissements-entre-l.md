@@ -13,7 +13,7 @@ entry_into_force: 2024-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/06/2024203042/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2024. - Décret portant assentiment à l'Accord de protection des investissements entre l'Union européenne et ses Etats membres, d'une part, et la République socialiste du Viêt Nam, d'autre part, fait à Hanoï le 30 juin 2019

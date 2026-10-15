@@ -12,7 +12,7 @@ entry_into_force: 2026-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/06/17/2026004526/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2026. - Loi portant des modifications urgentes du Code judiciaire concernant le Fonds de solidarité de la Chambre nationale des huissiers de justice

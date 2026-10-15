@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1851/12/31/1851123151/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 01-09-2022 et mise à jour au 01-09-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 DECEMBRE 1851. - Loi sur les loteries

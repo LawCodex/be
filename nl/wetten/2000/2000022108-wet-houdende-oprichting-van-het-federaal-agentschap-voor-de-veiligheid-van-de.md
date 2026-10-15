@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/02/04/2000022108/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 18-02-2000 en tekstbijwerking tot 21-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2000. - Wet houdende oprichting van het federaal Agentschap voor de Veiligheid van de voedselketen.

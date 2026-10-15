@@ -13,7 +13,7 @@ entry_into_force: 2003-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/11/27/2003202136/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2003. - Decreet houdende instemming met het Protocol van 1996 bij het Verdrag van 1972 inzake de voorkoming van de verontreiniging van de zeeën ten gevolge van het storten van afvalstoffen, gesloten te Londen op 7 november 1996. (Vertaling).

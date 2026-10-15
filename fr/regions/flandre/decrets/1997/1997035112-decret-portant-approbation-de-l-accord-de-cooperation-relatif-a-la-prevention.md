@@ -13,7 +13,7 @@ entry_into_force: 1997-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/01/21/1997035112/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JANVIER 1997. - Décret portant approbation de l'accord de coopération relatif à la prévention et la gestion des déchets d'emballage. (TRADUCTION).

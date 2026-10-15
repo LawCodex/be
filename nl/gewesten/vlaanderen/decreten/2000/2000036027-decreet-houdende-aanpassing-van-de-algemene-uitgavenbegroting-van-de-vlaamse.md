@@ -11,7 +11,7 @@ date: 2000-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/06/30/2000036027/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2000. - Decreet houdende aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2000.

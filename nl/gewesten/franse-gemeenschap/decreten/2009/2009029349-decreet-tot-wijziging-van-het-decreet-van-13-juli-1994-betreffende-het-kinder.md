@@ -13,7 +13,7 @@ entry_into_force: 2009-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009029349/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet tot wijziging van het decreet van 13 juli 1994 betreffende het kinder- en jeugdtoneel

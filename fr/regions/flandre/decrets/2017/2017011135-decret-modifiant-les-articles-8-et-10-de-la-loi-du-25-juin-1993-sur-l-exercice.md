@@ -13,7 +13,7 @@ entry_into_force: 2017-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/24/2017011135/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2017. - Décret modifiant les articles 8 et 10 de la loi du 25 juin 1993 sur l'exercice et l'organisation des activités ambulantes et foraines

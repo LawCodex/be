@@ -13,7 +13,7 @@ entry_into_force: 2023-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/09/28/2023205749/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBRE 2023. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, à la Convention du Conseil de l'Europe sur une approche intégrée de la sécurité, de la sûreté et des services lors de matches de football et autres manifestations sportives, faite à Saint-Denis le 3 juillet 2016

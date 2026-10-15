@@ -12,7 +12,7 @@ entry_into_force: 2018-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/11/2018012161/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2016. - Loi portant assentiment à la Convention entre le Royaume de Belgique et le Royaume de Norvège tendant à éviter la double imposition en matière d'impôts sur le revenu et à prévenir la fraude fiscale, et au Protocole, signés à Oslo le 23 avril 2014

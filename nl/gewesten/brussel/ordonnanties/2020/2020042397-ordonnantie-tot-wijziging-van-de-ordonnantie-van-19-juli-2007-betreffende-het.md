@@ -13,7 +13,7 @@ entry_into_force: 2020-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/07/17/2020042397/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2020. - Ordonnantie tot wijziging van de ordonnantie van 19 juli 2007 betreffende het preventieve gezondheidsbeleid

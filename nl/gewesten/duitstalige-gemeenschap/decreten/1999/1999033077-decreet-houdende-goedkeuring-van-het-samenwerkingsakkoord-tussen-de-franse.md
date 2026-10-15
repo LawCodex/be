@@ -13,7 +13,7 @@ entry_into_force: 2000-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/03/29/1999033077/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 1999. - Decreet houdende goedkeuring van het samenwerkingsakkoord tussen de Franse Gemeenschap, de Vlaamse Gemeenschap en de Duitstalige Gemeenschap van 25 juli 1997 betreffende de heffing van het kijk- en luistergeld (VERTALING).

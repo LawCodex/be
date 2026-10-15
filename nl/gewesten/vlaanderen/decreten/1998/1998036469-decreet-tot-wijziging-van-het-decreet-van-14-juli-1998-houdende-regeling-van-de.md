@@ -13,7 +13,7 @@ entry_into_force: 1999-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/12/15/1998036469/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 1998. - Decreet tot wijziging van het decreet van 14 juli 1998 houdende regeling van de bij het Vlaams Parlement ingediende verzoekschriften.

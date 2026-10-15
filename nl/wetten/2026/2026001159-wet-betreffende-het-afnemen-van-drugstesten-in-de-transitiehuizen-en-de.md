@@ -12,7 +12,7 @@ entry_into_force: 2026-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/02/08/2026001159/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 2026. - Wet betreffende het afnemen van drugstesten in de transitiehuizen en de vervallenverklaring van de Belgische nationaliteit

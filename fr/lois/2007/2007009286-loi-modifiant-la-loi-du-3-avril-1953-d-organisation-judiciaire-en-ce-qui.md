@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/12/2007009286/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 27-03-2007 et mise à jour au 16-02-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MARS 2007. - Loi modifiant la loi du 3 avril 1953 d'organisation judiciaire en ce qui concerne la cour d'appel de Mons et le tribunal de première instance de Gand et autorisant temporairement la nomination de magistrats en surnombre, en ce qui concerne la cour d'appel de Mons

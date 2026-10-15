@@ -12,7 +12,7 @@ entry_into_force: 2021-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/05/21/2021031561/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MEI 2021. - Wet houdende goedkeuring van de inschrijving van België op de algemene kapitaalverhoging van de Internationale Financieringsmaatschappij en houdende goedkeuring van de wijziging van de statuten van de Internationale Financieringsmaatschappij

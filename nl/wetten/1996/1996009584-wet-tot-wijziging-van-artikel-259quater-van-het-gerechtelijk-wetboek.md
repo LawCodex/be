@@ -11,7 +11,7 @@ published: 1996-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/07/19/1996009584/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 1996. - Wet tot wijziging van artikel 259quater van het Gerechtelijk Wetboek.

@@ -13,7 +13,7 @@ entry_into_force: 2006-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/02/2006035959/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2006. - Decreet tot wijziging van het provinciedecreet van 9 december 2005.

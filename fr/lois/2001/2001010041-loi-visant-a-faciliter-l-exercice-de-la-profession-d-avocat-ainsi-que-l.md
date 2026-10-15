@@ -12,7 +12,7 @@ entry_into_force: 2001-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/11/22/2001010041/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2001. - Loi visant à faciliter l'exercice de la profession d'avocat ainsi que l'établissement en Belgique d'avocats ressortissants d'un autre Etat membre de l'Union européenne.

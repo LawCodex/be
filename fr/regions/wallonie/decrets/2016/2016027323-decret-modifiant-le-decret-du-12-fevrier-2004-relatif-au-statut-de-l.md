@@ -13,7 +13,7 @@ entry_into_force: 2016-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/11/24/2016027323/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 2016. - Décret modifiant le décret du 12 février 2004 relatif au statut de l'administrateur public pour les matières réglées en vertu de l'article 138 de la Constitution et le décret du 12 février 2004 relatif aux commissaires du Gouvernement et aux missions de contrôle des réviseurs au sein des organismes d'intérêt public pour les matières réglées en vertu de l'article 138 de la Constitution

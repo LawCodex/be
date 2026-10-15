@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/09/2020044371/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 17-12-2020 en tekstbijwerking tot 12-04-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2020. - Decreet houdende bekrachtiging van diverse besluiten van bijzondere machten van de Regering van de Franse Gemeenschap inzake het leerplichtonderwijs overeenkomstig artikel 4, eerste lid, van het decreet van 17 maart 2020 tot toekenning van bijzondere machten aan de Regering in het kader van de gezondheidscrisis van COVID-19 en tot wijziging van de besluiten van bijzondere machten van de Regering van de Franse Gemeenschap n. 33 van 18 juni 2020 betreffende de aanpassing van het tijdschema van de externe evaluaties die niet bekrachtigd worden voor het schooljaar 2020-2021 in het kader van de COVID-19- gezondheidscrisis en nr. 34 van 18 juni 2020 houdende afwijking van enkele bepalingen betreffende de sturing van het onderwijsstelsel in het kader van de COVID-gezondheidscrisis-19

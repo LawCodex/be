@@ -12,7 +12,7 @@ entry_into_force: 2002-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/07/10/2002003364/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2002. - Loi contenant le règlement définitif des budgets des services d'administration générale de l'Etat et du Service de l'Etat à gestion séparée " Fonds Monétaire " pour l'année 1998.

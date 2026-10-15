@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/25/2024001063/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2024. - Décret relatif à l'octroi de subventions pluriannuelles s'inscrivant dans le cadre de la mise en oeuvre du Plan social santé intégré bruxellois pour des projets dans les secteurs de l'aide aux personnes et de la santé en ce compris de la promotion de la santé

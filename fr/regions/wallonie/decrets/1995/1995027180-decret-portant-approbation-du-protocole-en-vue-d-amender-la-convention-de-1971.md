@@ -13,7 +13,7 @@ entry_into_force: 1995-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/03/23/1995027180/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 1995. - Décret portant approbation du Protocole en vue d'amender la Convention de 1971 relative aux zones humides d'importance internationale particulièrement comme habitats de la sauvagine, fait à Paris le 3 décembre 1982, et des Amendements à la Convention relative aux zones humides d'importance internationale particulièrement comme habitats des oiseaux d'eau, adoptés à Régina le 28 mai 1987.

@@ -12,7 +12,7 @@ entry_into_force: 2010-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/04/30/2010011196/justel"
 department: "Technologie de l'information et de la communication"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2010. - Loi modifiant la loi du 6 mai 2009 portant des dispositions diverses en ce qui concerne la poursuite de la promotion de la possession d'un ordinateur

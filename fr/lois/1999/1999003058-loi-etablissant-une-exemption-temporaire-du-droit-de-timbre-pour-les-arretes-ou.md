@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/20/1999003058/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 1999. - Loi établissant une exemption temporaire du droit de timbre pour les arrêtés ou extraits de comptes dressés en raison de la conversion de comptes bancaires en euro.

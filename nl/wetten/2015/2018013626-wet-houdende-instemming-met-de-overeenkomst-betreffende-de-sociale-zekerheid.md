@@ -10,7 +10,7 @@ date: 2015-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/09/2018013626/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2015. - Wet houdende instemming met de Overeenkomst betreffende de sociale zekerheid tussen de Regering van het Koninkrijk België en de Regering van de Republiek Turkije, gedaan te Ankara op 11 april 2014

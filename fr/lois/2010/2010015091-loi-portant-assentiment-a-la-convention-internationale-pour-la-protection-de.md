@@ -12,7 +12,7 @@ entry_into_force: 2011-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/04/06/2010015091/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 2010. - Loi portant assentiment à la Convention internationale pour la protection de toutes les personnes contre les disparitions forcées, adoptée à New York le 20 décembre 2006

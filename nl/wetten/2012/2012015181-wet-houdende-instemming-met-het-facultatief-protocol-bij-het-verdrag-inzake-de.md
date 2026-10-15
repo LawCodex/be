@@ -11,7 +11,7 @@ published: 2012-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/09/01/2012015181/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 SEPTEMBER 2012. - Wet houdende instemming met het Facultatief Protocol bij het Verdrag inzake de veiligheid van VN-personeel en geassocieerd personeel, gedaan te New York op 8 december 2005

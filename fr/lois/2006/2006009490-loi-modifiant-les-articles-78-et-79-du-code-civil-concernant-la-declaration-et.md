@@ -12,7 +12,7 @@ entry_into_force: 2006-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/23/2006009490/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2006. - Loi modifiant les articles 78 et 79 du Code civil concernant la déclaration et les actes de décès.

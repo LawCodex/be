@@ -12,7 +12,7 @@ entry_into_force: 2019-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/12/19/2019010636/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2018. - Loi contenant le règlement définitif des budgets d'organismes d'intérêt public pour l'année 2014

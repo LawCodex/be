@@ -13,7 +13,7 @@ entry_into_force: 2011-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/02/03/2011031080/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2011. - Ordonnance modifiant les articles 97 à 114 de l'ordonnance du 17 juillet 2003 portant le Code bruxellois du Logement, relatifs au Conseil consultatif du Logement

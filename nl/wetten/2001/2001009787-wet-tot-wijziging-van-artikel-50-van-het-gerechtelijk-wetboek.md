@@ -11,7 +11,7 @@ entry_into_force: 2001-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/06/26/2001009787/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2001. - Wet tot wijziging van artikel 50 van het Gerechtelijk Wetboek.

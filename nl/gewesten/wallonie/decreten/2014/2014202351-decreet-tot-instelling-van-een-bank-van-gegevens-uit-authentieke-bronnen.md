@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/27/2014202351/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Decreet tot instelling van een bank van gegevens uit authentieke bronnen betreffende de non-profit tewerkstelling in Wallonië, met name het kadaster van de non-profit tewerkstelling in Wallonië, afgekort " CENM ", wat betreft de aangelegenheden bedoeld in artikel 138 van de Grondwet

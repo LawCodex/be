@@ -13,7 +13,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/17/2014200805/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANUARI 2014. - Decreet houdende wijziging van het KLIP-decreet van 14 maart 2008, wat betreft de wijze van het afhandelen van een planaanvraag

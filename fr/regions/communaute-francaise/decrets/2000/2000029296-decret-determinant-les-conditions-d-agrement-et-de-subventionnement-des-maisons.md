@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/07/20/2000029296/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 26-08-2000 et mise à jour au 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2000. - [Décret déterminant les conditions d'agrément et de subventionnement des maisons de jeunes, centres de rencontres et d'hébergement et centres d'information des jeunes et de leurs fédérations.] &lt;DCFR 2008-05-09/83 , art. 1, 007; En vigueur : 01-01-2008&gt;

@@ -13,7 +13,7 @@ entry_into_force: 2023-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/02/27/2023201455/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2023. - Décret portant assentiment au traité sur la reconnaissance automatique des qualifications de l'enseignement supérieur, fait à Bruxelles le 14 septembre 2021

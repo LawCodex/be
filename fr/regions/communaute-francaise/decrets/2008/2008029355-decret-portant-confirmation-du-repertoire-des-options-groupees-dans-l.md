@@ -13,7 +13,7 @@ entry_into_force: 2008-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/23/2008029355/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2008. - Décret portant confirmation du répertoire des options groupées dans l'enseignement secondaire.

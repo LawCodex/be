@@ -12,7 +12,7 @@ entry_into_force: 2022-11-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/10/11/2022033914/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 OCTOBRE 2022. - Loi modifiant la loi du 31 janvier 2003 sur la sortie progressive de l'énergie nucléaire à des fins de production industrielle d'électricité

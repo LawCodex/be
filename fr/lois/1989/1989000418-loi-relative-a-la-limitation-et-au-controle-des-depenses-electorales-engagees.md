@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/07/04/1989000418/justel"
 department: "Intérieur - Fonction publique"
 justel_note: "Consultation des versions antérieures à partir du 30-08-2000 et mise à jour au 21-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 1989. - Loi relative à la limitation et au contrôle des dépenses électorales [engagées [pour l'élection de la Chambre des représentants]], ainsi qu'au financement et à la comptabilité ouverte des partis politiques. (Intitulé remplacé par L 1994-05-19/62 , art. 1; En vigueur : 25-05-1994 et modifié par L 2014-01-06/56 , art. 2, 013; En vigueur : 25-05-2014)

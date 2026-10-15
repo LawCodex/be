@@ -12,7 +12,7 @@ entry_into_force: 2002-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/05/14/2000015122/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MAI 2000. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement du Royaume du Maroc concernant l'encouragement et la protection réciproques des investissements, fait à Rabat le 13 avril 1999.

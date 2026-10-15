@@ -13,7 +13,7 @@ entry_into_force: 2011-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/05/19/2011031291/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2011. - Ordonnance visant à transposer, partiellement, la Directive 2006/123/CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services en Région de Bruxelles-Capitale

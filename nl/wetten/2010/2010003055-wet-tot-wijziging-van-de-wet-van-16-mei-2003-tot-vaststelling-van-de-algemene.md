@@ -12,7 +12,7 @@ entry_into_force: 2010-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/01/18/2010003055/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JANUARI 2010. - Wet tot wijziging van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof

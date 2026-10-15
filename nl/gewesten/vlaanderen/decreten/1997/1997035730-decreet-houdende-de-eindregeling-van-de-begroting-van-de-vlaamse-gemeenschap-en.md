@@ -13,7 +13,7 @@ entry_into_force: 1997-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/02/25/1997035730/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 1997. - Decreet houdende de eindregeling van de begroting van de Vlaamse Gemeenschap en van de instellingen van openbaar nut voor het begrotingsjaar 1987.

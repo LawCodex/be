@@ -13,7 +13,7 @@ entry_into_force: 1999-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/05/24/2002035732/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 2002. - Decreet houdende wijziging van artikel 116octies decies van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 25 januari 1995.

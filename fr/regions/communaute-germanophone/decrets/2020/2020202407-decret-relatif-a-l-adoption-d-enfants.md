@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/04/27/2020202407/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 03-06-2020 et mise à jour au 16-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2020. - Décret relatif à l'adoption d'enfants

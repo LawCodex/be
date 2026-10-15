@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/03/18/2014000253/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 28-03-2014 en tekstbijwerking tot 29-04-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 2014. - Wet betreffende het politionele informatiebeheer en tot wijziging van de wet van 5 augustus 1992 op het politieambt, de wet van 8 december 1992 tot bescherming van de persoonlijke levensfeer ten opzichte van de verwerking van persoonsgegevens en het Wetboek van strafvordering

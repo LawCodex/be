@@ -13,7 +13,7 @@ entry_into_force: 2027-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/07/18/2025006320/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2025. - Decreet tot wijziging van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid, wat betreft de meldingsplicht en het bron- en contactonderzoek voor infectieziekten, het immunisatiebeleid en de verwerking van persoonsgegevens in het kader van de bevolkingsonderzoeken en initiatieven met betrekking tot leefstijlfactoren

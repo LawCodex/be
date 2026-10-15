@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/14/2024008186/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2024. - Décret introduisant des dispositions relatives à l'accueil de jour des personnes sans abri ou sans chez soi dans le Code wallon de l'Action sociale et de la Santé

@@ -13,7 +13,7 @@ entry_into_force: 1993-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/12/09/1994027602/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 1993. - Décret habilitant le Gouvernement wallon à accorder la garantie de la Région wallonne pour les emprunts contractés par les cinq sociétés wallonnes de droit public d'administration des bâtiments scolaires de l'enseignement organisé par les pouvoirs publics.

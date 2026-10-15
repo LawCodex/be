@@ -12,7 +12,7 @@ entry_into_force: 2009-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/02/19/2009009182/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2009. - Loi modifiant le Code civil et l'article 1399 du Code judiciaire en ce qui concerne l'opposition au mariage

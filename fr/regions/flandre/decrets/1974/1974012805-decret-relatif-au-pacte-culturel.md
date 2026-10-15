@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1974/01/28/1974012805/justel"
 department: "Education nationale et Culture néerlandaise"
 justel_note: "Consultation des versions antérieures à partir du 13-01-2010 et mise à jour au 13-01-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 1974. - Décret relatif au Pacte culturel.

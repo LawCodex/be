@@ -13,7 +13,7 @@ entry_into_force: 2008-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/03/06/2008031114/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2008. - Ordonnantie houdende goedkeuring van het samenwerkingsakkoord van 1 februari 2007 afgesloten tussen het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschap en de Franse Gemeenschapscommissie betreffende de uitrusting ter beschikking gesteld in het kader van de herwaardering van het kwalificerend onderwijs en de samenwerking tussen de Centra voor spitstechnologie en de Beroepsreferentiecentra.

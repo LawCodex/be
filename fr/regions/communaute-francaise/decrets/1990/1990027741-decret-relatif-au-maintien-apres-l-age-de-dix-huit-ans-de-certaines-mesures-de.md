@@ -13,7 +13,7 @@ entry_into_force: 1990-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/05/14/1990027741/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAI 1990. - Décret relatif au maintien, après l'âge de dix-huit ans, de certaines mesures de protection de la jeunesse.

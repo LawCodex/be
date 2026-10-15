@@ -12,7 +12,7 @@ entry_into_force: 2025-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/12/19/2025009849/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2025. - Wet tot wijziging van het Wetboek van de belasting over de toegevoegde waarde betreffende de plaats van sommige diensten en betreffende de winstmargeregeling op de levering van kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten

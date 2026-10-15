@@ -12,7 +12,7 @@ entry_into_force: 2002-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/06/26/2002003343/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2002. - Wet tot bekrachtiging van het koninklijk besluit van 13 juli 2001 houdende uitvoering van de wet van 30 juni 2000 betreffende de invoering van de euro in de wetgeving die betrekking heeft op aangelegenheden als bedoeld in artikel 77 van de Grondwet, wat de bezoldigingsregeling van de magistraten en van de griffiers van de Rechterlijke Orde, en van de secretarissen van de parketten, betreft.

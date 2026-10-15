@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/06/2012204477/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 16-08-2012 et mise à jour au 29-12-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2012. - Décret portant la promotion et le subventionnement d'une politique sportive locale

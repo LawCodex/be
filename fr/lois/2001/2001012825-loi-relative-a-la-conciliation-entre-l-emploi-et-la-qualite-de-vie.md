@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/08/10/2001012825/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 15-09-2001 et mise à jour au 31-12-2002"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2001. - Loi relative à la conciliation entre l'emploi et la qualité de vie.

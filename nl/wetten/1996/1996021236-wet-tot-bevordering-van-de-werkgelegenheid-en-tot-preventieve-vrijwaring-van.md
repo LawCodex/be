@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/07/26/1996021236/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 01-08-1996 en tekstbijwerking tot 15-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JULI 1996. - Wet tot bevordering van de werkgelegenheid en tot preventieve vrijwaring van het concurrentievermogen.

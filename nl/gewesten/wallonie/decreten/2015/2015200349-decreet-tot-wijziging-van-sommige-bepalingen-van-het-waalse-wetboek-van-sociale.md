@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/01/22/2015200349/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 2015. - Decreet tot wijziging van sommige bepalingen van het Waalse Wetboek van Sociale Actie en Gezondheid betreffende de sociale akkoorden in de non-profitsector

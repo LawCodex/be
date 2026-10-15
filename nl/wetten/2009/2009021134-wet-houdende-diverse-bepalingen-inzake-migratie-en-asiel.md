@@ -12,7 +12,7 @@ entry_into_force: 2010-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/12/23/2009021134/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2009. - Wet houdende diverse bepalingen inzake migratie en asiel

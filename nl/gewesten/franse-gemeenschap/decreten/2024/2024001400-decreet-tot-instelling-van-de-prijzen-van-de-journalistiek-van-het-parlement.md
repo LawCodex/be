@@ -13,7 +13,7 @@ entry_into_force: 2024-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/02/01/2024001400/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2024. - Decreet tot instelling van de prijzen van de journalistiek van het Parlement van de Franse Gemeenschap

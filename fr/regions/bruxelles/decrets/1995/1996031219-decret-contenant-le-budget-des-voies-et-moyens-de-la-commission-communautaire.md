@@ -13,7 +13,7 @@ entry_into_force: 1996-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/12/18/1996031219/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 1995. - Décret contenant le budget des Voies et Moyens de la Commission communautaire française pour l'année budgétaire 1996.

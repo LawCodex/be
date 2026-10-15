@@ -13,7 +13,7 @@ entry_into_force: 2020-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/20/2020203207/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2020. - Decreet betreffende het contactonderzoek in het kader van de bestrijding van de gezondheidscrisis die door het coronavirus (COVID-19) is ontstaan

@@ -16,7 +16,7 @@ department: "Economie, PME, Classes moyennes et Energie"
 justel_notes:
   - "les modifications introduites par les art. 153 à 170 de la loi du 20 juillet 2020 ( 2020-07-20/12 ) sur les art. 6, 29, 30, 31, 33, 34, 37, 39, 50, 51 52, 54, 62, 72, 77, 85, 98 et 117 ont été annulées par l'arrêt n° 166/2021 du 18 novembre 2021 de la Cour Constitutionnelle ( 2021-11-18/21 ) avec maintien des effets jusqu'au 31 mars 2022 inclus"
   - "Consultation des versions antérieures à partir du 27-03-2019 et mise à jour au 20-12-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2019. - Loi relative aux professions d'expert-comptable et de conseiller fiscal

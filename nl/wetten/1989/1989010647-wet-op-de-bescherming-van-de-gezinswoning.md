@@ -12,7 +12,7 @@ entry_into_force: 1990-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/12/22/1989010647/justel"
 department: "Economische Zaken - Justitie - Financiën"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1989. - Wet op de bescherming van de gezinswoning.

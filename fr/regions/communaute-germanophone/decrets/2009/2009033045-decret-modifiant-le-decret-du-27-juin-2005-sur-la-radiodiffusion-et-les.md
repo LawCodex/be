@@ -13,7 +13,7 @@ entry_into_force: 2009-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/12/03/2009033045/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2009. - Décret modifiant le décret du 27 juin 2005 sur la radiodiffusion et les représentations cinématographiques (Texte publié par ADDENDUM, voir M.B. 16-02-2010, p.9446-9459)

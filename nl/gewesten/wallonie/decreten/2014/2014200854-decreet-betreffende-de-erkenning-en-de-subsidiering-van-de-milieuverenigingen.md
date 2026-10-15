@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/01/23/2014200854/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 10-02-2014 en tekstbijwerking tot 05-04-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 2014. - Decreet betreffende de erkenning en de subsidiëring van de milieuverenigingen en tot wijziging van Boek I van het Milieuwetboek en van het decreet van 6 november 2008 houdende rationalisatie van de adviesverlenende functie

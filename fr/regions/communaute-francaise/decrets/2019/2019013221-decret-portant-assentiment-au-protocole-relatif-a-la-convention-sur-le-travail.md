@@ -13,7 +13,7 @@ entry_into_force: 2019-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/25/2019013221/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2019. - Décret portant assentiment au Protocole relatif à la Convention sur le travail forcé, adopté par la Conférence internationale du travail à sa cent troisième session, Genève, le 11 juin 2014

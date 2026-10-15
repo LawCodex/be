@@ -13,7 +13,7 @@ entry_into_force: 2022-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/04/28/2022041029/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2022. - Ordonnance portant assentiment à la Convention de Strasbourg de 2012 sur la limitation de la responsabilité en navigation intérieure (CLNI 2012), faite à Strasbourg le 27 septembre 2012

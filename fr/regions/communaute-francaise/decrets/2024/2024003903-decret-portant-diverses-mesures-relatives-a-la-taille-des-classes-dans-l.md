@@ -13,7 +13,7 @@ entry_into_force: 2024-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/04/2024003903/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2024. - Décret portant diverses mesures relatives à la taille des classes dans l'enseignement obligatoire

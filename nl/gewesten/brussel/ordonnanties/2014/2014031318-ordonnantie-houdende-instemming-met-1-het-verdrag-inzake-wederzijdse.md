@@ -13,7 +13,7 @@ entry_into_force: 2014-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/03/27/2014031318/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Ordonnantie houdende instemming met : 1° het Verdrag inzake wederzijdse administratieve bijstand in fiscale aangelegenheden, en de bijlagen A, B en C, gedaan te Straatsburg op 25 januari 1988, en met 2° het Protocol tot wijziging van het Verdrag inzake wederzijdse administratieve bijstand in fiscale aangelegenheden, gedaan te Parijs op 27 mei 2010

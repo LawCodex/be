@@ -13,7 +13,7 @@ entry_into_force: 2024-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/02/01/2024001045/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2024. - Ordonnantie betreffende economische migratie

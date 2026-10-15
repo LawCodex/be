@@ -12,7 +12,7 @@ entry_into_force: 2025-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/02/12/2023040943/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEBRUARI 2023. - Wet houdende instemming met de Overeenkomst tussen de regering van het Koninkrijk België en de regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de bescherming van geclassificeerde informatie, gedaan te Brussel op 1 december 2020

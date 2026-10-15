@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/12/2021034488/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2021 en tekstbijwerking tot 23-08-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 2021. - Wet tot uitvoering van het sociaal akkoord in het kader van de interprofessionele onderhandelingen voor de periode 2021-2022

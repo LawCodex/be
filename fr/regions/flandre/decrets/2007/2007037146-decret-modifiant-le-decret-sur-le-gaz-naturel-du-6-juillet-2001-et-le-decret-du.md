@@ -13,7 +13,7 @@ entry_into_force: 2007-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/23/2007037146/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2007. - Décret modifiant le décret sur le gaz naturel du 6 juillet 2001 et le décret du 25 mai 2007 modifiant le décret du 20 décembre 1996 réglant le droit à la fourniture minimale d'électricité, de gaz et d'eau, en ce qui concerne l'électricité et le gaz, le décret du 17 juillet 2000 relatif à l'organisation du marché de l'électricité, en ce qui concerne les obligations de service public, et le décret du 6 juillet 2001 relatif à l'organisation du marché du gaz, en ce qui concerne les obligations de service public (TRADUCTION).

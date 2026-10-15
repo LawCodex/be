@@ -12,7 +12,7 @@ entry_into_force: 2017-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/15/2017031763/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2013. - Loi en matière de dispositifs médicaux. - Publication conformément à l'article 34 des montants indexés des contributions

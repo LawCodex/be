@@ -12,7 +12,7 @@ entry_into_force: 2025-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/03/20/2025002472/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2025. - Wet tot wijziging van de wet van 12 april 1965 betreffende het vervoer van gasachtige produkten en andere door middel van leidingen, en van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt, inzake de mededeling van vertrouwelijke informatie

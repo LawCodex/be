@@ -13,7 +13,7 @@ entry_into_force: 2015-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/05/15/2015029249/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2015. - Décret portant assentiment à l'Accord de coopération, conclu le 26 février 2015 entre la Communauté française, la Région wallonne et la Commission communautaire française, concernant la création et la gestion d'un Cadre francophone des certifications, en abrégé " C.F.C "

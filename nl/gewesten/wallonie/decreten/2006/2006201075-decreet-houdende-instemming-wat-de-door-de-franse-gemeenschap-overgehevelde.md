@@ -13,7 +13,7 @@ entry_into_force: 2006-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/03/16/2006201075/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAART 2006. - Decreet houdende instemming, wat de door de Franse Gemeenschap overgehevelde materies betreft, met de Overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republieken Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua en Panama, anderzijds, en de Bijlage, gedaan te Rome op 15 december 2003 (VERTALING).HI:??2,Zitting 2005-2006. Stukken van de Raad 298 (2005-2006), nrs. 1 en 2. Volledig verslag, openbare vergadering van 15 maart 2006. Bespreking. Stemming.

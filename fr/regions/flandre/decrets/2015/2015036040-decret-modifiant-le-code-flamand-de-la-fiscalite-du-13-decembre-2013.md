@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/07/17/2015036040/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 14-08-2015 et mise à jour au 29-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2015. - Décret modifiant le Code flamand de la Fiscalité du 13 décembre 2013

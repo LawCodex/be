@@ -13,7 +13,7 @@ entry_into_force: 2013-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/07/2013203914/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 2013. - Décret portant assentiment 1° à la Convention entre le Royaume de Belgique et la République d'Islande tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et au Protocole, les deux signés à Bruxelles le 23 mai 2000, tels que modifiés par le Protocole du 15 septembre 2009; 2° au Protocole modifiant la Convention visée au 1°, signé à Bruxelles le 15 septembre 2009

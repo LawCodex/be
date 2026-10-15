@@ -12,7 +12,7 @@ entry_into_force: 2025-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/06/12/2025201793/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2025. - Révision de l'article 151, § 6, de la Constitution en vue de permettre l'évaluation des chefs de corps de la magistrature

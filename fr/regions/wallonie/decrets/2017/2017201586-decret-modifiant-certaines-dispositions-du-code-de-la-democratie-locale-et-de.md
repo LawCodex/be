@@ -13,7 +13,7 @@ entry_into_force: 2017-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/03/09/2017201586/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2017. - Décret modifiant certaines dispositions du Code de la démocratie locale et de la décentralisation relatives aux élections locales

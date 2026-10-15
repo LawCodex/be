@@ -12,7 +12,7 @@ entry_into_force: 2026-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/06/12/2026004640/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2026. - Loi portant abrogation des articles 18ter, 18quater, 21ter et 21quater de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, et de l'article 16, alinéa 1er, 6°, des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973, relatifs aux recours en matière de validité des élections et démissions des membres du conseil de police

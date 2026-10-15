@@ -12,7 +12,7 @@ entry_into_force: 2019-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/02/2019041244/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Loi modifiant la loi du 22 décembre 2016 instaurant un droit passerelle en faveur des travailleurs indépendants et l'arrêté royal du 8 janvier 2017 portant exécution de la loi du 22 décembre 2016 instaurant un droit passerelle en faveur des indépendants

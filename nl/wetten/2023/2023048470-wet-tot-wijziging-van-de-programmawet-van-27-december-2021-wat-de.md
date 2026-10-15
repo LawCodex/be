@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/12/21/2023048470/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2023. - Wet tot wijziging van de programmawet van 27 december 2021, wat de responsabiliseringsbijdrage inzake invaliditeit verschuldigd door bepaalde werkgevers betreft

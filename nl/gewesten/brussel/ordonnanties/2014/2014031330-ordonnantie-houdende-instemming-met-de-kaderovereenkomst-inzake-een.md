@@ -13,7 +13,7 @@ entry_into_force: 2014-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/04/03/2014031330/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2014. - Ordonnantie houdende instemming met : de Kaderovereenkomst inzake een Partnerschap en Samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en Mongolië, anderzijds, gedaan te Oelan Bator op 30 april 2013

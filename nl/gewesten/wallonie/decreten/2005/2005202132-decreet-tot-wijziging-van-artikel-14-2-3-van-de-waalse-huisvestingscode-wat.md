@@ -12,7 +12,7 @@ published: 2005-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/20/2005202132/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2005. - Decreet tot wijziging van artikel 14, § 2, 3°, van de Waalse Huisvestingscode wat betreft de aangelegenheden die krachtens artikel 138 van de Grondwet geregeld worden (VERTALING).

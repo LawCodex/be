@@ -12,7 +12,7 @@ published: 2019-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/06/2019202793/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2019. - Decreet houdende maatregelen inzake onderwijs - 2019

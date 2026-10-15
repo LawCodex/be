@@ -13,7 +13,7 @@ entry_into_force: 2014-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/12/20/2014031055/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2013. - Ordonnance (communautaire) portant sur l'approbation de l'Accord de coopération du 29 novembre 2013 entre l'Etat fédéral, les Communautés, les Régions et les Commissions communautaires relatif à la mise en oeuvre de l'article 3, § 1er, du Traité sur la stabilité, la coordination et la gouvernance au sein de l'Union économique et monétaire et adoptant des dispositions régionales en matière budgétaire, adaptées à certaines dispositions dudit Accord

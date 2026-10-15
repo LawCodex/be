@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/12/21/2007021149/justel"
 department: "Kanselarij van de Eerste Minister"
 justel_note: "Art. 44 opgeheven met ingang op een onbepaalde datum bij <W 2007-12-21/38 , art. 45, 002; Inwerkingtreding : onbepaald >). (NOTA : Raadpleging van vroegere versies vanaf 31-12-2007 en tekstbijwerking tot 26-03-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2007. - Wet houdende diverse bepalingen (I).

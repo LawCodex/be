@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/30/2004035776/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-11-2006 en tekstbijwerking tot 05-08-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2004. - Decreet tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Reguleringsinstantie voor de Elektriciteits- en Gasmarkt.

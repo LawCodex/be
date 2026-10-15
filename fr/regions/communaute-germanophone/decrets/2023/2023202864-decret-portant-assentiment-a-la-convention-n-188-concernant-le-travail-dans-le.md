@@ -13,7 +13,7 @@ entry_into_force: 2023-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/24/2023202864/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2023. - Décret portant assentiment à la Convention n° 188 concernant le travail dans le secteur de la pêche, adoptée à Genève le 14 juin 2007 par la Conférence générale de l'Organisation internationale du Travail à sa 96e session

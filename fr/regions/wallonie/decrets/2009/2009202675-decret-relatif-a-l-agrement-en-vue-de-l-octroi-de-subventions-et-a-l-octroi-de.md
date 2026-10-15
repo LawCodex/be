@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009202675/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 21-12-2011 et mise à jour au 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret relatif à l'agrément en vue de l'octroi de subventions et à l'octroi de subventions aux réseaux et aux services d'aide et de soins spécialisés en assuétudes ainsi qu'à la reconnaissance en vue de l'octroi de subventions et à l'octroi de subventions à leurs fédérations

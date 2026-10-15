@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/05/29/2020021027/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 02-06-2020 en tekstbijwerking tot 30-12-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MEI 2020. - Decreet tot organisatie van [...] en het [centrale] contactonderzoek [door een samenwerkingsverband van externe partners, het lokale contactonderzoek door lokale besturen of zorgraden en tot organisatie van de COVID-19-teams] in het kader van COVID-19 (Opschrift gewijzigd door DVR 2020-12-18/04 , art. 7, 002; Inwerkingtreding : 01-07-2020)

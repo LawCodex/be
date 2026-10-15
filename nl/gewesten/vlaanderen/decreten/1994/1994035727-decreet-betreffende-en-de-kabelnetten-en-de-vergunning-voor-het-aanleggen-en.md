@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/05/04/1994035727/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 01-09-2015 en tekstbijwerking tot 01-09-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 1994. - DECREET betreffende en de kabelnetten en de vergunning voor het aanleggen en exploiteren ervan en betreffende het bevorderen van de verspreiding en produktie van televisieprogramma's

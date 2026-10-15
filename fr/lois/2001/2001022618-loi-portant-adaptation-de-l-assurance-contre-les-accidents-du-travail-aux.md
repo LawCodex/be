@@ -12,7 +12,7 @@ entry_into_force: 2001-09-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/08/10/2001022618/justel"
 department: "Affaires sociales - Santé Publique et Environnement - Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2001. - Loi portant adaptation de l'assurance contre les accidents du travail aux directives européennes concernant l'assurance directe autre que l'assurance sur la vie.

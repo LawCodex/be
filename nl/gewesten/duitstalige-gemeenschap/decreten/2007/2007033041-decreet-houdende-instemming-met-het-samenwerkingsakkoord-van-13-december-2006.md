@@ -13,7 +13,7 @@ entry_into_force: 2007-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/05/07/2007033041/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2007. - Decreet houdende instemming met het samenwerkingsakkoord van 13 december 2006 tussen de federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de inwerkingtreding van artikel 7, 7° van de wet van 13 juni 2006 tot wijziging van de wetgeving betreffende de jeugdbescherming en het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2008-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/29/2008200904/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 FEVRIER 2008. - Décret modifiant l'article 85 du décret du 15 juillet 1997 contenant le Code flamand du logement en ce qui concerne le droit au préachat (TRADUCTION).

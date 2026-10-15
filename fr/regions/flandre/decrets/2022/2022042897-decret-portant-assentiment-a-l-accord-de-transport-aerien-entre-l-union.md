@@ -13,7 +13,7 @@ entry_into_force: 2023-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/11/10/2022042897/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2022. - Décret portant assentiment à l'accord de transport aérien entre l'Union européenne et ses Etats membres, d'une part, et l'Etat du Qatar, d'autre part, fait à Luxembourg le 18 octobre 2021

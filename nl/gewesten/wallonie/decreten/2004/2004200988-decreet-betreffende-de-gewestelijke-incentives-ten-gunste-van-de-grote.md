@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/11/2004200988/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 08-04-2004 en tekstbijwerking tot 20-08-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2004. - Decreet betreffende de gewestelijke incentives ten gunste van de grote ondernemingen (VERTALING).

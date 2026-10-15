@@ -10,7 +10,7 @@ date: 2005-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/07/20/2005009631/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2005. - Wet tot wijziging van de wet van 26 maart 2003 houdende oprichting van een Centraal Orgaan voor de Inbeslagneming en de Verbeurdverklaring en houdende bepalingen inzake het waardevast beheer van in beslag genomen goederen en de uitvoering van bepaalde vermogenssancties.

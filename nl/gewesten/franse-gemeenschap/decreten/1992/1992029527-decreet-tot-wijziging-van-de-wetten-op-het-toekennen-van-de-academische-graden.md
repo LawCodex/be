@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1992/07/29/1992029527/justel"
 department: "Franse Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 21/10/1992 en tekstbijwerking tot 08/11/1994"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JULI 1992. - DECREET tot wijziging van de wetten op het toekennen van de academische graden en het programma van de universitaire examens en houdende maatregelen ten gunste van de houders van een diploma van de Koninklijke Militaire School (VERTALING)

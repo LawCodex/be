@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/01/2004201566/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 20-12-2007 et mise à jour au 20-08-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2004. - Décret relatif à l'agrément et au subventionnement des organismes d'insertion socioprofessionnelle et des entreprises de formation par le travail.

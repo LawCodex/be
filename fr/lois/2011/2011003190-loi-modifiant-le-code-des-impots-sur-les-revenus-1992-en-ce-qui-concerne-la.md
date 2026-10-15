@@ -12,7 +12,7 @@ entry_into_force: 2010-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/04/28/2011003190/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2011. - Loi modifiant le Code des impôts sur les revenus 1992 en ce qui concerne la dispense de versement du précompte professionnel retenu sur les rémunérations des sportifs

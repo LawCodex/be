@@ -13,7 +13,7 @@ entry_into_force: 2024-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/15/2023048525/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2023. - Décret portant assentiment à l'accord de coopération du 5 janvier 2021 entre les Ministres de l'Agriculture de l'Etat fédéral et des Régions concernant la répartition des missions pour l'application des mesures de protection contre les organismes nuisibles aux végétaux

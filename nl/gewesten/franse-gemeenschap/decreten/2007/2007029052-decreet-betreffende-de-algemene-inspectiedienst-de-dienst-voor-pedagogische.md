@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/03/08/2007029052/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 05-06-2007 en tekstbijwerking tot 09-10-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 2007. - Decreet betreffende de algemene inspectiedienst, de dienst voor pedagogische raadgeving en begeleiding van het door de Franse Gemeenschap georganiseerde onderwijs, de cellen voor pedagogische raadgeving en begeleiding van het door de Franse Gemeenschap gesubsidieerde onderwijs en betreffende het statuut van de personeelsleden van de algemene inspectiedienst en van de pedagogische adviseurs.

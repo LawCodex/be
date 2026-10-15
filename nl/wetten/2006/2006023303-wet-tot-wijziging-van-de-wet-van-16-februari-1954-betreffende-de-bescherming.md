@@ -12,7 +12,7 @@ entry_into_force: 2006-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/11/26/2006023303/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2006. - Wet tot wijziging van de wet van 16 februari 1954 betreffende de bescherming van de blindenstok en tot opheffing van de wet van 4 juli 1991 tot bescherming van de slechtzienden en erkenning van de " gele stok ".

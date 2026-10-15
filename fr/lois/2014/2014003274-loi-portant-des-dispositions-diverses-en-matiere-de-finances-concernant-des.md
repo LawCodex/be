@@ -12,7 +12,7 @@ entry_into_force: 2014-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/27/2014003274/justel"
 department: "Economie, PME, Classes moyennes et Energie - Intérieur - Justice - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2014. - Loi portant des dispositions diverses en matière de finances concernant des matières visées à l'article 77 de la Constitution

@@ -12,7 +12,7 @@ entry_into_force: 1998-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/04/23/1998015175/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 1998. - Loi portant assentiment au troisième Protocole annexé à l'Accord général sur le commerce des services, fait à Genève le 6 octobre 1995.

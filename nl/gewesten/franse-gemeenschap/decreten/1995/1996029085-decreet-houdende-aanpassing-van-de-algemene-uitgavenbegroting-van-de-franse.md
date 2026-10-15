@@ -13,7 +13,7 @@ entry_into_force: 1995-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/12/20/1996029085/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 1995. - Decreet houdende aanpassing van de algemene uitgavenbegroting van de Franse Gemeenshap voor het begrotingsjaar 1995. (Vertaling)

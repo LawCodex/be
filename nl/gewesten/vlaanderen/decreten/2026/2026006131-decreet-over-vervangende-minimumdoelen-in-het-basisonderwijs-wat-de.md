@@ -12,7 +12,7 @@ published: 2026-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/03/2026006131/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2026. - Decreet over vervangende minimumdoelen in het basisonderwijs, wat de vakdisciplines Nederlands, wiskunde, wetenschap en techniek, aardrijkskunde, geschiedenis, muzische vorming, ICT en attitudes betreft, op initiatief van de Federatie Steinerscholen Vlaanderen vzw

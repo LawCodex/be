@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/11/13/2025203744/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2025. - Wet tot wijziging van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap, wat betreft de wettelijke pensioenleeftijd

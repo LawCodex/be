@@ -13,7 +13,7 @@ entry_into_force: 2004-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/23/2004035805/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2004. - Décret portant assentiment à l'Accord euro-méditerranéen établissant une association entre la Communauté européenne et ses Etats membres, d'une part, et la République démocratique libanaise, d'autre part, et à l'Acte final, signés à Luxembourg le 17 juin 2002 (TRADUCTION).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/08/02/2002003381/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 29-08-2002 en tekstbijwerking tot 21-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AUGUSTUS 2002. - Programmawet.

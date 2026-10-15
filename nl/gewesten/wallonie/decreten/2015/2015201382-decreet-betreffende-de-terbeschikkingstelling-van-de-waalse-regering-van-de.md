@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/03/12/2015201382/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAART 2015. - Decreet betreffende de terbeschikkingstelling van de Waalse Regering van de personeelsleden van instellingen van openbaar nut en van andere diensten van de Staat die overeenkomstig de zesde Staatshervorming naar het Waalse Gewest worden overgedragen

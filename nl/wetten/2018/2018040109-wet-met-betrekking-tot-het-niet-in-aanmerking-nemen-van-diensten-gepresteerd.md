@@ -12,7 +12,7 @@ entry_into_force: 2018-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/30/2018040109/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2018. - Wet met betrekking tot het niet in aanmerking nemen van diensten gepresteerd als nietvastbenoemd personeelslid voor een pensioen van de overheidssector, tot wijziging van de individuele responsabilisering van de provinciale en lokale overheden binnen het Gesolidariseerde pensioenfonds, tot aanpassing van de reglementering inzake aanvullende pensioenen, tot wijziging van de modaliteiten van de financiering van het Gesolidariseerde pensioenfonds van de provinciale en plaatselijke besturen en tot bijkomende financiering van het Gesolidariseerde pensioenfonds van de provinciale en plaatselijke besturen

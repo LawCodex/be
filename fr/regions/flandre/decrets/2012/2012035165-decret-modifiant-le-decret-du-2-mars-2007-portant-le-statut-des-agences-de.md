@@ -13,7 +13,7 @@ entry_into_force: 2012-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/02/17/2012035165/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2012. - Décret modifiant le décret du 2 mars 2007 portant le statut des agences de voyage

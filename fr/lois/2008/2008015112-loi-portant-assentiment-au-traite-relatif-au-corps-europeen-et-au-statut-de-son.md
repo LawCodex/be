@@ -12,7 +12,7 @@ entry_into_force: 2009-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/19/2008015112/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2008. - Loi portant assentiment au Traité relatif au Corps européen et au statut de son Quartier général entre la République française, la République fédérale d'Allemagne, le Royaume de Belgique, le Royaume d'Espagne et le grand-duché de Luxembourg, et à l'Acte final, faits à Bruxelles le 22 novembre 2004.

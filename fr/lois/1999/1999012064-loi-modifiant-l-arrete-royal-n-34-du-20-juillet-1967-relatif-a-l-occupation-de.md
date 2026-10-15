@@ -12,7 +12,7 @@ entry_into_force: 1999-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/02/09/1999012064/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 1999. - Loi modifiant l'arrêté royal n° 34 du 20 juillet 1967 relatif à l'occupation de travailleurs de nationalité étrangère.

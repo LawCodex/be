@@ -13,7 +13,7 @@ entry_into_force: 2004-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/04/2004200046/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2003. - Decreet houdende instemming, wat de door de Franse Gemeenschap overgehevelde materies betreft, met het Protocol nr. 12 bij de Conventie voor de Bescherming van de Mensenrechten en de Fundamentele Vrijheden, opgemaakt te Rome op 4 november 2000. (Vertaling).

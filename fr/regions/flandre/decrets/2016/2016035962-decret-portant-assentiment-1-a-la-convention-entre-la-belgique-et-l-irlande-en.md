@@ -13,7 +13,7 @@ entry_into_force: 2016-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/03/2016035962/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2016. - Décret portant assentiment 1° à la convention entre la Belgique et l'Irlande en vue d'éviter la double imposition et l'évasion fiscale en matière d'impôts sur le revenu, signée à Bruxelles le 24 juin 1970, telle que modifiée par le protocole, signé au Luxembourg le 14 avril 2014 ; 2° au protocole, signé au Luxembourg le 14 avril 2014 modifiant la convention visée au point 1°

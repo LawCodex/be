@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/08/16/2016204157/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 05-09-2016 en tekstbijwerking tot 29-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 AUGUSTUS 2016. - Wet met betrekking tot de fusie van het fonds voor arbeidsongevallen en het fonds voor de beroepsziekten

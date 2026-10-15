@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/03/2003009444/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 02-06-2003 en tekstbijwerking tot 26-02-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2003. - Wet tot wijziging van sommige bepalingen van deel II van het Gerechtelijk Wetboek.

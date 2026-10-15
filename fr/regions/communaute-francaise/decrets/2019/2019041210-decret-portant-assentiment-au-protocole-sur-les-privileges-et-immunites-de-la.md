@@ -13,7 +13,7 @@ entry_into_force: 2019-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/25/2019041210/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2019. - Décret portant assentiment au Protocole sur les privilèges et immunités de la juridiction unifiée du brevet, fait à Bruxelles le 29 juin 2016

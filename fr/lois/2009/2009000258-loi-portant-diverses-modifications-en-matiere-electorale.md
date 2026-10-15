@@ -12,7 +12,7 @@ entry_into_force: 2009-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/04/14/2009000258/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 AVRIL 2009. - Loi portant diverses modifications en matière électorale

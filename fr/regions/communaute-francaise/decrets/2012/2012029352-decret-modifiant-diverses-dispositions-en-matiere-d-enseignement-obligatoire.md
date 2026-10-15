@@ -13,7 +13,7 @@ entry_into_force: 2012-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/12/2012029352/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2012. - Décret modifiant diverses dispositions en matière d'enseignement obligatoire

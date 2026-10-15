@@ -12,7 +12,7 @@ entry_into_force: 2005-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/28/2005011224/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2005. - Loi modifiant la loi du 28 mars 1984 sur les brevets d'invention, en ce qui concerne la brevetabilité des inventions biotechnologiques.

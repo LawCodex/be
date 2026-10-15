@@ -12,7 +12,7 @@ entry_into_force: 2012-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/03/2012011348/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AOUT 2012. - Loi modifiant l'article 3, § 1er, 3°, de la loi du 12 juin 1991 relative au crédit à la consommation

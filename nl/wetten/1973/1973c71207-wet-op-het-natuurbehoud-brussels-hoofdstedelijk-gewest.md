@@ -13,7 +13,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1973/07/12/1973C71207/justel"
 justel_notes:
   - "Voor de vroegere versies, zie archief van de federale vorm W 1973-07-12/30 "
   - "Raadpleging van vroegere versies vanaf 16-03-2012 en tekstbijwerking tot 21-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 1973. - Wet op het natuurbehoud - Brussels Hoofdstedelijk Gewest

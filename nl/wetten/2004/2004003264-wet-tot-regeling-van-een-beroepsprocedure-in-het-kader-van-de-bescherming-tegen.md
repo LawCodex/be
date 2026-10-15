@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/05/12/2004003264/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 05-07-2004 en tekstbijwerking tot 30-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Wet tot regeling van een beroepsprocedure in het kader van de bescherming tegen valsemunterij [en de handhaving van de kwaliteit van de geldomloop] &lt;W 2013-07-18/29 , art. 2, 002; Inwerkingtreding : 13-09-2013&gt;

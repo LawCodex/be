@@ -12,7 +12,7 @@ entry_into_force: 2003-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/22/2003003256/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2003. - Loi visant à modifier le Code de la taxe sur la valeur ajoutée.

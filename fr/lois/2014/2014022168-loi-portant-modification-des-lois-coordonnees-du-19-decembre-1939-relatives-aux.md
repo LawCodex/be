@@ -12,7 +12,7 @@ entry_into_force: 2014-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/04/04/2014022168/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2014. - Loi portant modification des lois coordonnées du 19 décembre 1939 relatives aux allocations familiales pour travailleurs salariés

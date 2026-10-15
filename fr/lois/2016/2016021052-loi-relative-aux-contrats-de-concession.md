@@ -16,7 +16,7 @@ department: "Chancellerie du Premier Ministre"
 justel_notes:
   - "art. 32/1 modifié avec effet à une date indéterminée par L 2019-04-07/03 , art. 14, 003; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 14-07-2016 et mise à jour au 16-02-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2016. - Loi relative aux contrats de concession

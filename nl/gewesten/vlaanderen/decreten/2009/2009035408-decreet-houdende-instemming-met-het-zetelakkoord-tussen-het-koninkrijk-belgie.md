@@ -13,7 +13,7 @@ entry_into_force: 2009-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/03/2009035408/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2009. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en het Internationaal Comité voor Militaire Geneeskunde, ondertekend in Brussel op 2 juni 2008

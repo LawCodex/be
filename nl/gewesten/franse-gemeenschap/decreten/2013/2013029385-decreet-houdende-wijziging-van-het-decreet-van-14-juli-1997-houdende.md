@@ -13,7 +13,7 @@ entry_into_force: 2013-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/06/2013029385/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2013. - Decreet houdende wijziging van het decreet van 14 juli 1997 houdende organisatie van de gezondheidspromotie in de Franse Gemeenschap

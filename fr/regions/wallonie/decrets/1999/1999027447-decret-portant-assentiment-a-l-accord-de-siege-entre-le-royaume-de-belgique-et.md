@@ -13,7 +13,7 @@ entry_into_force: 1993-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/06/1999027447/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 1999. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'Agence spatiale européenne, fait à Paris le 26 janvier 1993.

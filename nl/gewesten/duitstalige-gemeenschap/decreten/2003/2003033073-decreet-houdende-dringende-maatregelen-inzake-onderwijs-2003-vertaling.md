@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/06/30/2003033073/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 10-10-2003 en tekstbijwerking tot 14-10-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2003. - Decreet houdende dringende maatregelen inzake onderwijs 2003 (VERTALING)

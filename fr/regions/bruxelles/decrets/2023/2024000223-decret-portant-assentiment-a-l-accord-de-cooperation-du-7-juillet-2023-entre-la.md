@@ -13,7 +13,7 @@ entry_into_force: 2024-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/09/20/2024000223/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBRE 2023. - Décret portant assentiment à l'accord de coopération du 7 juillet 2023 entre la Communauté française, la Région wallonne et la Commission communautaire française relatif à la généralisation de l'éducation à la vie relationnelle, affective et sexuelle

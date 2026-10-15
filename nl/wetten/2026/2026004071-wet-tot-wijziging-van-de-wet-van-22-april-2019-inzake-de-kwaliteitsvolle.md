@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/05/25/2026004071/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Met uitzondering van artikel 3, paragrafen 7 en 8, die in werking treden op de datum van publicatie van deze wet in het Belgisch Staatsblad, zijn de bepalingen van hoofdstuk 2 slechts van toepassing op de procedures die door de Toezichtcommissie of de inspecteurs bedoeld in artikel 49, § 1, van de wet van 22 april 2019 inzake de kwaliteitsvolle praktijkvoering in de gezondheidszorg, worden opgestart na de inwerkingtreding van deze wet."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2026. - Wet tot wijziging van de wet van 22 april 2019 inzake de kwaliteitsvolle praktijkvoering in de gezondheidszorg en tot wijziging van de gecoördineerde wet van 10 mei 2015 betreffende de uitoefening van de gezondheidszorgberoepen

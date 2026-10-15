@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/02/2006029100/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 23-08-2006 et mise à jour au 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2006. - Décret relatif au cadre organique et au statut des puériculteurs des établissements d'enseignement maternel ordinaire organisés et subventionnés par la Communauté française

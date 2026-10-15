@@ -12,7 +12,7 @@ entry_into_force: 2001-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/07/16/2001011319/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2001. - Wet tot wijziging van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen en tot bekrachtiging van het koninklijk besluit van 18 januari 2001 betreffende het voorlopige systeem tot dekking van de werkingskosten van de Commissie voor de Regulering van de Elektriciteit en het Gas (CREG).

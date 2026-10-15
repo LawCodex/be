@@ -13,7 +13,7 @@ entry_into_force: 2021-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/03/11/2021030688/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2021. - Décret modifiant le décret du 21 février 2019 visant à renforcer la qualité et l'accessibilité de l'accueil de la petite enfance en Communauté française pour y intégrer un chapitre II/1 relatif au traitement des données à caractère personnel

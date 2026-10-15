@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/12/2024004562/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2024. - Wet tot regeling van de medische evaluatie van de arbeidsgeschiktheid van de ambtenaren van sommige overheidsdiensten door het Bestuur van de medische expertise

@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017030639/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2017. - Décret portant modification de la loi du 14 août 1986 relative à la protection et au bien-être des animaux, en ce qui concerne les méthodes autorisées pour l'abattage des animaux

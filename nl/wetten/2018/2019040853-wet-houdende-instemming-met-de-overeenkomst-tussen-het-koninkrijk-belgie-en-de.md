@@ -12,7 +12,7 @@ entry_into_force: 2019-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/09/05/2019040853/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 SEPTEMBER 2018. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Argentinië inzake het verrichten van betaalde werkzaamheden door de gezinsleden ten laste van het personeel van de diplomatieke zendingen en consulaire posten, gedaan te Brussel op 20 april 2017

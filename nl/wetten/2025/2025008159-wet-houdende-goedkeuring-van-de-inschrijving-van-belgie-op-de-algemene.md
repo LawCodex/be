@@ -11,7 +11,7 @@ published: 2025-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/10/16/2025008159/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 2025. - Wet houdende goedkeuring van de inschrijving van België op de algemene kapitaalverhoging van de Europese Bank voor Wederopbouw en Ontwikkeling

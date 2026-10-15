@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/05/05/2023042523/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-05-2023 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2023. - Décret sur la qualité des soins dans le domaine politique du Bien-être, de la Santé publique et de la Famille

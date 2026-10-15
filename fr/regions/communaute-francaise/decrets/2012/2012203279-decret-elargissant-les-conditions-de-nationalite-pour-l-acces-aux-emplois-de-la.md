@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/19/2012203279/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 21-06-2012 et mise à jour au 18-07-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2012. - Décret élargissant les conditions de nationalité pour l'accès aux emplois de la Fonction publique de la Communauté française

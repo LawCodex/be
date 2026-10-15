@@ -12,7 +12,7 @@ entry_into_force: 2026-10-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/24/2026006730/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 2026. - Loi modifiant la loi du 19 juillet 2018 relative à l'accessibilité des sites internet et des applications mobiles des organismes du secteur public et la loi du 4 mai 2016 relative aux données ouvertes et à la réutilisation des informations du secteur public

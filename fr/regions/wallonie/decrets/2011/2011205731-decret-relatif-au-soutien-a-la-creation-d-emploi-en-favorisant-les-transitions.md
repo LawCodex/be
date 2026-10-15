@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/10/27/2011205731/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 16-11-2011 et mise à jour au 03-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2011. - Décret relatif au soutien à la création d'emploi en favorisant les transitions professionnelles vers le statut d'indépendant à titre principal

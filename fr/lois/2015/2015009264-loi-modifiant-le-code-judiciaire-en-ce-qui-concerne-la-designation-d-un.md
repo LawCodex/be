@@ -12,7 +12,7 @@ entry_into_force: 2015-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/05/21/2015009264/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 2015. - Loi modifiant le Code judiciaire en ce qui concerne la désignation d'un séquestre

@@ -12,7 +12,7 @@ entry_into_force: 1998-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/07/27/1998015218/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JULI 1997. - Wet houdende instemming met de internationale Akten, ondertekend op 6 november 1992 te Madrid betreffende de toetreding van de Helleense Republiek tot het Akkoord inzake de geleidelijke afschaffing van de controles aan de gemeenschappelijke grenzen, ondertekend te Schengen op 14 juni 1985 en tot de Overeenkomst ter uitvoering van dit Akkoord, ondertekend te Schengen op 19 juni 1990.

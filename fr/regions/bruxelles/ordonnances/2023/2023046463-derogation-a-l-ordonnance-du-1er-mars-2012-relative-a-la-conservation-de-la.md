@@ -13,7 +13,7 @@ entry_into_force: 2023-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/12/11/2023046463/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2023. - Dérogation à l'Ordonnance du 1er mars 2012 relative à la conservation de la nature

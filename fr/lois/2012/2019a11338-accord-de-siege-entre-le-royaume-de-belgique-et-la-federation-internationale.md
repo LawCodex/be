@@ -12,7 +12,7 @@ entry_into_force: 2022-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/06/29/2019A11338/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2012. - Accord de Siège entre le Royaume de Belgique et la Fédération internationale des Sociétés de la Croix-Rouge et du Croissant-Rouge

@@ -13,7 +13,7 @@ entry_into_force: 2024-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/03/2024004856/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2024. - Decreet tot regeling van de grenscorrectie tussen de gemeente Haacht en de gemeente Rotselaar

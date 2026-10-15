@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/10/25/2018032186/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 16-11-2018 en tekstbijwerking tot 05-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 OKTOBER 2018. - Decreet betreffende het " Entreprise publique des Technologies nouvelles de l'Information et de la Communication de la Communauté française (ETNIC) " (Overheidsbedrijf voor Nieuwe Informatie- en Communicatietechnologieën van de Franse Gemeenschap)

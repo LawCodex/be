@@ -13,7 +13,7 @@ entry_into_force: 2021-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/11/26/2021043308/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2021. - Décret portant assentiment à l'accord entre le Royaume de Belgique et l'Ukraine sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel diplomatique et consulaire, signé à Bruxelles le 10 février 2021

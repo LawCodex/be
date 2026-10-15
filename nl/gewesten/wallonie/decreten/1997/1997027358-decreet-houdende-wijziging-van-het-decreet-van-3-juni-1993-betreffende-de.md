@@ -13,7 +13,7 @@ entry_into_force: 1997-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/06/26/1997027358/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 1997. - Decreet houdende wijziging van het decreet van 3 juni 1993 betreffende de algemene principes van het beheersplan voor gemeenten met schuldenlast en van het decreet van 23 maart 1995 houdende oprichting van een gewestelijk hulpcentrum voor gemeenten dat instaat voor de follow-up van en de controle op de beheersplannen van de met schulden bezwaarde gemeenten en dat het financiële evenwicht van de gemeenten van het Waalse Gewest moet helpen handhaven (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2005-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/05/20/2005035672/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 2005. - Décret portant assentiment à la Convention du 4 avril 2003 entre l'Etat fédéral et les Régions visant à mettre en oeuvre le programme du Réseau express régional de, vers, dans et autour de Bruxelles (TRADUCTION).

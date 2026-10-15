@@ -12,7 +12,7 @@ entry_into_force: 2006-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/12/30/2006014043/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBRE 2005. - Loi portant assentiment de la Convention du 4 avril 2003 visant à mettre en oeuvre le programme du réseau express régional de, vers, dans et autour de Bruxelles.

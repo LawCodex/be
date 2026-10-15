@@ -11,7 +11,7 @@ date: 2026-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/16/2026006401/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2026. - Decreet tot wijziging van het decreet van 21 december 2022 betreffende de erkenning en de subsidiëring van de "structures d'accompagnement à l'autocréation d'emploi" (begeleidingsstructuren voor zelftewerkstelling) (afgekort: S.A.A.C.E.) Samenstelling

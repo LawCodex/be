@@ -12,7 +12,7 @@ entry_into_force: 1999-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/25/1999015121/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 1999. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Tunesische Republiek betreffende rechtshulp in burgerlijke zaken en handelszaken, ondertekend te Tunis op 27 april 1989

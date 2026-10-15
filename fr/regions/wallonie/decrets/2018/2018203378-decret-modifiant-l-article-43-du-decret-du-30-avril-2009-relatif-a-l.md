@@ -13,7 +13,7 @@ entry_into_force: 2018-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/21/2018203378/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2018. - Décret modifiant l'article 43 du décret du 30 avril 2009 relatif à l'information, la coordination et l'organisation des chantiers sous, sur ou au-dessus des voiries ou des cours d'eau

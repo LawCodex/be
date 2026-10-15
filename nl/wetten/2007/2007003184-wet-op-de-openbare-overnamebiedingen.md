@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/01/2007003184/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 26-04-2007 en tekstbijwerking tot 07-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2007. - Wet op de openbare overnamebiedingen.

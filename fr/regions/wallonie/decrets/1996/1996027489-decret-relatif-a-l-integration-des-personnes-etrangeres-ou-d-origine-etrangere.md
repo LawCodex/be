@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/04/1996027489/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 08-01-2002 et mise à jour au 21-12-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 1996. - Décret relatif à l'intégration des personnes étrangères ou d'origine étrangère.

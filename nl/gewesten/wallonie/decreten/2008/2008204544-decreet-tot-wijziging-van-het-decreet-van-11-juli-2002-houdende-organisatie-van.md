@@ -13,7 +13,7 @@ entry_into_force: 2008-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/11/20/2008204544/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 2008. - Decreet tot wijziging van het decreet van 11 juli 2002 houdende organisatie van het statuut van de "Société wallonne de Financement et de Garantie des Petites et Moyennes Entreprises", afgekort "SOWALFIN".

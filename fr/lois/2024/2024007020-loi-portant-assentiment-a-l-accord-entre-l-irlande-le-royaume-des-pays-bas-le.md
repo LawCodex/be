@@ -12,7 +12,7 @@ entry_into_force: 2024-09-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/06/21/2024007020/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2024. - Loi portant assentiment à l'Accord entre l'Irlande, le Royaume des Pays -Bas, le Royaume d'Espagne, la République italienne, la République portugaise, la République française et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord établissant un Centre opérationnel d'Analyse du Renseignement maritime pour les Stupéfiants, fait à Lisbonne le 30 septembre 2007

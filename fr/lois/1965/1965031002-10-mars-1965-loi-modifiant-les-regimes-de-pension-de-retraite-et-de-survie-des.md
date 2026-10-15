@@ -11,7 +11,7 @@ published: 1965-03-13
 entry_into_force: 1965-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1965/03/10/1965031002/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 1965. \_ Loi modifiant les régimes de pension de retraite et de survie des ouvriers, des employés et des assurés libres.

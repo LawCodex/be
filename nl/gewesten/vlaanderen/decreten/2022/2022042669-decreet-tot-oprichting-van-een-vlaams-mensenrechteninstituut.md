@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/10/28/2022042669/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 09-11-2022 en tekstbijwerking tot 17-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2022. - Decreet tot oprichting van een Vlaams Mensenrechteninstituut

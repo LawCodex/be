@@ -12,7 +12,7 @@ entry_into_force: 2007-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/23/2007003302/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2007. - Loi modifiant certaines lois relatives aux dotations allouées à la Cour des comptes, aux Médiateurs fédéraux, aux Commissions de nomination pour le notariat et à la Commission de la protection de la vie privée.

@@ -12,7 +12,7 @@ entry_into_force: 2013-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/01/14/2013009078/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 2013. - Loi portant diverses dispositions relatives à la réduction de la charge de travail au sein de la justice

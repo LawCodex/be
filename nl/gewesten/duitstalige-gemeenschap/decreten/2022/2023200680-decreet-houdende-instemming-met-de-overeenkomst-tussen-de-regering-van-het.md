@@ -13,7 +13,7 @@ entry_into_force: 2023-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/14/2023200680/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2022. - Decreet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België, de Regering van de Vlaamse Gemeenschap, de Regering van de Franse Gemeenschap, de Regering van de Duitstalige Gemeenschap, de Regering van het Vlaamse Gewest, de Regering van het Waalse Gewest, de Regering van het Brussels Hoofdstedelijk Gewest en de Regering van de Franse Republiek inzake het vervoer van lijken over land, gedaan te Parijs op 9 maart 2020

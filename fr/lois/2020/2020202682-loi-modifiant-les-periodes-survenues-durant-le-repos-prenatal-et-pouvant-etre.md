@@ -12,7 +12,7 @@ entry_into_force: 2020-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/12/2020202682/justel"
 department: "Sécurité sociale - Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2020. - Loi modifiant les périodes survenues durant le repos prénatal et pouvant être prises en compte pour la prolongation du repos postnatal

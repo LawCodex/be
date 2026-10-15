@@ -13,7 +13,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/03/31/1994029206/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 1994. - Decreet houdende goedkeuring van het samenwerkingsakkoord van 29 november 1993 waarbij een einde wordt gemaakt aan het samenwerkingsakkoord betreffende het gezamenlijk uitoefenen van bevoegdheden door de Franse Gemeenschap en het Waalse Gewest gesloten te Namen, op 17 november 1990 en gewijzigd bij het Samenwerkingsakkoord van 2 april 1992.

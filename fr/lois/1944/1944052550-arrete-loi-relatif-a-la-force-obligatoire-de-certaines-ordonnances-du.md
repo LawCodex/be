@@ -11,7 +11,7 @@ published: 1944-09-02
 entry_into_force: 1944-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1944/05/25/1944052550/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 1944. - ARRETE-LOI relatif à la force obligatoire de certaines ordonnances du Commandant en chef des armées alliées.

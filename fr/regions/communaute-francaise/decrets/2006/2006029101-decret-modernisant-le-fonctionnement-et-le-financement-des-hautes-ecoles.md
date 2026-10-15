@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/30/2006029101/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 14-08-2006 et mise à jour au 22-02-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2006. - Décret modernisant le fonctionnement et le financement des hautes écoles.

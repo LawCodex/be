@@ -12,7 +12,7 @@ entry_into_force: 1997-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/02/28/1997021070/justel"
 department: "Eerste Minister - Justitie - Openbaar Ambt"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 1997. - Wet tot wijziging van de wet van 17 december 1996 houdende tijdelijke en gedeeltelijke uitvoering van artikel 103 van de Grondwet.

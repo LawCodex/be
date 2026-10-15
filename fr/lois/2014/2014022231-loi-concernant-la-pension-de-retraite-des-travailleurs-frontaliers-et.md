@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/15/2014022231/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2014. - Loi concernant la pension de retraite des travailleurs frontaliers et saisonniers et la pension de survie de leur conjoint survivant

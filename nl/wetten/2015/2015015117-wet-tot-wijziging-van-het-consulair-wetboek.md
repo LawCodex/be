@@ -12,7 +12,7 @@ entry_into_force: 2015-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/08/10/2015015117/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2015. - Wet tot wijziging van het Consulair Wetboek

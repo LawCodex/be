@@ -13,7 +13,7 @@ entry_into_force: 2011-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/01/2011206148/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2011. - Décret portant assentiment, pour les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, à la Convention OIT n° 130 concernant les soins médicaux et les indemnités de maladie, adoptée à Genève le 25 juin 1969

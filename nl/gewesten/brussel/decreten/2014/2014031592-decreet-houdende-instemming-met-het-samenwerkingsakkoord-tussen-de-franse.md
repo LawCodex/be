@@ -13,7 +13,7 @@ entry_into_force: 2015-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/20/2014031592/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2014. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschap, de Duitstalige Gemeenschap, het Waals Gewest en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest betreffende de installatie van de Waals-Brusselse Raad voor Internationale Samenwerking (CWBCI)

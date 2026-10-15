@@ -13,7 +13,7 @@ entry_into_force: 2011-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/03/25/2011035289/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 2011. - Decreet tot wijziging van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering

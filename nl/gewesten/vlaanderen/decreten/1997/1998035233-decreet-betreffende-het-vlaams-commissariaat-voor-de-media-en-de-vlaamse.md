@@ -13,7 +13,7 @@ entry_into_force: 1998-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/17/1998035233/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 1997. - Decreet betreffende het Vlaams Commissariaat voor de Media en de Vlaamse Mediaraad.

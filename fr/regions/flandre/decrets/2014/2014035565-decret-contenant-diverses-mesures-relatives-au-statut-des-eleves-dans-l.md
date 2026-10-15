@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/04/2014035565/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-08-2014 et mise à jour au 10-08-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2014. - Décret contenant diverses mesures relatives au statut des élèves dans l'enseignement fondamental et secondaire et relatives à la participation à l'école

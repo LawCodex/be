@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/03/29/2017011629/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 14-04-2017 et mise à jour au 12-09-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2017. - Décret relatif aux études de sciences médicales et dentaires

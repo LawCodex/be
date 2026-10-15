@@ -11,7 +11,7 @@ date: 2003-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/07/03/2003029510/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2003. - Decreet houdende instemming met het Protocol bij de Europese kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten, gedaan te Straatsburg op 9 november 1995 (VERTALING).

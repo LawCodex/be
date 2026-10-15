@@ -12,7 +12,7 @@ entry_into_force: 2017-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/09/03/2017020300/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBER 2015. - Wet houdende instemming met het Verdrag tot oprichting van het Internationaal Instituut voor democratie en verkiezingsondersteuning en met de Slotakte, gedaan te Stockholm op 27 februari 1995, zoals gewijzigd op 24 januari 2006

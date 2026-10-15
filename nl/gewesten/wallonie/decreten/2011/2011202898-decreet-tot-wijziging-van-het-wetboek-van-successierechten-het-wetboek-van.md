@@ -13,7 +13,7 @@ entry_into_force: 2011-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/06/03/2011202898/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2011. - Decreet tot wijziging van het Wetboek van successierechten, het Wetboek van registratie-, hypotheek- en griffierechten, evenals het Wetboek van inkomstenbelastingen voor wat betreft de uitvoering van de Natura 2000-regeling

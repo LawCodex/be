@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/04/2022030897/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 22-02-2022 et mise à jour au 23-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2022. - Décret contenant des mesures urgentes dans le domaine de l'enseignement à la suite de la crise du coronavirus (IX)

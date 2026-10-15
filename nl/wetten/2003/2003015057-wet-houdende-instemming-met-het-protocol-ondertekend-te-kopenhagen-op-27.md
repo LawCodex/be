@@ -12,7 +12,7 @@ entry_into_force: 2003-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/02/27/2003015057/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2003. - Wet houdende instemming met het Protocol ondertekend te Kopenhagen op 27 september 1999, tot wijziging en aanvulling van de overeenkomst tussen België en Denemarken tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 16 oktober 1969.

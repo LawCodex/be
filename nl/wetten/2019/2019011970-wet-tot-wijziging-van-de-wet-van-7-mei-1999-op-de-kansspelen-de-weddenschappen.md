@@ -12,7 +12,7 @@ entry_into_force: 2019-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/07/2019011970/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2019. - Wet tot wijziging van de wet van 7 mei 1999 op de kansspelen, de weddenschappen, de kansspelinrichtingen en de bescherming van de spelers, en tot invoeging van artikel 37/1 in de wet van 19 april 2002 tot rationalisering van de werking en het beheer van de Nationale Loterij

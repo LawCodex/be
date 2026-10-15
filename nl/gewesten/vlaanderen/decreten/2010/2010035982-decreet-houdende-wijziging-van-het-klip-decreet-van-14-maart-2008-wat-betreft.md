@@ -13,7 +13,7 @@ entry_into_force: 2011-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/12/10/2010035982/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2010. - Decreet houdende wijziging van het KLIP-decreet van 14 maart 2008, wat betreft het indienen en afhandelen van een planaanvraag alsook de bijhorende strafbepalingen

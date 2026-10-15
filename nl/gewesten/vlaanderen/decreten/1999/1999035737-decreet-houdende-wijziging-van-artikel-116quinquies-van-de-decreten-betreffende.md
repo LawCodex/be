@@ -13,7 +13,7 @@ entry_into_force: 1999-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/05/18/1999035737/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 1999. - Decreet houdende wijziging van artikel 116quinquies van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 25 januari 1995.

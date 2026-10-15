@@ -12,7 +12,7 @@ entry_into_force: 2007-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/11/2007007156/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2007. - Loi complétant la loi sur les armes, en ce qui concerne l'interdiction des systèmes d'armement à l'uranium appauvri.

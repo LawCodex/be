@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/08/05/2006022669/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 28-08-2006 en tekstbijwerking tot 30-03-2012"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 AUGUSTUS 2006. - Wet betreffende de toegang van het publiek tot milieu-informatie

@@ -12,7 +12,7 @@ entry_into_force: 1996-10-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/08/04/1996009693/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1996. - Loi modifiant l'article 472 du Code d'instruction criminelle.

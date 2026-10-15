@@ -13,7 +13,7 @@ entry_into_force: 2017-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/21/2016206611/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2016. - Decreet houdende instemming met de Overeenkomst, gedaan te Hanoi op 12 maart 2012, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Socialistische Republiek van Vietnam tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Hanoi op 28 februari 1996

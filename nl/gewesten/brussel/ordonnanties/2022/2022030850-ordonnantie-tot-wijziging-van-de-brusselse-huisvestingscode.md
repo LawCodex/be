@@ -13,7 +13,7 @@ entry_into_force: 2022-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/02/10/2022030850/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2022. - Ordonnantie tot wijziging van de Brusselse Huisvestingscode

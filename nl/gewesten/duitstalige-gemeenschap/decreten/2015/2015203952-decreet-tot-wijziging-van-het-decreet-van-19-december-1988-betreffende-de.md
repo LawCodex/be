@@ -12,7 +12,7 @@ entry_into_force: 2015-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/29/2015203952/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2015. - Decreet tot wijziging van het decreet van 19 december 1988 betreffende de toekenning van de Prijs van het Parlement van de Duitstalige Gemeenschap

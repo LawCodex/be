@@ -11,7 +11,7 @@ published: 1979-01-13
 entry_into_force: 1979-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/07/31/1978073101/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 1978. - Loi portant approbation des actes internationaux suivants : 1. Arrangement de La Haye concernant le dépôt international des dessins ou modèles industriels, Protocole et Règlement d'exécution, tels que révisés à La Haye le 28 novembre 1960; 2. Protocole relatif à l'Arrangement de La Haye concernant le dépôt international des dessins et modèles industriels, et Annexe, faits à Genève le 29 août 1975; et remplaçant l'article 6 de la loi du 1er décembre 1970 portant approbation de la Convention Benelux en matière de dessins ou modèles, et de l'Annexe (loi uniforme), signée à Bruxelles le 25 octobre 1966.

@@ -13,7 +13,7 @@ entry_into_force: 2004-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004036109/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet houdende instemming met het Internationaal Verdrag van 1989 inzake hulpverlening, opgemaakt in Londen op 28 april 1989.

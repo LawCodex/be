@@ -12,7 +12,7 @@ last_amended: 2013-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1955/05/21/1955052101/justel"
 justel_note: "Consultation des versions antérieures à partir du 20-10-2004 et mise à jour au 16-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAI 1955. - Loi relative à la pension de retraite et de survie des ouvriers (cette loi est abrogée, à l'exception de l'art. 20, par A.R. no 50, 24-10-1967, art. 75, § 3, 3°, mais continue de régir les pensions prenant cours effectivement et pour la première fois avant le 1er janvier 1968.)

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/15/2013009362/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 25-07-2013 et mise à jour au 14-05-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2013. - Loi modifiant les dispositions du Code judiciaire relatives à la discipline

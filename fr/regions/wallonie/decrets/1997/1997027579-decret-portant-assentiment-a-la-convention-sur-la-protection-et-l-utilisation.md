@@ -13,7 +13,7 @@ entry_into_force: 1997-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/10/23/1997027579/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OCTOBRE 1997. - Décret portant assentiment à la Convention sur la protection et l'utilisation des cours d'eau transfrontières et des lacs internationaux, signée à Helsinki, le 17 mars 1992.

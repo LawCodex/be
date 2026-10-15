@@ -13,7 +13,7 @@ entry_into_force: 2012-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/12/2012029341/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2012. - Décret modifiant le décret du 8 mars 2007 relatif au service général de l'inspection, au service de conseil et de soutien pédagogiques de l'enseignement organisé par la Communauté française, aux cellules de conseil et de soutien pédagogiques de l'enseignement subventionné par la Communauté française et au statut des membres du personnel du service général de l'inspection et des conseillers pédagogiques

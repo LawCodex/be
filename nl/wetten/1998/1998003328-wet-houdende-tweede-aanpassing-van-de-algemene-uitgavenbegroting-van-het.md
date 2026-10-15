@@ -12,7 +12,7 @@ entry_into_force: 1998-10-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/07/05/1998003328/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1998. - Wet houdende tweede aanpassing van de Algemene uitgavenbegroting van het begrotingsjaar 1998.

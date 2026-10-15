@@ -12,7 +12,7 @@ entry_into_force: 2012-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/19/2012204201/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2012. - Bijzondere wet houdende wijziging van artikel 16bis van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en van artikel 5bis van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse Instellingen

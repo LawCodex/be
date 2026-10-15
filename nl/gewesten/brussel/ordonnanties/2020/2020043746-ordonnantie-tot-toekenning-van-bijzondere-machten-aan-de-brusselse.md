@@ -11,7 +11,7 @@ date: 2020-11-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/11/23/2020043746/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2020. - Ordonnantie tot toekenning van bijzondere machten aan de Brusselse Hoofdstedelijke Regering naar aanleiding van de gezondheidscrisis ten gevolge van COVID-19

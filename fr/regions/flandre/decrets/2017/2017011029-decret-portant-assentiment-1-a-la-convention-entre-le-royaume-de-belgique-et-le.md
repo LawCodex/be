@@ -13,7 +13,7 @@ entry_into_force: 2017-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/10/2017011029/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2017. - Décret portant assentiment : 1° à la Convention entre le Royaume de Belgique et le Royaume de Norvège tendant à éviter la double imposition en matière d'impôts sur le revenu et à prévenir la fraude fiscale, signée à Oslo le 23 avril 2014 ; 2° au protocole à la convention visée sous 1°, signé à Oslo le 23 avril 2014

@@ -12,7 +12,7 @@ entry_into_force: 2003-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/11/2003011319/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2003. - Loi portant assentiment à l'Accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'établissement, l'exécution et le suivi d'un Plan national Climat, ainsi que l'établissement de rapports, dans le cadre de la Convention-cadre des Nations Unies sur les Changements climatiques et du Protocole de Kyoto, conclu à Bruxelles le 14 novembre 2002.

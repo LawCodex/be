@@ -12,7 +12,7 @@ entry_into_force: 1999-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/17/1999015126/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 1999. - Loi portant assentiment à la Convention entre le Royaume de Belgique et le Royaume du Maroc sur l'assistance aux personnes détenues et le transfèrement des personnes condamnées, signée à Bruxelles le 7 juillet 1997.

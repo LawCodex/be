@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/08/03/2012003296/justel"
 department: "Financiën - Economie, KMO, Middenstand en Energie - Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 19-10-2012 en tekstbijwerking tot 04-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AUGUSTUS 2012. - [Wet betreffende de instellingen voor collectieve belegging die voldoen aan de voorwaarden van Richtlijn 2009/65/EG en de instellingen voor belegging in schuldvorderingen] &lt;Opschrift vervangen door W 2014-04-19/62 , art. 414, 005; Inwerkingtreding : 27-06-2014&gt; (NOTA 1 : art. 23 gewijzigd met ingang op een onbepaalde datum bij W 2013-07-11/19 , art. 99; Inwerkingtreding : onbepaald (niet meer van toepassing, zie art. 23))

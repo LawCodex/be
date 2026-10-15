@@ -12,7 +12,7 @@ entry_into_force: 1998-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/08/10/1998015158/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1998. - Wet houdende instemming met het Verdrag inzake het verbod op het gebruik, de opslag, de productie en de overdracht van antipersoonsmijnen en inzake de vernietiging ervan, gedaan te Oslo op 18 september 1997.

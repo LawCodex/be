@@ -13,7 +13,7 @@ entry_into_force: 2008-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/01/2008029151/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er FEVRIER 2008. - Décret portant assentiment à la Convention des Nations unies contre la corruption, faite à New York le 31 octobre 2003.

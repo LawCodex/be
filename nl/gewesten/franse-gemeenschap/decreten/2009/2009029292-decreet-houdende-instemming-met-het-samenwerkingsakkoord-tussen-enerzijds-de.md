@@ -13,7 +13,7 @@ entry_into_force: 2009-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/26/2009029292/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2009. - Decreet houdende instemming met het Samenwerkingsakkoord tussen enerzijds de Republiek Boeroendi en anderzijds de Franse Gemeenschap van België en het Waalse Gewest, opgemaakt te Bujumbura op 31 januari 2006

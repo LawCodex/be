@@ -13,7 +13,7 @@ entry_into_force: 2022-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/06/30/2022015136/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2022. - Ordonnance modifiant l'ordonnance du 28 mai 2015 créant un organisme d'intérêt public centralisant la gestion de la politique de prévention et de sécurité en Région de Bruxelles-Capitale et créant l'Ecole régionale des métiers de la sécurité, de la prévention et du secours. - Brusafe afin de confier l'exercice des missions du haut fonctionnaire visé à l'article 48, alinéa 3, de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises, au fonctionnaire dirigeant de cet organisme

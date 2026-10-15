@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/12/22/2009003477/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 19-01-2010 en tekstbijwerking tot 30-10-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2009. - Wet tot wijziging van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten en tot instelling van de vordering tot staking van de inbreuken op de wet van 10 december 2009 betreffende de betalingsdiensten

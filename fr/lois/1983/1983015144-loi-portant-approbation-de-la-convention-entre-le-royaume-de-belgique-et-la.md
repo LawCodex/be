@@ -12,7 +12,7 @@ entry_into_force: 1983-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/04/21/1983015144/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 1983. - Loi portant approbation de la Convention entre le Royaume de Belgique et la République Socialiste Fédérative de Yougoslavie pour éviter la double imposition sur le revenu et le capital, et du Protocole, signés à Belgrade le 21 novembre 1980.

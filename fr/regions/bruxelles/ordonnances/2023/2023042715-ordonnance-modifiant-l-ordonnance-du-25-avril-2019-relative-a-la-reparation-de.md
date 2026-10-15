@@ -13,7 +13,7 @@ entry_into_force: 2023-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/06/01/2023042715/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2023. - Ordonnance modifiant l'ordonnance du 25 avril 2019 relative à la réparation de certains dommages causés par des calamités publiques

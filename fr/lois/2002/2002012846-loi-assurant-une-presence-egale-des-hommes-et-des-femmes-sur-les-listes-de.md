@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/17/2002012846/justel"
 department: "Emploi et Travail"
 justel_note: "Consultation des versions antérieures à partir du 28-08-2002 et mise à jour au 17-04-2003."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2002. - Loi assurant une présence égale des hommes et des femmes sur les listes de candidats aux élections du Parlement européen. -

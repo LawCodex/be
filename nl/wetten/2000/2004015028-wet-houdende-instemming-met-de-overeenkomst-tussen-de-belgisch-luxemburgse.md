@@ -12,7 +12,7 @@ entry_into_force: 2004-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/08/20/2004015028/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 AUGUSTUS 2000. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Republiek Libanon inzake de wederzijdse bevordering en bescherming van investeringen, gedaan te Brussel op 6 september 1999.

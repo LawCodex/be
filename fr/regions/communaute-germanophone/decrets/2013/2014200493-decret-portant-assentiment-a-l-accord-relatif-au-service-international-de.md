@@ -13,7 +13,7 @@ entry_into_force: 2014-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/12/2014200493/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2013. - Décret portant assentiment à l'accord relatif au Service international de Recherches et à l'accord de partenariat relatif aux relations entre les Archives fédérales de la République fédérale d'Allemagne et le Service international de Recherches, signés à Berlin le 9 décembre 2011

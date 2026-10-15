@@ -13,7 +13,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/13/2006033004/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2005. - Décret contenant le budget des recettes de la Communauté germanophone pour l'année budgétaire 2006. (TRADUCTION)

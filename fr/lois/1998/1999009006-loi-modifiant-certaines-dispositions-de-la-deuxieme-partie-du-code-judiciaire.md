@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/22/1999009006/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 02-02-1999 et mise à jour au 02-06-2003"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1998. - Loi modifiant certaines dispositions de la deuxième partie du Code judiciaire concernant le Conseil supérieur de la Justice, la nomination et la désignation de magistrats et instaurant un système d'évaluation pour les magistrats. -

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/24/2002003520/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2002 en tekstbijwerking tot 28-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2002. - Wet tot wijziging van de vennootschapsregeling inzake inkomstenbelastingen en tot instelling van een systeem van voorafgaande beslissingen in fiscale zaken.

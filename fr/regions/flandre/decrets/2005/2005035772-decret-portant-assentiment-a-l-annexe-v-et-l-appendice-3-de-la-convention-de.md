@@ -13,7 +13,7 @@ entry_into_force: 2005-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/06/17/2005035772/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2005. - Décret portant assentiment à l'Annexe V et l'Appendice 3 de la Convention de Paris du 22 septembre 1992 pour la protection du milieu marin de l'Atlantique du Nord-Est, adoptés à Sintra le 23 juillet 1998 (TRADUCTION).

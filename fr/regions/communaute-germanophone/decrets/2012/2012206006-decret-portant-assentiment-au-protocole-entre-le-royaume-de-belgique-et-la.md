@@ -13,7 +13,7 @@ entry_into_force: 2012-11-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/09/24/2012206006/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 SEPTEMBRE 2012. - Décret portant assentiment au Protocole entre le Royaume de Belgique et la République d'Autriche et au Protocole additionnel signés à Bruxelles le 29 décembre 1971 modifiant la Convention en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, y compris l'impôt sur les exploitations et les impôts fonciers, signée à Vienne le 29 décembre 1971

@@ -12,7 +12,7 @@ entry_into_force: 2022-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/09/2022030933/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2021. - Loi portant assentiment à l'amendement à l'article VI et au paragraphe A de l'article XIV du Statut de l'Agence internationale de l'énergie atomique, adopté le 1er octobre 1999 par la conférence générale de l'Organisation

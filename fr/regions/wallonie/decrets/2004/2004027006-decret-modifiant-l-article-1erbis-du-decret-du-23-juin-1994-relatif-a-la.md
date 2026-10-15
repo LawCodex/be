@@ -13,7 +13,7 @@ entry_into_force: 2004-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/01/2004027006/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er AVRIL 2004. - Décret modifiant l'article 1erbis du décret du 23 juin 1994 relatif à la création et à l'exploitation des aéroports et aérodromes relevant de la Région wallonne.

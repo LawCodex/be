@@ -12,7 +12,7 @@ entry_into_force: 1995-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/28/1995015091/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 1995. - Loi portant approbation de la Convention belgo-luxembourgeoise sur la sécurité sociale des travailleurs frontaliers et Protocole final, signés à Arlon le 24 mars 1994.

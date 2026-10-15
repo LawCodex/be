@@ -13,7 +13,7 @@ entry_into_force: 2025-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/05/15/2025201686/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2025. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap aan het Waalse Gewest is overgedragen, met de Investeringsbeschermingsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Singapore, anderzijds, gedaan te Brussel op 19 oktober 2018

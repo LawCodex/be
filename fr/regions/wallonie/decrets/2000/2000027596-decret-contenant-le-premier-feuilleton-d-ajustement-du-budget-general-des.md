@@ -13,7 +13,7 @@ entry_into_force: 2001-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/11/08/2000027596/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBRE 2000. - Décret contenant le premier feuilleton d'ajustement du budget général des dépenses de la Région wallonne pour l'année budgétaire 2000.

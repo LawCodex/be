@@ -12,7 +12,7 @@ entry_into_force: 2009-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/02/09/2009015032/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2009. - Wet houdende instemming met de Overeenkomst betreffende de gezondheidszorgenverzekering tussen het Koninkrijk België en Australië, ondertekend te Canberra op 10 augustus 2006

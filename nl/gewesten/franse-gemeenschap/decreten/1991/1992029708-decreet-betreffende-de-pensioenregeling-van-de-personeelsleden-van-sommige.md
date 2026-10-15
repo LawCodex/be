@@ -13,7 +13,7 @@ entry_into_force: 1982-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/10/15/1992029708/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 OKTOBER 1991. - Decreet betreffende de pensioenregeling van de personeelsleden van sommige instellingen of ondernemingen van de Franse Gemeenschap.

@@ -11,7 +11,7 @@ published: 2024-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/06/02/2024006933/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2024. - Wet houdende instemming met de wijzigingen in artikel 8-2-b) en e) van het Statuut van Rome inzake het Internationaal Strafhof, op 14 december 2017 bij consensus aangenomen, bij Resolutie ICC-ASP/16/Res.4, tijdens de 12e plenaire zitting van de 16e sessie van de Vergadering van Staten die Partij zijn bij het Statuut van Rome, en met de wijziging in artikel 8-2-e) van het Statuut van Rome inzake het Internationaal Strafhof, op 6 december 2019 bij consensus aangenomen, bij Resolutie ICC-ASP/18/Res.5, tijdens de 9e plenaire zitting van de 18e sessie van de Vergadering van Staten die Partij zijn bij het Statuut van Rome

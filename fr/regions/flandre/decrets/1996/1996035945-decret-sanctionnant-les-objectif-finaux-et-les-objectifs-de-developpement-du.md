@@ -13,7 +13,7 @@ entry_into_force: 1996-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/24/1996035945/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 1996. - Décret sanctionnant les objectif finaux et les objectifs de développement du premier degré de l'enseignement secondaire ordinaire (TRADUCTION).

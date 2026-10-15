@@ -13,7 +13,7 @@ entry_into_force: 2004-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/19/2004035633/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2004. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'Union économique et monétaire ouest-africaine, signé à Bruxelles le 26 mars 2002 (TRADUCTION).

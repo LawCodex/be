@@ -12,7 +12,7 @@ entry_into_force: 2021-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/03/16/2021020586/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2021. - Loi portant des dispositions sur la fiscalité familiale et la suppression du système permanent de régularisation fiscale et sociale

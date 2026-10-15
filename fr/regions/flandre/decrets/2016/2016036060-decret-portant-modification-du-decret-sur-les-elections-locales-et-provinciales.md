@@ -13,7 +13,7 @@ entry_into_force: 2016-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/03/2016036060/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2016. - Décret portant modification du Décret sur les Elections locales et provinciales du 8 juillet 2011 et du décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes, en ce qui concerne la transposition des recommandations du GRECO

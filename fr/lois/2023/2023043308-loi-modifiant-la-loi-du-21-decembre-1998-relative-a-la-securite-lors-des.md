@@ -12,7 +12,7 @@ entry_into_force: 2023-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/06/19/2023043308/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2023. - Loi modifiant la loi du 21 décembre 1998 relative à la sécurité lors des matches de football et la loi du 2 octobre 2017 réglementant la sécurité privée et particulière

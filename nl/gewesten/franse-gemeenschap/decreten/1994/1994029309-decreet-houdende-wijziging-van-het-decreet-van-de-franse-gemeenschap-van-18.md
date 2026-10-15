@@ -12,7 +12,7 @@ published: 1994-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/05/30/1994029309/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 1994. - Decreet houdende wijziging van het decreet van de Franse Gemeenschap van 18 juni 1990 houdende regeling van het toezicht over de Franse Gemeenschapscommissie .

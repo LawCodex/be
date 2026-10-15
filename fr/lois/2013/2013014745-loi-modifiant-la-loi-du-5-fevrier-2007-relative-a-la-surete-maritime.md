@@ -12,7 +12,7 @@ entry_into_force: 2014-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/11/19/2013014745/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 2013. - Loi modifiant la loi du 5 février 2007 relative à la sûreté maritime

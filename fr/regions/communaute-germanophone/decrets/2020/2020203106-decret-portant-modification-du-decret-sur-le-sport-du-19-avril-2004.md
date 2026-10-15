@@ -13,7 +13,7 @@ entry_into_force: 2020-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/06/22/2020203106/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2020. - Décret portant modification du décret sur le sport du 19 avril 2004

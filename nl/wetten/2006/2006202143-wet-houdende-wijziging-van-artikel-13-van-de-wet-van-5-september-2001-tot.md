@@ -12,7 +12,7 @@ entry_into_force: 2006-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/06/20/2006202143/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2006. - Wet houdende wijziging van artikel 13 van de wet van 5 september 2001 tot verbetering van de werkgelegenheidsgraad van de werknemers.

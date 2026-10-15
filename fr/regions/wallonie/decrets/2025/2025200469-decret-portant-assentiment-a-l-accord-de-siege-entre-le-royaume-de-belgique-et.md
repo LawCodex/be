@@ -13,7 +13,7 @@ entry_into_force: 2025-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/01/16/2025200469/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JANVIER 2025. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'Autorité Intergouvernementale pour le Développement, fait à Bruxelles le 16 février 2022

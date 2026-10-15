@@ -13,7 +13,7 @@ entry_into_force: 2022-10-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/04/25/2022205783/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2022. - Décret portant assentiment à l'accord de partenariat économique d'étape entre le Ghana, d'une part, et la Communauté européenne et ses Etats membres, d'autre part, fait à Bruxelles le 28 juillet 2016

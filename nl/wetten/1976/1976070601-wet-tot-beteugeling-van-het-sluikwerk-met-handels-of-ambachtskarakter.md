@@ -13,7 +13,7 @@ last_amended: 2024-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/07/06/1976070601/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 22-05-2019 en tekstbijwerking tot 21-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 1976. - Wet tot beteugeling van het sluikwerk met handels- of ambachtskarakter

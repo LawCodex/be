@@ -12,7 +12,7 @@ entry_into_force: 2021-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/09/28/2021033341/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBRE 2021. - Loi modifiant l'article 72 du Code judiciaire

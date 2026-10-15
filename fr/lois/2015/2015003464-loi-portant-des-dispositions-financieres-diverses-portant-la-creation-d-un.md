@@ -12,7 +12,7 @@ entry_into_force: 2016-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/18/2015003464/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - ["Loi portant des dispositions financières diverses, portant la création d'un service administratif à compatibilité autonome "Activités sociales", portant modification de la loi du 11 mai 1995 relative à la mise en oeuvre des décisions du Conseil de Sécurité de l'Organisation des Nations unies et portant une disposition en matière d'égalité des femmes et des hommes"]

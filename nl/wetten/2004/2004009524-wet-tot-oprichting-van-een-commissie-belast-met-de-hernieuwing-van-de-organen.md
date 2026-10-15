@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/20/2004009524/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 30-07-2004 en tekstbijwerking tot 26-02-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2004. - Wet tot oprichting van een Commissie belast met de hernieuwing van de organen van de islamitische eredienst.

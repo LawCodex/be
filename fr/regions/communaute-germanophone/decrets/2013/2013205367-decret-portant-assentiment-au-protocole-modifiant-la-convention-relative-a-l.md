@@ -13,7 +13,7 @@ entry_into_force: 2013-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/09/17/2013205367/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBRE 2013. - Décret portant assentiment au Protocole modifiant la Convention relative à l'Organisation hydrographique internationale, adopté à Monaco le 14 avril 2005

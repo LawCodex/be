@@ -13,7 +13,7 @@ entry_into_force: 1995-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/05/02/1995033060/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 1995. - Decreet houdende wijziging van artikel 37 van het koninklijk besluit van 30 maart 1982 betreffende de scholengemeenschappen voor secundair onderwijs en houdende het rationalisatie- en programmatieplan van het secundair onderwijs met volledig leerplan. (VERTALING)

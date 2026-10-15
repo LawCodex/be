@@ -13,7 +13,7 @@ entry_into_force: 2013-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/10/17/2013029624/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 OCTOBRE 2013. - Décret portant assentiment à l'accord de coopération culturelle du 7 décembre 2012 conclu entre la Communauté flamande et la Communauté française

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/06/08/2006009449/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 09-06-2006 en tekstbijwerking tot 26-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2006. - Wet houdende regeling van economische en individuele activiteiten met wapens. (ook "Wapenwet genoemd)

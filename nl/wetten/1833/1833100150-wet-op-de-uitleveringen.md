@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1833/10/01/1833100150/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 03-07-2007 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 OKTOBER 1833. - Wet op de uitleveringen.

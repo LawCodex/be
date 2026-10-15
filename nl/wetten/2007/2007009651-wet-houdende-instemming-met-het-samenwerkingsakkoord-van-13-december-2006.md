@@ -12,7 +12,7 @@ entry_into_force: 2007-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/10/2007009651/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 2007. - Wet houdende instemming met het samenwerkingsakkoord van 13 december 2006 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, het Waals Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de inwerkingtreding van artikel 7, 7° van de wet van 13 juni 2006 tot wijziging van de wetgeving betreffende de jeugdbescherming en het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd.

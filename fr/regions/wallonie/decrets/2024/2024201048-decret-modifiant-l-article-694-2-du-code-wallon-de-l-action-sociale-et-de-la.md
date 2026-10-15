@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/25/2024201048/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2024. - Décret modifiant l'article 694/2 du Code wallon de l'Action sociale et de la Santé relatif à l'aide aux personnes lesbiennes, gays, bisexuels, bisexuelles et transgenres

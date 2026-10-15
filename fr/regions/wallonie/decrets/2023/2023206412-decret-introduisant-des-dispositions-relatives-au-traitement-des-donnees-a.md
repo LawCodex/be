@@ -13,7 +13,7 @@ entry_into_force: 2023-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/12/2023206412/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 OCTOBRE 2023. - Décret introduisant des dispositions relatives au traitement des données à caractère personnel dans le cadre des programmes de médecine préventive dans le Code wallon de l'Action sociale et de la Santé

@@ -12,7 +12,7 @@ entry_into_force: 2013-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/25/2012015166/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AOUT 2012. - Loi portant assentiment au Mémorandum d'Accord concernant la coopération dans le domaine de la gestion des crises pouvant avoir des conséquences transfrontalières entre le Royaume de Belgique, le Royaume des Pays-Bas et le grand-duché de Luxembourg, fait à Luxembourg le 1er juin 2006

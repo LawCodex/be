@@ -13,7 +13,7 @@ entry_into_force: 2004-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/30/2004035972/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2004. - Decreet houdende wijziging van het decreet van 30 maart 1999 houdende oprichting van een Vlaams Fonds voor de Letteren.

@@ -13,7 +13,7 @@ entry_into_force: 1995-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/11/24/1995027004/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 1994. - DECREET houdende wijziging van het decreet van de Franse Gemeenschap van 29 maart 1993 betreffende de erkenning en de toekenning van toelagen aan geintegreerde gezondheidsverenigingen

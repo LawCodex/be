@@ -11,7 +11,7 @@ published: 2002-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/07/10/2002003364/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2002. - Wet houdende eindregeling van de begrotingen van de diensten van algemeen bestuur van de Staat en van de Staatsdienst met afzonderlijk beheer " Muntfonds " van het jaar 1998.

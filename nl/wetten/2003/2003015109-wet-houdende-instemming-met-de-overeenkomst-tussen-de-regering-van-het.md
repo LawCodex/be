@@ -11,7 +11,7 @@ published: 2003-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/13/2003015109/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2003. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van het Koninkrijk Noorwegen inzake het leggen van de " Norfra " gaspijpleiding op het Belgische continentaal plat, en de Bijlagen 1, 2 en 3, ondertekend te Brussel op 20 december 1996.

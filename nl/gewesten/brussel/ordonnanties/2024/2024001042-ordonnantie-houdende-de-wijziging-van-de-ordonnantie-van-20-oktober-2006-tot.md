@@ -13,7 +13,7 @@ entry_into_force: 2024-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/02/01/2024001042/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2024. - Ordonnantie houdende de wijziging van de ordonnantie van 20 oktober 2006 tot opstelling van een kader voor het waterbeleid met het oog op de omzetting van richtlijn (EU) 2020/2184 van 16 december 2020 van het Europees Parlement en de Raad betreffende de kwaliteit van voor menselijke consumptie bestemd water

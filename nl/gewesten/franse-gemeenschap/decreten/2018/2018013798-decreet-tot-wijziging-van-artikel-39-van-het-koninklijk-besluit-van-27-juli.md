@@ -11,7 +11,7 @@ date: 2018-09-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/09/06/2018013798/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 SEPTEMBER 2018. - Decreet tot wijziging van artikel 39 van het koninklijk besluit van 27 juli 1979 houdende het statuut van de leden van het technisch personeel van de psycho-medisch-sociale centra van de Franse Gemeenschap alsook van de personeelsleden van de inspectiedienst belast met het toezicht op deze psycho-medisch-sociale centra, zoals gewijzigd bij artikel 47 van het decreet van 11 juli 2018 houdende verschillende maatregelen betreffende het statuut van het onderwijzend personeel

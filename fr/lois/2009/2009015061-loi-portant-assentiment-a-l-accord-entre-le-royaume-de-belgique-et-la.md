@@ -12,7 +12,7 @@ entry_into_force: 2009-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/04/02/2009015061/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2009. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et la République de Croatie sur l'exercice d'une activité à but lucratif par certains membres de la famille de membres du personnel diplomatique et consulaire, signé à Zagreb le 30 mai 2005

@@ -12,7 +12,7 @@ entry_into_force: 2012-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/02/15/2012009093/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2012. - Loi modifiant la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, et le Code pénal social

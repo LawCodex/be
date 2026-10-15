@@ -12,7 +12,7 @@ entry_into_force: 2009-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/04/28/2009009337/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2009. - Wet tot wijziging van het Gerechtelijk Wetboek om de Hoge Raad voor de Justitie de mogelijkheid te geven om de voorbereiding en de verbetering van het schriftelijk gedeelte van het examen inzake beroepsbekwaamheid en van het vergelijkend toelatingsexamen tot de gerechtelijke stage op te dragen aan externe deskundigen

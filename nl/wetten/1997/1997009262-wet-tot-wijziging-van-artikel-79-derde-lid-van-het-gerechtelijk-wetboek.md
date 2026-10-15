@@ -12,7 +12,7 @@ entry_into_force: 1997-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/03/10/1997009262/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 1997. - Wet tot wijziging van artikel 79, derde lid, van het Gerechtelijk Wetboek.

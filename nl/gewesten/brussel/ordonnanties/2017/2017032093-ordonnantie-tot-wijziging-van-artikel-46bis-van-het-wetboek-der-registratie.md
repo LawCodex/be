@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/12/14/2017032093/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2017. - Ordonnantie tot wijziging van artikel 46bis van het Wetboek der registratie-, hypotheek- en griffierechten, met het oog op de invoering van een abattement op de registratierechten bij de verkoop van bouwgronden

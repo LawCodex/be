@@ -12,7 +12,7 @@ entry_into_force: 2018-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/06/25/2018040230/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2018. - Loi portant confirmation de l'arrêté royal du 22 décembre 2017 relatif à la contribution aux frais de fonctionnement, de personnel et d'installation de la Commission des jeux de hasard due par les titulaires de licence de classe A, A+, B, B+, C, E, F1, F1+, F2, G1 et G2 pour l'année civile 2018

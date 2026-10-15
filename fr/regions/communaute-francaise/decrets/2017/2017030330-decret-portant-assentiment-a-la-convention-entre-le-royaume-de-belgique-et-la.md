@@ -13,7 +13,7 @@ entry_into_force: 2017-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/04/27/2017030330/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2017. - Décret portant assentiment à La Convention entre le Royaume de Belgique et la République orientale de l'Uruguay tendant à éviter la double imposition en matière d'impôts sur le revenu et sur la fortune et à prévenir la fraude fiscale, signée à Montevideo le 23 août 2013

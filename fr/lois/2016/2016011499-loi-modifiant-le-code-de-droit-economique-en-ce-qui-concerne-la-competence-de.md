@@ -12,7 +12,7 @@ entry_into_force: 2016-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/12/2016011499/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2016. - Loi modifiant le code de droit économique, en ce qui concerne la compétence de la commission des normes comptables

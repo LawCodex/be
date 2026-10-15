@@ -13,7 +13,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/23/2006036076/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2006. - Décret modifiant le décret du 19 avril 1995 contenant des mesures visant à lutter contre l'abandon et le délabrement de sites industriels (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 2022-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/16/2022040318/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2022. - Loi modifiant le Code de droit économique en ce qui concerne les contrats d'agence commerciale en vue de prémunir les agents commerciaux contre l'augmentation unilatérale des frais ou leur imposition par le commettant

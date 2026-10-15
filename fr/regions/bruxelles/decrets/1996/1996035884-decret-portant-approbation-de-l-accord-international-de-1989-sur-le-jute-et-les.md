@@ -13,7 +13,7 @@ entry_into_force: 1991-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/08/1996035884/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 1996. - Décret portant approbation de l'Accord International de 1989 sur le jute et les articles en jute, ainsi que des annexes A et B, faits à Genève le 3 novembre 1989 (TRADUCTION).

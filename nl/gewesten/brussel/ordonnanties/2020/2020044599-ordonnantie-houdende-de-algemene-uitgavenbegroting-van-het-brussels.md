@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2020/12/18/2020044599/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 09-02-2021 en tekstbijwerking tot 23-03-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2020. - Ordonnantie houdende de Algemene Uitgavenbegroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2021

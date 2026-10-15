@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/15/2018031160/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 05-06-2018 et mise à jour au 28-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2017. - Décret contenant le budget général des dépenses de la Commission communautaire française pour l'année budgétaire 2018

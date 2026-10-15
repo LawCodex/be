@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/15/2013014762/justel"
 department: "Mobilité et Transports"
 justel_note: "Consultation des versions antérieures à partir du 18-02-2014 et mise à jour au 30-11-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2013. - Loi relative à l'eRegistre des entreprises de transport par route

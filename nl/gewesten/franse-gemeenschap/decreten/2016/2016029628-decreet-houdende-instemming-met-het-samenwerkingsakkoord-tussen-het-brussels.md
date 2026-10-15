@@ -13,7 +13,7 @@ entry_into_force: 2017-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/11/17/2016029628/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2016. - Decreet houdende instemming met het samenwerkingsakkoord tussen het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschap en de Franse Gemeenschapscommissie betreffende de terbeschikkingstelling van voorzieningen in het kader van de herziening van het kwalificerend onderwijs en de samenwerking tussen de centra voor gevorderde technologieën en de beroepsreferentiecentra

@@ -12,7 +12,7 @@ entry_into_force: 2017-11-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/10/24/2017205677/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 OCTOBRE 2017. - Révision de l'article 12 de la Constitution

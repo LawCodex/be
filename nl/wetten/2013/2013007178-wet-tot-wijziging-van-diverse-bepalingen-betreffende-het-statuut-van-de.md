@@ -12,7 +12,7 @@ entry_into_force: 2013-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/18/2013007178/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2013. - Wet tot wijziging van diverse bepalingen betreffende het statuut van de militairen

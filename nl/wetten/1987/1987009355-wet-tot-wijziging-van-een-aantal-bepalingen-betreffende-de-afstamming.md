@@ -12,7 +12,7 @@ entry_into_force: 1987-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1987/03/31/1987009355/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 1987. - Wet tot wijziging van een aantal bepalingen betreffende de afstamming.

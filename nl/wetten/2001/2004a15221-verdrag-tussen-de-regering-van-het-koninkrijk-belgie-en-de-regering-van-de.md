@@ -12,7 +12,7 @@ entry_into_force: 2005-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/06/11/2004A15221/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2001. - Verdrag tussen de Regering van Het Koninkrijk België en de Regering van de Republiek Estland betreffende de politiesamenwerking.

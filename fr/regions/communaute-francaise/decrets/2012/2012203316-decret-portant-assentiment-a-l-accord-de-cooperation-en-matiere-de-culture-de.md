@@ -13,7 +13,7 @@ entry_into_force: 2012-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/19/2012203316/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2012. - Décret portant assentiment à l'Accord de coopération en matière de culture, de formation et de recherche scientifique entre le Gouvernement de la Communauté française, le Gouvernement wallon et le Collège de la Commission communautaire française de la Région de Bruxelles-Capitale d'une part, et la République de Turquie d'autre part, fait à Bruxelles le 7 juin 2011

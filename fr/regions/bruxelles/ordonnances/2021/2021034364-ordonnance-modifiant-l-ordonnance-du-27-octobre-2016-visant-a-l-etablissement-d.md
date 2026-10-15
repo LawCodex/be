@@ -13,7 +13,7 @@ entry_into_force: 2022-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/12/10/2021034364/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2021. - Ordonnance modifiant l'ordonnance du 27 octobre 2016 visant à l'établissement d'une politique de données ouvertes (Open Data) et portant transposition de la Directive 2019/1024/UE du Parlement européen et du Conseil du 20 juin 2019 (refonte) concernant les données ouvertes et la réutilisation des informations du secteur public

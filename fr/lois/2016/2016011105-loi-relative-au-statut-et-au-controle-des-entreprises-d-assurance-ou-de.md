@@ -12,7 +12,7 @@ entry_into_force: 2016-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/03/25/2016011105/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2016. - Loi relative au statut et au contrôle des entreprises d'assurance ou de réassurance en ce qui concerne certaines procédures accélérées de recours auprès du Conseil d'Etat

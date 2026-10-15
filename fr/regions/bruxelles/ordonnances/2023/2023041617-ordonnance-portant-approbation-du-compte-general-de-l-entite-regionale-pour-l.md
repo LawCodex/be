@@ -13,7 +13,7 @@ entry_into_force: 2023-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/03/30/2023041617/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2023. - Ordonnance portant approbation du compte général de l'Entité régionale pour l'année 2021

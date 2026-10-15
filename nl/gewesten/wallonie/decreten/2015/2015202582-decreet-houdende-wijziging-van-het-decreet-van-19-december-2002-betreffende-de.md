@@ -13,7 +13,7 @@ entry_into_force: 2015-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/05/21/2015202582/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MEI 2015. - Decreet houdende wijziging van het decreet van 19 december 2002 betreffende de organisatie van de gewestelijke gasmarkt

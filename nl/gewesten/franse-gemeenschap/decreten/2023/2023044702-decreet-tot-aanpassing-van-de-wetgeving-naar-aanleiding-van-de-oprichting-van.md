@@ -13,7 +13,7 @@ entry_into_force: 2023-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/20/2023044702/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2023. - Decreet tot aanpassing van de wetgeving naar aanleiding van de oprichting van territoriale clusters die belast zijn met de ondersteuning van scholen voor gewoon onderwijs bij het implementeren van redelijke aanpassingen en volledige permanente integratie

@@ -13,7 +13,7 @@ entry_into_force: 2023-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/27/2023042324/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2023. - Décret relatif à l'amélioration du climat scolaire et à la prévention du harcèlement et du cyberharcèlement scolaires

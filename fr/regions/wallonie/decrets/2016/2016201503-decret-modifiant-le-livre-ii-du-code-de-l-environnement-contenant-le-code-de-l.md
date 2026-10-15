@@ -13,7 +13,7 @@ entry_into_force: 2016-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/03/11/2016201503/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2016. - Décret modifiant le Livre II du Code de l'Environnement contenant le Code de l'Eau en vue de déclarer les secteurs publics issus du domaine de l'eau comme étant des services d'intérêt économique général

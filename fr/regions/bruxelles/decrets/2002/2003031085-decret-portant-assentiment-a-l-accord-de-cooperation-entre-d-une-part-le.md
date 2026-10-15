@@ -13,7 +13,7 @@ entry_into_force: 2003-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/20/2003031085/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2002. - Décret portant assentiment à l'Accord de coopération entre, d'une part, le Royaume du Maroc et, d'autre part, la Commission communautaire francaise de la Région de Bruxelles-Capitale.

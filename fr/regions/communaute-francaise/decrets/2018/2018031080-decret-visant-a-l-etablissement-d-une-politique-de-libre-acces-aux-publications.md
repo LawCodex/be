@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/03/2018031080/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 28-05-2018 et mise à jour au 30-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2018. - Décret visant à l'établissement d'une politique de libre accès aux publications scientifiques (open access)

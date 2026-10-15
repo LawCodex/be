@@ -13,7 +13,7 @@ entry_into_force: 2023-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/27/2023201833/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2023. - Décret portant assentiment à l'Accord de coopération du 10 mars 2023 entre l'Etat fédéral, la Communauté flamande, la Région wallonne, la Communauté germanophone et la Commission communautaire commune visant à la modification de l'Accord de coopération du 25 août 2020 entre l'Etat fédéral, la Communauté flamande, la Région wallonne, la Communauté germanophone et la Commission communautaire commune, concernant le traitement conjoint de données par Sciensano

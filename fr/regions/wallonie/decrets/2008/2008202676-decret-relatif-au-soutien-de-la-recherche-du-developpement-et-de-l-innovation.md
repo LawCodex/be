@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/03/2008202676/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 29-07-2008 et mise à jour au 23-10-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2008. - Décret relatif au soutien de la recherche, du développement et de l'innovation en Wallonie

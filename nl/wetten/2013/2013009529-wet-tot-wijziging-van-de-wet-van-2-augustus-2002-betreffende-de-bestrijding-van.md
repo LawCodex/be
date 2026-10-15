@@ -12,7 +12,7 @@ entry_into_force: 2013-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/11/22/2013009529/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2013. - Wet tot wijziging van de wet van 2 augustus 2002 betreffende de bestrijding van de betalingsachterstand bij handelstransacties

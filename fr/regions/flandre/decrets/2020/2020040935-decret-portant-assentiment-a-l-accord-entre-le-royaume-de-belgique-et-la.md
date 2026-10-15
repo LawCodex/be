@@ -13,7 +13,7 @@ entry_into_force: 2020-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/03/20/2020040935/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2020. - Décret portant assentiment à l'accord entre le Royaume de Belgique et la République du Sénégal relatif au transport aérien, fait à Dakar le 18 janvier 2013

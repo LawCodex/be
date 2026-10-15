@@ -13,7 +13,7 @@ entry_into_force: 2007-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/10/19/2007029360/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2007. - Décret modifiant le décret du 8 mars 2007 portant diverses mesures visant à réguler les inscriptions et les changements d'école dans l'enseignement obligatoire.

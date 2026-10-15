@@ -11,7 +11,7 @@ published: 1932-08-20
 entry_into_force: 1932-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1932/05/19/1932051950/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 1932. - WET tot goedkeuring van het internationaal verdrag en van het protocol gesloten den 20n April 1929 te Genève tot bestraffing van de valsche munterij.

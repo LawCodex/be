@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/06/25/1997033114/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 09-01-1997 et mise à jour au 11-07-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 1996. - Décret relatif à la tenue de journées de conférence pédagogique (TRADUCTION)

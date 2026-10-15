@@ -12,7 +12,7 @@ entry_into_force: 1995-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/03/21/1995012217/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 1995. - Loi relative au travail des étudiants et des jeunes travailleurs.

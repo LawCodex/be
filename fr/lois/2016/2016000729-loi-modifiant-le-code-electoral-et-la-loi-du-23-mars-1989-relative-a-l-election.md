@@ -12,7 +12,7 @@ entry_into_force: 2016-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/11/17/2016000729/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBRE 2016. - Loi modifiant le Code électoral et la loi du 23 mars 1989 relative à l'élection du Parlement européen

@@ -13,7 +13,7 @@ entry_into_force: 2015-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/07/29/2015031507/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUILLET 2015. - Ordonnance modifiant l'ordonnance du 20 juillet 2005 relative à la Société d'acquisition foncière et créant la Société d'aménagement urbain

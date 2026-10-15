@@ -13,7 +13,7 @@ entry_into_force: 2007-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/24/2007011410/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2007. - Décret portant approbation de l'accord de coopération du 9 février 2007 modifiant l'accord de coopération du 13 décembre 2002 entre l'Etat fédéral, la Région Flamande, la Région Wallonne et la Région de Bruxelles-Capitale relatif à l'exécution et au financement de l'assainissement du sol des stations-service.

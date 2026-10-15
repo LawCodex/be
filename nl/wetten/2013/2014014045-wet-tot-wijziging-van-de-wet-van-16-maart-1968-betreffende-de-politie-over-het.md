@@ -12,7 +12,7 @@ entry_into_force: 2014-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/15/2014014045/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2013. - Wet tot wijziging van de wet van 16 maart 1968 betreffende de politie over het wegverkeer wat betreft de termijn bij een vervangend verval van het recht tot sturen

@@ -13,7 +13,7 @@ entry_into_force: 2022-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/11/24/2022207146/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 2022. - Décret relatif à la politique cyclable et modifiant le décret du 1er avril 2004 relatif à la mobilité et à l'accessibilité locales et le décret du 4 avril 2019 visant à généraliser les aménagements cyclables de qualité en Wallonie et à renforcer la sécurité des cyclistes

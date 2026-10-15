@@ -13,7 +13,7 @@ entry_into_force: 2017-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/12/15/2017032057/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2017. - Decreet houdende instemming met het samenwerkingsakkoord van 14 juli 2017 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest, het Brusselse Hoofdstedelijk Gewest, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap in het kader van de omzetting van richtlijn 2014/61/EU

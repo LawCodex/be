@@ -11,7 +11,7 @@ date: 2002-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/06/24/2002033082/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2002. - Decreet houdende goedkeuring van de Europees-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Arabische Republiek Egypte, anderzijds, en de Bijlagen I, II, III, IV, V en VI, de Protocollen 1, 2, 3, 4 et 5 en de Slotakte, gedaan te Luxemburg op 25 juni 2001 (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2004-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/01/2004027006/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2004. - Decreet tot wijziging van artikel 1bis van het decreet van 23 juni 1994 betreffende de oprichting en de uitbating van de onder het Waalse Gewest ressorterende luchthavens en vliegvelden.

@@ -13,7 +13,7 @@ entry_into_force: 2021-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/05/17/2021202828/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2021. - Decreet houdende instemming met het Samenwerkingsakkoord van 19 maart 2021 tussen het Waals Gewest, het Vlaams Gewest, het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap met betrekking tot de coördinatie inzake het toezicht en de naleving van de gewestelijke wetgevingen betreffende het werk

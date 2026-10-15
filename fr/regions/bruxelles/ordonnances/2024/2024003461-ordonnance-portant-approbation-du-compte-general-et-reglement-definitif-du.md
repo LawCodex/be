@@ -13,7 +13,7 @@ entry_into_force: 2024-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/04/04/2024003461/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2024. - Ordonnance portant approbation du compte général et règlement définitif du budget des Services du Gouvernement pour l'année 2022

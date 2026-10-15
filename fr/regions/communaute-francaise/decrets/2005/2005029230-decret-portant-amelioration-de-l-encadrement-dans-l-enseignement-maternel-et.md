@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/07/20/2005029230/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 08-09-2005 et mise à jour au 13-02-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2005. - Décret portant amélioration de l'encadrement dans l'enseignement maternel et primaire.

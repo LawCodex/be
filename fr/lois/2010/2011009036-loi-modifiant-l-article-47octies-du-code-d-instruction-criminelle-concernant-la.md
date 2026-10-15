@@ -12,7 +12,7 @@ entry_into_force: 2011-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/12/29/2011009036/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 DECEMBRE 2010. - Loi modifiant l'article 47octies du Code d'instruction criminelle concernant la collaboration avec des infiltrants étrangers

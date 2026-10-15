@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/26/2007022520/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 27-04-2007 en tekstbijwerking tot 31-12-2008"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2007. - Wet houdende diverse bepalingen met het oog op de integratie van de kleine risico's in de verplichte verzekering voor geneeskundige verzorging voor de zelfstandigen.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/22/2003003368/justel"
 department: "Budget et Contrôle de la gestion - Finances"
 justel_note: "Consultation des versions antérieures à partir du 03-07-2003 et mise à jour au 30-12-2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2003. - Loi modifiant la loi du 29 octobre 1846 relative à l'organisation de la Cour des comptes.

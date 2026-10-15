@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/15/2012035751/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 04-07-2012 et mise à jour au 02-09-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2012. - Décret concernant l'importation, l'exportation, le transit et le transfert de produits liés à la défense, d'autre matériel à usage militaire, de matériel de maintien de l'ordre, d'armes à feu civiles, de pièces et de munitions (Cité comme : le Décret sur le commerce des armes)

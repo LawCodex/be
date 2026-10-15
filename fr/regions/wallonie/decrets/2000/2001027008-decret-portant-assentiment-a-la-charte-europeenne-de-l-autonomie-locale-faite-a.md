@@ -13,7 +13,7 @@ entry_into_force: 2001-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/12/14/2001027008/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2000. - Décret portant assentiment à la Charte européenne de l'autonomie locale, faite à Strasbourg, le 15 octobre 1985.

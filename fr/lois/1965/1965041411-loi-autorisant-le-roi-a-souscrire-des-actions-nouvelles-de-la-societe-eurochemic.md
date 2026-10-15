@@ -11,7 +11,7 @@ published: 1965-05-11
 entry_into_force: 1965-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1965/04/14/1965041411/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 AVRIL 1965. - Loi autorisant le Roi à souscrire des actions nouvelles de la Société Eurochemic.

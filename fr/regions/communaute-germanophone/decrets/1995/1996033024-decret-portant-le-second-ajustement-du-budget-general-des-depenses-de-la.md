@@ -13,7 +13,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/11/20/1996033024/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 1995. - Décret portant le second ajustement du budget général des dépenses de la Communauté germanophone pour l'année budgétaire 1995. (Traduction)

@@ -13,7 +13,7 @@ entry_into_force: 2014-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/13/2014201921/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2014. - Decreet houdende instemming met het Verdrag nr. 189 inzake waardig werk voor het huispersoneel, aangenomen door de Internationale Arbeidsconferentie in haar honderdste zitting in Genève op 16 juni 2011

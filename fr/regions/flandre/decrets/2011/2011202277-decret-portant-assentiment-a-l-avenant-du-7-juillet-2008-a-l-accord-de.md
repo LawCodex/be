@@ -13,7 +13,7 @@ entry_into_force: 2011-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/04/29/2011202277/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2011. - Décret portant assentiment à l'avenant du 7 juillet 2008 à l'Accord de coopération du 30 mai 2005 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale et la Communauté germanophone concernant l'économie plurielle

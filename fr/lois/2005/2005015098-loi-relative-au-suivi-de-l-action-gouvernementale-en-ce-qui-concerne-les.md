@@ -12,7 +12,7 @@ entry_into_force: 2005-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/06/14/2005015098/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUIN 2005. - Loi relative au suivi de l'action gouvernementale en ce qui concerne les objectifs du millénaire pour le développement.

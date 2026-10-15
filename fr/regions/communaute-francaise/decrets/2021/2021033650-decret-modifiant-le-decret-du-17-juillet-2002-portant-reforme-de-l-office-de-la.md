@@ -13,7 +13,7 @@ entry_into_force: 2021-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/14/2021033650/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OCTOBRE 2021. - Décret modifiant le décret du 17 juillet 2002 portant réforme de l'Office de la Naissance et de l'Enfance visant à prévoir une consultation publique dans le cadre de la conclusion d'un nouveau contrat de gestion

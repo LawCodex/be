@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/02/04/2010201036/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 04-03-2010 et mise à jour au 05-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2010. - Décret modifiant le Livre II du Code de l'Environnement contenant des dispositions diverses en matière de politique de l'eau

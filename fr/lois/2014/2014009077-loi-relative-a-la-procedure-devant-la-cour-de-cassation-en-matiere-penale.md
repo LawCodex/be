@@ -12,7 +12,7 @@ entry_into_force: 2015-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/14/2014009077/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 FEVRIER 2014. - Loi relative à la procédure devant la Cour de Cassation en matière pénale

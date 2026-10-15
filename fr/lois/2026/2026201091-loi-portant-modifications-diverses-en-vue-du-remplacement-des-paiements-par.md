@@ -12,7 +12,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/04/02/2026201091/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2026. - Loi portant modifications diverses en vue du remplacement des paiements par assignations postales par des paiements par chèque circulaire

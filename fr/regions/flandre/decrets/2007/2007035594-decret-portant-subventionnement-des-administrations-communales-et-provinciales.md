@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/09/2007035594/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 04-05-2007 et mise à jour au 16-08-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2007. - Décret portant subventionnement des administrations communales et provinciales et de la Commission communautaire flamande pour la mise en oeuvre d'une politique du Sport pour Tous (TRADUCTION)

@@ -12,7 +12,7 @@ entry_into_force: 2023-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/02/06/2023040614/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2023. - Wet houdende instemming met het Avenant, gedaan te Luxemburg op 31 augustus 2021, bij de Overeenkomst tussen het Koninkrijk België en het Groothertogdom Luxemburg tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en naar het vermogen, en het desbetreffende slotprotocol, ondertekend te Luxemburg op 17 september 1970, zoals gewijzigd door de Avenanten van 11 december 2002, van 16 juli 2009 en van 5 december 2017

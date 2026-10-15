@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/07/22/1993003521/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 29-07-1993 en tekstbijwerking tot 31-12-2004."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 1993. - Wet tot instelling van een bijdrage op de energie ter vrijwaring van het concurrentievermogen en de werkgelegenheid. -

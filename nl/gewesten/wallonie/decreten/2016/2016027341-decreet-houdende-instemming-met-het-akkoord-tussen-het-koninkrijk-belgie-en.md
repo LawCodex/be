@@ -13,7 +13,7 @@ entry_into_force: 2017-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/21/2016027341/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2016. - Decreet houdende instemming met het Akkoord tussen het Koninkrijk België en Bermuda inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te Brussel op 11 april 2013 en te Hamilton op 23 mei 2013

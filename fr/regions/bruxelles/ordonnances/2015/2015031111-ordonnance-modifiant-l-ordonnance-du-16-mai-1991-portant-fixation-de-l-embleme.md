@@ -13,7 +13,7 @@ entry_into_force: 2015-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/02/12/2015031111/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2015. - Ordonnance modifiant l'ordonnance du 16 mai 1991 portant fixation de l'emblème et du drapeau de la Région de Bruxelles-Capitale

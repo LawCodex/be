@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1984/03/20/1984923733/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 12-05-1984 et mise à jour au 07-06-2004."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 1984. - Décret portant création de l'Office flamand de l'Emploi. (note: à l'article 3, § 1er, du décret, les mots "telles qu'elles s'appliquent à la date d'entrée en vigueur du présent décret" ont été annulés par l'arrêt de la Cour d'arbitrage du 28-10-1986, publié au M.B. du 26-11-1986) (Abrogé par (DCFL 2004-05-07/53, art. 25, 008; En vigueur : indéterminée )

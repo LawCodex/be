@@ -12,7 +12,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/05/17/2004003236/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2004. - Loi modifiant l'article 194ter du Code des impôts sur les revenus 1992 relatif au régime de tax shelter pour la production audiovisuelle.

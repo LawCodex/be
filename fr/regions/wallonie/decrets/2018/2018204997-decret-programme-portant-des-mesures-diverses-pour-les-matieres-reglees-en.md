@@ -13,7 +13,7 @@ entry_into_force: 2018-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/17/2018204997/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2018. - Décret-programme portant des mesures diverses pour les matières réglées en vertu de l'article 138 de la Constitution

@@ -13,7 +13,7 @@ entry_into_force: 2001-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/12/2001029276/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2001. - Decreet houdende instemming met het Protocol bij het Samenwerkingsakkoord en de Douane-Unie tussen de Europese Economische Gemeenschap en de Republiek San Marino ingevolge de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie en de Slotakte, gemaakt te Brussel op 30 oktober 1997 (VERTALING).

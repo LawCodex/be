@@ -12,7 +12,7 @@ entry_into_force: 2002-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/11/30/2001003642/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2001. - Loi relative à la prise de participation de l'Etat belge dans une société anonyme ayant pour objet social principal l'exploitation d'une plate-forme de trading électronique sur le marché secondaire des titres de la dette publique belge.

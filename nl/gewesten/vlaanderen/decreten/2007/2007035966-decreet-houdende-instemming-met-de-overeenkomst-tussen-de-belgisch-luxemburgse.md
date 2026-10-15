@@ -13,7 +13,7 @@ entry_into_force: 2007-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/06/08/2007035966/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2007. - Decreet houdende instemming met de overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en de republiek Botswana, anderzijds, inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 7 juni 2006.

@@ -13,7 +13,7 @@ entry_into_force: 2020-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/10/30/2020015933/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OCTOBRE 2020. - Décret sur l'autorisation d'une augmentation temporaire de la capacité des crématoriums autorisés dans le cadre de COVID-19

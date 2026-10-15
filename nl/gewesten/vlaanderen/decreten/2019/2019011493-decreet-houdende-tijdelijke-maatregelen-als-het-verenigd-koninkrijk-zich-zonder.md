@@ -12,7 +12,7 @@ published: 2019-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/22/2019011493/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2019. - Decreet houdende tijdelijke maatregelen als het Verenigd Koninkrijk zich zonder akkoord uit de Europese Unie terugtrekt

@@ -12,7 +12,7 @@ entry_into_force: 2018-09-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/05/04/2018031004/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2018. - Loi portant assentiment à l'Accord d'exécution entre le Royaume de Belgique, le Grand-Duché de Luxembourg et le Royaume des Pays-Bas relatif à la coopération, à l'accompagnement et au soutien lors de mesures d'éloignement sur le territoire des pays Benelux, fait à Bruxelles le 16 juin 2016

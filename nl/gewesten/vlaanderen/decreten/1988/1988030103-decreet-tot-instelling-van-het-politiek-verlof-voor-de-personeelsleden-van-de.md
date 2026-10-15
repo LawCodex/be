@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1988/11/30/1988030103/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-11-2006 en tekstbijwerking tot 31-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 1988. - Decreet [tot instelling van het politiek verlof voor de personeelsleden van de openbare instellingen en publiekrechtelijke verenigingen die van het Vlaamse Gewest afhangen]. (DVR 1990-07-31/56, art. 1).

@@ -12,7 +12,7 @@ entry_into_force: 1988-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1987/07/14/1987015130/justel"
 department: "Buitenlandse Zaken - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1987. - Wet houdende goedkeuring van het Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, van het Protocol en van twee Gemeenschappelijke Verklaringen, opgemaakt te Rome op 19 juni 1980.

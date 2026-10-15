@@ -12,7 +12,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/14/2024202190/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 APRIL 2024. - Wet houdende diverse dringende bepalingen inzake de uitkerings- en moederschapsverzekering

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/12/19/2009031017/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "art. 16, alinéa 3 et art. 57 gewijzigd bij <ORD 2009-12-14/31 , art. 7 en 17, 002; Inwerkingtreding : 11-12-2009; zie B.St. 08-02-2010, p. 6268-7650>"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2008. - Ordonnantie houdende de algemene uitgavenbegroting van het Brussels Hoofdstedelijk Gewest voor het begrotingsjaar 2009.

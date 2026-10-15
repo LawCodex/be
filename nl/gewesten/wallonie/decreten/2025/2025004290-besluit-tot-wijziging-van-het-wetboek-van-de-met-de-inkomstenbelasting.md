@@ -13,7 +13,7 @@ entry_into_force: 2025-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/05/30/2025004290/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2025. - Besluit tot wijziging van het Wetboek van de met de inkomstenbelasting gelijkgestelde belastingen en tot aanpassing van de verkeersbelasting

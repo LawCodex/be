@@ -13,7 +13,7 @@ entry_into_force: 2013-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/07/2013203913/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2013. - Decreet houdende instemming met 1° de Overeenkomst tussen België en Denemarken tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 16 oktober 1969, zoals gewijzigd en aangevuld door de Protocollen van 27 september 1999 en 7 juli 2009; 2° het Protocol tot wijziging van de overeenkomst, vermeld onder 1°, zoals gewijzigd, ondertekend te Brussel op 7 juli 2009

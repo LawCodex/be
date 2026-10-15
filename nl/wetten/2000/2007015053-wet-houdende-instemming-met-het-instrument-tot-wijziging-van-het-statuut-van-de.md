@@ -12,7 +12,7 @@ entry_into_force: 2007-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/06/24/2007015053/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2000. - Wet houdende instemming met het Instrument tot wijziging van het Statuut van de Internationale Arbeidsorganisatie, aangenomen door de Internationale Arbeidsconferentie in haar vijfentachtigste zitting, te Genève op 19 juni 1997.

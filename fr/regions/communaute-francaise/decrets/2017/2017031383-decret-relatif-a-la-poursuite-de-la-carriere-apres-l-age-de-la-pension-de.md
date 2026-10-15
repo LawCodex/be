@@ -13,7 +13,7 @@ entry_into_force: 2017-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/10/19/2017031383/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2017. - Décret relatif à la poursuite de la carrière après l'âge de la pension de retraite du personnel enseignant, scientifique, administratif et technique des Hautes Ecoles, des Ecoles supérieures des Arts et des Universités

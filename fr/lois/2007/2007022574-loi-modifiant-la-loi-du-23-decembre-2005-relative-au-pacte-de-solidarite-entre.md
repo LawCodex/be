@@ -12,7 +12,7 @@ entry_into_force: 2007-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/31/2007022574/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2007. - Loi modifiant la loi du 23 décembre 2005 relative au pacte de solidarité entre générations en vue d'introduire un nouveau système de financement de l'assurance maladie.

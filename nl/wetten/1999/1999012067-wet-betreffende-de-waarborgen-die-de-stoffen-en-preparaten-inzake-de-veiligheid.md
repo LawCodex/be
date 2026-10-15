@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/28/1999012067/justel"
 department: "Tewerkstelling en Arbeid"
 justel_note: "Raadpleging van vroegere versies vanaf 01-07-2010 en tekstbijwerking tot 19-08-2011"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 1999. - Wet betreffende de waarborgen die de stoffen en preparaten inzake de veiligheid en de gezondheid van de werknemers met het oog op hun welzijn moeten bieden

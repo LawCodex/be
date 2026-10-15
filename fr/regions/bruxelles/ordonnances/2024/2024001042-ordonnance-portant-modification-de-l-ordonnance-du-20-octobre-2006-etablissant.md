@@ -13,7 +13,7 @@ entry_into_force: 2024-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/02/01/2024001042/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2024. - Ordonnance portant modification de l'ordonnance du 20 octobre 2006 établissant un cadre pour la politique de l'eau en vue de la transposition de la directive (UE) 2020/2184 du Parlement européen et du Conseil du 16 décembre 2020 relative à la qualité des eaux destinées à la consommation humaine

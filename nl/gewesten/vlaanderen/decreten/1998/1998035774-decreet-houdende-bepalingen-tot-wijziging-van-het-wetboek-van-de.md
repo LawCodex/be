@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/06/09/1998035774/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 18-07-1998 en tekstbijwerking tot 17-08-2000."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 1998. - Decreet houdende bepalingen tot wijziging van het Wetboek van de inkomstenbelastingen voor wat betreft de onroerende voorheffing. -

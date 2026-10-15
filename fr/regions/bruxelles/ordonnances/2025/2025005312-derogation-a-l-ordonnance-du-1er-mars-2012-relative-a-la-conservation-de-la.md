@@ -13,7 +13,7 @@ entry_into_force: 2025-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/07/16/2025005312/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2025. - Dérogation à l'Ordonnance du 1er mars 2012 relative à la conservation de la nature

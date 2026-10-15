@@ -13,7 +13,7 @@ entry_into_force: 1999-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/02/1999021310/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 1999. - Décret portant approbation de l'accord de coopération du 8 octobre 1998 entre l'Etat fédéral et la Communauté flamande relatif à la guidance et au traitement d'auteurs d'infraction à caractère sexuel. (TRADUCTION).

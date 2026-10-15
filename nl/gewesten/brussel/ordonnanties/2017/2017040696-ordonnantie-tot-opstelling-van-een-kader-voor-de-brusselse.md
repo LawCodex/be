@@ -11,7 +11,7 @@ date: 2017-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/07/27/2017040696/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JULI 2017. - Ordonnantie tot opstelling van een kader voor de Brusselse ontwikkelingssamenwerking

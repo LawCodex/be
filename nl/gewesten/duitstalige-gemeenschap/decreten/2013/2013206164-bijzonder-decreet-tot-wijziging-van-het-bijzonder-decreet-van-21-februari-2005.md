@@ -12,7 +12,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/10/14/2013206164/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2013. - Bijzonder decreet tot wijziging van het bijzonder decreet van 21 februari 2005 houdende oprichting van een autonome hogeschool

@@ -13,7 +13,7 @@ entry_into_force: 1987-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1986/12/23/1987029084/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1986. - Decreet houdende het invoeren van een eenvormige medische urgentiekaart.

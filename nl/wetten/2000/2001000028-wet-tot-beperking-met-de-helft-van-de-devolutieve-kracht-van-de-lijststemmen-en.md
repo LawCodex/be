@@ -12,7 +12,7 @@ entry_into_force: 2001-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/12/27/2001000028/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 2000. - Wet tot beperking met de helft van de devolutieve kracht van de lijststemmen en tot afschaffing van het onderscheid tussen kandidaat-titularissen en kandidaat-opvolgers voor de verkiezing van de federale Wetgevende Kamers en de Raad van de Duitstalige Gemeenschap.

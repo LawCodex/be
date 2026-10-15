@@ -12,7 +12,7 @@ entry_into_force: 2005-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/05/11/2005015076/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2005. - Wet houdende instemming met de Overeenkomst, door de Raad vastgesteld overeenkomstig artikel 34 van het Verdrag betreffende de Europese Unie, betreffende de wederzijdse rechtshulp in strafzaken tussen de lid-Staten van de Europese Unie, gedaan te Brussel op 29 mei 2000 en het Protocol vastgesteld door de Raad overeenkomstig artikel 34 van het Verdrag betreffende de Europese Unie, bij de Overeenkomst betreffende de wederzijdse rechtshulp in strafzaken tussen de lid-Staten van de Europese Unie, gedaan te Luxemburg op 16 oktober 2001.

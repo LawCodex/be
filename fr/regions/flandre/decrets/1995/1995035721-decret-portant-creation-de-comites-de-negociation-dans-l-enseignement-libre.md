@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/05/1995035721/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-06-1995 et mise à jour au 14-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 1995. - Décret portant création de comités de négociation dans l'enseignement libre subventionné.

@@ -13,7 +13,7 @@ entry_into_force: 2014-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/20/2014202094/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2014. - Décret portant assentiment à l'accord de coopération du 4 décembre 2012 entre la Communauté française et la Région wallonne portant sur le financement de la recherche fondamentale stratégique dans le cadre de politiques croisées

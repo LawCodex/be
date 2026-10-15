@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/02/2019012866/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 05-06-2019 et mise à jour au 15-07-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Loi relative aux pétitions adressées à la Chambre des représentants

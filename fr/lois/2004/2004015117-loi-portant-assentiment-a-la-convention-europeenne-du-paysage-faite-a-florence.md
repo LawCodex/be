@@ -12,7 +12,7 @@ entry_into_force: 2004-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/15/2004015117/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 2004. - Loi portant assentiment à la Convention européenne du Paysage, faite à Florence le 20 octobre 2000.

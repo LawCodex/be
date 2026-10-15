@@ -13,7 +13,7 @@ entry_into_force: 2009-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/02/16/2009033017/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 2009. - Decreet houdende instemming met het Verdrag van de Raad van Europa inzake de bestrijding van mensenhandel, gedaan te Warschau op 16 mei 2005

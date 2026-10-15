@@ -12,7 +12,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/12/08/2025009746/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2025. - Wet betreffende de financiële ondersteuning van sommige buitenlandse militairen die een opleiding volgen aan een Belgische militaire onderwijsinstelling

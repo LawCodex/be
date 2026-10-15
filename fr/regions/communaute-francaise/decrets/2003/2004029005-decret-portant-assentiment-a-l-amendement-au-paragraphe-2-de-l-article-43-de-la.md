@@ -13,7 +13,7 @@ entry_into_force: 2004-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/17/2004029005/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2003. - Décret portant assentiment à l'amendement au paragraphe 2 de l'article 43 de la Convention relative aux droits de l'enfant, adopté à la Conférence des Etats parties, le 12 décembre 1995.

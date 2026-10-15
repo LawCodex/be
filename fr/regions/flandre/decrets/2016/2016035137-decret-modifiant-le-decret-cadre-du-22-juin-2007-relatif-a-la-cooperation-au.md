@@ -13,7 +13,7 @@ entry_into_force: 2016-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/01/22/2016035137/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 2016. - Décret modifiant le décret cadre du 22 juin 2007 relatif à la coopération au développement

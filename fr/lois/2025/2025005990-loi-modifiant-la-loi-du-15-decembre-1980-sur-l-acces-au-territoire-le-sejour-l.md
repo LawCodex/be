@@ -12,7 +12,7 @@ entry_into_force: 2025-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/07/18/2025005990/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2025. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers en ce qui concerne les conditions pour le regroupement familial

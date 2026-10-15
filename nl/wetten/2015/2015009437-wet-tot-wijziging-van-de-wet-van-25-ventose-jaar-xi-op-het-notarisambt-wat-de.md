@@ -11,7 +11,7 @@ published: 2015-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/07/17/2015009437/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2015. - Wet tot wijziging van de wet van 25 ventôse jaar XI op het notarisambt wat de benoemingsvereisten betreft

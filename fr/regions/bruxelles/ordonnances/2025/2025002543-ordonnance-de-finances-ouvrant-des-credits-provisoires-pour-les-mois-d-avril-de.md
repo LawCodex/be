@@ -13,7 +13,7 @@ entry_into_force: 2025-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/03/21/2025002543/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 2025. - Ordonnance de finances ouvrant des crédits provisoires pour les mois d'avril, de mai et de juin 2025 sur le budget de la Région de Bruxelles-Capitale pour l'année budgétaire 2025

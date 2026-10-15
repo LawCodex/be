@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1989/03/02/1989011067/justel"
 department: "Affaires économiques - Finances - Justice"
 justel_note: "Consultation des versions antérieures à partir du 26-07-1991 et mise à jour au 12-06-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 1989. - Loi relative à la publicité des participations importantes dans les sociétés cotées en bourse et réglementant les offres publiques d'acquisition.

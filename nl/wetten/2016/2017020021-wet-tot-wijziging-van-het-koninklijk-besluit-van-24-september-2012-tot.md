@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/20/2017020021/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2016. - Wet tot wijziging van het koninklijk besluit van 24 september 2012 tot uitvoering van artikel 123 van de wet van 28 december 2011 houdende diverse bepalingen

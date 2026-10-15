@@ -13,7 +13,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/03/14/2008203169/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2008. - Décret modifiant le décret du 4 avril 2003 relatif à l'animation socioculturelle des adultes (TRADUCTION).

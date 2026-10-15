@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/09/2017012932/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 2017. - Décret portant assentiment à la convention n° 188 sur le travail dans la pêche, adoptée à Genève le 14 juin 2007 par l'Organisation Internationale du Travail dans sa 96ième session

@@ -13,7 +13,7 @@ entry_into_force: 2016-01-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/17/2015206061/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2015. - Decreet tot wijziging van het Wetboek van de plaatselijke democratie en de decentralisatie, met het oog op de nadere bepaling van de bevoegdheidsregels inzake gemeentelijke en provinciale overheidsopdrachten

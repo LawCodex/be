@@ -12,7 +12,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/01/1999003170/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 1999. - Wet tot toekenning van de fiscale aftrekbaarheid voor giften aan het Europees Centrum voor Vermiste en Seksueel Uitgebuite Kinderen - België - Stichting naar Belgisch recht en tot vrijstelling van de belasting voor aanplakking.

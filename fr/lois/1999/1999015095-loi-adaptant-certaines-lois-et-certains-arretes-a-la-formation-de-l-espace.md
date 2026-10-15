@@ -12,7 +12,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/13/1999015095/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 1999. - Loi adaptant certaines lois et certains arrêtés à la formation de l'Espace économique européen, en exécution de règlements et de directives pris par les institutions des Communautés européennes.

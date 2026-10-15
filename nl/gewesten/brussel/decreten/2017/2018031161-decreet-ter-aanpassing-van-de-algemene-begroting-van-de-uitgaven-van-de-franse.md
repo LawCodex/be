@@ -13,7 +13,7 @@ entry_into_force: 2017-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/12/15/2018031161/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2017. - Decreet ter aanpassing van de algemene begroting van de uitgaven van de Franse Gemeenschapscommissie voor het begrotingsjaar 2017

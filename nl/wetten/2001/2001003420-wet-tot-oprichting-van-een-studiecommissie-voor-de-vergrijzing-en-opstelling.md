@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/09/05/2001003420/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 14-09-2001 en tekstbijwerking tot 20-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 SEPTEMBER 2001. - [Wet tot oprichting van een Studiecommissie voor de vergrijzing en opstelling van een Vergrijzingsnota] &lt;Opschrift vervangen door W 2016-12-18/01 , art. 63, 005; Inwerkingtreding : 01-01-2017&gt;

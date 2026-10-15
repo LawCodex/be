@@ -12,7 +12,7 @@ entry_into_force: 2002-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/01/07/2001011464/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANVIER 2002. - Loi modifiant la loi du 25 juin 1992 sur le contrat d'assurance terrestre.

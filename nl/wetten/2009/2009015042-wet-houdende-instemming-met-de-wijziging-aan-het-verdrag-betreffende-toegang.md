@@ -12,7 +12,7 @@ entry_into_force: 2009-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/02/19/2009015042/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 FEBRUARI 2009. - Wet houdende instemming met de Wijziging aan het Verdrag betreffende toegang tot informatie, inspraak bij besluitvorming en toegang tot de rechter inzake milieuaangelegenheden, aangenomen te Almaty op 27 mei 2005

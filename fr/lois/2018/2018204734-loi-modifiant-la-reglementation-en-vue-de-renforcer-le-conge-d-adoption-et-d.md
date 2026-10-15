@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/09/06/2018204734/justel"
 department: "Emploi, Travail et Concertation sociale - Sécurité sociale - Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 26-09-2018 et mise à jour au 17-01-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 SEPTEMBRE 2018. - Loi modifiant la réglementation en vue de renforcer le congé d'adoption et d'instaurer le congé parental d'accueil

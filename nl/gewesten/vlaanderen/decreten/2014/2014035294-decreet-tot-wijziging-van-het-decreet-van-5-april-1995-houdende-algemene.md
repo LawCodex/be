@@ -13,7 +13,7 @@ entry_into_force: 2014-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/14/2014035294/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEBRUARI 2014. - Decreet tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het Energiedecreet van 8 mei 2009

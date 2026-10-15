@@ -13,7 +13,7 @@ entry_into_force: 2012-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/26/2012202686/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2012. - Decreet houdende instemming met de Economische Partnerovereenkomst tussen de Cariforum-staten, enerzijds, en de Europese Gemeenschap en haar lidstaten, anderzijds, en de Slotakte, ondertekend in Bridgetown, Barbados, op 15 oktober 2008

@@ -11,7 +11,7 @@ published: 2026-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/11/10/2026005085/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2025. - Loi portant création du Comité consultatif du fret ferroviaire

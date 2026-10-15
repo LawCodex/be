@@ -13,7 +13,7 @@ entry_into_force: 2024-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/16/2024005930/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Décret portant assentiment à l'accord de coopération du 14 mars 2024 entre la Commission communautaire française, la Commission communautaire commune et la Région de Bruxelles-Capitale concernant la création de la plateforme permanente de dialogue et de concertation du non-marchand et son hébergement auprès de Brupartners

@@ -13,7 +13,7 @@ entry_into_force: 2007-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/04/26/2007029128/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2007. - Decreet houdende instemming met het samenwerkingsakkoord gesloten op 14 juli 2006 tussen het Waalse Gewest en de Franse Gemeenschap betreffende de uitrusting die ter beschikking wordt gesteld in het kader van de herwaardering van het kwalificatieonderwijs (VERTALING).

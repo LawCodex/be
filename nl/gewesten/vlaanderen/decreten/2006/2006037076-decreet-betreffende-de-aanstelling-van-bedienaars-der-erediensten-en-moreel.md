@@ -12,7 +12,7 @@ published: 2007-01-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/15/2006037076/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2006. - Decreet betreffende de aanstelling van bedienaars der erediensten en moreel consulenten bij sommige rechtspersonen.

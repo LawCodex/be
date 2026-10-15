@@ -13,7 +13,7 @@ entry_into_force: 2013-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/02/22/2013035245/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 2013. - Décret portant assentiment de la Convention du Conseil de l'Europe sur l'accès aux documents publics, fait à Tromso le 18 juin 2009

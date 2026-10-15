@@ -13,7 +13,7 @@ entry_into_force: 2015-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/03/02/2015201529/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2015. - Decreet houdende instemming met het Protocol, gedaan te Brussel op 16 maart 2010, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Helleense Republiek tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Athene op 25 mei 2004

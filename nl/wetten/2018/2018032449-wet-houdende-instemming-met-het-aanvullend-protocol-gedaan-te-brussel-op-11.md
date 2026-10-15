@@ -11,7 +11,7 @@ entry_into_force: 2012-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/11/25/2018032449/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBER 2018. - Wet houdende instemming met het Aanvullend Protocol, gedaan te Brussel op 11 juli 2012 en te New York op 11 juli 2012, bij het Aanvullend Akkoord bij de Algemene Overeenkomst inzake de voorrechten en immuniteiten van de Verenigde Naties tussen het Koninkrijk België en de Verenigde Naties, ondertekend te Brussel op 22 januari 1976

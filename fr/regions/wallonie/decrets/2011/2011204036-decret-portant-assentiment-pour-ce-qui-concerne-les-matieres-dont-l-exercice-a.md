@@ -13,7 +13,7 @@ entry_into_force: 2011-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/07/20/2011204036/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2011. - Décret portant assentiment, pour ce qui concerne les matières dont l'exercice a été transféré par la Communauté française à la Région wallonne, à la Convention n° 142 concernant le rôle de l'orientation et de la formation professionnelles dans la mise en valeur des ressources humaines, adoptée par la Conférence générale de l'Organisation internationale du Travail à sa soixantième session, à Genève le 23 juin 1975

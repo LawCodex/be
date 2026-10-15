@@ -13,7 +13,7 @@ entry_into_force: 2012-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/23/2012035096/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2011. - Décret modifiant le décret du 30 mars 2007 relatif aux conventions Brownfield

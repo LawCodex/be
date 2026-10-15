@@ -13,7 +13,7 @@ entry_into_force: 2007-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/06/2007029207/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2007. - Decreet tot wijziging van het decreet van 24 november 2006 betreffende de toekenning van de sportschutterslicentie (VERTALING).

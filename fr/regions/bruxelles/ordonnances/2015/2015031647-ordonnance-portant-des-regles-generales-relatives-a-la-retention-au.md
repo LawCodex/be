@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/10/08/2015031647/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 13-10-2015 et mise à jour au 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 OCTOBRE 2015. - Ordonnance portant des règles générales relatives à la rétention, au recouvrement et à la non-liquidation des subventions en matière d'emploi et d'économie

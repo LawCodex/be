@@ -17,7 +17,7 @@ department: "Waalse Gewest"
 justel_notes:
   - "Bij arrest van 17-01-1990 (B.St. 08-02-1990), heeft het Arbitragehof vernietigd : 1. in artikel 60 de woorden \"die gelden zolang het tegendeel niet bewezen is\"; 2. artikel 62, tweede lid; 3. artikel 63, tweede lid; 4. artikel 64; 5. artikel 66"
   - "Raadpleging van vroegere versies vanaf 10-07-2007 en tekstbijwerking tot 19-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 1988. - Decreet op de mijnen. &lt;Vertaling&gt;

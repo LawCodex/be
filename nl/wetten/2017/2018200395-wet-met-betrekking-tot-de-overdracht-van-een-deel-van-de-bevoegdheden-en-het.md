@@ -12,7 +12,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/12/22/2018200395/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2017. - Wet met betrekking tot de overdracht van een deel van de bevoegdheden en het personeel van de Directie-generaal Oorlogsslachtoffers naar de Federale Pensioendienst

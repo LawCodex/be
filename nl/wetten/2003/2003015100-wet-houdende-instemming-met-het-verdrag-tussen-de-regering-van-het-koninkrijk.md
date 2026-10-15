@@ -10,7 +10,7 @@ date: 2003-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/13/2003015100/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2003. - Wet houdende instemming met het Verdrag tussen de Regering van het Koninkrijk België en de Regering van de Republiek Polen inzake de bestrijding van de georganiseerde criminaliteit, ondertekend te Brussel op 13 november 2000.

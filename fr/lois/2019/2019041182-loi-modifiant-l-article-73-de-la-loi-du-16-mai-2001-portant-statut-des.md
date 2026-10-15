@@ -12,7 +12,7 @@ entry_into_force: 2019-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/05/20/2019041182/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAI 2019. - Loi modifiant l'article 73 de la loi du 16 mai 2001 portant statut des militaires du cadre de réserve des Forces armées

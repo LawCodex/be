@@ -12,7 +12,7 @@ entry_into_force: 2026-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/02/10/2026200237/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2026. - Wet tot wijziging van de wet inzake overheidsopdrachten aangaande bijzondere maatregelen voor overheidsopdrachten voor grensoverschrijdende projecten die verband houden met het trans-Europees vervoersnetwerk

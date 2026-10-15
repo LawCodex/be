@@ -13,7 +13,7 @@ entry_into_force: 2022-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/19/2024004293/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2024. - Décret portant assentiment à l'accord de siège, avec annexe, entre le Royaume de Belgique et l'Autorité intergouvernementale pour le Développement, signé à Bruxelles le 16 février 2022

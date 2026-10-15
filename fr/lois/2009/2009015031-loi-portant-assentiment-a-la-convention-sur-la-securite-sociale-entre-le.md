@@ -12,7 +12,7 @@ entry_into_force: 2009-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/02/12/2009015031/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2009. - Loi portant assentiment à la Convention sur la sécurité sociale entre le Royaume de Belgique et la République de Corée, signée à Bruxelles, le 5 juillet 2005

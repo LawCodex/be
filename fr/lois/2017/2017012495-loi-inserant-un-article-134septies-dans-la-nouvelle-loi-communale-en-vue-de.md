@@ -12,7 +12,7 @@ entry_into_force: 2017-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/05/13/2017012495/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2017. - Loi insérant un article 134septies dans la Nouvelle Loi communale en vue de permettre au Bourgmestre de fermer les établissements suspectés d'abriter des activités terroristes

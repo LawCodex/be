@@ -13,7 +13,7 @@ entry_into_force: 2019-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/04/04/2019011788/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2019. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 5 oktober 2018 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de financiering van de strategische spoorweginfrastructuren

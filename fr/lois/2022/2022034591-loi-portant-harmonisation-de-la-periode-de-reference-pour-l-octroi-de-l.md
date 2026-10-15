@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/28/2022034591/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2022. - Loi portant harmonisation de la période de référence pour l'octroi de l'indemnité de fermeture et adaptation des montants des salaires annuels pour la cotisation spéciale de compensation

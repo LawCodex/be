@@ -13,7 +13,7 @@ entry_into_force: 2023-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/31/2023041636/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2023. - Decreet over diverse bepalingen over het gemeenschappelijk vervoer, de weginfrastructuur en het wegenbeleid, en de waterinfrastructuur en het waterbeleid

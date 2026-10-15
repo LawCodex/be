@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/12/22/2009003483/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2009 et mise à jour au 31-12-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2009. - Loi portant des dispositions fiscales et diverses

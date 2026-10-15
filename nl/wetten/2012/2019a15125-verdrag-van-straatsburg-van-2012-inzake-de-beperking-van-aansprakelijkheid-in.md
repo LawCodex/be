@@ -11,7 +11,7 @@ entry_into_force: 2022-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/09/27/2019A15125/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 SEPTEMBER 2012. - Verdrag van Straatsburg van 2012 inzake de beperking van aansprakelijkheid in de binnenvaart (CLNI 2012)

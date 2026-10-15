@@ -13,7 +13,7 @@ entry_into_force: 2001-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/03/29/2001029181/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2001. - Decreet tot wijziging van het decreet van 5 augustus 1995 houdende diverse maatregelen inzake hoger onderwijs. (Vertaling).

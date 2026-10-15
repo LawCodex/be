@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/07/19/2010029472/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 31-08-2010 en tekstbijwerking tot 09-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2010. - Decreet betreffende de kosteloosheid en de democratisering van het hoger onderwijs

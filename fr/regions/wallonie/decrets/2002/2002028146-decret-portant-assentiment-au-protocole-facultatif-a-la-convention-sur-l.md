@@ -13,7 +13,7 @@ entry_into_force: 2002-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/11/13/2002028146/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2002. - Décret portant assentiment au Protocole facultatif à la Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes, fait à New York le 6 octobre 1999.

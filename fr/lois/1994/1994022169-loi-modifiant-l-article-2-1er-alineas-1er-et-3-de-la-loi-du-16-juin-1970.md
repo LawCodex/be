@@ -12,7 +12,7 @@ entry_into_force: 1994-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/03/22/1994022169/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 1994. - Loi modifiant l'article 2, § 1er, alinéas 1er et 3, de la loi du 16 juin 1970 relative aux bonifications pour diplômes en matière de pensions des membres de l'enseignement.

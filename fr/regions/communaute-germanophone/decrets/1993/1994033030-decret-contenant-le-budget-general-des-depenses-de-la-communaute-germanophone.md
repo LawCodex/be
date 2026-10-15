@@ -13,7 +13,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/12/16/1994033030/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 1993. - Décret contenant le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 1994.

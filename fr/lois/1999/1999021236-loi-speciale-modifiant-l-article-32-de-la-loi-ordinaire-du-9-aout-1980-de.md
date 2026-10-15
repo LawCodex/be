@@ -12,7 +12,7 @@ entry_into_force: 1999-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999021236/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 1999. - Loi spéciale modifiant l'article 32 de la loi ordinaire du 9 août 1980 de réformes institutionnelles, relative à la prévention et au règlement des conflits d'intérêts.

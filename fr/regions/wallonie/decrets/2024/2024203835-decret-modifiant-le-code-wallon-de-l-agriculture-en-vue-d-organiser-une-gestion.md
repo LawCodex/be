@@ -13,7 +13,7 @@ entry_into_force: 2024-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/25/2024203835/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2024. - Décret modifiant le Code wallon de l'Agriculture en vue d'organiser une gestion centralisée des biens immobiliers agricoles publics ainsi qu'un droit de préférence sur lesdits biens au bénéfice de la Région wallonne

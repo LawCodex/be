@@ -12,7 +12,7 @@ published: 2008-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/09/2008029367/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2008. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschap, het Waals Gewest en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest tot oprichting van een gemeenschappelijke entiteit voor de internationale betrekkingen "Wallonie-Bruxelles" (VERTALING).

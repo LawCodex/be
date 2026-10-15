@@ -12,7 +12,7 @@ entry_into_force: 1994-07-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/05/24/1994000367/justel"
 department: "Intérieur - Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 1994. - Loi visant à promouvoir une répartition équilibrée des hommes et des femmes sur les listes de candidatures aux élections.

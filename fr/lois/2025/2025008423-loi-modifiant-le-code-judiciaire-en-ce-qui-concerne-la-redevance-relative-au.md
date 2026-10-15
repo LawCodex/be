@@ -12,7 +12,7 @@ entry_into_force: 2023-11-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/10/24/2025008423/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 OCTOBRE 2025. - Loi modifiant le Code judiciaire en ce qui concerne la redevance relative au financement des coûts de gestion du registre central des règlements collectifs de dettes

@@ -12,7 +12,7 @@ entry_into_force: 2006-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/02/2006000396/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2006. - Loi modifiant l'arrêté royal du 30 mars 2001 portant la position juridique du personnel des services de police en ce qui concerne la nomination dans le grade de commissionnement de certains membres du personnel de la direction générale de la police judiciaire.

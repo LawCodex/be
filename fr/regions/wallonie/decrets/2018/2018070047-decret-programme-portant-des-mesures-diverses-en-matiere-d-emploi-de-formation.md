@@ -13,7 +13,7 @@ entry_into_force: 2018-10-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/17/2018070047/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2018. - Décret-programme portant des mesures diverses en matière d'emploi, de formation, d'économie, d'industrie, de recherche, d'innovation, de numérique, d'environnement, de transition écologique, d'aménagement du territoire, de travaux publics, de mobilité et de transports, d'énergie, de climat, de politique aéroportuaire, de tourisme, d'agriculture, de nature, de forêt, des pouvoirs locaux et de logement

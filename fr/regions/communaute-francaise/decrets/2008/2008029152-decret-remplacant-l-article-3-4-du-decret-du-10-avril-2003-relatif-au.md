@@ -13,7 +13,7 @@ entry_into_force: 2008-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/01/2008029152/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2008. - Décret remplaçant l'article 3, § 4, du décret du 10 avril 2003 relatif au fonctionnement des instances d'avis oeuvrant dans le secteur culturel.

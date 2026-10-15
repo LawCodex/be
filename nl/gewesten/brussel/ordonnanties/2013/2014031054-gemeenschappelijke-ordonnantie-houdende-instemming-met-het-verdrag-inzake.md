@@ -13,7 +13,7 @@ entry_into_force: 2014-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/12/20/2014031054/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2013. - (Gemeenschappelijke) ordonnantie houdende instemming met : het Verdrag inzake stabiliteit, coördinatie en bestuur in de Economische en Monetaire Unie tussen het Koninkrijk België, de Republiek Bulgarije, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië, de Republiek Slovenië, de Slowaakse Republiek, de Republiek Finland en het Koninkrijk Zweden, en met de notulen van het Verdrag inzake stabiliteit, coördinatie en bestuur in de Economische en Monetaire Unie, ondertekend te Brussel op 2 maart 2012

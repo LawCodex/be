@@ -10,7 +10,7 @@ date: 1998-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/07/15/1998003441/justel"
 department: "Financiën - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 1998. - Wet tot wijziging van sommige wettelijke bepalingen inzake financiële instrumenten en effectenclearingstelsels.

@@ -13,7 +13,7 @@ entry_into_force: 2019-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/22/2019011580/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2019. - Décret portant modification des articles 18, 19, 157, 184/1 et 218 du décret du 27 mars 2009 relatif à la radiodiffusion et à la télévision

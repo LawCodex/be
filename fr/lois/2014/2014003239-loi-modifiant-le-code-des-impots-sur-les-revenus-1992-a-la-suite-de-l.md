@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/08/2014003239/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 28-05-2014 et mise à jour au 28-12-2015"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2014. - Loi modifiant le Code des impôts sur les revenus 1992 à la suite de l'introduction de la taxe additionnelle régionale sur l'impôt des personnes physiques visée au titre III/1 de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions, modifiant les règles en matière d'impôt des non-résidents et modifiant la loi du 6 janvier 2014 relative à la Sixième Réforme de l'Etat concernant les matières visées à l'article 78 de la Constitution

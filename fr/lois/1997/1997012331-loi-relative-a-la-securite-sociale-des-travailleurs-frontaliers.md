@@ -12,7 +12,7 @@ entry_into_force: 1997-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/03/13/1997012331/justel"
 department: "Emploi et Travail"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 1997. - Loi relative à la sécurité sociale des travailleurs frontaliers.

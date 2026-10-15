@@ -13,7 +13,7 @@ last_amended: 2026-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1941/04/10/1941041050/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 10-03-2026 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 1941. - BESLUIT-WET betreffende het verbod van economische betrekkingen met den vijand

@@ -12,7 +12,7 @@ entry_into_force: 2009-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/12/22/2009009000/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2008. - Loi modifiant le Code judiciaire en ce qui concerne la répétibilité des honoraires et des frais d'avocat.

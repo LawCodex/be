@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/24/2017040219/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 25-04-2017 et mise à jour au 09-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2017. - Décret relatif à l'expropriation d'utilité publique (cité comme : Décret flamand sur les Expropriations du 24 février 2017)

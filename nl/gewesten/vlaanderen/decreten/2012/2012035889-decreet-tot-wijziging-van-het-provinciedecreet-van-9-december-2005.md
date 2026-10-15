@@ -12,7 +12,7 @@ published: 2012-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/29/2012035889/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2012. - Decreet tot wijziging van het Provinciedecreet van 9 december 2005

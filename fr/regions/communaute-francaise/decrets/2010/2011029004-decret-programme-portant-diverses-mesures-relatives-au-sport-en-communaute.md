@@ -13,7 +13,7 @@ entry_into_force: 2011-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/15/2011029004/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2010. - Décret-programme portant diverses mesures relatives au sport en Communauté française, aux Fonds budgétaires figurant au Budget général des dépenses de la Communauté française, au Conseil de la transmission de la mémoire, à l'enseignement obligatoire et à l'enseignement de promotion sociale, aux Bâtiments scolaires, au financement des Institutions universitaires et des Hautes Ecoles, à la politique scientifique et universitaire, au transfert de l'enseignement supérieur de l'Architecture à l'Université et aux aides aux Institutions universitaires et à la négociation en Communauté française

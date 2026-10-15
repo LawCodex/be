@@ -12,7 +12,7 @@ entry_into_force: 2002-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/01/22/2002000119/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 2002. - Loi spéciale modifiant la loi spéciale du 8 août 1980 de réformes institutionnelles et la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises en vue de réduire de moitié l'effet dévolutif des votes exprimés en case de tête et de supprimer la distinction entre candidats titulaires et candidats suppléants pour l'élection du Conseil flamand, du Conseil régional wallon et du Conseil de la Région de Bruxelles-Capitale.

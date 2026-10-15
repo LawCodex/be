@@ -13,7 +13,7 @@ entry_into_force: 2019-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/12/06/2018032452/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 2018. - Ordonnantie houdende wijziging van de ordonnantie van 24 april 2008 betreffende de voorzieningen voor opvang of huisvesting van bejaarde personen

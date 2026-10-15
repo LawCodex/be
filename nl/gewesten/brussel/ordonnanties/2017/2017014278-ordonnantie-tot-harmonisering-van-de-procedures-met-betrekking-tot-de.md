@@ -13,7 +13,7 @@ entry_into_force: 2017-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/12/07/2017014278/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2017. - Ordonnantie tot harmonisering van de procedures met betrekking tot de administratieve geldboeten inzake de reisagentschappen en het toeristische logies

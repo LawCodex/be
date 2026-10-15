@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/19/2024004721/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 24-05-2024 en tekstbijwerking tot 24-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2024. - Decreet over de vrijwillige samenvoeging van de gemeenten Lokeren en Moerbeke en tot wijziging van artikel 19septies decies van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, wat betreft de aanduiding van de nieuwe gemeente, en van de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 [....] (Opschrift gewijzigd door &lt;DVR 2024-05-03/14 , art. 10, 002; Inwerkingtreding : 01-01-2025&gt;)

@@ -12,7 +12,7 @@ entry_into_force: 1999-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/04/16/1998015128/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 AVRIL 1998. - Loi portant assentiment au Traité sur la Charte de l'Energie, les Annexes, les Décisions et le Protocole sur l'efficacité énergétique et les aspects environnementaux connexes, faits à Lisbonne le 17 décembre 1994

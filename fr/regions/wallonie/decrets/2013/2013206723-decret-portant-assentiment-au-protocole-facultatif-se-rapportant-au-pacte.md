@@ -13,7 +13,7 @@ entry_into_force: 2013-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/11/28/2013206723/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2013. - Décret portant assentiment au Protocole facultatif se rapportant au Pacte international relatif aux droits économiques, sociaux et culturels, adopté à New York le 10 décembre 2008

@@ -12,7 +12,7 @@ entry_into_force: 1984-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1984/06/28/1984924011/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 1984. - Wet betreffende sommige aspecten van de toestand van de vreemdelingen en houdende invoering van het Wetboek van de Belgische nationaliteit

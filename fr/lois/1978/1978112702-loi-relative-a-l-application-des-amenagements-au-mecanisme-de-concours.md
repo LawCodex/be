@@ -11,7 +11,7 @@ published: 1978-12-12
 entry_into_force: 1978-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1978/11/27/1978112702/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 1978. - Loi relative à l'application des aménagements au mécanisme de concours financier à moyen terme mis en place dans le cadre des Communautés européennes.

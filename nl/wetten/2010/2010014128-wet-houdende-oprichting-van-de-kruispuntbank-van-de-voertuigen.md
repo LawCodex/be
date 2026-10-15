@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/05/19/2010014128/justel"
 department: "Mobiliteit en Vervoer"
 justel_note: "Raadpleging van vroegere versies vanaf 28-06-2010 en tekstbijwerking tot 26-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2010. - Wet houdende oprichting van de Kruispuntbank van de voertuigen

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/17/1998027026/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 24-01-1998 et mise à jour au 26-04-2004."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 1997. - Décret-programme portant diverses mesures en matière d'action sociale et d'infrastructures sportives. -

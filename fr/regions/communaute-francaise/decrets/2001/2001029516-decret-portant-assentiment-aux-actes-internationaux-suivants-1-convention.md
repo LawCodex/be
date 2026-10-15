@@ -13,7 +13,7 @@ entry_into_force: 2001-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/11/15/2001029516/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBRE 2001. - Décret portant assentiment aux Actes internationaux suivants : 1.Convention relative à la construction et à l'exploitation d'une installation européenne de rayonnement synchrotron, à l'Acte final, aux Résolutions n° 1 à 5 et Annexes I, II, III et IV; 2. Convention entre le Royaume de Belgique et le Royaume des Pays-Bas concernant leur participation conjointe à l'installation européenne de rayonnement synchrotron ainsi que ses modalités d'exécution, et échange de lettres, signés à Bruxelles le 12 novembre 1990; 3. Protocole d'adhésion du Royaume des Pays-Bas à la Convention du 16 décembre 1988 relative à la construction et à l'exploitation d'une installation européenne de rayonnement synchrotron, signé à Paris le 9 décembre 1991, et annexe I; 4. Addendum à l'Acte final de la Conférence des plénipotentiaires pour l'établissement d'une installation européenne de rayonnement synchrotron, signé à Paris le 16 décembre 1988.

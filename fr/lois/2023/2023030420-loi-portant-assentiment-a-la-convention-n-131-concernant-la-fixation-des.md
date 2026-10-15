@@ -12,7 +12,7 @@ entry_into_force: 2025-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/02/03/2023030420/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2023. - Loi portant assentiment à la Convention n° 131 concernant la fixation des salaires minima, notamment en ce qui concerne les pays en voie de développement, adoptée à Genève le 22 juin 1970 par la Conférence Internationale du Travail à sa 54 ième session

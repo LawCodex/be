@@ -13,7 +13,7 @@ entry_into_force: 2021-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/03/25/2021041083/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2021. - Décret modifiant le décret du 28 mars 2019 relatif aux cellules de soutien et d'accompagnement de l'enseignement organisé ou subventionné par la Communauté française et au statut des conseillers au soutien et à l'accompagnement

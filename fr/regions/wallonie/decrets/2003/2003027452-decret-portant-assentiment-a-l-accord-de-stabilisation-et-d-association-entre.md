@@ -13,7 +13,7 @@ entry_into_force: 2003-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/06/06/2003027452/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2003. - Décret portant assentiment à l'Accord de stabilisation et d'association entre les Communautés européennes et leurs Etats membres, d'une part, et l'ancienne République yougoslave de Macédoine, d'autre part, ainsi qu'à l'Acte final et à l'Echange de lettres remplaçant la signature de l'Accord, signés à Luxembourg le 9 avril 2001.

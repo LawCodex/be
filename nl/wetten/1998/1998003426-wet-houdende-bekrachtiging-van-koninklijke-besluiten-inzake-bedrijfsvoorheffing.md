@@ -12,7 +12,7 @@ entry_into_force: 1998-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/07/09/1998003426/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 1998. - Wet houdende bekrachtiging van koninklijke besluiten inzake bedrijfsvoorheffing.

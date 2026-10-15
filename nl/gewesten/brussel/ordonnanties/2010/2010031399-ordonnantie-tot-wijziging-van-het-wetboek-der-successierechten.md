@@ -11,7 +11,7 @@ date: 2010-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2010/08/26/2010031399/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AUGUSTUS 2010. - Ordonnantie tot wijziging van het Wetboek der Successierechten

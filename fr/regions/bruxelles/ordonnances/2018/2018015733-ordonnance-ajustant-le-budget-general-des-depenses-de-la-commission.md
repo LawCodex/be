@@ -13,7 +13,7 @@ entry_into_force: 2018-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/12/20/2018015733/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2018. - Ordonnance ajustant le Budget général des Dépenses de la Commission communautaire commune pour l'année budgétaire 2018

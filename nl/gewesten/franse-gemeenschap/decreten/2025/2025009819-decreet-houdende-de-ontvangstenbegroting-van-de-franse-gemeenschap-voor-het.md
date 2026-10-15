@@ -14,7 +14,7 @@ end_of_validity: 2026-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/17/2025009819/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2025. - Decreet houdende de ontvangstenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2026

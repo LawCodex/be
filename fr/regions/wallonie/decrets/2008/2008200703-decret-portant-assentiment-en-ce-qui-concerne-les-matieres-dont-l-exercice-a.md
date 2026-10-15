@@ -13,7 +13,7 @@ entry_into_force: 2008-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/21/2008200703/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2008. - Décret portant assentiment, en ce qui concerne les matières dont l'exercice a été transféré par la Communauté française, à la Convention des Nations unies contre la corruption, faite à New York, le 31 octobre 2003.

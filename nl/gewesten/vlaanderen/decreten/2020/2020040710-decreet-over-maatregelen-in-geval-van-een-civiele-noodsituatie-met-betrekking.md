@@ -13,7 +13,7 @@ entry_into_force: 2020-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/03/20/2020040710/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2020. - Decreet over maatregelen in geval van een civiele noodsituatie met betrekking tot de volksgezondheid

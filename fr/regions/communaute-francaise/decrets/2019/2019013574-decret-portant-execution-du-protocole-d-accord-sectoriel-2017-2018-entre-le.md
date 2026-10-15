@@ -13,7 +13,7 @@ entry_into_force: 2019-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/25/2019013574/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2019. - Décret portant exécution du Protocole d'accord sectoriel 2017-2018 entre le Gouvernement de la Communauté française et les Organisations syndicales et les Organes de représentation et de coordination des pouvoirs organisateurs

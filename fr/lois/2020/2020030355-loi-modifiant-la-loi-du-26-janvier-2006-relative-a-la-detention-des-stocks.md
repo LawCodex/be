@@ -12,7 +12,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/03/15/2020030355/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2020. - Loi modifiant la loi du 26 janvier 2006 relative à la détention des stocks obligatoires de pétrole et des produits pétroliers et à la création d'une agence pour la gestion d'une partie de ces stocks et modifiant la loi du 10 juin 1997 relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis à accises et la loi du 13 juillet 1976 portant approbation de l'Accord relatif à un programme international de l'énergie, et de l'Annexe, faits à Paris le 18 novembre 1974

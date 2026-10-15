@@ -11,7 +11,7 @@ date: 1995-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/03/27/1995029275/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 1995. - Decreet houdende toestemming in het Verdrag inzake biologische diversiteit en in de bijlagen I en II ervan, gedaan te Rio de Janeiro op 5 juni 1992 (VERTALING).

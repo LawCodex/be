@@ -13,7 +13,7 @@ entry_into_force: 2023-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/10/21/2022042680/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OKTOBER 2022. - Decreet tot wijziging van artikel 10.2.3 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, wat de sanering van afvalwater betreft

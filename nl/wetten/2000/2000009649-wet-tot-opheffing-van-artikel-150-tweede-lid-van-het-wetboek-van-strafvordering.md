@@ -12,7 +12,7 @@ entry_into_force: 2000-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/05/31/2000009649/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2000. - Wet tot opheffing van artikel 150, tweede lid, van het Wetboek van strafvordering.

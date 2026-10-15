@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/08/05/1995029482/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 01-09-1995 et mise à jour au 02-08-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AOUT 1995. - [Décret fixant l'organisation générale de l'enseignement supérieur en hautes écoles.] (Erratum. Voir M.B. 21.09.1995, p. 26845)

@@ -12,7 +12,7 @@ entry_into_force: 2018-09-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/30/2018204312/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2018. - Loi spéciale modifiant l'article 6 de la loi spéciale du 8 août 1980 de réformes institutionnelles, en ce qui concerne les dépenses électorales engagées pour les élections locales

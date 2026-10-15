@@ -12,7 +12,7 @@ entry_into_force: 2007-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/10/26/2007002041/justel"
 department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 OCTOBRE 2006. - Loi modifiant la loi du 8 juillet 1976 organique des centres publics d'action sociale en ce qui concerne les bénéficiaires âgés qui réduisent leur patrimoine.

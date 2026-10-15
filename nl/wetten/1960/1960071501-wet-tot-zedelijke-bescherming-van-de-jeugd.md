@@ -13,7 +13,7 @@ last_amended: 2024-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1960/07/15/1960071501/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-1999 en tekstbijwerking tot 01-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 1960. - Wet tot zedelijke bescherming van de jeugd.

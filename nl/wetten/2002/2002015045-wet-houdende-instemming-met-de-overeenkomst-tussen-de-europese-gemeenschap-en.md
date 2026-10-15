@@ -10,7 +10,7 @@ date: 2002-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/01/30/2002015045/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JANUARI 2002. - Wet houdende instemming met de Overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, over het vrije verkeer van personen, gedaan te Luxemburg op 21 juni 1999.

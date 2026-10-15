@@ -13,7 +13,7 @@ last_amended: 2025-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1945/01/22/1945012201/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-2005 en tekstbijwerking tot 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANUARI 1945. - Wet betreffende de economische reglementering en de prijzen (Opschrift vervangen door W 30-07-1971, Art. 3 § 1)

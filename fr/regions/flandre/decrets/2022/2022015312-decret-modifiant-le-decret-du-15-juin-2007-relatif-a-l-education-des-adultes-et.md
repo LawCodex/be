@@ -13,7 +13,7 @@ entry_into_force: 2023-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/24/2022015312/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2022. - Décret modifiant le décret du 15 juin 2007 relatif à l'éducation des adultes et modifiant le décret du 7 juin 2013 relatif à la politique flamande d'intégration et d'insertion civique consécutivement à la refonte de la politique en matière d'insertion civique

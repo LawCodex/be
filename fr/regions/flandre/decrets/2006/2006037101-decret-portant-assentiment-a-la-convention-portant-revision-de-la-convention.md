@@ -13,7 +13,7 @@ entry_into_force: 2007-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/15/2006037101/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2006. - Décret portant assentiment à la Convention portant révision de la Convention portant création d'un Institut universitaire européen, et l'Acte final, faits à Florence le 18 juin 1992 et le 17 septembre 1992 (TRADUCTION).

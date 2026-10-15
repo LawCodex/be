@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/02/25/2018011241/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 21-03-2018 en tekstbijwerking tot 16-06-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 2018. - Wet tot oprichting van Sciensano (I)

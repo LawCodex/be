@@ -12,7 +12,7 @@ entry_into_force: 2002-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/01/23/2002011000/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JANVIER 2002. - Loi relative à la publicité pour les véhicules à moteur.

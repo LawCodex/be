@@ -11,7 +11,7 @@ published: 1998-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/11/30/1998015151/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 1994. - Wet houdende goedkeuring van volgende internationale akten : 1. Europa-Overeenkomst waarbij een associatie wordt tot stand gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Slowaakse Republiek, anderzijds, Bijlagen I, II, III, IV, V, VI, VII, VIII, IX, X, XIa, XIb, XII, XIII, XIV, XV, XVIa, XVIb, XVIc en XVII, Protocollen 1, 2, 3, 4, 5, 6, 7 en 8, en Slotakte; 2. Europa-Overeenkomst waarbij een associatie wordt tot stand gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Tsjechische Republiek, anderzijds, Bijlagen I, II, III, IV, V, VI, VII, VIII, IX, X, XIa, XIb, XII, XIII, XIV, XV, XVIa, XVIb, XVIc en XVII, Protocollen 1, 2, 3, 4, 5, 6, 7 en 8, en Slotakte, ondertekend te Luxemburg op 4 oktober 1993.

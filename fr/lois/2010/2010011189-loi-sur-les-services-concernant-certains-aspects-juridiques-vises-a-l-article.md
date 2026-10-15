@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/03/26/2010011189/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 30-04-2010 et mise à jour au 31-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2010. - Loi sur les services concernant certains aspects juridiques visés à l'article 77 de la Constitution

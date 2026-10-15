@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1984/06/28/1984900065/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 06-07-1991 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 1984. - Wetboek van de Belgische nationaliteit

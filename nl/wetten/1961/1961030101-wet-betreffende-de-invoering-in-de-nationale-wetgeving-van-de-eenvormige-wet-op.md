@@ -13,7 +13,7 @@ last_amended: 2018-04-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1961/03/01/1961030101/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 19-04-1993 en tekstbijwerking tot 27-04-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 1961. - Wet betreffende de invoering in de nationale wetgeving van de eenvormige wet op de cheque en de inwerkingtreding van deze wet.

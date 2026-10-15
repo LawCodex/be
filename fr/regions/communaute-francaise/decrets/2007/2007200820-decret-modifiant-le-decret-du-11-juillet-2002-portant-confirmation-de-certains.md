@@ -13,7 +13,7 @@ entry_into_force: 2007-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/01/25/2007200820/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2007. - Décret modifiant le décret du 11 juillet 2002 portant confirmation de certains profils de formation définis conformément à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire.

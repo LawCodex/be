@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/11/2025009529/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2025. - Decreet tot wijziging van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders

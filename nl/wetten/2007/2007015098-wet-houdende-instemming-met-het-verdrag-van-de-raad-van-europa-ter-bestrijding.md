@@ -12,7 +12,7 @@ entry_into_force: 2009-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/06/03/2007015098/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2007. - Wet houdende instemming met het Verdrag van de Raad van Europa ter bestrijding van mensenhandel, gedaan te Warschau op 16 mei 2005

@@ -12,7 +12,7 @@ entry_into_force: 2017-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/03/30/2017012047/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2017. - Loi portant assentiment au Traité Benelux relatif à la coopération transfrontalière en matière d'inspection du transport routier, fait à Liège le 3 octobre 2014

@@ -12,7 +12,7 @@ entry_into_force: 2014-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/11/10/2014A15158/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2009. - Accord entre le Royaume de Belgique et la Principauté de Liechtenstein en vue de l'échange de renseignements en matière fiscale, fait à Bruxelles le 10 novembre 2009

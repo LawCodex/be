@@ -13,7 +13,7 @@ last_amended: 2001-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1875/07/09/1875070950/justel"
 justel_note: "Consultation des versions antérieures à partir du 11-07-1875 et mise à jour au 21-08-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 1875. - Loi sur les tramways.

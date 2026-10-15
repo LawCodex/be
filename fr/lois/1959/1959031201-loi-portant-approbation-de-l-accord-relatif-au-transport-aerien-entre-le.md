@@ -11,7 +11,7 @@ published: 1959-07-28
 entry_into_force: 1959-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1959/03/12/1959031201/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MARS 1959. - Loi portant approbation de l'accord relatif au transport aérien entre le Royaume de Belgique et la République fédérale d'Allemagne et ses annexes, signés à Bonn le 14 avril 1956.

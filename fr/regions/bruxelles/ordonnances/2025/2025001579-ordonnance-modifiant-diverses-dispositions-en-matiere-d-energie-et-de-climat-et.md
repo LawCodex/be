@@ -13,7 +13,7 @@ entry_into_force: 2025-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/02/13/2025001579/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 2025. - Ordonnance modifiant diverses dispositions en matière d'énergie et de climat et en matière de déchets

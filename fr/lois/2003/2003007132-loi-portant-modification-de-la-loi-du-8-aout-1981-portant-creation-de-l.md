@@ -12,7 +12,7 @@ entry_into_force: 2003-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/10/2003007132/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AVRIL 2003. - Loi portant modification de la loi du 8 août 1981 portant création de l'Institut national des invalides de guerre, anciens combattants et victimes de guerre, ainsi que du Conseil supérieur des invalides de guerre, anciens combattants et victimes de la guerre et créant l'Institut des vétérans.

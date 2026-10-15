@@ -13,7 +13,7 @@ entry_into_force: 2013-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/01/24/2013029170/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 2013. - Décret portant assentiment à l'Accord entre la Communauté européenne et ses Etats membres, d'une part, et la République d'Afrique du Sud, d'autre part, modifiant l'Accord sur le commerce, le développement et la coopération, fait à Kleinmond le 11 septembre 2009

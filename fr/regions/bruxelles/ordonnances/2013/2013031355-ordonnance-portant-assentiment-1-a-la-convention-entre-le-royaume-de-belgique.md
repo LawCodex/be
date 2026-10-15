@@ -13,7 +13,7 @@ entry_into_force: 2013-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/05/02/2013031355/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2013. - Ordonnance portant assentiment : 1° à la Convention entre le Royaume de Belgique et la République de Saint-Marin tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu, signée à Saint-Marin le 21 décembre 2005, modifiée par le Protocole fait à Bruxelles le 14 juillet 2009; 2° au Protocole, fait à Bruxelles le 14 juillet 2009, modifiant la Convention entre le Royaume de Belgique et la République de Saint-Marin tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu, signée à Saint-Marin le 21 décembre 2005; 3° à l'échange de lettres du 9 février et du 12 avril 2011

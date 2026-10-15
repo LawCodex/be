@@ -13,7 +13,7 @@ entry_into_force: 2005-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/05/09/2005033049/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2005. - Décret portant assentiment à l'accord de coopération du 29 avril 2004 entre l'Etat fédéral, les Régions et les Communautés relatif à l'accompagnement et au suivi actifs des chômeurs (TRADUCTION).

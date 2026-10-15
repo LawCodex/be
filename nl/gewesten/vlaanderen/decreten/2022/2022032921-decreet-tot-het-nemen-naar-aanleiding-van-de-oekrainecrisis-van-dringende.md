@@ -12,7 +12,7 @@ published: 2022-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/15/2022032921/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2022. - Decreet tot het nemen, naar aanleiding van de Oekraïnecrisis, van dringende maatregelen in het onderwijs voor kleuters, leerlingen en cursisten die ressorteren onder richtlijn 2001/55/EG van de Raad van 20 juli 2001 betreffende minimumnormen voor het verlenen van tijdelijke bescherming in geval van massale toestroom van ontheemden en maatregelen ter bevordering van een evenwicht tussen de inspanning van de lidstaten voor de opvang en het dragen van de consequenties van de opvang van deze personen (III)

@@ -12,7 +12,7 @@ entry_into_force: 2001-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/27/2002010139/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 2002. - Wet tot wijziging, wat de wedden van de magistraten van de Rechterlijke Orde betreft, van het Gerechtelijk Wetboek.

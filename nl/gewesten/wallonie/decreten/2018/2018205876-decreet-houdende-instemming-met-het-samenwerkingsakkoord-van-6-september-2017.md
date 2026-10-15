@@ -11,7 +11,7 @@ date: 2018-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/08/2018205876/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 2018. - Decreet houdende instemming met het samenwerkingsakkoord van 6 september 2017 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de aanknopingsfactoren, het beheer van de lasten van het verleden, de gegevensuitwisseling inzake de gezinsbijslagen en de praktische regels betreffende de bevoegdheidsoverdracht tussen de kinderbijslagfondsen

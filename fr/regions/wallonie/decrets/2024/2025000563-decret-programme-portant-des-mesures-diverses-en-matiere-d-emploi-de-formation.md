@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/12/18/2025000563/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 24-01-2025 et mise à jour au 19-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2024. - Décret-programme portant des mesures diverses en matière d'emploi, de formation, d'économie, d'industrie, de recherche, d'innovation, de numérique, d'environnement, de transition écologique, d'aménagement du territoire, de travaux publics, de mobilité et de transports, d'énergie, de climat, de tourisme, d'agriculture, de nature et de forêt, de pouvoirs locaux et de logement

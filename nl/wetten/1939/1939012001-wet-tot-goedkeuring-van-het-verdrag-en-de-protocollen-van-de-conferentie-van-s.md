@@ -11,7 +11,7 @@ published: 1939-08-13
 entry_into_force: 1939-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1939/01/20/1939012001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 1939. - Wet tot goedkeuring van het verdrag en de protocollen van de conferentie van 's-Gravenhage 1930 voor de codificatie van het internationaal recht inzake nationaliteit.

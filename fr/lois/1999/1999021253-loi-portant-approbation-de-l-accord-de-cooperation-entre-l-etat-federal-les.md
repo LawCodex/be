@@ -12,7 +12,7 @@ entry_into_force: 1999-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/27/1999021253/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JANVIER 1999. - Loi portant approbation de l'accord de coopération entre l'Etat fédéral, les Communautés et les Régions relatif à la continuité de la politique en matière de pauvreté, signé à Bruxelles, le 5 mai 1998.

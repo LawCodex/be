@@ -13,7 +13,7 @@ entry_into_force: 2014-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/11/13/2014207018/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2014. - Décret portant assentiment à la Convention entre le Royaume de Belgique et la République hellénique tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Athènes le 25 mai 2004, ainsi qu'à son Protocole modificatif, fait à Bruxelles le 16 mars 2010

@@ -17,7 +17,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "art. 3 gewijzigd met ingang op een onbepaalde datum bij <DVR 2006-12-22/38 art. 20; Inwerkingtreding : onbepaald >"
   - "Raadpleging van vroegere versies vanaf 07-06-2006 en tekstbijwerking tot 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MAART 2006. - Decreet houdende de oprichting van de strategische adviesraad Ruimtelijke Ordening. - Onroerend Erfgoed.

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/21/2007022909/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 31-01-2014 en tekstbijwerking tot 31-01-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2007. - Wet tot wijziging van artikel 107 van de samengeordende wetten betreffende de kinderbijslag voor loonarbeiders

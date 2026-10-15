@@ -12,7 +12,7 @@ entry_into_force: 2003-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/23/2003009412/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2003. - Loi modifiant la loi du 16 juin 1993 relative à la répression des violations graves du droit international humanitaire et l'article 144ter du Code judiciaire.

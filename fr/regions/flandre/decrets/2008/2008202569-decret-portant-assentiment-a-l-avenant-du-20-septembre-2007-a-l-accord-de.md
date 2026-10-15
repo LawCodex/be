@@ -13,7 +13,7 @@ entry_into_force: 2008-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/23/2008202569/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2008. - Décret portant assentiment à l'avenant du 20 septembre 2007 à l'accord de coopération du 30 mai 2005 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale et la Communauté germanophone concernant l'économie plurielle (TRADUCTION).

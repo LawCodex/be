@@ -12,7 +12,7 @@ published: 2013-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/04/18/2013204570/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2013. - Decreet tot wijziging van sommige bepalingen van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn

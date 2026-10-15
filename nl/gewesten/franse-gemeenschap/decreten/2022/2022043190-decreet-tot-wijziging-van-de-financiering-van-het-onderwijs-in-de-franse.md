@@ -13,7 +13,7 @@ entry_into_force: 2023-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/14/2022043190/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2022. - Decreet tot wijziging van de financiering van het onderwijs in de Franse Gemeenschap

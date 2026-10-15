@@ -13,7 +13,7 @@ entry_into_force: 2018-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/07/19/2018013091/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2018. - Ordonnantie tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn

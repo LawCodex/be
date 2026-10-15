@@ -11,7 +11,7 @@ date: 2013-10-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/10/11/2013036019/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 OKTOBER 2013. - Decreet houdende de omvorming van het Havenbedrijf Gent tot een naamloze vennootschap van publiek recht

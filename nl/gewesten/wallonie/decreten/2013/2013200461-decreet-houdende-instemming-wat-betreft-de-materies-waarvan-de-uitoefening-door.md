@@ -13,7 +13,7 @@ entry_into_force: 2013-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/01/17/2013200461/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANUARI 2013. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap naar het Waalse Gewest is overgedragen, met het Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden voor de ontwikkeling van de administratieve samenwerking en bijstand inzake sociale zekerheid, opgemaakt te Brussel op 6 december 2010

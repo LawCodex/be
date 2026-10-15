@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/03/24/2000027144/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 21-01-2013 et mise à jour au 21-01-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2000. - Décret relatif à l'octroi d'une garantie de la Région à certaines entreprises touchées par la crise de la dioxine de 1999

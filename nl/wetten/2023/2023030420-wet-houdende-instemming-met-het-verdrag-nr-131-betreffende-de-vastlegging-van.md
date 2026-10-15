@@ -12,7 +12,7 @@ entry_into_force: 2025-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/02/03/2023030420/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 FEBRUARI 2023. - Wet houdende instemming met het Verdrag nr. 131 betreffende de vastlegging van minimumlonen, in het bijzonder met betrekking tot de ontwikkelingslanden, aangenomen te Genève op 22 juni 1970 door de Internationale Arbeidsconferentie tijdens haar 54 ste zitting

@@ -13,7 +13,7 @@ entry_into_force: 2022-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/12/09/2021206029/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2021. - Décret modifiant la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité

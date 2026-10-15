@@ -12,7 +12,7 @@ entry_into_force: 2022-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/08/21/2022033235/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AOUT 2022. - Loi relatif au statut et au contrôle des sociétés de bourse en ce qui concerne certaines procédures de recours accélérées auprès du Conseil d'Etat

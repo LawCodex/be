@@ -13,7 +13,7 @@ entry_into_force: 2014-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/05/08/2014031466/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2014. - Ordonnance modifiant l'ordonnance du 27 avril 1995 relative aux services de taxis et aux services de location de voitures avec chauffeur

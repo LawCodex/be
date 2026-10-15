@@ -12,7 +12,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/05/17/2004003236/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2004. - Wet tot wijziging van artikel 194ter van het Wetboek van de inkomstenbelastingen 1992 betreffende de tax shelter-regeling ten gunste van de audiovisuele productie.

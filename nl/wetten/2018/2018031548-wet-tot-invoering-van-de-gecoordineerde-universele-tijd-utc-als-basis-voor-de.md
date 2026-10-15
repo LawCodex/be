@@ -10,7 +10,7 @@ date: 2018-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/06/11/2018031548/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2018. - Wet tot invoering van de Gecoördineerde Universele Tijd (UTC) als basis voor de wettelijke tijd in België

@@ -12,7 +12,7 @@ entry_into_force: 2009-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/12/22/2009011600/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2009. - Loi adaptant certaines législations à la Directive 2006/123/CE du Parlement européen et du Conseil relative aux services dans le marché intérieur

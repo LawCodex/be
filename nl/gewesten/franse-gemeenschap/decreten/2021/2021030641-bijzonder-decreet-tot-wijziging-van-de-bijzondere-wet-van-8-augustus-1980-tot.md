@@ -13,7 +13,7 @@ entry_into_force: 2021-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/03/11/2021030641/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAART 2021. - Bijzonder decreet tot wijziging van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen met het oog op een gewaarborgde evenwichtige aanwezigheid van vrouwen en mannen binnen de regering van de Franse Gemeenschap

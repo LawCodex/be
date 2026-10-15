@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/21/2014024057/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 20-02-2014 et mise à jour au 27-12-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2013. - Loi visant à renforcer la transparence, l'indépendance et la crédibilité des décisions prises et avis rendus dans le domaine de la santé publique, de l'assurance-maladie, de la sécurité de la chaîne alimentaire et de l'environnement

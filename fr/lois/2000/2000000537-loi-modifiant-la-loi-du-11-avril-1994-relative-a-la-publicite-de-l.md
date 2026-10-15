@@ -12,7 +12,7 @@ entry_into_force: 2000-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/06/26/2000000537/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2000. - Loi modifiant la loi du 11 avril 1994 relative à la publicité de l'administration et la loi du 12 novembre 1997 relative à la publicité de l'administration dans les provinces et les communes.

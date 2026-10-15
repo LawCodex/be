@@ -13,7 +13,7 @@ entry_into_force: 2018-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/26/2018201702/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2018. - Decreet houdende instemming met het Akkoord tussen het Koninkrijk België en de Staten van Guernsey inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te Brussel op 24 april 2014 en Saint Peter Port op 7 mei 2014

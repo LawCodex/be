@@ -13,7 +13,7 @@ entry_into_force: 2004-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/11/27/2004200111/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2003. - Decreet tot wijziging van het decreet van 10 maart 1994 betreffende de oprichting van de " Société wallonne de Financement complémentaire des Infrastructures " (Waalse maatschappij voor de aanvullende financiering van de infrastructuren). (Vertaling).

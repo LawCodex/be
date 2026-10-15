@@ -13,7 +13,7 @@ entry_into_force: 2009-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/28/2009200058/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2008. - Décret modifiant le décret du 13 février 2004 fixant les règles générales en matière d'agrément et de subvention de base des associations de mobilité et des organismes de coordination d'associations et de subvention de projets de mobilité (TRADUCTION)

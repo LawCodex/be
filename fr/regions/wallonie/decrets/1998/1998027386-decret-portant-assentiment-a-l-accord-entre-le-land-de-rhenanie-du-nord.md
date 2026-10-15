@@ -13,7 +13,7 @@ entry_into_force: 1998-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/06/25/1998027386/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 1998. - Décret portant assentiment à l'Accord entre le Land de Rhénanie du Nord-Westphalie, le Land de Rhénanie-Palatinat, la Région wallonne et la Communauté germanophone de Belgique sur la coopération transfrontalière entre les collectivités territoriales et d'autres instances publiques, signé à Mayence le 8 mars 1996.

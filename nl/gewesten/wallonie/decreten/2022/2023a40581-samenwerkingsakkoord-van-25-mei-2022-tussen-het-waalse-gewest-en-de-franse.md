@@ -13,7 +13,7 @@ entry_into_force: 2023-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/30/2023A40581/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2022. - Samenwerkingsakkoord van 25 mei 2022 tussen het Waalse Gewest en de Franse Gemeenschap betreffende de oprichting van kinderopvangplaatsen

@@ -13,7 +13,7 @@ entry_into_force: 2013-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/07/11/2013031619/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2013. - Ordonnance portant assentiment à : 1° la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République populaire de Chine tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu et le Protocole, faits à Bruxelles le 7 octobre 2009; 2° l'échange de lettres du 30 mai et du 11 juillet 2011

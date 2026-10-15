@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/05/25/2018031110/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 30-05-2018 et mise à jour au 24-02-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2018. - Loi visant à réduire et redistribuer la charge de travail au sein de l'ordre judiciaire

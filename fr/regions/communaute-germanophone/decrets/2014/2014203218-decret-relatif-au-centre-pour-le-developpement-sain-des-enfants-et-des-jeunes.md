@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/31/2014203218/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 23-07-2014 et mise à jour au 31-10-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2014. - Décret relatif au centre pour le développement sain des enfants et des jeunes

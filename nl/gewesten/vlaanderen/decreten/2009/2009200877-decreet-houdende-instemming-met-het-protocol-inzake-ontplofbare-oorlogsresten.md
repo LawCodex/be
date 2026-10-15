@@ -13,7 +13,7 @@ entry_into_force: 2009-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/02/20/2009200877/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 2009. - Decreet houdende instemming met het protocol inzake ontplofbare oorlogsresten en de technische bijlage, aangenomen in Genève, op 28 november 2003.

@@ -13,7 +13,7 @@ entry_into_force: 2006-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/04/28/2006036354/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2006. - Décret modifiant le décret du 24 juillet 1996 réglant l'agrément des institutions de médiation de dettes dans la Communauté flamande, en vue d'une politique flamande justifiée en matière de surendettement (TRADUCTION).

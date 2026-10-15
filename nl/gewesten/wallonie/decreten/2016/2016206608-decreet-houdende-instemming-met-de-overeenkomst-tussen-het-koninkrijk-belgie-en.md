@@ -13,7 +13,7 @@ entry_into_force: 2017-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/21/2016206608/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2016. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en het Koninkrijk Noorwegen tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, en het Protocol, ondertekend te Oslo op 23 april 2014

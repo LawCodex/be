@@ -13,7 +13,7 @@ entry_into_force: 2004-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/26/2004035668/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2004. - Decreet tot wijziging van de wet van 10 maart 1980 betreffende het verlenen van de eretitel van hun ambt aan de burgemeesters, aan de schepenen en aan de voorzitters van de raden van de openbare centra voor maatschappelijk welzijn of van de gewezen commissies van openbare onderstand.

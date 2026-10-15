@@ -11,7 +11,7 @@ published: 1967-07-08
 entry_into_force: 1967-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1966/05/13/1967051301/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 1966. - Wet houdende goedkeuring van het Verdrag tot instelling van een Raad en een Commissie welke de Europese Gemeenschappen gemeen hebben en van het Protocol betreffende de voorrechten en immuniteiten van de Europese Gemeenschappen, ondertekend te Brussel op 8 april 1965.

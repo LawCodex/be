@@ -17,7 +17,7 @@ department: "Région Wallonne"
 justel_notes:
   - "modifié dans le futur à une date indéterminée par DRW 2004-04-29/60 , art. 1 à 7, 013 ; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 04-02-1998 et mise à jour au 01-03-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 1998. - Décret relatif au statut du personnel de certains organismes d'intérêt public relevant de la Région wallonne.

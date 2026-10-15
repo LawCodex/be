@@ -13,7 +13,7 @@ entry_into_force: 2019-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/03/2019012547/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2019. - Decreet houdende instemming met het samenwerkingsakkoord van 30 januari 2019 tussen de Federale Staat, de Gemeenschappen en de Gewesten betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten

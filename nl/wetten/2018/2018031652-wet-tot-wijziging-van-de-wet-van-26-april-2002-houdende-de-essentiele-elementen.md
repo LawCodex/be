@@ -12,7 +12,7 @@ entry_into_force: 2018-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/19/2018031652/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2018. - Wet tot wijziging van de wet van 26 april 2002 houdende de essentiële elementen van het statuut van de personeelsleden van de politiediensten en houdende diverse andere bepalingen met betrekking tot de politiediensten

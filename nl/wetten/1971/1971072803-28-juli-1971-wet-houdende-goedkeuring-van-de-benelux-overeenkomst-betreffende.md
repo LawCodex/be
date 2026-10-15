@@ -10,7 +10,7 @@ date: 1971-07-28
 published: 1971-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/07/28/1971072803/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JULI 1971. \_ Wet houdende goedkeuring van de Benelux-Overeenkomst betreffende de uitoefening van de advocatuur, opgemaakt te Brussel op 12 december 1968.

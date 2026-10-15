@@ -12,7 +12,7 @@ entry_into_force: 2003-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/20/2003011194/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2003. - Loi portant modification de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations, de la loi du 8 août 1980 relative aux propositions budgétaires 1979-1980 et de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité.

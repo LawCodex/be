@@ -13,7 +13,7 @@ entry_into_force: 2010-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/03/31/2011029309/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2011. - Décret portant confirmation de certains profils de formation définis conformément à l'article 6 du décret du 27 octobre 1994 organisant la concertation pour l'enseignement secondaire

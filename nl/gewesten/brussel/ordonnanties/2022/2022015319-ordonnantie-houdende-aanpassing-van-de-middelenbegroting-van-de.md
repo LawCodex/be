@@ -13,7 +13,7 @@ entry_into_force: 2022-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/07/06/2022015319/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2022. - Ordonnantie houdende aanpassing van de Middelenbegroting van de Gemeenschappelijke Gemeenschapscommissie voor het begrotingsjaar 2022

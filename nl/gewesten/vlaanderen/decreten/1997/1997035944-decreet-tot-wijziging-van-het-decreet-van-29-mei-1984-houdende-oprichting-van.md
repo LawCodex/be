@@ -13,7 +13,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/06/24/1997035944/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 1997. - Decreet tot wijziging van het decreet van 29 mei 1984 houdende oprichting van de instelling Kind en Gezin.

@@ -12,7 +12,7 @@ entry_into_force: 1994-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/12/14/1994015015/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 1993. - Wet houdende aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 1992. - Sectie " 14. Buitenlandse Zaken en Buitenlandse Handel ".

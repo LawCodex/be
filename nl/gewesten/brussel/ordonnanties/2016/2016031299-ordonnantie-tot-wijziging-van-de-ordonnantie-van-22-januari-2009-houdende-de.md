@@ -13,7 +13,7 @@ entry_into_force: 2014-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/04/14/2016031299/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 APRIL 2016. - Ordonnantie tot wijziging van de ordonnantie van 22 januari 2009 houdende de organisatie van het parkeerbeleid en de oprichting van het Brussels Hoofdstedelijk Parkeeragentschap en van de ordonnantie van 3 april 2014 betreffende de aanvullende reglementen op het wegverkeer en de plaatsing en bekostiging van de verkeerstekens

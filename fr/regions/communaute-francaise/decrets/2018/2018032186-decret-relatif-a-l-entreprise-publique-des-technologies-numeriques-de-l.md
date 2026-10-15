@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/10/25/2018032186/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 16-11-2018 et mise à jour au 05-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 OCTOBRE 2018. - Décret relatif à l'Entreprise publique des Technologies Numériques de l'Information et de la Communication de la Communauté française (ETNIC)

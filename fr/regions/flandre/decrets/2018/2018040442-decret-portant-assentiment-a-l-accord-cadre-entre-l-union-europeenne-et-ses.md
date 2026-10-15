@@ -13,7 +13,7 @@ entry_into_force: 2018-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/29/2018040442/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2018. - Décret portant assentiment à l'accord-cadre entre l'Union européenne et ses Etats membres, d'une part, et l'Australie, d'autre part, signé à Manille le 7 août 2017

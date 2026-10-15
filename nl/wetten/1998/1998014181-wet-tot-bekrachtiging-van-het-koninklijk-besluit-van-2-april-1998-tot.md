@@ -11,7 +11,7 @@ published: 1998-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/07/09/1998014181/justel"
 department: "Verkeerswezen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 1998. - Wet tot bekrachtiging van het koninklijk besluit van 2 april 1998 tot hervorming van de beheersstructuren van de luchthaven Brussel-Nationaal, genomen met toepassing van de wet van 19 december 1997 tot rationalisering van het beheer van de luchthaven Brussel-Nationaal.

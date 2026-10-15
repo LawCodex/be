@@ -13,7 +13,7 @@ entry_into_force: 2025-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/11/14/2025008959/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 2025. - Décret portant assentiment à l'accord de partenariat entre l'Union européenne et ses Etats membres, d'une part, et les membres de l'Organisation des Etats d'Afrique, des Caraïbes et du Pacifique, d'autre part, fait à Apia, Samoa, le 15 novembre 2023

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/13/2009029189/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 03-04-2009 en tekstbijwerking tot 02-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2009. - Decreet betreffende de overdracht van de herinnering aan misdaden van genocide, misdaden tegen de menselijkheid, oorlogsmisdaden en verzetsdaden of bewegingen die verzet boden tegen de regimes die deze misdaden hebben veroorzaakt

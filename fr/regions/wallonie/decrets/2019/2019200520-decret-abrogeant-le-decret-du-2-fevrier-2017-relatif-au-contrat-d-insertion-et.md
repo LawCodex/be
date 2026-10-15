@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/01/31/2019200520/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2019. - Décret abrogeant le décret du 2 février 2017 relatif au contrat d'insertion et l'arrêté du 22 juin 2017 portant exécution du décret du 2 février 2017 relatif au contrat d'insertion

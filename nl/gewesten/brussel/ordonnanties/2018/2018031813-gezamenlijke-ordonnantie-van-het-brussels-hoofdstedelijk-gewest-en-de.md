@@ -12,7 +12,7 @@ entry_into_force: 2018-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/07/23/2018031813/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 2018. - Gezamenlijke ordonnantie van het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschapscommissie tot wijziging van de gezamenlijke ordonnantie van het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschapscommissie van 14 december 2017 betreffende de transparantie van de bezoldigingen en voordelen van de Brusselse openbare mandatarissen

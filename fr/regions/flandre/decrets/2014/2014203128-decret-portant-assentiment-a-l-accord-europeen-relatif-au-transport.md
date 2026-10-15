@@ -13,7 +13,7 @@ entry_into_force: 2014-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014203128/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret portant assentiment à l'Accord européen relatif au transport international de marchandises dangereuses par voies de navigation intérieures (ADN), fait à Genève le 26 mai 2000, et aux prescriptions actualisées ADN 2013

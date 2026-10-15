@@ -13,7 +13,7 @@ entry_into_force: 2020-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/20/2020203177/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2020. - Décret de crise 2020 (III)

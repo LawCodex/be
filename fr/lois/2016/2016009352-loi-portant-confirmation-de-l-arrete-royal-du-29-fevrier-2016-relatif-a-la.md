@@ -12,7 +12,7 @@ entry_into_force: 2016-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/01/2016009352/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUILLET 2016. - Loi portant confirmation de l'arrêté royal du 29 février 2016 relatif à la contribution aux frais de fonctionnement, de personnel et d'installation de la Commission des jeux de hasard due par les titulaires de licence de classe A, A+, B, B+, C, E, F1, F1+, F2, G1 et G2 pour l'année civile 2016

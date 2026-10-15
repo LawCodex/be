@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/25/2014003194/justel"
 department: "Financiën - Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 07-05-2014 en tekstbijwerking tot 24-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Wet op het statuut van en het toezicht op kredietinstellingen [...]. (Aangehaald als : Bankwet) (Opschrift gewijzigd door W 2016-10-25/05 , art. 2, 009; Inwerkingtreding : 01-12-2016) &lt;Opschrift gewijzigd door W 2022-07-20/40 , art. 292, 031; Inwerkingtreding : 06-10-2022&gt;

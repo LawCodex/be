@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/05/2014029141/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 25-03-2014 et mise à jour au 13-07-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 2013. - Décret modifiant les grilles-horaires dans la section de qualification de l'enseignement secondaire ordinaire de plein exercice et organisant les stages dans l'enseignement secondaire ordinaire de plein exercice et dans l'enseignement secondaire spécialisé de forme 3 et de forme 4

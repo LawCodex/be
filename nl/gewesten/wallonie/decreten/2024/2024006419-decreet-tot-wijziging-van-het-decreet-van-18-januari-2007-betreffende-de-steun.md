@@ -13,7 +13,7 @@ entry_into_force: 2024-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/11/2024006419/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2024. - Decreet tot wijziging van het decreet van 18 januari 2007 betreffende de steun aan en de ontwikkeling van bedrijvennetwerken of clusters en het decreet van 11 maart 2004 betreffende de gewestelijke incentives ten gunste van kleine en middelgrote ondernemingen

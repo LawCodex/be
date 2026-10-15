@@ -12,7 +12,7 @@ entry_into_force: 1997-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/12/12/1997000896/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 1997. - Loi prévoyant l'apposition de certaines mentions sur la carte d'identité visée à l'article 6, § 1er, de la loi du 19 juillet 1991 relative aux registres de la population et aux cartes d'identité et modifiant la loi du 8 août 1983 organisant un Registre national des personnes physiques, et réglant l'emploi des langues pour ces mentions.

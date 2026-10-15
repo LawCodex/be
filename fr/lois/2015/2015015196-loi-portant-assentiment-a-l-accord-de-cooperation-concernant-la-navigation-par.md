@@ -12,7 +12,7 @@ entry_into_force: 2016-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/09/2015015196/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2015. - LOI portant assentiment à l'Accord de coopération concernant la navigation par satellite entre l'Union européenne et ses Etats membres et le Royaume de Norvège, fait à Bruxelles le 22 septembre 2010

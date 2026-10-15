@@ -12,7 +12,7 @@ published: 2019-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/25/2019012207/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2019. - Décret portant assentiment à l'accord de coopération entre la Commission communautaire française et la Région wallonne visant à garantir la libre circulation des personnes handicapées

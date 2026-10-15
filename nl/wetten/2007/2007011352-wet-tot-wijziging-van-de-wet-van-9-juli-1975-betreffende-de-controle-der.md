@@ -12,7 +12,7 @@ entry_into_force: 2007-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/15/2007011352/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2007. - Wet tot wijziging van de wet van 9 juli 1975 betreffende de controle der verzekeringsondernemingen, wat de fusie door overneming van onderlinge verzekeringsverenigingen betreft.

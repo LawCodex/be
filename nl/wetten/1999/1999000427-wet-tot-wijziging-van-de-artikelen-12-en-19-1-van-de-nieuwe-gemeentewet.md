@@ -12,7 +12,7 @@ entry_into_force: 1999-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/04/1999000427/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 1999. - Wet tot wijziging van de artikelen 12 en 19, § 1, van de nieuwe gemeentewet.

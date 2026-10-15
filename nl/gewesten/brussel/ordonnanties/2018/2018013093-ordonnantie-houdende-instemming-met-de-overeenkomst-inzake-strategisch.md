@@ -11,7 +11,7 @@ date: 2018-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/07/19/2018013093/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2018. - Ordonnantie houdende instemming met: de Overeenkomst inzake strategisch partnerschap tussen de Europese Unie en haar Lidstaten, enerzijds, en Canada, anderzijds, gedaan te Brussel op 30 oktober 2016

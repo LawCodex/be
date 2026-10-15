@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/07/06/2011022262/justel"
 department: "Sociale Zekerheid"
 justel_note: "bij arrest nr 70/2013 van 22-05-2013 (B.St. 01-08-2013, p. 47994-47996), heeft het Grondwettekijk Hof deze wet vernietigd"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2011. - Wet tot instelling van een verbod op reclame voor ingrepen van medische esthetiek en tot regeling van de informatie over dergelijke ingrepen.

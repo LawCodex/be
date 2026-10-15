@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/07/19/2018204870/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 28-09-2018 et mise à jour au 11-06-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2018. - Décret spécial instituant la consultation populaire

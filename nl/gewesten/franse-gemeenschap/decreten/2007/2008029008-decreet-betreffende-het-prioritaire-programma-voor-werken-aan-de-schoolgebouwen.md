@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/11/16/2008029008/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 24-01-2008 en tekstbijwerking tot 07-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 2007. - Decreet betreffende het prioritaire programma voor werken aan de schoolgebouwen van het gewoon en gespecialiseerd basisonderwijs, van het gewoon en gespecialiseerd secundair onderwijs en van het secundair onderwijs voor sociale promotie, van het kunstonderwijs met beperkt leerplan, van de psycho-medisch-sociale centra alsook van de internaten van het gewoon en gespecialiseerd basis- en secundair onderwijs, georganiseerd of gesubsidieerd door de Franse Gemeenschap (VERTALING)

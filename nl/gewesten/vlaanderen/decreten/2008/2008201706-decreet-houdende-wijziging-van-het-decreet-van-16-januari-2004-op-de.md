@@ -13,7 +13,7 @@ entry_into_force: 2008-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/04/18/2008201706/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2008. - Decreet houdende wijziging van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging.

@@ -13,7 +13,7 @@ entry_into_force: 2024-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/29/2024003405/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2024. - Decreet tot instemming met de overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Verenigde Republiek Tanzania betreffende de luchtdiensten, ondertekend te Dodoma op 3 november 2021

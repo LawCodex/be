@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/27/2022207144/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2022. - Wet tot wijziging van het koninklijk besluit van 28 september 2006 tot uitvoering van de artikelen 33, 33bis, 34 en 34bis van de herstelwet van 10 februari 1981 inzake pensioenen van de sociale sector en de wet 15 mei 1984 houdende maatregelen tot harmonisering in de pensioenregelingen

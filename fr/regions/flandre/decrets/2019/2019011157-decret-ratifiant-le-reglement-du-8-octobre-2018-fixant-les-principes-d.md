@@ -13,7 +13,7 @@ entry_into_force: 2019-03-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/01/2019011157/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2019. - Décret ratifiant le règlement du 8 octobre 2018 fixant les principes d'administration applicables à la prise de décision en matière d'enseignement supérieur en Communauté flamande par l'Organisation d'accréditation néerlandaise-flamande

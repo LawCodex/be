@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/05/23/2013024225/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 02-07-2013 et mise à jour au 31-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2013. - Loi réglementant les qualifications requises pour poser des actes de médecine esthétique non chirurgicale et de chirurgie esthétique [et réglementant la publicité et l'information relative à ces actes] &lt;L 2014-04-10/23 , art. 177, 002; En vigueur : 10-05-2014&gt;

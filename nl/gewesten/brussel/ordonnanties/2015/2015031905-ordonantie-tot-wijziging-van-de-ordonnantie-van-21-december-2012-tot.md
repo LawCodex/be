@@ -13,7 +13,7 @@ entry_into_force: 2016-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/12/18/2015031905/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2015. - Ordonantie tot wijziging van de ordonnantie van 21 december 2012 tot vaststelling van de fiscale procedure in het Brussels Hoofdstedelijk Gewest en enkele procedurele bepalingen van andere ordonnanties

@@ -13,7 +13,7 @@ entry_into_force: 2008-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/06/19/2008202202/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2008. - Décret portant ratification de l'arrêté du Gouvernement wallon du 20 décembre 2007 pris en exécution de l'article 55 du décret du 8 décembre 2005 modifiant certaines dispositions du Code de la démocratie locale et de la décentralisation.

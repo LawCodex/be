@@ -12,7 +12,7 @@ published: 2004-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/29/2004202067/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2004. - Décret modifiant le décret du 22 janvier 1998 relatif au statut du personnel de certains organismes d'intérêt public relevant de la Région wallonne et concernant les principes communs minimaux qui leur sont applicables.

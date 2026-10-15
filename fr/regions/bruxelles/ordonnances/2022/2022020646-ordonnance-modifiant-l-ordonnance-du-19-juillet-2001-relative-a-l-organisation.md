@@ -13,7 +13,7 @@ entry_into_force: 2022-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/03/17/2022020646/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2022. - Ordonnance modifiant l'ordonnance du 19 juillet 2001 relative à l'organisation du marché de l'électricité en Région de Bruxelles-Capitale, l'ordonnance du 1er avril 2004 relative à l'organisation du marché du gaz en Région de Bruxelles-Capitale, concernant des redevances de voiries en matière de gaz et d'électricité et portant modification de l'ordonnance du 19 juillet 2001 relative à l'organisation du marché de l'électricité en Région de Bruxelles-Capitale et l'ordonnance du 12 décembre 1991 créant des fonds budgétaires en vue de la transposition de la directive 2018/2001 et de la directive 2019/944

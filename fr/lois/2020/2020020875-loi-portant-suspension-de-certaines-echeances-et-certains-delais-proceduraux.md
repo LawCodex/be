@@ -12,7 +12,7 @@ entry_into_force: 2020-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/13/2020020875/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2020. - Loi portant suspension de certaines échéances et certains délais procéduraux prévus par ou en application de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, de la loi du 21 décembre 1998 relative à la sécurité lors des matches de football, de la loi du 13 mai 1999 portant le statut disciplinaire des membres du personnel des services de police, de la loi du 24 juin 2013 relative aux sanctions administratives communales et de la loi du 2 octobre 2017 réglementant la sécurité privée et particulière

@@ -12,7 +12,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/05/11/2005003500/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2005. - Wet tot wijziging van de artikelen 131 en 133 van het Wetboek van de inkomstenbelastingen 1964.

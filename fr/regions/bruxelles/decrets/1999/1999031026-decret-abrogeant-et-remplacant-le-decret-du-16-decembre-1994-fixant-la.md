@@ -13,7 +13,7 @@ entry_into_force: 1999-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/01/14/1999031026/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 1999. - Décret abrogeant et remplacant le décret du 16 décembre 1994 fixant la procédure d'enquête.

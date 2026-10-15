@@ -13,7 +13,7 @@ entry_into_force: 2017-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/01/2017030429/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2017. - Décret portant assentiment à l'accord de coopération du 20 février 2017 entre l'Etat fédéral, la Région de Bruxelles-Capitale et la Région wallonne relatif à la gestion du service pour la régularisation des impôts régionaux et des capitaux fiscalement prescrits non scindés et à la mise en place d'un système de régularisation des capitaux fiscalement prescrits non scindés, instaurant un régime de régularisation fiscale limité dans le temps et instaurant des mesures concernant le transfert de la propriété d'un immeuble d'une société à un associé, la renonciation à l'usufruit sur un bien immeuble suivie ou précédée par une donation, les clauses d'attribution de la totalité du patrimoine commun ou clauses de partage inégal de ce patrimoine commun, sans condition de survie, mieux connues sous les termes de " clause de la maison mortuaire " et la révision du montant des amendes

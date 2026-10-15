@@ -13,7 +13,7 @@ last_amended: 2024-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1962/04/26/1962042602/justel"
 justel_note: "Consultation des versions antérieures à partir du 14-10-2024 et mise à jour au 14-10-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 1962. - Loi relative au transport en commun des élèves des établissements d'enseignements

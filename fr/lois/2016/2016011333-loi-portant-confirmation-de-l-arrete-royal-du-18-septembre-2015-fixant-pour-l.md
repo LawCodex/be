@@ -12,7 +12,7 @@ entry_into_force: 2016-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/21/2016011333/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUILLET 2016. - Loi portant confirmation de l'arrêté royal du 18 septembre 2015 fixant, pour l'année budgétaire 2016 et suivantes, les modalités particulières pour le calcul de la redevance de médiation pour le financement du service de médiation de l'énergie

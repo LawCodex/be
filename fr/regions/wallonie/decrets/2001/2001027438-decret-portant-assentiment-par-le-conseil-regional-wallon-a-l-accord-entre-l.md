@@ -13,7 +13,7 @@ entry_into_force: 2001-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/12/2001027438/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2001. - Décret portant assentiment par le Conseil régional wallon à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République fédérative du Brésil concernant l'encouragement et la protection réciproques des investissements, fait à Brasilia le 6 janvier 1999.HI:??2,Session 2000-2001. Documents du Conseil 224 (2000-2001), nos 1 et 2. Compte rendu intégral. - Séance publique du 3 juillet 2001. Discussion. - Vote.

@@ -13,7 +13,7 @@ entry_into_force: 2018-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/24/2018202792/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 2018. - Decreet tot wijziging van de artikelen L1122-13 en L2212-22 van het Wetboek van de Plaatselijke Democratie en de Decentralisatie met het oog op de invoering van het beginsel van het op elektronische wijze overmaken van de oproepingen en stukken in verband met agendapunten van gemeente- en provincieraden

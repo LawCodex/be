@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1988/06/24/1988062452/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 25-04-2016 en tekstbijwerking tot 23-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 1988. - NIEUWE GEMEENTEWET (BRUSSELS HOOFDSTEDELIJK GEWEST)

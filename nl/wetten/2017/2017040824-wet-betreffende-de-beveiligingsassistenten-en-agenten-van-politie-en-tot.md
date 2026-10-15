@@ -10,7 +10,7 @@ date: 2017-11-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/11/12/2017040824/justel"
 department: "Binnenlandse Zaken - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 2017. - Wet betreffende de beveiligingsassistenten en -agenten van politie en tot wijziging van sommige bepalingen met betrekking tot de politie

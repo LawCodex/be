@@ -13,7 +13,7 @@ entry_into_force: 2011-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/06/28/2011204712/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2011. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Franse Gemeenschap en de Duitstalige Gemeenschap voor de aankoop van vaccins ter bescherming van kinderen en jongeren, gedaan te Brussel op 15 juni 2011

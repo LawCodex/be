@@ -13,7 +13,7 @@ entry_into_force: 1983-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1983/01/25/1983023072/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 1983. \_ Decreet houdende goedkeuring van het Internationaal Verdrag inzake economische, sociale en culturele rechten, opgemaakt te New York op 19 december 1966.

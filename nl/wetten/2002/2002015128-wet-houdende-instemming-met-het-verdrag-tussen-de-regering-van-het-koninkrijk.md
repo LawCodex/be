@@ -10,7 +10,7 @@ date: 2002-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/07/12/2002015128/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2002. - Wet houdende instemming met het Verdrag tussen de Regering van het Koninkrijk België en de Regering van de Republiek Slowakije inzake politiesamenwerking, ondertekend te Brussel op 29 juni 2000.

@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/02/2019012652/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Wet tot wijziging van de wet van 15 mei 2007 betreffende de civiele veiligheid, wat betreft het kenniscentrum voor de civiele veiligheid

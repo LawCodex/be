@@ -12,7 +12,7 @@ entry_into_force: 2005-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/12/27/2005010015/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 2005. - Loi portant des modifications diverses au Code d'instruction criminelle et au Code judiciaire en vue d'améliorer les modes d'investigation dans la lutte contre le terrorisme et la criminalité grave et organisée.

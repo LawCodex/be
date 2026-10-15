@@ -13,7 +13,7 @@ entry_into_force: 2022-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/25/2022020564/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 2022. - Décret modifiant le décret du 2 mars 1999 portant sur la politique et la gestion des ports maritimes, le décret du 22 décembre 2017 sur l'administration locale et le décret du 3 mai 2019 portant la capitainerie de port

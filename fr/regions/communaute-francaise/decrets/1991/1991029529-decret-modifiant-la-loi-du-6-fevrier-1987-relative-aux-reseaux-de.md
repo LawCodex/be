@@ -13,7 +13,7 @@ entry_into_force: 1991-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1991/07/19/1991029529/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 1991. - Décret modifiant la loi du 6 février 1987 relative aux réseaux de radiodistribution et de télédistribution et à la publicité commerciale à la radio et à la télévision, le décret du 12 décembre 1977 portant statut de la Radio-Télévision belge de la Communauté française (RTBF) et le décret du 17 juillet 1987 sur l'audiovisuel.

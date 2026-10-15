@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/12/2007011013/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 15-01-2007 et mise à jour au 31-12-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2006. - Loi concernant GSM-R. &lt;Erratum. Voir M.B. 19-01-2007, p. 2366&gt;

@@ -13,7 +13,7 @@ entry_into_force: 2019-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/21/2019040714/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2019. - Décret portant confirmation des arrêtés du Gouvernement de la Communauté française des 25 octobre 2017 et 20 décembre 2017 portant modifications de dispositions décrétales faisant obstacles aux communications par voie électronique

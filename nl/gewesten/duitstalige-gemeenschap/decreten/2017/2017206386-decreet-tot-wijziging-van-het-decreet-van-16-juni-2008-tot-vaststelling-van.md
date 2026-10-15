@@ -12,7 +12,7 @@ published: 2018-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/10/23/2017206386/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OKTOBER 2017. - Decreet tot wijziging van het decreet van 16 juni 2008 tot vaststelling van kerncompetenties en referentiekaders in het onderwijs

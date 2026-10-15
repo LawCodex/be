@@ -12,7 +12,7 @@ entry_into_force: 2018-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/30/2018040549/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2018. - Wet houdende diverse bepalingen inzake belasting over de toegevoegde waarde

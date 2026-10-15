@@ -12,7 +12,7 @@ entry_into_force: 2019-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/05/2019202558/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2019. - Wet tot wijziging van de wet van 26 juni 2002 betreffende de sluiting van de ondernemingen

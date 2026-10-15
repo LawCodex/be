@@ -13,7 +13,7 @@ entry_into_force: 2013-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/12/2013204601/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2013. - Décret portant assentiment à l'accord euro-méditerranéen relatif aux services aériens entre la Communauté européenne et ses Etats membres, d'une part, et le Royaume du Maroc, d'autre part, signé à Bruxelles le 12 décembre 2006

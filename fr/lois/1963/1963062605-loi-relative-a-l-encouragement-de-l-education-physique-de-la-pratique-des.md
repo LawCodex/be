@@ -13,7 +13,7 @@ last_amended: 2010-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1963/06/26/1963062605/justel"
 justel_note: "Consultation des versions antérieures à partir du 04-05-2002 et mise à jour au 01-02-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 1963. - Loi relative à l'encouragement de l'éducation physique, de la pratique des sports et de la vie en plein air ainsi qu'au contrôle des entreprises qui organisent des concours de paris sur les résultats d'épreuves sportives.

@@ -12,7 +12,7 @@ entry_into_force: 2023-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/04/07/2023201874/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2023. - Bijzondere wet tot wijziging van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en tot wijziging van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen, wat de beëindiging van het parlementair mandaat door ontslagneming betreft

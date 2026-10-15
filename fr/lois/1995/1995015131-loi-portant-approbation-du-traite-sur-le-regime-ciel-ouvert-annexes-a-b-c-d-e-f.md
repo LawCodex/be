@@ -12,7 +12,7 @@ entry_into_force: 1995-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/05/15/1995015131/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 1995. - Loi portant approbation du Traité sur le régime " Ciel ouvert ", Annexes A, B, C, D, E, F, G, H, I, J, K et L, faits à Helsinki le 24 mars 1992.

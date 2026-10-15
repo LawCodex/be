@@ -12,7 +12,7 @@ entry_into_force: 1998-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/12/06/1998015001/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBER 1994. - Wet houdende instemming met de Overeenkomst tot instelling van samenwerking en een douane-unie tussen de Europese Economische Gemeenschap en de Republiek San Marino, Bijlage en vijf Verklaringen, ondertekend te Brussel op 16 december 1991.

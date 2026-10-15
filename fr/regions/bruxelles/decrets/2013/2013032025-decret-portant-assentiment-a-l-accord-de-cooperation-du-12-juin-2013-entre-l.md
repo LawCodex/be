@@ -13,7 +13,7 @@ entry_into_force: 2014-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/12/19/2013032025/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2013. - Décret portant assentiment à l'accord de coopération du 12 juin 2013 entre l'autorité fédérale, les Régions et les Communautés visant à créer un Centre interfédéral pour l'égalité des chances et la lutte contre le racisme et les discriminations sous la forme d'une institution commune, au sens de l'article 92bis de la loi spéciale de réformes institutionnelles du 8 août 1980

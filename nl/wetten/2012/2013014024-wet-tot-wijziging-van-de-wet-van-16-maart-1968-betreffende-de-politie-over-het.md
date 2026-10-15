@@ -12,7 +12,7 @@ entry_into_force: 2013-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/18/2013014024/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2012. - Wet tot wijziging van de wet van 16 maart 1968 betreffende de politie over het wegverkeer wat betreft het rijden spijts het verval van het recht tot sturen

@@ -11,7 +11,7 @@ entry_into_force: 2004-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/08/23/2004002104/justel"
 department: "Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AUGUSTUS 2004. - Wet tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn en tot uitbreiding van het personele toepassingsgebied van de installatiepremie.

@@ -16,7 +16,7 @@ justel_notes:
   - "art. 374/1-374/2 modifiés avec effet à une date indéterminée par L 2018-07-30/54 , art. 2; En vigueur : indéterminée "
   - "article 362-3 modifié dans le futur par L 2018-06-18/03 , art. 157, 082; En vigueur : indéterminée "
   - "Consultation des versions antérieures à partir du 28-01-1995 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 1804. - [ANCIEN] CODE CIVIL. - TITRE PRELIMINAIRE et LIVRE I : Des personnes (art. 1-515). (Intitulé modifié par L 2019-04-13/28 , art. 2, 090; En vigueur : 01-11-2020)

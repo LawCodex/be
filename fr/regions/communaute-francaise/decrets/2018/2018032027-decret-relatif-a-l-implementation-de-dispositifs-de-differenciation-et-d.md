@@ -13,7 +13,7 @@ entry_into_force: 2018-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/10/11/2018032027/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 OCTOBRE 2018. - Décret relatif à l'implémentation de dispositifs de différenciation et d'accompagnement personnalisé dans l'enseignement fondamental et secondaire

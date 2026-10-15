@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/02/12/2021030376/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 17-02-2021 et mise à jour au 06-07-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2021. - Décret contenant des mesures temporaires urgentes dans le domaine de l'enseignement suite à la crise du coronavirus (VI)

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/11/19/1998027643/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 27-11-1998 en tekstbijwerking tot 12-01-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 1998. - Decreet tot invoering van een belasting op de automaten in het Waalse Gewest (VERTALING).

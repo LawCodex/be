@@ -13,7 +13,7 @@ entry_into_force: 2024-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/19/2024004269/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2024. - Décret modifiant le décret du 20 avril 2012 portant organisation des milieux d'accueil de la petite enfance et le décret du 3 mai 2019 portant organisation de l'accueil extrascolaire et coordination des activités extrascolaires

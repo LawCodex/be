@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019011569/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 11-04-2019 en tekstbijwerking tot 04-05-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2019. - Wet betreffende de organisatie van de penitentiaire diensten en van het statuut van het penitentiair personeel

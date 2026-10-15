@@ -11,7 +11,7 @@ published: 2023-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/06/11/2023031314/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2023. - Wet tot wijziging van artikel 124, 1°, van de wet betreffende de uitoefening van de gezondheidszorgberoepen, gecoördineerd op 10 mei 2015, teneinde de wetgeving betreffende de uitoefening van technische verpleegkundige verstrekkingen door een mantelzorger of door een bekwame helper, hierin aan te passen

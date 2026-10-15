@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/05/13/1997035663/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 17-06-1997 en tekstbijwerking tot 12-09-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 1997. - Decreet houdende oprichting van een Financieringsinstrument voor de Vlaamse visserij- en [aquacultuursector]). &lt;DVR 2008-12-19/40 , art. 57, 003; Inwerkingtreding : 01-01-2009&gt;

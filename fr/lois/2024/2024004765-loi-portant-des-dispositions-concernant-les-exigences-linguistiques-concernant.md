@@ -12,7 +12,7 @@ entry_into_force: 2024-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/15/2024004765/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2024. - Loi portant des dispositions concernant les exigences linguistiques concernant les chefs de corps, les greffiers en chef et les secrétaires en chef de Bruxelles et la désignation du procureur du Roi de Bruxelles, de l'auditeur du travail de Bruxelles, des procureurs du Roi adjoints de Bruxelles et des auditeurs du travail adjoints de Bruxelles

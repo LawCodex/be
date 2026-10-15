@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/03/29/2004009246/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 01-04-2004 en tekstbijwerking tot 10-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2004. - Wet betreffende de samenwerking met het Internationaal [Strafhof] en de internationale straftribunalen. &lt;W 2018-07-11/02 , art. 14, 005; Inwerkingtreding : 28-07-2018&gt;

@@ -13,7 +13,7 @@ entry_into_force: 2000-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/07/17/2000035787/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2000. - Décret portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République de Kazakhstan concernant l'encouragement et la protection réciproques des investissements, signé à Almaty le 16 avril 1998 (TRADUCTION).

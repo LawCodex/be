@@ -12,7 +12,7 @@ entry_into_force: 2024-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/10/09/2023046741/justel"
 department: "Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 OKTOBER 2023. - Wet tot versterking van het federale armoedebeleid

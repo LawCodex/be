@@ -12,7 +12,7 @@ entry_into_force: 1995-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/06/1995007125/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1995. - Loi modifiant la loi du 22 décembre 1989 relative au statut des miliciens.

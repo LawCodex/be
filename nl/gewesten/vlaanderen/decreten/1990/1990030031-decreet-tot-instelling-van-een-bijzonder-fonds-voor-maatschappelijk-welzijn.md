@@ -13,7 +13,7 @@ entry_into_force: 1991-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1990/07/31/1990030031/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 1990. - Decreet tot instelling van een Bijzonder Fonds voor Maatschappelijk Welzijn. .

@@ -13,7 +13,7 @@ entry_into_force: 2000-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/12/14/2000027594/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 2000. - Bijzonder decreet tot wijziging van het decreet van 13 juli 1995 houdende organisatie van de vervanging van de ministers door hun parlementaire plaatsvervangers (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/24/2019041459/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 2019. - Decreet houdende wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en van het Mestdecreet van 22 december 2006, wat de implementatie van het zesde mestactieprogramma betreft

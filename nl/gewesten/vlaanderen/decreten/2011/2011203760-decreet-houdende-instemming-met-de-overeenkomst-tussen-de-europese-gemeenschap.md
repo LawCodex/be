@@ -13,7 +13,7 @@ entry_into_force: 2011-08-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/01/2011203760/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2011. - Decreet houdende instemming met de overeenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Zuid-Afrika, anderzijds, tot wijziging van de overeenkomst inzake handel, ontwikkeling en samenwerking, ondertekend in Kleinmond op 11 september 2009

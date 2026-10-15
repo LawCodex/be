@@ -12,7 +12,7 @@ entry_into_force: 2004-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/03/09/2004009220/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2004. - Wet tot wijziging van de overgangsregeling van de wet van 7 mei 1999 houdende het Wetboek van vennootschappen.

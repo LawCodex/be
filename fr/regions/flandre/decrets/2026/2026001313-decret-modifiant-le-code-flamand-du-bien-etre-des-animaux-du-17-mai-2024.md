@@ -13,7 +13,7 @@ entry_into_force: 2026-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/01/30/2026001313/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 2026. - Décret modifiant le Code flamand du bien-être des animaux du 17 mai 2024

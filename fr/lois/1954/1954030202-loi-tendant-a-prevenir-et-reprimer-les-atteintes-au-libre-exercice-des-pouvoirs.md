@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1954/03/02/1954030202/justel"
 department: "Intérieur - Justice"
 justel_note: "Consultation des versions antérieures à partir du 08-05-2012 et mise à jour au 02-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 1954. - Loi tendant à prévenir et réprimer les atteintes au libre exercice des pouvoirs souverains établis par la Constitution

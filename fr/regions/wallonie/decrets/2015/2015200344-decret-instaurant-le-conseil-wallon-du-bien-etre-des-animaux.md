@@ -13,7 +13,7 @@ entry_into_force: 2015-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/01/22/2015200344/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 2015. - Décret instaurant le Conseil wallon du bien-être des animaux

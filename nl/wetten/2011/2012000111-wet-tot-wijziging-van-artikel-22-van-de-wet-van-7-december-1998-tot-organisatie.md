@@ -12,7 +12,7 @@ entry_into_force: 2012-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/12/02/2012000111/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2011. - Wet tot wijziging van artikel 22 van de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus wat de vervanging van de politieraadsleden betreft

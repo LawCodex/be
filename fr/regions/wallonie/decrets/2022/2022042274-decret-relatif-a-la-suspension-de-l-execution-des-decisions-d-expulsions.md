@@ -13,7 +13,7 @@ entry_into_force: 2022-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/09/22/2022042274/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 SEPTEMBRE 2022. - Décret relatif à la suspension de l'exécution des décisions d'expulsions administratives et judiciaires

@@ -12,7 +12,7 @@ entry_into_force: 2001-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/11/28/2001009035/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2000. - Loi du 28 novembre 2000 relative à la criminalité informatique.

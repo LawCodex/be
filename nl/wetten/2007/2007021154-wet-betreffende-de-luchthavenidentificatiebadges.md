@@ -12,7 +12,7 @@ entry_into_force: 2007-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/12/27/2007021154/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 2007. - Wet betreffende de luchthavenidentificatiebadges.

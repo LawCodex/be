@@ -13,7 +13,7 @@ entry_into_force: 2011-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/02/10/2011031089/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2011. - Ordonnance modifiant l'ordonnance du 25 mars 1999 relative à l'évaluation et l'amélioration de la qualité de l'air ambiant

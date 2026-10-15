@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1981/07/28/1981072850/justel"
 department: "Buitenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2003 en tekstbijwerking tot 03-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JULI 1981. - Wet houdende goedkeuring van de Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantesoorten, en van de Bijlagen, opgemaakt te Washington op 3 maart 1973, alsmede van de Wijziging van de Overeenkomst, aangenomen te Bonn op 22 juni 1979.

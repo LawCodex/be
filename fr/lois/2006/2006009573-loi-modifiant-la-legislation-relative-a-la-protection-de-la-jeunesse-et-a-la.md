@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/13/2006009573/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 19-07-2006 et mise à jour au 12-01-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUIN 2006. - Loi modifiant la législation relative à la protection de la jeunesse et à la prise en charge des mineurs ayant commis un fait qualifié infraction.

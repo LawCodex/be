@@ -13,7 +13,7 @@ entry_into_force: 2013-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/04/2013031654/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2013. - Décret portant assentiment à l'accord de coopération conclu le 21 février 2013 entre la Communauté française et la Commission communautaire française en matière d'intégration et d'inclusion scolaire pour les jeunes en situation de handicap

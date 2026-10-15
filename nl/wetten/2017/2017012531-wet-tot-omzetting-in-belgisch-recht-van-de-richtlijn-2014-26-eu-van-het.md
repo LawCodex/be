@@ -12,7 +12,7 @@ entry_into_force: 2017-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/06/08/2017012531/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2017. - Wet tot omzetting in Belgisch recht van de richtlijn 2014/26/EU van het Europees Parlement en de Raad van 26 februari 2014 betreffende het collectieve beheer van auteursrechten en naburige rechten en de multiterritoriale licentieverlening van rechten inzake muziekwerken voor het online gebruik ervan op de interne markt

@@ -13,7 +13,7 @@ entry_into_force: 2005-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/15/2005203374/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2005. - Décret modifiant l'article 1erbis, § 5, de la loi du 18 juillet 1973 relative à la lutte contre le bruit.

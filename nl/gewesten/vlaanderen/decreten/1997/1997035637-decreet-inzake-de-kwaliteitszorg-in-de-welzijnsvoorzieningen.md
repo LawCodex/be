@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/04/29/1997035637/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 11-06-1997 en tekstbijwerking tot 10-11-2003"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 1997. - Decreet inzake de kwaliteitszorg in de welzijnsvoorzieningen.

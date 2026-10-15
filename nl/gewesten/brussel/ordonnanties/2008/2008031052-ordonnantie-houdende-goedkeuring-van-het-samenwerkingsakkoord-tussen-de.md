@@ -13,7 +13,7 @@ entry_into_force: 2008-02-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/01/31/2008031052/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2008. - Ordonnantie houdende goedkeuring van het samenwerkingsakkoord tussen de Federale Overheid, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest inzake de uitvoering van sommige bepalingen van het protocol van Kyoto, afgesloten te Brussel op 19 februari 2007.

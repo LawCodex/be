@@ -12,7 +12,7 @@ entry_into_force: 2025-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/07/16/2025005420/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2025. - Loi modifiant la loi du 10 février 2015 relative aux traitements automatisés de données à caractère personnel nécessaires aux passeports et titres de voyage belges

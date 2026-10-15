@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/15/2005036024/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 2005. - Decreet tot wijziging van het decreet van 31 januari 2003 betreffende het economisch ondersteuningsbeleid.

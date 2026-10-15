@@ -13,7 +13,7 @@ entry_into_force: 2025-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/03/27/2025002788/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2025. - Décret portant changement du nom de l'Enseignement de Promotion sociale en "Enseignement pour Adultes"

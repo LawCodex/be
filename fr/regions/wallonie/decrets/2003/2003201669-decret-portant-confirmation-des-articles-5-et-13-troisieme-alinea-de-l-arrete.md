@@ -13,7 +13,7 @@ entry_into_force: 2003-11-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/10/22/2003201669/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2003. - Décret portant confirmation des articles 5 et 13, troisième alinéa, de l'arrêté royal du 11 décembre 2001 portant exécution de la loi du 26 juin 2000 relative à l'introduction de l'euro dans la législation concernant les matières visées à l'article 78 de la Constitution et qui relève du Ministère des Finances et des modifications apportées au Code des taxes assimilées aux impôts sur les revenus suite à la loi du 8 avril 2002 modifiant les articles 5, 9, 11, 21 et 42 du Code des taxes assimilées aux impôts sur les revenus en exécution de la directive n° 1999/62/CE du Parlement et du Conseil européen du 17 juin 1999, relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures.

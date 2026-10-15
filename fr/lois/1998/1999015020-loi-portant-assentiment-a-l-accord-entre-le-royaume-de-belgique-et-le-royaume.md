@@ -12,7 +12,7 @@ entry_into_force: 1999-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/08/10/1999015020/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1998. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et le Royaume des Pays-Bas relatif à la délimitation du plateau continental, et Annexe, et échange de lettres; et à l'Accord entre le Royaume de Belgique et le Royaume des Pays-Bas relatif à la délimitation de la mer territoriale, signés à Bruxelles le 18 décembre 1996.

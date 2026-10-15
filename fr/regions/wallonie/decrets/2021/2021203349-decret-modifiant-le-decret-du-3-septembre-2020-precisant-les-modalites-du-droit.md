@@ -13,7 +13,7 @@ entry_into_force: 2021-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/24/2021203349/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2021. - Décret modifiant le décret du 3 septembre 2020 précisant les modalités du droit pour l'auteur d'une pétition d'être entendu pour les matières réglées en vertu de l'article 138 de la constitution

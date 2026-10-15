@@ -13,7 +13,7 @@ entry_into_force: 2006-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/04/21/2006035796/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 APRIL 2006. - Decreet houdende instemming met het Samenwerkingsakkoord van 12 december 2005 tussen de federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie inzake de tenuitvoerlegging van de wet van 24 april 2003 tot hervorming van de adoptie.

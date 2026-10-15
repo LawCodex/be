@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/07/11/2021031804/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2021. - Wet tot wijziging van het Wetboek van de belasting over de toegevoegde waarde wat de vrijstelling van de belasting inzake medische verzorging betreft

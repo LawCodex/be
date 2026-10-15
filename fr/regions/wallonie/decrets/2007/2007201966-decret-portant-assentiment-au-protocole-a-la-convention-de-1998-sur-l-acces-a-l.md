@@ -13,7 +13,7 @@ entry_into_force: 2007-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/05/31/2007201966/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2007. - Décret portant assentiment au Protocole à la Convention de 1998 sur l'accès à l'information, la participation du public au processus décisionnel et l'accès à la justice en matière d'environnement, portant sur les registres des rejets et transferts de polluants, fait à Kiev le 21 mai 2003.HI:??2,Session 2006-2007. Documents du Parlement wallon 585 (2006-2007), nos 1 et 2. Compte rendu intégral, séance publique du 30 mai 2007. Discussion - Votes.

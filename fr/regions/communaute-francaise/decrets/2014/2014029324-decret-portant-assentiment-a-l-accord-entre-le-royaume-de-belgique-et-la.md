@@ -13,7 +13,7 @@ entry_into_force: 2014-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/11/2014029324/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2014. - Décret portant assentiment à l'accord entre le Royaume de Belgique et la Principauté de Liechtenstein en vue de l'échange de renseignements en matière fiscale, et le Protocole, faits à Bruxelles le 10 novembre 2009

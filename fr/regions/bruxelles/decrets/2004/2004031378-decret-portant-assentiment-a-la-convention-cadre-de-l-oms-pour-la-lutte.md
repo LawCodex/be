@@ -13,7 +13,7 @@ entry_into_force: 2004-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/07/08/2004031378/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2004. - Décret portant assentiment à la convention-cadre de l'OMS pour la lutte antitabac.

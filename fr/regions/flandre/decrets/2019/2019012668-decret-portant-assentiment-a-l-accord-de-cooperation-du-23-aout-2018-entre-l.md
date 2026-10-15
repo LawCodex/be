@@ -13,7 +13,7 @@ entry_into_force: 2019-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019012668/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Décret portant assentiment à l'accord de coopération du 23 août 2018 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune visant à assurer la mise en oeuvre de la Convention de La Haye et du Règlement Bruxelles II-bis en matière de responsabilité parentale et de mesures de protection des enfants

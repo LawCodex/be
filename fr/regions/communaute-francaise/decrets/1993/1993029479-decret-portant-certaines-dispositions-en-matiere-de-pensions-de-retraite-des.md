@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/09/30/1993029479/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 06-10-1998 et mise à jour au 20-09-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 SEPTEMBRE 1993. - Décret portant certaines dispositions en matière de pensions de retraite des agents définitifs de la Radio-Télévision belge de la Communauté française (R.T.B.F.).

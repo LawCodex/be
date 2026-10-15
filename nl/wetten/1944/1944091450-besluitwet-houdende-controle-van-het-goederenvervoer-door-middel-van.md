@@ -9,7 +9,7 @@ language: nl
 date: 1944-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1944/09/14/1944091450/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 SEPTEMBER 1944. - Besluitwet houdende controle van het goederenvervoer door middel van wegvoertuigen.

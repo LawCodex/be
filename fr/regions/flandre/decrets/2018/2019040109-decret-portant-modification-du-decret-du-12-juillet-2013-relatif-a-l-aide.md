@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/12/21/2019040109/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2018. - Décret portant modification du décret du 12 juillet 2013 relatif à l'aide intégrale à la jeunesse, en ce qui concerne les organisations des clients et un forum des clients dans l'aide intégrale à la jeunesse

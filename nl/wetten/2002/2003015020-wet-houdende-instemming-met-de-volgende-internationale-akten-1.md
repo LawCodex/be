@@ -12,7 +12,7 @@ entry_into_force: 2003-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/07/11/2003015020/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2002. - Wet houdende instemming met de volgende Internationale Akten : 1. Amendementsoorkonde bij de Stichtingsakte van de Internationale Telecommunicatie Unie; 2. Amendementsoorkonde bij de Overeenkomst van de Internationale Telecommunicatie Unie, gedaan te Kyoto op 14 oktober 1994; 3. Amendementsoorkonde bij de Stichtingsakte van de Internationale Telecommunicatie Unie; 4. Amendementsoorkonde bij de Overeenkomst van de Internationale Telecommunicatie Unie, gedaan te Minneapolis op 6 november 1998.

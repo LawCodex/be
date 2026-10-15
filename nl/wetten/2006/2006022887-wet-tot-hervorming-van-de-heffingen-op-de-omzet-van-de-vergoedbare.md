@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/06/10/2006022887/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 08-09-2006 en tekstbijwerking tot 29-12-2008"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2006. - Wet tot hervorming van de heffingen op de omzet van de vergoedbare farmaceutische specialiteiten.

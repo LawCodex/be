@@ -13,7 +13,7 @@ entry_into_force: 2004-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/12/2004029159/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Décret portant assentiment au Protocole n° 12 à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, fait à Rome le 4 novembre 2000.

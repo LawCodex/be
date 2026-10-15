@@ -13,7 +13,7 @@ entry_into_force: 2003-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/03/2003033015/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEVRIER 2003. - Décret portant assentiment à l'accord de coopération entre l'Etat fédéral, les Régions et la Communauté germanophone, concernant le développement des services et des emplois de proximité (TRADUCTION).

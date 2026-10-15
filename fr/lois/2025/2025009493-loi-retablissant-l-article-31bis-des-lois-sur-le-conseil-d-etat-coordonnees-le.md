@@ -12,7 +12,7 @@ entry_into_force: 2025-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/11/28/2025009493/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2025. - Loi rétablissant l'article 31bis des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973, pour ce qui concerne la procédure par voie électronique devant la section du contentieux administratif du Conseil d'Etat

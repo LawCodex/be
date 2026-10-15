@@ -13,7 +13,7 @@ entry_into_force: 1996-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/04/01/1996033080/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 1996. - Decreet houdende eindregeling van de begroting van de Duitstalige Gemeenschap voor het begrotingsjaar 1994. (VERTALING).

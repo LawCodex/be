@@ -13,7 +13,7 @@ entry_into_force: 2013-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/05/23/2013029375/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAI 2013. - Décret modifiant le décret du 28 avril 2004 relatif à la reconnaissance et au soutien des écoles de devoirs

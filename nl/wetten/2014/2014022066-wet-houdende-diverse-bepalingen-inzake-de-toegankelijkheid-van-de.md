@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/02/07/2014022066/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 25-02-2014 en tekstbijwerking tot 01-07-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEBRUARI 2014. - Wet houdende diverse bepalingen inzake de toegankelijkheid van de gezondheidszorg

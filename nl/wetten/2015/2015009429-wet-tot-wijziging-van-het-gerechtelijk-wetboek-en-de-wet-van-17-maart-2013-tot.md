@@ -11,7 +11,7 @@ published: 2015-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/08/10/2015009429/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2015. - Wet tot wijziging van het Gerechtelijk Wetboek en de wet van 17 maart 2013 tot hervorming van de regelingen inzake onbekwaamheid en tot instelling van een nieuwe beschermingsstatus die strookt met de menselijke waardigheid

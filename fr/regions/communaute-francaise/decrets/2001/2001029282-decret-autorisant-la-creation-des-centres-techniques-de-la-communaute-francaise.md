@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/12/2001029282/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 21-07-2001 et mise à jour au 24-08-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2001. - Décret autorisant la création des centres techniques de la Communauté française de Strée et de Gembloux.

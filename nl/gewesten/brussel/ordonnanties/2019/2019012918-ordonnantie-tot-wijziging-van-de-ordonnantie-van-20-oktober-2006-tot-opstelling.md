@@ -13,7 +13,7 @@ entry_into_force: 2019-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/05/16/2019012918/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2019. - Ordonnantie tot wijziging van de ordonnantie van 20 oktober 2006 tot opstelling van een kader voor het waterbeleid

@@ -12,7 +12,7 @@ entry_into_force: 2000-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/03/12/2000011096/justel"
 department: "Economische Zaken - Verkeerswezen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAART 2000. - Wet tot beteugeling van bepaalde vormen van bedrog met de kilometerstand van voertuigen.

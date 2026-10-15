@@ -10,7 +10,7 @@ date: 2004-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/13/2004015159/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2004. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van Australië inzake de regeling van " werkvakanties ", en met de Uitwisseling van brieven, ondertekend te Canberra op 20 november 2002.

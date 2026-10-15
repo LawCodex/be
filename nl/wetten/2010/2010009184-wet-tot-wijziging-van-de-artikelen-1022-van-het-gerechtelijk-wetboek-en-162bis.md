@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/02/21/2010009184/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 11-03-2010 en tekstbijwerking tot 02-05-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2010. - [Wet tot wijziging van de artikelen 1022 van het Gerechtelijk Wetboek en 162bis van het Wetboek van strafvordering] &lt;Opschrift gewijzigd door W 2013-11-22/12 , art. 13, 002; Inwerkingtreding : 16-03-2013&gt;

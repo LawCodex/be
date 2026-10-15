@@ -12,7 +12,7 @@ entry_into_force: 2003-09-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/08/26/2003011424/justel"
 department: "Economie, PME, Classes moyennes et Energie - Région Wallonne - Communauté flamande"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AOUT 2003. - Loi portant assentiment à l'Accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relative à l'exécution et au financement de l'assainissement du sol des stations-service, conclu à Bruxelles le 13 décembre 2002.

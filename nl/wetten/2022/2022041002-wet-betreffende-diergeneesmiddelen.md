@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/05/05/2022041002/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
 justel_note: "Raadpleging van vroegere versies vanaf 20-05-2022 en tekstbijwerking tot 13-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2022. - Wet betreffende diergeneesmiddelen

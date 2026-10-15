@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/12/20/2001021664/justel"
 department: "Justitie - Financiën"
 justel_note: "raadpleging van vroegere versies vanaf 24-01-2002 en tekstbijwerking tot 28-07-2006"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2001. - Wet betreffende de schadeloosstelling van de leden van de Joodse Gemeenschap van België voor hun goederen die werden geplunderd of achtergelaten tijdens de oorlog 1940-1945.

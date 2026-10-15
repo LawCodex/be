@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/29/2024003902/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2024. - Decreet tot wijziging van het decreet van 6 juli 2012 betreffende het Lokaal Cultuurbeleid, het decreet van 10 maart 2023 over de subsidiëring van het sociaal-cultureel volwassenenwerk en het decreet van 23 juni 2023 tot structurele subsidiëring van kernorganisaties om de digitale transformatie van de cultuursector aan te sturen en tot opheffing van het Participatiedecreet van 18 januari 2008

@@ -11,7 +11,7 @@ published: 2008-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/07/25/2008009714/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JULI 2008. - Wet tot wijziging van het Burgerlijk Wetboek en de gecoördineerde wetten van 17 juli 1991 op de Rijkscomptabiliteit met het oog op het stuiten van de verjaring van de vordering tot schadevergoeding ten gevolge van een beroep tot vernietiging bij de Raad van State.

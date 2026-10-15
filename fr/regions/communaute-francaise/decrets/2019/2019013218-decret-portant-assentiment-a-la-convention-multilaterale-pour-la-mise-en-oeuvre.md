@@ -13,7 +13,7 @@ entry_into_force: 2019-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/25/2019013218/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2019. - Décret portant assentiment à la Convention multilatérale pour la mise en oeuvre des mesures relatives aux conventions fiscales pour prévenir l'érosion de la base d'imposition et le transfert de bénéfices et à la note explicative, faites à Paris le 24 novembre 2016

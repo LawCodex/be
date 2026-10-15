@@ -13,7 +13,7 @@ entry_into_force: 2024-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/18/2024004495/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2024. - Décret instituant le dispositif du monitoring des référentiels du tronc commun dans le Code de l'enseignement fondamental et de l'enseignement secondaire

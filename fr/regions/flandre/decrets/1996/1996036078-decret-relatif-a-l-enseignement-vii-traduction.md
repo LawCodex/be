@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/08/1996036078/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 05-09-1996 et mise à jour au 13-02-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 1996. - Décret relatif à l'enseignement VII. (TRADUCTION)

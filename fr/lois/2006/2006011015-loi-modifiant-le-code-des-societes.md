@@ -12,7 +12,7 @@ entry_into_force: 2006-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/01/13/2006011015/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JANVIER 2006. - Loi modifiant le Code des sociétés.

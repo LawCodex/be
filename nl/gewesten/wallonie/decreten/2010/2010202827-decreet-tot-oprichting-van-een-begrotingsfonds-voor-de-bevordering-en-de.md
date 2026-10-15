@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/05/06/2010202827/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 20-03-2024 en tekstbijwerking tot 20-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2010. - Decreet tot oprichting van een begrotingsfonds voor de bevordering en de ontwikkeling van de paardensportactiviteit

@@ -13,7 +13,7 @@ entry_into_force: 2013-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/05/31/2013035605/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2013. - Décret portant assentiment à l'accord de coopération du 8 octobre 2010 entre l'Etat fédéral et les Régions en vue de l'exécution des Règlements des Communautés européennes relatifs à une politique de capacité des flottes communautaires dans la navigation intérieure en vue de promouvoir le transport par voie navigable

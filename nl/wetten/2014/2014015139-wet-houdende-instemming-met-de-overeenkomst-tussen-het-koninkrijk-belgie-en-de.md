@@ -12,7 +12,7 @@ entry_into_force: 2012-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/27/2014015139/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2014. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Verenigde Staten van Amerika inzake de rechtspositie van een personeelscategorie van de Strijdkrachten van de Verenigde Staten, gedaan te Brussel op 13 juli 2012

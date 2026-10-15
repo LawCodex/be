@@ -12,7 +12,7 @@ entry_into_force: 2013-01-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/12/10/2013009002/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2012. - Wet tot wijziging van het Burgerlijk Wetboek, het Strafwetboek en het Gerechtelijk Wetboek met betrekking tot de onwaardigheid om te erven, de herroeping van giften, het verval van huwelijksvoordelen en de plaatsvervulling

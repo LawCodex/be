@@ -13,7 +13,7 @@ entry_into_force: 2015-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/19/2015202987/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2015. - Decreet met het oog op de wijziging van artikel 68 van het decreet van 24 april 2014 tot opheffing van de artikelen 1 tot 128 en 129quater tot 184 van het Waalse Wetboek van Ruimtelijke Ordening, Stedenbouw, Patrimonium en Energie en tot vorming van het Wetboek van Ruimtelijke Ontwikkeling, gewijzigd bij het decreet van 11 december 2014 houdende de algemene uitgavenbegroting van het Waalse Gewest voor het begrotingsjaar 2015 en bij het programmadecreet van 12 december 2014 houdende verschillende maatregelen betreffende de begroting inzake natuurrampen, verkeersveiligheid, openbare werken, energie, huisvesting, leefmilieu, ruimtelijke ordening, dierenwelzijn, landbouw en fiscaliteit

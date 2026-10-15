@@ -13,7 +13,7 @@ entry_into_force: 2018-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/25/2018012631/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2018. - Décret modifiant le décret du 22 décembre 2017 sur l'administration locale, les décrets du 4 mai 2018 portant fusion de certaines communes, le Décret électoral local et provincial du 8 juillet 2011 et le Décret provincial du 9 décembre 2005

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/10/2014009233/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 10-06-2014 en tekstbijwerking tot 13-05-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2014. - Wet tot wijziging van het Gerechtelijk Wetboek, de wet van 25 april 2007 tot wijziging van het Gerechtelijk Wetboek inzonderheid met betrekking tot bepalingen inzake het gerechtspersoneel van het niveau A, de griffiers en de secretarissen en inzake de rechterlijke organisatie, tot wijziging van de wet van 10 april 2003 tot regeling van de afschaffing van de militaire rechtscolleges in vredestijd alsmede van het behoud ervan in oorlogstijd en tot wijziging van de wet van 31 januari 2007 inzake de gerechtelijke opleiding en tot oprichting van het Instituut voor gerechtelijke opleiding

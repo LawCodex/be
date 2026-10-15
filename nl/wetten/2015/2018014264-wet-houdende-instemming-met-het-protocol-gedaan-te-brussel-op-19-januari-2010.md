@@ -12,7 +12,7 @@ entry_into_force: 2020-04-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/09/11/2018014264/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 SEPTEMBER 2015. - Wet houdende instemming met het Protocol, gedaan te Brussel op 19 januari 2010, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Staat Malta tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting, en het Protocol, ondertekend te Brussel op 28 juni 1974, zoals gewijzigd door de Aanvullende Overeenkomst ondertekend te Brussel op 23 juni 1993

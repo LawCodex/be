@@ -12,7 +12,7 @@ entry_into_force: 2001-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/07/19/2001022570/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2001. - Wet tot bekrachtiging en wijziging van het koninklijk besluit van 22 februari 2001 houdende organisatie van de controles die worden verricht door het Federaal Agentschap voor de Veiligheid van de Voedselketen en tot wijziging van diverse wettelijke bepalingen en tot bekrachtiging van het koninklijk besluit van 22 februari 2001 betreffende de financiering van het Federaal Agentschap voor de Veiligheid van de Voedselketen.

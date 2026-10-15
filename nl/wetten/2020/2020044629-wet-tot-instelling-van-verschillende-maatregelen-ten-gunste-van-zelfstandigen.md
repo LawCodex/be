@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/12/22/2020044629/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2020 en tekstbijwerking tot 07-04-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2020. - Wet tot instelling van verschillende maatregelen ten gunste van zelfstandigen in de context van de COVID-19-crisis

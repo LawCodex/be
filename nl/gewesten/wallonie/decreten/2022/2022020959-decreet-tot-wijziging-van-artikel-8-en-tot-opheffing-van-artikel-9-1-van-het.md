@@ -13,7 +13,7 @@ entry_into_force: 2022-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/02/2022020959/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2022. - Decreet tot wijziging van artikel 8 en tot opheffing van artikel 9/1 van het decreet van 21 oktober 2021 betreffende het gebruik van het COVID Safe Ticket en de mondmaskerplicht wat betreft de mondmaskerplicht

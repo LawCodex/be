@@ -13,7 +13,7 @@ entry_into_force: 2014-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/11/2014029597/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2014. - Decreet tot instemming met het samenwerkingsakkoord tussen het Waalse Gewest en de Franse Gemeenschap betreffende de terbeschikkingstelling van voorzieningen in het kader van de herziening van het kwalificerend onderwijs en de samenwerking tussen de Centra voor gevorderde technologieën en de Kenniscentra

@@ -17,7 +17,7 @@ department: "Communauté germanophone"
 justel_notes:
   - "modifié avec effet à une date indéterminée par DCG 2006-12-18/43 , art. 25 à 29"
   - "Consultation des versions antérieures à partir du 24-03-2000 et mise à jour au 07-02-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANVIER 2000. - Décret portant création d'un office de l'emploi en Communauté germanophone (TRADUCTION).

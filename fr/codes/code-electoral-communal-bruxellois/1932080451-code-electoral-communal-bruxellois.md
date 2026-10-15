@@ -16,7 +16,7 @@ department: "Région de Bruxelles-Capitale"
 justel_notes:
   - "Loi électorale communale coordonnée le 04-08-1932, et adaptée par ORD 2006-02-16/35 , En vigueur : 10-03-2006"
   - "Consultation des versions antérieures à partir du 28-02-2006 et mise à jour au 14-08-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1932. - Code électoral communal bruxellois.

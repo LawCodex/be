@@ -13,7 +13,7 @@ entry_into_force: 2000-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/04/07/2000035437/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2000. - Decreet tot wijziging van het decreet van 30 november 1988 tot instelling van het politiek verlof voor de personeelsleden van de openbare instellingen en publiekrechtelijke verenigingen die van het Vlaamse Gewest afhangen.

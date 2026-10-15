@@ -13,7 +13,7 @@ entry_into_force: 2024-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/18/2024006921/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2024. - Decreet tot wijziging van het decreet van 13 september 2018 tot oprichting van de Algemene sturingsdienst voor de scholen en psycho-medisch-sociale centra en tot bepaling van het statuut van de zonedirecteurs en afgevaardigden voor de doelstellingenovereenkomst, het decreet van 10 januari 2019 betreffende de algemene inspectiedienst en verschillende bepalingen betreffende de sturing in het Wetboek voor het basis- en secundair onderwijs

@@ -13,7 +13,7 @@ entry_into_force: 1993-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/03/31/1994029209/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 1994. - Décret modifiant le décret du 5 juin 1985 relatif à la participation des jeunes de moins de 21 ans à l'entraînement et aux compétitions cyclistes sur ou en dehors de la voie publique.

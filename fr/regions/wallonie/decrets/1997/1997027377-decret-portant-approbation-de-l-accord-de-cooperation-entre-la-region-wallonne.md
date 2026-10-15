@@ -13,7 +13,7 @@ entry_into_force: 1997-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/06/26/1997027377/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 1997. - Décret portant approbation de l'Accord de coopération entre la Région wallonne et la Région flamande relatif à la nappe du calcaire carbonifère de la région du Tournaisis.

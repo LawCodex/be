@@ -13,7 +13,7 @@ entry_into_force: 2011-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/05/19/2011031291/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2011. - Ordonnantie tot gedeeltelijke omzetting van de Richtlijn 2006/123/EG van het Europees Parlement en de Raad van 12 december 2006 betreffende diensten in het Brussels Hoofdstedelijk Gewest

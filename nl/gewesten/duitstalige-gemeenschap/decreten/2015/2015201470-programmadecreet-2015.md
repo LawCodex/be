@@ -13,7 +13,7 @@ entry_into_force: 2015-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/03/02/2015201470/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2015. - Programmadecreet 2015

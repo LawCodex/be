@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/17/2002029383/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 02-08-2002 en tekstbijwerking tot 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2002. - [Decreet betreffende de "Office de la Naissance et de l'Enfance"].&lt;DFG 2024-04-18/31 , art. 1, 015; Inwerkingtreding : 16-07-2024&gt;

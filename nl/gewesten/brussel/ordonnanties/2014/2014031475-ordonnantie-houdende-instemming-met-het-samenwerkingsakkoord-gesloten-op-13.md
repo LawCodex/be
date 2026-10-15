@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/05/08/2014031475/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2014. - Ordonnantie houdende instemming met het Samenwerkingsakkoord gesloten op 13 februari 2014 tussen het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de gewestgrensoverschrijdende intercommunales

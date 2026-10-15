@@ -13,7 +13,7 @@ last_amended: 2026-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1965/04/08/1965040816/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-09-1981 en tekstbijwerking tot 01-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 APRIL 1965. - Wet tot instelling van de arbeidsreglementen.

@@ -12,7 +12,7 @@ entry_into_force: 2003-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/11/18/2003015224/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2003. - Wet houdende instemming met de Aanvullende Overeenkomst, ondertekend te Brussel op 5 november 2002, bij de Overeenkomst tussen het Koninkrijk België en de Bondsrepubliek Duitsland tot voorkoming van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen van inkomen en van vermogen, met inbegrip van de ondernemingsbelasting en de grondbelastingen, en bij diens Slotprotocol, ondertekend te Brussel op 11 april 1967.

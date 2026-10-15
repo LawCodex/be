@@ -11,7 +11,7 @@ entry_into_force: 2013-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/11/11/2013206335/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 NOVEMBER 2013. - Wet houdende diverse wijzigingen tot invoering van een nieuwe sociale en fiscale regeling voor de gelegenheidsarbeiders in de horeca

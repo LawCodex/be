@@ -12,7 +12,7 @@ entry_into_force: 1999-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/13/1999011023/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JANVIER 1999. - Loi complétant l'article 52, § 1er, de la loi du 14 juillet 1991 sur les pratiques du commerce et sur l'information et la protection du consommateur.

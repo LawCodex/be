@@ -12,7 +12,7 @@ entry_into_force: 2004-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/04/25/2004015088/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2004. - Wet houdende instemming met de Overeenkomst tussen de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, enerzijds, en de Regering van de Republiek Slovenië, anderzijds, betreffende de overname van onregelmatig binnengekomen of verblijvende personen, ondertekend te Wenen op 16 november 1992.

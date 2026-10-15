@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/10/21/2010205649/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 03-11-2010 en tekstbijwerking tot 29-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OKTOBER 2010. - Decreet houdende instelling van Namen als hoofdstad van Wallonië en als zetel van de gewestelijke politieke instellingen

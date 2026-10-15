@@ -12,7 +12,7 @@ entry_into_force: 1999-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/03/04/1999015125/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 1998. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Verenigde Staten van Amerika aangaande de rechtshulp in strafzaken, en Bijlage, ondertekend te Washington op 28 januari 1988.

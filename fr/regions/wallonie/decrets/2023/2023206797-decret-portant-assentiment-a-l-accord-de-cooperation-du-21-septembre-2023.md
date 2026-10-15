@@ -13,7 +13,7 @@ entry_into_force: 2024-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/16/2023206797/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2023. - Décret portant assentiment à l'accord de coopération du 21 septembre 2023 modifiant l'accord de coopération du 20 mars 2014 entre la Région wallonne et la Communauté française relatif à l'équipement mis à disposition dans le cadre de la refondation de l'enseignement qualifiant et à la collaboration entre les centres de technologies avancées et les centres de compétence

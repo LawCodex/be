@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/01/12/2007200741/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 20-03-2007 et mise à jour au 19-09-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 2007. - Décret relatif au renforcement de l'éducation à la citoyenneté responsable et active au sein des établissements organisés ou subventionnés par la Communauté française

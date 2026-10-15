@@ -12,7 +12,7 @@ entry_into_force: 1999-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/08/1998022824/justel"
 department: "Prévoyance Sociale - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBRE 1998. - Loi portant des dispositions diverses relatives au financement de l'Institut d'Expertise vétérinaire.

@@ -12,7 +12,7 @@ entry_into_force: 2017-03-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/02/20/2017040073/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 2017. - Wet tot wijziging van de wetgeving betreffende de definitie van gevangenisdirecteur

@@ -13,7 +13,7 @@ entry_into_force: 2012-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/12/16/2012031036/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2011. - Ordonnance modifiant le Code des droits de succession

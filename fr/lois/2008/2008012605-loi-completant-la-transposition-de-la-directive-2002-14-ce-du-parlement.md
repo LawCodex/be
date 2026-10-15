@@ -12,7 +12,7 @@ entry_into_force: 2008-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/04/23/2008012605/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2008. - Loi complétant la transposition de la Directive 2002/14/CE du Parlement européen et du Conseil du 11 mars 2002 établissant un cadre général relatif à l'information et à la consultation des travailleurs dans la Communauté européenne.

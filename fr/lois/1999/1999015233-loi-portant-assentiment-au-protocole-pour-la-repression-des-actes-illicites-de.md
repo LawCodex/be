@@ -12,7 +12,7 @@ entry_into_force: 1999-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/25/1999015233/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 1999. - Loi portant assentiment au Protocole pour la répression des actes illicites de violence dans les aéroports servant à l'aviation civile internationale, complémentaire à la Convention pour la répression d'actes illicites dirigés contre la sécurité de l'aviation civile, faite à Montréal le 23 septembre 1971, fait à Montréal le 24 février 1988.

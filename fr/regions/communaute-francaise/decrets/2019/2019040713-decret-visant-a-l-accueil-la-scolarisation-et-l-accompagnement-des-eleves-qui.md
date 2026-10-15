@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/02/07/2019040713/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 18-03-2019 et mise à jour au 09-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 2019. - Décret visant à l'accueil, la scolarisation et l'accompagnement des élèves qui ne maîtrisent pas la langue dans l'enseignement organisé ou subventionné par la Communauté française

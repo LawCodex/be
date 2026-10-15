@@ -12,7 +12,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/12/22/2009003025/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2008. - Wet houdende eerste aanpassing van de algemene uitgavenbegroting van het begrotingsjaar 2008. &lt;Erratum, M.B. 26-02-2009, p. 16831&gt;.

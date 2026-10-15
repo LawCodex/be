@@ -13,7 +13,7 @@ entry_into_force: 2013-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/01/24/2013029201/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 2013. - Décret portant assentiment à la Convention pour la création du Bureau européen des Radiocommunications, et annexes, faites à La Haye le 23 juin 1993 et l'Instrument amendant la Convention relative à la création du Bureau européen des radiocommunications, fait à Copenhague le 17 décembre 2002

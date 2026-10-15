@@ -11,7 +11,7 @@ published: 1979-12-20
 entry_into_force: 1979-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1979/11/30/1979113005/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 1979. - Loi portant confirmation de quatre arrêtés royaux relatifs au tarif des droits d'entrée pris au cours de l'année 1977.

@@ -13,7 +13,7 @@ entry_into_force: 2021-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/25/2021042460/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2021. - Decreet tot wijziging van artikel 47/1 van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid in het kader van COVID-19 in de zomer van 2021

@@ -12,7 +12,7 @@ entry_into_force: 1996-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/03/18/1996014148/justel"
 department: "Communications"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 1996. - Loi portant deuxième ajustement du Budget Général des Dépenses de l'année budgétaire 1995 - Section 33 -" Communications et Infrastructure ".

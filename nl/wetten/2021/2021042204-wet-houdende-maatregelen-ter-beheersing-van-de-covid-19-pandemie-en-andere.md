@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/06/13/2021042204/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 16-06-2021 en tekstbijwerking tot 30-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 2021. - Wet houdende maatregelen ter beheersing van de COVID-19-pandemie en andere dringende maatregelen in het domein van de gezondheidzorg

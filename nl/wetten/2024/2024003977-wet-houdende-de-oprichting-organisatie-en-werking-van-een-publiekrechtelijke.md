@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/26/2024003977/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 05-06-2024 en tekstbijwerking tot 31-12-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2024. - Wet houdende de oprichting, organisatie en werking van een publiekrechtelijke instelling die tot doel heeft de financiële verantwoordelijkheid voor bepaalde nucleaire verplichtingen te dragen

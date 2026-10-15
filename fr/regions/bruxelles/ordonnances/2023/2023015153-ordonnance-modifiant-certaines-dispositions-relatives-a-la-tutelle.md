@@ -13,7 +13,7 @@ entry_into_force: 2022-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/02/09/2023015153/justel"
 department: "Région Bruxelloise"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 2023. - Ordonnance modifiant certaines dispositions relatives à la tutelle administrative sur les ASBL communales

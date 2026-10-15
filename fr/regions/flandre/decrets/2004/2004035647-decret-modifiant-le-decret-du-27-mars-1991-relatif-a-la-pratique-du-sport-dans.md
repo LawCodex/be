@@ -13,7 +13,7 @@ entry_into_force: 2004-05-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/19/2004035647/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2004. - Décret modifiant le décret du 27 mars 1991 relatif à la pratique du sport dans le respect des impératifs de santé (TRADUCTION).

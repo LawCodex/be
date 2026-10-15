@@ -12,7 +12,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/05/2014022177/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2014. - Wet tot wijziging van het rustpensioen en het overlevingspensioen en tot invoering van de overgangsuitkering in de pensioenregeling voor werknemers en houdende geleidelijke opheffing van de verschillen in behandeling die berusten op het onderscheid tussen werklieden en bedienden inzake aanvullende pensioenen

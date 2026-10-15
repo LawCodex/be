@@ -11,7 +11,7 @@ entry_into_force: 2022-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/10/2022042676/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2022. - Wet dat de Rijksdienst voor Sociale Zekerheid toelaat betalingstermijnen toe te kennen voor de bijdragen verschuldigd voor het derde en vierde kwartaal 2022 en voor het eerste kwartaal 2023 zonder toepassing van sancties

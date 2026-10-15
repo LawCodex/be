@@ -13,7 +13,7 @@ entry_into_force: 2008-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/01/31/2008031041/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2008. - Ordonnance modifiant l'ordonnance organique du 23 février 2006 portant les dispositions applicables au budget, à la comptabilité et au contrôle.

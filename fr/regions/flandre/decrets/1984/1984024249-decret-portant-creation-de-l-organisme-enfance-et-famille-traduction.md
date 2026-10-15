@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1984/05/29/1984024249/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 01-06-1994 et mise à jour au 31-05-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 1984. - Décret portant création de l'organisme Enfance et Famille. &lt;TRADUCTION&gt;

@@ -12,7 +12,7 @@ entry_into_force: 2001-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/02/05/2001000275/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 2001. - Wet tot wijziging van artikel 66 van de provinciewet en tot invoeging van een artikel 242bis in de nieuwe gemeentewet, inzake het beleidsprogramma.

@@ -13,7 +13,7 @@ entry_into_force: 2014-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/20/2014201754/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 2014. - Decreet houdende wijziging van het decreet van 12 februari 2004 tot organisatie van de Waalse provincies

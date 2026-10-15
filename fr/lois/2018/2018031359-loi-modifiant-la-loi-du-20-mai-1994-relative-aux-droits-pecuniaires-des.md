@@ -12,7 +12,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/06/19/2018031359/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2018. - Loi modifiant la loi du 20 mai 1994 relative aux droits pécuniaires des militaires

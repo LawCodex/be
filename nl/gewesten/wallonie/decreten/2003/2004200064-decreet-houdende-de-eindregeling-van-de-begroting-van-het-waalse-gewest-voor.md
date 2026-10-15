@@ -13,7 +13,7 @@ entry_into_force: 2004-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/04/2004200064/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2003. - Decreet houdende de eindregeling van de begroting van het Waalse Gewest voor het jaar 1998. (Vertaling).

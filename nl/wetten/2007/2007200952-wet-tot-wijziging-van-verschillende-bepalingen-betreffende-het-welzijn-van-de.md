@@ -12,7 +12,7 @@ entry_into_force: 2007-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/01/10/2007200952/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANUARI 2007. - Wet tot wijziging van verschillende bepalingen betreffende het welzijn van de werknemers bij de uitvoering van hun werk waaronder deze betreffende de bescherming tegen geweld, pesterijen en ongewenst seksueel gedrag op het werk.

@@ -13,7 +13,7 @@ entry_into_force: 2026-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/04/02/2026002988/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 2026. - Decreet betreffende de neutraliteit van het basisonderwijs, het secundair onderwijs en het secundair kunstonderwijs met beperkt leerplan in de psycho-medisch-sociale centra en de internaten

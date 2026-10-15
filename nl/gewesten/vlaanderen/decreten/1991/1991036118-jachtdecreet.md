@@ -16,7 +16,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "art. 12, 17 en 25 gewijzigd met ingang op een onbepaalde datum bij DVR 2004-05-07/63 , art. 24 tot 26, opgeheven bij DVR 2005-12-23/57 , art. 5; Inwerkingtreding : 31-03-2006, 004; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 29-12-2001 en tekstbijwerking tot 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 1991. - Jachtdecreet.

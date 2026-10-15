@@ -11,7 +11,7 @@ published: 1972-07-14
 entry_into_force: 1972-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1972/07/12/1972071202/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 1972. \_ Loi modifiant certaines dispositions en matière de statut social des travailleurs indépendants.

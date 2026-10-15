@@ -12,7 +12,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/12/24/2008003531/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 2008. - Loi modifiant le Code des impôts sur les revenus 1992 en ce qui concerne la déduction pour habitation propre et unique.

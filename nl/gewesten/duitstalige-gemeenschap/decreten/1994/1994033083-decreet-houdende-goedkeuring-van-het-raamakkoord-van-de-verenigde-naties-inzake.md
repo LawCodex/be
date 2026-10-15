@@ -11,7 +11,7 @@ date: 1994-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/06/15/1994033083/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 1994. - Decreet houdende goedkeuring van het raamakkoord van de Verenigde Naties inzake klimaatverandering, ondertekend in New York op 9 mei 1992, en van de Bijlagen I en II.

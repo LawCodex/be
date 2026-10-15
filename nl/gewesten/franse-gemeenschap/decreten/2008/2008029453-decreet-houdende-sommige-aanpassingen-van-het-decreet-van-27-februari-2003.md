@@ -13,7 +13,7 @@ entry_into_force: 2008-10-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/18/2008029453/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2008. - Decreet houdende sommige aanpassingen van het decreet van 27 februari 2003 betreffende de radio-omroep (VERTALING).

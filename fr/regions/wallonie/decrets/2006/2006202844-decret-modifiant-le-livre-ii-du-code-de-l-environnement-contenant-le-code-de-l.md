@@ -13,7 +13,7 @@ entry_into_force: 2006-09-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/19/2006202844/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2006. - Décret modifiant le Livre II du Code de l'Environnement, contenant le Code de l'Eau, en ce qui concerne la Société wallonne des eaux.

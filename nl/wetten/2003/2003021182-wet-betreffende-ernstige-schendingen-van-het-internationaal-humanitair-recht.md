@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/08/05/2003021182/justel"
 department: "Kanselarij van de Eerste Minister - Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 07-08-2003 en tekstbijwerking tot 07-07-2006"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 AUGUSTUS 2003. - Wet betreffende ernstige schendingen van het internationaal humanitair recht.

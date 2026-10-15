@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004035800/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 28-05-2004 et mise à jour au 25-08-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - [Décret portant réglementation du contrôle des dépenses électorales et de l'origine des fonds engagés pour l'élection du Parlement flamand.] &lt;DCFL 2011-07-08/24 , art. 279, 004; En vigueur : 04-09-2011&gt; (TRADUCTION)

@@ -12,7 +12,7 @@ entry_into_force: 2016-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/07/09/2015031449/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2015. - Ordonnantie houdende de eerste maatregelen ter uitvoering en toepassing van de zesde Staatshervorming met betrekking tot het toezicht en de controle op het vlak van werkgelegenheid

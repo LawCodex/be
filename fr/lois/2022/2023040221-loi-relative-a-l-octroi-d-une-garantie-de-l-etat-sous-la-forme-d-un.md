@@ -12,7 +12,7 @@ entry_into_force: 2023-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/11/2023040221/justel"
 department: "Régie des Bâtiments"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2022. - Loi relative à l'octroi d'une garantie de l'état sous la forme d'un cautionnement, dans le contexte d'un contrat DBFM, pour la construction de deux nouveaux établissements pénitentiaires, respectivement à Bourg-Léopold et Vresse-sur-Semois

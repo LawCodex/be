@@ -13,7 +13,7 @@ entry_into_force: 2014-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/28/2014203303/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2014. - Décret portant assentiment à l'Accord, fait à Bruxelles le 11 mai 2010 et The Valley, Anguilla le 24 septembre 2010, entre le Royaume de Belgique et Anguilla en vue de l'échange de renseignements en matière fiscale

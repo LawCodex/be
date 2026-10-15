@@ -12,7 +12,7 @@ entry_into_force: 2012-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/05/2012009282/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2012. - Wet tot wijziging van het Strafwetboek met het oog op de invoering van een verzwarende omstandigheid voor strafbare feiten jegens scheidsrechters van sportwedstrijden

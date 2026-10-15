@@ -12,7 +12,7 @@ entry_into_force: 2023-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/06/06/2023042994/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2023. - Wet betreffende het gebruik van toeristische slepen bestaande uit een tractor en een huifkar op de openbare weg

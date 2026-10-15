@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/11/2018040307/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 20-07-2018 et mise à jour au 24-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2018. - Loi relative aux offres au public d'instruments de placement et aux admissions d'instruments de placement à la négociation sur des marchés réglementés

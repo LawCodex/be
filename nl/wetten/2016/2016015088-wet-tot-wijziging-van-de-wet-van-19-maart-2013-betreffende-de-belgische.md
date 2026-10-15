@@ -12,7 +12,7 @@ entry_into_force: 2016-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/06/16/2016015088/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2016. - Wet tot wijziging van de wet van 19 maart 2013 betreffende de Belgische Ontwikkelingssamenwerking

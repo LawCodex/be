@@ -11,7 +11,7 @@ published: 1919-03-20
 entry_into_force: 1919-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1919/03/16/1919031650/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 1919. - Loi instituant la Société nationale de Crédit à l'Industrie.

@@ -12,7 +12,7 @@ entry_into_force: 2024-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/28/2023048795/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBRE 2023. - Loi portant des dispositions fiscales diverses

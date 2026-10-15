@@ -11,7 +11,7 @@ published: 2024-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/16/2024008264/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Wet tot wijziging van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen en de wet van 19 juli 1991 betreffende de bevolkingsregisters, de identiteitskaarten, de vreemdelingenkaarten en de verblijfsdocumenten

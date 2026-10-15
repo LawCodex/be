@@ -12,7 +12,7 @@ entry_into_force: 2026-01-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/11/10/2026000014/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2025. - Wet betreffende de toegang tot het Rijksregister van de natuurlijke personen en het gebruik van het rijksregisternummer door de Federale Overheidsdienst Beleid en Ondersteuning

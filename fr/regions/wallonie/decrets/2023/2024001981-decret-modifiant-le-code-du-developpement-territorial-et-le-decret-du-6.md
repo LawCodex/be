@@ -13,7 +13,7 @@ entry_into_force: 2018-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/12/13/2024001981/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2023. - Décret modifiant le Code du Développement territorial et le décret du 6 novembre 2008 portant rationalisation de la fonction consultative et abrogeant le décret du 5 février 2015 relatif aux implantations commerciales

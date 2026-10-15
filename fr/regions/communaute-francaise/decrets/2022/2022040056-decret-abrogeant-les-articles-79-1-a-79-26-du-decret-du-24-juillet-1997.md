@@ -13,7 +13,7 @@ entry_into_force: 2022-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/01/13/2022040056/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JANVIER 2022. - Décret abrogeant les articles 79/1 à 79/26 du décret du 24 juillet 1997 définissant les missions prioritaires de l'enseignement fondamental et de l'enseignement secondaire et organisant les structures propres à les atteindre, et insérant des dispositions au sein du Code de l'enseignement fondamental et de l'enseignement secondaire relatives aux inscriptions en première année de l'enseignement secondaire

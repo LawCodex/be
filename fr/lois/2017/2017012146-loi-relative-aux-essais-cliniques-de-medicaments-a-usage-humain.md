@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/05/07/2017012146/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
 justel_note: "Consultation des versions antérieures à partir du 22-05-2017 et mise à jour au 04-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2017. - Loi relative aux essais cliniques de médicaments à usage humain

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/08/06/1993003514/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 23-05-1995 en tekstbijwerking tot 07-05-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AUGUSTUS 1993. - Wet betreffende de transacties met bepaalde effecten.

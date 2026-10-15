@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/24/2015031101/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2014. - Décret portant les dispositions applicables au budget, à la comptabilité et au contrôle des services administratifs de la Commission communautaire française et des organismes administratifs publics qui en dépendent

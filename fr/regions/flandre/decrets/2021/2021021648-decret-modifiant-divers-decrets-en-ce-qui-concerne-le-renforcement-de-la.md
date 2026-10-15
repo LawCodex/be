@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/07/16/2021021648/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 04-08-2021 et mise à jour au 29-03-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2021. - Décret modifiant divers décrets, en ce qui concerne le renforcement de la démocratie locale

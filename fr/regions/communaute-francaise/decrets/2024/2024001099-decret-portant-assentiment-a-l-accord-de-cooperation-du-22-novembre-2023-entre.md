@@ -13,7 +13,7 @@ entry_into_force: 2024-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/18/2024001099/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 2024. - Décret portant assentiment à l'Accord de coopération du 22 novembre 2023 entre l'Etat fédéral, la Communauté française et la Région wallonne en matière d'assistance aux victimes

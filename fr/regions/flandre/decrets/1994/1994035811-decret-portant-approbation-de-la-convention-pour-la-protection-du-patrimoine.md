@@ -13,7 +13,7 @@ entry_into_force: 1994-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/06/01/1994035811/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 1994. - Décret portant approbation de la convention pour la protection du patrimoine mondial culturel et naturel, faite à Paris le 16 novembre 1972.

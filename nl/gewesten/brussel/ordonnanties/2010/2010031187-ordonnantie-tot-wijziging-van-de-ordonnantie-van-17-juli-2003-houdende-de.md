@@ -13,7 +13,7 @@ entry_into_force: 2010-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2010/04/01/2010031187/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2010. - Ordonnantie " tot wijziging van de ordonnantie van 17 juli 2003 houdende de Brusselse Huisvestingscode om de toepassing van het openbaar beheersrecht te vergemakkelijken " (nr. A-74/1 en 2 - 2009/2010)

@@ -13,7 +13,7 @@ entry_into_force: 2009-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/02/20/2009200877/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2009. - Décret portant assentiment au protocole relatif aux restes explosifs de guerre et à l'annexe technique, adopté à Genève, le 28 novembre 2003 (TRADUCTION).

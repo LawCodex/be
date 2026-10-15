@@ -13,7 +13,7 @@ entry_into_force: 2014-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/14/2014035292/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAART 2014. - Decreet houdende wijziging van het Energiedecreet van 8 mei 2009, wat betreft de omzetting van de Richtlijn van de Europese Unie 2012/27/EU van 25 oktober 2012 betreffende energie-efficiëntie en de toekenning van groenestroomcertificaten, warmte-krachtcertificaten en garanties van oorsprong

@@ -12,7 +12,7 @@ entry_into_force: 2018-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/11/25/2018014993/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2018. - Loi transposant en droit belge la Directive 2017/1564/UE du Parlement européen et du Conseil du 13 septembre 2017 sur certaines utilisations autorisées de certaines oeuvres et d'autres objets protégés par le droit d'auteur et les droits voisins en faveur des aveugles, des déficients visuels et des personnes ayant d'autres difficultés de lecture des textes imprimés et modifiant la Directive 2001/29/CE sur l'harmonisation de certains aspects du droit d'auteur et des droits voisins dans la société de l'information

@@ -13,7 +13,7 @@ entry_into_force: 2020-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/07/17/2020042417/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2020. - Ordonnance portant mise en vigueur de la délibération budgétaire n° 05 du Gouvernement de la Région de Bruxelles-Capitale autorisant l'engagement, la liquidation et le paiement des dépenses, à imputer au budget général des dépenses de la Région de Bruxelles-Capitale pour l'année budgétaire 2020

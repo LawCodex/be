@@ -12,7 +12,7 @@ entry_into_force: 2022-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/03/23/2022040600/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2022. - Loi modifiant la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, en ce qui concerne les élections médicales

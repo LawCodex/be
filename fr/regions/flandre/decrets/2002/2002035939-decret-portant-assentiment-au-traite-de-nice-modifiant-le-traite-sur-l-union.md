@@ -13,7 +13,7 @@ entry_into_force: 2002-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/06/28/2002035939/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2002. - Décret portant assentiment au Traité de Nice, modifiant le Traité sur l'Union européenne, les Traités instituant les Communautés européennes et certains actes connexes, aux Protocoles et à l'Acte final, signés à Nice le 26 février 2001. (Traduction).

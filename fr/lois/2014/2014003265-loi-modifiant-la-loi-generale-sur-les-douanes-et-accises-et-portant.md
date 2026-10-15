@@ -12,7 +12,7 @@ entry_into_force: 2014-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/12/2014003265/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2014. - Loi modifiant la loi générale sur les douanes et accises et portant dispositions diverses

@@ -12,7 +12,7 @@ entry_into_force: 1999-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/20/1999003217/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 1999. - Wet houdende toekenning van begrotingsmiddelen door aanpassing van de Algemene Uitgavenbegroting voor het begrotingsjaar 1998 voor de financiële afhandeling van de verhoging van het quotum van België betreffende de goedkeuring van de resolutie betreffende de elfde algemene herziening van de quota van de leden van het Internationaal Monetair Fonds.

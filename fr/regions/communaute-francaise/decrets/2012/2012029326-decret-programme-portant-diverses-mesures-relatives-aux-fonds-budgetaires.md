@@ -13,7 +13,7 @@ entry_into_force: 2012-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/12/2012029326/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2012. - Décret-programme portant diverses mesures relatives aux fonds budgétaires figurant au budget général des dépenses de la Communauté française, à l'enseignement obligatoire et à l'enseignement de promotion sociale, à l'Agence pour l'évaluation de la qualité de l'enseignement supérieur organisé ou subventionné par la Communauté française, au financement de l'enseignement supérieur universitaire et non universitaire, aux bâtiments scolaires et à la recherche

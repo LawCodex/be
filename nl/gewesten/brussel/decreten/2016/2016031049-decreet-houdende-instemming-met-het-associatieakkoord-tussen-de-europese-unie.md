@@ -13,7 +13,7 @@ entry_into_force: 2016-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/01/21/2016031049/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JANUARI 2016. - Decreet houdende instemming met het Associatieakkoord tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten enerzijds, en Georgië anderzijds, gedaan te Brussel op 27 juni 2014

@@ -12,7 +12,7 @@ entry_into_force: 2025-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/06/29/2025002667/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2018. - Wet houdende goedkeuring van de statuten en van de resolutie nr. 24 van de Raad van Gouverneurs van de Aziatische Infrastructuurinvesteringsbank

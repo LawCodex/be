@@ -12,7 +12,7 @@ entry_into_force: 2023-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/12/19/2023048419/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2023. - Wet houdende bepalingen inzake digitalisering van justitie en diverse bepalingen

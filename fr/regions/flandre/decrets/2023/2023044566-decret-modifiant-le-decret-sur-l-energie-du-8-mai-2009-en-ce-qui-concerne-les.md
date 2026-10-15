@@ -13,7 +13,7 @@ entry_into_force: 2023-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/14/2023044566/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2023. - Décret modifiant le Décret sur l'Energie du 8 mai 2009 en ce qui concerne les activités des gestionnaires de réseau et portant abrogation de l'article 22 du décret du 2 avril 2021 modifiant le décret relatif à l'Energie du 8 mai 2009 transposant partiellement la Directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables et transposant la Directive (UE) 2019/944 du Parlement européen et du Conseil du 5 juin 2019 concernant des règles communes pour le marché intérieur de l'électricité et modifiant la directive 2012/27/UE

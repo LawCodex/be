@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009029356/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 10-07-2009 en tekstbijwerking tot 18-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet van 30 april 2009 betreffende de acties inzake alfabetisering en integratie in het Volwassenenonderwijs (Opschrift vervangen door BFG 2025-07-18/42 , art. 28, 003; Inwerkingtreding : 25-08-2025)

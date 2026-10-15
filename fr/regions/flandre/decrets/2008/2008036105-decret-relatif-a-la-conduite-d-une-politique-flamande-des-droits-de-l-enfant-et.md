@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/18/2008036105/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2008 et mise à jour au 01-01-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2008. - Décret relatif à la conduite d'une politique flamande des droits de l'enfant et de la jeunesse (TRADUCTION)

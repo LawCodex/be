@@ -13,7 +13,7 @@ entry_into_force: 2018-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/21/2018203376/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2018. - Decreet tot wijziging van 14 augustus 2018 betreffende de bescherming en het welzijn der dieren wat de administratieve inbeslagname van dieren

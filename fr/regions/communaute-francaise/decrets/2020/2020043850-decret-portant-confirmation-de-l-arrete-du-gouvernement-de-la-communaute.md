@@ -13,7 +13,7 @@ entry_into_force: 2020-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/11/26/2020043850/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBRE 2020. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française de pouvoirs spéciaux n° 7 du 30 avril 2020 portant des dispositions transitoires et dérogatoires au décret du 18 janvier 2018 portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse en raison de la crise sanitaire du COVID-19

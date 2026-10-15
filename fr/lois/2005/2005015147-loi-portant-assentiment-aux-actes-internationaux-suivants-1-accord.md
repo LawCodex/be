@@ -12,7 +12,7 @@ entry_into_force: 2005-11-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/10/06/2005015147/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 OCTOBRE 2005. - Loi portant assentiment aux Actes internationaux suivants : 1° Accord international sur l'Escaut; 2° Accord international sur la Meuse, faits à Gand le 3 décembre 2002.

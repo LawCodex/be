@@ -12,7 +12,7 @@ entry_into_force: 1994-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/02/18/1994000109/justel"
 department: "Binnenlandse Zaken - Openbaar Ambt"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEBRUARI 1994. - Wet houdende machtiging van de Koning om de bepalingen betreffende de organisatie van de kiesverrichtingen te codificeren.

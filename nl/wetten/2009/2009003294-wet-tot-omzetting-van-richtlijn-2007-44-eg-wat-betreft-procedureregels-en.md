@@ -10,7 +10,7 @@ date: 2009-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/07/31/2009003294/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2009. - Wet tot omzetting van Richtlijn 2007/44/EG wat betreft procedureregels en evaluatiecriteria voor de prudentiële beoordeling van verwervingen en vergrotingen van deelnemingen in de financiële sector

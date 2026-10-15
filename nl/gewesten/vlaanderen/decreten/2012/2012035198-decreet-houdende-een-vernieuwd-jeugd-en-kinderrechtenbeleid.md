@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/01/20/2012035198/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2012 en tekstbijwerking tot 10-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANUARI 2012. - Decreet houdende een vernieuwd jeugd- en kinderrechtenbeleid

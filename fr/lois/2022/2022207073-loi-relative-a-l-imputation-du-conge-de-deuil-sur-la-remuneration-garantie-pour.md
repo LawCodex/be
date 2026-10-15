@@ -12,7 +12,7 @@ entry_into_force: 2023-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/28/2022207073/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2022. - Loi relative à l'imputation du congé de deuil sur la rémunération garantie pour les travailleurs qui ne relèvent pas du champ d'application de l'arrêté royal du 28 août 1963 relatif au maintien de la rémunération normale des travailleurs pour les jours d'absence à l'occasion d'événements familiaux ou en vue de l'accomplissement d'obligations civiques ou de missions civiles

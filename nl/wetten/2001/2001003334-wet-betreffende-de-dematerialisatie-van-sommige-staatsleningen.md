@@ -12,7 +12,7 @@ entry_into_force: 2001-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/06/10/2001003334/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2001. - Wet betreffende de dematerialisatie van sommige staatsleningen.

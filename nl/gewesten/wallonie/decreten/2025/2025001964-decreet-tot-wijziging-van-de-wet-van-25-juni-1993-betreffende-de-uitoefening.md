@@ -13,7 +13,7 @@ entry_into_force: 2024-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/02/27/2025001964/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2025. - Decreet tot wijziging van de wet van 25 juni 1993 betreffende de uitoefening van ambulante activiteiten en de organisatie van openbare markten

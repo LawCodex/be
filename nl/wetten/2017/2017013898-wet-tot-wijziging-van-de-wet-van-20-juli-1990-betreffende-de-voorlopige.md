@@ -10,7 +10,7 @@ date: 2017-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/10/31/2017013898/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 OKTOBER 2017. - Wet tot wijziging van de wet van 20 juli 1990 betreffende de voorlopige hechtenis, de wet van 7 juni 1969 tot vaststelling van de tijd gedurende welke geen opsporing ten huize, huiszoeking of aanhouding mag worden verricht, de wet van 5 augustus 1992 op het politieambt en de wet van 19 december 2003 betreffende het Europees aanhoudingsbevel

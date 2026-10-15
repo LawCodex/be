@@ -12,7 +12,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/12/20/2024011693/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2024. - Loi modifiant la loi du 15 mai 2024 portant dispositions en matière de digitalisation de la justice et dispositions diverses II en vue de transférer le territoire de l'ancienne commune de Meulebeke vers le canton judiciaire de Tielt

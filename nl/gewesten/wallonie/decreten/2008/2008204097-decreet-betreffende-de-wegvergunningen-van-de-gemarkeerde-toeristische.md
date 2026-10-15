@@ -11,7 +11,7 @@ date: 2008-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/10/23/2008204097/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OKTOBER 2008. - Decreet betreffende de wegvergunningen van de gemarkeerde toeristische wandelroutes en tot wijziging van het decreet van 19 december 2002 houdende invoering van een financiële centralisatie van de thesaurieën van de Waalse instellingen van openbaar nut.

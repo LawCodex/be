@@ -13,7 +13,7 @@ entry_into_force: 2016-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/09/26/2016205132/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 SEPTEMBRE 2016. - Décret portant assentiment au Protocole, fait à Mexico le 26 août 2013, modifiant la Convention entre le Royaume de Belgique et les Etats-Unis mexicains tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Mexico le 24 novembre 1992

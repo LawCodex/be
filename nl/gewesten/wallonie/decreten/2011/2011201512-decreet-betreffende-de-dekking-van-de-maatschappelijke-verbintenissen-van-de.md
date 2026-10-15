@@ -13,7 +13,7 @@ entry_into_force: 2011-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/03/03/2011201512/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 2011. - Decreet betreffende de dekking van de maatschappelijke verbintenissen van de "Société régionale wallonne du Transport public" (Waalse Gewestelijke Maatschappij voor Openbaar Vervoer) en de exploitatiemaatschappijen

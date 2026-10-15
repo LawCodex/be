@@ -13,7 +13,7 @@ entry_into_force: 2009-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/05/2008204543/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 2008. - Décret portant assentiment à l'accord de coopération entre la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale concernant la prévention et la gestion des déchets d'emballages.

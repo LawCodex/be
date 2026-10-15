@@ -13,7 +13,7 @@ entry_into_force: 2013-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/07/26/2013031705/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUILLET 2013. - Ordonnance portant assentiment au : Protocole relatif aux préoccupations du peuple irlandais concernant le Traité de Lisbonne, fait à Bruxelles le 13 juin 2012

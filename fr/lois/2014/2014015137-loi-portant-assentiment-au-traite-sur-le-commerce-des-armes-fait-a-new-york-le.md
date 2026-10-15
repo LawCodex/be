@@ -12,7 +12,7 @@ entry_into_force: 2014-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/22/2014015137/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2014. - Loi portant assentiment au Traité sur le commerce des armes, fait à New York le 2 avril 2013

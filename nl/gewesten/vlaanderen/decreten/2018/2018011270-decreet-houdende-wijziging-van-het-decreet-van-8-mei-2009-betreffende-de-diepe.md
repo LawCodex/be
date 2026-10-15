@@ -13,7 +13,7 @@ entry_into_force: 2018-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/02/2018011270/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2018. - Decreet houdende wijziging van het decreet van 8 mei 2009 betreffende de diepe ondergrond, wat betreft de waarborgregeling voor het opsporen en winnen van aardwarmte in de diepe ondergrond

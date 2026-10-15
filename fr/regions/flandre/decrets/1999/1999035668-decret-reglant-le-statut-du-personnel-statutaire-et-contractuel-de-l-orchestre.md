@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/13/1999035668/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 11-06-1999 et mise à jour au 14-04-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 1999. - Décret réglant le statut du personnel statutaire et contractuel de l'Orchestre philharmonique de la VRT et du Choeur de la VRT (TRADUCTION).

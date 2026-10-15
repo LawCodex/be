@@ -13,7 +13,7 @@ entry_into_force: 2000-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/06/2000027033/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 1999. - Décret contenant le premier feuilleton d'ajustement du budget général des dépenses de la Région wallonne pour l'année budgétaire 1999.

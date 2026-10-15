@@ -12,7 +12,7 @@ entry_into_force: 2001-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/11/14/2001027693/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBER 2001. - Bijzonder decreet tot beperking van de cumulatie van het ambt van lid van de Waalse Regering met andere functies (VERTALING).

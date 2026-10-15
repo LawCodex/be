@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/06/30/1998029350/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 01-09-1998 en tekstbijwerking tot 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1998. - Decreet met betrekking tot de bijscholing van de leden van het bestuurs- en onderwijzend personeel en het opvoedend hulppersoneel in het onderwijs voor sociale promotie (VERTALING)

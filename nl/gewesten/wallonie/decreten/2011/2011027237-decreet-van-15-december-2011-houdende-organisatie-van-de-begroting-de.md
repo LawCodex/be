@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/12/15/2011027237/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-2011 en tekstbijwerking tot 17-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2011. - [Decreet van 15 december 2011 houdende organisatie van de begroting, de boekhouding en de verslaggeving van de Waalse openbare bestuurseenheid.] &lt;DWG 2015-12-17/10 , art. 2, 003; Inwerkingtreding : 08-01-2016&gt;

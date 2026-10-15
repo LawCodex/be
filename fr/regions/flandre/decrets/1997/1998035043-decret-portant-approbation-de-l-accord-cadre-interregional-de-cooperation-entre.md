@@ -13,7 +13,7 @@ entry_into_force: 1998-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/17/1998035043/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 1997. - Décret portant approbation de l'Accord-cadre interrégional de coopération entre la Communauté européenne et ses Etats membres, d'une part, et le Marché commun du Sud (Mercosur) et ses Etats parties, d'autre part, signé à Madrid le 15 décembre 1995 (TRADUCTION).

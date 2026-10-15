@@ -13,7 +13,7 @@ entry_into_force: 2017-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/23/2017040091/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 FEVRIER 2017. - Décret portant assentiment à l'Accord de Paris, adopté à Paris, le 12 décembre 2015

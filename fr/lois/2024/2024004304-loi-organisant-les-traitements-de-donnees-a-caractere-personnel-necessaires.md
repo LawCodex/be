@@ -12,7 +12,7 @@ entry_into_force: 2024-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/09/2024004304/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 AVRIL 2024. - Loi organisant les traitements de données à caractère personnel nécessaires pour les missions d'inspection et de contrôle de l'Agence fédérale des médicaments et des produits de santé

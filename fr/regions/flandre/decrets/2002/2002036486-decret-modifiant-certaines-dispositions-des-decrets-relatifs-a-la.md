@@ -13,7 +13,7 @@ entry_into_force: 2002-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/10/25/2002036486/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 OCTOBRE 2002. - Décret modifiant certaines dispositions des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 25 janvier 1995 (TRADUCTION).

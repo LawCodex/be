@@ -13,7 +13,7 @@ entry_into_force: 2017-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/30/2017030474/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2017. - Décret portant assentiment à la Convention de Minamata sur le mercure, adoptée à Kumamoto, le 10 octobre 2013

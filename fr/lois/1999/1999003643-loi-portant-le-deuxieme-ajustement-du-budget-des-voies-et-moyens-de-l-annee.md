@@ -12,7 +12,7 @@ entry_into_force: 1999-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/12/07/1999003643/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBRE 1999. - Loi portant le deuxième ajustement du budget des Voies et Moyens de l'année budgétaire 1999

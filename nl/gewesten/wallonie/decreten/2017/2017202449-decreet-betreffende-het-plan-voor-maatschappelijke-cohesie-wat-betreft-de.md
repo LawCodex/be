@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/05/04/2017202449/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 18-12-2018 en tekstbijwerking tot 18-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2017. - Decreet betreffende het plan voor maatschappelijke cohesie wat betreft de aangelegenheden waarvan de uitoefening van de Franse Gemeenschap is overgedragen

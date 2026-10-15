@@ -13,7 +13,7 @@ entry_into_force: 1994-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/04/28/1994027280/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 1994. - Décret portant approbation de l'accord de coopération du 29 novembre 1993 mettant fin à l'accord de coopération relatif à l'exercice conjoint de compétences par la Communauté française et la Région wallonne conclu à Namur le 17 novembre 1990 et modifié par l'accord de coopération du 2 avril 1992.

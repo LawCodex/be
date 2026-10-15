@@ -13,7 +13,7 @@ entry_into_force: 2002-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/07/2001036507/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2001. - Decreet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Republiek Albanië inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Tirana op 1 februari 1999.

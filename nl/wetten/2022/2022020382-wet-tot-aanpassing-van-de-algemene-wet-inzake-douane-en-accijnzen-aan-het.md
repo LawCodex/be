@@ -12,7 +12,7 @@ entry_into_force: 2022-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/02/23/2022020382/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 FEBRUARI 2022. - Wet tot aanpassing van de algemene wet inzake douane en accijnzen aan het douanewetboek van de Unie en houdende diverse bepalingen

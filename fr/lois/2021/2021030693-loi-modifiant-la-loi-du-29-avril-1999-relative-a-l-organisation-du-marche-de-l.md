@@ -12,7 +12,7 @@ entry_into_force: 2021-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/03/15/2021030693/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2021. - Loi modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité et modifiant la loi du 22 avril 2019 modifiant la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité portant la mise en place d'un mécanisme de rémunération de capacité

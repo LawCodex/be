@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/12/22/2018030192/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2017. - Décret portant modification du décret du 31 juillet 1990 relatif à l'agence autonomisée externe de droit public "Vlaamse Vervoersmaatschappij - De Lijn" (Société des Transports flamande - De Lijn), du décret du 2 mars 1999 portant sur la politique et la gestion des ports maritimes, du décret du 16 mai 2008 relatif aux règlements supplémentaires sur la circulation routière et sur la pose et le coût de la signalisation routière, du décret du 10 juillet 2008 relatif à la gestion et à l'exploitation des aéroports régionaux d'Ostende-Bruges, Courtrai-Wevelgem et Anvers et de l'annexe 2 du Code flamand de la Fiscalité du 13 décembre 2013, introduite par le décret du 3 juillet 2015 instaurant le système de prélèvement kilométrique et d'arrêt du prélèvement de l'eurovignette et modifiant le Code flamand de la Fiscalité du 13 décembre 2013

@@ -12,7 +12,7 @@ entry_into_force: 2001-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/02/08/2001000273/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 2001. - Wet tot wijziging van artikel 24 van de wet van 20 juli 1971 op de begraafplaatsen en de lijkbezorging

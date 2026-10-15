@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/17/2002029416/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 24-08-2002 en tekstbijwerking tot 11-08-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2002. - Decreet houdende dringende wijzigingen inzake onderwijs. (Vertaling)

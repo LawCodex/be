@@ -11,7 +11,7 @@ published: 1998-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/02/1998009646/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 1998. - Wet tot wijziging van het koninklijk besluit nr. 22 van 24 oktober 1934 waarbij aan bepaalde veroordeelden en aan de gefailleerden verbod wordt opgelegd bepaalde ambten, beroepen of werkzaamheden uit te oefenen en waarbij aan de rechtbanken van koophandel de bevoegdheid wordt toegekend dergelijk verbod uit te spreken.

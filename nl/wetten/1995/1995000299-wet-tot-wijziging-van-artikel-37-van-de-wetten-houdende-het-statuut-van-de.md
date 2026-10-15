@@ -12,7 +12,7 @@ entry_into_force: 1995-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/10/1995000299/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 1995. - Wet tot wijziging van artikel 37 van de wetten houdende het statuut van de gewetensbezwaarden, gecoördineerd op 20 februari 1980.

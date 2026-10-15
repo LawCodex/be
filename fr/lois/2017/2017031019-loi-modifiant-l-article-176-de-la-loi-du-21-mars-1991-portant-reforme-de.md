@@ -12,7 +12,7 @@ entry_into_force: 2017-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/31/2017031019/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2017. - Loi modifiant l'article 176 de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques

@@ -11,7 +11,7 @@ published: 1961-07-19
 entry_into_force: 1961-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1961/03/24/1961032428/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 1961. - Wet houdende goedkeuring van de volgende internationale akten : A) Internationaal Verdrag tot het brengen van eenheid in sommige bepalingen betreffende de bevoegdheid in burgerlijke zaken op het stuk van aanvaring; B) Internationaal Verdrag tot het brengen van eenheid in sommige bepalingen betreffende de bevoegdheid in strafzaken op het stuk van aanvaring en andere scheepvaartvoorvallen; C) Internationaal Verdrag tot het brengen van eenheid in sommige bepalingen inzake conservatoir beslag op zeeschepen, ondertekend op 10 mei 1952, te Brussel.

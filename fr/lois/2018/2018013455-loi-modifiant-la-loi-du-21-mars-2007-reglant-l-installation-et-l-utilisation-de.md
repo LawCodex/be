@@ -12,7 +12,7 @@ entry_into_force: 2018-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/30/2018013455/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUILLET 2018. - Loi modifiant la loi du 21 mars 2007 réglant l'installation et l'utilisation de caméras de surveillance, en vue d'améliorer la cohérence du texte et sa conformité avec le Règlement général sur la protection des données (RGPD)

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/04/04/2024003460/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 25-04-2024 en tekstbijwerking tot 03-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2024. - Ordonnantie houdende de Codex van de openbare financiën van het Brussels Hoofdstedelijk Gewest

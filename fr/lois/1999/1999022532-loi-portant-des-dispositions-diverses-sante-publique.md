@@ -12,7 +12,7 @@ entry_into_force: 1999-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/13/1999022532/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 1999. - Loi portant des dispositions diverses " Santé publique ".

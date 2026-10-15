@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/09/2022034677/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 20-12-2022 et mise à jour au 03-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2022. - Décret modifiant le Code flamand de la Fiscalité du 13 décembre 2013

@@ -12,7 +12,7 @@ entry_into_force: 2017-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/21/2017040555/justel"
 department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUILLET 2017. - Loi instaurant un programme de coopération durable sur le plan de la recherche entre les établissements scientifiques fédéraux et les universités

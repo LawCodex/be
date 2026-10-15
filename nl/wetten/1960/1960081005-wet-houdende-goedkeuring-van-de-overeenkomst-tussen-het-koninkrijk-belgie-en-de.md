@@ -10,7 +10,7 @@ date: 1960-08-10
 entry_into_force: 1960-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1960/08/10/1960081005/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1960. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en de Franse Republiek betreffende de invaliditeits- en overlijdenspensioenen der burgerlijke oorlogsslachtoffers, ondertekend op 20 september 1958, te Brussel

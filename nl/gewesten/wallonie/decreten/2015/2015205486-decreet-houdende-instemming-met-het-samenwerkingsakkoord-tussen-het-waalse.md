@@ -13,7 +13,7 @@ entry_into_force: 2015-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/19/2015205486/justel"
 department: "Franse Gemeenschap - Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2015. - Decreet houdende instemming met het samenwerkingsakkoord tussen het Waalse Gewest, de Franse Gemeenschap en de Franse Gemeenschapscommissie inzake kosteloze detacheringen in de ministeriële kabinetten

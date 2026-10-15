@@ -13,7 +13,7 @@ last_amended: 2025-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1977/03/01/1977030101/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-1993 en tekstbijwerking tot 29-07-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 1977. - Wet houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld.

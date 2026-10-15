@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/11/23/2017031630/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 08-12-2017 en tekstbijwerking tot 06-05-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2017. - Ordonnantie houdende wetgevende aanpassingen met het oog op de overname van de dienst onroerende voorheffing door het Brussels Hoofdstedelijk Gewest

@@ -13,7 +13,7 @@ entry_into_force: 2013-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/28/2013206724/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2013. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap naar het Waalse Gewest is overgedragen, met het Facultatief Protocol bij het Internationaal Verdrag inzake economische, sociale en culturele rechten, opgemaakt te New York op 10 december 2008

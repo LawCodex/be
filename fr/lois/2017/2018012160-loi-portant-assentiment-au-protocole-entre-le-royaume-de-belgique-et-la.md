@@ -12,7 +12,7 @@ entry_into_force: 2018-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/01/20/2018012160/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2017. - Loi portant assentiment au Protocole entre le Royaume de Belgique et la République de Pologne, fait à Luxembourg le 14 avril 2014, modifiant la Convention entre le Royaume de Belgique et la République de Pologne tendant à éviter les doubles impositions et à prévenir la fraude et l'évasion en matière d'impôts sur le revenu et sur la fortune, signée à Varsovie le 20 août 2001

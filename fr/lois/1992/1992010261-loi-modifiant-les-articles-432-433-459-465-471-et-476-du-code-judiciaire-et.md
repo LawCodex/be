@@ -12,7 +12,7 @@ entry_into_force: 1992-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1992/11/19/1992010261/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 1992. - Loi modifiant les articles 432, 433, 459, 465, 471 et 476 du Code judiciaire et insérant un article 469bis dans le même Code.

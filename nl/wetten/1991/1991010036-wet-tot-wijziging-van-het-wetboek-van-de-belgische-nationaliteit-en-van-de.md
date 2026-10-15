@@ -11,7 +11,7 @@ entry_into_force: 1992-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/06/13/1991010036/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 1991. - Wet tot wijziging van het Wetboek van de Belgische nationaliteit en van de artikelen 569 en 628 van het Gerechtelijk Wetboek.

@@ -12,7 +12,7 @@ entry_into_force: 2005-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/22/2005003062/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 2004. - Wet betreffende de verhaalmiddelen inzake de wet van 20 juli 2004 betreffende bepaalde vormen van collectief beheer van beleggingsportefeuilles.

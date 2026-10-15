@@ -13,7 +13,7 @@ entry_into_force: 2009-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/12/05/2009200190/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBER 2008. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap is overgedragen, met het samenwerkingsakkoord tot wijziging van het samenwerkingsakkoord tussen het Waals Gewest en de Duitstalige Gemeenschap van 26 november 1998, ondertekend te Namen, op 3 juli 2008.

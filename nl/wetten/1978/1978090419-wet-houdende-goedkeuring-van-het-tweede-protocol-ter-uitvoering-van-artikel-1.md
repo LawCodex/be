@@ -10,7 +10,7 @@ date: 1978-09-04
 entry_into_force: 1978-10-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1978/09/04/1978090419/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBER 1978. - Wet houdende goedkeuring van het Tweede Protocol ter uitvoering van artikel 1, lid 2, van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof, en van de Bijlagen I tot VII, ondertekend te Brussel op 11 mei 1974.

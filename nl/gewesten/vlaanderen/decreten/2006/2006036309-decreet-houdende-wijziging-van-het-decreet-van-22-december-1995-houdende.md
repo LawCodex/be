@@ -12,7 +12,7 @@ published: 2006-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/07/07/2006036309/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2006. - Decreet houdende wijziging van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, van het decreet van 4 februari 1997 houdende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers en van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, wat betreft de versterking van het instrumentarium woonkwaliteitsbewaking.

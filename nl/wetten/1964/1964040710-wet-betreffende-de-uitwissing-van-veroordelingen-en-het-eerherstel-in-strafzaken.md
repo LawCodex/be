@@ -11,7 +11,7 @@ published: 1964-05-01
 entry_into_force: 1964-05-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1964/04/07/1964040710/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 1964. - Wet betreffende de uitwissing van veroordelingen en het eerherstel in strafzaken.

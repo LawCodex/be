@@ -13,7 +13,7 @@ entry_into_force: 2024-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/16/2024005926/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Décret portant assentiment à l'accord de coopération du 21 mars 2024 entre la Communauté française, la Commission communautaire française et la Région de Bruxelles-Capitale relatif aux besoins spécifiques de l'enseignement obligatoire et de l'accueil de la petite enfance à Bruxelles

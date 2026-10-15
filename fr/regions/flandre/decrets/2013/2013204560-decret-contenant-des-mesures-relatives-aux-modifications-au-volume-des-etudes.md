@@ -13,7 +13,7 @@ entry_into_force: 2013-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/19/2013204560/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2013. - Décret contenant des mesures relatives aux modifications au volume des études des formations de l'enseignement supérieur

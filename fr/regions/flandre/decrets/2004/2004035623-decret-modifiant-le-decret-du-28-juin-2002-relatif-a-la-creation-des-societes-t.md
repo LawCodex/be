@@ -13,7 +13,7 @@ entry_into_force: 2006-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/19/2004035623/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2004. - Décret modifiant le décret du 28 juin 2002 relatif à la création des sociétés " T-Groep et Werkholding " (TRADUCTION).

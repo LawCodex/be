@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/12/21/2018015683/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2018 en tekstbijwerking tot 24-12-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2018. - Wet houdende diverse bepalingen betreffende justitie

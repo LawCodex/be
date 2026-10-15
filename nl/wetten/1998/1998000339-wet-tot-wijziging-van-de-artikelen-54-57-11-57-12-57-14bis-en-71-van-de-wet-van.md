@@ -12,7 +12,7 @@ entry_into_force: 1998-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/03/09/1998000339/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 1998. - Wet tot wijziging van de artikelen 54, 57/11, 57/12, 57/14bis en 71 van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen.

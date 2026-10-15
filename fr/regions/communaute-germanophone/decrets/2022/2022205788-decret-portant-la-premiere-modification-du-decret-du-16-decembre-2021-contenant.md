@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/20/2022205788/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 2022. - Décret portant la première modification du décret du 16 décembre 2021 contenant le budget des recettes et le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2022

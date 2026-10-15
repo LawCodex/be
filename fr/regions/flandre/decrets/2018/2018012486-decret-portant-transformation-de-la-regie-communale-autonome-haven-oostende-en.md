@@ -13,7 +13,7 @@ entry_into_force: 2018-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/25/2018012486/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2018. - Décret portant transformation de la Régie communale autonome " Haven Oostende " en une société anonyme de droit public

@@ -13,7 +13,7 @@ entry_into_force: 2021-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/03/18/2021030793/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAART 2021. - Ordonnantie tot wijziging van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren

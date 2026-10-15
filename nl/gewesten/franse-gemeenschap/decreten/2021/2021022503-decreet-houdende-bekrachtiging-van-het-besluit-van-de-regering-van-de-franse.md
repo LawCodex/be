@@ -13,7 +13,7 @@ entry_into_force: 2021-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/18/2021022503/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2021. - Decreet houdende bekrachtiging van het besluit van de Regering van de Franse Gemeenschap van bijzondere machten nr. 42 van 14 januari 2021 tot vaststelling van de voorwaarden en de nadere regels voor de toekenning van een financiële vergoeding om de aankoop of huur van computerapparatuur door ouders of personen die het ouderlijk gezag uitoefenen te vergemakkelijken ten behoeve van hun kind en om de opvolging van leren te vergemakkelijken

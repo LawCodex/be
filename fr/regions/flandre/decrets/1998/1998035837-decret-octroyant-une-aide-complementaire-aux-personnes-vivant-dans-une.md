@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/06/23/1998035837/justel"
 department: "Communauté flamande"
 justel_note: "Par son arrêté n° 110/99 du 14 octobre 1999 (M.B. 09-12-1999, p. 45784) la Cour d'Arbitrage a annulé le présent décret; Abrogé : 01-01-1998"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 1998. - Décret octroyant une aide complémentaire aux personnes vivant dans une situation de précarité par suite de circonstances dues à la guerre, à la répression et à l'épuration (TRADUCTION).

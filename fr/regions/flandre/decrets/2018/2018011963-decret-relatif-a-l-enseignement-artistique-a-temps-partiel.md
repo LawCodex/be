@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/09/2018011963/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 11-05-2018 et mise à jour au 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2018. - Décret relatif à l'enseignement artistique à temps partiel

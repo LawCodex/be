@@ -12,7 +12,7 @@ entry_into_force: 2021-11-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/11/10/2021022416/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2021. - Loi portant confirmation de l'arrêté royal du 28 octobre 2021 portant la déclaration de la situation d'urgence épidémique concernant la pandémie de coronavirus COVID-19

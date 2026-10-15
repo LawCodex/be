@@ -12,7 +12,7 @@ entry_into_force: 2017-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/12/21/2017031762/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2007. - Loi portant des dispositions diverses (I). - Publication conformément à l'article 44 des montants indexés des contributions

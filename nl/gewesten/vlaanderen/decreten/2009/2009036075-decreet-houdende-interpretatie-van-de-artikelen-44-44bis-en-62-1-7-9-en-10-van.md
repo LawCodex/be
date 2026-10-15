@@ -11,7 +11,7 @@ date: 2009-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/10/23/2009036075/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OKTOBER 2009. - Decreet houdende interpretatie van de artikelen 44, 44bis en 62, § 1, 7°, 9° en 10°, van het decreet basisonderwijs van 25 februari 1997

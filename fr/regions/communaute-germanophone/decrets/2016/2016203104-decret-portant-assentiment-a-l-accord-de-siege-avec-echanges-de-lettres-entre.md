@@ -13,7 +13,7 @@ entry_into_force: 2016-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/05/30/2016203104/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2016. - Décret portant assentiment à l'accord de siège, avec échanges de lettres, entre le Royaume de Belgique et l'Organisation internationale de Police criminelle - INTERPOL (O.I.C.P. - INTERPOL), signé à Lyon le 14 octobre 2014 et à Bruxelles le 24 octobre 2014

@@ -13,7 +13,7 @@ entry_into_force: 2006-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/03/17/2006035711/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2006. - Décret modifiant le décret du 23 février 1994 relatif à l'infrastructure affectée aux matières personnalisables (TRADUCTION).

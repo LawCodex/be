@@ -12,7 +12,7 @@ entry_into_force: 2008-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/06/29/2008015109/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2008. - Wet houdende instemming met het Verdrag van Boedapest inzake de overeenkomst voor het vervoer van goederen over de binnenwateren (CMNI), gedaan te Boedapest op 22 juni 2001.

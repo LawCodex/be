@@ -12,7 +12,7 @@ entry_into_force: 1999-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/13/1999000487/justel"
 department: "Binnenlandse Zaken - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 1999. - Wet tot invoering van gemeentelijke administratieve sancties.

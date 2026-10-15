@@ -12,7 +12,7 @@ entry_into_force: 2019-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/02/25/2019011649/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 2017. - Wet houdende instemming met het Protocol, gedaan te Luxemburg op 14 april 2014, tot wijziging van de Overeenkomst tussen België en Ierland tot het vermijden van dubbele belasting en van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Brussel op 24 juni 1970

@@ -12,7 +12,7 @@ entry_into_force: 2006-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/01/25/2010000008/justel"
 department: "Justice - Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2010. - Loi modifiant l'arrêté royal du 30 mars 2001 portant la position juridique du personnel des services de police (PJPol) en ce qui concerne la nomination dans le grade de commissionnement de certains membres du personnel de la direction générale de la police judiciaire

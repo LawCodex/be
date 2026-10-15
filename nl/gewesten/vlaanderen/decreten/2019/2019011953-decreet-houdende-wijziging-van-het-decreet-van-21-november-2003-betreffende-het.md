@@ -13,7 +13,7 @@ entry_into_force: 2019-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/05/2019011953/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 2019. - Decreet houdende wijziging van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid, wat betreft de sensibiliseringsplicht en het preventieve beleid met betrekking tot de blootstelling aan chemische stoffen die de normale hormonale werking van het menselijk organisme ontregelen of kunnen ontregelen

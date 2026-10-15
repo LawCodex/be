@@ -12,7 +12,7 @@ entry_into_force: 2000-10-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/03/07/2002003137/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAART 2002. - Wet tot wijziging, wat de leden van de provincieraden betreft, van artikel 27, tweede lid, van het Wetboek van de inkomstenbelastingen 1992 en, wat de leden van de bestendige deputaties betreft, van artikel 53, 17°, van hetzelfde Wetboek.

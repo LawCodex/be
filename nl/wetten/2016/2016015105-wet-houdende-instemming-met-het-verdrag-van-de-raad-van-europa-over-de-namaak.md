@@ -11,7 +11,7 @@ entry_into_force: 2016-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/07/06/2016015105/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2016. - Wet houdende instemming met het Verdrag van de Raad van Europa over de namaak van medische producten en soortgelijke misdrijven die een bedreiging vormen voor de volksgezondheid, gedaan te Moskou op 28 oktober 2011

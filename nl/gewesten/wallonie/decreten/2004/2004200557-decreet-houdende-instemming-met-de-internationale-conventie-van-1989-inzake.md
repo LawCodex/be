@@ -13,7 +13,7 @@ entry_into_force: 2004-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/01/29/2004200557/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2004. - Decreet houdende instemming met de Internationale Conventie van 1989 inzake bijstand, gesloten te Londen op 28 april 1989 (VERTALING).HI:??2,Zitting 2003-2004. Stukken van de Raad 605 (2003-2004) Nrs. 1 en 2. Volledig verslag, openbare vergadering van 27 januari 2004. Bespreking - Stemming.

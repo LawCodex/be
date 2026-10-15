@@ -12,7 +12,7 @@ entry_into_force: 1999-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/11/1999021272/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 1999. - Wet houdende goedkeuring van het samenwerkingsakkoord tussen de Staat en de Vlaamse Gemeenschap inzake slachtofferzorg.

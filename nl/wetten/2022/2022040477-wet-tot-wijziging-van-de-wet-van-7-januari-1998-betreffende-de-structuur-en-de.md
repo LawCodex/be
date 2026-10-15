@@ -12,7 +12,7 @@ entry_into_force: 2022-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/03/05/2022040477/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2022. - Wet tot wijziging van de wet van 7 januari 1998 betreffende de structuur en de accijnstarieven op alcohol en alcoholhoudende dranken

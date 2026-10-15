@@ -13,7 +13,7 @@ entry_into_force: 2014-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/05/16/2014031477/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2014. - Ordonnance portant assentiment à : l'Accord-cadre de Partenariat et de Coopération entre l'Union européenne et ses Etats membres, d'une part, et la Mongolie, d'autre part, fait à Oulan-Bator, le 30 avril 2013

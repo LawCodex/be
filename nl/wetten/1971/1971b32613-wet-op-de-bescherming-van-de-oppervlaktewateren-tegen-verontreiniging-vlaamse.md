@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1971/03/26/1971B32613/justel"
 justel_notes:
   - "voor de versies voorafgaand aan de bijwerking van 31-12-2003, zie de federale vorm 1971-03-26/02 , gearchiveerde versies 032 en 033 en vorige."
   - "Raadpleging van vroegere versies vanaf 20-02-2004 en tekstbijwerking tot 18-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 1971. - Wet op de bescherming van de oppervlaktewateren tegen verontreiniging - VLAAMSE GEWEST.

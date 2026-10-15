@@ -13,7 +13,7 @@ entry_into_force: 2023-10-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/07/20/2023044130/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2023. - Gezamenlijke ordonnantie van het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschapscommissie tot wijziging van de gezamenlijke ordonnantie van het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschaps-commissie van 14 december 2017 houdende de oprichting van een Brusselse Deontologische Commissie

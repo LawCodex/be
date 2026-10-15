@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/16/2022043151/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2022 et mise à jour au 24-07-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2022. - Décret-Programme accompagnant le budget 2023

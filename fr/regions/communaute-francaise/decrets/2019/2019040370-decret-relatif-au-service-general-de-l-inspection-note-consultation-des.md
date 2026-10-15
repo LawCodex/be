@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/01/10/2019040370/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 26-02-2019 et mise à jour au 22-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2019. - Décret relatif au [Service général de l'Inspection] NOTE : Consultation des versions antérieures à partir du 26-02-2019 et mise à jour au 10-01-2024)

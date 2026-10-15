@@ -13,7 +13,7 @@ entry_into_force: 2023-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/12/02/2022042986/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBRE 2022. - Décret relatif à la reprise des membres du personnel de l'Agence de l'Intégration et de l'Insertion civique par l'Agence de Gestion des Infrastructures

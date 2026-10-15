@@ -12,7 +12,7 @@ entry_into_force: 2002-08-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/07/12/2002003339/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2002. - Loi contenant le premier ajustement du budget général des dépenses pour l'année budgétaire 2002.

@@ -13,7 +13,7 @@ entry_into_force: 2001-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/12/18/2001033001/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2000. - Décret portant assentiment à l'Accord entre la Communauté européenne et ses Etats-membres, d'une part, et de la Confédération suisse, d'autre part, sur la libre circulation des personnes, ses annexes I, II et III, ainsi que l'Acte final, fait à Luxembourg le 21 juin 1999 (TRADUCTION).

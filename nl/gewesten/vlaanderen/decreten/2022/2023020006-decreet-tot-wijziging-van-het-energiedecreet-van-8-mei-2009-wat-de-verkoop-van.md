@@ -13,7 +13,7 @@ entry_into_force: 2023-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/12/23/2023020006/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2022. - Decreet tot wijziging van het Energiedecreet van 8 mei 2009, wat de verkoop van in of op appartementsgebouwen of multifunctionele gebouwen opgewekte groene stroom betreft

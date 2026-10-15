@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/21/2006014293/justel"
 department: "Economie, KMO, Middenstand en Energie - Mobiliteit en Vervoer"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-2006 en tekstbijwerking tot 05-09-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2006. - Wet houdende omzetting van richtlijn 2004/52/EG van het Europees Parlement en de Raad van 29 april 2004 betreffende de interoperabiliteit van elektronische tolheffingssystemen voor het wegverkeer in de Gemeenschap

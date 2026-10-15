@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/08/28/2011011331/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 16-09-2011 et mise à jour au 11-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AOUT 2011. - Loi relative à la protection des consommateurs en matière de contrats d'utilisation de biens à temps partagé, de produits de vacances à long terme, de revente et d'échange

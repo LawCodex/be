@@ -13,7 +13,7 @@ entry_into_force: 2003-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/20/2003035503/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2002. - Décret portant troisième ajustement du budget général des dépenses de la Communauté flamande pour l'année budgétaire 2002 (TRADUCTION).

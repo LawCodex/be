@@ -13,7 +13,7 @@ entry_into_force: 2022-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/01/27/2022030535/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JANVIER 2022. - Ordonnance modifiant l'ordonnance du 4 septembre 2008 relative à la lutte contre la discrimination et à l'égalité de traitement en matière d'emploi

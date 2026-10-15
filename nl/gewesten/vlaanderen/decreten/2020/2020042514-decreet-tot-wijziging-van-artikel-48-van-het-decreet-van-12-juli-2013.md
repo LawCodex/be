@@ -13,7 +13,7 @@ entry_into_force: 2020-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/17/2020042514/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2020. - Decreet tot wijziging van artikel 48 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, wat de leeftijd voor plaatsing in een pleeggezin betreft

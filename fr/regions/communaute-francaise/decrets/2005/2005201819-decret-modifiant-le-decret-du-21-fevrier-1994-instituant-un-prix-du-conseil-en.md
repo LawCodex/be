@@ -13,7 +13,7 @@ entry_into_force: 2005-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/05/04/2005201819/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2005. - Décret modifiant le décret du 21 février 1994 instituant un prix du Conseil en vue de récompenser une oeuvre originale d'un(e) jeune artiste de la Communauté française dans le domaine des arts plastiques.

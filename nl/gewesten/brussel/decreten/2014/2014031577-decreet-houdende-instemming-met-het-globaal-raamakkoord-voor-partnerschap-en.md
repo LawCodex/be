@@ -13,7 +13,7 @@ entry_into_force: 2015-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/05/08/2014031577/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2014. - Decreet houdende instemming met het globaal raamakkoord voor partnerschap en samenwerking tussen de Europese Unie en haar Lidstaten enerzijds en de Socialistische Republiek Vietnam anderzijds, opgemaakt te Brussel op 27 juni 2012

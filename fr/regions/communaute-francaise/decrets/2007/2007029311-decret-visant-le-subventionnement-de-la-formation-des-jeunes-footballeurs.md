@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/02/2007029311/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 18-10-2007 et mise à jour au 21-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2007. - Décret visant le subventionnement de la formation des jeunes footballeurs. )

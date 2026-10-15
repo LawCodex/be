@@ -12,7 +12,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/06/30/2008009659/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2008. - Wet tot bekrachtiging van het koninklijk besluit van 20 december 2007 betreffende de bijdrage in de werkings-, personeels- en oprichtingskosten van de Kansspelcommissie verschuldigd door de houders van de vergunningen klasse A, B, C en E voor het kalenderjaar 2008.

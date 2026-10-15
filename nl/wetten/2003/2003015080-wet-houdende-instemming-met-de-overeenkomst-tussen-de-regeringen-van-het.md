@@ -10,7 +10,7 @@ date: 2003-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/04/11/2003015080/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2003. - Wet houdende instemming met de Overeenkomst tussen de Regeringen van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, enerzijds, en de Regering van Roemenië, anderzijds, betreffende de Overname van onregelmatig binnengekomen of verblijvende personen, en met de Aanhangsels I en II, ondertekend te Boekarest op 6 juni 1995.

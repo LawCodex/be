@@ -13,7 +13,7 @@ entry_into_force: 2016-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/07/01/2016036164/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2016. - Decreet houdende instemming met de overeenkomst tussen het Koninkrijk België en de Republiek Zuid-Afrika inzake het verrichten van betaalde werkzaamheden door partners van het diplomatiek en consulair personeel, ondertekend te Pretoria op 14 januari 2016

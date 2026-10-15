@@ -13,7 +13,7 @@ entry_into_force: 2011-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/20/2011203999/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2011. - Decreet houdende instemming met het IAO-verdrag nr. 159 inzake de beroepsrevalidatie en de werkgelegenheid van gehandicapten, aangenomen door de Conferentie tijdens haar zevenenzestigste zitting in Genève op 20 juni 1983

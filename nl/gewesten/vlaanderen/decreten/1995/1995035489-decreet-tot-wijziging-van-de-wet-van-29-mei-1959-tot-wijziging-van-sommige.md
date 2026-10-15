@@ -12,7 +12,7 @@ published: 1995-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/02/22/1995035489/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 1995. - Decreet tot wijziging van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving en tot wijziging van het decreet van 17 juli 1991 betreffende inspectie en pedagogische begeleidingsdiensten.

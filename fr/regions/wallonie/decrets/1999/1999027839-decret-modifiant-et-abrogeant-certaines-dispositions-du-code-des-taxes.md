@@ -13,7 +13,7 @@ entry_into_force: 2000-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/12/16/1999027839/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 1999. - Décret modifiant et abrogeant certaines dispositions du Code des taxes assimilées aux impôts sur les revenus.

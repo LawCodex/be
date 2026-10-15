@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/03/05/2002012456/justel"
 department: "Tewerkstelling en Arbeid"
 justel_note: "Raadpleging van vroegere versies vanaf 13-03-2002 en tekstbijwerking tot 30-05-2007"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2002. - Wet betreffende het beginsel van non-discriminatie ten gunste van [deeltijdwerkers]. &lt;Erratum, B.S. 03-04-2002, p. 13719&gt;

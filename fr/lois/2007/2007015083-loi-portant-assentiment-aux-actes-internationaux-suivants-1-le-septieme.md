@@ -12,7 +12,7 @@ entry_into_force: 2007-09-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/08/2007015083/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2007. - Loi portant assentiment aux Actes internationaux suivants : 1° le Septième Protocole additionnel à la Constitution de l'Union postale universelle; 2° le Règlement général de l'Union postale universelle; 3° la Convention postale universelle et le Protocole final, et 4° l'Arrangement concernant les services de paiement de La Poste, faits à Bucarest le 5 octobre 2004.

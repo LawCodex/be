@@ -13,7 +13,7 @@ entry_into_force: 2022-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/10/2022042192/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2022. - Decreet tot wijziging van het decreet van 18 juli 2013 betreffende het onthaaltraject voor nieuwkomers in het Brussels Hoofdstedelijk Gewest

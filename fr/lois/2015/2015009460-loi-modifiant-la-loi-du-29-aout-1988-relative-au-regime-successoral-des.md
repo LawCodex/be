@@ -12,7 +12,7 @@ entry_into_force: 2015-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/08/23/2015009460/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AOUT 2015. - Loi modifiant la loi du 29 août 1988 relative au régime successoral des exploitations agricoles en vue d'en promouvoir la continuité

@@ -13,7 +13,7 @@ entry_into_force: 1996-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/12/22/1996035041/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1995. - Decreet houdende goedkeuring van het Protocol betreffende milieubescherming bij het Verdrag inzake Antarctica, en van het aanhangsel en de bijlagen I, II, III, IV en V, ondertekend te Madrid op 4 oktober 1991.

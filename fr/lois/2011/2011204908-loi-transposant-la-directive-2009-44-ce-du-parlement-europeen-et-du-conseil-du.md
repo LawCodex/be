@@ -12,7 +12,7 @@ entry_into_force: 2011-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/09/26/2011204908/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 SEPTEMBRE 2011. - Loi transposant la Directive 2009/44/CE du Parlement européen et du Conseil du 6 mai 2009 modifiant la Directive 98/26/CE concernant le caractère définitif du règlement dans les systèmes de paiement et de règlement des opérations sur titres et la Directive 2002/47/CE concernant les contrats de garantie financière, en ce qui concerne les systèmes liés et les créances privées

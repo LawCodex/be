@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/12/02/2011014306/justel"
 department: "Mobiliteit en Vervoer"
 justel_note: "Raadpleging van vroegere versies vanaf 23-12-2011 en tekstbijwerking tot 29-12-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 DECEMBER 2011. - Wet houdende diverse bepalingen betreffende de mobiliteit

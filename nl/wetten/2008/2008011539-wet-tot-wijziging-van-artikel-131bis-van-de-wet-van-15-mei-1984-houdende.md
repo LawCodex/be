@@ -12,7 +12,7 @@ entry_into_force: 2008-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/11/28/2008011539/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2008. - Wet tot wijziging van artikel 131bis van de wet van 15 mei 1984 houdende maatregelen tot harmonisering in de pensioenregelingen.

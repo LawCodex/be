@@ -13,7 +13,7 @@ entry_into_force: 2022-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/04/28/2022041047/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2022. - Decreet tot omzetting van Richtlijn (EU) 2018/958 van het Europees Parlement en de Raad van 28 juni 2018 betreffende een evenredigheidsbeoordeling voorafgaand aan een nieuwe reglementering van beroepen

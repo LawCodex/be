@@ -12,7 +12,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/19/2015205483/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2015. - Decreet tot opheffing van de gelijkstelling van bpost met de Staat inzake de Waalse gewestelijke fiscaliteit, bedoeld bij de wet van 6 juli 1971 betreffende de oprichting van bpost en betreffende sommige postdiensten

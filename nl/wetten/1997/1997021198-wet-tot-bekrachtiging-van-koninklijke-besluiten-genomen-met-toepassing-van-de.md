@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/06/26/1997021198/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 28-06-1997 en tekstbijwerking tot 20-10-2004"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 1997. - Wet tot bekrachtiging van koninklijke besluiten genomen met toepassing van de wet van 26 juli 1996 strekkende tot realisatie van de budgettaire voorwaarden tot deelname van België aan de Europese Economische en Monetaire Unie, van de wet van 26 juli 1996 tot modernisering van de sociale zekerheid en tot vrijwaring van de leefbaarheid van de wettelijke pensioenstelsels, en van de wet van 26 juli 1996 tot bevordering van de werkgelegenheid en tot preventieve vrijwaring van het concurrentievermogen. (NOTA 1 : De woorden " Kas der geneeskundige verzorging van de Nationale Maatschappij der Belgische Spoorwegen " worden vervangen door de woorden " Kas der geneeskundige verzorging van N.M.B.S. Holding " ; zie KB 2004-10-18/32, art. 38 ; Inwerkingtreding : 01-01-2005)

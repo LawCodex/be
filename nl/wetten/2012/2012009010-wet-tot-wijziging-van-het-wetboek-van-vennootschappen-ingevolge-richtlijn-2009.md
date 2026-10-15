@@ -12,7 +12,7 @@ entry_into_force: 2012-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/01/08/2012009010/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JANUARI 2012. - Wet tot wijziging van het Wetboek van vennootschappen ingevolge Richtlijn 2009/109/EG wat verslaggevings- en documentatieverplichtingen in geval van fusies en splitsingen betreft

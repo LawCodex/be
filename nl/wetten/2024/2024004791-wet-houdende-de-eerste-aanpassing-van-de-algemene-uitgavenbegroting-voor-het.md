@@ -12,7 +12,7 @@ entry_into_force: 2024-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/05/16/2024004791/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Wet houdende de eerste aanpassing van de Algemene uitgavenbegroting voor het begrotingsjaar 2024

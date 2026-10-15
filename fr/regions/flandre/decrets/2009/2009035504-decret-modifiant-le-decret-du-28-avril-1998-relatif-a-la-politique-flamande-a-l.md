@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009035504/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 02-07-2009 et mise à jour au 30-07-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - Décret modifiant le décret du 28 avril 1998 relatif à la politique flamande à l'encontre des minorités ethnoculturelles

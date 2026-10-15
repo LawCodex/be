@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/12/11/1999007003/justel"
 department: "Landsverdediging"
 justel_note: "Raadpleging van vroegere versies vanaf 07-05-1999 en tekstbijwerking tot 16-07-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 1998. - [wet van 11 december 1998 tot oprichting van een beroepsorgaan inzake veiligheidsmachtigingen en veiligheidsadviezen] &lt;Opschrift vervangen door W 2024-06-16/13 , art. 2, 006; Inwerkingtreding : 01-02-2025&gt;

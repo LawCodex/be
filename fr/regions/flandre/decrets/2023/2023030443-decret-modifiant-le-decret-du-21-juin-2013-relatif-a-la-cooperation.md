@@ -13,7 +13,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/02/10/2023030443/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2023. - Décret modifiant le décret du 21 juin 2013 relatif à la coopération administrative dans le domaine fiscal, en ce qui concerne la transposition de la directive (UE) 2021/514 du Conseil du 22 mars 2021 modifiant la directive 2011/16/UE relative à la coopération administrative dans le domaine fiscal

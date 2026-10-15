@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/04/13/2011202019/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
 justel_note: "Raadpleging van vroegere versies vanaf 10-05-2011 en tekstbijwerking tot 21-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 2011. - Wet tot afschaffing van de beperkingen op de leeftijd van het gehandicapte kind inzake ouderschapsverlof

@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/13/2014201938/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2014. - Décret modifiant le décret du 3 juillet 2008 relatif au soutien de la recherche, du développement et de l'innovation en Wallonie

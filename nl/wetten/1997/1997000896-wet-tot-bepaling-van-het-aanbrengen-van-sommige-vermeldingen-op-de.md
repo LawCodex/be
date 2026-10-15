@@ -12,7 +12,7 @@ entry_into_force: 1997-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/12/12/1997000896/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBER 1997. - Wet tot bepaling van het aanbrengen van sommige vermeldingen op de identiteitskaart bedoeld in artikel 6, § 1, van de wet van 19 juli 1991 betreffende de bevolkingsregisters en de identiteitskaarten en tot wijziging van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen, en tot regeling van het taalgebruik voor deze vermeldingen.

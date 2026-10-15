@@ -12,7 +12,7 @@ entry_into_force: 2007-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/06/2007011117/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2007. - Wet tot wijziging van de regeling betreffende de aflevering van het uitvindingsoctrooi en het takssysteem inzake uitvindingsoctrooien en inzake aanvullende beschermingscertificaten.

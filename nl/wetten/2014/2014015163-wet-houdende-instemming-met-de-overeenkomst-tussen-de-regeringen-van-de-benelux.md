@@ -12,7 +12,7 @@ entry_into_force: 2014-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/27/2014015163/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2014. - Wet houdende instemming met de Overeenkomst tussen de regeringen van de Benelux-Staten en de regering van de Republiek Zuid-Afrika inzake de afschaffing van de visumplicht voor houders van diplomatieke, officiële en/of dienstpaspoorten, gedaan te Pretoria op 22 februari 2013

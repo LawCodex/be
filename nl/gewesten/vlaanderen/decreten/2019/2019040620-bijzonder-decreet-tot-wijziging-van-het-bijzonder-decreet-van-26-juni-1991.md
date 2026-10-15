@@ -12,7 +12,7 @@ published: 2019-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/01/2019040620/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2019. - Bijzonder decreet tot wijziging van het bijzonder decreet van 26 juni 1991 betreffende de Universiteit Gent en het Universitair Centrum Antwerpen, wat betreft het toezicht

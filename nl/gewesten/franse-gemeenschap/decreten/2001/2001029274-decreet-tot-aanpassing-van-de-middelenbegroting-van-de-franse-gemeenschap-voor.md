@@ -13,7 +13,7 @@ entry_into_force: 2001-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/12/2001029274/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2001. - Decreet tot aanpassing van de Middelenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2001 (VERTALING).

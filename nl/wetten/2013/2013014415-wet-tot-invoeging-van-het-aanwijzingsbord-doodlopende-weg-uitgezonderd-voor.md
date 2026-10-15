@@ -12,7 +12,7 @@ entry_into_force: 2013-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/10/2013014415/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2013. - Wet tot invoeging van het aanwijzingsbord " [doodlopende] weg, uitgezonderd voor voetgangers en fietsers "

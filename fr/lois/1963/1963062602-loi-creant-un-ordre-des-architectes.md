@@ -13,7 +13,7 @@ last_amended: 2026-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1963/06/26/1963062602/justel"
 justel_note: "Consultation des versions antérieures à partir du 20-05-1989 et mise à jour au 31-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 1963. - Loi créant un Ordre des architectes.

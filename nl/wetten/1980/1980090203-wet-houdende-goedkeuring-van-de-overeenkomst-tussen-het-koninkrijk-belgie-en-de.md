@@ -10,7 +10,7 @@ date: 1980-09-02
 published: 1980-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1980/09/02/1980090203/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 SEPTEMBER 1980. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België en de Zwitserse Bondsstaat tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Bern op 28 augustus 1978.

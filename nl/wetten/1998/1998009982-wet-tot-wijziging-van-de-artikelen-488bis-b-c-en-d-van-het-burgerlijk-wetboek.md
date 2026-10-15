@@ -12,7 +12,7 @@ entry_into_force: 1998-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/11/08/1998009982/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 1998. - Wet tot wijziging van de artikelen 488bis, b), c), en d), van het Burgerlijk Wetboek en van artikel 623 van het Gerechtelijk Wetboek.

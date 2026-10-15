@@ -12,7 +12,7 @@ published: 2017-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/19/2017040595/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2017. - Decreet tot wijziging van de machtigingen bedoeld in het decreet van 7 november 2013 tot bepaling van het hogeronderwijslandschap en de academische organisatie van de studies en tot wijziging van het decreet van 12 december 2000 tot vastlegging van de initiële opleiding van onderwijzers en regenten

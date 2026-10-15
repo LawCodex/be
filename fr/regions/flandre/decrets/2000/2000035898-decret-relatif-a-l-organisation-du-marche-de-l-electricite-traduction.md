@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "également désigné comme Décret sur l'électricité; voir art. 57"
   - "Consultation des versions antérieures à partir du 30-12-2000 et mise à jour au 28-07-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2000. - Décret relatif à l'organisation du marché de l'électricité (TRADUCTION).

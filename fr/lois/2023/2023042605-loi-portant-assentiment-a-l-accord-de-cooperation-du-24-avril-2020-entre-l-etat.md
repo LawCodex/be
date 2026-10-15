@@ -12,7 +12,7 @@ entry_into_force: 2023-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/04/26/2023042605/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2023. - Loi portant assentiment à l'Accord de coopération du 24 avril 2020 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'exécution de plusieurs dispositions de la directive 2016/2284 du Parlement européen et du Conseil du 14 décembre 2016 concernant la réduction des émissions nationales de certains polluants atmosphériques, modifiant la directive 2003/35/CE et abrogeant la directive 2001/81/CE

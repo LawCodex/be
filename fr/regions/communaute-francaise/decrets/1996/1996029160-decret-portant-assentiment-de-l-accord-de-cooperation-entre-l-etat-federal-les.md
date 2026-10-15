@@ -13,7 +13,7 @@ entry_into_force: 1994-03-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/03/18/1996029160/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MARS 1996. - Décret portant assentiment de l'Accord de coopération entre l'Etat fédéral, les Communautés et les Régions, relatif aux modalités de conclusion des traités mixtes.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/03/04/2012011110/justel"
 department: "Financiën - Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 18-04-2012 en tekstbijwerking tot 07-12-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 2012. - Wet betreffende de Centrale voor Kredieten aan Ondernemingen

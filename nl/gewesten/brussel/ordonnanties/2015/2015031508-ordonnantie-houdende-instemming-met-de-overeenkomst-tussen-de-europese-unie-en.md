@@ -13,7 +13,7 @@ entry_into_force: 2015-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/07/29/2015031508/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JULI 2015. - Ordonnantie houdende instemming met de overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en IJsland, anderzijds, betreffende de deelname van IJsland aan de gezamenlijke nakoming van de verbintenissen van de Unie, haar lidstaten, en IJsland voor de tweede verbintenisperiode van het Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering

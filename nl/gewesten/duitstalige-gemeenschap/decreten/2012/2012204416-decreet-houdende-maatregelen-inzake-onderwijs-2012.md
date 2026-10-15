@@ -12,7 +12,7 @@ published: 2012-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/16/2012204416/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2012. - Decreet houdende maatregelen inzake onderwijs - 2012

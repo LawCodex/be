@@ -12,7 +12,7 @@ entry_into_force: 2024-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/03/2024005018/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2024. - Loi modifiant les articles 8:4 et 8:5 du Code des sociétés et des associations et modifiant la loi du 20 juillet 1955 portant institution d'un Conseil national de la Coopération, de l'Entrepreunariat social et de l'entreprise Agricole

@@ -12,7 +12,7 @@ entry_into_force: 2007-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/02/15/2007015029/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2007. - Wet houdende instemming met het Burgerlijk Verdrag inzake corruptie, gedaan te Straatsburg op 4 november 1999.

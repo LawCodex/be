@@ -11,7 +11,7 @@ published: 1911-08-19
 entry_into_force: 1911-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1911/08/12/1911081250/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 AOUT 1911. - Loi pour la conservation de la beauté des paysages.

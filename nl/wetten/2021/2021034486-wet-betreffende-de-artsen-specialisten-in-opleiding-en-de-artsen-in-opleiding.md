@@ -12,7 +12,7 @@ entry_into_force: 2022-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/12/19/2021034486/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2021. - Wet betreffende de artsen-specialisten in opleiding en de artsen in opleiding

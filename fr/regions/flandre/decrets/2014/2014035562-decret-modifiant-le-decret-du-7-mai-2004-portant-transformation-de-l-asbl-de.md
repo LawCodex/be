@@ -13,7 +13,7 @@ entry_into_force: 2014-09-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014035562/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret modifiant le décret du 7 mai 2004 portant transformation de l'asbl de Rand en une agence autonomisée externe de droit privé et portant fixation des compétences de la province du Brabant flamand relatives à l'appui du Vlaamse Rand

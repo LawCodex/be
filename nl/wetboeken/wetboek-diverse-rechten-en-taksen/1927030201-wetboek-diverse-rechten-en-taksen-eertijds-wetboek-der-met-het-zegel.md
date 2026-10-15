@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/wet/1927/03/02/1927030201/justel"
 justel_notes:
   - "artikelen 25; 136; 166; 166/2; 179.1; 180; 181; 183; 183octies; 183nonies; 183decies; 187.3; 187.4;187.5; 197; 199; 201/9/2; 201.2; 201.14; 201.17; 201.25; 201.27; 201.34; 201.36; 201.37/2 gewijzigd in de toekomst door W 2024-05-12/11 , art. 83-107, 060; Inwerkingtreding : 01-01-2028"
   - "Raadpleging van vroegere versies vanaf 30-12-2011 en tekstbijwerking tot 01-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 1927. - Wetboek diverse rechten en taksen - Eertijds : Wetboek der met het zegel gelijkgestelde taksen &lt;Opschrift Vervangen bij W 2006-12-19/33 , art. 2)

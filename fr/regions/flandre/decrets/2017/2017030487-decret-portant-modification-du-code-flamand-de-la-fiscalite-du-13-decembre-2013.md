@@ -13,7 +13,7 @@ entry_into_force: 2017-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/30/2017030487/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2017. - Décret portant modification du Code flamand de la Fiscalité du 13 décembre 2013 en ce qui concerne les centimes additionnels sur le précompte immobilier

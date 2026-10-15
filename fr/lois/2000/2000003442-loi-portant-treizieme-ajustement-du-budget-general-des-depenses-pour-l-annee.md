@@ -12,7 +12,7 @@ entry_into_force: 2000-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/07/09/2000003442/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2000. - Loi portant treizième ajustement du Budget général des dépenses pour l'année budgétaire 1999, section 31, " Ministère de l'Agriculture et des Classes moyennes ".

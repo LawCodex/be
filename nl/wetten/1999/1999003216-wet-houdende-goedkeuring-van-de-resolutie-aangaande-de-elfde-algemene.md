@@ -12,7 +12,7 @@ entry_into_force: 1999-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/17/1999003216/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 1999. - Wet houdende goedkeuring van de resolutie aangaande de elfde algemene herziening van de quota van de leden van het Internationaal Monetair Fonds.

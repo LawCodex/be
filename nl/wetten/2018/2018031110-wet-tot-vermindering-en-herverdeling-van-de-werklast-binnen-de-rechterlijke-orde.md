@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/05/25/2018031110/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 30-05-2018 en tekstbijwerking tot 24-02-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2018. - Wet tot vermindering en herverdeling van de werklast binnen de rechterlijke orde

@@ -13,7 +13,7 @@ last_amended: 2018-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/04/01/1971040101/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 29-08-2002 en tekstbijwerking tot 31-05-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 1971. - Wet houdende oprichting van een regie der gebouwen.

@@ -13,7 +13,7 @@ entry_into_force: 2003-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/20/2003031088/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2002. - Décret portant assentiment à l'Accord interne entre les représentants des Gouvernements des Etats membres réunis au sein du Conseil, relatif aux mesures à prendre et aux procédures à suivre pour la mise en oeuvre de l'Accord de partenariat ACP-UE.

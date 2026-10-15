@@ -13,7 +13,7 @@ entry_into_force: 1999-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/18/1999035740/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1999. - Décret modifiant le décret du 22 décembre 1995 contenant diverses mesures d'accompagnement du budget 1996 (TRADUCTION).

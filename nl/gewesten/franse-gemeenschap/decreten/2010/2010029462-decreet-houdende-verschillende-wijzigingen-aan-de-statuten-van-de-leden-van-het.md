@@ -11,7 +11,7 @@ date: 2010-07-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/07/08/2010029462/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2010. - Decreet houdende verschillende wijzigingen aan de statuten van de leden van het technisch personeel van de door de Franse Gemeenschap georganiseerde of gesubsidieerde psycho-medisch-sociale centra

@@ -11,7 +11,7 @@ published: 1960-06-25
 entry_into_force: 1960-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1960/06/23/1960062301/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 1960. - Wet waarbij de SABENA de machtiging verleend wordt haar statuten te wijzigen.

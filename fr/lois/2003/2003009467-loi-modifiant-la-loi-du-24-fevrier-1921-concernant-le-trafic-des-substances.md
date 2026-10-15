@@ -12,7 +12,7 @@ entry_into_force: 2003-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/04/2003009467/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2003. - Loi modifiant la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, désinfectantes et antiseptiques, et l'article 137 du Code d'instruction criminelle.

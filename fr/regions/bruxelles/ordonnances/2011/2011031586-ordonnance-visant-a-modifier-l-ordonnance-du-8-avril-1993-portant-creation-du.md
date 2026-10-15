@@ -13,7 +13,7 @@ entry_into_force: 2011-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/11/24/2011031586/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 2011. - Ordonnance visant à modifier l'ordonnance du 8 avril 1993 portant création du Fonds régional bruxellois de Refinancement des Trésoreries communales

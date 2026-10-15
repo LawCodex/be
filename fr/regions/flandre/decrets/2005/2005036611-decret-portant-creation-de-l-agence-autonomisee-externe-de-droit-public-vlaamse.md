@@ -13,7 +13,7 @@ entry_into_force: 2006-02-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/12/16/2005036611/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2005. - Décret portant création de l'agence autonomisée externe de droit public "Vlaamse Regulator voor de Media" (Régulateur flamand des Médias) et modifiant certaines dispositions des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 4 mars 2005 (TRADUCTION).

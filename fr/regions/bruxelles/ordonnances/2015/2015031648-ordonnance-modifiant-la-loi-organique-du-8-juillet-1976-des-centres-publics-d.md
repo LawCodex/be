@@ -13,7 +13,7 @@ entry_into_force: 2015-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/10/08/2015031648/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 OCTOBRE 2015. - Ordonnance modifiant la loi organique du 8 juillet 1976 des centres publics d'action sociale

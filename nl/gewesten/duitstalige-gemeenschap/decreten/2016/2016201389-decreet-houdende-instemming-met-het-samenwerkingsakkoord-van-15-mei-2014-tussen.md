@@ -13,7 +13,7 @@ entry_into_force: 2016-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/01/25/2016201389/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 2016. - Decreet houdende instemming met het samenwerkingsakkoord van 15 mei 2014 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap over de toetreding tot het Uitgebreid gedeeltelijk akkoord over sport (EPAS) ingevoerd door de resolutie CM/RES (2007)8 van de Raad van Europa van 11 mei 2007, zoals gewijzigd op 13 oktober 2010

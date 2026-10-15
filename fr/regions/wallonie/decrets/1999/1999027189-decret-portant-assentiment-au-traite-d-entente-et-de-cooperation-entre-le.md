@@ -13,7 +13,7 @@ entry_into_force: 1999-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/25/1999027189/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 1999. - Décret portant assentiment au Traité d'entente et de coopération entre le Royaume de Belgique, la Communauté francaise de Belgique, la Communauté flamande de Belgique, la Communauté germanophone de Belgique, la Région wallonne de Belgique, la Région flamande de Belgique, la Région de Bruxelles-Capitale de Belgique et l'Ukraine, fait à Bruxelles le 23 avril 1997.HI:??2,Session 1998-1999 : Documents du Conseil. - 472 (1998-1999), n° 1 et 2. Compte rendu intégral. - Séance publique du 10 février 1999. Discussion. Vote.

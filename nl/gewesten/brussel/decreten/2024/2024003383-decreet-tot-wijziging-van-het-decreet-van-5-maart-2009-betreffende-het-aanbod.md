@@ -13,7 +13,7 @@ entry_into_force: 2024-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/02/01/2024003383/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEBRUARI 2024. - Decreet tot wijziging van het decreet van 5 maart 2009 betreffende het aanbod van ambulante diensten in de domeinen van de sociale actie, het gezin en de gezondheid

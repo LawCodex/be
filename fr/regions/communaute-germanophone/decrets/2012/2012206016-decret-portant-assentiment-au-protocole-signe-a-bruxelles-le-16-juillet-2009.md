@@ -13,7 +13,7 @@ entry_into_force: 2012-11-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/09/24/2012206016/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 SEPTEMBRE 2012. - Décret portant assentiment au Protocole signé à Bruxelles le 16 juillet 2009 modifiant la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Singapour tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Singapour le 6 novembre 2006

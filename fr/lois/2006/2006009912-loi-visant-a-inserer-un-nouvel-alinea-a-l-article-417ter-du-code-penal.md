@@ -12,7 +12,7 @@ entry_into_force: 2006-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/18/2006009912/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2006. - Loi visant à insérer un nouvel alinéa à l'article 417ter du Code pénal.

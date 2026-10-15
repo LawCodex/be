@@ -13,7 +13,7 @@ entry_into_force: 2012-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/10/26/2012206611/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 OCTOBRE 2012. - DECRET portant assentiment : 1° à la Convention concernant l'assistance administrative mutuelle en matière fiscale, et aux annexes A, B et C, faites à Strasbourg le 25 janvier 1988 et signées le 7 février 1992, et 2° au Protocole modifiant la Convention concernant l'assistance administrative mutuelle en matière fiscale, fait à Paris le 27 mai 2010 et signé le 4 avril 2011

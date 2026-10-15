@@ -12,7 +12,7 @@ entry_into_force: 2026-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/02/22/2026001717/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2026. - Wet houdende diverse bepalingen inzake sociale zaken 2026

@@ -13,7 +13,7 @@ entry_into_force: 2020-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/07/16/2020203299/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2020. - Decreet houdende instemming met de wijzigingen van het protocol van 1998 bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, inzake zware metalen, ondertekend te Genève, op 13 december 2012

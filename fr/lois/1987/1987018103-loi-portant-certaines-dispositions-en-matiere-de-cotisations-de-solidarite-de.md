@@ -12,7 +12,7 @@ entry_into_force: 1987-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1987/11/12/1987018103/justel"
 department: "Classes Moyennes"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBRE 1987. - Loi portant certaines dispositions en matière de cotisations de solidarité, de cotisations de modération et de cotisations spéciales à charge des travailleurs indépendants.

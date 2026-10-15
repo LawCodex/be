@@ -12,7 +12,7 @@ entry_into_force: 2004-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/08/2004015121/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2004. - Wet houdende instemming met de Overeenkomst ter regeling van de activiteiten van Staten op de maan en andere hemellichamen, gedaan te New York op 18 december 1979.

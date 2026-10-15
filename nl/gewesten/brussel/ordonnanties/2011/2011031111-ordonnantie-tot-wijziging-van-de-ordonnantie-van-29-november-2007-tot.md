@@ -13,7 +13,7 @@ entry_into_force: 2011-03-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/02/24/2011031111/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2011. - Ordonnantie tot wijziging van de ordonnantie van 29 november 2007 tot vaststelling van de wijzen van lijkbezorging, de asbestemming en de rituelen van de levensbeschouwing voor de uitvaartplechtigheid die kunnen opgenomen worden in de laatste wilsbeschikking

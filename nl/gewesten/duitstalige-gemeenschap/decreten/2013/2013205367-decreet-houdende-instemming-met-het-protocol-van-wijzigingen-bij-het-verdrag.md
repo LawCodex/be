@@ -12,7 +12,7 @@ published: 2013-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/09/17/2013205367/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBER 2013. - Decreet houdende instemming met het Protocol van wijzigingen bij het Verdrag betreffende de Internationale Hydrografische Organisatie, aangenomen in Monaco op 14 april 2005

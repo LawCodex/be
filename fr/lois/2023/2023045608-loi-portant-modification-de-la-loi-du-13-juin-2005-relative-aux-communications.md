@@ -12,7 +12,7 @@ entry_into_force: 2024-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/08/30/2023045608/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AOUT 2023. - Loi portant modification de la loi du 13 juin 2005 relative aux communications électroniques et portant réforme des tarifs sociaux

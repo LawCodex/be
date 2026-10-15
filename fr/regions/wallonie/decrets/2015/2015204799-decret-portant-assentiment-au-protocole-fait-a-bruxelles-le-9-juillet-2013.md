@@ -13,7 +13,7 @@ entry_into_force: 2015-11-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/10/16/2015204799/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 2015. - Décret portant assentiment au Protocole, fait à Bruxelles le 9 juillet 2013, modifiant la Convention entre le Royaume de Belgique et la République de Turquie tendant à éviter la double imposition en matière d'impôts sur le revenu, signée à Ankara le 2 juin 1987

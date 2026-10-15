@@ -12,7 +12,7 @@ entry_into_force: 2025-10-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/10/13/2025007882/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 OCTOBRE 2025. - Loi relative à l'envoi d'une lettre de sensibilisation aux enjeux sécuritaires pour lequel l'accès à certaines informations du Registre national des personnes physiques par le ministère de la Défense est nécessaire

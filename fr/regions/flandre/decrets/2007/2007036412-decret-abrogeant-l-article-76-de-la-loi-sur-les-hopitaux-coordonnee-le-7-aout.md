@@ -13,7 +13,7 @@ entry_into_force: 2007-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/13/2007036412/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2007. - Décret abrogeant l'article 76 de la loi sur les hôpitaux, coordonnée le 7 août 1987 (TRADUCTION).

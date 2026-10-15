@@ -13,7 +13,7 @@ entry_into_force: 2004-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/04/10/2004200567/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2003. - Decreet houdende goedkeuring van de Europese Conventie ter bescherming van het archeologisch patrimonium (herzien), opgemaakt te Valetta op 16 januari 1992 (VERTALING).

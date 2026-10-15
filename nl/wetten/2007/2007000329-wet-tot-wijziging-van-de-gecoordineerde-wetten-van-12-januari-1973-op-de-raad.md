@@ -12,7 +12,7 @@ entry_into_force: 2008-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/03/23/2007000329/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2007. - Wet tot wijziging van de gecoördineerde wetten van 12 januari 1973 op de Raad van State.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/12/07/2012207507/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 08-01-2013 en tekstbijwerking tot 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2012. - Decreet houdende de stimulering van een inclusief Vlaams ouderenbeleid en de beleidsparticipatie van ouderen

@@ -13,7 +13,7 @@ entry_into_force: 1985-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1985/03/05/1985024337/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 1985. - Décret portant réglementation de l'agrément et de l'octroi de subventions relatifs aux structures destinées aux personnes âgées &lt;TRADUCTION&gt;.

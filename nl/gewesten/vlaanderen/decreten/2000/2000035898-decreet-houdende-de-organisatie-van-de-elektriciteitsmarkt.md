@@ -16,7 +16,7 @@ department: "Vlaamse Gemeenschap"
 justel_notes:
   - "ook aangehaald als Elektriciteitsdecreet; zie art. 57"
   - "Raadpleging van vroegere versies vanaf 30-12-2000 en tekstbijwerking tot 28-07-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2000. - Decreet houdende de organisatie van de elektriciteitsmarkt. -

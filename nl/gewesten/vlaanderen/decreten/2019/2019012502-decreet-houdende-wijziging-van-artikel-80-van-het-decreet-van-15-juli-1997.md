@@ -13,7 +13,7 @@ entry_into_force: 2019-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/03/2019012502/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2019. - Decreet houdende wijziging van artikel 80 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, wat betreft de uitbreiding van de verzekering gewaarborgd wonen met bescherming tegen inkomensverlies van zelfstandigen ingevolge onvrijwillige stopzetting van hun activiteit

@@ -13,7 +13,7 @@ entry_into_force: 2012-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/11/29/2012031838/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBER 2012. - Ordonnantie houdende instemming met : de Overeenkomst tot tweede herziening van de Partnerschapovereenkomst tussen de leden van de Groep van Staten van Afrika, het Caribische gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar Lidstaten, anderzijds, ondertekend te Cotonou op 23 juni 2000 en voor de eerste maal herzien te Luxemburg op 25 juni 2005, en met de Slotakte, gedaan te Ouagadougou op 22 juni 2010

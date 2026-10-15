@@ -12,7 +12,7 @@ entry_into_force: 2023-09-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/07/16/2023044302/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUILLET 2023. - Loi modifiant la loi du 2 octobre 2017 réglementant la sécurité privée et particulière

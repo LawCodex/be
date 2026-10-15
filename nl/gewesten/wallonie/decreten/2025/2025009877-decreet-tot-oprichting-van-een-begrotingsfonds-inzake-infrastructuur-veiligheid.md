@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/12/19/2025009877/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2025. - Decreet tot oprichting van een begrotingsfonds inzake infrastructuur, veiligheid en verkeersveiligheidinspecties, afgekort in het Frans "FISIR"

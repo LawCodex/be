@@ -12,7 +12,7 @@ entry_into_force: 2022-06-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/05/15/2022041198/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2022. - Loi transposant la directive (UE) 2019/1153 du Parlement européen et du Conseil du 20 juin 2019 fixant les règles facilitant l'utilisation d'informations financières et d'une autre nature aux fins de la prévention ou de la détection de certaines infractions pénales, ou des enquêtes ou des poursuites en la matière, et abrogeant la décision 2000/642/JAI du Conseil

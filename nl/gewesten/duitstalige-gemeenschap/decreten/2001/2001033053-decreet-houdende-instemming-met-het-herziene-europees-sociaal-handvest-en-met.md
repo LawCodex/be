@@ -13,7 +13,7 @@ entry_into_force: 2001-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/06/25/2001033053/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2001. - Decreet houdende instemming met het herziene Europees Sociaal Handvest en met de Bijlage, ondertekend te Straatsburg op 3 mei 1996 (VERTALING).

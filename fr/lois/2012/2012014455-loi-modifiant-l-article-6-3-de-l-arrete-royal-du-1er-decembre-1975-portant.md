@@ -12,7 +12,7 @@ entry_into_force: 2012-09-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/15/2012014455/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 AOUT 2012. - Loi modifiant l'article 6.3 de l'arrêté royal du 1er décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique afin d'introduire une dérogation au principe général de primauté des signaux lumineux de circulation en ce qui concerne les signaux routiers relatifs à la priorité pour les cyclistes

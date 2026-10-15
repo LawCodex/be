@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/22/1995029046/justel"
 department: "Communauté française"
 justel_note: "Voir arrêt de la Cour d'arbitrage n° 54/96 du 3 octobre 1996. M.B. 10.10.1996, p. 26094-26102"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1994. - Décret contenant le budget général des dépenses de la Communauté française de l'année budgétaire 1995.

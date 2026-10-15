@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/06/17/2011035520/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 04-07-2011 et mise à jour au 01-12-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 2011. - Décret relatif à la gestion de la sécurité routière de l'infrastructure routière

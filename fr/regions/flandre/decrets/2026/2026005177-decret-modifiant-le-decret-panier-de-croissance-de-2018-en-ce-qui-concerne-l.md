@@ -13,7 +13,7 @@ entry_into_force: 2026-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/26/2026005177/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2026. - Décret modifiant le décret Panier de croissance de 2018, en ce qui concerne l'allocation de participation sélective dans l'enseignement secondaire

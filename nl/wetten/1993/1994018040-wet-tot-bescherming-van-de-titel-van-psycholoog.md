@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/11/08/1994018040/justel"
 department: "Middenstand"
 justel_note: "Raadpleging van vroegere versies vanaf 20-02-1997 en tekstbijwerking tot 03-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 NOVEMBER 1993. - Wet tot bescherming van de titel van psycholoog.

@@ -12,7 +12,7 @@ entry_into_force: 1998-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/07/05/1998003425/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1998. - Wet tot wijziging van artikel 249 van het Wetboek van registratie-, hypotheek- en griffierechten.

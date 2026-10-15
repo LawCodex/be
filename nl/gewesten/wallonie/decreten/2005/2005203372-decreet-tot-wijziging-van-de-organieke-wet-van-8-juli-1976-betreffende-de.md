@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/08/2005203372/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 02-01-2006 en tekstbijwerking tot 04-07-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2005. - Decreet tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn (VERTALING).

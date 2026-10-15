@@ -13,7 +13,7 @@ entry_into_force: 2017-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/03/23/2017202144/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2017. - Decreet tot invoeging van bepalingen betreffende de voedselhulp in het Waalse Wetboek van Sociale Actie en Gezondheid

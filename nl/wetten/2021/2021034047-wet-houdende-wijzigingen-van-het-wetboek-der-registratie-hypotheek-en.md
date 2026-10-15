@@ -12,7 +12,7 @@ entry_into_force: 2021-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/11/26/2021034047/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2021. - Wet houdende wijzigingen van het Wetboek der registratie-, hypotheek- en griffierechten

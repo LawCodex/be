@@ -13,7 +13,7 @@ entry_into_force: 2026-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/04/03/2026003185/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2026. - Decreet tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, wat betreft het invoeren van een emissiehandelssysteem voor de gebouwensector, de wegvervoerssector en de aanvullende sectoren

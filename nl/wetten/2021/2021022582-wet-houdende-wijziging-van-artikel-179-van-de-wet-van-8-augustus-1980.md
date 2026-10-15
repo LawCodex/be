@@ -12,7 +12,7 @@ entry_into_force: 2021-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/11/07/2021022582/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2021. - Wet houdende wijziging van artikel 179 van de wet van 8 augustus 1980 betreffende de budgettaire voorstellen 1979-1980

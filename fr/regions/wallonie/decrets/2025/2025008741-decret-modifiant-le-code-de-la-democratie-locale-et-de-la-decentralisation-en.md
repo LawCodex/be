@@ -13,7 +13,7 @@ entry_into_force: 2025-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/11/13/2025008741/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2025. - Décret modifiant le Code de la démocratie locale et de la décentralisation en vue de mettre sur pied d'égalité les membres du personnel en termes de promotion

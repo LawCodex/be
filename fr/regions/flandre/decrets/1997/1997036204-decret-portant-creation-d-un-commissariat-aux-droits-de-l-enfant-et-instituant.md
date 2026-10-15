@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/15/1997036204/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 07-10-1997 et mise à jour au 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 1997. - [Décret portant création d'un Commissariat aux Droits de l'Enfant et instituant la fonction de Commissaire aux Droits de l'Enfant et portant création d'une Commission de surveillance en rapport avec les établissements privatifs de liberté pour enfants et jeunes].(TRADUCTION)&lt;DCFL 2017-02-03/11 , art. 2, 005; En vigueur : 01-03-2017&gt;

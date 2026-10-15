@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/09/2023201492/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2023. - Decreet houdende instemming met het Samenwerkingsakkoord van 28 november 2018 tussen de Franse Gemeenschap en het Waalse Gewest betreffende de erkenning van de Waalse gewestelijke maatschappijen van onderlinge bijstand, van de Hulpkas voor Ziekte- en Invaliditeitsverzekering en van de Kas der geneeskundige verzorging van HR Rail als Waalse verzekeringsinstellingen voor de rekening van de Franse Gemeenschap

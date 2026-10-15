@@ -13,7 +13,7 @@ last_amended: 2010-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1974/12/23/1974122350/justel"
 justel_note: "Consultation des versions antérieures à partir du 27-03-1991 et mise à jour au 31-12-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1974. - Loi relative aux propositions budgétaires 1974-1975.

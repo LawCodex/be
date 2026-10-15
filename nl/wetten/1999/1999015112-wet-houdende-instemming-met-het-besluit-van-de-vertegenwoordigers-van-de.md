@@ -12,7 +12,7 @@ entry_into_force: 1999-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/14/1999015112/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 1999. - Wet houdende instemming met het Besluit van de vertegenwoordigers van de regeringen van de Lid-Staten, in het kader van de Raad bijeen, van 19 december 1995 betreffende de bescherming van de burgers van de Europese Unie door de diplomatieke en consulaire vertegenwoordigingen.

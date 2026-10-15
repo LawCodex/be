@@ -12,7 +12,7 @@ entry_into_force: 2020-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/30/2020015933/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 OKTOBER 2020. - Decreet tot het toestaan van een tijdelijke capaciteitsverhoging van vergunde crematoria in het kader van COVID-19

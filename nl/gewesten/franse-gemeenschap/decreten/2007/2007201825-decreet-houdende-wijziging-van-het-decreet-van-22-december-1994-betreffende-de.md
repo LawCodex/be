@@ -13,7 +13,7 @@ entry_into_force: 2007-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/03/30/2007201825/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2007. - Decreet houdende wijziging van het decreet van 22 december 1994 betreffende de openbaarheid van het bestuur (VERTALING).

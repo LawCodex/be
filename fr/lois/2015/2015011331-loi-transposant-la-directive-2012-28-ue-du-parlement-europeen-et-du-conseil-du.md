@@ -12,7 +12,7 @@ entry_into_force: 2015-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/07/20/2015011331/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2015. - Loi transposant la directive 2012/28/UE du Parlement européen et du Conseil du 25 octobre 2012 sur certaines utilisations autorisées des oeuvres orphelines

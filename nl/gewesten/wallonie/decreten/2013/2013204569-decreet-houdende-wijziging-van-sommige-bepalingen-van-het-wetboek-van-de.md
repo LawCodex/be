@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/04/18/2013204569/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 22-08-2013 en tekstbijwerking tot 08-10-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2013. - Decreet houdende wijziging van sommige bepalingen van het Wetboek van de plaatselijke democratie en de decentralisatie

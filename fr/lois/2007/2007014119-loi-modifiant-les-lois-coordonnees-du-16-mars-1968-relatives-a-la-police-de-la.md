@@ -12,7 +12,7 @@ entry_into_force: 2007-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/20/2007014119/justel"
 department: "Justice - Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MARS 2007. - Loi modifiant les lois coordonnées du 16 mars 1968 relatives à la police de la circulation routière et la loi du 22 février 1965 permettant aux communes d'établir des redevances de stationnement applicables aux véhicules à moteur.

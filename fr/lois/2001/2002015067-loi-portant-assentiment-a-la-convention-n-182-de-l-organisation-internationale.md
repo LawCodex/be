@@ -12,7 +12,7 @@ entry_into_force: 2002-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/09/12/2002015067/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 SEPTEMBRE 2001. - Loi portant assentiment à la Convention n° 182 de l'Organisation internationale du Travail concernant l'interdiction des pires formes de travail des enfants et l'action immédiate en vue de leur élimination, faite à Genève le 17 juin 1999.

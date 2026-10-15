@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/10/25/2016003379/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 16-11-2016 en tekstbijwerking tot 05-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 OKTOBER 2016. - Wet houdende oprichting van het Federaal Agentschap van de Schuld en opheffing van het Rentenfonds

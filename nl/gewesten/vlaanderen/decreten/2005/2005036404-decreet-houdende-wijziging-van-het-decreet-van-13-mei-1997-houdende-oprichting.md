@@ -12,7 +12,7 @@ entry_into_force: 2005-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/10/21/2005036404/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OKTOBER 2005. - Decreet houdende wijziging van het decreet van 13 mei 1997 houdende oprichting van een Financieringsinstrument voor de Vlaamse visserij- en aquicultuursector.

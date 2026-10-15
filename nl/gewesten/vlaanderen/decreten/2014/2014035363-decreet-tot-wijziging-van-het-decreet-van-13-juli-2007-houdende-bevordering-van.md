@@ -13,7 +13,7 @@ entry_into_force: 2014-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/28/2014035363/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2014. - Decreet tot wijziging van het decreet van 13 juli 2007 houdende bevordering van een meer evenwichtige participatie van vrouwen en mannen in advies- en bestuursorganen van de Vlaamse overheid en het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid

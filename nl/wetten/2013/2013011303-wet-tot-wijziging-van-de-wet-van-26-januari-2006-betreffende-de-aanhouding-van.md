@@ -12,7 +12,7 @@ entry_into_force: 2013-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/06/13/2013011303/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUNI 2013. - Wet tot wijziging van de wet van 26 januari 2006 betreffende de aanhouding van een verplichte voorraad aardolie en aardolieproducten en de oprichting van een agentschap voor het beheer van een deel van deze voorraad en tot wijziging van de wet van 10 juni 1997 betreffende de algemene regeling voor accijnsproducten, het voorhanden hebben, en het verkeer daarvan en de controles daarop

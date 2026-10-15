@@ -13,7 +13,7 @@ entry_into_force: 2015-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/04/24/2015035565/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2015. - Décret portant mise en oeuvre de la sixième réforme de l'Etat et portant diverses dispositions relatives au domaine politique de l'Emploi et de l'Economie sociale

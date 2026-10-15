@@ -13,7 +13,7 @@ entry_into_force: 2009-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/12/18/2009031012/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2008. - Ordonnantie tot wijziging van de ordonnantie van 29 april 2004 betreffende de controle van de verkiezingsuitgaven en de regeringsmededelingen.

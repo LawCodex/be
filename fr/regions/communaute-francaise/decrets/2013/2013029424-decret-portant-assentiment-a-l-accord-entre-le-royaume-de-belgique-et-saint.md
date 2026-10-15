@@ -13,7 +13,7 @@ entry_into_force: 2013-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/04/2013029424/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2013. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et Saint-Christophe-et-Nièves en vue de l'échange de renseignements en matière fiscale, et le Protocole, faits à Bruxelles le 18 décembre 2009

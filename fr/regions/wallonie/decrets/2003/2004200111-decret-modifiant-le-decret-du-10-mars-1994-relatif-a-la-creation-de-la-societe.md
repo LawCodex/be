@@ -13,7 +13,7 @@ entry_into_force: 2004-01-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/11/27/2004200111/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2003. - Décret modifiant le décret du 10 mars 1994 relatif à la création de la Société wallonne de Financement complémentaire des Infrastructures.

@@ -13,7 +13,7 @@ entry_into_force: 2015-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/11/13/2015036492/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2015. - Décret portant assentiment à la Convention internationale pour le contrôle et la gestion des eaux de ballast et sédiments des navires, faite à Londres, le 13 février 2004

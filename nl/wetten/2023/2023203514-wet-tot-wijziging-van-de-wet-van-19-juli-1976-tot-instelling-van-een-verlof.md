@@ -12,7 +12,7 @@ entry_into_force: 2023-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/06/27/2023203514/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 2023. - Wet tot wijziging van de wet van 19 juli 1976 tot instelling van een verlof voor de uitoefening van een politiek mandaat

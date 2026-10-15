@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/04/27/2017011936/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2017. - Decreet houdende wijziging van het decreet van 27 mei 1999 betreffende de toekenning van de erkenning en subsidies aan onthaaltehuizen

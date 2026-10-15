@@ -13,7 +13,7 @@ entry_into_force: 2002-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/01/31/2002029141/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2002. - Décret modifiant certaines dispositions relatives au statut administratif et pécuniaire des membres du personnel technique des centres psycho-médico-sociaux de la Communauté française ainsi que des membres du personnel du service d'inspection chargés de la surveillance de ces centres psycho-médico-sociaux.

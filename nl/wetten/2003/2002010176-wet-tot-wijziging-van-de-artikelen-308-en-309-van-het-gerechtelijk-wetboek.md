@@ -12,7 +12,7 @@ entry_into_force: 2003-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/01/09/2002010176/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 2003. - Wet tot wijziging van de artikelen 308 en 309 van het Gerechtelijk Wetboek.

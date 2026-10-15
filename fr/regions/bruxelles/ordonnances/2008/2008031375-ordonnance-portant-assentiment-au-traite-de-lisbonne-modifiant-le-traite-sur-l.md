@@ -13,7 +13,7 @@ entry_into_force: 2008-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/07/10/2008031375/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2008. - Ordonnance portant assentiment au Traité de Lisbonne modifiant le Traité sur l'Union européenne et le Traité instituant la Communauté européenne, et à l'Acte final, faits à Lisbonne le 13 décembre 2007.

@@ -12,7 +12,7 @@ entry_into_force: 2003-03-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/05/30/2000015108/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2000. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République tunisienne concernant l'encouragement et la protection réciproques des investissements, fait à Tunis le 8 janvier 1997.

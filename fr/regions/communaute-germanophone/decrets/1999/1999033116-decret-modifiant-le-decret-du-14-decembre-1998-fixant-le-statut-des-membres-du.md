@@ -12,7 +12,7 @@ published: 1999-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/10/18/1999033116/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 OCTOBRE 1999. - Décret modifiant le décret du 14 décembre 1998 fixant le statut des membres du personnel subsidiés de renseignement libre subventionné et du centre PMS libre subventionné (TRADUCTION).

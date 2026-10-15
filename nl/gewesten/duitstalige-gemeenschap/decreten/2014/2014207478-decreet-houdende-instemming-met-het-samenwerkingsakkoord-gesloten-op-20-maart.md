@@ -13,7 +13,7 @@ entry_into_force: 2015-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/11/24/2014207478/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2014. - Decreet houdende instemming met het samenwerkingsakkoord gesloten op 20 maart 2014 tussen de Franse Gemeenschap, het Waals Gewest, het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de invoering van een kadaster van onderwijs- en post-onderwijstrajecten

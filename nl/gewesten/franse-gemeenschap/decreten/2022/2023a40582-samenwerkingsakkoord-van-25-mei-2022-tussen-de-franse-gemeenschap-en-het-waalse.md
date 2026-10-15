@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/30/2023A40582/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 17-02-2023 en tekstbijwerking tot 12-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2022. - Samenwerkingsakkoord van 25 mei 2022 tussen de Franse Gemeenschap en het Waalse Gewest betreffende de creatie van opvangplaatsen voor jonge kinderen

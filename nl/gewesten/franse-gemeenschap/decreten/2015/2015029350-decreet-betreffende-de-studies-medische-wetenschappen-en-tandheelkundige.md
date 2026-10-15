@@ -12,7 +12,7 @@ published: 2015-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/09/2015029350/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2015. - Decreet betreffende de studies medische wetenschappen en tandheelkundige wetenschappen

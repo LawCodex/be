@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/07/18/1996027491/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 04-09-1996 et mise à jour au 12-09-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1996. - Décret modifiant le Code forestier pour ce qui concerne l'adjudication publique et la vente de gré à gré des coupes en forêts soumises au régime forestier.

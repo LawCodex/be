@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/06/2012036021/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 21-09-2012 et mise à jour au 27-02-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2012. - Décret modifiant le décret du 4 avril 2003 relatif à la restructuration de l'enseignement supérieur en Flandre, pour ce qui est du système de gestion de la qualité et d'accréditation

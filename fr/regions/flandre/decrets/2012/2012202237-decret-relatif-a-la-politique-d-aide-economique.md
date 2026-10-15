@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/16/2012202237/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 27-04-2012 et mise à jour au 28-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2012. - DECRET relatif à la politique d'aide économique

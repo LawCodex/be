@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/05/05/2017012299/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-06-2017 et mise à jour au 21-03-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2017. - Décret portant le soutien de l'infrastructure sportive supralocale et de l'infrastructure sportive de haut niveau

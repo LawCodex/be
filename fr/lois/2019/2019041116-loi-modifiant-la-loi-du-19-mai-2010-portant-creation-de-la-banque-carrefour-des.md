@@ -12,7 +12,7 @@ entry_into_force: 2021-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/13/2019041116/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 2019. - Loi modifiant la loi du 19 mai 2010 portant création de la banque-carrefour des véhicules

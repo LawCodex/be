@@ -13,7 +13,7 @@ entry_into_force: 2025-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/07/03/2025005146/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2025. - Ordonnantie tot wijziging van het tegemoetkomingsplafond van het Brussels Waarborgfonds

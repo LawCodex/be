@@ -12,7 +12,7 @@ published: 2017-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/08/2017012820/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2017. - Decreet tot wijziging van het decreet van 17 juli 2003 betreffende een bijdrage in de kosten voor het gebruik van openbare gemeenschappelijke vervoermiddelen en/of van de fiets door de personeelsleden

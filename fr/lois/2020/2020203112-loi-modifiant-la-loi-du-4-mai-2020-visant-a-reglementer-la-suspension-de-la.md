@@ -12,7 +12,7 @@ entry_into_force: 2020-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/07/15/2020203112/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2020. - Loi modifiant la loi du 4 mai 2020 visant à réglementer la suspension de la procédure des élections sociales de l'année 2020 suite à la pandémie du coronavirus COVID-19 afin de prolonger le délai imparti pour conclure un accord sur le vote électronique en vue des élections sociales de 2020

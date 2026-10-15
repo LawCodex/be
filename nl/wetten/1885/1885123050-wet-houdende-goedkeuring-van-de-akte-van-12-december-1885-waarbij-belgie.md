@@ -11,7 +11,7 @@ published: 1885-12-31
 entry_into_force: 1886-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1885/12/30/1885123050/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBER 1885. - Wet houdende goedkeuring van de akte van 12 december 1885, waarbij België bijtreedt tot de overeenkomst rakende het muntwezen, de 6e november 1885 te Parijs gesloten tussen Frankrijk, Griekenland, Italië en Zwitserland, alsmede tot de er aangehechte schikking en verklaring. (Nota: de Belgische regering heeft deze overeenkomst i.v.m. het muntwezen opgezegd door de verklaring van 28-12-1925 (B.S. 04-02-1926); hierna vermelde artikelen werden niet uitdrukkelijk opgeheven.)

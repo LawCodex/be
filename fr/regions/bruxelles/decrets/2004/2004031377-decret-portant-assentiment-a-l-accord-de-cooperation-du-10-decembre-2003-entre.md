@@ -13,7 +13,7 @@ entry_into_force: 2004-07-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/06/03/2004031377/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2004. - Décret portant assentiment à l'Accord de coopération du 10 décembre 2003 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune, la Commission communautaire française de la Région de Bruxelles-Capitale, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale visant la collaboration dans les domaines de l'environnement et de la santé.

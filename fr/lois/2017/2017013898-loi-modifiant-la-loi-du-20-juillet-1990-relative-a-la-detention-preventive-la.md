@@ -12,7 +12,7 @@ entry_into_force: 2017-11-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/10/31/2017013898/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 OCTOBRE 2017. - Loi modifiant la loi du 20 juillet 1990 relative à la détention préventive, la loi du 7 juin 1969 fixant le temps pendant lequel il ne peut être procédé à des perquisitions, visites domiciliaires ou arrestations, la loi du 5 août 1992 sur la fonction de police et la loi du 19 décembre 2003 relative au mandat d'arrêt européen

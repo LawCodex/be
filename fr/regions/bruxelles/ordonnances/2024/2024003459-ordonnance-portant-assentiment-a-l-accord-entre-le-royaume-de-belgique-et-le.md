@@ -13,7 +13,7 @@ entry_into_force: 2024-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/04/04/2024003459/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2024. - Ordonnance portant assentiment à l'Accord entre le Royaume de Belgique et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, fait à Bruxelles le 10 novembre 2023

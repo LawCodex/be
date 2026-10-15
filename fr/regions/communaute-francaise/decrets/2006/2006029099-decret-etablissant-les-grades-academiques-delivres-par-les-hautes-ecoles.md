@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/06/02/2006029099/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 21-09-2006 et mise à jour au 11-08-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2006. - Décret établissant les grades académiques délivrés par les Hautes Ecoles organisées ou subventionnées par la Communauté française et fixant les grilles d'horaires minimales.

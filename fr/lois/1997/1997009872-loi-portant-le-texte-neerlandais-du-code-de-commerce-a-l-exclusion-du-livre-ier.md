@@ -12,7 +12,7 @@ entry_into_force: 1997-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/10/21/1997009872/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 OCTOBRE 1997. - Loi portant le texte néerlandais du Code de commerce, à l'exclusion du Livre Ier, titres VIII et IX, de la loi du 5 mai 1936 sur l'affrètement fluvial, des lois coordonnées du 25 septembre 1946 sur le concordat judiciaire et de la loi du 5 juin 1928 portant révision du Code disciplinaire et pénal pour la marine marchande et la pêche maritime

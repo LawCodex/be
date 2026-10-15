@@ -12,7 +12,7 @@ entry_into_force: 2025-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/11/18/2025009088/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBRE 2025. - Loi modifiant la loi du 22 mai 2003 portant organisation du budget et de la comptabilité de l'Etat fédéral, en vue de transposer partiellement la directive (UE) 2024/1265

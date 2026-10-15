@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/10/1995029212/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 03-05-1995 en tekstbijwerking tot 23-04-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 1995. - Decreet tot instelling van het politiek verlof om lid te worden van de Raad of van de Regering van de Franse Gemeenschap. (VERTALING)

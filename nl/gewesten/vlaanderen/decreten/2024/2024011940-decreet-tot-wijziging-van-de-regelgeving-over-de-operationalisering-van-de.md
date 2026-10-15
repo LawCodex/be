@@ -13,7 +13,7 @@ entry_into_force: 2024-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/12/20/2024011940/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2024. - Decreet tot wijziging van de regelgeving over de operationalisering van de Vlaamse Nutsregulator, wat betreft de opheffing van artikel 4, § 5, en een aanpassing van de inwerkingtredingen

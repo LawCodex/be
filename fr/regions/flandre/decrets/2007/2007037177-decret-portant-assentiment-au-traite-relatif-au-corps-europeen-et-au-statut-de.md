@@ -13,7 +13,7 @@ entry_into_force: 2008-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/23/2007037177/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBRE 2007. - Décret portant assentiment au traité relatif au Corps européen et au statut de son quartier général entre la République française, la République fédérale d'Allemagne, le Royaume de Belgique, le Royaume d'Espagne et le grand-duché de Luxembourg, et l'Acte final signé à Bruxelles le 22 novembre 2004 (TRADUCTION).

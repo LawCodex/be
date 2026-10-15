@@ -13,7 +13,7 @@ entry_into_force: 2021-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2021/07/15/2021031840/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2021. - Ordonnance portant confirmation des arrêtés du Gouvernement de la Région de Bruxelles-Capitale pris en exécution de l'ordonnance du 23 novembre 2020 visant à octroyer des pouvoirs spéciaux au Gouvernement de la Région de Bruxelles-Capitale dans le cadre de la crise sanitaire du COVID-19

@@ -12,7 +12,7 @@ entry_into_force: 2022-11-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/27/2022041891/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 2022. - Loi portant assentiment aux actes internationaux suivants : 1) Le neuvième Protocole additionnel à la Constitution de l'Union postale, fait à Istanbul le 6 octobre 2016 ; 2) Le premier Protocole additionnel au Règlement général de l'Union postale universelle, fait à Istanbul le 6 octobre 2016; 3) La Convention postale universelle et son Protocole final, faits à Istanbul le 6 octobre 2016

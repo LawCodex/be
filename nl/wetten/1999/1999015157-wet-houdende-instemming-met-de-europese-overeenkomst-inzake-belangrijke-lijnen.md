@@ -11,7 +11,7 @@ published: 1999-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/05/1999015157/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 1999. - Wet houdende instemming met de Europese Overeenkomst inzake belangrijke lijnen voor het internationaal gecombineerd vervoer en bijhorende voorzieningen (AGTC), en Bijlagen I, II, III en IV, gedaan te Genève op 1 februari 1991.

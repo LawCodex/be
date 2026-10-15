@@ -12,7 +12,7 @@ entry_into_force: 2005-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/09/21/2004015195/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 SEPTEMBRE 2004. - Loi portant assentiment aux actes internationaux suivants : 1° le Sixième Protocole additionnel à la Constitution de l'Union postale universelle; 2° le Règlement général de l'Union postale universelle; 3° la Convention postale universelle et le Protocole final et 4° l'Arrangement concernant les services de paiement de La Poste, faits à Beijing le 15 septembre 1999.

@@ -12,7 +12,7 @@ entry_into_force: 2012-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/04/22/2012007147/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2012. - Wet tot wijziging van de wet van 27 maart 2003 betreffende de werving van de militairen en het statuut van de militaire muzikanten en tot wijziging van verschillende wetten van toepassing op het personeel van Landsverdediging

@@ -12,7 +12,7 @@ entry_into_force: 2016-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/09/20/2013015020/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBRE 2012. - Loi portant assentiment à l'Accord sur le transport routier entre le Gouvernement belge et le Gouvernement macédonien, signé à Skopje le 10 septembre 1998

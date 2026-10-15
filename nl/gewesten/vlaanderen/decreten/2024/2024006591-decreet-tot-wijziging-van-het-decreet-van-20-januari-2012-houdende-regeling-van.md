@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/17/2024006591/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 10-07-2024 en tekstbijwerking tot 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2024. - DECREET tot wijziging van het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen, wat betreft de begeleiding bij interlandelijke adoptie en het decreet van 29 juni 2012 houdende de organisatie van pleegzorg en het decreet Binnenlandse Adoptie van 3 juli 2015, wat betreft de invoering van een gezamenlijk voortraject pleegzorg-adoptie

@@ -11,7 +11,7 @@ published: 1848-12-30
 entry_into_force: 1849-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1848/12/28/1848122859/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBRE 1848. - Loi qui supprime la commission des monnaies.

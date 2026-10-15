@@ -13,7 +13,7 @@ entry_into_force: 2017-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/23/2016036770/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2016. - Decreet houdende diverse fiscale bepalingen en bepalingen omtrent de invordering van niet-fiscale schuldvorderingen

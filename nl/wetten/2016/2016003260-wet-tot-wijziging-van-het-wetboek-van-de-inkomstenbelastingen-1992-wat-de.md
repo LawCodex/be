@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/07/10/2016003260/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2016. - Wet tot wijziging van het Wetboek van de Inkomstenbelastingen 1992 wat de giften aan hogescholen betreft

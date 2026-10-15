@@ -12,7 +12,7 @@ entry_into_force: 2020-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/11/30/2020043762/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2020. - Loi modifiant la loi ordinaire du 16 juillet 1993 visant à achever la structure fédérale de l'Etat et la loi du 21 décembre 2009 relative au régime d'accise des boissons non alcoolisées et du café

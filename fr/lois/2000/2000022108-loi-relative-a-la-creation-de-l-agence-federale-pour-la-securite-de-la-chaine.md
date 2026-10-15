@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/02/04/2000022108/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 18-02-2000 et mise à jour au 21-06-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2000. - Loi relative à la création de l'Agence fédérale pour la Sécurité de la chaîne alimentaire.

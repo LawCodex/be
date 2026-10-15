@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/08/10/2005009655/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 01-09-2005 et mise à jour au 24-10-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2005. - Loi instituant le système d'information Phenix

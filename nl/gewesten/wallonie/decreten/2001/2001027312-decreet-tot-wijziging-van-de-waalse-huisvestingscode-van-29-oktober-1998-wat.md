@@ -13,7 +13,7 @@ entry_into_force: 2001-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/05/31/2001027312/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2001. - Decreet tot wijziging van de Waalse Huisvestingscode van 29 oktober 1998 wat betreft de gezondheidsonderzoeken (VERTALING).

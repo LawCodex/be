@@ -12,7 +12,7 @@ entry_into_force: 2011-07-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/06/01/2011000424/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2011. - Wet tot instelling van een verbod op het dragen van kleding die het gezicht volledig dan wel grotendeels verbergt

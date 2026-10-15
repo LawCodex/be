@@ -12,7 +12,7 @@ entry_into_force: 1986-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/12/23/1985003531/justel"
 department: "Finances"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1985. - Loi de finances pour l'année budgétaire 1986 et portant prorogation de certaines mesures temporaires.

@@ -13,7 +13,7 @@ last_amended: 2014-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/07/26/1971072603/justel"
 justel_note: "Consultation des versions antérieures à partir du 31-01-2014 et mise à jour au 31-01-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUILLET 1971. - Loi organisant les agglomérations et les fédérations de communes

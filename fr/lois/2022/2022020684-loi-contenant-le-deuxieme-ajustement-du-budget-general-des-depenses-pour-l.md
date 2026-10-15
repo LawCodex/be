@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/03/29/2022020684/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2022. - Loi contenant le deuxième ajustement du Budget général des dépenses pour l'année budgétaire 2022

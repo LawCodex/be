@@ -13,7 +13,7 @@ entry_into_force: 2011-01-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/06/03/2011202898/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2011. - Décret modifiant le Code des droits de succession, le Code des droits d'enregistrement, d'hypothèque et de greffe ainsi que le Code des impôts sur les revenus en ce qui concerne la mise en oeuvre du régime Natura 2000

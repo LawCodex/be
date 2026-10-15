@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/26/2024005643/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 17-06-2024 et mise à jour au 15-01-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2024. - Décret modifiant divers décrets, en ce qui concerne la mise en oeuvre du Décret-cadre Maintien flamand du 14 juillet 2023

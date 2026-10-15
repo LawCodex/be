@@ -13,7 +13,7 @@ last_amended: 2013-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1936/04/01/1936040101/justel"
 justel_note: "Consultation des versions antérieures à partir du 18-10-1986 et mise à jour au 01-08-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 1936. - Loi sur les contrats d'engagement pour le service des bâtiments de navigation intérieure.

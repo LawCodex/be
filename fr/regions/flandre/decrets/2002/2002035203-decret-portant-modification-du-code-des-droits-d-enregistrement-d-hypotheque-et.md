@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/02/01/2002035203/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er FEVRIER 2002. - Décret portant modification du Code des droits d'enregistrement, d'hypothèque et de greffe (TRADUCTION).

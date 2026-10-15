@@ -13,7 +13,7 @@ entry_into_force: 2017-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/12/07/2017014318/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2017. - Ordonnantie houdende instemming met het samenwerkingsakkoord tussen de Vlaamse Gemeenschap, het Waals Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende het vaststellen van de aanknopingsfactoren tot vaststelling van het personele toepassingsgebied van de wettelijke en reglementaire bepalingen van de deelentiteiten, de budgettering en verrekening van de voor de deelentiteiten betaalde gezinsbijslagen en de effectieve invoering van gemeenschappelijke wijzigende bepalingen voorgesteld door het beheerscomité van FAMIFED

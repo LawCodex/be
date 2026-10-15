@@ -13,7 +13,7 @@ entry_into_force: 2006-04-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/03/13/2006033039/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2006. - Décret portant assentiment à la convention de l'UNESCO Convention pour la sauvegarde du patrimoine culturel immatériel, faite à Paris le 17 octobre 2003 (TRADUCTION).

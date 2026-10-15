@@ -13,7 +13,7 @@ entry_into_force: 2004-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/01/28/2004029052/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 2004. - Décret réglementant les changements d'école en cours d'année scolaire dans l'enseignement fondamental ordinaire.

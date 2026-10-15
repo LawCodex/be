@@ -13,7 +13,7 @@ entry_into_force: 1998-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/17/1998029459/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 1998. - Décret contenant le premier ajustement du budget des Voies et Moyens de la Communauté francaise pour l'année budgétaire 1998.

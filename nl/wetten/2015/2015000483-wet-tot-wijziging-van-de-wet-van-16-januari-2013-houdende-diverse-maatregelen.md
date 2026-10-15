@@ -11,7 +11,7 @@ entry_into_force: 2015-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/08/10/2015000483/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 2015. - Wet tot wijziging van de wet van 16 januari 2013 houdende diverse maatregelen betreffende de strijd tegen maritieme piraterij

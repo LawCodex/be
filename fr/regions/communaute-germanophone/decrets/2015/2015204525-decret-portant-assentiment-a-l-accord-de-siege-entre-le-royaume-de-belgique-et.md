@@ -13,7 +13,7 @@ entry_into_force: 2015-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/09/21/2015204525/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 SEPTEMBRE 2015. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'Institut international pour la démocratie et l'assistance électorale, fait à Bruxelles le 15 mai 2014

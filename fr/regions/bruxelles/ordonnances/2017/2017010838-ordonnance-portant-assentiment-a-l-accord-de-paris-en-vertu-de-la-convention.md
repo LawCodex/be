@@ -13,7 +13,7 @@ entry_into_force: 2017-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/02/16/2017010838/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2017. - Ordonnance portant assentiment à : l'Accord de Paris en vertu de la Convention-cadre des Nations unies sur les changements climatiques, fait à Paris (France), le 12 décembre 2015

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1981/06/16/1981001111/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1987 en tekstbijwerking tot 11-03-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 1981. - Decreet tot inrichting van landelijke verblijven, verblijven op de boerderij, gemeubileerde vakantiewoningen en gastkamers. &lt;Vertaling&gt; - (NOTA 1 : Opgeheven voor wat betreft de gastkamers door DEC 1999-01-14/34, art. 10, Inwerkingtreding : onbepaald &gt;) - (NOTA 2 : Opgeheven voor het Waalse Gewest door &lt;DWG 2003-12-18/93, art. 156, 003; Inwerkingtreding : 01-01-2005&gt;) -

@@ -13,7 +13,7 @@ entry_into_force: 2011-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/05/19/2011031292/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2011. - Ordonnance modifiant la loi du 20 juillet 1971 sur les funérailles et sépultures

@@ -13,7 +13,7 @@ entry_into_force: 2012-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/05/10/2012202840/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 2012. - Decreet tot omzetting van Richtlijn 2008/98/EG van het Europees Parlement en van de Raad van 19 november 2008 betreffende afvalstoffen en tot intrekking van een aantal richtlijnen

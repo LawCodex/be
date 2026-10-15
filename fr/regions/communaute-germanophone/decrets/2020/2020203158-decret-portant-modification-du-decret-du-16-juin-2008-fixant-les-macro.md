@@ -13,7 +13,7 @@ entry_into_force: 2020-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/06/22/2020203158/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUIN 2020. - Décret portant modification du décret du 16 juin 2008 fixant les macro-compétences et les référentiels de compétences dans l'enseignement

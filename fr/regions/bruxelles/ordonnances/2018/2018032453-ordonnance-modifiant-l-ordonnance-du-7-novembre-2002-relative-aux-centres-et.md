@@ -12,7 +12,7 @@ published: 2019-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/12/06/2018032453/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2018. - Ordonnance modifiant l'ordonnance du 7 novembre 2002 relative aux centres et services de l'aide aux personnes

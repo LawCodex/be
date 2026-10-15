@@ -12,7 +12,7 @@ entry_into_force: 2007-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/09/2007009562/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2007. - Wet tot wijziging van sommige bepalingen van het Burgerlijk Wetboek teneinde het bewijs van de staat van de personen te vergemakkelijken bij gebreke aan een akte van de burgerlijke stand.

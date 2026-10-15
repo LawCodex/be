@@ -13,7 +13,7 @@ entry_into_force: 2015-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/12/03/2015031846/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2015. - Ordonnantie houdende instemming met het Samenwerkingsakkoord van 17 juli 2015 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de overdracht van toegewezen eenheden naar de Gewesten voor de periode 2008-2012

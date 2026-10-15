@@ -12,7 +12,7 @@ entry_into_force: 2005-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/02/24/2005015044/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 FEVRIER 2005. - Loi portant assentiment aux Traités suivants : Avenant à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République française concernant l'exécution en commun d'un programme d'observation de la terre, et Annexe, faits à Paris le 13 novembre 1984; Avenant n° 2 à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République française concernant l'exécution en commun d'un programme d'observation de la terre, et Annexe, faits à Paris le 23 octobre 1991; Avenant n° 3 à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République française concernant l'exécution en commun d'un programme d'observation de la terre, et Annexe, faits à Paris le 20 décembre 1994; Avenant n° 4 à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République française concernant l'exécution en commun d'un programme d'observation de la terre, et Annexe, faits à Paris le 9 janvier 1996.

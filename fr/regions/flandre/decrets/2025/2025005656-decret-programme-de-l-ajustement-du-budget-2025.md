@@ -13,7 +13,7 @@ entry_into_force: 2025-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/07/14/2025005656/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2025. - Décret-Programme de l'ajustement du budget 2025

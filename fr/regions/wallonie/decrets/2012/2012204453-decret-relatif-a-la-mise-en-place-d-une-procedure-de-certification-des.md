@@ -13,7 +13,7 @@ entry_into_force: 2012-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/18/2012204453/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2012. - Décret relatif à la mise en place d'une procédure de certification des installateurs de systèmes de production d'énergie à partir de sources renouvelables et de systèmes d'efficacité énergétique

@@ -11,7 +11,7 @@ published: 2005-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/09/17/2005012481/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBER 2005. - Wet houdende diverse bepalingen met betrekking tot de instelling van een bijzondere onderhandelingsgroep, een vertegenwoordigingsorgaan en procedures betreffende de rol van de werknemers in de Europese vennootschap.

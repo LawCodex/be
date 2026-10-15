@@ -13,7 +13,7 @@ entry_into_force: 2016-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/05/30/2016203107/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2016. - Decreet houdende instemming met het zetelakkoord tussen het Koninkrijk België en de Internationale Federatie van Rode Kruis- en Rode Halvemaanverenigingen, gedaan te Brussel op 29 juni 2012 en in Genève op 9 juli 2012

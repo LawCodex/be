@@ -13,7 +13,7 @@ entry_into_force: 2003-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/07/03/2003029512/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2003. - Décret portant assentiment à l'accord de coopération entre, d'une part, le Gouvernement de la République de Lituanie et, d'autre part, la Communauté française de Belgique et la Région wallonne, fait à Vilnius le 2 octobre 2002.

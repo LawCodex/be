@@ -12,7 +12,7 @@ entry_into_force: 1999-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/02/28/1999022151/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEBRUARI 1999. - Wet tot wijziging van de wet van 31 december 1963 betreffende de civiele bescherming.

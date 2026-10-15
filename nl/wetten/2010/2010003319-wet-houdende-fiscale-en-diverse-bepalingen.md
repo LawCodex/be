@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/05/19/2010003319/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 28-05-2010 en tekstbijwerking tot 31-12-2010"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2010. - Wet houdende fiscale en diverse bepalingen

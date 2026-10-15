@@ -13,7 +13,7 @@ entry_into_force: 2017-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/23/2017040092/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 FEVRIER 2017. - Décret modifiant l'intitulé du décret du 30 juin 2016 modifiant certaines dispositions en matières d'agrément de manuels scolaires, de logiciels scolaires et d'autres outils pédagogiques au sein des établissement d'enseignement obligatoire du 19 mai 2006, en vue d'intégrer la référence à la lutte contre les discriminations entre les femmes et hommes et la promotion de l'égalité des sexes comme critères d'agrément des manuels scolaires

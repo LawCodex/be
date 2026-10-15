@@ -12,7 +12,7 @@ entry_into_force: 2023-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/24/2022034474/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 2022. - Loi modifiant diverses dispositions relatives au passage au sein de la même catégorie de personnel ou à l'admission dans une autre qualité ou catégorie de personnel du militaire de carrière ou du militaire avec une carrière à durée limitée

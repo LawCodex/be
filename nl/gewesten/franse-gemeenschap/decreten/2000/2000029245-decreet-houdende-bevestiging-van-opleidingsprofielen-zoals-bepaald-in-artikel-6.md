@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/05/25/2000029245/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 12-09-2000 en tekstbijwerking tot 16-06-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2000. - [Decreet houdende bevestiging van opleidingsprofielen zoals bepaald in artikel 6 van het decreet van 27 oktober 1994 tot regeling van het overleg in het secundair onderwijs] (VERTALING). &lt;Opschrift vervangen door DFG 2007-01-25/46 , art. 1, 003; Inwerkingtreding : 21-03-2007&gt;

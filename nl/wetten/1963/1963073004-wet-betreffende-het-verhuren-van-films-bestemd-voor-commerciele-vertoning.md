@@ -11,7 +11,7 @@ published: 1963-08-16
 entry_into_force: 1963-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1963/07/30/1963073004/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 1963. - Wet betreffende het verhuren van films bestemd voor commerciële vertoning.

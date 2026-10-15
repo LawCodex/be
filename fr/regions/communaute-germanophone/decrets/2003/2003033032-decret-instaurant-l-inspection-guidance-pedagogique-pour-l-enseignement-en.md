@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/03/24/2003033032/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 10-10-2003 et mise à jour au 27-07-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2003. - Décret instaurant l'inspection-guidance pédagogique pour l'enseignement en Communauté germanophone et en fixant les missions (TRADUCTION)

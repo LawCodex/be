@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/05/25/2000007153/justel"
 department: "Landsverdediging"
 justel_note: "raadpleging van vroegere versies vanaf 29-06-2000 en tekstbijwerking tot 07-04-2001"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2000. - Wet betreffende het in disponibiliteit stellen van bepaalde militairen van het actief kader van de krijgsmacht.

@@ -13,7 +13,7 @@ entry_into_force: 1998-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/07/07/1998035921/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 1998. - Décret ajustant le budget des Voies et Moyens de la Communauté flamande pour l'année budgétaire 1998. (Traduction)

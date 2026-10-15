@@ -13,7 +13,7 @@ entry_into_force: 1985-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1985/06/25/1985023526/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 1985. \_ Décret portant assentiment de la Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes, faite à New York le 18 décembre 1979.

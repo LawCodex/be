@@ -13,7 +13,7 @@ entry_into_force: 1996-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/24/1997027389/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUILLET 1997. - Décret relatif à la mise à la disposition du Gouvernement des membres du personnel du Commissariat général aux Relations internationales transférés à la Région wallonne.

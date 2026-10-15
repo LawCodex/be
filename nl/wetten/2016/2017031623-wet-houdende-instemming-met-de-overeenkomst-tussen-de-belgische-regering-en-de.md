@@ -11,7 +11,7 @@ entry_into_force: 2017-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/06/22/2017031623/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUNI 2016. - Wet houdende instemming met de Overeenkomst tussen de Belgische Regering en de Macedonische Regering tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en naar het vermogen en tot het voorkomen van het ontduiken van belasting, en met het Protocol, gedaan te Brussel op 6 juli 2010

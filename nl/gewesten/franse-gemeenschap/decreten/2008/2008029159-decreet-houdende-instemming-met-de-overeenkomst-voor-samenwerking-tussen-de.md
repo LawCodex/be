@@ -13,7 +13,7 @@ entry_into_force: 2008-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/02/15/2008029159/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2008. - Decreet houdende instemming met de Overeenkomst voor samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Zwitserse Bondsstaat, anderzijds, ter bestrijding van fraude en andere illegale activiteiten die hun financiële belangen schaden, en met de Slotakte, gedaan te Luxemburg op 26 oktober 2004 (VERTALING).

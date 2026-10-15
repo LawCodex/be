@@ -12,7 +12,7 @@ entry_into_force: 2001-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/13/2001022558/justel"
 department: "Affaires sociales - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2001. - Loi modifiant la loi du 4 février 2000 relative à la création de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire.

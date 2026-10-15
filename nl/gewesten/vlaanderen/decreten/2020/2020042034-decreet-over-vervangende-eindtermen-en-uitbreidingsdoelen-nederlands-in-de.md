@@ -12,7 +12,7 @@ published: 2020-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/06/19/2020042034/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2020. - Decreet over vervangende eindtermen en uitbreidingsdoelen Nederlands in de eerste graad van het secundair onderwijs, op initiatief van de Federatie Steinerscholen Vlaanderen vzw

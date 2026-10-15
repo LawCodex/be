@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/16/2003033024/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 04-06-2003 et mise à jour au 09-11-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2002. - Décret relatif à l'octroi de moyens financiers pour des objectifs pédagogiques dans l'enseignement (TRADUCTION).

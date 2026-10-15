@@ -13,7 +13,7 @@ entry_into_force: 2008-11-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/06/2008204173/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBRE 2008. - Décret ratifiant le permis unique délivré pour la mise en oeuvre de l'antenne de Gosselies du métro léger de Charleroi, en application du décret du 17 juillet 2008 relatif à quelques permis pour lesquels il existe des motifs impérieux d'intérêt général

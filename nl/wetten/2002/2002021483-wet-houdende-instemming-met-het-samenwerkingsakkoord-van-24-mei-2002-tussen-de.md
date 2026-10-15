@@ -12,7 +12,7 @@ entry_into_force: 2002-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/18/2002021483/justel"
 department: "Kanselarij van de Eerste Minister - Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2002. - Wet houdende instemming met het samenwerkingsakkoord van 24 mei 2002 tussen de federale overheid en de gewesten met betrekking tot de oprichting van een Agentschap voor Buitenlandse Handel.

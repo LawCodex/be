@@ -13,7 +13,7 @@ entry_into_force: 2017-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/16/2017201537/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2017. - Décret portant assentiment à la Convention entre la République de Pologne et le Royaume de Belgique tendant à éviter les doubles impositions et à prévenir la fraude et l'évasion en matière d'impôts sur le revenu et sur la fortune, signée à Varsovie le 20 août 2001 et au Protocole, fait à Luxembourg le 14 avril 2014, entre la République de Pologne et le Royaume de Belgique modifiant la Convention entre la République de Pologne et le Royaume de Belgique tendant à éviter les doubles impositions et à prévenir la fraude et l'évasion en matière d'impôts sur le revenu et sur la fortune, signée à Varsovie le 20 août 2001

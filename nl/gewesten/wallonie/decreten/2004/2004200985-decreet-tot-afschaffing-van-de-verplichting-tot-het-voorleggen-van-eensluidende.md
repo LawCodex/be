@@ -13,7 +13,7 @@ entry_into_force: 2004-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/01/2004200985/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2004. - Decreet tot afschaffing van de verplichting tot het voorleggen van eensluidende afschriften van documenten betreffende een aangelegenheid waarvoor de uitoefening van de bevoegdheid krachtens artikel 138 van de Grondwet door de Franse Gemeenschap is overgedragen aan het Waalse Gewest voor de aangelegenheden bedoeld in artikel 128 van de Grondwet (VERTALING).

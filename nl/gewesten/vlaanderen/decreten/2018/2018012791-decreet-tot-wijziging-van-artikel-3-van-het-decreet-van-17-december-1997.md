@@ -13,7 +13,7 @@ entry_into_force: 2018-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/06/08/2018012791/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2018. - Decreet tot wijziging van artikel 3 van het decreet van 17 december 1997 betreffende de rustpensioenen toegekend aan de vastbenoemde en tot de stage toegelaten personeelsleden van de Vlaamse Maatschappij voor Watervoorziening en betreffende de overlevingspensioenen toegekend aan de rechtverkrijgenden van die personeelsleden

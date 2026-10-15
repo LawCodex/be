@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/12/15/2021034342/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 23-12-2021 et mise à jour au 31-03-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2021. - Loi portant des mesures en vue de la hausse des prix de l'énergie en 2021 et confirmant l'arrêté royal du 22 décembre 2020 portant modifications de l'arrêté royal du 24 mars 2003 fixant les modalités de la cotisation fédérale destinée au financement de certaines obligations de service public et des coûts liés à la régulation et au contrôle du marché de l'électricité

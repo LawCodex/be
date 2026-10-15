@@ -12,7 +12,7 @@ published: 1983-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1983/03/30/1983023166/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 1983. - Decreet houdende organisatie van de diensten voor volledige verzorging ten huize.

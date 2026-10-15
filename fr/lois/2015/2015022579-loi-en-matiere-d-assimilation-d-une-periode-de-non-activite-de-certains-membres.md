@@ -12,7 +12,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/18/2015022579/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2015. - Loi en matière d'assimilation d'une période de non-activité de certains membres de la police intégrée pour la condition de carrière pour partir en pension anticipée, en matière de cumul avec une pension du secteur public, en matière de revenu garanti aux personnes âgées, et en matière de pensions du personnel navigant de l'aviation civile

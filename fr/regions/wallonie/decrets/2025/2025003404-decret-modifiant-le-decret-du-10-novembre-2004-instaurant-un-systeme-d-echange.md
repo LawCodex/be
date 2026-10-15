@@ -13,7 +13,7 @@ entry_into_force: 2023-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/04/17/2025003404/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 AVRIL 2025. - Décret modifiant le décret du 10 novembre 2004 instaurant un système d'échange de quotas d'émission de gaz à effet de serre, créant un Fonds wallon Kyoto et relatif aux mécanismes de flexibilité du Protocole de Kyoto, en vue d'introduire un système d'échange de quotas d'émission pour les bâtiments, le transport routier et d'autres secteurs

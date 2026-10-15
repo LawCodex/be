@@ -13,7 +13,7 @@ entry_into_force: 2014-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/28/2014027157/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2014. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Tsjechische Republiek tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend op 6 december 1996, zoals gewijzigd bij het Protocol, ondertekend te Brussel op 15 maart 2010

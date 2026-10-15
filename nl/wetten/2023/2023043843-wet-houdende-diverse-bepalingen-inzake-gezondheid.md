@@ -11,7 +11,7 @@ published: 2023-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/07/11/2023043843/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 2023. - Wet houdende diverse bepalingen inzake gezondheid

@@ -13,7 +13,7 @@ entry_into_force: 2005-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/14/2005027369/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 2005. - Decreet houdende de eerste aanpassing van de uitgavenbegroting van het Waalse Gewest voor het begrotingsjaar 2005. (Vertaling).

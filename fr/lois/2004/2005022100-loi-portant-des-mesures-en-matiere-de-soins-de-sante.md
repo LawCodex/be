@@ -12,7 +12,7 @@ entry_into_force: 2005-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/11/24/2005022100/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 2004. - Loi portant des mesures en matière de soins de santé

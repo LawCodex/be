@@ -13,7 +13,7 @@ entry_into_force: 2016-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/11/25/2016036630/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2016. - Décret portant assentiment à la Convention adoptée à la 21ème Conférence des Parties de la Convention-cadre des Nations Unies sur les changements climatiques, faite à Paris le 12 décembre 2015

@@ -12,7 +12,7 @@ entry_into_force: 2000-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/05/25/2000015097/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2000. - Wet houdende instemming met het Statuut van Rome van het Internationaal Strafgerechtshof, gedaan te Rome, op 17 juli 1998.

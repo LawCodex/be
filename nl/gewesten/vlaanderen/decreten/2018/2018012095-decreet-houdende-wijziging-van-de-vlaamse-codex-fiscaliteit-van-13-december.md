@@ -13,7 +13,7 @@ entry_into_force: 2018-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/18/2018012095/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 2018. - Decreet houdende wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat betreft de hervorming van het verkooprecht en vereenvoudigingen in de registratiebelasting

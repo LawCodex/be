@@ -13,7 +13,7 @@ entry_into_force: 2023-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/03/02/2023030631/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 2023. - Ordonnantie tot wijziging van de ordonnantie van 1 maart 2007 betreffende de bescherming van het leefmilieu tegen de eventuele schadelijke effecten en hinder van niet-ioniserende stralingen, de ordonnantie van 5 juni 1997 betreffende de milieuvergunningen en de ordonnantie van 2 mei 2013 houdende het Brussels Wetboek van Lucht, Klimaat en Energiebeheersing

@@ -13,7 +13,7 @@ entry_into_force: 2019-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/11/14/2019205700/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 2019. - Décret instituant la " Fondation Joseph Denamur "

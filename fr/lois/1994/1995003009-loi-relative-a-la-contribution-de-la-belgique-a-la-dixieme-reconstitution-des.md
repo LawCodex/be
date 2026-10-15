@@ -12,7 +12,7 @@ entry_into_force: 1995-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/23/1995003009/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1994. - Loi relative à la contribution de la Belgique à la dixième reconstitution des ressources de l'Association internationale de Développement.

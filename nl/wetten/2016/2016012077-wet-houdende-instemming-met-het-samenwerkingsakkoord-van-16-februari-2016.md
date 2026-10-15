@@ -12,7 +12,7 @@ entry_into_force: 2016-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/04/01/2016012077/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2016. - Wet houdende instemming met het samenwerkingsakkoord van 16 februari 2016 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken

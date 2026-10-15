@@ -12,7 +12,7 @@ entry_into_force: 2001-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/02/05/2001000274/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 2001. - Wet tot wijziging van de wet van 22 maart 1995 tot instelling van federale ombudsmannen, teneinde de datum te wijzigen waarop het College van de federale ombudsmannen zijn jaarverslag moet indienen

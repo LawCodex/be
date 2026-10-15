@@ -13,7 +13,7 @@ entry_into_force: 1996-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/02/05/1996033048/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 1996. - Decreet houdende goedkeuring van het Verdrag van de Verenigde Naties inzake biologische diversiteit, ondertekend te Rio de Janeiro op 5 juni 1992, en van de bijlagen I en II (VERTALING).

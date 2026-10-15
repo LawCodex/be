@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/11/16/2015205102/justel"
 department: "Sociale Zekerheid"
 justel_note: "Raadpleging van vroegere versies vanaf 26-11-2015 en tekstbijwerking tot 02-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBER 2015. - Wet houdende diverse bepalingen inzake sociale zaken

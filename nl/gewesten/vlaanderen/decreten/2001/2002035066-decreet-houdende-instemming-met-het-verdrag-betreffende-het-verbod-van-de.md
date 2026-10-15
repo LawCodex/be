@@ -13,7 +13,7 @@ entry_into_force: 2002-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/21/2002035066/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2001. - Decreet houdende instemming met het Verdrag betreffende het verbod van de ergste vormen van kinderarbeid en de onmiddellijke actie met het oog op de afschaffing ervan, aangenomen door de Internationale Arbeidsconferentie tijdens haar zevenentachtigste zitting in Genève op 17 juni 1999.

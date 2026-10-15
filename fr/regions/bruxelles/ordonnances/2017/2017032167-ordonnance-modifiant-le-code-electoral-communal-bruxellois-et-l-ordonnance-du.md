@@ -13,7 +13,7 @@ entry_into_force: 2018-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/12/15/2017032167/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2017. - Ordonnance modifiant le Code électoral communal bruxellois et l'ordonnance du 12 juillet 2012 organisant le vote électronique pour les élections communales

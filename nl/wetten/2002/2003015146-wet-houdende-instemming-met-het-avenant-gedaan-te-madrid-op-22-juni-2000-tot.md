@@ -11,7 +11,7 @@ entry_into_force: 2003-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/12/24/2003015146/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2002. - Wet houdende instemming met het Avenant, gedaan te Madrid op 22 juni 2000, tot wijziging van de overeenkomst tussen het Koninkrijk België en het Koninkrijk Spanje tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en van het Protocol, ondertekend te Brussel op 14 juni 1995.HI:??2,Zitting 2001-2002. Senaat. Documenten. Ontwerp van wet ingediend op 4 juni 2002, nr. 2-1192/1. Verslag, nr. 2-1192/2. Parlementaire Handelingen Bespreking, vergadering van 16 juli 2002. Stemming, vergadering van 17 juli 2002. Zitting 2001-2002. Kamer. Documenten. Tekst overgezonden door de Senaat, nr. 50-1981/1. Tekst aangenomen in plenaire vergadering en aan de Koning ter bekrachtiging voorgelegd, nr. 50-1981/2. Parlementaire Handelingen Bespreking, vergadering van 16 oktober 2002. Stemming, vergadering van 17 oktober 2002.

@@ -13,7 +13,7 @@ entry_into_force: 2017-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/07/13/2017030681/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2017. - Ordonnance portant assentiment à : l'Accord multilatéral entre autorités compétentes concernant l'échange automatique de renseignements relatifs aux comptes financiers, signé à Berlin le 29 octobre 2014

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/18/2004200662/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 24-08-2004 et mise à jour au 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2003. - Décret relatif aux établissements d'hébergement touristique.

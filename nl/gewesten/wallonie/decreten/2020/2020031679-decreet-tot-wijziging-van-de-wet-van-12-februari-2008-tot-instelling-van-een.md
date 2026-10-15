@@ -12,7 +12,7 @@ entry_into_force: 2020-12-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/29/2020031679/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 OKTOBER 2020. - Decreet tot wijziging van de wet van 12 februari 2008 tot instelling van een algemeen kader voor de erkenning van EU-beroepskwalificaties

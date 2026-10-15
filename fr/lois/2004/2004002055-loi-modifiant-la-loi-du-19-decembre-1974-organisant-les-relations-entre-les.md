@@ -12,7 +12,7 @@ entry_into_force: 2004-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/05/2004002055/justel"
 department: "Chancellerie du Premier Ministre - Personnel et Organisation"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 2004. - Loi modifiant la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités.

@@ -13,7 +13,7 @@ entry_into_force: 2007-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/15/2007035046/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2006. - Décret modifiant le décret du 14 février 2003 portant soutien et stimulation des politiques communales, intercommunales et provinciales en matière de jeunesse et d'animation des jeunes (TRADUCTION).

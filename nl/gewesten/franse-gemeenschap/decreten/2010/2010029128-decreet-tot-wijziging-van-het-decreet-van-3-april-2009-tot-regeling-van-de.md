@@ -13,7 +13,7 @@ entry_into_force: 2010-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/02/11/2010029128/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 FEBRUARI 2010. - Decreet tot wijziging van het decreet van 3 april 2009 tot regeling van de inschrijvingen van de leerlingen in de eerste graad van het secundair onderwijs

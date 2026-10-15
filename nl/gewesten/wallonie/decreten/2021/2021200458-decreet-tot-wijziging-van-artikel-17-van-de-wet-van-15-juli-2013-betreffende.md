@@ -13,7 +13,7 @@ entry_into_force: 2021-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/01/28/2021200458/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANUARI 2021. - Decreet tot wijziging van artikel 17 van de wet van 15 juli 2013 betreffende het goederenvervoer over de weg en houdende uitvoering van de Verordening (EG) nr. 1071/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels betreffende de voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van richtlijn 96/26/EG van de Raad en houdende uitvoering van de Verordening (EG) nr. 1073/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels voor toegang tot de markt voor internationaal goederenvervoer over de weg en tot wijziging van Verordening (EG) nr. 561/2006

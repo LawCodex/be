@@ -12,7 +12,7 @@ entry_into_force: 2014-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/26/2014015046/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBER 2013. - Wet houdende instemming met het Akkoord tussen het Koninkrijk België en Saint Vincent en de Grenadines inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te Brussel op 7 december 2009

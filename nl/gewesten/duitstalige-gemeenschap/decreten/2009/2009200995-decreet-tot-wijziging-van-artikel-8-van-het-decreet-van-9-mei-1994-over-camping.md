@@ -13,7 +13,7 @@ entry_into_force: 2009-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/02/16/2009200995/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 2009. - Decreet tot wijziging van artikel 8 van het decreet van 9 mei 1994 over camping en kampeerterreinen

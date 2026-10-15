@@ -13,7 +13,7 @@ entry_into_force: 2019-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/05/16/2019012729/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2019. - Ordonnance portant assentiment à : la Convention relative aux droits de l'enfant, adoptée à New York le 20 novembre 1989

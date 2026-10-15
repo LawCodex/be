@@ -12,7 +12,7 @@ entry_into_force: 2011-09-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/07/28/2011204414/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 JUILLET 2011. - Loi modifiant la loi du 4 décembre 2007 réglant les recours judiciaires introduits dans le cadre de la procédure relative aux élections sociales de l'année 2008

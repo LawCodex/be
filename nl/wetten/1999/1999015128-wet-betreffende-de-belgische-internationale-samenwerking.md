@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/25/1999015128/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
 justel_note: "Raadpleging van vroegere versies vanaf 03-01-2001 en tekstbijwerking tot 12-04-2013"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 1999. - Wet betreffende de Belgische internationale samenwerking. -

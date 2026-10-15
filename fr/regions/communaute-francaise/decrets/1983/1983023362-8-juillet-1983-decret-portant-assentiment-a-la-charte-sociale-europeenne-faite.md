@@ -13,7 +13,7 @@ entry_into_force: 1983-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1983/07/08/1983023362/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 1983. \_ Décret portant assentiment à la Charte sociale européenne faite à Turin le 18 octobre 1961.

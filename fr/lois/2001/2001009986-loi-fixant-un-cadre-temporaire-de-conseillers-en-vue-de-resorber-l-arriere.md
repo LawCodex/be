@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/11/29/2001009986/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 08-12-2001 et mise à jour au 16-02-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2001. - Loi fixant un cadre temporaire de conseillers en vue de résorber l'arriéré judiciaire dans les cours d'appel.

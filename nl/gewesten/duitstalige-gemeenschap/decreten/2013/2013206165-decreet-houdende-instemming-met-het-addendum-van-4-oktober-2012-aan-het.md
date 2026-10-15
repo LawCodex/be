@@ -12,7 +12,7 @@ entry_into_force: 2013-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/10/14/2013206165/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 OKTOBER 2013. - Decreet houdende instemming met het addendum van 4 oktober 2012 aan het samenwerkingsakkoord van 30 mei 2005 tussen de Federale Staat, het Vlaams, het Waals en het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de meerwaardeneconomie

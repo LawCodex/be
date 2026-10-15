@@ -13,7 +13,7 @@ entry_into_force: 2023-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/17/2023041281/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2023. - Décret modifiant le décret du 26 avril 2019 sur les maisons de justice et l'aide juridique de première ligne, en ce qui concerne l'indication et le partage d'informations internes

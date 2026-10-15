@@ -12,7 +12,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/04/07/2005003413/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2005. - Wet tot wijziging van artikel 3 van de wet van 10 december 2001 betreffende de definitieve omschakeling op de euro.

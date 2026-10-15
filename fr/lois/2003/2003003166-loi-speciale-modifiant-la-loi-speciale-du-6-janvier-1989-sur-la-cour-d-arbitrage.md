@@ -12,7 +12,7 @@ entry_into_force: 2003-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/09/2003003166/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 2003. - Loi spéciale modifiant la loi spéciale du 6 janvier 1989 sur la Cour d'arbitrage.

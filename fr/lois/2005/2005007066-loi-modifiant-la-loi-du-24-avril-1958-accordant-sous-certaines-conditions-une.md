@@ -12,7 +12,7 @@ entry_into_force: 2005-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/02/23/2005007066/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 FEVRIER 2005. - Loi modifiant la loi du 24 avril 1958 accordant sous certaines conditions, une pension aux veuves qui ont épousé, après le fait dommageable, un bénéficiaire des lois sur les pensions de réparation, créant une rente de combattant et de captivité en faveur des combattants, des prisonniers politiques et des prisonniers de guerre de 1940-1945 et réalisant certains ajustements en matière de rente pour chevrons de front.

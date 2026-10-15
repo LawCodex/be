@@ -12,7 +12,7 @@ entry_into_force: 2000-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/03/01/2000015036/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er MARS 2000. - Loi portant assentiment au Protocole additionnel entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République populaire chinoise, signé à Beijing le 27 novembre 1996, amendant la Convention en vue d'éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et le Protocole, signés à Beijing le 18 avril 1985.

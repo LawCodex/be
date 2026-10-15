@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/05/06/2009202053/justel"
 department: "Chancellerie du Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 19-05-2009 et mise à jour au 22-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2009. - Loi portant des dispositions diverses.

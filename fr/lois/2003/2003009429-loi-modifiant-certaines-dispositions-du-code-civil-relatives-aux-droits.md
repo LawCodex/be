@@ -12,7 +12,7 @@ entry_into_force: 2003-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/22/2003009429/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2003. - Loi modifiant certaines dispositions du Code civil relatives aux droits successoraux du conjoint survivant.

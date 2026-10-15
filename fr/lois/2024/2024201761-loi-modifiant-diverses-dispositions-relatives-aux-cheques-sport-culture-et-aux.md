@@ -12,7 +12,7 @@ entry_into_force: 2024-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/03/29/2024201761/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2024. - Loi modifiant diverses dispositions relatives aux chèques sport/culture et aux primes pouvoir d'achat

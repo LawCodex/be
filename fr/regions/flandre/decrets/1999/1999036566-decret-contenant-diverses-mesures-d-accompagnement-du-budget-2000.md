@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/12/22/1999036566/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1999 et mise à jour au 24-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1999. - Décret contenant diverses mesures d'accompagnement du budget 2000. -

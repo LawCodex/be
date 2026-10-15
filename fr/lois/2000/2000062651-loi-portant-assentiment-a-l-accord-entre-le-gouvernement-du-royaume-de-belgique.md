@@ -12,7 +12,7 @@ entry_into_force: 1997-12-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/06/26/2000062651/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2000. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement du Royaume-Uni de Grande-Bretagne et Irlande du Nord relatif au transport de gaz naturel par canalisation entre le Royaume de Belgique et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, signé à Bruxelles le 10 décembre 1997.

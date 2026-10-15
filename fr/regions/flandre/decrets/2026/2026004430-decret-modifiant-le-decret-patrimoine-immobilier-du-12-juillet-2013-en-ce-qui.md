@@ -13,7 +13,7 @@ entry_into_force: 2027-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/05/2026004430/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 2026. - Décret modifiant le décret Patrimoine immobilier du 12 juillet 2013, en ce qui concerne les subventions aux acteurs et le Prêt patrimonial

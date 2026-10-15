@@ -13,7 +13,7 @@ entry_into_force: 2004-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/12/04/2004200062/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2003. - Décret portant assentiment à l'Accord de coopération entre la Communauté française de Belgique, la Région wallonne et la Commission communautaire française de la Région de Bruxelles-Capitale et la République démocratique du Congo, fait à Bruxelles, le 9 décembre 2002.

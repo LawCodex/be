@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/22/2007201247/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 24-04-2007 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2007. - Décret fiscal favorisant la prévention et la valorisation des déchets en Région wallonne et portant modification du décret du 6 mai 1999 relatif à l'établissement, au recouvrement et au contentieux en matière de taxes régionales directes

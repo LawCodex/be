@@ -11,7 +11,7 @@ published: 2013-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/04/03/2013011190/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2013. - Wet houdende invoeging van boek IV " Bescherming van de mededinging " en van boek V " De mededinging en de prijsevoluties " in het Wetboek van economisch recht en houdende invoeging van de definities eigen aan boek IV en aan boek V en van de rechtshandhavingsbepalingen eigen aan boek IV en aan boek V, in boek I van het Wetboek van economisch recht

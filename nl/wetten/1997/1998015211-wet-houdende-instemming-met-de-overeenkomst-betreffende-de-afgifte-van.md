@@ -12,7 +12,7 @@ entry_into_force: 1998-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/04/03/1998015211/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 1997. - Wet houdende instemming met de Overeenkomst betreffende de afgifte van meertalige uittreksels uit akten van de burgerlijke stand, en Bijlagen, gedaan te Wenen op 8 september 1976, en het Aanvullend Protocol bij de Overeenkomst inzake internationale uitwisseling van gegevens op het gebied van de burgerlijke stand, ondertekend te Istanbul op 4 september 1958, en Bijlage, gedaan te Patras op 6 september 1989.

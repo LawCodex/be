@@ -11,7 +11,7 @@ published: 1913-05-02
 entry_into_force: 1913-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1913/05/01/1913050150/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er MAI 1913. - Loi sur le crédit des petits commer}ants et artisans et sur le intérêts moratoires.

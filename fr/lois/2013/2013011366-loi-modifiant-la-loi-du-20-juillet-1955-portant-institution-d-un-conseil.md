@@ -12,7 +12,7 @@ entry_into_force: 2013-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/12/2013011366/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 2013. - Loi modifiant la loi du 20 juillet 1955 portant institution d'un Conseil national de la Coopération

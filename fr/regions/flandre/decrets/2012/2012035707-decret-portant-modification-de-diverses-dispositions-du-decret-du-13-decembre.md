@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/01/2012035707/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2012. - Décret portant modification de diverses dispositions du décret du 13 décembre 2002 réglant le fonctionnement et la répartition du 'Vlaams Stedenfonds' (Fonds flamand des Villes)

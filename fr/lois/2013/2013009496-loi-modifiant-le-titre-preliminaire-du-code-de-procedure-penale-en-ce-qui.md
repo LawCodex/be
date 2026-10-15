@@ -12,7 +12,7 @@ entry_into_force: 2013-11-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/10/24/2013009496/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 OCTOBRE 2013. - Loi modifiant le titre préliminaire du Code de procédure pénale en ce qui concerne les nullités

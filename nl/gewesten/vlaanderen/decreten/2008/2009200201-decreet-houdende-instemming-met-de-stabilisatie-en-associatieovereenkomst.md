@@ -13,7 +13,7 @@ entry_into_force: 2009-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/12/19/2009200201/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2008. - Decreet houdende instemming met de stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Montenegro, anderzijds, en de Slotakte, ondertekend in Luxemburg op 15 oktober 2007.

@@ -12,7 +12,7 @@ entry_into_force: 2012-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/08/13/2011009623/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AOUT 2011. - Loi réformant la procédure de liquidation-partage judiciaire

@@ -12,7 +12,7 @@ entry_into_force: 2005-02-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/12/22/2005000039/justel"
 department: "Binnenlandse Zaken - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2004. - Wet tot wijziging van de wet van 3 mei 1999 tot regeling van de bevoegdheidsverdeling ingevolge de integratie van de zeevaartpolitie, de luchtvaartpolitie en de spoorwegpolitie in de federale politie.

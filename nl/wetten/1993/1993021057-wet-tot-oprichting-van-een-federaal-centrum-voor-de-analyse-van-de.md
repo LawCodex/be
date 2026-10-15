@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/02/15/1993021057/justel"
 department: "Eerste Minister"
 justel_note: "Raadpleging van vroegere versies vanaf 25-04-1995 en tekstbijwerking tot 05-03-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 1993. - [Wet tot oprichting van een federaal Centrum voor de analyse van de migratiestromen, de bescherming van de grondrechten van de vreemdelingen en de strijd tegen de mensenhandel.] &lt;W 2013-08-17/43 , art. 2, 007; Inwerkingtreding : 15-03-2014&gt;

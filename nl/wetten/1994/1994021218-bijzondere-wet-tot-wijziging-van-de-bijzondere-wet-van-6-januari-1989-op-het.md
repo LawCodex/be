@@ -12,7 +12,7 @@ entry_into_force: 1994-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/06/27/1994021218/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 JUNI 1994. - Bijzondere wet tot wijziging van de bijzondere wet van 6 januari 1989 op het Arbitragehof.

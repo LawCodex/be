@@ -13,7 +13,7 @@ entry_into_force: 2014-06-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/28/2014202523/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 2014. - Decreet houdende wijziging van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging, wat de laatste wilsbeschikking en de begraving of crematie van levenloos geboren kinderen betreft

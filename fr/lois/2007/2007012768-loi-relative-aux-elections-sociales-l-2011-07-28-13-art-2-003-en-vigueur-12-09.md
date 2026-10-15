@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/12/04/2007012768/justel"
 department: "Emploi, Travail et Concertation sociale"
 justel_note: "Consultation des versions antérieures à partir du 07-12-2007 et mise à jour au 30-06-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2007. - Loi relative aux élections sociales [...] &lt;L 2011-07-28/13 , art. 2, 003; En vigueur : 12-09-2011&gt;

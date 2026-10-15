@@ -16,7 +16,7 @@ department: "Kanselarij van de Eerste Minister"
 justel_notes:
   - "art. 32/1 gewijzigd met ingang op een onbepaalde datum bij W 2019-04-07/03 , art. 14, 003; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 14-07-2016 en tekstbijwerking tot 16-02-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUNI 2016. - Wet betreffende de concessieovereenkomsten

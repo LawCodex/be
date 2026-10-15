@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/17/2022020347/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 24-02-2022 et mise à jour au 05-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2022. - Décret modifiant les articles 2, 33bis/1, 34 et 35 du décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité et insérant les articles 33bis/3 et 33bis/4

@@ -11,7 +11,7 @@ published: 1962-04-06
 entry_into_force: 1962-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1962/04/03/1962040301/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 1962. - Wet betreffende het rust- en overlevingspensioen voor arbeiders en bedienden

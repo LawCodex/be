@@ -12,7 +12,7 @@ entry_into_force: 2018-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/09/02/2018040680/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 SEPTEMBER 2018. - Wet tot wijziging van de wet van 16 maart 1968 betreffende de politie over het wegverkeer wat de verbeurdverklaring en immobilisering van voertuigen betreft

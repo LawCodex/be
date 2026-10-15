@@ -12,7 +12,7 @@ entry_into_force: 2013-07-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/06/02/2013011293/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2013. - Loi modifiant la loi du 22 avril 1999 relative aux professions comptables et fiscales

@@ -12,7 +12,7 @@ entry_into_force: 1999-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/17/1999029118/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 1998. - Decreet houdende de eerste aanpassing van de algemene uitgavenbegroting van de Franse Gemeenschap voor het begrotingsjaar 1998 (VERTALING).

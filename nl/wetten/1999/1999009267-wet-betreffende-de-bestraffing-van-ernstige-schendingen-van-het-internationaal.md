@@ -12,7 +12,7 @@ entry_into_force: 1999-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/02/10/1999009267/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 1999. - Wet betreffende de bestraffing van ernstige schendingen van het internationaal humanitair recht.

@@ -13,7 +13,7 @@ entry_into_force: 2016-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/05/06/2016029232/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2016. - Décret modifiant le décret coordonné du 27 décembre 1993 instituant un prix du Conseil de la Communauté française en vue de couronner un ouvrage à l'usage de l'enseignement et de l'éducation permanente, mettant en valeur le patrimoine de la Communauté française

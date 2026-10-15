@@ -12,7 +12,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/12/17/2017206639/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2017. - Wet tot toewijzing van nieuwe inningstaken aan en tot integratie van sommige opdrachten en een deel van het personeel van de Hulp- en Voorzorgskas voor Zeevarenden in de Rijksdienst voor Sociale Zekerheid en de Hulpkas voor Ziekte- en Invaliditeitsverzekering

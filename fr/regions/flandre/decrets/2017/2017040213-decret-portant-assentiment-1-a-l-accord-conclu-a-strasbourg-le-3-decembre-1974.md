@@ -13,7 +13,7 @@ entry_into_force: 2016-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/03/31/2017040213/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2017. - Décret portant assentiment 1° à l'Accord conclu à Strasbourg le 3 décembre 1974 entre le Royaume de Belgique et le Conseil de l'Europe complémentaire à l'Accord général sur les privilèges et immunités du Conseil de l'Europe, signé à Paris le 2 septembre 1949, tel que modifié par le premier Protocole, signé à Strasbourg le 9 décembre 1987 et par le deuxième Protocole, signé à Bruxelles le 15 avril 2016 ; 2° au deuxième Protocole, signé à Bruxelles le 15 avril 2016 modifiant et complétant l'Accord complémentaire visé au 1°

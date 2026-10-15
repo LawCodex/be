@@ -13,7 +13,7 @@ entry_into_force: 2014-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/13/2014027105/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2014. - Decreet houdende instemming met de Luchtvervoersovereenkomst tussen de Europese Gemeenschap en haar lidstaten en Canada, opgemaakt te Brussel op 17 december 2009

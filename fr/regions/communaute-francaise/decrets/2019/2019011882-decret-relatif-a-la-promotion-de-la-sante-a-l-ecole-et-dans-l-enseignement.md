@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/14/2019011882/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 17-04-2019 et mise à jour au 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2019. - Décret relatif à la promotion de la santé à l'école et dans l'enseignement supérieur hors universités

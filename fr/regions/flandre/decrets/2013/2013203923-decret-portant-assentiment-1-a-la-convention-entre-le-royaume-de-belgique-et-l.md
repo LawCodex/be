@@ -13,7 +13,7 @@ entry_into_force: 2013-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/07/2013203923/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 2013. - Décret portant assentiment : 1° à la Convention entre le Royaume de Belgique et l'Etat de Malte tendant à éviter la double imposition et à prévenir l'évasion fiscale, et au Protocole, les deux signés à Bruxelles le 28 juin 1974, tels que modifiés par la Convention additionnelle du 23 juin 1993 et le Protocole du 19 janvier 2010; 2° à la Convention additionnelle modifiant la Convention visée au 1°, signée à Bruxelles le 23 juin 1993; 3° au Protocole, signé à Bruxelles le 19 janvier 2010, modifiant la Convention visée au 1°, telle que modifiée par la Convention additionnelle visée au 2°

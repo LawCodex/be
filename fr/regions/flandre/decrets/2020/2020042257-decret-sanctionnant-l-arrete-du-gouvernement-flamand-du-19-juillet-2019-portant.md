@@ -13,7 +13,7 @@ entry_into_force: 2020-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/03/2020042257/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2020. - Décret sanctionnant l'arrêté du Gouvernement flamand du 19 juillet 2019 portant exécution de l'article 190 du décret du 8 juin 2018 ajustant les décrets au règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données)

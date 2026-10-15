@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/20/2024000604/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 13-02-2024 en tekstbijwerking tot 12-09-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2023. - Programmadecreet houdende diverse bepalingen bij de initiële begroting 2024

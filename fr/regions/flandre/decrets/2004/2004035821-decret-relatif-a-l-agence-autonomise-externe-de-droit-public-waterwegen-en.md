@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/02/2004035821/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-05-2004 et mise à jour au 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2004. - Décret relatif à l'agence autonomisé externe de droit public " Waterwegen en Zeekanaal " (Voies navigables et Canal maritime), société anonyme de droit public (TRADUCTION)

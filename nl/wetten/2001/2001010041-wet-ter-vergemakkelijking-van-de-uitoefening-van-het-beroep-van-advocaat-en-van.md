@@ -12,7 +12,7 @@ entry_into_force: 2001-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/11/22/2001010041/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBER 2001. - Wet ter vergemakkelijking van de uitoefening van het beroep van advocaat en van de vestiging in België van advocaten die onderdaan zijn van een andere lidstaat van de Europese Unie.

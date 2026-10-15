@@ -13,7 +13,7 @@ entry_into_force: 2004-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/19/2004029200/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2004. - Decreet tot instelling van een erkenningsprocedure voor multimediaproducten met erkende pedagogische inslag (VERTALING).

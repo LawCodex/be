@@ -13,7 +13,7 @@ entry_into_force: 1999-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/04/01/1999027352/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er AVRIL 1999. - [Décret organisant la tutelle sur les communes, les provinces, les intercommunales et les zones de police unicommunales et pluricommunales de la Région wallonne] (DRW 2004-02-12/52, art. 1, 002; En vigueur : 29-03-2004)

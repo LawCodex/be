@@ -12,7 +12,7 @@ entry_into_force: 1983-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1983/08/08/1983015247/justel"
 department: "Buitenlandse Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 AUGUSTUS 1983. - Wet houdende goedkeuring van de Overeenkomst tussen de Regering van België en de Regering van Nieuw-Zeeland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, en van het Protocol, ondertekend te Brussel op 15 september 1981.

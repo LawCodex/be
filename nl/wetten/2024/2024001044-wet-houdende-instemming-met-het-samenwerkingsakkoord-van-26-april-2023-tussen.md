@@ -12,7 +12,7 @@ entry_into_force: 2024-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/02/06/2024001044/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2024. - Wet houdende instemming met het samenwerkingsakkoord van 26 april 2023 tussen de Federale Staat, het Waals Gewest, het Vlaams Gewest en het Brussels Hoofdstedelijk Gewest tot oprichting van het centraal fietsregister

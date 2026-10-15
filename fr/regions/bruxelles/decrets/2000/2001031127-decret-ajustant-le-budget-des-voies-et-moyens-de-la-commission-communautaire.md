@@ -13,7 +13,7 @@ entry_into_force: 2000-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/06/23/2001031127/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2000. - Décret ajustant le budget des Voies et Moyens de la Commission communautaire française pour l'année budgétaire 2000.

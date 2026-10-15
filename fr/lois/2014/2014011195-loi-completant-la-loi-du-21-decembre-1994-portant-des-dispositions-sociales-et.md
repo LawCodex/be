@@ -12,7 +12,7 @@ entry_into_force: 2014-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/03/14/2014011195/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2014. - Loi complétant la loi du 21 décembre 1994 portant des dispositions sociales et diverses par une série d'indicateurs complémentaires en vue de mesurer la qualité de vie, le développement humain, le progrès social et la durabilité de notre économie

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/05/04/2023042228/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 23-05-2023 et mise à jour au 11-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2023. - Loi portant insertion du livre XIX "Dettes du consommateur" dans le Code de droit économique

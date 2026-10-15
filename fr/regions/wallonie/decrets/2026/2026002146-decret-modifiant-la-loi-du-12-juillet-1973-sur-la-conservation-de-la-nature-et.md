@@ -13,7 +13,7 @@ entry_into_force: 2026-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/02/26/2026002146/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2026. - Décret modifiant la loi du 12 juillet 1973 sur la conservation de la nature et le Livre 1er du Code de l'Environnement

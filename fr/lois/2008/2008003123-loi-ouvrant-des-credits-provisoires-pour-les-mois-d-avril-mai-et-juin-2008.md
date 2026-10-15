@@ -12,7 +12,7 @@ entry_into_force: 2008-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/04/07/2008003123/justel"
 department: "Budget et Contrôle de la gestion"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2008. - Loi ouvrant des crédits provisoires pour les mois d'avril, mai et juin 2008.

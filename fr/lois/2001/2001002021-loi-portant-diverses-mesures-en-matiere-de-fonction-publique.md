@@ -12,7 +12,7 @@ entry_into_force: 2001-01-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/03/26/2001002021/justel"
 department: "Fonction publique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2001. - Loi portant diverses mesures en matière de fonction publique.

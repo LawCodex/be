@@ -10,7 +10,7 @@ date: 2004-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/07/04/2004022663/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2004. - Wet tot wijziging van artikel 42 van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren.

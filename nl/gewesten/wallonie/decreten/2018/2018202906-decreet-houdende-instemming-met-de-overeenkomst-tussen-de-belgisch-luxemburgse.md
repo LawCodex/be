@@ -13,7 +13,7 @@ entry_into_force: 2018-06-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/24/2018202906/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 2018. - Decreet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en het Sultanaat Oman, anderzijds, inzake de bevordering en de wederzijdse bescherming van investeringen, gedaan te Muscat, op 16 december 2008

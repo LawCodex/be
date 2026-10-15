@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/12/10/2020044279/justel"
 department: "Commission communautaire commune"
 justel_note: "Consultation des versions antérieures à partir du 16-12-2020 et mise à jour au 20-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2020. - Ordonnance relative à l'allocation pour l'aide aux personnes âgées

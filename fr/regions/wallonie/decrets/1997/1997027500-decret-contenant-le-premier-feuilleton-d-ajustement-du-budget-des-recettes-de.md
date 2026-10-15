@@ -13,7 +13,7 @@ entry_into_force: 1997-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/18/1997027500/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 1997. - Décret contenant le premier feuilleton d'ajustement du budget des recettes de la Région wallonne pour l'année budgétaire 1997.

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/05/09/2014035694/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 07-07-2014 et mise à jour au 29-07-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2014. - Décret modifiant la réglementation relative à la nature et aux forêts

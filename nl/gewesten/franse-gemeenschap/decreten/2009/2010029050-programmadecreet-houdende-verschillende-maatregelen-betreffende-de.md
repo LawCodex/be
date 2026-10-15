@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/12/17/2010029050/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 12-02-2010 en tekstbijwerking tot 14-08-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2009. - Programmadecreet houdende verschillende maatregelen betreffende de onderwijsinrichtingen, de internaten, de psycho-medisch-sociale centra, de vermindering van het aantal opdrachthouders ten laste van de begroting van de Franse Gemeenschap, de schoolgebouwen, de opleiding tijdens de loopbaan, het wachtgeld in geval van een gedeeltelijk opdrachtverlies, de herfinanciering van de universiteiten en de Hogescholen, het statuut van de personeelsleden van de universiteiten, de dotaties en subsidies aan sommige instellingen die een beheersovereenkomst hebben aangegaan, de audiovisuele mediadiensten, de toekenning van subsidies aan de plaatselijke overheden voor culturele infrastructuurprojecten, de voorwaarden voor de subsidiëring van de tewerkstelling in de socioculturele sectoren en de erkenning en de subsidiëring van de musea en andere museale instellingen

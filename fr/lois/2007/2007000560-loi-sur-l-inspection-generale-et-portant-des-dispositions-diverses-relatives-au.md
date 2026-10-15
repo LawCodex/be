@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/15/2007000560/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 15-06-2007 et mise à jour au 29-04-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2007. - Loi sur l'Inspection générale et portant des dispositions diverses relatives au statut de certains membres des services de police

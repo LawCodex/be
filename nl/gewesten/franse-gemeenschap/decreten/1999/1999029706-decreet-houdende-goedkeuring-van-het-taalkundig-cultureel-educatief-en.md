@@ -13,7 +13,7 @@ entry_into_force: 1999-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/12/09/1999029706/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 1999. - Decreet houdende goedkeuring van het taalkundig, cultureel, educatief en wetenschappelijk samenwerkingsakkoord tussen de Franse Gemeenschapsregering van België en de Regering van de Franse Republiek (VERTALING).

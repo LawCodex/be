@@ -13,7 +13,7 @@ entry_into_force: 2005-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/10/26/2005029256/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 OCTOBRE 2005. - Décret modifiant le décret du 27 mars 2002 relatif aux maîtres de religion et professeurs de religion.

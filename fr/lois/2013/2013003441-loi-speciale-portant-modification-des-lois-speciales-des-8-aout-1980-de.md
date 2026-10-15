@@ -12,7 +12,7 @@ entry_into_force: 2014-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/26/2013003441/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 DECEMBRE 2013. - Loi spéciale portant modification des lois spéciales des 8 août 1980 de réformes institutionnelles et 16 janvier 1989 relative au financement des communautés et des régions et abrogation de la loi du 27 décembre 1994 portant assentiment de l'Accord relatif à la perception d'un droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds, signé à Bruxelles le 9 février 1994, entre les gouvernements de la République fédérale d'Allemagne, du Royaume de Belgique, du Royaume du Danemark, du grand-duché de Luxembourg et du Royaume des Pays-Bas et instaurant une Eurovignette, conformément à la directive 93/89/CEE du Conseil des Communautés européennes du 25 octobre 1993, ensuite de l'introduction du prélèvement kilométrique

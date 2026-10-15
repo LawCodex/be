@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/14/2019201183/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 23-10-2023 en tekstbijwerking tot 09-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEBRUARI 2019. - Decreet betreffende de subsidies ter bevordering van de indienstneming van niet-werkende werkzoekenden bij sommige ondernemingen

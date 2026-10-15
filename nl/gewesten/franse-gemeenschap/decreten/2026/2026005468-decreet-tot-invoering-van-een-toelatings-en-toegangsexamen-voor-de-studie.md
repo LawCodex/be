@@ -12,7 +12,7 @@ published: 2026-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/09/2026005468/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2026. - Decreet tot invoering van een toelatings- en toegangsexamen voor de studie diergeneeskunde van de eerste cyclus en tot opheffing van het decreet van 13 juli 2016 betreffende de studie diergeneeskunde

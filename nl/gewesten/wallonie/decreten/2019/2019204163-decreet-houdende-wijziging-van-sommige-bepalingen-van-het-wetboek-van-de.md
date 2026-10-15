@@ -11,7 +11,7 @@ date: 2019-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019204163/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet houdende wijziging van sommige bepalingen van het Wetboek van de plaatselijke democratie en de decentralisatie betreffende de gewestelijke ontvangers

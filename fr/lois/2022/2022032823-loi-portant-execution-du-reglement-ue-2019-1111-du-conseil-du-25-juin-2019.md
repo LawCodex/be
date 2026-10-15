@@ -12,7 +12,7 @@ entry_into_force: 2022-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/20/2022032823/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2022. - Loi portant exécution du règlement (UE) 2019/1111 du Conseil du 25 juin 2019 relatif à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale, ainsi qu'à l'enlèvement international d'enfants (refonte)

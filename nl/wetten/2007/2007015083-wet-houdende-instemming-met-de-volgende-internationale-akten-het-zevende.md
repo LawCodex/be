@@ -10,7 +10,7 @@ date: 2007-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/08/2007015083/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2007. - Wet houdende instemming met de volgende Internationale Akten : het Zevende Protocol ter aanvulling van de Stichtingsakte van de Wereldpostvereniging; het Algemeen Reglement van de Wereldpostvereniging; de Wereldpostconventie en het Slotprotocol, en de Overeenkomst betreffende de uitbetalingsdiensten van De Post, gedaan te Boekarest op 5 oktober 2004.

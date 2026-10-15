@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/05/04/2005029176/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 24-08-2005 en tekstbijwerking tot 30-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2005. - Decreet houdende uitvoering van het Akkoordprotocol van 7 april 2004 tussen de Regering van de Franse Gemeenschap en de representatieve vakverenigingen binnen het Onderhandelingscomité van Sector IX en van het Comité voor de provinciale en plaatselijke overheidsdiensten - afdeling II.

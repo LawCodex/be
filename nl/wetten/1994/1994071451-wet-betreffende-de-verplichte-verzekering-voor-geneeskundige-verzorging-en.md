@@ -23,7 +23,7 @@ justel_notes:
   - "art. 2, 32, 37, 37quinquies,56, 118 et 121 gewijzigd met ingang op een onbepaalde datum bij W 2022-11-29/01 , art. 4-10; Inwerkingtreding : onbepaald "
   - "ED W 2023-12-20/01 voor de gerechtigden wier periode van primaire ongeschiktheid bedoeld in artikel 87 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994 vóór 1 januari 2024 is aangevat: 01-07-2024"
   - "Raadpleging van vroegere versies vanaf 31-08-1994 en tekstbijwerking tot 07-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JULI 1994. - Wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen gecoördineerd op 14 juli 1994. DEEL 1. : TEKST.

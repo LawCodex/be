@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/11/25/2012035065/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 23-02-2012 et mise à jour au 23-07-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 NOVEMBRE 2011. - Décret relatif au droit à l'inscription

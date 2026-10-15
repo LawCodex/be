@@ -13,7 +13,7 @@ entry_into_force: 2023-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/03/17/2023041391/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2023. - Décret modifiant le Code de l'Enseignement supérieur du 11 octobre 2013 et le décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes, en ce qui concerne le Conseil de règlement des différends en matière de décisions sur la progression des études et le statut juridique des juges administratifs

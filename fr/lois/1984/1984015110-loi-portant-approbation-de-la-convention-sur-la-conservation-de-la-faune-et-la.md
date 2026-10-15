@@ -12,7 +12,7 @@ entry_into_force: 1984-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/01/17/1984015110/justel"
 department: "Affaires étrangères"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANVIER 1984. - Loi portant approbation de la Convention sur la conservation de la faune et la flore marines de l'Antarctique, et de l'Annexe, faites à Canberra le 20 mai 1980.

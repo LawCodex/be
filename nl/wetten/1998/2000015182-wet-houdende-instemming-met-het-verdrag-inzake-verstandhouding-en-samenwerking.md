@@ -12,7 +12,7 @@ entry_into_force: 2001-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/08/31/2000015182/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 AUGUSTUS 1998. - Wet houdende instemming met het verdrag inzake verstandhouding en samenwerking tussen het Koninkrijk België, de Vlaamse Gemeenschap van België, de Franse Gemeenschap van België, de Duitstalige Gemeenschap van België, het Vlaamse Gewest van België, het Waalse Gewest van België, het Brussels Hoofdstedelijk Gewest van België en Oekraïne, ondertekend te Brussel op 23 april 1997.

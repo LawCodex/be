@@ -12,7 +12,7 @@ entry_into_force: 2004-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/12/22/2003021247/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2003. - Loi portant des dispositions diverses.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/11/21/2017014203/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 07-12-2017 et mise à jour au 24-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2017. - Loi relative aux infrastructures des marchés d'instruments financiers et portant transposition de la Directive 2014/65/UE

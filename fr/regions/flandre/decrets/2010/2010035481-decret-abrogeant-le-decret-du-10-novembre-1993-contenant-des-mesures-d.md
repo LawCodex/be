@@ -13,7 +13,7 @@ entry_into_force: 2010-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/06/11/2010035481/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JUIN 2010. - Décret abrogeant le décret du 10 novembre 1993 contenant des mesures d'amélioration de la qualité des services offerts par les agents matrimoniaux et relationnels

@@ -12,7 +12,7 @@ entry_into_force: 2018-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/02/18/2018011046/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 FEBRUARI 2018. - Wet houdende diverse bepalingen met betrekking tot de sociale bijdragen van de zelfstandigen

@@ -10,7 +10,7 @@ date: 1973-03-28
 published: 1973-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1973/03/28/1973032801/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAART 1973. \_ Wet tot verhoging van de werknemerspensioenen en tot invoering van een mechanisme waardoor het bedrag van de pensioenen wordt aangepast aan de evolutie van het algemeen welzijn.

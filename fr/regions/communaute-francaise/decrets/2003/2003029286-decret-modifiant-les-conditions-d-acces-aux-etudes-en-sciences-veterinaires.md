@@ -13,7 +13,7 @@ entry_into_force: 2003-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/05/08/2003029286/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2003. - Décret modifiant les conditions d'accès aux études en sciences vétérinaires dans le décret du 5 décembre 1994 relatif au régime des études universitaires et des grades académiques et la loi du 27 juillet 1971 sur le financement et la contrôle des institutions universitaires.

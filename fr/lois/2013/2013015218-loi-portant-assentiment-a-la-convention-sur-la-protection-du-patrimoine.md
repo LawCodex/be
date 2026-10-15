@@ -12,7 +12,7 @@ entry_into_force: 2013-11-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/06/2013015218/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2013. - Loi portant assentiment à la Convention sur la protection du patrimoine culturel subaquatique, adoptée à Paris le 2 novembre 2001

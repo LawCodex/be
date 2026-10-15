@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/06/24/2022015232/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 15-07-2022 et mise à jour au 28-12-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2022. - Décret portant diverses dispositions relatives aux secteurs politiques de la protection sociale flamande, de la prévention sanitaire, des hôpitaux généraux et des soins de santé et résidentiels

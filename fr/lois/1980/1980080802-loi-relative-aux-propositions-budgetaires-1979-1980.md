@@ -13,7 +13,7 @@ last_amended: 2025-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1980/08/08/1980080802/justel"
 justel_note: "Consultation des versions antérieures à partir du 22-05-1984 et mise à jour au 26-05-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 AOUT 1980. - Loi relative aux propositions budgétaires 1979-1980.

@@ -10,7 +10,7 @@ date: 1969-08-20
 entry_into_force: 1969-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1969/08/20/1969082013/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AUGUSTUS 1969. - Wet houdende goedkeuring van het Enkelvoudig Verdrag inzake verdovende middelen, en van de bijlagen, opgemaakt te New York op 30 maart 1961.

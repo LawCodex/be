@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/18/2024005083/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 07-06-2024 et mise à jour au 21-11-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 AVRIL 2024. - Décret portant réforme de la gouvernance de l'Office de la Naissance et de l'Enfance

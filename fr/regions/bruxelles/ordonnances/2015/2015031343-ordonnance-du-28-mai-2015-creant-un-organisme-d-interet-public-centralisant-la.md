@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/05/28/2015031343/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 10-06-2015 et mise à jour au 30-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MAI 2015. - [Ordonnance du 28 mai 2015 créant un organisme d'intérêt public centralisant la gestion de la politique de prévention et de sécurité en Région de Bruxelles-Capitale] &lt;ORD 2024-05-16/11 , art. 2, 005; En vigueur : 09-06-2024&gt; &lt;ORD 2019-04-04/37 , art. 2, 003; En vigueur : 10-05-2019&gt;

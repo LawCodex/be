@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/12/03/2017031916/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 10-01-2018 et mise à jour au 02-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2017. - Loi portant création de l'Autorité de protection des données

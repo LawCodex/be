@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/25/2019041236/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 24-06-2019 en tekstbijwerking tot 30-08-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2019. - Decreet tot beëindiging van het uitdovingskader bedoeld bij artikel 469 van het decreet van 20 december 2001 tot vaststelling van de regels die specifiek zijn voor het hoger kunstonderwijs georganiseerd in de hogere kunstscholen (organisatie, financiering, omkadering, statuut van het personeel, rechten en plichten van studenten) en tot aanvulling van het statuut van studiegebiedsdirecteur

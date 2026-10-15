@@ -12,7 +12,7 @@ entry_into_force: 2025-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/04/06/2025003128/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 APRIL 2025. - Wet betreffende het tijdelijke uitstel van de registratie in de Federal Learning Account

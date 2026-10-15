@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/07/07/2022015412/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 19-08-2022 et mise à jour au 24-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2022. - Décret implémentant la Mosa Ballet School et instituant un dispositif expérimental de formation artistique en danse au premier degré commun et aux deuxième et troisième degrés de l'enseignement secondaire général de transition

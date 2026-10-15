@@ -13,7 +13,7 @@ entry_into_force: 2014-04-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/13/2014027105/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2014. - Décret portant assentiment à l'Accord sur le transport aérien entre la Communauté européenne et ses Etats membres et le Canada, fait à Bruxelles le 17 décembre 2009

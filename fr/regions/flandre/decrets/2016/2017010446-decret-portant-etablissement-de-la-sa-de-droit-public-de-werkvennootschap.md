@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/23/2017010446/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 07-02-2017 et mise à jour au 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 2016. - Décret portant établissement de la sa de droit public " De Werkvennootschap "

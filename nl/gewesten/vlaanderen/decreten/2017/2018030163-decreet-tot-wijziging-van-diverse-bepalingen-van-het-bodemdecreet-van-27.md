@@ -13,7 +13,7 @@ entry_into_force: 2018-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/12/08/2018030163/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2017. - Decreet tot wijziging van diverse bepalingen van het Bodemdecreet van 27 oktober 2006 en artikel 38 van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, en tot opheffing van diverse bepalingen van het VLAREBO-besluit van 14 december 2007

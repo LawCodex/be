@@ -13,7 +13,7 @@ entry_into_force: 2019-09-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019203885/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret modifiant le décret du 30 mars 1995 relatif à la publicité de l'Administration et le Code de la démocratie locale et de la décentralisation en vue de renforcer le rôle de la Commission d'accès aux documents administratifs (CADA) de la Région wallonne

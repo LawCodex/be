@@ -16,7 +16,7 @@ department: "Communauté flamande"
 justel_notes:
   - "également désigné comme décret sur le gaz naturel; voir art. 54"
   - "Consultation des versions antérieures à partir du 19-09-2002 et mise à jour au 07-07-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2001. - Décret relatif à l'organisation du marché du gaz. (TRADUCTION)

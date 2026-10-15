@@ -11,7 +11,7 @@ published: 1951-03-29
 entry_into_force: 1951-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1951/03/09/1951030950/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 1951. - Wetten betreffende het jaarlijks verlof der loonarbeiders, samengeordend de 9 Maart 1951.

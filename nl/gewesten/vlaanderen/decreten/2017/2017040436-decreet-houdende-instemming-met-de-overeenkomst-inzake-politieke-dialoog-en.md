@@ -13,7 +13,7 @@ entry_into_force: 2017-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/07/07/2017040436/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2017. - Decreet houdende instemming met de overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Republiek Cuba, anderzijds, ondertekend te Brussel op 12 december 2016

@@ -12,7 +12,7 @@ entry_into_force: 2007-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/11/2007023067/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2007. - Wet houdende wijziging van diverse bepalingen betreffende arbeidsongevallen, beroepsziekten en het asbestfonds met betrekking tot wettelijk samenwonenden.

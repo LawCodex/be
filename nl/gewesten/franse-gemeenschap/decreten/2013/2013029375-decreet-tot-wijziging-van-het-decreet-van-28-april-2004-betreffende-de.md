@@ -12,7 +12,7 @@ published: 2013-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/05/23/2013029375/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2013. - Decreet tot wijziging van het decreet van 28 april 2004 betreffende de erkenning en de subsidiëring van huiswerkinstituten

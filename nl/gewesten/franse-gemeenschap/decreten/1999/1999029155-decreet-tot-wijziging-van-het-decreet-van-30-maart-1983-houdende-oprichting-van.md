@@ -13,7 +13,7 @@ entry_into_force: 1999-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/08/1999029155/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 FEBRUARI 1999. - Decreet tot wijziging van het decreet van 30 maart 1983 houdende oprichting van de " Office de la Naissance et de l'Enfance ", zoals gewijzigd bij de decreten van 22 december 1983, 12 maart 1990, 26 juni 1992 en 6 april 1998 (VERTALING).

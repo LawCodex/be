@@ -12,7 +12,7 @@ entry_into_force: 2013-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/04/23/2013009197/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AVRIL 2013. - Loi supprimant la fonction de dépositaire central des protêts confiée à la Banque Nationale de Belgique

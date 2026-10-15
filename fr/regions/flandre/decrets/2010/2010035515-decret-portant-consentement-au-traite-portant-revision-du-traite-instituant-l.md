@@ -13,7 +13,7 @@ entry_into_force: 2010-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/07/02/2010035515/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2010. - Décret portant consentement au Traité portant révision du Traité instituant l'Union économique Benelux, conclu le 3 février 1958, au Protocole relatif aux privilèges et immunités de l'Union Benelux et à la Déclaration, signée à 's-Gravenhage le 17 juin 2008

@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/27/2023047576/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2023. - Décret modifiant le Décret portant organisation des élections locales et provinciales du 8 juillet 2011, le décret du 25 mai 2012 relatif à l'organisation d'élections numériques et le décret du 22 décembre 2017 sur l'administration locale

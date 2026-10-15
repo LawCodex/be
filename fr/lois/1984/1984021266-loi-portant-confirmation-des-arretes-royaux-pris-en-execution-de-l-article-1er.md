@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/12/06/1984021266/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 27-03-1991 et mise à jour au 01-09-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 1984. - Loi portant confirmation des arrêtés royaux pris en exécution de l'article 1er, 3° à 10°, de la loi du 6 juillet 1983 attribuant certains pouvoirs spéciaux au Roi

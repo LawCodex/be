@@ -12,7 +12,7 @@ entry_into_force: 1995-09-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/07/1995022273/justel"
 department: "Prévoyance Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 1995. - Loi insérant un article 93bis dans la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994.

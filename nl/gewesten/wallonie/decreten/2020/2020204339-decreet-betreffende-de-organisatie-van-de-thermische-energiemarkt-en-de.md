@@ -12,7 +12,7 @@ published: 2020-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/15/2020204339/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 OKTOBER 2020. - Decreet betreffende de organisatie van de thermische-energiemarkt en de thermische-energienetten

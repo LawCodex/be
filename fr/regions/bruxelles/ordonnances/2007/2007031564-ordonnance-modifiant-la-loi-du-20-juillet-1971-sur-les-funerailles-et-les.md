@@ -13,7 +13,7 @@ entry_into_force: 2008-01-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2007/12/13/2007031564/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 DECEMBRE 2007. - Ordonnance modifiant la loi du 20 juillet 1971 sur les funérailles et les sépultures en vue d'un traitement digne des restes des foetus nés sans vie.

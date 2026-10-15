@@ -13,7 +13,7 @@ entry_into_force: 1985-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1985/05/02/1985024407/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 1985. - Decreet betreffende de pensioenregeling van de personeelsleden van sommige gemeenschapsinstellingen.

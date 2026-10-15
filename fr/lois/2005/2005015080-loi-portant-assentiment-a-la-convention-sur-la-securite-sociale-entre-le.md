@@ -12,7 +12,7 @@ entry_into_force: 2005-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/05/22/2005015080/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAI 2005. - Loi portant assentiment à la Convention sur la sécurité sociale entre le Royaume de Belgique et la République des Philippines, signée à Manille le 7 décembre 2001.

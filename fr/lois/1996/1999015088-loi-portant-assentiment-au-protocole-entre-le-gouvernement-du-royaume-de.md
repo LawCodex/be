@@ -12,7 +12,7 @@ entry_into_force: 1999-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/08/04/1999015088/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1996. - Loi portant assentiment au Protocole entre le gouvernement du Royaume de Belgique et le gouvernement de la République française relatif aux allocations de naissance, signé à Bruxelles, le 26 avril 1993

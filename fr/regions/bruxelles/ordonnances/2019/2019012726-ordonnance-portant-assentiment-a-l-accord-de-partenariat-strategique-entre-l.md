@@ -13,7 +13,7 @@ entry_into_force: 2019-06-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/05/16/2019012726/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2019. - Ordonnance portant assentiment à : l'Accord de partenariat stratégique entre l'Union européenne et ses Etats membres, d'une part, et le Japon, d'autre part, fait à Tokyo le 17 juillet 2018

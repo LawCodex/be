@@ -12,7 +12,7 @@ entry_into_force: 2000-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/12/14/2000003719/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2000. - Loi contenant le deuxième ajustement du budget des Voies et Moyens de l'année budgétaire 2000.

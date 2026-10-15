@@ -17,7 +17,7 @@ department: "Communauté flamande"
 justel_notes:
   - "Consultations des versions antérieures à partir du 01-06-1996 et mise à jour au 09-02-2007"
   - "Consultation des versions antérieures à partir du 01-06-1996 et mise à jour au 03-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 AVRIL 1996. - Décret relatif aux retenues d'eau (TRADUCTION).

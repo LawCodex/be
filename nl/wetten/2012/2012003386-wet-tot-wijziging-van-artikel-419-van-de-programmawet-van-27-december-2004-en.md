@@ -12,7 +12,7 @@ entry_into_force: 2013-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/12/24/2012003386/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2012. - Wet tot wijziging van artikel 419 van de programmawet van 27 december 2004 en van artikel 4 van de wet van 10 juni 2006 betreffende de biobrandstoffen

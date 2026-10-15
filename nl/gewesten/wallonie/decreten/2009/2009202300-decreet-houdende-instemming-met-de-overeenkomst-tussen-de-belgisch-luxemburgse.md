@@ -13,7 +13,7 @@ entry_into_force: 2009-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/30/2009202300/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 APRIL 2009. - Decreet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van de Republiek Korea inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel, op 12 december 2006

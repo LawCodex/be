@@ -12,7 +12,7 @@ entry_into_force: 2025-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/07/02/2025005303/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JULI 2025. - Wet tot wijziging van de wet van 2 mei 2019 betreffende de bij de Kamer van volksvertegenwoordigers ingediende verzoekschriften teneinde een maximumtermijn voor het verzamelen van handtekeningen in te voeren

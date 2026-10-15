@@ -12,7 +12,7 @@ entry_into_force: 1997-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1997/01/24/1997000114/justel"
 department: "Intérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 1997. - Loi modifiant la loi du 19 juillet 1991 relative aux registres de la population et aux cartes d'identité et modifiant la loi du 8 août 1983 organisant un Registre national des personnes physiques, en vue d'imposer l'inscription aux registres de la population des personnes n'ayant pas de résidence en Belgique.

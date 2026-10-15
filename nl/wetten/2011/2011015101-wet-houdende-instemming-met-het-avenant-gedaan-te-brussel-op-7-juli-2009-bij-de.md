@@ -12,7 +12,7 @@ entry_into_force: 2013-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/08/19/2011015101/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AUGUSTUS 2011. - Wet houdende instemming met het Avenant, gedaan te Brussel op 7 juli 2009, bij de Overeenkomst tussen België en Frankrijk tot voorkoming van dubbele belasting en tot regeling van wederzijdse administratieve en juridische bijstand inzake inkomstenbelastingen, ondertekend te Brussel op 10 maart 1964 en gewijzigd door de Avenanten van 15 februari 1971 en 8 februari 1999, en houdende aanpassing van de Belgische belastingwetgeving aan sommige bepalingen van eerstgenoemd Avenant

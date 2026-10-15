@@ -12,7 +12,7 @@ entry_into_force: 2009-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/07/24/2009035857/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 2009. - Decreet houdende wijziging van artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer

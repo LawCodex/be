@@ -13,7 +13,7 @@ entry_into_force: 2004-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/27/2004201577/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2004. - Décret portant assentiment à la Convention du 4 avril 2003 entre l'Etat, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale visant à mettre en oeuvre le programme du réseau express régional de, vers, dans et autour de Bruxelles.

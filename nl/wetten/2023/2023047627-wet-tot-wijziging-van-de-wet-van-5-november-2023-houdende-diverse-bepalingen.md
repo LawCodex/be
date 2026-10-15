@@ -12,7 +12,7 @@ entry_into_force: 2023-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/11/21/2023047627/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBER 2023. - Wet tot wijziging van de wet van 5 november 2023 houdende diverse bepalingen inzake economie

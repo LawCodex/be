@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/04/18/1994033052/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 18-04-1996 en tekstbijwerking tot 09-11-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 1994. - Decreet tot vaststelling van het bedrag van de werkingstoelagen voor het gesubsidieerd onderwijs. &lt;Vertaling&gt; (NOTA 1 : Opgeheven wat betreft het gewoon basisonderwijs bij DDG 1999-04-26/67, art. 83, § 2, 2°; Inwerkingtreding : 20-08-1999)

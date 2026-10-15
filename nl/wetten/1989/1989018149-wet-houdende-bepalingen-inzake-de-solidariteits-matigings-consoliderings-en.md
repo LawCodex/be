@@ -12,7 +12,7 @@ entry_into_force: 1982-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/12/14/1989018149/justel"
 department: "Middenstand"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 1989. - Wet houdende bepalingen inzake de solidariteits-, matigings-, consoliderings- en bijzondere bijdragen ten laste van de zelfstandigen, alsmede inzake de vermindering van de kinderbijslag voor zelfstandigen.

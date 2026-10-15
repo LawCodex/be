@@ -13,7 +13,7 @@ entry_into_force: 2008-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/03/05/2008200842/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 2008. - Decreet tot wijziging van het decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt (VERTALING).

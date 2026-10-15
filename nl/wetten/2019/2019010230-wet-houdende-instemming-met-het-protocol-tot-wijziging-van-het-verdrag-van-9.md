@@ -12,7 +12,7 @@ entry_into_force: 2019-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/01/06/2019010230/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JANUARI 2019. - Wet houdende instemming met het Protocol tot wijziging van het Verdrag van 9 februari 1994 inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens overeenkomstig Richtlijn 2011/76/EU van het Europees Parlement en de Raad van 27 september 2011 tot wijziging van Richtlijn 1999/62/EG betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen, gedaan te Brussel op 6 december 2017

@@ -10,7 +10,7 @@ date: 1994-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/06/30/1994009714/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1994. - Wet tot aanvulling van de artikelen 52quater en 53, derde lid, van de wet van 8 april 1965 betreffende de jeugdbescherming, gewijzigd bij de wet van 2 februari 1994 en tot invoeging van een artikel 100bis in dezelfde wet.

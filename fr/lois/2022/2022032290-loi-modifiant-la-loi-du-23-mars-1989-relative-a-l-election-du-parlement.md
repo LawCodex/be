@@ -12,7 +12,7 @@ entry_into_force: 2023-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/01/2022032290/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2022. - Loi modifiant la loi du 23 mars 1989 relative à l'élection du Parlement européen en vue d'offrir aux citoyens la faculté de voter dès l'âge de 16 ans

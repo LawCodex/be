@@ -13,7 +13,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019015072/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret modifiant le Code des droits de succession et le Code des droits d'enregistrement, d'hypothèque et de greffe en vue de soutenir la réforme du bail à ferme

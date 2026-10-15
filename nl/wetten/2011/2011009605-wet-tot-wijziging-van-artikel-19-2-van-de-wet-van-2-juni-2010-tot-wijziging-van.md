@@ -11,7 +11,7 @@ published: 2011-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/08/13/2011009605/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AUGUSTUS 2011. - Wet tot wijziging van artikel 19, § 2, van de wet van 2 juni 2010 tot wijziging van het Burgerlijk Wetboek teneinde de werking van de mede-eigendom te moderniseren en transparanter te maken

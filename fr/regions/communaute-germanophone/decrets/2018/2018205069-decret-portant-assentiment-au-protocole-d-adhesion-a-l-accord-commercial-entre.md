@@ -13,7 +13,7 @@ entry_into_force: 2018-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/09/17/2018205069/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBRE 2018. - Décret portant assentiment au protocole d'adhésion à l'Accord commercial entre l'Union européenne et ses Etats membres, d'une part, et la Colombie et le Pérou, d'autre part, en vue de tenir compte de l'adhésion de l'Equateur, signé à Bruxelles le 11 novembre 2016

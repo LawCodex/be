@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/12/2004029216/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 21-03-2007 et mise à jour au 03-04-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Décret portant diverses mesures de lutte contre le décrochage scolaire, l'exclusion et la violence à l'école [...]. &lt;DCFR 2006-12-15/97 , art. 2, 002; En vigueur : 01-12-2006&gt;

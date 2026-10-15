@@ -13,7 +13,7 @@ entry_into_force: 2020-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/11/27/2020044363/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2020. - Decreet tot wijziging van het decreet van 19 mei 2006 betreffende de Winwinlening, wat betreft het Vriendenaandeel

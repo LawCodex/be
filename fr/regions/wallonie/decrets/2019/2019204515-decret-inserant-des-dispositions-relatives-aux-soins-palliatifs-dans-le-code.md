@@ -13,7 +13,7 @@ entry_into_force: 2019-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019204515/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret insérant des dispositions relatives aux soins palliatifs dans le Code wallon de l'Action sociale et de la Santé

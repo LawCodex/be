@@ -12,7 +12,7 @@ entry_into_force: 1993-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/07/05/1993029396/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 1993. - DECREET houdende goedkeuring van de Overeenkomst betreffende de Europese Economische Ruimte, met inbegrip van de protocollen, de bijlagen, de schikkingen en de verklaringen van de overeenkomstsluitende partijen, opgemaakt in Porto op 2 mei 1992

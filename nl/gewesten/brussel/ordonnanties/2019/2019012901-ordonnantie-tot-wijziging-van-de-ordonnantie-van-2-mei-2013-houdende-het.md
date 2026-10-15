@@ -12,7 +12,7 @@ published: 2019-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/05/16/2019012901/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2019. - Ordonnantie tot wijziging van de Ordonnantie van 2 mei 2013 houdende het Brussels Wetboek van Lucht, Klimaat en Energiebeheersing om vervuiling door stilstaande voertuigen met draaiende motor te verminderen

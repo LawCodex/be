@@ -11,7 +11,7 @@ published: 2002-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/07/18/2002012842/justel"
 department: "Tewerkstelling en Arbeid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2002. - Wet tot waarborging van een gelijke vertegenwoordiging van mannen en vrouwen op de kandidatenlijsten van de kandidaturen voor de verkiezingen van de federale Wetgevende Kamers en van de Raad van de Duitstalige Gemeenschap.

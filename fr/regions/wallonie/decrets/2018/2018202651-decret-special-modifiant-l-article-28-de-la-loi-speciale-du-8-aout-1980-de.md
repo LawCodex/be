@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/11/2018202651/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 28-05-2018 et mise à jour au 02-01-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 2018. - Décret spécial modifiant l'article 28 de la loi spéciale du 8 août 1980 de réformes institutionnelles en vue d'instaurer l'obligation d'alterner systématiquement le genre des candidats sur les listes pour l'élection des membres du Parlement wallon

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/01/2013009534/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 10-12-2013 en tekstbijwerking tot 25-04-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBER 2013. - Wet tot hervorming van de gerechtelijke arrondissementen en tot wijziging van het Gerechtelijk Wetboek met het oog op een grotere mobiliteit van de leden van de rechterlijke orde

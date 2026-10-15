@@ -12,7 +12,7 @@ entry_into_force: 2016-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/11/21/2016003397/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 2016. - Loi relatif au statut et au contrôle des sociétés de bourse en ce qui concerne certaines procédures de recours accélérées auprès du Conseil d'Etat

@@ -13,7 +13,7 @@ entry_into_force: 2013-11-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/28/2013204125/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2013. - Décret modifiant les articles 7bis et 12 de la loi du 27 décembre 1994 portant assentiment de l'Accord relatif à la perception d'un droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds, signé à Bruxelles le 9 février 1994 entre les Gouvernements du Royaume de Belgique, du Royaume du Danemark, de la République fédérale d'Allemagne, du grand-duché de Luxembourg et du Royaume des Pays-Bas et instaurant une euro-vignette, conformément à la Directive 93/89/CEE du Conseil des Communautés européennes du 25 octobre 1993

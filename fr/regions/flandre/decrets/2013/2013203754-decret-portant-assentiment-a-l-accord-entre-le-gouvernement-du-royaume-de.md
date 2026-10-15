@@ -13,7 +13,7 @@ entry_into_force: 2013-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/06/07/2013203754/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 2013. - Décret portant assentiment à l'accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de Montserrat autorisé par le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord en vue de l'échange de renseignements en matière fiscale, signé à Londres le 16 février 2010

@@ -13,7 +13,7 @@ entry_into_force: 2012-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/26/2012202677/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2012. - Decreet houdende instemming met de Overeenkomst, ondertekend te Brussel op 16 oktober 1969, tussen België en Denemarken tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en het vermogen, zoals gewijzigd bij het Protocol, ondertekend te Kopenhagen op 27 september 1999 en het Protocol, ondertekend te Brussel op 7 juli 2009

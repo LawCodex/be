@@ -13,7 +13,7 @@ entry_into_force: 2002-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/01/2002035443/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er MARS 2002. - Décret portant assentiment à la Convention n° 174 concernant la prévention des accidents industriels majeurs, adoptée à Genève le 22 juin 1993, par l'assemblée générale de l'Organisation internationale du Travail (TRADUCTION).

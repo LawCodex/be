@@ -13,7 +13,7 @@ entry_into_force: 2019-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/03/2019014130/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2019. - Décret modifiant le décret du 1er février 2008 réglant l'organisation et le fonctionnement des instances chargées de la coordination et de la gestion des fonds structurels que l'union européenne met à la disposition de l'enseignement secondaire en alternance, de l'enseignement secondaire technique et professionnel de plein exercice, de l'enseignement secondaire spécialisé, de l'enseignement de promotion sociale et de l'enseignement supérieur

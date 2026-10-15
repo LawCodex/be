@@ -12,7 +12,7 @@ entry_into_force: 2023-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/03/20/2023202226/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MAART 2023. - Wet tot wijziging van de wet van 26 december 2013 betreffende de invoering van een eenheidsstatuut tussen arbeiders en bedienden inzake de opzeggingstermijnen en de carenzdag en begeleidende maatregelen voor wat de aanpassing van de wettelijke maximale opzeggingstermijnen in het geval van opzegging door de werknemer betreft

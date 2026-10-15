@@ -12,7 +12,7 @@ entry_into_force: 2004-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/07/2004015165/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2004. - Loi portant assentiment à la Convention entre le Royaume de Belgique et la République d'Albanie tendant à éviter la double imposition en matière d'impôts sur le revenu et sur la fortune et à prévenir l'évasion fiscale, signée à Bruxelles le 14 novembre 2002.

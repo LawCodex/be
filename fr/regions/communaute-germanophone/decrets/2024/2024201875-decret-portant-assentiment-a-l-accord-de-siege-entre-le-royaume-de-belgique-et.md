@@ -13,7 +13,7 @@ entry_into_force: 2024-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/25/2024201875/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2024. - Décret portant assentiment à l'Accord de siège entre le Royaume de Belgique et l'Autorité intergouvernementale pour le Développement, fait à Bruxelles le 16 février 2022

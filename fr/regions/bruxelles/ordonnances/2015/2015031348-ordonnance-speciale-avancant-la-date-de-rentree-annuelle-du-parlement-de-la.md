@@ -13,7 +13,7 @@ entry_into_force: 2015-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/06/04/2015031348/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUIN 2015. - Ordonnance spéciale avançant la date de rentrée annuelle du Parlement de la Région de Bruxelles-Capitale

@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/12/28/1990021309/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieur à partir du 31-12-1992 et mis à jour au 11-05-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBRE 1990. - Loi relative à diverses dispositions fiscales et non fiscales.

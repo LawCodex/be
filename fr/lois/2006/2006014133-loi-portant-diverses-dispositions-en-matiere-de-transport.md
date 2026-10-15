@@ -12,7 +12,7 @@ entry_into_force: 2006-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/15/2006014133/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAI 2006. - Loi portant diverses dispositions en matière de transport.

@@ -12,7 +12,7 @@ entry_into_force: 1986-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1986/03/27/1986021035/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 1986. - Wet tot toekenning van bepaalde bijzondere machten aan de Koning.

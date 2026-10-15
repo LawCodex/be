@@ -13,7 +13,7 @@ entry_into_force: 2000-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/05/05/2000035491/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2000. - Décret portant assentiment à l'accord de coopération conclu entre la Communauté flamande et la Région flamande et la République de Slovénie, signé à Ljubljana le 3 septembre 1998 (TRADUCTION).

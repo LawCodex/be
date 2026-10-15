@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/03/19/2004035613/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 29-04-2004 en tekstbijwerking tot 17-07-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAART 2004. - Decreet tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid " Toerisme Vlaanderen "

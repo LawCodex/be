@@ -13,7 +13,7 @@ entry_into_force: 2001-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/07/13/2001035936/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JUILLET 2001. - Décret portant approbation du traité entre le Royaume des Pays-Bas et la Communauté flamande de la Belgique relatif à la " transnationale Universiteit Limburg " (université transnationale Limburg), signé à Maastricht, le 18 janvier 2001 (TRADUCTION).

@@ -13,7 +13,7 @@ entry_into_force: 2014-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/27/2014202318/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Decreet houdende wijziging van sommige bepalingen van het Wetboek van de plaatselijke democratie en de decentralisatie en tot verbetering van de sociale dialoog

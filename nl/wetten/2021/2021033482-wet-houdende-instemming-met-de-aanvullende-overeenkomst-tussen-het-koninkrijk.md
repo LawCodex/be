@@ -11,7 +11,7 @@ entry_into_force: 2017-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/09/19/2021033482/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBER 2021. - Wet houdende instemming met de Aanvullende Overeenkomst tussen het Koninkrijk België en het Europees Ruimteagentschap bij het Verdrag tot oprichting van een Europees Ruimteagentschap van 30 mei 1975, over de voorrechten en immuniteiten van het Europees Ruimteagentschap in België, gedaan te Brussel op 24 mei 2017

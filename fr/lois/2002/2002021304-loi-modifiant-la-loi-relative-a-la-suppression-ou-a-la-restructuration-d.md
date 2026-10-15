@@ -12,7 +12,7 @@ entry_into_force: 2002-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/08/02/2002021304/justel"
 department: "Chancellerie et Services généraux"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 AOUT 2002. - Loi modifiant la loi relative à la suppression ou à la restructuration d'organismes d'intérêt public et d'autres services de l'Etat, coordonnée le 13 mars 1991.

@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/07/13/2018040510/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2018. - Decreet houdende wijziging van bijlage 2 bij de Vlaamse Codex Fiscaliteit van 13 december 2013, wat de kilometerheffing betreft

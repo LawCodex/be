@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/12/21/1994036607/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-12-1994 et mise à jour au 09-02-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 1994. - Décret portant ratification de l'arrêté du Gouvernement flamand du 16 novembre 1994 relatif à la désignation définitive des zones de dunes protégées et des zones agricoles ayant une importance pour les dunes et portant modification de la loi du 12 juillet 1973 relative à la conservation de la nature. (Traduction)

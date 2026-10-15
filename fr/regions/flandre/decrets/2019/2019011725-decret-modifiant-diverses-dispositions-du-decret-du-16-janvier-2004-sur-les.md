@@ -13,7 +13,7 @@ entry_into_force: 2019-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/29/2019011725/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2019. - Décret modifiant diverses dispositions du décret du 16 janvier 2004 sur les funérailles et sépultures

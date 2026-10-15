@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/22/2003003277/justel"
 department: "Finances - Justice"
 justel_note: "Consultation des versions antérieures à partir du 08-05-2003 et mise à jour au 29-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2003. - Loi octroyant la qualité d'officier de police judiciaire à certains agents de l'Administration des douanes et accises

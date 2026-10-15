@@ -12,7 +12,7 @@ entry_into_force: 2006-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/01/2006009558/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1er JUILLET 2006. - Loi modifiant la loi du 29 mars 2004 concernant la coopération avec la Cour pénale internationale et les tribunaux pénaux internationaux, et insérant dans cette loi un nouveau Titre V concernant le Tribunal Spécial pour la Sierra Leone.

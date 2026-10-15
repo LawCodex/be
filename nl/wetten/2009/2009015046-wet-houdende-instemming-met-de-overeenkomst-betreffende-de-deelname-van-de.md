@@ -12,7 +12,7 @@ entry_into_force: 2012-02-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/02/10/2009015046/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2009. - Wet houdende instemming met de Overeenkomst betreffende de deelname van de Republiek Bulgarije en Roemenië aan de Europese Economische Ruimte, en met de Slotakte, gedaan te Brussel op 25 juli 2007

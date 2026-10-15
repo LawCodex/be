@@ -10,7 +10,7 @@ date: 2005-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/04/26/2005015067/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2005. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en Bosnië-Herzegovina, anderzijds, inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Sarajevo op 3 maart 2004

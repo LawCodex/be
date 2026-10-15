@@ -13,7 +13,7 @@ entry_into_force: 2016-01-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/03/2016031021/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2015. - Decreet houdende instemming met het samenwerkingsakkoord van 15 juli 2014 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest, het Brussels Hoofdstedelijk Gewest, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie van Brussel-Hoofdstad en de Franse Gemeenschapscommissie betreffende de werkingsmodaliteiten van het Interfederaal Instituut voor de Statistiek, van de Raad van bestuur en van de wetenschappelijke Comités van het Instituut voor de Nationale Rekeningen

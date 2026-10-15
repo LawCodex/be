@@ -12,7 +12,7 @@ entry_into_force: 2014-12-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/08/19/2011015102/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 AOUT 2011. - Loi portant assentiment au Second Protocole, fait à Paris le 24 juin 2009, modifiant la Convention entre le Royaume de Belgique et l'Australie tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Canberra le 13 octobre 1977, telle que modifiée par le Protocole signé à Canberra le 20 mars 1984, et adaptant la législation fiscale belge à certaines dispositions dudit Second Protocole

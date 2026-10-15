@@ -13,7 +13,7 @@ entry_into_force: 2019-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/25/2019013219/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2019. - Décret portant assentiment à l'Accord de coopération entre la Communauté française et la Région wallonne relatif à la reconnaissance des sociétés mutualistes régionales wallonnes, de la Caisse Auxiliaire Assurance Maladie-Invalidité et de la Caisse des soins de santé de HR-rail en qualité d'organismes assureurs wallons pour le compte de la Communauté française

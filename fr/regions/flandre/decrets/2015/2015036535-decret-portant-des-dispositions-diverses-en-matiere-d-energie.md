@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/11/27/2015036535/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 10-12-2015 et mise à jour au 29-12-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2015. - Décret portant des dispositions diverses en matière d'énergie

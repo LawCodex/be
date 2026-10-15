@@ -13,7 +13,7 @@ entry_into_force: 1999-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/12/15/1999035643/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 1998. - Décret portant approbation de l'accord de coopération du 7 avril l998 entre l'Etat et la Communauté flamande en matière d'assistance aux victimes (TRADUCTION).

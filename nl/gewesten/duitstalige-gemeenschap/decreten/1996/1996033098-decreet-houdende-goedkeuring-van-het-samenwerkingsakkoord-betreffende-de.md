@@ -11,7 +11,7 @@ date: 1996-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/06/25/1996033098/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 1996. - Decreet houdende goedkeuring van het samenwerkingsakkoord betreffende de tenlasteneming van de kosten van de opname en van de sociale en professionele integratie van personen met een handicap (VERTALING).

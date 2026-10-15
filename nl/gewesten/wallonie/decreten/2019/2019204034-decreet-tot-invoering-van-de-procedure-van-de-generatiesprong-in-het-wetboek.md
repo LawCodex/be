@@ -11,7 +11,7 @@ date: 2019-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/06/2019204034/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2019. - Decreet tot invoering van de procedure van de "generatiesprong" in het Wetboek van registratie-, hypotheek- en griffierechten

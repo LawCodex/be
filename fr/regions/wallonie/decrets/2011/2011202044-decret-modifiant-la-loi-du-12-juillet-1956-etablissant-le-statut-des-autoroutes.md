@@ -13,7 +13,7 @@ entry_into_force: 2011-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/04/07/2011202044/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2011. - Décret modifiant la loi du 12 juillet 1956 établissant le statut des autoroutes en ce qui concerne les amendes administratives et la perception immédiate

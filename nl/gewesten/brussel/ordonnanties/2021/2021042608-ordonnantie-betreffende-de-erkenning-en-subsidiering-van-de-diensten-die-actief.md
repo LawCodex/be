@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/07/22/2021042608/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
 justel_note: "Raadpleging van vroegere versies vanaf 10-08-2021 en tekstbijwerking tot 11-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 2021. - Ordonnantie betreffende de erkenning en subsidiëring van de diensten die actief zijn op het vlak van de beperking van de aan druggebruik verbonden risico's

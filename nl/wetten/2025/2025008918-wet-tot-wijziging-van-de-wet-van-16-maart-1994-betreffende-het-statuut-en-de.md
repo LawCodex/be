@@ -12,7 +12,7 @@ entry_into_force: 2026-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/11/20/2025008918/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 2025. - Wet tot wijziging van de wet van 16 maart 1994 betreffende het statuut en de bezoldiging van het onderwijzend personeel van de Koninklijke Militaire School

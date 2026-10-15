@@ -12,7 +12,7 @@ entry_into_force: 2000-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/04/16/2000009441/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 APRIL 2000. - Wet tot wijziging van artikel 232 van het Burgerlijk Wetboek en van de artikelen 1270bis, 1309 en 1310 van het Gerechtelijk Wetboek met betrekking tot echtscheiding op grond van feitelijke scheiding.

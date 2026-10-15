@@ -13,7 +13,7 @@ entry_into_force: 2023-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/09/28/2023045799/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBER 2023. - Ordonnantie houdende goedkeuring van de algemene rekening en eindregeling van de begroting van de Haven van Brussel voor het jaar 2020

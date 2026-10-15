@@ -17,7 +17,7 @@ department: "Communauté germanophone"
 justel_notes:
   - "Consultation des versions antérieur à partir du 01-01-1990 et mise à jour au 15-06-2009"
   - "Consultation des versions antérieures à partir du 19-05-1990 et mise à jour au 12-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 1986. - Décret relatif au Centre belge pour la Radiodiffusion-Télévision de la Communauté germanophone. &lt;Traduction&gt;

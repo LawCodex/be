@@ -13,7 +13,7 @@ entry_into_force: 2013-08-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/05/2013035658/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JULI 2013. - Decreet houdende instemming met de overeenkomst tussen het Koninkrijk België en de Verenigde Staten van Amerika inzake de rechtspositie van een personeelscategorie van de Strijdkrachten van de Verenigde Staten, ondertekend te Brussel op 13 juli 2012

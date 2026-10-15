@@ -13,7 +13,7 @@ last_amended: 2010-11-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1933/08/14/1933081450/justel"
 justel_note: "Consultation des versions antérieures à partir du 23-07-2002 et mise à jour au 18-11-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 AOUT 1933. - Loi concernant la protection des eaux de boisson. -

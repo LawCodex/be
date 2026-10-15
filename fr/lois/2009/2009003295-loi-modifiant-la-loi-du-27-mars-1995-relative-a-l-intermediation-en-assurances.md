@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/07/31/2009003295/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 08-09-2009 et mise à jour au 30-04-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2009. - Loi modifiant la loi du 27 mars 1995 relative à l'intermédiation en assurances et en réassurances et à la distribution d'assurances et de la loi du 22 mars 2006 relative à l'intermédiation en services bancaires et en services d'investissement et à la distribution d'instruments financiers

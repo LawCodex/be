@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/12/12/1990030521/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 27-11-1991 et mise à jour au 14-01-2008"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 1990. - Décret relatif à la politique administrative.

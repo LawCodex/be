@@ -12,7 +12,7 @@ entry_into_force: 2005-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/06/01/2005011251/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2005. - Wet tot wijziging van de wet van 12 april 1965 betreffende het vervoer van gasachtige producten en andere door middel van leidingen.

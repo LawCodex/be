@@ -12,7 +12,7 @@ entry_into_force: 2021-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/07/20/2021031985/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2021. - Loi portant extension du champ d'application de la loi du 24 décembre 2020 relative au travail associatif

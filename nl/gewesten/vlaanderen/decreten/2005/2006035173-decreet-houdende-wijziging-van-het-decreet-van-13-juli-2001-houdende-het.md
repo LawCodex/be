@@ -13,7 +13,7 @@ entry_into_force: 2006-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/23/2006035173/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2005. - Decreet houdende wijziging van het decreet van 13 juli 2001 houdende het stimuleren van een kwalitatief en integraal lokaal cultuurbeleid.

@@ -12,7 +12,7 @@ entry_into_force: 2024-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/18/2024005082/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2024. - Loi modifiant la loi relative à l'exercice des professions des soins de santé, coordonnée le 10 mai 2015, afin d'y insérer la réforme de l'art infirmier et d'y supprimer les Commissions techniques de l'art infirmier et des professions paramédicales et d'y adapter les missions des Conseils fédéraux de l'art infirmier et des professions paramédicales

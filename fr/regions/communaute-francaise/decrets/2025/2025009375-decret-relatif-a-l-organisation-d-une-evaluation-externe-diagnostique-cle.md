@@ -13,7 +13,7 @@ entry_into_force: 2025-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/04/2025009375/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2025. - Décret relatif à l'organisation d'une évaluation externe diagnostique "clé"

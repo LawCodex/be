@@ -13,7 +13,7 @@ entry_into_force: 2013-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/07/2013203749/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2013. - DECREET houdende instemming met : 1° de overeenkomst tussen het Koninkrijk België en de Helleense Republiek tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Athene op 25 mei 2004, zoals gewijzigd door het protocol van 16 maart 2010; 2° het protocol tot wijziging van de overeenkomst, vermeld onder 1°, ondertekend te Brussel op 16 maart 2010

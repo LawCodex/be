@@ -13,7 +13,7 @@ entry_into_force: 1991-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/03/04/1991029179/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MAART 1991. - Decreet houdende goedkeuring van het samenwerkingsakkoord betreffende het gezamenlijk uitoefenen van bevoegdheden door de Franse Gemeenschap en het Waalse Gewest, gesloten te Namen op 17 november 1990.

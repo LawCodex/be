@@ -13,7 +13,7 @@ entry_into_force: 2020-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/11/20/2020044061/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 2020. - Decreet tot instemming met de wijziging van het Verdrag van 9 september 1996 inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart (CDNI), aangenomen op 22 juni 2017 door de Conferentie van Verdragsluitende Partijen, alsmede van zijn bijlage 2 en van de bij bijlage 2 horende aanhangsels I tot en met V

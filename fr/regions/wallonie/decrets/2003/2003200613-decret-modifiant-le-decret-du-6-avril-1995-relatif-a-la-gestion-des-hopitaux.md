@@ -12,7 +12,7 @@ published: 2003-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/03/13/2003200613/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2003. - Décret modifiant le décret du 6 avril 1995 relatif à la gestion des hôpitaux psychiatriques de la Région wallonne.

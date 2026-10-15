@@ -13,7 +13,7 @@ entry_into_force: 1994-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/12/06/1994029646/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 1993. - Décret portant approbation de l'accord de coopération portant création d'un Comité consultatif de bioéthique, conclu à Bruxelles le 15 janvier 1993 entre l'Etat, la Communauté flamande, la Communauté française, la Communauté germanophone et la Commission communautaire commune.

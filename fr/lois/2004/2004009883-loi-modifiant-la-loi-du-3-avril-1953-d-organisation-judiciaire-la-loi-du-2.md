@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/12/14/2004009883/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 31-12-2004 et mise à jour au 16-02-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2004. - Loi modifiant la loi du 3 avril 1953 d'organisation judiciaire, la loi du 2 juillet 1975 déterminant le cadre du personnel des tribunaux de première instance et l'article 211 du Code judiciaire.

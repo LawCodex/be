@@ -12,7 +12,7 @@ entry_into_force: 2005-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/06/10/2014015218/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUIN 2014. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et l'Organisation des Nations Unies pour l'Education, la Science et la Culture sur l'établissement en Belgique d'un Bureau des projets du programme " International Oceanographic Data and Information Exchange ", fait à Paris le 18 juillet 2005

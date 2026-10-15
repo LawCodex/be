@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/03/09/1999003156/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 02-04-1999 et mise à jour au 27-04-2007"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 1999. - Loi tendant à assurer la transposition de la Directive 95/26/CE du Parlement européen et du Conseil du 29 juin 1995 relative aux institutions financières.

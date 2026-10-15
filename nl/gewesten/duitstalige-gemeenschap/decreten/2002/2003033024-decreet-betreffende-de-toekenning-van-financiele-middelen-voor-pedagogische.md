@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/16/2003033024/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 04-06-2003 en tekstbijwerking tot 09-11-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2002. - Decreet betreffende de toekenning van financiële middelen voor pedagogische doeleinden in het onderwijs (VERTALING).

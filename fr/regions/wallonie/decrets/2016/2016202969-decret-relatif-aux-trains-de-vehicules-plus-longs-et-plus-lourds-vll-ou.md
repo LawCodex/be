@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/05/26/2016202969/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 09-06-2016 et mise à jour au 13-08-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAI 2016. - Décret relatif aux trains de véhicules plus longs et plus lourds (VLL ou écocombis) dans le cadre de projets-pilotes

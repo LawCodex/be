@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1979/07/30/1979073002/justel"
 department: "Binnenlandse Zaken"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-1989 en tekstbijwerking tot 25-09-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 1979. - Wet betreffende de preventie van brand en ontploffing en betreffende de verplichte verzekering van de burgerrechtelijke aansprakelijkheid in dergelijke gevallen.

@@ -12,7 +12,7 @@ entry_into_force: 2022-09-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/20/2022041792/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2022. - Loi concernant la modification de la loi du 31 décembre 1851 sur les loteries en vue de légaliser les tombolas et loteries locales

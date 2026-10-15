@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/07/06/2011022262/justel"
 department: "Sécurité sociale"
 justel_note: "par son arrêt n° 70/2013 du 22-05-2013 (M.B. 01-08-2013, p. 47996-47999), la Cour constitutionnelle a annulé la présente loi"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2011. - Loi interdisant la publicité et réglementant l'information relatives aux actes d'esthétique médicale.

@@ -12,7 +12,7 @@ entry_into_force: 2007-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/21/2007015075/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2007. - Loi portant assentiment à l'Accord bilatéral d'assistance administrative mutuelle en matière douanière entre le Gouvernement du Royaume de Belgique et le Cabinet des Ministres de l'Ukraine, signé à Bruxelles le 1er juillet 2002.

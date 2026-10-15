@@ -12,7 +12,7 @@ entry_into_force: 2017-10-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/09/07/2017204927/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 SEPTEMBER 2017. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en Montenegro inzake het verrichten van betaalde werkzaamheden door bepaalde gezinsleden van het diplomatiek en consulair personeel, gedaan te Brussel op 9 juni 2010

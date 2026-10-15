@@ -12,7 +12,7 @@ entry_into_force: 2024-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/21/2024005226/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2024. - Loi modifiant le Code des sociétés et des associations en vue d'instaurer un droit d'opposition de droit commun en faveur des associés de la société simple, de la société en nom collectif et de la société en commandite

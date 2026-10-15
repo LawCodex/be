@@ -12,7 +12,7 @@ entry_into_force: 2008-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/06/08/2008202061/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2008. - Wet houdende opheffing van het verval van sommige wetsontwerpen die een aangelegenheid regelen als bedoeld in artikel 78 van de Grondwet.

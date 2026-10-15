@@ -9,7 +9,7 @@ language: nl
 date: 1976-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/07/09/1976070913/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 1976. - Wet tot wijziging van artikel 4 van de wet van 23 juni 1960 waarbij de Belgische Naamloze Vennootschap tot Exploitatie van het Luchtverkeer (Sabena) de machtiging verleend wordt haar statuten te wijzigen.

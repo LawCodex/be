@@ -11,7 +11,7 @@ date: 1997-10-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/10/21/1997036367/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OKTOBER 1997. - Decreet houdende afschaffing van het goedkeuringstoezicht op de beslissingen van de intercommunale verenigingen inzake de informatisering van hun diensten.

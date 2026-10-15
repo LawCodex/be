@@ -13,7 +13,7 @@ entry_into_force: 2021-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/07/16/2021032159/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JULI 2021. - Decreet tot aanpassing van het decreet van 22 december 2017 over het lokaal bestuur, wat de delegatie van de bevoegdheid voor het ondertekenen van authentieke akten over onroerende verrichtingen betreft

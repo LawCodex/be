@@ -13,7 +13,7 @@ entry_into_force: 2017-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/23/2017010445/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2016. - Decreet tot wijziging van regelgeving over de taalexamenregeling van het personeel, de studiegebieden en de programmatieprocedure voor het secundair volwassenenonderwijs, de programmatie van opleidingen van het hoger beroepsonderwijs, een benoemingsstop voor het hoger beroepsonderwijs en de specifieke lerarenopleiding in de centra voor volwassenenonderwijs en bepaalde aspecten van alternerende opleidingen

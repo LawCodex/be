@@ -12,7 +12,7 @@ entry_into_force: 2010-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/11/30/2009015148/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 2009. - Wet houdende instemming met de Overeenkomst tussen de Europese Unie en de Verenigde Staten van Amerika inzake de verwerking en overdracht van persoonsgegevens van passagiers (PNR-gegevens) door luchtvaartmaatschappijen aan het Ministerie van Binnenlandse Veiligheid van de Verenigde Staten van Amerika (PNR-Overeenkomst 2007), gedaan te Brussel op 23 juli 2007 en te Washington op 26 juli 2007

@@ -13,7 +13,7 @@ entry_into_force: 1998-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/22/1998029257/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1997. - Décret portant assentiment à l'Accord-cadre de coopération destiné à préparer, comme objectif final, une association à caractère politique et économique entre la Communauté européenne et ses Etats membres, d'une part, et la République du Chili, d'autre part, et à l'annexe, faits à Florence le 21 juin 1996.

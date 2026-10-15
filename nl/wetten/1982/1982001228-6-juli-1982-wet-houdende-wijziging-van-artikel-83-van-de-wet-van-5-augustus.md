@@ -12,7 +12,7 @@ entry_into_force: 1982-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1982/07/06/1982001228/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 1982. \_ Wet houdende wijziging van artikel 83 van de wet van 5 augustus 1978 houdende economische en budgettaire hervormingen.

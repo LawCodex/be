@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/09/2017012934/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUNI 2017. - Decreet houdende instemming met het protocol betreffende de conventie over gedwongen arbeid van 1930, aangenomen door de Internationale Arbeidsconferentie tijdens haar honderdenderde zitting in Genève op 11 juni 2014

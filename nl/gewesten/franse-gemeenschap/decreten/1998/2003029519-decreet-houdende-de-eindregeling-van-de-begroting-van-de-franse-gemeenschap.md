@@ -11,7 +11,7 @@ date: 1998-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/12/07/2003029519/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 1998. - Decreet houdende de eindregeling van de begroting van de Franse Gemeenschap voor het begrotingsjaar 1981 (VERTALING).

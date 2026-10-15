@@ -12,7 +12,7 @@ entry_into_force: 2026-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/05/25/2026003826/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2026. - Loi modifiant la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges, en ce qui concerne la modernisation de la gestion du personnel des Chemins de fer belges (I)

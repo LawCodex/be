@@ -12,7 +12,7 @@ entry_into_force: 2011-11-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/10/06/2011011376/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 OCTOBRE 2011. - Loi modifiant la loi du 15 mai 2007 relative à la reconnaissance et à la protection de la profession d'expert en automobiles et créant un institut des experts en automobiles

@@ -12,7 +12,7 @@ entry_into_force: 2016-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/12/18/2015009848/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2015. - Wet tot wijziging van de wet van 19 oktober 2015 houdende wijziging van het burgerlijk procesrecht en houdende diverse bepalingen inzake justitie met betrekking tot het statuut van spoedeisende zaken ingeschreven op de rol van de familierechtbank

@@ -11,7 +11,7 @@ date: 2017-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/11/10/2017040793/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2017. - Decreet houdende instemming met het samenwerkingsakkoord van 28 maart 2017 tussen de Vlaamse Gemeenschap, het Vlaamse Gewest en de Duitstalige Gemeenschap betreffende de bevordering van de algemene samenwerking

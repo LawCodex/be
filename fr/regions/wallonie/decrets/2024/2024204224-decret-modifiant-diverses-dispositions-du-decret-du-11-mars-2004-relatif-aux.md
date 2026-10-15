@@ -13,7 +13,7 @@ entry_into_force: 2025-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/25/2024204224/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2024. - Décret modifiant diverses dispositions du décret du 11 mars 2004 relatif aux incitants régionaux en faveur des petites ou moyennes entreprises ainsi que du décret du 11 mars 2004 relatif aux incitants régionaux en faveur des grandes entreprises en matière de primes à l'investissement

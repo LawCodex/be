@@ -12,7 +12,7 @@ entry_into_force: 2011-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/07/30/2010011373/justel"
 department: "Duurzame Ontwikkeling"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2010. - Wet tot invoering van een duurzame ontwikkelingseffectbeoordeling in de wet van 5 mei 1997 betreffende de coördinatie van het federale beleid inzake duurzame ontwikkeling

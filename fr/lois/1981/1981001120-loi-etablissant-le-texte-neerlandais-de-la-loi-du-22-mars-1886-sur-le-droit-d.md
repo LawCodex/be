@@ -12,7 +12,7 @@ entry_into_force: 1981-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1981/06/26/1981001120/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 1981. - Loi établissant le texte néerlandais de la loi du 22 mars 1886 sur le droit d'auteur.

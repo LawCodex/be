@@ -12,7 +12,7 @@ entry_into_force: 1999-04-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/11/1999011117/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 1999. - Loi modifiant la loi du 27 mars 1995 relative à l'intermédiation en assurances et à la distribution d'assurances.

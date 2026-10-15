@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/11/2003011326/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 15-07-2003 et mise à jour au 22-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 2003. - [Loi sur la contribution de répartition.] &lt;L 2022-07-12/09 , art. 24, 017; En vigueur : 01-08-2022&gt;

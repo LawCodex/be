@@ -11,7 +11,7 @@ date: 2025-09-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/09/04/2025006664/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBER 2025. - Decreet tot bekrachtiging van de beslissing tot overname door het Waals Gewest van de dienst van de belasting inzake successierechten en registratierechten zoals bedoeld in de punten 4°, 6°, 7° en 8° van artikel 3, eerste lid, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten

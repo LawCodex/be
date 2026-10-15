@@ -12,7 +12,7 @@ entry_into_force: 1995-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/13/1995009483/justel"
 department: "Justice - Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 1995. - Loi modifiant l'article 29bis et abrogeant l'article 29ter de la loi du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs.

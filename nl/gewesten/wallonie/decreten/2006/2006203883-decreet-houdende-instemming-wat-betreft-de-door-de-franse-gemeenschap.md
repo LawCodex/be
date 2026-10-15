@@ -12,7 +12,7 @@ entry_into_force: 2006-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/11/10/2006203883/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2006. - Decreet houdende instemming, wat betreft de door de Franse Gemeenschap overgedragen materies, met het UNESCO-Verdrag betreffende de bescherming en de bevordering van de diversiteit van cultuuruitingen, aangenomen op 20 oktober 2005 en opgemaakt te Parijs op 9 december 2005 (VERTALING).

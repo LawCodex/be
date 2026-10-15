@@ -17,7 +17,7 @@ justel_notes:
   - "Dit decreet houdt op van toepassing te zijn op het hoger onderwijs met volledig leerplan, met uitzondering van de artikelen 34 en 57 bij DVR 1994-07-13/32, art. 366, 21°; Inwerkingtreding : onbepaald "
   - "Dit decreet is opgeheven wat betreft de hogescholen; BVR 1996-05-09/39, art. 2, 40°; Inwerkingtreding : 01-01-1996"
   - "Raadpleging van vroegere versies vanaf 16-03-1995 en tekstbijwerking tot 13-02-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 1993. - Decreet betreffende het onderwijs-V.

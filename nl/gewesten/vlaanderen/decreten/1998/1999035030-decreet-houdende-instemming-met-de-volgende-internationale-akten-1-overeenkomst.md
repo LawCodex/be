@@ -13,7 +13,7 @@ entry_into_force: 1999-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/12/19/1999035030/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1998. - Decreet houdende instemming met de volgende internationale akten : 1. Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Estland inzake de wederzijdse bevordering en bescherming van investeringen en Protocol, ondertekend in Brussel op 24 januari 1996; 2. Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Letland inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Brussel op 27 maart 1996; 3. Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Republiek Litouwen inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend in Brussel op 15 oktober 1997.

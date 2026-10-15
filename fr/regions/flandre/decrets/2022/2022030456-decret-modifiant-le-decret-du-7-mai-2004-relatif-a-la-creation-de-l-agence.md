@@ -13,7 +13,7 @@ entry_into_force: 2022-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/01/14/2022030456/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 2022. - Décret modifiant le décret du 7 mai 2004 relatif à la création de l'agence autonomisée externe de droit public " Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding " (Office flamand de l'Emploi et de la Formation professionnelle)

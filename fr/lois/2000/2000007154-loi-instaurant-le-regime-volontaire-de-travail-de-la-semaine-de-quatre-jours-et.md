@@ -17,7 +17,7 @@ justel_notes:
   - "divers art. modifiés par L 2007-02-28/35 , art. 231, 008; En vigueur : 31-12-2013 (voir art. 272)"
   - "L'article 232 à 234 de la L 28/02/2007 qui prévoyait à l'origine des modifications de la L 25/05/2000 a été remplacé, avant son entrée en vigueur, par l'article 331 à 333 de la loi du 31 juillet 2013 ( 2013-07-31/04 ) modifiant la loi du 28 février 2007 fixant le statut des militaires du cadre actif des Forces armées et modifiant certaines dispositions relatives au statut du personnel militaire. Ces articles remplacent les articles 232 à 234 de la L 28/02/2007 par une nouvelle disposition qui modifient les articles 5, 6 et 11 de la loi du 25/05/2000. Cela étant, la volonté d'abroger cette dernière loi que le législateur avait initialement exprimée. En d'autres mots, les articles 232 à 234 de la L 28/02/2007, tel qu'ils existaient avant leur remplacement par la loi précitée du 31/07/2013, n'entreront jamais en vigueur."
   - "Consultation des versions antérieures à partir du 29-06-2000 et mise à jour au 29-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAI 2000. - Loi instaurant le régime volontaire de travail de la semaine de quatre jours et le régime du départ anticipé à mi-temps pour certains militaires et modifiant le statut des militaires en vue d'instaurer le retrait temporaire d'emploi par interruption de carrière.

@@ -13,7 +13,7 @@ entry_into_force: 2000-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/16/2003033011/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2002. - Décret contenant des mesures urgentes en matière d'enseignement (TRADUCTION).

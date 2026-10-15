@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/05/2008204512/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 16-12-2008 et mise à jour au 20-07-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 DECEMBRE 2008. - Décret portant création de la société anonyme de droit public "Le Circuit de Spa-Francorchamps"

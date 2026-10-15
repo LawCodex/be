@@ -12,7 +12,7 @@ entry_into_force: 2009-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/02/16/2009015022/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 FEBRUARI 2009. - Wet houdende instemming met het Protocol betreffende registers inzake de uitstoot en overbrenging van verontreinigende stoffen, gedaan te Kiev op 21 mei 2003

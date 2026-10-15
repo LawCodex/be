@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/12/18/2025009751/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2025. - Ordonnantie tot wijziging van de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen

@@ -13,7 +13,7 @@ entry_into_force: 1998-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/22/1998029264/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 1997. - Décret portant assentiment à l'accord portant modification de la quatrième Convention ACP-CE de Lomé du 15 décembre 1989, à l'Acte final et au Protocole, à la quatrième Convention ACP-CE de Lomé à la suite de l'adhésion de la République d'Autriche, de la République de Finlande et du Royaume de Suède à l'Union européenne, signés à Maurice le 4 novembre 1995.

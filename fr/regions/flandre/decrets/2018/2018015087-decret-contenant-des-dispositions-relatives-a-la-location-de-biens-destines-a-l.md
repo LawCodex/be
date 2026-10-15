@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/09/2018015087/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 07-12-2018 et mise à jour au 30-05-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBRE 2018. - Décret contenant des dispositions relatives à la location de biens destinés à l'habitation ou de parties de ceux-ci

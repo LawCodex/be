@@ -12,7 +12,7 @@ entry_into_force: 2025-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/12/20/2025000096/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2024. - Wet tot omzetting van Richtlijn (EU) 2021/2167 van het Europees Parlement en de Raad van 24 november 2021 inzake kredietservicers en kredietkopers en tot wijziging van de Richtlijnen 2008/48/EG en 2014/17/EU

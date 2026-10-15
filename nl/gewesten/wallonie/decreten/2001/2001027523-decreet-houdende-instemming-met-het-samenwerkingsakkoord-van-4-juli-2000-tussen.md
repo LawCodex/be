@@ -13,7 +13,7 @@ entry_into_force: 2000-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/18/2001027523/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2001. - Decreet houdende instemming met het samenwerkingsakkoord van 4 juli 2000 tussen de Federale Staat, de Gewesten en de Duitstalige Gemeenschap betreffende de sociale economie (VERTALING).

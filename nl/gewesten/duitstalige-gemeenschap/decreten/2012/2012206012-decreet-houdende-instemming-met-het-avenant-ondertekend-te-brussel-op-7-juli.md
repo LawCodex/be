@@ -12,7 +12,7 @@ published: 2012-10-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/09/24/2012206012/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 SEPTEMBER 2012. - Decreet houdende instemming met het Avenant, ondertekend te Brussel op 7 juli 2009, bij de Overeenkomst tussen België en Frankrijk tot voorkoming van dubbele belasting en tot regeling van wederzijdse administratieve en juridische bijstand inzake inkomstenbelastingen, ondertekend te Brussel op 10 maart 1964 en gewijzigd door de Avenanten van 15 februari 1971 en 8 februari 1999

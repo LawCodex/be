@@ -13,7 +13,7 @@ entry_into_force: 2020-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/02/06/2020030151/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2020. - Decreet houdende instemming met het samenwerkingsakkoord van 30 mei 2018 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de oprichting van het interregionaal orgaan voor de gezinsbijslagen

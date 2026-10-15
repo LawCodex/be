@@ -13,7 +13,7 @@ entry_into_force: 1998-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/11/12/1998035413/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 1997. - Decreet houdende de eindregeling van de begroting van de Vlaamse Gemeenschap en van instellingen van openbaar nut voor het begrotingsjaar 1993.

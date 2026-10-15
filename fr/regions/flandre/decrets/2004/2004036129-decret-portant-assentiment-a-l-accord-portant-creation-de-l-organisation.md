@@ -13,7 +13,7 @@ entry_into_force: 2004-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036129/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant assentiment à l'Accord portant création de l'Organisation internationale de la vigne et du vin et à l'Acte final, faits à Paris le 3 avril 2001 (TRADUCTION).

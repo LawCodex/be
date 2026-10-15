@@ -12,7 +12,7 @@ entry_into_force: 2005-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/05/17/2005015043/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2002. Wet houdende instemming met de Overeenkomst tussen de Regeringen van de Beneluxsstaten (het Koninkrijk België, het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg) en de Regering van de Republiek Litouwen, betreffende de overname van onregelmatig verblijvende personen (Overnameovereenkomst), en Uitvoeringsprotocol, gedaan te Brussel op 9 juni 1999. - Addendum. - Kennisgeving door het Groothertogdom Luxemburg. - Inwerkingtreding van de Overeenkomst en haar Uitvoeringsprotocol.

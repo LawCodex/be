@@ -13,7 +13,7 @@ last_amended: 2014-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1974/01/10/1974011001/justel"
 justel_note: "Consultation des versions antérieures à partir du 30-05-2002 et mise à jour au 02-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 1974. - Loi réglant l'admissibilité de certains services et de périodes assimilées à l'activité de service pour l'octroi et le calcul des pensions à charge du Trésor public. -

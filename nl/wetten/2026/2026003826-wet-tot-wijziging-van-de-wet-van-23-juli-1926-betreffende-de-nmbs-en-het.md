@@ -12,7 +12,7 @@ entry_into_force: 2026-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/05/25/2026003826/justel"
 department: "Mobiliteit en Vervoer"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 2026. - Wet tot wijziging van de wet van 23 juli 1926 betreffende de NMBS en het personeel van de Belgische spoorwegen, betreffende de modernisering van het personeelsbeheer van de Belgische Spoorwegen (I)

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/07/18/1991009959/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 26-07-1991 en tekstbijwerking tot 02-06-2003"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 1991. - Wet tot wijziging van de voorschriften van het Gerechtelijk Wetboek die betrekking hebben op de opleiding en de werving van magistraten.

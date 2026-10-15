@@ -12,7 +12,7 @@ entry_into_force: 2019-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/11/2018031995/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2016. - Wet houdende instemming met het Akkoord tussen het Koninkrijk België en de Staten van Guernsey inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, gedaan te Brussel op 24 april 2014 en Saint Peter Port op 7 mei 2014

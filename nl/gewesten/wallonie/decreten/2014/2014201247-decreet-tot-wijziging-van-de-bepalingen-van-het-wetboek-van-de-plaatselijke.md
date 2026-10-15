@@ -13,7 +13,7 @@ entry_into_force: 2013-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/06/2014201247/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2014. - Decreet tot wijziging van de bepalingen van het Wetboek van de plaatselijke democratie en de decentralisatie, wat betreft de subsidies voor sommige investeringen van openbaar nut en tot oprichting van een Gewestelijk Fonds voor de Gemeentelijke Investeringen

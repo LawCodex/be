@@ -12,7 +12,7 @@ entry_into_force: 2005-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/05/30/2005009469/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 2005. - Loi portant confirmation de l'arrêté royal du 27 décembre 2004 fixant les règles gouvernant la charge de la preuve ainsi que les règles de procédures pour l'exécution de l'article 1409, § 1er, alinéa 4, et § 1erbis, alinéa 4, du Code judiciaire.

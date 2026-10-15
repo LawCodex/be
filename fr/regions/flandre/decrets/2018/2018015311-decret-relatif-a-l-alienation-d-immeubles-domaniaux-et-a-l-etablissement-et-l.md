@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/30/2018015311/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-03-2024 et mise à jour au 29-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBRE 2018. - Décret relatif à l'aliénation d'immeubles domaniaux et à l'établissement et l'aliénation de droits réels par la Communauté flamande et la Région flamande

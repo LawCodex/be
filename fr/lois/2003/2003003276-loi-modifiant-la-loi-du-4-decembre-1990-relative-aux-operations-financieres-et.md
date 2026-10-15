@@ -12,7 +12,7 @@ entry_into_force: 2003-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/22/2003003276/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2003. - Loi modifiant la loi du 4 décembre 1990 relative aux opérations financières et aux marchés financiers visant à créer une nouvelle catégorie d'organismes de placement collectif, dénommée pricaf privée, et portant des dispositions fiscales diverses.

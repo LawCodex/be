@@ -12,7 +12,7 @@ entry_into_force: 2017-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/18/2017010505/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2016. - Loi insérant une condition générale de séjour dans la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers (ERRATUM)

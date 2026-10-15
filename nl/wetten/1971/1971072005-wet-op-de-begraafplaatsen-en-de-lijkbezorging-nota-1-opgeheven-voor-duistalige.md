@@ -13,7 +13,7 @@ last_amended: 2024-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1971/07/20/1971072005/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 28-10-1998 en tekstbijwerking tot 16-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 1971. - Wet op de begraafplaatsen en de lijkbezorging. (NOTA 1 : opgeheven voor Duistalige Gemeenschap - met uitzondering van art. 2, eerste tot derde lid; 15bis, § 2, tweede lid; 23bis; 24, tweede lid, 2°; 27 - door DDG 2011-02-14/07 , art. 33, 009; Inwerkingtreding : 07-04-2011) (NOTA 2: opgeheven voor het Brusselse Gewest - met uitzondering van art. 15bis, § 2, tweede lid en 23bis- bij ORD 2018-11-29/15 , art. 38,1°, 013; Inwerkingtreding : 06-01-2019)

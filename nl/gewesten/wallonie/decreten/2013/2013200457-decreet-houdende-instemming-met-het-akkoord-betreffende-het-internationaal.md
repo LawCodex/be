@@ -13,7 +13,7 @@ entry_into_force: 2013-02-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/01/17/2013200457/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANUARI 2013. - Decreet houdende instemming met het Akkoord betreffende het internationaal vervoer over de weg tussen de Regering van het Koninkrijk België en de Regering van de Republiek Kazakhstan, opgemaakt te Brussel op 5 december 2006

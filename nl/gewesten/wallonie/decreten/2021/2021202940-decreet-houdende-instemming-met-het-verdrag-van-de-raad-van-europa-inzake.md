@@ -13,7 +13,7 @@ entry_into_force: 2021-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/10/2021202940/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 2021. - Decreet houdende instemming met het Verdrag van de Raad van Europa inzake cinematografische coproductie (herzien), opgemaakt te Rotterdam op 30 januari 2017

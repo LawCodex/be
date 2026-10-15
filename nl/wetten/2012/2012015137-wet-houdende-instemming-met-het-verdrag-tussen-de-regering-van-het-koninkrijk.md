@@ -12,7 +12,7 @@ entry_into_force: 2014-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/07/13/2012015137/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2012. - Wet houdende instemming met het Verdrag tussen de Regering van het Koninkrijk België en de Regering van Malta betreffende de politiesamenwerking, ondertekend te Brussel op 1 december 2005

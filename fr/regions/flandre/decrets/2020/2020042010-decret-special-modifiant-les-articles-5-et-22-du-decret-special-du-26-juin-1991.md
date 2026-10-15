@@ -13,7 +13,7 @@ entry_into_force: 2020-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/06/19/2020042010/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2020. - Décret spécial modifiant les articles 5 et 22 du décret spécial du 26 juin 1991 relatif à l'" Universiteit Gent " et à l'" Universitair Centrum Antwerpen "

@@ -11,7 +11,7 @@ date: 2006-11-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/11/23/2006203896/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2006. - Decreet tot wijziging van de wetsbepalingen betreffende de slijterijen van gegiste dranken, gecoördineerd op 3 april 1953 (VERTALING).

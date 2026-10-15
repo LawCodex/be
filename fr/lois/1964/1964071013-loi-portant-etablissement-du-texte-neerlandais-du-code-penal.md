@@ -11,7 +11,7 @@ published: 1964-12-02
 entry_into_force: 1964-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1964/07/10/1964071013/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 1964. - Loi portant établissement du texte néerlandais du Code pénal.

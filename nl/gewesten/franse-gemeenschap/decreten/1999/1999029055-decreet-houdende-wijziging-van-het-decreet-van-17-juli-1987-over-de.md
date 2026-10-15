@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/01/04/1999029055/justel"
 department: "Franse Gemeenschap"
 justel_note: "raadpleging van vroegere versies vanaf 11-02-1999 en tekstbijwerking tot 29-11-2000"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JANUARI 1999. - Decreet houdende wijziging van het decreet van 17 juli 1987 over de audiovisuele sector en omzetting van de richtlijn 97/36/EG van 30 juni 1997 en de richtlijn 95/47/EG van 24 oktober 1995 (VERTALING).

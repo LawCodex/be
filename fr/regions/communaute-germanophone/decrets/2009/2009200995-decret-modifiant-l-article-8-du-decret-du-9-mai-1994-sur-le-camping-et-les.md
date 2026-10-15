@@ -13,7 +13,7 @@ entry_into_force: 2009-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/02/16/2009200995/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 2009. - Décret modifiant l'article 8 du décret du 9 mai 1994 sur le camping et les terrains de camping

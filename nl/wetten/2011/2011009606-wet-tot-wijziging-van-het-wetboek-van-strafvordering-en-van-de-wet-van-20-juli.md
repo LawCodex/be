@@ -11,7 +11,7 @@ entry_into_force: 2012-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/08/13/2011009606/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AUGUSTUS 2011. - Wet tot wijziging van het Wetboek van strafvordering en van de wet van 20 juli 1990 betreffende de voorlopige hechtenis, om aan elkeen die wordt verhoord en aan elkeen wiens vrijheid wordt benomen rechten te verlenen, waaronder het recht om een advocaat te raadplegen en door hem te worden bijgestaan (aangehaald als : wet Salduz)

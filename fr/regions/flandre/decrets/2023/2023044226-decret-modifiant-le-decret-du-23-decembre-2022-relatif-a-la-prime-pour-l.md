@@ -13,7 +13,7 @@ entry_into_force: 2023-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/14/2023044226/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2023. - Décret modifiant le décret du 23 décembre 2022 relatif à la prime pour l'apprentissage qualifiant sur le lieu de travail destinée aux entreprises et à la prime pour les élèves en formation en alternance

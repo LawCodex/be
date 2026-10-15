@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/06/06/2005033079/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2005. - Decreet houdende de eerste aanpassing van de algemene uitgavenbegroting van de Duitstalige Gemeenschap voor het begrotingsjaar 2005 (VERTALING).

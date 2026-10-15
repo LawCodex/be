@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/09/06/2018204734/justel"
 department: "Werkgelegenheid, Arbeid en Sociaal Overleg - Sociale Zekerheid - Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 26-09-2018 en tekstbijwerking tot 17-01-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 SEPTEMBER 2018. - Wet tot wijziging van de regelgeving met het oog op de versterking van het adoptieverlof en tot invoering van het pleegouderverlof

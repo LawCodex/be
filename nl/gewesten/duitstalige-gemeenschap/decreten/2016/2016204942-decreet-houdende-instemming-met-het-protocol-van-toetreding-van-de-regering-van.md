@@ -13,7 +13,7 @@ entry_into_force: 2016-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/09/19/2016204942/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 SEPTEMBER 2016. - Decreet houdende instemming met het Protocol van toetreding van de Regering van de Russische Federatie tot het Verdrag van 16 december 1988 inzake de bouw en werking van de European Synchrotron Radiation Facility (Europese synchrotronstralingsfaciliteit), ondertekend te Grenoble op 23 juni 2014 en te Parijs op 15 juli 2014

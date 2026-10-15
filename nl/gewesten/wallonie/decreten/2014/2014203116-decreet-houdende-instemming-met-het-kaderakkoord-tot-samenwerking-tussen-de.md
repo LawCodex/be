@@ -13,7 +13,7 @@ entry_into_force: 2014-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/11/2014203116/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2014. - Decreet houdende instemming met het kaderakkoord tot samenwerking tussen de Franse Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie betreffende het inter-Franstalig overleg inzake gezondheid en bijstand aan personen en betreffende de gemeenschappelijke principes die op deze laatsten van toepassing zijn

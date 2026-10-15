@@ -12,7 +12,7 @@ entry_into_force: 2001-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/04/04/2001009334/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2001. - Wet van 4 april 2001 tot versterking van de bescherming tegen valsemunterij met het oog op het in omloop brengen van de euro.

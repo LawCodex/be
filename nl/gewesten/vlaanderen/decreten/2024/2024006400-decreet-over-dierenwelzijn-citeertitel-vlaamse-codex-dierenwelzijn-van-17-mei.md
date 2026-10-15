@@ -16,7 +16,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/16/2024006400/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 02-07-2024 en tekstbijwerking tot 25-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Decreet over dierenwelzijn (Citeertitel: Vlaamse Codex Dierenwelzijn van 17 mei 2024)

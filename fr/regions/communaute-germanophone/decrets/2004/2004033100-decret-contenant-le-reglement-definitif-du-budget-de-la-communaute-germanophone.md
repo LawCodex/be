@@ -13,7 +13,7 @@ entry_into_force: 2005-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/12/06/2004033100/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2004. - Décret contenant le règlement définitif du budget de la Communauté germanophone pour l'année budgétaire 2003 (TRADUCTION).

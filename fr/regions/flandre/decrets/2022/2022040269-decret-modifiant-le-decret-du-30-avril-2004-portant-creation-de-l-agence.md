@@ -13,7 +13,7 @@ entry_into_force: 2022-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/04/2022040269/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2022. - Décret modifiant le décret du 30 avril 2004 portant création de l'agence autonomisée interne dotée de la personnalité juridique " Grandir régie " (Opgroeien regie), en ce qui concerne le partage de données avec le CPAS et la coopération avec les maternités

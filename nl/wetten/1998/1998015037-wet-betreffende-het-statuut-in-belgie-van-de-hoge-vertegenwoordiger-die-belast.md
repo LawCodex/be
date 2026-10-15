@@ -12,7 +12,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/01/19/1998015037/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JANUARI 1998. - Wet betreffende het statuut in België van de Hoge Vertegenwoordiger die belast is met de uitvoering op burgerlijk gebied van het Vredesakkoord voor Bosnië-Herzegovina.

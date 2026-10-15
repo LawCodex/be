@@ -12,7 +12,7 @@ entry_into_force: 2009-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/05/31/2009014145/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MAI 2009. - Loi modifiant les articles 199ter et 212 de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques

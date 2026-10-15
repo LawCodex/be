@@ -13,7 +13,7 @@ entry_into_force: 1998-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/04/1999021297/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 1999. - Décret portant approbation de l'accord de coopération du 3 juin 1998 entre la Région wallonne, la Communauté francaise et la Communauté germanophone modifiant l'accord de coopération du 3 juillet 1997 entre la Région wallonne, la Communauté francaise et la Communauté germanophone relatif au programme de transition professionnelle.

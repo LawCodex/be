@@ -13,7 +13,7 @@ entry_into_force: 1999-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/12/15/1998036465/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 1998. - Décret modifiant le décret du 7 juillet 1998 modifiant les décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 25 janvier 1995 (TRADUCTION).

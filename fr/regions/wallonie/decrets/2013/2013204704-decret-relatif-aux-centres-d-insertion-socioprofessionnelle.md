@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/10/2013204704/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 20-08-2013 et mise à jour au 17-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2013. - Décret relatif aux centres d'insertion socioprofessionnelle

@@ -13,7 +13,7 @@ entry_into_force: 2013-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/03/15/2013031162/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2013. - Ordonnantie houdende goedkeuring van het samenwerkingsakkoord gesloten op 9 februari 2012 tussen het Brussels Hoofdstedelijk Gewest en de Franse Gemeenschapscommissie betreffende het gekruist beleid " tewerkstelling-opleiding "

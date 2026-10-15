@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/08/08/2001009578/justel"
 department: "Justitie"
 justel_note: "raadpleging van vroegere versies vanaf 24-08-2001 en tekstbijwerking tot 27-08-2009."
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 AUGUSTUS 1997. - Wet betreffende het Centraal Strafregister.

@@ -13,7 +13,7 @@ entry_into_force: 2022-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/09/15/2022042279/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 SEPTEMBRE 2022. - Décret portant assentiment à la Convention n° 190 concernant l'élimination de la violence et du harcèlement dans le monde du travail, adoptée à Genève le 21 juin 2019 par la Conférence internationale du travail à sa cent huitième session

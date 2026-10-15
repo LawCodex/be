@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/04/29/1996033066/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 28-08-1996 en tekstbijwerking tot 02-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 1996. - Decreet betreffende de schuldbemiddeling en de afbetaling van schulden (VERTALING).

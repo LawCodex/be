@@ -13,7 +13,7 @@ entry_into_force: 2022-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/02/09/2023040584/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 2023. - Decreet houdende diverse bepalingen ter vergemakkelijking van de organisatie van de leeractiviteiten van de manuele, technische, technologische en digitale opleiding (FMTTN) en van de culturele en artistieke opvoeding (ECA)

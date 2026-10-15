@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/02/14/2011201349/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 31-03-2011 en tekstbijwerking tot 15-03-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEBRUARI 2011. - Programmadecreet 2011

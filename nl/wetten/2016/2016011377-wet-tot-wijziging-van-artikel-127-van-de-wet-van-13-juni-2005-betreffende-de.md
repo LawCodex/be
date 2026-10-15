@@ -12,7 +12,7 @@ entry_into_force: 2016-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/09/01/2016011377/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 SEPTEMBER 2016. - Wet tot wijziging van artikel 127 van de wet van 13 juni 2005 betreffende de elektronische communicatie en van artikel 16/2 van de wet van 30 november 1998 houdende regeling van de inlichtingen- en veiligheidsdienst

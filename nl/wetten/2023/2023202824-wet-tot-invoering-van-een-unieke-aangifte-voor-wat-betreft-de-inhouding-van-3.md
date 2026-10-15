@@ -12,7 +12,7 @@ entry_into_force: 2023-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/05/04/2023202824/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2023. - Wet tot invoering van een unieke aangifte voor wat betreft de inhouding van 3,55 % ten gunste van de verplichte verzekering voor geneeskundige verzorging en de solidariteitsbijdrage verricht op de aanvullende pensioenen

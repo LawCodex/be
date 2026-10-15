@@ -12,7 +12,7 @@ entry_into_force: 2003-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/14/2003003032/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 2003. - Loi relative à l'exécution de l'accord entre le Royaume de Belgique et les Emirats Arabes Unis tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et du Protocole, signés à Washington le 30 septembre 1996.

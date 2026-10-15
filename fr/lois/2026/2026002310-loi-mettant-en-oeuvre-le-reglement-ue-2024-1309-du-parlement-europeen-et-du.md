@@ -12,7 +12,7 @@ entry_into_force: 2026-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/03/11/2026002310/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2026. - Loi mettant en oeuvre le règlement (UE) 2024/1309 du Parlement européen et du Conseil du 29 avril 2024 relatif à des mesures visant à réduire le coût du déploiement de réseaux gigabit de communications électroniques, modifiant le règlement (UE) 2015/2120 et abrogeant la directive 2014/61/UE (règlement sur les infrastructures gigabit)

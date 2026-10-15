@@ -13,7 +13,7 @@ entry_into_force: 2024-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/29/2024203650/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2024. - Décret modifiant l'article 27 du décret du 15 mars 2018 relatif au bail d'habitation et insérant un article 25/1

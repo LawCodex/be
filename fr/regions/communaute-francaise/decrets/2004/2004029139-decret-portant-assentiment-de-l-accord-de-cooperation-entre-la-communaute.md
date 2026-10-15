@@ -12,7 +12,7 @@ published: 2004-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/31/2004029139/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2004. - Décret portant assentiment de l'Accord de coopération entre la Communauté française et la Commission communautaire française, en matière de soutien à l'intégration scolaire pour les jeunes en situation de handicap.

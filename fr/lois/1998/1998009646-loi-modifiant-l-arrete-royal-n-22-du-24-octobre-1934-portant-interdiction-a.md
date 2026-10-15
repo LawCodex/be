@@ -12,7 +12,7 @@ entry_into_force: 1998-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/02/1998009646/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 1998. - Loi modifiant l'arrêté royal n° 22 du 24 octobre 1934 portant interdiction à certains condamnés et aux faillis d'exercer certaines fonctions, professions ou activités et conférant aux tribunaux de commerce la faculté de prononcer de telles interdictions.

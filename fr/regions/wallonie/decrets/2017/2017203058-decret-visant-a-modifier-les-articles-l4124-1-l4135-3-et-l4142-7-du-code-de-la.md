@@ -13,7 +13,7 @@ entry_into_force: 2017-05-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/01/2017203058/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2017. - Décret visant à modifier les articles L4124-1, L4135-3 et L4142-7 du Code de la démocratie locale et de la décentralisation pour ce qui concerne l'organisation des élections communales

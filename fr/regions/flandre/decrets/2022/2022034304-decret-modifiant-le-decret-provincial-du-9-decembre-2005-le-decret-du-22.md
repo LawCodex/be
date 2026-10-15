@@ -13,7 +13,7 @@ entry_into_force: 2022-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/11/18/2022034304/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBRE 2022. - Décret modifiant le décret provincial du 9 décembre 2005, le décret du 22 décembre 2017 sur l'administration locale et le décret de gouvernance du 7 décembre 2018, en ce qui concerne les lanceurs d'alerte

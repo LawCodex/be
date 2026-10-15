@@ -13,7 +13,7 @@ entry_into_force: 1990-09-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/07/12/1990030004/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 1990. - Décret portant organisation des sociétés de développement régional. (Traduction).

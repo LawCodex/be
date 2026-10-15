@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/10/2008203684/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 22-10-2008 en tekstbijwerking tot 26-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2008. - Decreet betreffende het beheer en de uitbating van de regionale luchthavens [Oostende-Brugge, Kortrijk-Wevelgem en Antwerpen] &lt;DVR 2009-05-08/21 , art. 2, 002; Inwerkingtreding : 18-07-2008&gt;

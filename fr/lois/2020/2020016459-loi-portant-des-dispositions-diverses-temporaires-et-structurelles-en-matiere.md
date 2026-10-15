@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/12/20/2020016459/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 24-12-2020 et mise à jour au 30-06-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2020. - Loi portant des dispositions diverses temporaires et structurelles en matière de justice dans le cadre de la lutte contre la propagation du coronavirus COVID-19

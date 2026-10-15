@@ -15,7 +15,7 @@ source: "https://www.ejustice.just.fgov.be/eli/loi/1967/12/28/1967122850/justel"
 justel_notes:
   - "pour les versions antérieures, voir archives de la version fédérale : L 1967-12-28/30 "
   - "Consultation des versions antérieures à partir du 11-04-2014 et mise à jour au 10-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBRE 1967. - Loi relative aux cours d'eau non navigables (REGION FLAMANDE)

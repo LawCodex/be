@@ -12,7 +12,7 @@ published: 2023-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/05/22/2023204788/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2023. - Decreet tot wijziging van het decreet van 16 juni 2008 tot vaststelling van kerncompetenties en referentiekaders in het onderwijs

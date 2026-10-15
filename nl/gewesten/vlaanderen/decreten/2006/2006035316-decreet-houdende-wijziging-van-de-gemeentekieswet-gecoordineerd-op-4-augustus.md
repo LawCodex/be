@@ -13,7 +13,7 @@ entry_into_force: 2006-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/02/10/2006035316/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2006. - Decreet houdende wijziging van de Gemeentekieswet, gecoördineerd op 4 augustus 1932, de wet van 19 oktober 1921 tot regeling van de provincieraadsverkiezingen en het decreet van 18 mei 1994 houdende regeling van het taalgebruik bij de verkiezingen.

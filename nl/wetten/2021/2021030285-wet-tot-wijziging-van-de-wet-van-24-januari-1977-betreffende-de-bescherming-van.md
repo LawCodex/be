@@ -12,7 +12,7 @@ entry_into_force: 2021-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/02/11/2021030285/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEBRUARI 2021. - Wet tot wijziging van de wet van 24 januari 1977 betreffende de bescherming van de gezondheid van de gebruikers op het stuk van de voedingsmiddelen en andere produkten, teneinde de verkoop aan minderjarigen van metalen patronen met distikstofmonoxide te verbieden

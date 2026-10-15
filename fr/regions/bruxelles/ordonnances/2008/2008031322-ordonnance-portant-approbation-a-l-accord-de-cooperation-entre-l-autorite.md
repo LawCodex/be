@@ -13,7 +13,7 @@ entry_into_force: 2008-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/01/31/2008031322/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2008. - Ordonnance portant approbation à l'Accord de coopération entre l'Autorité fédérale, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à la mise en oeuvre de certaines dispositions du Protocole de Kyoto, conclu à Bruxelles le 19 février 2007.

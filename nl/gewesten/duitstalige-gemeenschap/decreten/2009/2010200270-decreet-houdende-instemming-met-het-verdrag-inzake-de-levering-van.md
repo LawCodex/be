@@ -13,7 +13,7 @@ entry_into_force: 2010-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/12/03/2010200270/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2009. - Decreet houdende instemming met het Verdrag inzake de levering van telecommunicatievoorzieningen voor rampenmitigatie en noodhulpoperaties, gedaan te Tampere op 18 juni 1998

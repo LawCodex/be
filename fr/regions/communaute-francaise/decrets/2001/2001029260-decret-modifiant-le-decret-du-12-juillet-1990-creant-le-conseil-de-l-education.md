@@ -13,7 +13,7 @@ entry_into_force: 2001-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/06/21/2001029260/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 JUIN 2001. - [Décret modifiant le décret du 12 juillet 1990 créant le Conseil de l'Education et de la Formation de la Communauté française] (Erratum, voir M.B. 31.07.2001, p. 25948)

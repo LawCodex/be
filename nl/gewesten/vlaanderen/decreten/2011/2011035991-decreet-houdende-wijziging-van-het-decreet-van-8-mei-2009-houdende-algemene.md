@@ -13,7 +13,7 @@ entry_into_force: 2011-12-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/11/18/2011035991/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 NOVEMBER 2011. - Decreet houdende wijziging van het decreet van 8 mei 2009 houdende algemene bepalingen betreffende het energiebeleid

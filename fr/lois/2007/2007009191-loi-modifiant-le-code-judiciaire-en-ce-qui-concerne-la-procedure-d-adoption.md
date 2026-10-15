@@ -12,7 +12,7 @@ entry_into_force: 2007-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/31/2007009191/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANVIER 2007. - Loi modifiant le Code judiciaire en ce qui concerne la procédure d'adoption.

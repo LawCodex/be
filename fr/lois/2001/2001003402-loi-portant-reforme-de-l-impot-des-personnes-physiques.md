@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/08/10/2001003402/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 20-09-2001 et mise à jour au 31-12-2009"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2001. - Loi portant réforme de l'impôt des personnes physiques.

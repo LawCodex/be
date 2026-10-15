@@ -13,7 +13,7 @@ entry_into_force: 2009-01-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/11/28/2008204702/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 2008. - Décret portant assentiment de la Convention sur la compétence, la loi applicable, la reconnaissance, l'exécution et la coopération en matière de responsabilité parentale et de mesures de protection des enfants, établie à La Haye le 19 octobre 1996 (TRADUCTION).

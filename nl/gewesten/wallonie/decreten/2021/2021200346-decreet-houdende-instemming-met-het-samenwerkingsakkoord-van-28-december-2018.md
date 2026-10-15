@@ -13,7 +13,7 @@ entry_into_force: 2021-02-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/01/14/2021200346/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANUARI 2021. - Decreet houdende instemming met het samenwerkingsakkoord van 28 december 2018 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de samenwerking tussen inspectiediensten in het kader van bevoegdheden inzake gezinsbijslagen

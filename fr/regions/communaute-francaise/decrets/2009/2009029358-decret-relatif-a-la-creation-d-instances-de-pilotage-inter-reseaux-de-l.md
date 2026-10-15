@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/30/2009029358/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 28-10-2013 et mise à jour au 13-10-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2009. - [Décret relatif à la création d'instances de pilotage inter-réseaux de l'enseignement qualifiant (IPIEQ) et à l'octroi d'incitants visant un redéploiement plus efficient de l'offre d'enseignement qualifiant dans une perspective de développement territorial] &lt;DCFR 2013-10-17/03 , art. 83, 002; En vigueur : 01-09-2013&gt;

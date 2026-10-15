@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/02/10/2023040739/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2023. - Décret portant assentiment à l'accord de coopération du 24 décembre 2021 entre la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone concernant la coopération entre les entités fédérées en matière d'allocations familiales

@@ -13,7 +13,7 @@ last_amended: 2026-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1973/01/12/1973011250/justel"
 justel_note: "Consultation des versions antérieures à partir du 17-05-1994 et mise à jour au 24-06-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANVIER 1973. - LOIS COORDONNEES SUR LE CONSEIL D'ETAT.

@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/01/25/2019200847/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JANVIER 2019. - Loi relative à l'intervention de l'assurance obligatoire soins de santé dans les frais du transport en ambulance organisé dans le cadre de l'aide médicale urgente

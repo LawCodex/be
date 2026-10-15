@@ -13,7 +13,7 @@ entry_into_force: 2008-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/07/03/2008202766/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2008. - Decreet tot wijziging van het decreet van 16 juli 1985 betreffende natuurparken (VERTALING).

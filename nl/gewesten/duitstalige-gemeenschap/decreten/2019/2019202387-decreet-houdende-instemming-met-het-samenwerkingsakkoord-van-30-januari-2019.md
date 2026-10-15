@@ -13,7 +13,7 @@ entry_into_force: 2019-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/29/2019202387/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2019. - Decreet houdende instemming met het Samenwerkingsakkoord van 30 januari 2019 tussen de Federale Staat, de Gemeenschappen en de Gewesten betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten

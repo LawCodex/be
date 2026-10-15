@@ -13,7 +13,7 @@ entry_into_force: 2023-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/23/2023044075/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2023. - Décret relatif à la protection des lanceurs d'alerte dans l'enseignement en Communauté flamande

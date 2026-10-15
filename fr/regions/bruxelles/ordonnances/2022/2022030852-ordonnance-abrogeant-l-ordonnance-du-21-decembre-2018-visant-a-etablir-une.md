@@ -13,7 +13,7 @@ entry_into_force: 2022-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/02/10/2022030852/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2022. - Ordonnance abrogeant l'ordonnance du 21 décembre 2018 visant à établir une allocation de logement en Région de Bruxelles-Capitale

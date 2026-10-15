@@ -12,7 +12,7 @@ entry_into_force: 2004-05-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/04/12/2004009317/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 AVRIL 2004. - Loi insérant dans la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes une disposition réautorisant les officiers de police judiciaire à pénétrer et à fouiller dans tout lieu pendant la nuit sans autorisation préalable du tribunal de police.

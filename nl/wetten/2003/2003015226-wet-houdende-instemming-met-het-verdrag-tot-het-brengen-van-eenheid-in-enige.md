@@ -12,7 +12,7 @@ entry_into_force: 2004-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/05/13/2003015226/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MEI 2003. - Wet houdende instemming met het Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationaal luchtvervoer, gedaan te Montreal op 28 mei 1999.

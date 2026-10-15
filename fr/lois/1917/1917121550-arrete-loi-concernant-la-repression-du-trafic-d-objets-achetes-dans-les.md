@@ -13,7 +13,7 @@ last_amended: 2026-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1917/12/15/1917121550/justel"
 justel_note: "Consultation des versions antérieures à partir du 10-03-2026 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 1917. - Arrêté-loi concernant la répression du trafic d'objets achetés dans les magasins ou cantines de l'armée

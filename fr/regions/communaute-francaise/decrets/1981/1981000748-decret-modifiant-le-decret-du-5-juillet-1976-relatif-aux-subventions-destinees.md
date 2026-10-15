@@ -13,7 +13,7 @@ entry_into_force: 1981-09-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1981/03/26/1981000748/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 1981. - Décret modifiant le décret du 5 juillet 1976 relatif aux subventions destinées à favoriser la pratique des activités physiques, des sports et de la vie en plein air par les handicapés.

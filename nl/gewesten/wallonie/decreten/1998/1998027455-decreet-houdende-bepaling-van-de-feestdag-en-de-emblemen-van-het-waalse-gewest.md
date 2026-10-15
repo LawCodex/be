@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/07/23/1998027455/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 08-08-1998 en tekstbijwerking tot 11-12-2015"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 1998. - Decreet houdende bepaling van de feestdag en de emblemen van het Waalse Gewest (VERTALING)

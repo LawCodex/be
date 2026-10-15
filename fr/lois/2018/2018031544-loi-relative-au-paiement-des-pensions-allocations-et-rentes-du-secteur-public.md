@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/11/2018031544/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 20-07-2018 et mise à jour au 14-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2018. - Loi relative au paiement des pensions, allocations et rentes du secteur public

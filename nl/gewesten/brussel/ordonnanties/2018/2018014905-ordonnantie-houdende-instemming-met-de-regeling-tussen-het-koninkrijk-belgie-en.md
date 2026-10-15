@@ -12,7 +12,7 @@ entry_into_force: 2018-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/11/15/2018014905/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBER 2018. - Ordonnantie houdende instemming met : de Regeling tussen het Koninkrijk België en de Noord-Atlantische Verdragsorganisatie betreffende de rechtspositie van sommige personeelscategorieën van de agentschappen van de NAVO die op het grondgebied van het Koninkrijk België gevestigd zijn, gedaan te Brussel op 20 mei 2016

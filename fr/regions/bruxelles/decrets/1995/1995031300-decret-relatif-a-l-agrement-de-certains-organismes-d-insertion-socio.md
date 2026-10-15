@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/27/1995031300/justel"
 department: "Commission communautaire française"
 justel_note: "art. 2 ET 8 modifié avec effet à une date indéterminée par DEC 2016-04-28/21 , art. 33; En vigueur : indéterminée "
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 1995. - Décret relatif à l'agrément de certains organismes d'insertion socio-professionnelle et au subventionnement de leurs activités de formation professionnelle en vue d'accroître les chances des demandeurs d'emploi inoccupés et peu qualifiés de trouver ou de retrouver du travail dans le cadre de dispositifs coordonnés d'insertion socio-professionnelle.

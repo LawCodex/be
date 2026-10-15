@@ -11,7 +11,7 @@ published: 1951-12-26
 entry_into_force: 1952-01-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1951/12/24/1951122402/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 1951. - Loi interprétant la loi du 30 avril 1951 sur les baux commerciaux en vue de la protection du fonds de commerce.

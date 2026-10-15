@@ -13,7 +13,7 @@ entry_into_force: 2001-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/04/17/2001033039/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 AVRIL 2001. - Décret portant assentiment à la convention portant statut des Ecoles européennes, aux Annexes I et II, faites à Luxembourg le 21 juin 1994 (TRADUCTION).

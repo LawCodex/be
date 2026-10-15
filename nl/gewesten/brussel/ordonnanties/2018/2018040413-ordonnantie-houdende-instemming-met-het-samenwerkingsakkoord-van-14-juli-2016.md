@@ -13,7 +13,7 @@ entry_into_force: 2018-08-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/07/12/2018040413/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2018. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 14 juli 2016 tussen de Vlaamse Gemeenschap, het Waals Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de aan de kinderbijslagregelgeving aan te brengen wijzigingen

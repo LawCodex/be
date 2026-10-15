@@ -12,7 +12,7 @@ entry_into_force: 2020-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/04/2020041233/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2020. - Loi visant à combattre la diffusion non consensuelle d'images et d'enregistrements à caractère sexuel

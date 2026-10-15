@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1986/12/15/1986021230/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 19-12-1986 et mise à jour au 31-12-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 1986. - Loi portant confirmation des arrêtés royaux pris en exécution de l'article 1 de la loi du 27 mars 1986 attribuant certains pouvoirs spéciaux au Roi.

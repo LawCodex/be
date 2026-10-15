@@ -10,7 +10,7 @@ date: 1998-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/18/1999015103/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 1998. - Wet houdende instemming met het Verdrag van de Verenigde Naties inzake het recht van de Zee, gedaan te Montego Bay op 10 december 1982 en de Overeenkomst inzake de tenuitvoerlegging van deel XI van het Verdrag van de Verenigde Naties inzake het recht van de Zee van 10 december 1982, gedaan te New York op 28 juli 1994.

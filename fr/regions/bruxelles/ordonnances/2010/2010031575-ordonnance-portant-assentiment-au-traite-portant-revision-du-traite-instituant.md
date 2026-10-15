@@ -13,7 +13,7 @@ entry_into_force: 2010-12-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2010/12/09/2010031575/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2010. - Ordonnance portant assentiment : au Traité portant révision du Traité instituant l'Union économique Benelux signé le 3 février 1958, au Protocole relatif aux privilèges et immunités de l'Union Benelux et à la Déclaration, signés à La Haye le 17 juin 2008

@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/05/12/2022032148/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2022. - Ordonnantie houdende diverse maatregelen met betrekking tot de belasting op de inrichtingen van toeristisch logies op grond van de COVID-19-gezondheidscrisis

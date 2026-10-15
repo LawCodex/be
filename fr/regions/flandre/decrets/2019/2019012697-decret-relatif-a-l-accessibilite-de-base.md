@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/26/2019012697/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 12-06-2019 et mise à jour au 05-03-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2019. - Décret relatif à l'accessibilité de base

@@ -13,7 +13,7 @@ entry_into_force: 2013-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/05/16/2013204139/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2013. - Décret modifiant certaines dispositions du Code de la démocratie locale et de la décentralisation en matière de gouvernance provinciale

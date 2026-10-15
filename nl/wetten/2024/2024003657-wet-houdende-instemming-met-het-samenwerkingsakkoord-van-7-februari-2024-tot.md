@@ -12,7 +12,7 @@ entry_into_force: 2024-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/04/14/2024003657/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 APRIL 2024. - Wet houdende instemming met het samenwerkingsakkoord van 7 februari 2024 tot wijziging van het samenwerkingsakkoord van 19 maart 2020 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap met betrekking tot de bevoegdheden van de gemeenschappen en van de Federale Staat inzake het Tax Shelter stelsel voor audiovisuele werken en podiumwerken en tot informatie-uitwisseling, gedaan te Brussel op 7 februari 2024

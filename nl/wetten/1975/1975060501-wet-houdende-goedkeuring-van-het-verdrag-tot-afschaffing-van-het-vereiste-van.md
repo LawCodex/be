@@ -11,7 +11,7 @@ published: 1976-02-07
 entry_into_force: 1976-02-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1975/06/05/1975060501/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUNI 1975. - Wet houdende goedkeuring van het verdrag tot afschaffing van het vereiste van legalisatie van buitenlandse openbare akten, en van de bijlage, opgemaakt te 's-Gravenhage op 5 oktober 1961.

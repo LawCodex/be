@@ -13,7 +13,7 @@ entry_into_force: 2024-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/03/2024005012/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2024. - Décret modifiant le décret du 22 décembre 2017 sur l'administration locale, le décret provincial du 9 décembre 2005, la loi du 19 juillet 1976 instituant un congé pour l'exercice d'un mandat politique et l'arrêté royal du 31 mai 1977 portant exécution de l'article 4 de la loi du 19 juillet 1976 instituant un congé pour l'exercice d'un mandat politique

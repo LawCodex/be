@@ -12,7 +12,7 @@ entry_into_force: 1985-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1985/07/15/1985009697/justel"
 department: "Justice"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 1985. - Loi modifiant les lois sur les sociétés commerciales, coordonnées le 30 novembre 1935.

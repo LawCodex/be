@@ -13,7 +13,7 @@ entry_into_force: 2003-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/11/27/2003202133/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2003. - Decreet houdende instemming met de Internationale Conventie inzake de controle op schadelijke aangroeiwerende systemen op schepen, gesloten te Londen op 5 oktober 2001, alsmede met de Bijlagen erbij. (Vertaling).

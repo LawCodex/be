@@ -13,7 +13,7 @@ last_amended: 2020-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1974/01/04/1974010407/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 30-12-1989 en tekstbijwerking tot 31-12-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JANUARI 1974. - Wet betreffende de feestdagen. -

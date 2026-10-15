@@ -13,7 +13,7 @@ entry_into_force: 2012-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/01/12/2012200328/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JANUARI 2012. - Decreet tot wijziging van het decreet van 6 november 2008 ter bestrijding van bepaalde vormen van discriminatie

@@ -13,7 +13,7 @@ entry_into_force: 2015-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/11/27/2015036569/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2015. - Decreet houdende instemming met de handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds, ondertekend te Brussel op 26 juni 2012

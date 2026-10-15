@@ -13,7 +13,7 @@ entry_into_force: 2024-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/02/01/2024001590/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 FEVRIER 2024. - Décret relatif au traitement des données à caractère personnel dans le cadre des missions d'accompagnement, des programmes de médecine préventive et de soutien à la parentalité de l'office de la naissance et de l'enfance

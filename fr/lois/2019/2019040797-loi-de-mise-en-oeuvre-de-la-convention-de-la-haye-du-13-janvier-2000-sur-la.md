@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/10/2019040797/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 22-03-2019 et mise à jour au 24-12-2020"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MARS 2019. - Loi de mise en oeuvre de la Convention de La Haye du 13 janvier 2000 sur la protection internationale des adultes

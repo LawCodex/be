@@ -12,7 +12,7 @@ entry_into_force: 2005-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/09/17/2005014175/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 SEPTEMBRE 2005. - Loi modifiant la loi du 20 janvier 1999 visant la protection du milieu marin dans les espaces marins sous juridiction de la Belgique.

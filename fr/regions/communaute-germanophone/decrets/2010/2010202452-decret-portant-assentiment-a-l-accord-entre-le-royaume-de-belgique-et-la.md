@@ -13,7 +13,7 @@ entry_into_force: 2010-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/04/19/2010202452/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2010. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et la République d'Albanie, la Bosnie et Herzégovine, la République de Croatie, l'ancienne République yougoslave de Macédoine, la République de Moldavie, Monténégro, la République de Serbie et la "United Nations Interim Administration Mission in Kosovo" au nom du Kosovo conformément à la Résolution 1244 du Conseil de Sécurité des Nations unies, sur les privilèges et immunités du Secrétariat du "Central European Free Trade Agreement", signé à Bruxelles le 26 juin 2008

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/11/16/2023048516/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2023 et mise à jour au 21-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2023. - Décret Neutralité Carbone

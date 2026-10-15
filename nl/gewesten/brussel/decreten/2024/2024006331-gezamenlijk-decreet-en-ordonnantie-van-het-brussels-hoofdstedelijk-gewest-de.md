@@ -13,7 +13,7 @@ entry_into_force: 2024-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/16/2024006331/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Gezamenlijk decreet en ordonnantie van het Brussels Hoofdstedelijk Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Franse Gemeenschapscommissie tot wijziging van artikelen 25, 27 en 28 van het gezamenlijk decreet en ordonnantie van het Brussels Hoofdstedelijk Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Franse Gemeenschapscommissie van 16 mei 2019 betreffende de openbaarheid van bestuur bij de Brusselse instellingen

@@ -12,7 +12,7 @@ published: 1990-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1990/02/15/1990027397/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 1990. - Decreet houdende goedkeuring van het akkoord tot instelling van de Subregionale Comités voor Arbeidsbemiddeling en Vorming, gesloten te Brussel op 24 november 1989, tussen de Waalse Gewestexecutieve en de Franse Gemeenschapsexecutieve.

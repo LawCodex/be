@@ -12,7 +12,7 @@ entry_into_force: 2004-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/01/07/2002003050/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANUARI 2002. - Wet tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn met het oog op een wijziging van de Franse benaming van de openbare centra voor maatschappelijk welzijn.

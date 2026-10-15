@@ -13,7 +13,7 @@ entry_into_force: 2022-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/02/17/2022020339/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2022. - Décret portant confirmation de l'arrêté du Gouvernement wallon n° 1 du 4 décembre 2021 modifiant l'article 8, § 1er, du décret du 21 octobre 2021 relatif au COVID Safe Ticket et à l'obligation du port du masque

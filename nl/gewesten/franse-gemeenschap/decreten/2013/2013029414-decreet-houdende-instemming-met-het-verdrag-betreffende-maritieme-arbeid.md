@@ -13,7 +13,7 @@ entry_into_force: 2013-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/04/2013029414/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2013. - Decreet houdende instemming met het Verdrag betreffende maritieme arbeid, aangenomen door de Algemene Conferentie van de Internationale Arbeidsorganisatie in Genève op 23 februari 2006

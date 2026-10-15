@@ -12,7 +12,7 @@ entry_into_force: 2014-12-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/05/2014015142/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2014. - Wet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek India inzake het verrichten van betaalde werkzaamheden door de echtgenoten van het diplomatiek en consulair personeel, gesloten door uitwisseling van nota's te New Delhi op 8 augustus 2012

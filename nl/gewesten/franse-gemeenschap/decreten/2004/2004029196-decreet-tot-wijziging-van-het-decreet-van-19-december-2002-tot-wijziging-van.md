@@ -13,7 +13,7 @@ entry_into_force: 2002-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/19/2004029196/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2004. - Decreet tot wijziging van het decreet van 19 december 2002 tot wijziging van het decreet van 14 juli 1997 houdende het statuut van de " Radiotélévision belge de la Communauté française " (RTBF) (VERTALING).

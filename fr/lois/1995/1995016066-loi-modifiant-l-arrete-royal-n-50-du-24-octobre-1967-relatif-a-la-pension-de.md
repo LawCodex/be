@@ -12,7 +12,7 @@ entry_into_force: 1993-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/06/1995016066/justel"
 department: "Prévoyance Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 AVRIL 1995. - Loi modifiant l'arrêté royal n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés.

@@ -13,7 +13,7 @@ entry_into_force: 2023-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/11/17/2022034128/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2022. - Ordonnantie tot wijziging van het abattement op het verkooprecht en tot invoering van een aanvullend abattement op het verkooprecht in geval van verbetering van de energieprestatie

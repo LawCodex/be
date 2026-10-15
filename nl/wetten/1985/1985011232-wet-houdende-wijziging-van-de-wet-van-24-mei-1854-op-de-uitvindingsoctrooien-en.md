@@ -12,7 +12,7 @@ entry_into_force: 1985-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1985/07/15/1985011232/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JULI 1985. - Wet houdende wijziging van de wet van 24 mei 1854 op de uitvindingsoctrooien en van de wet van 30 december 1925 houdende wijziging der wet en betreffende de uitvindingsoctrooien, de fabrieks- en handelsmerken, de nijverheidstekeningen en modellen en de nijverheidseigendom in het algemeen.

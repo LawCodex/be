@@ -13,7 +13,7 @@ entry_into_force: 2014-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/29/2012035793/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2012. - Decreet tot wijziging van diverse bepalingen van het decreet van 30 november 2007 betreffende het flankerend onderwijsbeleid op lokaal niveau

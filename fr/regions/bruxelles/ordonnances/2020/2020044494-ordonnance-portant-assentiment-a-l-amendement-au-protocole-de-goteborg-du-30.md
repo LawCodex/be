@@ -13,7 +13,7 @@ entry_into_force: 2021-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/12/17/2020044494/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBRE 2020. - Ordonnance portant assentiment à l'amendement au Protocole de Göteborg du 30 novembre 1999 à la Convention du 13 novembre 1979 sur la pollution atmosphérique transfrontière à longue distance, relatif à la réduction de l'acidification, de l'eutrophisation et de l'ozone troposphérique, fait à Genève, le 4 mai 2012

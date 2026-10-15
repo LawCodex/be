@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/03/11/2004200988/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 08-04-2004 et mise à jour au 20-08-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MARS 2004. - Décret relatif aux incitants régionaux en faveur des grandes entreprises.

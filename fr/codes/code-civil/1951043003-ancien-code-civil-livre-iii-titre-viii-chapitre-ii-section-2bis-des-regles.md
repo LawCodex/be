@@ -13,7 +13,7 @@ last_amended: 2019-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1951/04/30/1951043003/justel"
 justel_note: "Consultation des versions antérieures à partir du 28-02-2003 et mise à jour au 14-05-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 1951. - [ANCIEN] CODE CIVIL. - LIVRE III - TITRE VIII - CHAPITRE II, Section 2bis : Des règles particulières aux baux commerciaux (Intitulé modifié par L 2019-04-13/28 , art. 2, 009; En vigueur : 01-11-2020)

@@ -18,7 +18,7 @@ justel_notes:
   - "art. 101 gewijzigd met ingang op een onbepaalde datum bij DVR 2005-07-15/51 , art. 300, 015; Inwerkingtreding : onbepaald "
   - "een geconsolideerde versie van deze tekst is gratis te raadplegen op het internet in de database van de Vlaamse Codex"
   - "Raadpleging van vroegere versies vanaf 08-06-1999 en tekstbijwerking tot 24-07-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MEI 1999. - Decreet houdende de organisatie van de ruimtelijke ordening.

@@ -13,7 +13,7 @@ last_amended: 2007-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/03/01/1976030102/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 01-01-1987 en tekstbijwerking tot 28-07-2007"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 1976. \_ Kaderwet tot reglementering van de bescherming van de beroepstitel en van de uitoefening van de dienstverlenende intellectuele beroepen.

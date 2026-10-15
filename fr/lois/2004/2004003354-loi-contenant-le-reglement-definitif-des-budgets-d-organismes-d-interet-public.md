@@ -12,7 +12,7 @@ entry_into_force: 2004-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/04/2004003354/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2004. - Loi contenant le règlement définitif des budgets d'organismes d'intérêt public pour l'année 1994

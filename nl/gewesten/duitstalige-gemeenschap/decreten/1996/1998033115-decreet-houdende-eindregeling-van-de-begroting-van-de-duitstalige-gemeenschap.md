@@ -13,7 +13,7 @@ entry_into_force: 1999-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/10/21/1998033115/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OKTOBER 1996. - Decreet houdende eindregeling van de begroting van de Duitstalige Gemeenschap voor het begrotingsjaar 1989 (VERTALING).

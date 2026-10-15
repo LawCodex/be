@@ -13,7 +13,7 @@ entry_into_force: 2004-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/16/2006036591/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 2006. - Decreet tot instelling van een aantal maatregelen tot herstructurering en flexibilisering van het hoger onderwijs in Vlaanderen.

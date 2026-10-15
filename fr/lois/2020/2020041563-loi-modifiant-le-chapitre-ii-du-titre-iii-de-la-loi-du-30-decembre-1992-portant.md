@@ -12,7 +12,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/29/2020041563/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2020. - Loi modifiant le chapitre II du titre III de la loi du 30 décembre 1992 portant des dispositions sociales et diverses, relatif à l'instauration d'une cotisation annuelle à charge des sociétés, destinée au statut social des travailleurs indépendants afin de reporter en 2020 la date de paiement de ladite cotisation au 31 octobre

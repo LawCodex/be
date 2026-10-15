@@ -12,7 +12,7 @@ entry_into_force: 2006-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/05/12/2006003158/justel"
 department: "Chancellerie du Premier Ministre - Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Loi modifiant le texte néerlandais de l'article 10, dernier alinéa, de la loi du 29 octobre 1846 relative à l'organisation de la Cour des comptes.

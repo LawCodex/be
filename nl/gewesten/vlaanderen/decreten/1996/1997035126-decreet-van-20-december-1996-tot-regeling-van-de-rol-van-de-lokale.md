@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/12/20/1997035126/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 08-02-1997 en tekstbijwerking tot 19-06-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 1996. - [ Decreet van 20 december 1996 tot regeling van de rol van de lokale adviescommissie in het kader van het recht op minimumlevering van elektriciteit, gas en water [en de levering van thermische energie].] &lt;Opschrift gewijzigd door DVR 2013-07-19/56 , art. 3, 005; Inwerkingtreding : 02-09-2013&gt; &lt;Opschrift gewijzigd door DVR 2017-03-10/15 , art. 2, 006; Inwerkingtreding : 01-04-2019&gt;

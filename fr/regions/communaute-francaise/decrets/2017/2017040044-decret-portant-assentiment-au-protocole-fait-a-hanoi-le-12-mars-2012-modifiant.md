@@ -13,7 +13,7 @@ entry_into_force: 2017-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/01/26/2017040044/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2017. - Décret portant assentiment au Protocole, fait à Hanoi le 12 mars 2012, modifiant la Convention entre le Royaume de Belgique et la République socialiste du Vietnam tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et le Protocole, signés à Hanoi le 28 février 1996

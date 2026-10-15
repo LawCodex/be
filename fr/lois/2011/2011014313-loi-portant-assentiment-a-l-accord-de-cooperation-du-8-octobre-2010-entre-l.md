@@ -12,7 +12,7 @@ entry_into_force: 2012-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/11/13/2011014313/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBRE 2011. - Loi portant assentiment à l'Accord de coopération du 8 octobre 2010 entre l'Etat fédéral et les Régions en vue de l'exécution des Règlements des Communautés européennes relatifs à une politique de capacité des flottes communautaires dans la navigation intérieure en vue de promouvoir le transport par voie navigable

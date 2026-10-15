@@ -13,7 +13,7 @@ entry_into_force: 1999-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/11/30/1998033134/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 1998. - Decreet houdende instemming met het Verdrag van Amsterdam tot wijziging van het Verdrag over de Europese Unie, van de overeenkomsten houdende instelling van de Europese Gemeenschappen alsmede van enkele daarmee verbonden Rechtsakten, met de bijlage, met de Protocollen A, B, C en D en met de Slotakte, ondertekend te Amsterdam op 2 oktober 1997 (VERTALING).

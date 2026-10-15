@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1993/07/22/1993093510/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 23-12-1994 et mis à jour au 23-12-1995"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 1993. - Loi portant des dispositions fiscales et financières.

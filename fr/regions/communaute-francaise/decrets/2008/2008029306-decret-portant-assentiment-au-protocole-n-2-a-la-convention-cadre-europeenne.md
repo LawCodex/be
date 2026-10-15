@@ -13,7 +13,7 @@ entry_into_force: 2008-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/05/09/2008029306/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2008. - Décret portant assentiment au Protocole n° 2 à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales relatif à la coopération interterritoriale, fait à Strasbourg le 5 mai 1998.

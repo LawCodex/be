@@ -13,7 +13,7 @@ entry_into_force: 2018-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/09/06/2018013798/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 SEPTEMBRE 2018. - Décret modifiant l'article 39 de l'arrêté royal du 27 juillet 1979 fixant le statut des membres du personnel technique des centres psycho-médico-sociaux de la Communauté française et des membres du personnel du service d'inspection chargés de la surveillance de ces centres psycho-médico-sociaux, tel que modifié par l'article 47 du décret du 11 juillet 2018 portant diverses mesures en matière de statut des membres du personnel de l'enseignement

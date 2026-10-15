@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/22/2008029225/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 23-04-2008 et mise à jour au 09-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 2008. - Décret portant diverses mesures relatives à l'organisation et au fonctionnement de l'Agence pour l'évaluation de la qualité de l'enseignement supérieur organisé ou subventionné par la Communauté française

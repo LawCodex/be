@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/12/19/1998035141/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 14-02-1998 et mis à jour au 11-06-1999"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1997. - Décret autorisant le Gouvernement flamand à collaborer à la création de l'association sans but lucratif " Vlaams Omroeporkest en Kamerkoor " (TRADUCTION).

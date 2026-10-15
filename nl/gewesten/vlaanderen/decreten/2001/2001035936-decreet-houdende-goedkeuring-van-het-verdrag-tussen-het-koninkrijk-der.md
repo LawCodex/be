@@ -13,7 +13,7 @@ entry_into_force: 2001-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/13/2001035936/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2001. - Decreet houdende goedkeuring van het verdrag tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap van België inzake de transnationale Universiteit Limburg, ondertekend te Maastricht op 18 januari 2001.

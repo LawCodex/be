@@ -12,7 +12,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/07/02/2023A44046/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2023. - Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République togolaise relatif au transport aérien, fait à Lomé, le 13 juin 2019

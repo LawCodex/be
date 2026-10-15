@@ -12,7 +12,7 @@ entry_into_force: 2021-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/03/17/2021201324/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2021. - Révision de la Constitution visant à insérer au titre II de la Constitution un article 22 ter garantissant aux personnes en situation de handicap le droit à une pleine inclusion dans la société

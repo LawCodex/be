@@ -12,7 +12,7 @@ entry_into_force: 2017-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/03/15/2017011463/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 2017. - Wet tot wijziging van artikel 39/79 van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen

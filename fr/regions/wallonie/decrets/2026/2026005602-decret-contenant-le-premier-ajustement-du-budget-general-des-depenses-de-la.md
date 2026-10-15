@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/02/2026005602/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2026. - Décret contenant le premier ajustement du budget général des dépenses de la Région wallonne pour l'année budgétaire 2026

@@ -12,7 +12,7 @@ entry_into_force: 2007-06-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/10/2007002097/justel"
 department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MAI 2007. - Loi modifiant la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme et la xénophobie.

@@ -12,7 +12,7 @@ entry_into_force: 2006-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/11/26/2006003559/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2006. - Wet houdende een begeleidingsmaatregel voor de voorraadactualisering door de erkende diamanthandelaars.

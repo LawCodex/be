@@ -13,7 +13,7 @@ entry_into_force: 2012-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/29/2012203966/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2012. - DECRET sanctionnant l'arrêté du Gouvernement flamand du 4 mai 2012 portant adaptation des objectifs finaux du domaine d'apprentissage 'maatschappijoriëntatie' (orientation sociale) de l'éducation de base

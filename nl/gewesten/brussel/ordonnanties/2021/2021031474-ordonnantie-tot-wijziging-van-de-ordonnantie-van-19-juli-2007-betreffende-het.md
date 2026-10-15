@@ -13,7 +13,7 @@ entry_into_force: 2021-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/05/06/2021031474/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MEI 2021. - Ordonnantie tot wijziging van de ordonnantie van 19 juli 2007 betreffende het preventieve gezondheidsbeleid

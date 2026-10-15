@@ -11,7 +11,7 @@ published: 1969-11-27
 entry_into_force: 1969-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1969/08/20/1969082013/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 AOUT 1969. - Loi portant approbation de la Convention unique sur les stupéfiants, et des annexes, faites à New York le 30 mars 1961.

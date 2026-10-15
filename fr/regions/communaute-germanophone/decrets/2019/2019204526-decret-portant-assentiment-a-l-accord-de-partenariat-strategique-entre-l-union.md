@@ -13,7 +13,7 @@ entry_into_force: 2019-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/09/23/2019204526/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 SEPTEMBRE 2019. - Décret portant assentiment à l'accord de partenariat stratégique entre l'Union européenne et ses Etats membres, d'une part, et le Japon, d'autre part, fait à Tokyo le 17 juillet 2018

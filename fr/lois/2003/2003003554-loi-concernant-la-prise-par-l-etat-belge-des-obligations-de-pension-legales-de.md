@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/12/11/2003003554/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 15-12-2003 et mise à jour au 29-12-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2003. - Loi concernant la prise par l'Etat belge des obligations de pension légales de société anonyme de droit public [Proximus] vis-à-vis de son personnel statutaire &lt;Intitulé modifié par L 2015-08-10/26 , art. 3, 002; En vigueur : 22-06-2015 (voir AR 2015-09-11/02 , art. 1)&gt;

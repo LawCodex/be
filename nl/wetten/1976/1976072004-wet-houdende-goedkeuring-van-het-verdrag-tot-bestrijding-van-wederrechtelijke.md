@@ -9,7 +9,7 @@ language: nl
 date: 1976-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1976/07/20/1976072004/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 1976. - Wet houdende goedkeuring van het Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart, opgemaakt te Montreal op 23 september 1971, en houdende wijziging van de wet van 27 juni 1937 houdende herziening van de wet van 16 november 1919 betreffende de regeling der luchtvaart.

@@ -13,7 +13,7 @@ entry_into_force: 2015-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/09/2015029346/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JULI 2015. - Decreet tot wijziging van artikel 10 van het decreet van 17 juli 2002 tot bepaling van het getuigschrift van pedagogische bekwaamheid voor het hoger onderwijs (CAPAES - "Certificat d'aptitude pédagogique approprié à l'enseignement supérieur") in de hogescholen en in het hoger onderwijs voor sociale promotie en van de voorwaarden voor het verkrijgen ervan

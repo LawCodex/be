@@ -12,7 +12,7 @@ entry_into_force: 2013-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/03/01/2013201609/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2013. - Loi portant assentiment à l'accord de coopération du 1er juin 2011 entre l'Etat fédéral et les Régions et les Communautés concernant la coordination des contrôles en matière de travail illégal et de fraude sociale

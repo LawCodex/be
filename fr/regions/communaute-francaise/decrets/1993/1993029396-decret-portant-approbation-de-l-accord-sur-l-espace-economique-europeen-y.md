@@ -13,7 +13,7 @@ entry_into_force: 1993-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1993/07/05/1993029396/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 1993. - DECRET portant approbation de l'Accord sur l'Espace économique européen y compris les protocoles, les annexes, les arrangements et les déclarations des parties contractantes à l'accord, fait à Porto le 2 mai 1992

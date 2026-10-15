@@ -13,7 +13,7 @@ entry_into_force: 2020-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/12/18/2019042945/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2019. - Decreet houdende aanpassing van de ontvangstenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2019

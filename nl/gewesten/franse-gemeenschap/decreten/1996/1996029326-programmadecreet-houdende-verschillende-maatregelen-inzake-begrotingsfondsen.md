@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/25/1996029326/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 16-10-1996 en tekstbijwerking tot 16-01-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JULI 1996. - Programmadecreet houdende verschillende maatregelen inzake begrotingsfondsen, schoolgebouwen, onderwijs en audiovisuele sector (VERTALING).

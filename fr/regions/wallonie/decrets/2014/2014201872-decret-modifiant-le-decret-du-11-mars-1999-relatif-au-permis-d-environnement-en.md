@@ -13,7 +13,7 @@ entry_into_force: 2014-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/13/2014201872/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2014. - Décret modifiant le décret du 11 mars 1999 relatif au permis d'environnement en vue de favoriser la distribution des invendus alimentaires consommables aux associations d'aide alimentaire

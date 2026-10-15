@@ -12,7 +12,7 @@ entry_into_force: 2020-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/04/2020202642/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 2020. - Loi modifiant des dispositions législatives en ce qui concerne la transparence des conventions en matière de spécialités remboursables

@@ -10,7 +10,7 @@ date: 2021-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/11/10/2021022416/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2021. - Wet tot bekrachtiging van het koninklijk besluit van 28 oktober 2021 houdende de afkondiging van de epidemische noodsituatie betreffende de coronavirus COVID-19-pandemie

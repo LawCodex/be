@@ -12,7 +12,7 @@ entry_into_force: 2019-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/02/17/2019040547/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEBRUARI 2019. - Wet houdende de verhoging van de grensbedragen van toepassing voor de bepaling van de solidariteitsafhouding inzake pensioenen

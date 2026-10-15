@@ -12,7 +12,7 @@ published: 2002-03-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/18/2001027518/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2001. - Decreet houdende de eerste aanpassing van de algemene uitgavenbegroting van het Waalse Gewest voor het begrotingsjaar 2001 (VERTALING).

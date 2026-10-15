@@ -13,7 +13,7 @@ entry_into_force: 1990-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1990/11/09/1991028635/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 NOVEMBER 1990. - Decreet betreffende de voorwaarden voor de uitbating van de logiesverstrekkende inrichtingen en de hotelinrichtingen. &lt;Vertaling&gt; -

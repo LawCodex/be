@@ -11,7 +11,7 @@ date: 2013-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/07/26/2013031710/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JULI 2013. - Ordonnantie houdende instemming met : de Kaderovereenkomst inzake een breed Partnerschap en Samenwerking tussen de Europese Unie en haar lidstaten, enerzijds, en de Socialistische Republiek Vietnam, anderzijds, gedaan te Brussel op 27 juni 2012

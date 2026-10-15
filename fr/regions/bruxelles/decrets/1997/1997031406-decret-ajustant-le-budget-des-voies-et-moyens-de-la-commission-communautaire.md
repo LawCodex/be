@@ -13,7 +13,7 @@ entry_into_force: 1997-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/06/26/1997031406/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 1997. - Décret ajustant le budget des Voies et Moyens de la Commission communautaire française pour l'année budgétaire 1997.

@@ -12,7 +12,7 @@ entry_into_force: 2018-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/12/25/2017032124/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2017. - Loi modifiant diverses dispositions en vue de réformer les cantons judiciaires

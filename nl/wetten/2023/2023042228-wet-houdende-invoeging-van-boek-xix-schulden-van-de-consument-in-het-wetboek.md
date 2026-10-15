@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/05/04/2023042228/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 23-05-2023 en tekstbijwerking tot 11-12-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2023. - Wet houdende invoeging van boek XIX "Schulden van de consument" in het Wetboek van economisch recht

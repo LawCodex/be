@@ -13,7 +13,7 @@ entry_into_force: 2021-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/04/02/2021031143/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2021. - Décret modifiant divers décrets à la suite de la réorganisation des TIC au sein du domaine politique Chancellerie, Gouvernance publique, Affaires étrangères et Justice

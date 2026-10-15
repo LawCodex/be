@@ -13,7 +13,7 @@ entry_into_force: 1982-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/03/14/1995029189/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 1995. - Décret modifiant l'arrêté royal n° 63 du 20 juillet 1982 modifiant les dispositions des statuts pécuniaires applicables au personnel enseignant et assimilé de l'enseignement de plein exercice et de l'enseignement de promotion sociale ou à horaire réduit.

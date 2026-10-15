@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/07/27/2017040699/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 12-09-2017 en tekstbijwerking tot 19-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JULI 2017. - Ordonnantie ter bevordering van onderzoek, ontwikkeling en innovatie door de toekenning van steun met economische finaliteit ten voordele van ondernemingen en onderzoeksorganisaties gelijkgesteld met ondernemingen

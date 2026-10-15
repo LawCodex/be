@@ -12,7 +12,7 @@ entry_into_force: 2014-06-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/19/2014011343/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2014. - Wet betreffende de handel in zeehondenproducten

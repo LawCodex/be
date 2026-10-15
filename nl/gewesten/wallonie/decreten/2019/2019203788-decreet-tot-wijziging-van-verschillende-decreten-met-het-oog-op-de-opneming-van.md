@@ -12,7 +12,7 @@ published: 2019-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/02/2019203788/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2019. - Decreet tot wijziging van verschillende decreten met het oog op de opneming van sociale, ethische en milieuclausules in de overheidsopdrachten gesubsidieerd door het Waalse Gewest

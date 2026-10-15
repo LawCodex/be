@@ -13,7 +13,7 @@ entry_into_force: 2017-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/02/10/2017010868/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2017. - Décret portant assentiment à la modification de l'article 6 du Protocole de Londres de 1996 à la Convention de 1972 sur la prévention de la pollution des mers résultant de l'immersion de déchets et autres matières, adoptée à Londres le 30 octobre 2009

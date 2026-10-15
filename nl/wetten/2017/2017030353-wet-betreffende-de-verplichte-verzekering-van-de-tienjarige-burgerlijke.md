@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/05/31/2017030353/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 09-06-2017 en tekstbijwerking tot 21-03-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2017. - Wet betreffende de verplichte verzekering van de tienjarige burgerlijke aansprakelijkheid van aannemers, architecten en andere dienstverleners in de bouwsector van werken in onroerende staat en tot wijziging van de wet van 20 februari 1939 op de bescherming van de titel en van het beroep van architect

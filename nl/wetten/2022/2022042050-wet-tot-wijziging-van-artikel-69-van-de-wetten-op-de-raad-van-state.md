@@ -12,7 +12,7 @@ entry_into_force: 2022-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/09/06/2022042050/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 SEPTEMBER 2022. - Wet tot wijziging van artikel 69 van de wetten op de Raad van State, gecoördineerd op 12 januari 1973

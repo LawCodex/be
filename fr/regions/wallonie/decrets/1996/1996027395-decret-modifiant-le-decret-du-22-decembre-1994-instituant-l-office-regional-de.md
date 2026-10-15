@@ -12,7 +12,7 @@ published: 1996-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/06/20/1996027395/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUIN 1996. - Décret modifiant le décret du 22 décembre 1994 instituant l'Office régional de Promotion de l'Agriculture et de l'Horticulture.

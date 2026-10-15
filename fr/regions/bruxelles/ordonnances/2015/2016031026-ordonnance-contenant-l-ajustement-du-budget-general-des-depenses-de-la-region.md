@@ -13,7 +13,7 @@ entry_into_force: 2015-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/12/04/2016031026/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2015. - Ordonnance contenant l'ajustement du Budget général des Dépenses de la Région de Bruxelles-Capitale pour l'année budgétaire 2015

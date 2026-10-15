@@ -13,7 +13,7 @@ entry_into_force: 2000-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/04/26/2000035420/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2000. - Decreet houdende wijziging van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening en van het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996.

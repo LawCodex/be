@@ -13,7 +13,7 @@ entry_into_force: 2009-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/01/15/2009031057/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANVIER 2009. - Décret portant assentiment à la Convention relative aux droits des personnes handicapées et au Protocole facultatif se rapportant à la Convention relative aux droits des personnes handicapées, adoptés à New York le 13 décembre 2006.

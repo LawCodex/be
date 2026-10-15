@@ -12,7 +12,7 @@ entry_into_force: 2004-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/02/17/2004015026/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2002. - Loi portant assentiment à la Convention entre le Royaume de Belgique et la République de l'Equateur tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et au Protocole, faits à Quito le 18 décembre 1996.

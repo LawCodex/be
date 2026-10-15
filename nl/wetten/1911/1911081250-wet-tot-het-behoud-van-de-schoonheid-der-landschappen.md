@@ -11,7 +11,7 @@ published: 1911-08-19
 entry_into_force: 1911-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1911/08/12/1911081250/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 AUGUSTUS 1911. - Wet tot het behoud van de schoonheid der landschappen.

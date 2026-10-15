@@ -12,7 +12,7 @@ entry_into_force: 2004-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/05/2004002055/justel"
 department: "Kanselarij van de Eerste Minister - Personeel en Organisatie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUNI 2004. - Wet tot wijziging van de wet van 19 december 1974 tot regeling van de betrekkingen tussen de overheid en de vakbonden van haar personeel.

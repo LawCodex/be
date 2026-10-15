@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/16/2019012672/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 07-06-2019 et mise à jour au 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2019. - Décret et ordonnance conjoints de la Région de Bruxelles-Capitale, la Commission communautaire commune et la Commission communautaire française, relatifs à la publicité de l'administration dans les institutions bruxelloises

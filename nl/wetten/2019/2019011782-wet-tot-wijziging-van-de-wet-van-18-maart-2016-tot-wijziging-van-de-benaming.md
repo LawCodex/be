@@ -12,7 +12,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/23/2019011782/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2019. - Wet tot wijziging van de wet van 18 maart 2016 tot wijziging van de benaming van de Rijksdienst voor Pensioenen in Federale Pensioendienst, tot integratie van de bevoegdheden en het personeel van de Pensioendienst voor de Overheidssector, van een deel van de bevoegdheden en van het personeel van de Directie-generaal Oorlogsslachtoffers, van de opdrachten "Pensioenen" van de lokale en provinciale sectoren van de Dienst voor de Bijzondere socialezekerheidsstelsels en van HR Rail en tot overname van de gemeenschappelijke sociale dienst van de Dienst voor de Bijzondere socialezekerheidsstelsels, teneinde de Federale Pensioendienst te machtigen subsidies te verlenen aan bepaalde federaties en organisaties die opkomen voor de oorlogsslachtoffers en hun rechthebbenden

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/02/29/2024004669/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
 justel_note: "Raadpleging van vroegere versies vanaf 27-05-2024 en tekstbijwerking tot 04-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 FEBRUARI 2024. - Wet betreffende de grondstoffen gebruikt door de apothekers

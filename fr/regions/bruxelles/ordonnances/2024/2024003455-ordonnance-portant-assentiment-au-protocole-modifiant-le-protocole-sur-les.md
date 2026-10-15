@@ -13,7 +13,7 @@ entry_into_force: 2024-05-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2024/04/04/2024003455/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2024. - Ordonnance portant assentiment au Protocole modifiant le Protocole sur les privilèges et immunités de l'Organisation Benelux de la propriété intellectuelle (marques et dessins ou modèles), fait à Bruxelles le 6 décembre 2022

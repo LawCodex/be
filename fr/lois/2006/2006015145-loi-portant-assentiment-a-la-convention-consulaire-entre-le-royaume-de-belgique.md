@@ -12,7 +12,7 @@ entry_into_force: 2010-03-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/08/22/2006015145/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AOUT 2006. - Loi portant assentiment à la Convention consulaire entre le Royaume de Belgique et la Fédération de Russie, signée à Moscou le 22 décembre 2004

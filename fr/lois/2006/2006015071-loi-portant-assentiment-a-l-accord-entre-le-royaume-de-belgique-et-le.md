@@ -12,7 +12,7 @@ entry_into_force: 2006-05-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/04/03/2006015071/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2006. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et le Gouvernement de Nouvelle-Zélande sur l'exercice d'activités à but lucratif par des membres de la famille de membres du personnel diplomatique et consulaire, signé à Bruxelles le 23 avril 2003.

@@ -12,7 +12,7 @@ entry_into_force: 2021-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/06/21/2021031707/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2021. - Programmawet

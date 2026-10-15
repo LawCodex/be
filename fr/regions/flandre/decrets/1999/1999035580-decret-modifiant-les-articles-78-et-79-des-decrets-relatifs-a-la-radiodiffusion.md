@@ -13,7 +13,7 @@ entry_into_force: 1999-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/03/30/1999035580/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 1999. - Décret modifiant les articles 78 et 79 des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 25 janvier 1995 (TRADUCTION).

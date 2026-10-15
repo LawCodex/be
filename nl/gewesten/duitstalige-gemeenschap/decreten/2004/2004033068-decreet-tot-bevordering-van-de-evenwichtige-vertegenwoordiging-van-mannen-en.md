@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/03/2004033068/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-09-2004 en tekstbijwerking tot 31-03-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2004. - Decreet tot bevordering van de evenwichtige vertegenwoordiging van mannen en vrouwen in adviesorganen (VERTALING)

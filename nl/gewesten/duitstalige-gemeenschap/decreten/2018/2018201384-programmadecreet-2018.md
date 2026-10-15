@@ -13,7 +13,7 @@ entry_into_force: 2018-03-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/26/2018201384/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2018. - Programmadecreet 2018

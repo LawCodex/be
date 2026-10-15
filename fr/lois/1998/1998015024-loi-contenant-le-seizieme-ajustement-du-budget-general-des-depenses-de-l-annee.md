@@ -12,7 +12,7 @@ entry_into_force: 1998-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/01/26/1998015024/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 1998. - Loi contenant le seizième ajustement du budget général des dépenses de l'année budgétaire 1997 - Section 15 " Coopération au Développement ".

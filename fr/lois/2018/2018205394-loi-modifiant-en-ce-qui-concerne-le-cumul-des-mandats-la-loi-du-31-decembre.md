@@ -12,7 +12,7 @@ entry_into_force: 2019-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/10/14/2018205394/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 OCTOBRE 2018. - Loi modifiant, en ce qui concerne le cumul des mandats, la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone

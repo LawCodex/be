@@ -12,7 +12,7 @@ entry_into_force: 1990-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/01/02/1990003002/justel"
 department: "Finances"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JANVIER 1990. - Loi accordant temporairement un complément de pension à certains pensionnés du secteur public.

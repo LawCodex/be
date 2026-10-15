@@ -13,7 +13,7 @@ entry_into_force: 2015-12-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2015/12/03/2015031847/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2015. - Ordonnantie houdende instemming met het Protocol inzake toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiend uit hun gebruik bij het Verdrag inzake biologische diversiteit, en met de bijlage ervan, gedaan te Nagoya (Japan) op 29 oktober 2010

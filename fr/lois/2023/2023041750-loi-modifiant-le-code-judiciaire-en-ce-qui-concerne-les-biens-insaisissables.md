@@ -12,7 +12,7 @@ entry_into_force: 2023-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/04/07/2023041750/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2023. - Loi modifiant le Code judiciaire en ce qui concerne les biens insaisissables

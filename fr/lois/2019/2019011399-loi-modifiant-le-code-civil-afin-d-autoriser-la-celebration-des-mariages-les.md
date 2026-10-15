@@ -12,7 +12,7 @@ entry_into_force: 2019-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/23/2019011399/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2019. - Loi modifiant le Code civil afin d'autoriser la célébration des mariages les dimanches et/ou jours fériés

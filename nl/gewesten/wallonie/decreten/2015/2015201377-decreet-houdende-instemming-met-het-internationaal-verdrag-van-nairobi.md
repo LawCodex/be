@@ -13,7 +13,7 @@ entry_into_force: 2015-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/03/12/2015201377/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAART 2015. - Decreet houdende instemming met het internationaal verdrag van Nairobi betreffende de verwijdering van wrakken, en de bijlagen ervan, opgemaakt in Nairobi op 18 mei 2007

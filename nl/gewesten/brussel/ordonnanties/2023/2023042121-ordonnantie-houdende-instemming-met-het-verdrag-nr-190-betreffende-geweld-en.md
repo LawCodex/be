@@ -12,7 +12,7 @@ published: 2023-08-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/04/27/2023042121/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2023. - Ordonnantie houdende instemming met het Verdrag nr. 190 betreffende geweld en intimidatie in de wereld van werk, aangenomen door de Internationale Arbeidsorganisatie in haar 108ste zitting op 21 juni 2019.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/20/2002027121/justel"
 department: "Région Wallonne"
 justel_note: "Ce texte est abrogé par DRW 2004-05-27/63, art. 2, 5°, 002; En vigueur : indéterminée ; voir M.B. 09-07-2004, p. 54668"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2001. - Décret relatif aux conventions environnementales.

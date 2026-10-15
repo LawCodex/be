@@ -13,7 +13,7 @@ entry_into_force: 2016-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/17/2016200283/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 DECEMBER 2015. - Decreet houdende de derde wijziging van het decreet van 12 december 2013 houdende de begroting van de ontvangsten en de algemene begroting van de uitgaven van de Duitstalige Gemeenschap voor het begrotingsjaar 2014

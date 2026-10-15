@@ -13,7 +13,7 @@ entry_into_force: 2006-08-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/19/2006202604/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2006. - Décret modifiant la loi organique du 8 juillet 1976 des centres publics d'aide sociale, relatif au mode de désignation des membres des bureaux permanents et des comités spéciaux des centres publics d'action sociale.

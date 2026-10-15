@@ -13,7 +13,7 @@ entry_into_force: 2019-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/05/16/2019012922/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2019. - Ordonnantie van het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschapscommissie tot wijziging van de gezamenlijke ordonnantie van het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschapscommissie van 14 december 2017 betreffende de transparantie van de bezoldigingen en voordelen van de Brusselse openbare mandatarissen, en de gezamenlijke ordonnantie van het Brussels Hoofdstedelijk Gewest en de Gemeenschappelijke Gemeenschapscommissie houdende de oprichting van een Brusselse Deontologische Commissie

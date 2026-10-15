@@ -12,7 +12,7 @@ entry_into_force: 2025-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/03/25/2025002546/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MARS 2025. - Loi ouvrant des crédits provisoires pour les mois d'avril, mai et juin 2025

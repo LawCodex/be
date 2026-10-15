@@ -13,7 +13,7 @@ entry_into_force: 2026-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/03/05/2026002005/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2026. - Décret visant à modifier le décret coordonné du 27 décembre 1993 instituant un prix du Parlement de la Communauté française en vue de couronner un ouvrage à l'usage de l'enseignement et de l'éducation permanente, mettant en valeur le patrimoine de la Communauté française, tel que modifié par les décrets du 4 mai 2016 et du 11 juin 2020

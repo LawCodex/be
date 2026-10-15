@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/09/30/1993029479/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 06-10-1993 en tekstbijwerking tot 20-09-2002"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 SEPTEMBER 1993. - Decreet houdende sommige bepalingen in verband met de rustpensioenen van de ambtenaren van de " Radio-Télévision belge de la Communauté francaise (R.T.B.F.) ". (Vertaling)

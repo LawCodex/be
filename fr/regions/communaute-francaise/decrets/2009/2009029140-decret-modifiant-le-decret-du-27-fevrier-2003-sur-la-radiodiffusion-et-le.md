@@ -13,7 +13,7 @@ entry_into_force: 2009-03-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/02/05/2009029140/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 FEVRIER 2009. - Décret modifiant le décret du 27 février 2003 sur la radiodiffusion et le décret du 9 janvier 2003 relatif à la transparence, à l'autonomie et au contrôle des organismes publics, des sociétés de bâtiments scolaires et des sociétés de gestion patrimoniale qui dépendent de la Communauté française

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/12/21/2016206576/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 04-01-2017 en tekstbijwerking tot 23-10-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2016. - Decreet houdende de toekenning van steun via een in het Waalse Gewest geïntegreerd steunportfolio aan projectontwikkelaars en kleine en middelgrote ondernemingen, ter bevordering van het ondernemerschap of de groei, en strekkende de oprichting van een databank van authentieke bronnen die verbonden is met die geïntegreerde portefeuille

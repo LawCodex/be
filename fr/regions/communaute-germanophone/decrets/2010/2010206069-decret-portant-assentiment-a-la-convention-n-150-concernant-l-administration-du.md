@@ -13,7 +13,7 @@ entry_into_force: 2010-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/11/22/2010206069/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 NOVEMBRE 2010. - Décret portant assentiment à la Convention n° 150 concernant l'administration du travail, adoptée à Genève le 26 juin 1978 par la Conférence générale de l'Organisation internationale du travail

@@ -13,7 +13,7 @@ entry_into_force: 2015-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/07/02/2015031428/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUILLET 2015. - Ordonnance portant assentiment à l'accord de coopération du 24 septembre 2013 entre l'Etat fédéral, les Communautés et les Régions sur la représentation du Royaume de Belgique au sein de l'Agence internationale pour les énergies renouvelables (IRENA) et sur les contributions financières à cette organisation

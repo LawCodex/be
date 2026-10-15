@@ -12,7 +12,7 @@ entry_into_force: 2016-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/06/2016000458/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2016. - Loi modifiant la loi du 12 janvier 2007 sur l'accueil des demandeurs d'asile et de certaines autres catégories d'étrangers

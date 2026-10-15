@@ -12,7 +12,7 @@ entry_into_force: 2014-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/25/2014003196/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2014. - Wet tot invoering van mechanismen voor een macropridentieel beleid en tot vaststelling van de specifieke taken van de Nationale Bank van België in het kader van haar opdracht om bij te dragen tot de stabiliteit van de financiële sector

@@ -13,7 +13,7 @@ entry_into_force: 2014-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/04/03/2014031325/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2014. - Ordonnantie tot wijziging van het Brussels Wetboek van Ruimtelijke Ordening en de ordonnantie van 12 december 1991 houdende oprichting van begrotingsfondsen

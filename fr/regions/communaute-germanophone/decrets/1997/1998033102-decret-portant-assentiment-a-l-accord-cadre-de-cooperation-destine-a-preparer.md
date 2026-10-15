@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/10/20/1998033102/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OCTOBRE 1997. - Décret portant assentiment à l'Accord-cadre de coopération destiné à préparer une association à caractère politique et économique entre la Communauté européenne et ses Etats membres, d'une part, et la République du Chili, d'autre part, ainsi qu'à l'Annexe, faits à Florence le 21 juin 1996 (TRADUCTION).

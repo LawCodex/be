@@ -13,7 +13,7 @@ entry_into_force: 1983-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1983/03/30/1983023162/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 1983. - Decreet met betrekking tot de bescherming van het olympisch symbool, het zinnebeeld en de leuze. (Vertaling).

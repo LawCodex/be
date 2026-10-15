@@ -13,7 +13,7 @@ entry_into_force: 2022-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/04/28/2022041025/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2022. - Ordonnance portant assentiment à la Convention du Conseil de l'Europe sur l'accès aux documents publics, faite à Tromso le 18 juin 2009

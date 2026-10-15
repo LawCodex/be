@@ -12,7 +12,7 @@ published: 2019-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2019/02/21/2019040459/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEBRUARI 2019. - Ordonnantie tot wijziging van het Wetboek der Successierechten met het oog op harmonisatie van de tarieven en gelijkheid van behandeling tussen stichtingen van openbaar nut en erkende vzw's

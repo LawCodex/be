@@ -13,7 +13,7 @@ last_amended: 2019-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1969/04/01/1969040109/justel"
 justel_note: "Consultation des versions antérieures à partir du 26-05-1981 et mise à jour au 01-08-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 1969. - Loi instituant un revenu garanti aux personnes âgées.

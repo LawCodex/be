@@ -16,7 +16,7 @@ department: "Kanselarij van de Eerste Minister"
 justel_notes:
   - "bij arrest nr.124/2018 van 15-10-2018 (B.St. 15-10-2018, p. 78069), heeft het Grondwettelijk Hof de artikelen 51 tot 58 vernietigd, in zoverre zij de ambtenaren van de Algemene Administratie van de Douane en Accijnzen toestaan tot inbeslagneming over te gaan van een voertuig waarvan de kentekenhouder niet de eigenaar is"
   - "Raadpleging van vroegere versies vanaf 29-12-2016 en tekstbijwerking tot 15-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBER 2016. - Programmawet

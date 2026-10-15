@@ -13,7 +13,7 @@ entry_into_force: 2008-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/06/2009201417/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAART 2009. - Decreet houdende wijziging van het decreet van 28 juni 2002 betreffende gelijke onderwijskansen-I

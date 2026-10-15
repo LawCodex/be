@@ -12,7 +12,7 @@ entry_into_force: 2019-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/16/2018031040/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2006. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et le Gouvernement de la République du Guatemala concernant l'encouragement et la protection réciproques des investissements, signé à Bruxelles le 14 avril 2005

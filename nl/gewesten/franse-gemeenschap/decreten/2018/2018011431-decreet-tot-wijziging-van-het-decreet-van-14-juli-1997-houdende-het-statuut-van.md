@@ -13,7 +13,7 @@ entry_into_force: 2018-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/22/2018011431/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 FEBRUARI 2018. - Decreet tot wijziging van het decreet van 14 juli 1997 houdende het statuut van de "Radio-Télévision belge de la Communauté française"

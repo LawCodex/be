@@ -13,7 +13,7 @@ entry_into_force: 2023-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/06/16/2023043401/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2023. - Décret modifiant les articles 23 et 27/1 de la loi du 16 mars 1968 relative à la police de la circulation routière

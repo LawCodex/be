@@ -13,7 +13,7 @@ entry_into_force: 2011-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/03/17/2011029194/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2011. - Décret portant assentiment à la Convention n° 142 concernant le rôle de l'orientation et de la formation professionnelles dans la mise en valeur des ressources humaines, adoptée par la Conférence générale de l'Organisation internationale du Travail à sa soixantième session, à Genève le 23 juin 1975

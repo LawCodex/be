@@ -12,7 +12,7 @@ published: 2025-01-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/12/20/2024011964/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2024. - Decreet tot wijziging van het decreet Basisonderwijs van 25 februari 1997, de Codex Secundair Onderwijs van 17 december 2010 en de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, wat het inschrijvingsrecht in het buitengewoon onderwijs betreft

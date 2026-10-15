@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/07/06/2007023090/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 17-07-2007 et mise à jour au 17-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2007. - Loi relative à la procréation médicalement assistée et à la destination des embryons surnuméraires et des gamètes.

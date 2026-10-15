@@ -10,7 +10,7 @@ date: 1979-07-11
 entry_into_force: 1980-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1979/07/11/1979071108/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 1979. - Wet houdende goedkeuring van de Overeenkomst inzake het internationaal vervoer van aan bederf onderhevige levensmiddelen en het gebruik van speciale vervoermiddelen bij dit vervoer (ATP), en van de Bijlagen, opgemaakt te Geneve op 1 september 1970.

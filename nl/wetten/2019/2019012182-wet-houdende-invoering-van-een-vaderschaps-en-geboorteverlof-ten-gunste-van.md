@@ -12,7 +12,7 @@ entry_into_force: 2019-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/07/2019012182/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2019. - Wet houdende invoering van een vaderschaps- en geboorteverlof ten gunste van zelfstandigen

@@ -13,7 +13,7 @@ entry_into_force: 2023-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2022/12/15/2022043034/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2022. - Ordonnance modifiant le Code du 25 mars 1999 de l'inspection, la prévention, la constatation et la répression des infractions en matière d'environnement et de la responsabilité environnementale, en vue d'y insérer une procédure de transaction administrative

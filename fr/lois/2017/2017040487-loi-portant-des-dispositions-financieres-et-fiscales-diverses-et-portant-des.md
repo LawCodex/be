@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/31/2017040487/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 11-08-2017 et mise à jour au 22-03-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2017. - Loi portant des dispositions financières et fiscales diverses et portant des mesures en matière de contrats de concession

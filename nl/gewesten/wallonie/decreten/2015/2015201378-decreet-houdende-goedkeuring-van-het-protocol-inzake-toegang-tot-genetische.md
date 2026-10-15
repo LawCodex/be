@@ -13,7 +13,7 @@ entry_into_force: 2015-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/03/12/2015201378/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAART 2015. - Decreet houdende goedkeuring van het Protocol inzake toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik bij het Verdrag inzake biologische diversiteit, opgemaakt te Nagoya, op 29 oktober 2010, en van de bijlage ervan

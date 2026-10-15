@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/18/1999036051/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 30-09-1999 et mise à jour au 29-08-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1999. - Décret contenant diverses mesures d'accompagnement du budget 1999 (Traduction).

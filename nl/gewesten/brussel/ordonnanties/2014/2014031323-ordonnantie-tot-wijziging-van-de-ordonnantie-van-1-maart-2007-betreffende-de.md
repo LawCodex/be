@@ -13,7 +13,7 @@ entry_into_force: 2014-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/04/03/2014031323/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2014. - Ordonnantie tot wijziging van de ordonnantie van 1 maart 2007 betreffende de bescherming van het leefmilieu tegen de eventuele schadelijke effecten en hinder van niet-ioniserende stralingen en tot wijziging van de ordonnantie van 5 juni 1997 betreffende de milieuvergunningen

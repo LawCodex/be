@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/05/18/2018013116/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 03-08-2018 et mise à jour au 05-07-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 2018. - Décret établissant le système d'assurance qualité dans l'enseignement supérieur

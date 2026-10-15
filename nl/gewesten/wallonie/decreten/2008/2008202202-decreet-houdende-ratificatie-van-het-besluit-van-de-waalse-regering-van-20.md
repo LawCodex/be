@@ -13,7 +13,7 @@ entry_into_force: 2008-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/19/2008202202/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2008. - Decreet houdende ratificatie van het besluit van de Waalse Regering van 20 december 2007 ter uitvoering van artikel 55 van het decreet van 8 december 2005 houdende wijziging van sommige bepalingen van het Wetboek van de plaatselijke democratie en de decentralisatie (VERTALING).

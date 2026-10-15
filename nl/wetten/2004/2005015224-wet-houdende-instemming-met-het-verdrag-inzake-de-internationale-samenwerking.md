@@ -12,7 +12,7 @@ entry_into_force: 2005-06-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/24/2005015224/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2004. - Wet houdende instemming met het Verdrag inzake de internationale samenwerking en de bescherming van kinderen op het gebied van de interlandelijke adoptie, gedaan te Den Haag op 29 mei 1993.

@@ -10,7 +10,7 @@ date: 2018-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/07/30/2018032160/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 JULI 2018. - Wet tot wijziging van diverse bepalingen betreffende een uitreisverbod, de aflevering, ongeldigverklaring en intrekking van reisdocumenten en identiteitsdocumenten voor niet-ontvoogde minderjarigen

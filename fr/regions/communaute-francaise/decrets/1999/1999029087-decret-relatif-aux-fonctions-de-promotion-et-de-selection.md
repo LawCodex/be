@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/01/04/1999029087/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 25-02-1999 et mise à jour au 29-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JANVIER 1999. - Décret relatif aux fonctions de promotion et de sélection.

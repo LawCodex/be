@@ -13,7 +13,7 @@ entry_into_force: 2018-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/02/26/2018201701/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2018. - Decreet houdende instemming met het Protocol, gedaan te Brussel op 1 april 2014, tot wijziging van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van Canada tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Ottawa op 23 mei 2002

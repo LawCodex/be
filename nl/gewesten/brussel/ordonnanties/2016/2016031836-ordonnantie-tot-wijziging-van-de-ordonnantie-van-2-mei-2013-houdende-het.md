@@ -13,7 +13,7 @@ entry_into_force: 2017-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/12/08/2016031836/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2016. - Ordonnantie tot wijziging van de ordonnantie van 2 mei 2013 houdende het Brussels Wetboek van Lucht, Klimaat en Energiebeheersing

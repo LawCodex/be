@@ -10,7 +10,7 @@ date: 2002-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/01/29/2002015023/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 JANUARI 2002. - Wet houdende instemming met het Akkoord gesloten door wisseling van brieven gedagtekend te Brussel op 23 december 1998 en 19 februari 1999 tussen het Koninkrijk België en het Koninkrijk der Nederlanden inzake de voorrechten en immuniteiten van de Belgische naar Europol afgevaardigde officieren.

@@ -13,7 +13,7 @@ entry_into_force: 2019-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/14/2019013216/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MARS 2019. - Décret portant assentiment à l'Accord entre le Royaume de Belgique et l'Agence spatiale européenne additionnel à la Convention portant création d'une Agence spatiale européenne du 30 mai 1975, sur les privilèges et immunités de l'Agence spatiale européenne en Belgique, signé à Bruxelles, le 24 mai 2017

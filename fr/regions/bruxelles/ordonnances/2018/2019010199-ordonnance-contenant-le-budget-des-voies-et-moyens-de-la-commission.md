@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/12/21/2019010199/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2018. - Ordonnance contenant le Budget des Voies et Moyens de la Commission communautaire commune pour l'année budgétaire 2019

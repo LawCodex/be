@@ -13,7 +13,7 @@ entry_into_force: 2000-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/12/20/2000033018/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1999. - Décret contenant le règlement définitif du budget de la Communauté germanophone pour l'année budgétaire 1998 (TRADUCTION).

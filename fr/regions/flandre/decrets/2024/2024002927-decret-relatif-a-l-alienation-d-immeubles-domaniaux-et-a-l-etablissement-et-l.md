@@ -13,7 +13,7 @@ entry_into_force: 2024-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/08/2024002927/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 2024. - Décret relatif à l'aliénation d'immeubles domaniaux et à l'établissement et l'aliénation de droits réels

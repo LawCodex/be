@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/05/21/1991022311/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking - Financiën - Sociale Voorzorg"
 justel_note: "Raadpleging van vroegere versies vanaf 20-06-1991 en tekstbijwerking tot 28-07-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MEI 1991. - Wet tot vaststelling van een zeker verband tussen Belgische pensioenregelingen en die van instellingen van internationaal publiek recht.

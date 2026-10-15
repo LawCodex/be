@@ -13,7 +13,7 @@ entry_into_force: 2009-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/03/26/2009031188/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2009. - Ordonnance modifiant l'ordonnance du 5 juin 1997 relative aux permis d'environnement

@@ -13,7 +13,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/11/20/2020031703/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBRE 2020. - Décret portant modification du Code flamand de la Fiscalité du 13 décembre 2013, en ce qui concerne la déclaration d'appareils automatiques de divertissement

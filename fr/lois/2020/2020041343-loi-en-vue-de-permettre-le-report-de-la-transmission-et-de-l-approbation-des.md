@@ -12,7 +12,7 @@ entry_into_force: 2020-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/07/2020041343/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2020. - Loi en vue de permettre le report de la transmission et de l'approbation des comptes annuels de skeyes pour l'année 2019, par suite des mesures prises dans le cadre de la crise du COVID-19

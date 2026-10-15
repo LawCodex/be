@@ -11,7 +11,7 @@ published: 2022-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/02/23/2022020788/justel"
 department: "Federale Kamers"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 FEBRUARI 2022. - Wet houdende instemming met de Overeenkomst tot beëindiging van bilaterale investeringsverdragen tussen de lidstaten van de Europese Unie, gedaan te Brussel op 5 mei 2020

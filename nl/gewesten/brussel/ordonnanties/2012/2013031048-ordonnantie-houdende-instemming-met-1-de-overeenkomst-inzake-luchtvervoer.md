@@ -13,7 +13,7 @@ entry_into_force: 2013-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/12/21/2013031048/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2012. - Ordonnantie houdende instemming met : 1° de Overeenkomst inzake luchtvervoer tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Staten van Amerika, anderzijds, ondertekend in Washington op 30 april 2007, en 2° het Protocol tot wijziging van de Luchtvervoerovereenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Staten van Amerika, anderzijds, ondertekend in Brussel op 24 juni 2010

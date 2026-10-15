@@ -12,7 +12,7 @@ entry_into_force: 1998-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/11/17/1998022758/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 1998. - Wet tot wijziging van de wet van 24 februari 1921 betreffende het verhandelen van de giftstoffen, slaapmiddelen en verdovende middelen, ontsmettingsstoffen en antiseptica en het koninklijk besluit nr. 78 van 10 november 1967 betreffende de uitoefening van de geneeskunst, de verpleegkunde, de paramedische beroepen en de geneeskundige commissies.

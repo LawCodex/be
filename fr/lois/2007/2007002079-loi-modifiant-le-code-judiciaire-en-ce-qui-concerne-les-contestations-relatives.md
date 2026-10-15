@@ -12,7 +12,7 @@ entry_into_force: 2007-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/21/2007002079/justel"
 department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2007. - Loi modifiant le Code Judiciaire en ce qui concerne les contestations relatives à l'octroi, à la révision et au refus de l'aide matérielle.

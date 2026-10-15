@@ -12,7 +12,7 @@ entry_into_force: 1995-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/03/08/1995000199/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 1995. - Wet tot wijziging van het artikel 74/2 van en tot invoeging van een nieuw artikel 74/4bis in de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen.

@@ -12,7 +12,7 @@ entry_into_force: 2018-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/01/26/2018010874/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2018. - Loi modifiant la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques en ce qui concerne la transparence administrative au sein des filiales de la SNCB et d'Infrabel

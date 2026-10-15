@@ -13,7 +13,7 @@ entry_into_force: 2018-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/24/2018202791/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 2018. - Decreet houdende instemming met het samenwerkingsakkoord van 1 juni 2011 tussen de Federale Staat en de Gewesten en de Gemeenschappen betreffende de coördinatie van de controles inzake illegale arbeid en sociale fraude

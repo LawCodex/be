@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/07/17/1996033005/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 27-02-1996 et mise à jour au 04-08-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 1995. - Décret relatif aux droits d'inscription et au minerval dans l'enseignement (TRADUCTION). (NOTE 1 : Abrogé pour l'enseignement fondamental ordinaire, l'enseignement secondaire ordinaire et l'enseignement spécial. &lt;DCG 1998-08-31/42, art. 121, § 3 ,1°, 002; En vigueur : 01-09-1998&gt;)

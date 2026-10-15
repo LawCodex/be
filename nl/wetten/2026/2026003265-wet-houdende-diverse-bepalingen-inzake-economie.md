@@ -12,7 +12,7 @@ entry_into_force: 2026-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2026/04/20/2026003265/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 APRIL 2026. - Wet houdende diverse bepalingen inzake economie

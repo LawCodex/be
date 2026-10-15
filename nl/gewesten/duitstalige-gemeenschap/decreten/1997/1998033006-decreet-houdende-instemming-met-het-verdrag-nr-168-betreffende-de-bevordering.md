@@ -13,7 +13,7 @@ entry_into_force: 1998-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/12/15/1998033006/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 1997. - Decreet houdende instemming met het Verdrag nr. 168 betreffende de bevordering van de werkgelegenheid en de bescherming tegen werkloosheid, aangenomen te Genève op 21 juni 1988 door de Internationale Arbeidsconferentie tijdens haar 75e zitting.

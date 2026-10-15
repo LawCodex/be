@@ -12,7 +12,7 @@ published: 2025-02-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/01/23/2025000875/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JANUARI 2025. - Decreet houdende verschillende maatregelen inzake het hoger onderwijs en het onderzoek

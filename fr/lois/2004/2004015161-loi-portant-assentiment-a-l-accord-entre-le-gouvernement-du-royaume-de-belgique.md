@@ -12,7 +12,7 @@ entry_into_force: 2004-10-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/14/2004015161/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2004. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République d'Albanie relatif à la réadmission des personnes en séjour irrégulier (Accord de réadmission), et au Protocole d'application, signés à Tirana le 17 avril 2001.

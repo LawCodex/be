@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/14/2019201258/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 20-03-2019 en tekstbijwerking tot 09-04-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEBRUARI 2019. - Decreet tot wijziging van Hoofdstuk II van Titel III van Boek II van Deel I van het Wetboek van de plaatselijke democratie en de decentralisatie betreffende de begraafplaatsen en de lijkbezorging

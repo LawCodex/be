@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/28/2014203433/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2014. - Décret modifiant le décret du 27 mai 2004 relatif à l'exercice par la Communauté germanophone de certaines compétences de la Région wallonne en matière de pouvoirs subordonnés

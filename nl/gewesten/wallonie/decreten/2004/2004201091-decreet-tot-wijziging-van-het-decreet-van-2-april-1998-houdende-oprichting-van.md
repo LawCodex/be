@@ -13,7 +13,7 @@ entry_into_force: 2004-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/04/01/2004201091/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 2004. - Decreet tot wijziging van het decreet van 2 april 1998 houdende oprichting van het " Agence wallonne à l'Exportation " (Waals Exportagentschap) (VERTALING).

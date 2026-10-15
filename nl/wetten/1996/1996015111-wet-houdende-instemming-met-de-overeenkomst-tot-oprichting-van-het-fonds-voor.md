@@ -12,7 +12,7 @@ entry_into_force: 1996-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/06/10/1996015111/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JUNI 1996. - Wet houdende instemming met de Overeenkomst tot oprichting van het Fonds voor Ontwikkeling van de inheemse volken in Latijns-Amerika en de Caraïben, gedaan te Madrid op 24 juli 1992.

@@ -13,7 +13,7 @@ entry_into_force: 1999-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/12/19/1999035030/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 1998. - Décret portant approbation des actes internationaux suivants : 1. Accord entre l'Union économique belgo-luxembourgeoise et la République d'Estonie concernant l'encouragement et la protection réciproques des investissements, et le Protocole, signés à Bruxelles le 24 janvier 1996; 2. Accord entre l'Union économique belgo-luxembourgeoise et la République de Lettonie concernant l'encouragement et la protection réciproques des investissements, et le Protocole, signés à Bruxelles le 27 mars 1996; 3. Accord entre l'Union économique belgo-luxembourgeoise et la République de Lituanie concernant l'encouragement et la protection réciproques des investissements, et le Protocole, signés à Bruxelles le 15 octobre 1997 (TRADUCTION).

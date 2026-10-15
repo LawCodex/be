@@ -13,7 +13,7 @@ entry_into_force: 2013-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/19/2013204690/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2013. - Décret modifiant le décret du 20 décembre 1996 réglant le droit à la fourniture minimale d'électricité, de gaz et d'eau et modifiant le décret du 24 mai 2002 relatif aux eaux destinées à l'utilisation humaine en ce qui concerne la livraison minimale d'eau et la protection d'abonnés contre la coupure de l'approvisionnement en eau potable

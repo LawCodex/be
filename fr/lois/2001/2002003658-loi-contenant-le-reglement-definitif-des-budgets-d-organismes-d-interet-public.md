@@ -12,7 +12,7 @@ entry_into_force: 2002-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/11/27/2002003658/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBRE 2001. - Loi contenant le règlement définitif des budgets d'organismes d'intérêt public pour l'année 1991 ou pour des années antérieures.

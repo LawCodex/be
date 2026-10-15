@@ -13,7 +13,7 @@ entry_into_force: 2024-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/10/2024200971/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2024. - Décret modifiant le décret du 27 mai 2004 relatif à l'exercice, par la Communauté germanophone, de certaines compétences de la Région wallonne en matière de pouvoirs subordonnés

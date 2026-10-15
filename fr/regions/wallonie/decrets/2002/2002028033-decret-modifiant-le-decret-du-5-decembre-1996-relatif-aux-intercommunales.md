@@ -12,7 +12,7 @@ published: 2002-10-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/10/18/2002028033/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 OCTOBRE 2002. - Décret modifiant le décret du 5 décembre 1996 relatif aux intercommunales wallonnes.

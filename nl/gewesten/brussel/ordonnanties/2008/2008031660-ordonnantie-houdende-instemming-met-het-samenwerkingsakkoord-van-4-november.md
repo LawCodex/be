@@ -13,7 +13,7 @@ entry_into_force: 2008-01-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/12/19/2008031660/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2008. - Ordonnantie houdende instemming met het samenwerkingsakkoord van 4 november 2008 tussen het Vlaamse Gewest, het Brussels Hoofdstedelijk Gewest en het Waalse Gewest betreffende de preventie en het beheer van verpakkingsafval.

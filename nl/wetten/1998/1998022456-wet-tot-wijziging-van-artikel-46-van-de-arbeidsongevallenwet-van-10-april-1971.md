@@ -12,7 +12,7 @@ entry_into_force: 1998-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/05/20/1998022456/justel"
 department: "Sociale Zaken - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 1998. - Wet tot wijziging van artikel 46 van de arbeidsongevallenwet van 10 april 1971.

@@ -12,7 +12,7 @@ published: 2006-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/06/02/2006035958/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2006. - Decreet tot wijziging van het gemeentedecreet van 15 juli 2005.

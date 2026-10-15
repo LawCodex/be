@@ -13,7 +13,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1997/10/27/1997029410/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OKTOBER 1997. - Decreet houdende de middelenbegroting van de Franse Gemeenschap voor het begrotingsjaar 1998 (VERTALING).

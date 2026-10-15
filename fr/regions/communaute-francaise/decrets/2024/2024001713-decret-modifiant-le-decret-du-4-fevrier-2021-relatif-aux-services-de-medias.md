@@ -13,7 +13,7 @@ entry_into_force: 2024-03-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/02/15/2024001713/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2024. - Décret modifiant le décret du 4 février 2021 relatif aux services de médias audiovisuels et aux services de partage de vidéos et mettant partiellement en oeuvre le règlement sur les services numériques

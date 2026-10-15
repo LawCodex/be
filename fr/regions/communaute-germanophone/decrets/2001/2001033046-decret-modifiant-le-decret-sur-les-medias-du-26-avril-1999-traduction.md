@@ -13,7 +13,7 @@ entry_into_force: 2001-10-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/04/17/2001033046/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 AVRIL 2001. - Décret modifiant le décret sur les médias du 26 avril 1999 (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 2021-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/05/09/2021031512/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2021. - Wet tot wijziging van de wet van 22 december 2020 betreffende de medische hulpmiddelen

@@ -13,7 +13,7 @@ entry_into_force: 1996-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/04/02/1996035500/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 APRIL 1996. - Decreet houdende wijziging van artikel 79 van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 25 januari 1995.

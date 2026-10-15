@@ -13,7 +13,7 @@ entry_into_force: 2004-07-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/04/30/2004035972/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 AVRIL 2004. - Décret modifiant le décret du 30 mars 1999 portant création d'un "Vlaams Fonds voor de Letteren" (Fonds flamand des Lettres) (TRADUCTION).

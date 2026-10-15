@@ -11,7 +11,7 @@ published: 1995-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/05/04/1995016154/justel"
 department: "Justitie - Middenstand - Landbouw - Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 1995. - Wet tot wijziging van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn van dieren.

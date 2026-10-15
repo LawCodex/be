@@ -13,7 +13,7 @@ entry_into_force: 2013-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/05/02/2013031351/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2013. - Ordonnance portant assentiment : 1° à la Convention entre la Belgique et la France tendant à éviter les doubles impositions et à établir des règles d'assistance administrative et juridique réciproque en matière d'impôts sur les revenus, signée à Bruxelles le 10 mars 1964, et modifiée par les Avenants des 15 février 1971, 8 février 1999, 12 décembre 2008 et 7 juillet 2009; 2° à l'Avenant, fait à Bruxelles le 7 juillet 2009, à la Convention entre la Belgique et la France tendant à éviter les doubles impositions et à établir des règles d'assistance administrative et juridique réciproque en matière d'impôts sur les revenus, signée à Bruxelles le 10 mars 1964, et modifiée par les Avenants des 15 février 1971, 8 février 1999 et 12 décembre 2008

@@ -13,7 +13,7 @@ entry_into_force: 2014-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/13/2014201935/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2014. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap naar het Waalse Gewest is overgedragen, met het Verdrag van de Raad van Europa inzake het voorkomen en bestrijden van geweld tegen vrouwen en huiselijk geweld, aangenomen door het Comité van Ministers van de Raad van Europa op 7 april 2011

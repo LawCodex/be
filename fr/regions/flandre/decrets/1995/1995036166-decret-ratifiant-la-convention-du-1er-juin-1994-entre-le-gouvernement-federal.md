@@ -13,7 +13,7 @@ entry_into_force: 1995-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/19/1995036166/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 1995. - Décret ratifiant la convention du 1er juin 1994 entre le Gouvernement fédéral, le Gouvernement flamand, le Gouvernement de la Région wallonne et le Gouvernement de la Région de Bruxelles-Capitale, relative au règlement des dettes du passé et des charges s'y rapportant en matière de logement social. (TRADUCTION).

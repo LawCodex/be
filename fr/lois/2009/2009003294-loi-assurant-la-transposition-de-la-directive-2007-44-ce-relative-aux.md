@@ -12,7 +12,7 @@ entry_into_force: 2009-09-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/07/31/2009003294/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2009. - Loi assurant la transposition de la Directive 2007/44/CE relative aux procédures et critères d'évaluation applicables à l'évaluation prudentielle des acquisitions et des augmentations de participation dans des entités du secteur financier

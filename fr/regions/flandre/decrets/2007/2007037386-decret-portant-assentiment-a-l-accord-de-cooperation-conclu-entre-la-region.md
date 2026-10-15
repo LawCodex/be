@@ -13,7 +13,7 @@ entry_into_force: 2005-10-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/12/14/2007037386/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2007. - Décret portant assentiment à l'accord de coopération conclu entre la Région Bruxelles-Capitale, la Région wallonne, la Région flamande, la Communauté flamande, la Communauté germanophone et la Commission communautaire française concernant la mobilité interrégionale des chercheurs d'emploi (TRADUCTION).

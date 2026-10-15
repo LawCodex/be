@@ -13,7 +13,7 @@ entry_into_force: 2017-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/30/2017020498/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 2017. - Decreet houdende wijziging van het Provinciedecreet van 9 december 2005, het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, het Digitaal Kiesdecreet van 25 mei 2012 en het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges

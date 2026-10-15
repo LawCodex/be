@@ -13,7 +13,7 @@ entry_into_force: 1995-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1995/04/19/1995035720/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 1995. - Decreet houdende wijziging van het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen.

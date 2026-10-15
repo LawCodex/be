@@ -10,7 +10,7 @@ date: 2012-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/09/01/2013015011/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 SEPTEMBER 2012. - Wet houdende instemming met de Wijzigingen van de Bijlagen II en III bij het Verdrag van Parijs van 22 september 1992 inzake de bescherming van het marien milieu van de Noordoostelijke Atlantische Oceaan, aangenomen te Oostende op 29 juni 2007

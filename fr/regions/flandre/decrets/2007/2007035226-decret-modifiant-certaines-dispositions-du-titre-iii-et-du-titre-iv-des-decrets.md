@@ -13,7 +13,7 @@ entry_into_force: 2007-03-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/02/02/2007035226/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEVRIER 2007. - Décret modifiant certaines dispositions du titre III et du titre IV des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 4 mars 2005 (TRADUCTION).

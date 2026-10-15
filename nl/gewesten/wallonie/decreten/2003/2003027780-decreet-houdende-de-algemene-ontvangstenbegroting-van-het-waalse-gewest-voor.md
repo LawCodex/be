@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/12/18/2003027780/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2003. - Decreet houdende de algemene ontvangstenbegroting van het Waalse Gewest voor het begrotingsjaar 2004. (Vertaling).

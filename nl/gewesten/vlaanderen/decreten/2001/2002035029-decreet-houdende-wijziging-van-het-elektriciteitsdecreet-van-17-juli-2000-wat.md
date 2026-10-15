@@ -13,7 +13,7 @@ entry_into_force: 2002-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/21/2002035029/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2001. - Decreet houdende wijziging van het Elektriciteitsdecreet van 17 juli 2000 wat betreft de medewerking van de gemeenten en de openbare centra voor maatschappelijk welzijn aan de uitvoering van de openbare dienstverplichtingen van netbeheerders en houders van een leveringsvergunning.

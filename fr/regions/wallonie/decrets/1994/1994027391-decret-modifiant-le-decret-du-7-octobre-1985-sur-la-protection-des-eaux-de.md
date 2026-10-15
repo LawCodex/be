@@ -13,7 +13,7 @@ entry_into_force: 1994-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/06/23/1994027391/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 1994. - Décret modifiant le décret du 7 octobre 1985 sur la protection des eaux de surface contre la pollution.

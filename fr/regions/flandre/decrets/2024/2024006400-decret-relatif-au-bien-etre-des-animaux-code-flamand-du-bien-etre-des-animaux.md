@@ -16,7 +16,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/16/2024006400/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 02-07-2024 et mise à jour au 25-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2024. - Décret relatif au bien-être des animaux (Code flamand du bien-être des animaux du 17 mai 2024)

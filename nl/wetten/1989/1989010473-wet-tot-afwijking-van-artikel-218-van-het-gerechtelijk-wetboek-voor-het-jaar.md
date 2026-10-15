@@ -11,7 +11,7 @@ entry_into_force: 1989-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1989/11/20/1989010473/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 NOVEMBER 1989. - Wet tot afwijking van artikel 218 van het Gerechtelijk Wetboek voor het jaar 1989.

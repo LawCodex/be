@@ -13,7 +13,7 @@ entry_into_force: 2024-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/10/2024201043/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 2024. - Décret portant assentiment à l'accord de coopération du 26 avril 2023 entre l'Etat fédéral, la Région wallonne, la Région flamande et la Région de Bruxelles-Capitale portant création du Registre central des cycles

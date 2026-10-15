@@ -12,7 +12,7 @@ entry_into_force: 1994-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/02/09/1994025121/justel"
 department: "Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 FEVRIER 1994. - Loi modifiant la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits.

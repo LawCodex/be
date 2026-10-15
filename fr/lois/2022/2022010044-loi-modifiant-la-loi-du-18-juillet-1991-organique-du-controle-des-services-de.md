@@ -12,7 +12,7 @@ entry_into_force: 2022-12-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/04/25/2022010044/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2022. - Loi modifiant la loi du 18 juillet 1991 organique du contrôle des services de police et de renseignement et de l'Organe de coordination pour l'analyse de la menace en ce qui concerne l'obligation, pour le Service d'Enquêtes du Comité P, d'informer l'autorité disciplinaire compétente de l'existence d'une faute disciplinaire éventuelle lorsqu'il agit dans le cadre d'une enquête pénale

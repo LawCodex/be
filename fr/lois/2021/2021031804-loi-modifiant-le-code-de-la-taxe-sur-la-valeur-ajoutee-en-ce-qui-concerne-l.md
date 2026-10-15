@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/07/11/2021031804/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2021. - Loi modifiant le Code de la taxe sur la valeur ajoutée en ce qui concerne l'exemption de la taxe en matière de prestations de soins médicaux à la personne

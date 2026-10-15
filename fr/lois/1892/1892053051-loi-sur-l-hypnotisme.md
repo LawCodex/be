@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1892/05/30/1892053051/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 13-03-2003 et mise à jour au 10-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MAI 1892. - Loi sur l'hypnotisme.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/16/1998007133/justel"
 department: "Landsverdediging"
 justel_note: "Raadpleging van vroegere versies vanaf 07-07-1998 en tekstbijwerking tot 17-06-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 JUNI 1998. - Wet waarbij sommige militairen die slachtoffer zijn van lichamelijke schade overkomen [in bijzondere omstandigheden] gelijkgesteld worden met oorlogsinvaliden &lt;Opschrift gewijzigd door W 2019-05-20/09 , art. 9, 004; Inwerkingtreding : 01-01-2015&gt;

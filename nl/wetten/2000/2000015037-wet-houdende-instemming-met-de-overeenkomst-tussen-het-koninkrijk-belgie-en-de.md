@@ -12,7 +12,7 @@ entry_into_force: 2000-08-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/03/01/2000015037/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2000. - Wet houdende instemming met de overeenkomst tussen het Koninkrijk België en de Republiek Kazachstan tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en met het Protocol, ondertekend te Almaty op 16 april 1998.

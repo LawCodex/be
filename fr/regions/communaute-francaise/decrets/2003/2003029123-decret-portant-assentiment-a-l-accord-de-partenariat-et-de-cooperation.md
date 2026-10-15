@@ -13,7 +13,7 @@ entry_into_force: 2003-03-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/02/20/2003029123/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEVRIER 2003. - Décret portant assentiment à l'Accord de partenariat et de coopération établissant un partenariat entre les Communautés européennes et leurs Etats membres, d'une part, et le Turkménistan, d'autre part, et l'Acte final, faits à Bruxelles le 25 mai 1998.

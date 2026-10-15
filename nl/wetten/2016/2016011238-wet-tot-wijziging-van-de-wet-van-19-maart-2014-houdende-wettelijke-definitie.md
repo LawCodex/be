@@ -12,7 +12,7 @@ entry_into_force: 2016-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/05/04/2016011238/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2016. - Wet tot wijziging van de wet van 19 maart 2014 houdende wettelijke definitie van de ambachtsman

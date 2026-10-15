@@ -13,7 +13,7 @@ entry_into_force: 2011-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/03/31/2011029295/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2011. - Décret relatif à la gouvernance dans l'exécution des mandats publics au sein des organismes publics et des entités dérivées de l'autorité publique

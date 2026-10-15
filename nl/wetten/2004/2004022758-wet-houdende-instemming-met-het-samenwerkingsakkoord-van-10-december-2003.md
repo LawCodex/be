@@ -11,7 +11,7 @@ entry_into_force: 2004-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/09/01/2004022758/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 SEPTEMBER 2004. - Wet houdende instemming met het Samenwerkingsakkoord van 10 december 2003 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie, het Vlaams Gewest, het Waalse Gewest, het Brussels Hoofdstedelijk Gewest, voor de samenwerking in de beleidsdomeinen milieu en gezondheid.

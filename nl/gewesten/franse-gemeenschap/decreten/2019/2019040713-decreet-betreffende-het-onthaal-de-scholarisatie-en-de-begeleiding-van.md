@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/07/2019040713/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 18-03-2019 en tekstbijwerking tot 09-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 FEBRUARI 2019. - Decreet betreffende het onthaal, de scholarisatie en de begeleiding van leerlingen die de taal niet beheersen in het onderwijs georganiseerd of gesubsidieerd door de Franse Gemeenschap

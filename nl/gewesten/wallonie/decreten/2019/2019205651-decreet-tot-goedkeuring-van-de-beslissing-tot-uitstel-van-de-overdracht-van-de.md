@@ -13,7 +13,7 @@ entry_into_force: 2019-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/11/28/2019205651/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBER 2019. - Decreet tot goedkeuring van de beslissing tot uitstel van de overdracht van de dienst onroerende voorheffing naar het Waalse Gewest

@@ -12,7 +12,7 @@ entry_into_force: 2003-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/25/2003003138/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 2003. - Loi modifiant la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit.

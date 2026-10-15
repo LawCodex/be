@@ -13,7 +13,7 @@ entry_into_force: 2023-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/07/2023043828/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2023. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 24 maart 2023 over tijdelijke projecten in het basis- en secundair onderwijs in het kader van een herwaardering van het lerarenambt

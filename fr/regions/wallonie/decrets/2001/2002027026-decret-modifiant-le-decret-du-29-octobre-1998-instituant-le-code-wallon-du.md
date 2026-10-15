@@ -13,7 +13,7 @@ entry_into_force: 2002-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/20/2002027026/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2001. - Décret modifiant le décret du 29 octobre 1998 instituant le Code wallon du Logement.

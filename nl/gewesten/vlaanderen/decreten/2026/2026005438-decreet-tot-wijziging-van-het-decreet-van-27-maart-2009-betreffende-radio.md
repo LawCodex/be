@@ -13,7 +13,7 @@ entry_into_force: 2026-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/10/2026005438/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2026. - Decreet tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat betreft de radio-omroeporganisaties

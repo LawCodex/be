@@ -12,7 +12,7 @@ entry_into_force: 2008-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/07/06/2007029219/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JULI 2007. - Decreet tot wijziging van artikel 6, § 3, van het decreet van 17 juli 2002 houdende hervorming van de " Office de la Naissance et de l'Enfance ", afgekort " O.N.E. ", om de voorschoolse opvangstructuren ter voorafgaandelijke goedkeuring aan de " O.N.E. " voor te leggen voor de opvang van kinderen

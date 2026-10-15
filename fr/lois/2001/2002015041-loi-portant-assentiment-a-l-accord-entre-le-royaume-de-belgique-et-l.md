@@ -12,7 +12,7 @@ entry_into_force: 1996-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/09/05/2002015041/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 SEPTEMBRE 2001. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et l'Organisation internationale pour les Migrations relatif aux privilèges et immunités de cette organisation en Belgique, signé à Londres le 4 décembre 1996 modifiant l'Accord entre le Royaume de Belgique et le Comité intergouvernemental pour les migrations européennes signé à Genève le 2 juillet 1973.

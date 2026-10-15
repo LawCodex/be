@@ -12,7 +12,7 @@ entry_into_force: 2025-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/02/13/2025002056/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEVRIER 2004. - Loi portant assentiment à l'Accord portant création de l'Organisation Internationale de la Vigne et du Vin, et l'Acte final, faits à Paris le 3 avril 2001

@@ -13,7 +13,7 @@ last_amended: 1995-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/07/05/1976070503/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-12-1995 et mise à jour au 01-12-1995"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 1976. - Loi octroyant [au Bureau d'intervention et de restitution belge] les moyens financiers nécessaires à son fonctionnement.

@@ -13,7 +13,7 @@ entry_into_force: 2014-05-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/02/14/2014035294/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 FEVRIER 2014. - Décret modifiant le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement et le décret relatif du 8 mai 2009 relatif à l'Energie

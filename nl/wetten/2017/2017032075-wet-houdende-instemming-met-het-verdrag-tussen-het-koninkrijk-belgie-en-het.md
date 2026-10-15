@@ -12,7 +12,7 @@ entry_into_force: 2018-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/12/10/2017032075/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2017. - Wet houdende instemming met het Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden voor de aanpassing van de grens tussen de Nederlandse gemeenten Eijsden-Margraten en Maastricht en de Belgische stad Wezet, en de Bijlage, gedaan te Amsterdam op 28 november 2016

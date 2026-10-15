@@ -12,7 +12,7 @@ entry_into_force: 2004-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/02/10/2000015044/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 FEBRUARI 2000. - Wet houdende instemming met de Euro-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lid-Staten, enerzijds, en het Hasjemitisch Koninkrijk Jordanië, anderzijds, met de Bijlagen I tot en met VII, met de Protocollen 1 tot en met 4, en met de Slotakte, gedaan te Brussel op 24 november 1997.

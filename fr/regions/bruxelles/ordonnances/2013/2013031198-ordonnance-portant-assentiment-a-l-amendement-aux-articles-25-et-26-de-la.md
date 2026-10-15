@@ -13,7 +13,7 @@ entry_into_force: 2013-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2013/03/28/2013031198/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 MARS 2013. - Ordonnance portant assentiment à : l'Amendement aux articles 25 et 26 de la Convention d'Helsinki du 17 mars 1992 sur la protection et l'utilisation des cours d'eau transfrontières et des lacs internationaux, fait à Madrid le 28 novembre 2003

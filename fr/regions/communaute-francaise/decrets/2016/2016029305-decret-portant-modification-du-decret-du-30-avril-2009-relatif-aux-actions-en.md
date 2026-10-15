@@ -13,7 +13,7 @@ entry_into_force: 2016-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/06/02/2016029305/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2016. - Décret portant modification du décret du 30 avril 2009 relatif aux actions en matière d'alphabétisation et d'insertion dans l'enseignement de promotion sociale

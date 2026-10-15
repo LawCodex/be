@@ -13,7 +13,7 @@ entry_into_force: 2012-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/19/2012201968/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2012. - Décret portant assentiment à l'Accord entre la Communauté européenne et ses Etats membres, d'une part, et la République d'Afrique du Sud, d'autre part, modifiant l'accord sur le commerce, le développement et la coopération, fait à Kleinmond, Afrique du Sud, le 11 septembre 2009

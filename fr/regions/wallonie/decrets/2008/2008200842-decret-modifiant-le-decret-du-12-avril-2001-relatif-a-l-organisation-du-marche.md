@@ -13,7 +13,7 @@ entry_into_force: 2008-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/03/05/2008200842/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 2008. - Décret modifiant le décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité.

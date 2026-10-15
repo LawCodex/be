@@ -13,7 +13,7 @@ entry_into_force: 2014-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/04/03/2014031324/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 AVRIL 2014. - Ordonnance modifiant le Code électoral communal bruxellois concernant le contrôle des dépenses électorales engagées pour les élections des conseils communaux

@@ -13,7 +13,7 @@ entry_into_force: 1999-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/02/09/1999035252/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 FEBRUARI 1999. - Decreet houdende goedkeuring van de volgende internationale akte : de kaderovereenkomst inzake handel en samenwerking tussen de Europese Gemeenschap en haar lidstaten enerzijds, en de republiek Korea anderzijds, met bijlage en gemeenschappelijke verklaringen, ondertekend in Luxemburg op 28 oktober 1996.

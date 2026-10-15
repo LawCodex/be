@@ -11,7 +11,7 @@ published: 1956-07-25
 entry_into_force: 1956-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1956/07/10/1956071004/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 1956. - Loi relative à l'incorporation du froment indigène et à l'activité des meuneries industrielles, des négociants en froments indigènes et des utilisateurs de farine de froment.

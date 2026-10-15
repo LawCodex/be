@@ -13,7 +13,7 @@ entry_into_force: 2021-07-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/18/2021042595/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2021. - Decreet tot invoeging van een artikel 3ter in de wet van 20 juli 2001 tot bevordering van buurtdiensten en -banen

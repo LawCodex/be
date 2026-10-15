@@ -11,7 +11,7 @@ entry_into_force: 2016-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/07/21/2016011338/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JULI 2016. - Wet tot wijziging van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt wat betreft de wijziging van het systeem voor de toekenning van groenestroomcertificaten voor elektriciteit geproduceerd overeenkomstig artikel 6, de financiering van de onderzeese kabel en de productieafwijking

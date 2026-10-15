@@ -12,7 +12,7 @@ published: 2007-01-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/15/2006037076/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2006. - Décret relatif à la désignation des ministres des cultes et des conseillers moraux auprès de certaines personnes morales (TRADUCTION).

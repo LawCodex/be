@@ -13,7 +13,7 @@ entry_into_force: 1991-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1996/07/25/1996027437/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JULI 1996. - Decreet waarbij naar het Gewest overgehevelde personeelsleden van de Belgische Dienst voor Buitenlandse Handel ter beschikking van de Regering worden gesteld (VERTALING).

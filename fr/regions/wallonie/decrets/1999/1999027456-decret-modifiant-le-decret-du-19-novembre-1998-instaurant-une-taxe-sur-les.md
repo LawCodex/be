@@ -13,7 +13,7 @@ entry_into_force: 1999-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/06/1999027456/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 1999. - Décret modifiant le décret du 19 novembre 1998 instaurant une taxe sur les logements abandonnés en Région wallonne.

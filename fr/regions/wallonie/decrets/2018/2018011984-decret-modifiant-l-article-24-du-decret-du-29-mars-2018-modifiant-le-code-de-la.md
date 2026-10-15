@@ -13,7 +13,7 @@ entry_into_force: 2018-05-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/04/26/2018011984/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2018. - Décret modifiant l'article 24 du décret du 29 mars 2018 modifiant le Code de la démocratie locale et de la décentralisation en vue de renforcer la gouvernance et la transparence dans l'exécution des mandats publics au sein des structures locales et supra-locales et de leurs filiales

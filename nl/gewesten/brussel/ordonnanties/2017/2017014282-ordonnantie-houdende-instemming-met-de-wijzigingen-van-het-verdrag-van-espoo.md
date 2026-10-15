@@ -13,7 +13,7 @@ entry_into_force: 2017-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/12/07/2017014282/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2017. - Ordonnantie houdende instemming met de wijzigingen van het Verdrag van Espoo van 25 februari 1991 inzake milieueffectrapportage in grensoverschrijdend verband, aangenomen in Sofia (Bulgarije) op 27 februari 2001 en in Cavtat (Kroatië) op 4 juni 2004

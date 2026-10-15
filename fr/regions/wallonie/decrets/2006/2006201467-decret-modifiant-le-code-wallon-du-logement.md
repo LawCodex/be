@@ -13,7 +13,7 @@ entry_into_force: 2006-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/03/30/2006201467/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2006. - Décret modifiant le Code wallon du Logement.

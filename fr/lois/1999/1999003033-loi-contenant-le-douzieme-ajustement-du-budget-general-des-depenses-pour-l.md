@@ -12,7 +12,7 @@ entry_into_force: 1999-02-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/10/1999003033/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JANVIER 1999. - Loi contenant le douzième ajustement du budget général des dépenses pour l'année budgétaire 1998 - Section 18 "Ministère des Finances".

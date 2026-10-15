@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/04/01/1999027467/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 16-06-1999 en tekstbijwerking tot 24-01-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 APRIL 1999. - Decreet houdende oprichting van de publiekrechtelijke N.V. " SARSI " (VERTALING).

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/02/22/1998021087/justel"
 department: "Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 03-03-1998 et mise à jour au 07-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 FEVRIER 1998. - Loi portant des dispositions sociales. (NOTE 1 : les mots " Caisse des soins de santé de la Société nationale des Chemins de fer belges " sont remplacés par les mots " Caisse des soins de santé de la S.N.C.B. Holding " ; voir AR 2004-10-18/32 , art. 38 ; En vigueur : 01-01-2005)

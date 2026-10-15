@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/12/24/2000003032/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 22-05-1999 et mis à jour au 13-01-2001"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 1999. - Loi contenant le budget général des dépenses pour l'année budgétaire 2000.

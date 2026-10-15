@@ -12,7 +12,7 @@ entry_into_force: 1995-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/28/1995015091/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 1995. - Wet houdende goedkeuring van de Overeenkomst tussen het Koninkrijk België het groothertogdom Luxemburg over de sociale zekerheid van de grensarbeiders, en Slotprotocol, ondertekend te Aarlen op 24 maart 1994.

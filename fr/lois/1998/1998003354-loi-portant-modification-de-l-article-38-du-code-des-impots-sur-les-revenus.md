@@ -12,7 +12,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/08/1998003354/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUIN 1998. - Loi portant modification de l'article 38 du Code des impôts sur les revenus 1992 en ce qui concerne les agents volontaires de la Protection civile.

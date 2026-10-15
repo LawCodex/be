@@ -13,7 +13,7 @@ entry_into_force: 1997-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/06/23/2000021525/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2000. - Decreet houdende instemming met het samenwerkingsakkoord betreffende de wijze van omslag van de kosten van de gewestelijke ontvangers en de wijze van de inhouding van de bijdrage in die kosten door de besturen, gesloten te Brussel op 9 december 1997 tussen de Staat, de Vlaamse Gemeenschap, het Waalse Gewest en de Duitstalige Gemeenschap (VERTALING).

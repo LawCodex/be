@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/04/27/2017011936/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2017. - Décret modifiant le décret du 27 mai 1999 relatif à l'octroi de l'agrément et de subventions aux maisons d'accueil

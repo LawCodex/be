@@ -11,7 +11,7 @@ entry_into_force: 2022-10-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/08/13/2022042011/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AUGUSTUS 2022. - Wet tot wijziging van de wet van 15 mei 2007 betreffende de civiele veiligheid, opdat de raad van de hulpverleningszone elektronische vergaderingen op afstand kan houden wanneer de agenda dat mogelijk maakt

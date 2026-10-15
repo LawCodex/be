@@ -11,7 +11,7 @@ published: 1927-05-11
 entry_into_force: 1927-05-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1924/05/30/1924053050/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 1924. \_ Wet tot instelling van het "Handelsregister".

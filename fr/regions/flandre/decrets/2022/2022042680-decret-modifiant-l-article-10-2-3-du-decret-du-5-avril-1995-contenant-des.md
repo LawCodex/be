@@ -13,7 +13,7 @@ entry_into_force: 2023-01-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/10/21/2022042680/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 OCTOBRE 2022. - Décret modifiant l'article 10.2.3 du décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement et le décret du 18 juillet 2003 relatif à la politique intégrée de l'eau, coordonné le 15 juin 2018, en ce qui concerne l'assainissement des eaux usées

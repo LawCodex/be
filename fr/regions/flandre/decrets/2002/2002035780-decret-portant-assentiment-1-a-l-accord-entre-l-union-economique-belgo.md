@@ -13,7 +13,7 @@ entry_into_force: 2002-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/05/17/2002035780/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2002. - Décret portant assentiment : 1° à l'accord entre l'Union économique belgo-luxembourgeoise et le gouvernement de la République de Cuba concernant l'encouragement et la protection réciproques des investissements, signé à Bruxelles le 19 mai 1998; 2° à l'accord entre l'Union économique belgo-luxembourgeoise et les Etats-Unis du Mexique concernant l'encouragement et la protection réciproques des investissements, signé au Mexique le 27 août 1998; 3° à l'accord entre l'Union économique belgo-luxembourgeoise et le gouvernement de la République d'El Salvador concernant l'encouragement et la protection réciproques des investissements, signé à Bruxelles le 12 octobre 1999 (TRADUCTION).

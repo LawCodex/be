@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/08/13/1990922447/justel"
 department: "Volksgezondheid en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 11-04-2006 en tekstbijwerking tot 06-09-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 AUGUSTUS 1990. - WET houdende oprichting van een commissie voor de evaluatie van de wet van 3 april 1990 betreffende de zwangerschapsafbreking, tot wijziging van de artikelen 348, 350, 351 en 352 van het Strafwetboek en tot opheffing van artikel 353 van hetzelfde Wetboek

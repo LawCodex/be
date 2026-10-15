@@ -12,7 +12,7 @@ entry_into_force: 1999-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999009632/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 1999. - Loi modifiant les articles 1516, 1517, 1518 et 1519 du Code judiciaire en ce qui concerne les placards apposés en cas de saisie-exécution mobilière.

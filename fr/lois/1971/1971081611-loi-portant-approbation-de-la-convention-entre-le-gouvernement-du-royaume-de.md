@@ -11,7 +11,7 @@ published: 1971-09-25
 entry_into_force: 1971-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1971/08/16/1971081611/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 AOUT 1971. - Loi portant approbation de la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement du Royaume des Pays-Bas tendant à éviter les doubles impositions en matière d'impôts sur le revenu et sur la fortune et à régler certaines autres questions en matière fiscale et du protocole, signés à Bruxelles le 19 octobre 1970.

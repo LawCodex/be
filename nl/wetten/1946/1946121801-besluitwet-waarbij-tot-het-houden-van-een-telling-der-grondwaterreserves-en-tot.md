@@ -11,7 +11,7 @@ published: 1947-03-06
 entry_into_force: 1947-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1946/12/18/1946121801/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 1946. - BESLUITWET waarbij tot het houden van een telling der grondwaterreserves en tot invoering van een reglementering van hun gebruik besloten wordt

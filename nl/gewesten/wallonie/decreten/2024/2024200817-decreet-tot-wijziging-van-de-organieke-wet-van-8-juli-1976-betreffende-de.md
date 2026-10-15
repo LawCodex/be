@@ -13,7 +13,7 @@ entry_into_force: 2024-01-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/01/10/2024200817/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JANUARI 2024. - Decreet tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn voor wat betreft de pensionering van de statutaire personeelsleden van het plaatselijk openbaar ambt

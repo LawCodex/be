@@ -13,7 +13,7 @@ entry_into_force: 2002-04-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/15/2002035449/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2002. - Décret portant assentiment à l'accord entre le Gouvernement flamand et le Gouvernement de la République française sur la coopération dans les domaines de la culture, la langue, l'enseignement et les sciences, signé à Bruxelles le 28 septembre 2000 (TRADUCTION).

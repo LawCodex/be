@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/12/21/2013003461/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 31-12-2013 en tekstbijwerking tot 24-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBER 2013. - Wet betreffende diverse bepalingen inzake de financiering voor kleine en middelgrote ondernemingen

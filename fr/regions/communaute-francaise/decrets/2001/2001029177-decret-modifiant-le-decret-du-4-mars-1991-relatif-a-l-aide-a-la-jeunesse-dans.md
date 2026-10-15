@@ -13,7 +13,7 @@ entry_into_force: 2001-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/03/29/2001029177/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2001. - Décret modifiant le décret du 4 mars 1991 relatif à l'aide à la jeunesse dans ses dispositions visant les Conseils d'Arrondissement de l'Aide à la Jeunesse.

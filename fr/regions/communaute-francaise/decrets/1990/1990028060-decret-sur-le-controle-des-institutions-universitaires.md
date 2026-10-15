@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/07/12/1990028060/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 23-10-2012 et mise à jour au 06-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUILLET 1990. - Décret sur le contrôle des institutions universitaires

@@ -13,7 +13,7 @@ entry_into_force: 2003-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/05/15/2003031292/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2003. - Decreet houdende instemming met de Overeenkomst inzake handel, ontwikkeling en samenwerking tussen de Europese Gemeenschap en haar lid-Staten, enerzijds, en de Republiek Zuid-Afrika, anderzijds, en met de Slotakte (VERTALING).

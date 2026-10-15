@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/13/2002028098/justel"
 department: "Waalse Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-2025 en tekstbijwerking tot 29-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2002. - Decreet tot oprichting van een begrotingsfonds inzake loterij (VERTALING)

@@ -13,7 +13,7 @@ entry_into_force: 2023-07-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2023/06/01/2023042710/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUNI 2023. - Ordonnantie tot aanpassing van de Brusselse fiscale wetgeving aan de wet van 23 maart 2019 tot invoering van het Wetboek van vennootschappen en verenigingen en houdende diverse bepalingen alsook aan de wet van 28 april 2022 houdende boek 5 "Verbintenissen" van het Burgerlijk Wetboek en tot opheffing van artikel 48 2 van het Wetboek der successierechten

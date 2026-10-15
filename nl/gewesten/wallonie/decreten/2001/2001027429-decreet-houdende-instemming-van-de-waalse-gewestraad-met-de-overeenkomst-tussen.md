@@ -13,7 +13,7 @@ entry_into_force: 2001-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/07/12/2001027429/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JULI 2001. - Decreet houdende instemming van de Waalse Gewestraad met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Verenigde Mexicaanse Staten inzake de wederzijdse bevordering en bescherming van investeringen, opgemaakt te Mexico op 27 augustus 1998 (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2026-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/12/2026004488/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 JUIN 2026. - Décret sur la transparence des rémunérations et les mesures en faveur de l'égalité des rémunérations

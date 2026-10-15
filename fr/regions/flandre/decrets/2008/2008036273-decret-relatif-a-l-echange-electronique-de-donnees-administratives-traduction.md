@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/18/2008036273/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 29-10-2008 et mise à jour au 11-06-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2008. - Décret relatif à l'échange électronique de données administratives (TRADUCTION)

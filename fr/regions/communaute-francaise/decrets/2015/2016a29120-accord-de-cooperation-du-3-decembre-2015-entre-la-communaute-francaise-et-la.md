@@ -13,7 +13,7 @@ entry_into_force: 2016-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/03/2016A29120/justel"
 department: "Communauté française - Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBRE 2015. - Accord de coopération du 3 décembre 2015 entre la Communauté française et la Région wallonne habilitant les comités d'acquisition wallons à réaliser des opérations patrimoniales pour le compte de la Communauté française et des entités qui en dépendent

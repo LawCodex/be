@@ -12,7 +12,7 @@ published: 2000-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/07/17/2000035817/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2000. - Decreet houdende wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn.

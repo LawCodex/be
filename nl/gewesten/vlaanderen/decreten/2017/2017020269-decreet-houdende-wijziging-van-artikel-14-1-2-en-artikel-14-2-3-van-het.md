@@ -13,7 +13,7 @@ entry_into_force: 2017-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/02/03/2017020269/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEBRUARI 2017. - Decreet houdende wijziging van artikel 14.1.2 en artikel 14.2.3 van het Energiedecreet van 8 mei 2009

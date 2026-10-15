@@ -10,7 +10,7 @@ date: 1999-04-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/04/26/1999003290/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 1999. - Wet houdende goedkeuring van de Resolutie betreffend het vierde amendement op de statuten van het Internationaal Monetair Fonds

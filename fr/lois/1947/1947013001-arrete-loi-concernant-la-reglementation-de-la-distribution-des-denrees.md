@@ -11,7 +11,7 @@ published: 1947-02-03
 entry_into_force: 1947-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1947/01/30/1947013001/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 1947. - Arrêté-loi concernant la réglementation de la distribution des denrées alimentaires et des produits de première nécessité.

@@ -12,7 +12,7 @@ entry_into_force: 2001-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/05/2001015084/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAART 1999. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie en de Regering van Oekraïne inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Brussel op 20 mei 1996.

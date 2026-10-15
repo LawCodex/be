@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/07/14/2006202818/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 05-09-2006 et mise à jour au 24-09-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 2006. - Décret relatif aux missions, programmes et rapport d'activités des Centres psycho-médico-sociaux.

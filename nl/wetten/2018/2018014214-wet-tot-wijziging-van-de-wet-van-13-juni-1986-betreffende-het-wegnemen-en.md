@@ -12,7 +12,7 @@ entry_into_force: 2018-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2018/03/21/2018014214/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2018. - Wet tot wijziging van de wet van 13 juni 1986 betreffende het wegnemen en transplanteren van organen wat de mogelijkheden om zich te registreren als orgaandonor post mortem betreft

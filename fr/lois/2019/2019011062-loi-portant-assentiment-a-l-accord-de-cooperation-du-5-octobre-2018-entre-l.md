@@ -12,7 +12,7 @@ entry_into_force: 2019-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/02/15/2019011062/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEVRIER 2019. - Loi portant assentiment à l'accord de coopération du 5 octobre 2018 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif au financement des infrastructures ferroviaires stratégiques

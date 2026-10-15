@@ -12,7 +12,7 @@ entry_into_force: 2010-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/04/22/2010009549/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AVRIL 2010. - Loi modifiant les articles 92, 109bis et 1301 du Code judiciaire

@@ -13,7 +13,7 @@ entry_into_force: 1998-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/05/12/1998035608/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 1998. - Décret sanctionnant deux arrêtés du Gouvernement flamand ayant accordé l'équivalence des demandes de dérogation aux objectifs de développement et aux objectifs de développement et aux objectifs finaux de l'enseignement fondamental ordinaire et du premier degré de l'enseignement secondaire ordinaire (TRADUCTION).

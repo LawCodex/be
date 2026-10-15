@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/05/29/2018012572/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 11-06-2018 et mise à jour au 10-05-2019"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2018. - Loi fixant les conditions du passage à l'assujettissement à l'impôt des sociétés d'entreprises portuaires

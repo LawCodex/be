@@ -12,7 +12,7 @@ entry_into_force: 2025-10-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/03/01/2019011406/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2019. - Wet houdende instemming met de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Benin betreffende het luchtvervoer, gedaan te Cotonou op 9 januari 2018

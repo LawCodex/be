@@ -13,7 +13,7 @@ entry_into_force: 1987-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1987/07/01/1987029546/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1er JUILLET 1987. - Décret relatif au fonctionnement des intercommunales, à leur contrôle et à la détermination de leur ressort.

@@ -12,7 +12,7 @@ entry_into_force: 2026-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/12/11/2025009528/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2025. - Wet tot wijziging van het Burgerlijk Wetboek, teneinde bij een echtscheiding de mogelijkheden tot toewijzing van de gezinswoning te verruimen en die toewijzing bij een beëindiging van een wettelijke samenwoning mogelijk te maken

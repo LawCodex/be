@@ -12,7 +12,7 @@ entry_into_force: 2024-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/12/20/2024011882/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2024. - Wet tot wijziging van de wet van 15 mei 2024 houdende bepalingen inzake digitalisering van justitie en diverse bepalingen II

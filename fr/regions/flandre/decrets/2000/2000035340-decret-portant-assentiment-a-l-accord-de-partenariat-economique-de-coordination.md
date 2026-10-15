@@ -13,7 +13,7 @@ entry_into_force: 2000-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/03/03/2000035340/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2000. - Décret portant assentiment à l'accord de partenariat économique, de coordination politique et de coopération entre la Communauté européenne et ses Etats membres d'une part, et les Etats-Unis du Mexique d'autre part, à l'Acte final et à l'Annexe, signés à Bruxelles le 8 décembre 1997 (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 2022-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/09/25/2022033662/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 SEPTEMBER 2022. - Wet houdende invoeging in boek XI van het Wetboek van economisch recht en in het Gerechtelijk Wetboek van diverse bepalingen betreffende intellectuele eigendom

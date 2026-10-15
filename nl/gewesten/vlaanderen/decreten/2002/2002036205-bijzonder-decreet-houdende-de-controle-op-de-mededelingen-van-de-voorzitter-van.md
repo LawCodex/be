@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/19/2002036205/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 26-09-2002 en tekstbijwerking tot 13-07-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2002. - Bijzonder decreet houdende de controle op de mededelingen van de voorzitter van het Vlaams Parlement. -

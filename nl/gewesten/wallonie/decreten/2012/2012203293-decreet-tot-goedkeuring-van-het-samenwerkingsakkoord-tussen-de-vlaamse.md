@@ -13,7 +13,7 @@ entry_into_force: 2012-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/07/2012203293/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 2012. - Decreet tot goedkeuring van het Samenwerkingsakkoord tussen de Vlaamse Gemeenschap en het Waalse Gewest betreffende de professionele integratie van personen met een handicap

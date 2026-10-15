@@ -13,7 +13,7 @@ entry_into_force: 2023-11-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/09/28/2023205838/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 SEPTEMBRE 2023. - Décret portant assentiment à l'accord de coopération du 19 mars 2021 entre la Région wallonne, la Région flamande, la Région de Bruxelles-Capitale et la Communauté germanophone portant sur la coordination du contrôle et de la surveillance des législations régionales relatives à l'emploi

@@ -12,7 +12,7 @@ entry_into_force: 2012-03-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/02/06/2012009087/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 FEVRIER 2012. - Loi modifiant la loi du 17 avril 1878 contenant le titre préliminaire du Code de procédure pénale en ce qui concerne la poursuite de certaines infractions commises à l'étranger

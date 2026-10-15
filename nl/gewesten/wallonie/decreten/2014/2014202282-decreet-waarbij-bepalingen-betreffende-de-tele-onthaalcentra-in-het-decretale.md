@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/27/2014202282/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Decreet waarbij bepalingen betreffende de tele-onthaalcentra in het decretale gedeelte van het Waalse wetboek voor Sociale Actie en Gezondheid ingevoegd worden

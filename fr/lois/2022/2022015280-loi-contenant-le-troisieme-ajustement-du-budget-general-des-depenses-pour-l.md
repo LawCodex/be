@@ -12,7 +12,7 @@ entry_into_force: 2022-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/03/2022015280/justel"
 department: "Stratégie et Appui"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2022. - Loi contenant le troisième ajustement du budget général des dépenses pour l'année budgétaire 2022

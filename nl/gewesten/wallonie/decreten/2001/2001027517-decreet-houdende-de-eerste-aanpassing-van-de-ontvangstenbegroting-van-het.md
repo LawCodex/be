@@ -13,7 +13,7 @@ entry_into_force: 2001-10-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/06/15/2001027517/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUNI 2001. - Decreet houdende de eerste aanpassing van de ontvangstenbegroting van het Waalse Gewest voor het begrotingsjaar 2001 (VERTALING).

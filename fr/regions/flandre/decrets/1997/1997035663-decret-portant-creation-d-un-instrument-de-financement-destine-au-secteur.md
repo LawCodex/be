@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/05/13/1997035663/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 17-06-1997 et mise à jour au 12-09-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 1997. - DECRET portant création d'un instrument de financement destiné au Secteur flamand de la Pêche et de l'[Aquaculture]). (TRADUCTION) &lt;DCFL 2008-12-19/40 , art.57 , 003; En vigueur : 01-01-2009&gt;

@@ -12,7 +12,7 @@ entry_into_force: 2007-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/15/2007000545/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2007. - Wet tot wijziging van artikel 14 van de wetten op de Raad van State, gecoördineerd op 12 januari 1973.

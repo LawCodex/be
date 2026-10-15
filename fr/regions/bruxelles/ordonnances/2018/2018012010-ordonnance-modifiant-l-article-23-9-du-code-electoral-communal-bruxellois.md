@@ -13,7 +13,7 @@ entry_into_force: 2018-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/05/03/2018012010/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2018. - Ordonnance modifiant l'article 23, § 9, du Code électoral communal bruxellois

@@ -13,7 +13,7 @@ entry_into_force: 2020-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2020/12/04/2020031713/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBRE 2020. - Ordonnance contenant l'ajustement du Budget des Voies et Moyens de la Région de Bruxelles-Capitale pour l'année budgétaire 2020

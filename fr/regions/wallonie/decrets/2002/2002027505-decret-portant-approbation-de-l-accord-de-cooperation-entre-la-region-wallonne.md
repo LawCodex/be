@@ -13,7 +13,7 @@ entry_into_force: 2002-06-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/04/25/2002027505/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2002. - Décret portant approbation de l'accord de coopération entre la Région wallonne, la Communauté française et la Commission communautaire française de la Région de Bruxelles-Capitale portant création du Comité francophone de coordination des politiques d'aide aux personnes et de santé.

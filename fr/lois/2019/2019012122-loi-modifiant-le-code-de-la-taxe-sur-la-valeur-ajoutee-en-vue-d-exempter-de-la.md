@@ -12,7 +12,7 @@ entry_into_force: 2019-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/07/2019012122/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 2019. - Loi modifiant le Code de la taxe sur la valeur ajoutée en vue d'exempter de la T.V.A. les dons de biens non alimentaires aux plus démunis

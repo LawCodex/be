@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/03/2012003255/justel"
 department: "Finances - Economie, PME, Classes moyennes et Energie - Justice"
 justel_note: "Consultation des versions antérieures à partir du 24-08-2012 et mise à jour au 01-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AOUT 2012. - Loi relative à des mesures diverses pour faciliter la mobilisation de créances dans le secteur financier

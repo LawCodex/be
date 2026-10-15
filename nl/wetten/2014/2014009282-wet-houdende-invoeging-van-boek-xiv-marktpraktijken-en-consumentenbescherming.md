@@ -12,7 +12,7 @@ entry_into_force: 2014-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/15/2014009282/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 MEI 2014. - Wet houdende invoeging van Boek XIV "Marktpraktijken en consumentenbescherming betreffende de beoefenaars van een vrij beroep" in het Wetboek van economisch recht en houdende invoeging van de definities eigen aan boek XIV en van de rechtshandhavingsbepalingen eigen aan boek XIV, in de boeken I en XV van het Wetboek van economisch recht

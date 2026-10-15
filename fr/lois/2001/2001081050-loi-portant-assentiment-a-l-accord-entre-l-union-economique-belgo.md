@@ -12,7 +12,7 @@ entry_into_force: 2005-05-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/08/10/2001081050/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2001. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République gabonaise concernant la promotion et la protection réciproques des investissements [...], signé à Bruxelles le 27 mai 1998 (Erratum, M.B. 08-06-2005, p. 26406).

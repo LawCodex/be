@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/05/04/2018012999/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 16-07-2018 en tekstbijwerking tot 28-03-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2018. - Decreet betreffende de uitbouw van de graduaatsopleidingen binnen de hogescholen en de versterking van de lerarenopleidingen binnen de hogescholen en universiteiten

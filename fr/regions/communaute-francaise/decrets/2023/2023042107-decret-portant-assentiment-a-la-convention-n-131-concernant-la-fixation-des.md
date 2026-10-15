@@ -13,7 +13,7 @@ entry_into_force: 2023-09-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/04/13/2023042107/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 2023. - Décret portant assentiment à la Convention n° 131 concernant la fixation des salaires minima, notamment en ce qui concerne les pays en voie de développement, adoptée à Genève le 22 juin 1970 par la Conférence Internationale du Travail à sa 54 eme session

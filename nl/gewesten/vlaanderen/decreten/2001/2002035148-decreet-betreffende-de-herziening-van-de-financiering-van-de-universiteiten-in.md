@@ -13,7 +13,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/07/2002035148/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2001. - Decreet betreffende de herziening van de financiering van de universiteiten in de Vlaamse Gemeenschap en begeleidende bepalingen.

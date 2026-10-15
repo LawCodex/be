@@ -12,7 +12,7 @@ entry_into_force: 2020-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/03/23/2020040685/justel"
 department: "Beleid en Ondersteuning"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MAART 2020. - Wet tot opening van voorlopige kredieten voor de maanden april, mei en juni 2020

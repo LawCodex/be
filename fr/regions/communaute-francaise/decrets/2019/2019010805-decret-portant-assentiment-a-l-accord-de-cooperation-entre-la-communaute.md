@@ -13,7 +13,7 @@ entry_into_force: 2019-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/01/24/2019010805/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JANVIER 2019. - Décret portant assentiment à l'accord de coopération entre la Communauté française et la Communauté flamande relatif à l'utilisation de fréquences numériques pour le DAB+ sur le territoire l'autre partie

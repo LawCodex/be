@@ -12,7 +12,7 @@ entry_into_force: 2004-09-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/07/2004015164/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2004. - Loi portant assentiment à l'amendement au Protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone, adopté à Montréal le 17 septembre 1997.

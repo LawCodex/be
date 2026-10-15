@@ -13,7 +13,7 @@ entry_into_force: 2014-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/21/2014035432/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2014. - Decreet tot aanpassing van enkele hogeronderwijsbepalingen die de organisatie en controle van het onderwijs faciliteren en de plan- en implementatielasten verminderen

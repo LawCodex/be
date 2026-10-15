@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/08/10/2005009656/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 29-08-2005 et mise à jour au 16-02-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 2005. - Loi modifiant la loi du 3 avril 1953 d'organisation judiciaire et autorisant temporairement la nomination de magistrats en surnombre, en ce qui concerne la cour d'appel de Gand.

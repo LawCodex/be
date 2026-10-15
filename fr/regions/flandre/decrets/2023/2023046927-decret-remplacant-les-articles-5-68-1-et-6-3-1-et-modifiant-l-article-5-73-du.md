@@ -13,7 +13,7 @@ entry_into_force: 2023-11-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/10/27/2023046927/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2023. - Décret remplaçant les articles 5.68/1 et 6.3/1 et modifiant l'article 5.73 du Code flamand du Logement de 2021, et abrogeant l'article 218 du décret du 9 juillet 2021 portant modification de divers décrets relatifs au logement

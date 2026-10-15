@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/18/1999036093/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 31-08-1999 et mise à jour au 13-02-2017"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1999. - Décret relatif à l'enseignement-XI. (TRADUCTION)

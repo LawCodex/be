@@ -13,7 +13,7 @@ entry_into_force: 2026-07-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/05/2026004703/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 2026. - Décret modifiant l'annexe au décret Régions du 3 février 2023, en ce qui concerne la modification de la région de référence de la commune de Wetteren et l'ajustement aux fusions des communes

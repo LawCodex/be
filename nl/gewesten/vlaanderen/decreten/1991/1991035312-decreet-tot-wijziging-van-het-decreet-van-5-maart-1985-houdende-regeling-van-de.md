@@ -13,7 +13,7 @@ entry_into_force: 1991-03-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/02/20/1991035312/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 1991. - Decreet tot wijziging van het decreet van 5 maart 1985 houdende regeling van de erkenning en subsidiëring van voorzieningen voor bejaarden.

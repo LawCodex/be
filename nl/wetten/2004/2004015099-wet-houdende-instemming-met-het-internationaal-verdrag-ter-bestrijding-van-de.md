@@ -12,7 +12,7 @@ entry_into_force: 2004-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/03/30/2004015099/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MAART 2004. - Wet houdende instemming met het Internationaal Verdrag ter bestrijding van de financiering van terrorisme, en met de Bijlage, aangenomen te New York op 9 december 1999.

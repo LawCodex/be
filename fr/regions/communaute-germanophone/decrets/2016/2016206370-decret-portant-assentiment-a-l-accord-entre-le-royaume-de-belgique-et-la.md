@@ -13,7 +13,7 @@ entry_into_force: 2017-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/12/2016206370/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2016. - Décret portant assentiment à l'accord entre le Royaume de Belgique et la République d'Afrique du Sud sur l'exercice d'activités à but lucratif par les conjoints des membres du personnel diplomatique et consulaire, fait à Pretoria le 14 janvier 2016

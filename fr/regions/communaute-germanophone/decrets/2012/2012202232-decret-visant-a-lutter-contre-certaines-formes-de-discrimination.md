@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/03/19/2012202232/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 05-06-2012 et mise à jour au 12-05-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2012. - Décret visant à lutter contre certaines formes de discrimination

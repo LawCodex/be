@@ -12,7 +12,7 @@ entry_into_force: 2009-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/05/31/2009011301/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 MEI 2009. - Wet houdende wijzigingen aan de wet van 17 januari 2003 betreffende de rechtsmiddelen en de geschillenbeslechting naar aanleiding van de wet van 17 januari 2003 met betrekking tot het statuut van de regulator van de Belgische post- en telecommunicatiesector

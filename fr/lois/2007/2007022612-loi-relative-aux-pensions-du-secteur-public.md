@@ -12,7 +12,7 @@ entry_into_force: 2007-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/25/2007022612/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2007. - Loi relative aux pensions du secteur public.

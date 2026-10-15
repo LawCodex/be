@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/03/08/2001029153/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 10-05-2001 et mise à jour au 17-04-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MARS 2001. - Décret portant confirmation des compétences terminales et savoirs requis en sciences à l'issue de la section de transition

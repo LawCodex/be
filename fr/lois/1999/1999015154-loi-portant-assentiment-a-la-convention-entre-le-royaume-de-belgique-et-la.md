@@ -12,7 +12,7 @@ entry_into_force: 2000-01-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/09/1999015154/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 JUIN 1999. - Loi portant assentiment a la Convention entre le Royaume de Belgique et la République de Chypre en vue d'éviter les doubles impositions et de prévenir l'évasion fiscale en matière d'impôts sur le revenu et la fortune, faite à Bruxelles le 14 mai 1996.

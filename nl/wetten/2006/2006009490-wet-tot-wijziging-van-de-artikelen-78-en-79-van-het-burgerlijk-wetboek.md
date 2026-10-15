@@ -12,7 +12,7 @@ entry_into_force: 2006-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/23/2006009490/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2006. - Wet tot wijziging van de artikelen 78 en 79 van het Burgerlijk Wetboek betreffende de aangifte en de akten van overlijden.

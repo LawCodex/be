@@ -13,7 +13,7 @@ entry_into_force: 1994-06-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1993/12/22/1994035654/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 1993. - Decreet houdende tweede aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 1993.

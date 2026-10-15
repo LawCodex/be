@@ -13,7 +13,7 @@ last_amended: 2026-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1808/11/19/1808111901/justel"
 justel_note: "Consultation des versions antérieures à partir du 29-12-1990 et mise à jour au 14-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBRE 1808. - CODE D'INSTRUCTION CRIMINELLE. LIVRE II, TITRE I. (Art. 137 à 216septies) (Pour des raisons techniques, le Code d'Instruction Criminelle est divisé en 8 parties, dont le Titre I du deuxième Livre est la troisième partie.)

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/01/20/2012035191/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 02-03-2012 et mise à jour au 30-12-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JANVIER 2012. - Décret réglant l'adoption internationale d'enfants

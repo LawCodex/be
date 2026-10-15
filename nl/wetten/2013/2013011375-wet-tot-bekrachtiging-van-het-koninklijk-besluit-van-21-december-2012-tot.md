@@ -12,7 +12,7 @@ entry_into_force: 2013-07-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/07/23/2013011375/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JULI 2013. - Wet tot bekrachtiging van het koninklijk besluit van 21 december 2012 tot wijziging van het koninklijk besluit van 16 juli 2002 betreffende de instelling van mechanismen voor de bevordering van elektriciteit opgewekt uit hernieuwbare energiebronnen

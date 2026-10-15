@@ -13,7 +13,7 @@ entry_into_force: 2011-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/07/07/2011029402/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JULI 2011. - Decreet betreffende de deelneming en de vertegenwoordiging van studenten in het hoger onderwijs

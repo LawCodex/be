@@ -11,7 +11,7 @@ date: 2011-11-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2011/11/10/2011031549/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBER 2011. - Ordonnantie houdende instemming met : het Protocol tot wijziging van het aan het Verdrag betreffende de Europese Unie, het Verdrag betreffende de werking van de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie gehechte Protocol betreffende de overgangsbepalingen, gedaan te Brussel op 23 juni 2010

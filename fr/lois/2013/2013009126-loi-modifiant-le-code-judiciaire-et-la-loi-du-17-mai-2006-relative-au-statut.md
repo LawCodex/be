@@ -12,7 +12,7 @@ entry_into_force: 2013-03-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/03/17/2013009126/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 MARS 2013. - Loi modifiant le Code judiciaire et la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités de la peine

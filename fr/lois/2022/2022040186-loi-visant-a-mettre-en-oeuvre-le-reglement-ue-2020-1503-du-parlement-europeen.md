@@ -12,7 +12,7 @@ entry_into_force: 2022-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/02/23/2022040186/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 FEVRIER 2022. - Loi visant à mettre en oeuvre le règlement (UE) 2020/1503 du parlement européen et du conseil du 7 octobre 2020 relatif aux prestataires européens de services de financement participatif pour les entrepreneurs, et modifiant le règlement (UE) 2017/1129 et la directive (UE) 2019/1937 et à transposer la directive (UE) 2021/338 du parlement européen et du conseil du 16 février 2021 modifiant la directive 2014/65/ UE en ce qui concerne les obligations d'information, la gouvernance des produits et les limites de position, et les directives 2013/36/UE et (UE) 2019/878 en ce qui concerne leur application aux entreprises d'investissement, afin de soutenir la reprise à la suite de la crise liée à la COVID-19 (II)

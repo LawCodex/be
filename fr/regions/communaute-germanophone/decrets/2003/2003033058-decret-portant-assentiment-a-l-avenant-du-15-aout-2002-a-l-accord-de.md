@@ -13,7 +13,7 @@ entry_into_force: 2003-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/03/24/2003033058/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2003. - Décret portant assentiment à l'avenant du 15 août 2002 à l'accord de coopération entre l'Etat, les Régions et la Communauté germanophone relatif à l'économie sociale du 4 juillet 2000 (TRADUCTION).

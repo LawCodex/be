@@ -13,7 +13,7 @@ entry_into_force: 2008-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/02/21/2008031073/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 FEVRIER 2008. - Ordonnance portant assentiment à la Convention internationale contre le dopage dans le sport, faite à Paris le 19 octobre 2005 et aux Annexes Ire et II.

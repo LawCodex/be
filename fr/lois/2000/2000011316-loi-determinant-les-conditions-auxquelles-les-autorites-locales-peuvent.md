@@ -12,7 +12,7 @@ entry_into_force: 2000-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/07/17/2000011316/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2000. - Loi déterminant les conditions auxquelles les autorités locales peuvent bénéficier d'une aide financière de l'Etat dans le cadre de la politique urbaine.

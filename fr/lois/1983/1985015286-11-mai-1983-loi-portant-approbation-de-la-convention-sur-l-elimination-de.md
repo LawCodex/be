@@ -12,7 +12,7 @@ entry_into_force: 1985-11-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1983/05/11/1985015286/justel"
 department: "Affaires étrangères - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 1983. \_ Loi portant approbation de la Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes, faite à New York le 18 décembre 1979.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/03/02/1999035844/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 21-08-1999 en tekstbijwerking tot 31-12-2010"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAART 1999. - Decreet tot regeling van een aantal aangelegenheden van het volwassenenonderwijs.

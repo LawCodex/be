@@ -12,7 +12,7 @@ published: 2021-06-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/05/21/2021041995/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MEI 2021. - Decreet tot het invoeren van uitdovende maatregelen voor studenten van de opleidingen van het hoger beroepsonderwijs aan de Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen

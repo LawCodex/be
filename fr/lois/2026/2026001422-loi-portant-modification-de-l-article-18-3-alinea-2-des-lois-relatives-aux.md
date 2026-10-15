@@ -12,7 +12,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/02/11/2026001422/justel"
 department: "Emploi, Travail et Concertation sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 FEVRIER 2026. - Loi portant modification de l'article 18, § 3, alinéa 2, des lois relatives aux vacances annuelles des travailleurs salariés coordonnées le 28 juin 1971

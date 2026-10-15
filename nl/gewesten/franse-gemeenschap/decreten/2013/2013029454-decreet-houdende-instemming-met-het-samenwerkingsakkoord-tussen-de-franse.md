@@ -13,7 +13,7 @@ entry_into_force: 2013-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/06/06/2013029454/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUNI 2013. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschap en de Franse Gemeenschapscommissie op het gebied van schoolintegratie en schoolinclusie voor jongeren met een handicap

@@ -13,7 +13,7 @@ entry_into_force: 2018-03-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/03/01/2018011168/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2018. - Ordonnantie houdende instemming met: het Protocol bij de Conventie betreffende de dwangarbeid van 1930, aangenomen te Genève op 11 juni 2014 door de Internationale Arbeidsconferentie tijdens haar honderd en derde zitting

@@ -10,7 +10,7 @@ date: 2006-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/04/03/2006015070/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2006. - Wet houdende instemming met de Overeenkomst tussen de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Democratische Republiek Congo, anderzijds, inzake de wederzijdse bevordering en bescherming van investeringen, ondertekend te Kinshasa op 17 februari 2005

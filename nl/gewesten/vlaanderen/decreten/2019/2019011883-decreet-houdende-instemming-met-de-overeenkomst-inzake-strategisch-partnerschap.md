@@ -13,7 +13,7 @@ entry_into_force: 2019-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/05/2019011883/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 APRIL 2019. - Decreet houdende instemming met de overeenkomst inzake strategisch partnerschap tussen de Europese Unie en haar lidstaten, enerzijds, en Japan, anderzijds, ondertekend te Tokio op 17 juli 2018

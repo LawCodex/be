@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/10/20/2016205562/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 07-11-2016 en tekstbijwerking tot 23-10-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 OKTOBER 2016. - Decreet betreffende de erkenning van de initiatieven van sociale economie en de erkenning en de subsidiëring van de inschakelingsbedrijven

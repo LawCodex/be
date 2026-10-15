@@ -12,7 +12,7 @@ entry_into_force: 1994-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/07/11/1994003431/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JULI 1994. - Wet houdende aanpassing van de Rijksmiddelenbegroting voor het begrotingsjaar 1994.

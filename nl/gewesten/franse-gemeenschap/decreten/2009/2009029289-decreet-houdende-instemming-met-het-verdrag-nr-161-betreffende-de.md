@@ -13,7 +13,7 @@ entry_into_force: 2009-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/03/26/2009029289/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2009. - Decreet houdende instemming met het Verdrag nr. 161 betreffende de bedrijfsgezondheidsdiensten, aangenomen door de Algemene Conferentie van de Internationale Arbeidsorganisatie in haar eenenzeventigste zitting op 26 juni 1985 en gedaan te Genève op 27 juni 1985

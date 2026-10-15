@@ -13,7 +13,7 @@ entry_into_force: 2005-12-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/11/10/2005036542/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 NOVEMBRE 2005. - Décret portant modification de décret du 16 janvier 2004 sur les funérailles et sépultures (TRADUCTION).

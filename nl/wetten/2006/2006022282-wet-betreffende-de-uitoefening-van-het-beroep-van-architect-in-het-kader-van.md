@@ -12,7 +12,7 @@ entry_into_force: 2006-05-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/02/15/2006022282/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2006. - Wet betreffende de uitoefening van het beroep van architect in het kader van een rechtspersoon.

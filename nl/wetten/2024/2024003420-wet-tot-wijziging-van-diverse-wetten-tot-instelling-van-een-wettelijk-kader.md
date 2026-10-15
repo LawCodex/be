@@ -12,7 +12,7 @@ entry_into_force: 2024-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/02/29/2024003420/justel"
 department: "Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 FEBRUARI 2024. - Wet tot wijziging van diverse wetten tot instelling van een wettelijk kader voor de elektronische uitwisseling tussen de OCMW's en de burgers en tot invoering van diverse verplichtingen voor OCMW's met betrekking tot de behandeling van een steuaanvraag

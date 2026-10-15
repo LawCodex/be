@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/09/30/1999027742/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 04-04-2000 et mise à jour au 21-01-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 SEPTEMBRE 1999. - Décret relatif à l'octroi d'une intervention du Fonds de garantie et d'une subvention-intérêt aux entreprises touchées par la crise de la dioxine de 1999.

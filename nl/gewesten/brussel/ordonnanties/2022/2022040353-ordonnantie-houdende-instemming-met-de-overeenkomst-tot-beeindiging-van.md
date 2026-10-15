@@ -13,7 +13,7 @@ entry_into_force: 2022-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2022/02/24/2022040353/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 FEBRUARI 2022. - Ordonnantie houdende instemming met : de Overeenkomst tot beëindiging van bilaterale investeringsverdragen tussen de lidstaten van de Europese Unie, gedaan te Brussel op 5 mei 2020

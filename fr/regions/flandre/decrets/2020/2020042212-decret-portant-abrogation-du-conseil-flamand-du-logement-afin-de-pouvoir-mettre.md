@@ -13,7 +13,7 @@ entry_into_force: 2020-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/03/2020042212/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUILLET 2020. - Décret portant abrogation du Conseil flamand du Logement afin de pouvoir mettre en place une plateforme proactive des parties prenantes et modifiant divers décrets relatifs au logement

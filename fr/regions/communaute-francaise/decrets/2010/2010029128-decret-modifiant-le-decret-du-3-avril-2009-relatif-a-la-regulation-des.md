@@ -13,7 +13,7 @@ entry_into_force: 2010-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/02/11/2010029128/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 FEVRIER 2010. - Décret modifiant le décret du 3 avril 2009 relatif à la régulation des inscriptions des élèves dans le premier degré de l'enseignement secondaire

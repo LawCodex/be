@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1961/06/23/1961062307/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 30-04-2009 en tekstbijwerking tot 02-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 1961. - Wet betreffende het recht tot antwoord

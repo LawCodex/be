@@ -13,7 +13,7 @@ entry_into_force: 2008-04-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/02/29/2008029195/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 FEVRIER 2008. - Décret modifiant les titres Ire, III, VI, IX et XI du décret du 27 février 2003 sur la radiodiffusion.

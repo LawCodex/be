@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/03/29/2018011986/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 14-05-2018 et mise à jour au 27-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2018. - Décret modifiant les décrets des 12 février 2004 relatif au statut de l'administrateur public pour les matières réglées en vertu de l'article 138 de la Constitution et du 12 février 2004 relatif aux commissaires du Gouvernement et aux missions de contrôle des réviseurs au sein des organismes d'intérêt public pour les matières réglées en vertu de l'article 138 de la Constitution, visant à renforcer la gouvernance et l'éthique au sein des organismes wallons

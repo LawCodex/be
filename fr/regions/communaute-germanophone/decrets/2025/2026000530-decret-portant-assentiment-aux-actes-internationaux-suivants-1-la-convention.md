@@ -13,7 +13,7 @@ entry_into_force: 2026-02-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/22/2026000530/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2025. - Décret portant assentiment aux actes internationaux suivants : 1° la Convention entre le Royaume de Belgique et la République du Tadjikistan tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu et sur la fortune, et le Protocole, faits à Bruxelles le 10 février 2009; 2° le Protocole, fait à Bruxelles le 18 décembre 2009, amendant la Convention entre le Gouvernement de la Belgique et le Gouvernement de la Malaisie tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Kuala Lumpur le 24 octobre 1973, telle que modifiée par la Convention complémentaire, signée à Kuala Lumpur le 25 juillet 1979; 3° la Convention entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République du Botswana tendant à éviter la double imposition et à prévenir la fraude fiscale en matière d'impôts sur le revenu et sur la fortune, et le Protocole, faits à Pretoria le 30 novembre 2017 (1)

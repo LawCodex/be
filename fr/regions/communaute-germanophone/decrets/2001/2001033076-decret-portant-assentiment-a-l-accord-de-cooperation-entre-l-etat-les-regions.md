@@ -13,7 +13,7 @@ entry_into_force: 2001-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/10/08/2001033076/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 OCTOBRE 2001. - Décret portant assentiment à l'accord de coopération entre l'Etat, les Régions et la Communauté germanophone relatif à l'économie sociale (TRADUCTION).

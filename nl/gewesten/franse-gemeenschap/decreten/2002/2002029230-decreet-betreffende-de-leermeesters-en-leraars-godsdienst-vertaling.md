@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/03/27/2002029230/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 08-05-2002 en tekstbijwerking tot 01-12-2005"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2002. - Decreet betreffende de leermeesters en leraars godsdienst (VERTALING).

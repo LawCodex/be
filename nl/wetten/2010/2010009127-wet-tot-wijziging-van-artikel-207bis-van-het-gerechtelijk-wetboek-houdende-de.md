@@ -12,7 +12,7 @@ entry_into_force: 2010-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/01/31/2010009127/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JANUARI 2010. - Wet tot wijziging van artikel 207bis van het Gerechtelijk Wetboek, houdende de regeling van de toegang tot de functie van plaatsvervangend raadsheer in het hof van beroep

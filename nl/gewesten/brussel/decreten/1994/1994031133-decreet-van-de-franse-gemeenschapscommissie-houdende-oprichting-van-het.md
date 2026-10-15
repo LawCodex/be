@@ -17,7 +17,7 @@ department: "Franse Gemeenschapscommissie"
 justel_notes:
   - "art. 28 ; 29 et 31 gewijzigd met ingang op een onbepaalde datum bij DEC 2016-04-28/21 , art. 1 tot 32; Inwerkingtreding : onbepaald "
   - "Raadpleging van vroegere versies vanaf 10-09-2012 en tekstbijwerking tot 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAART 1994. - Decreet van de Franse Gemeenschapscommissie houdende oprichting van het Franstalig Brussels Instituut voor Beroepsopleiding. &lt;Vertaling&gt;

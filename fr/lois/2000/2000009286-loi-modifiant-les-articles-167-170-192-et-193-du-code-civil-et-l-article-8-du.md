@@ -12,7 +12,7 @@ entry_into_force: 2000-04-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/03/01/2000009286/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 MARS 2000. - Loi modifiant les articles 167, 170, 192 et 193 du Code civil et l'article 8 du Code des droits de timbre.

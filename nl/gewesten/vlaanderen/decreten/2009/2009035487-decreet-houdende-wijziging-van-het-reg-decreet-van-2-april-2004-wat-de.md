@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/05/08/2009035487/justel"
 department: "Vlaamse Overheid"
 justel_note: "bij arrest nr 33/2011 van 02-03-2011 (B.St. 24-05-2011, p. 29262-29265), heeft het Grondwettelijk Hof dit decreet vernietigd"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2009. - Decreet houdende wijziging van het REG-decreet van 2 april 2004, wat de uitbreiding tot luchtvaartactiviteiten betreft

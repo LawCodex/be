@@ -13,7 +13,7 @@ entry_into_force: 2006-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/12/16/2005029337/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBER 2005. - Decreet houdende de middelenbegroting van de Franse Gemeenschap voor het begrotingsjaar 2006 (VERTALING).

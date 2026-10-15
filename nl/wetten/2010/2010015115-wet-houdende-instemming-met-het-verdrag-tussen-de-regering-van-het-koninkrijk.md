@@ -11,7 +11,7 @@ entry_into_force: 2011-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/05/19/2010015115/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 2010. - Wet houdende instemming met het Verdrag tussen de Regering van het Koninkrijk België en de Regering van de Franse Republiek betreffende de uitwisseling van informatie en van persoonsgegevens over houders van een inschrijvingsbewijs van voertuigen opgenomen in de nationale inschrijvings- en kentekenregisters, teneinde verkeersovertredingen te bestraffen, ondertekend te Parijs op 13 oktober 2008

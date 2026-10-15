@@ -13,7 +13,7 @@ entry_into_force: 2013-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/05/03/2013035445/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MEI 2013. - Decreet houdende instemming met het protocol, ondertekend in Luxemburg op 24 juni 2010, tot wijziging van de luchtvervoersovereenkomst tussen de Verenigde Staten van Amerika en de Europese Gemeenschap en haar lidstaten, ondertekend op 25 en 30 april 2007

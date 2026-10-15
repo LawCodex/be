@@ -13,7 +13,7 @@ entry_into_force: 2026-02-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/01/22/2026000724/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JANVIER 2026. - Décret portant assentiment à l'accord de coopération du 28 novembre 2025 entre la Région flamande et la Région wallonne pour l'échange d'informations sur le marché du travail et la promotion de la mobilité interrégionale des chercheurs d'emploi, pour les matières exercées en vertu de l'article 138 de la Constitution

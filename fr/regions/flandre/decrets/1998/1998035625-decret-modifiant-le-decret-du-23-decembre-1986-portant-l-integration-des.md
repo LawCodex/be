@@ -13,7 +13,7 @@ entry_into_force: 1998-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/05/12/1998035625/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 1998. - Décret modifiant le décret du 23 décembre 1986 portant l'intégration des oeuvres d'art dans les bâtiments des services publics et services assimilés et des établissements, associations et institutions relevant de la Communauté flamande (TRADUCTION).

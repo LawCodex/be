@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1952/03/05/1952030505/justel"
 department: "Finances - Justice"
 justel_note: "Consultation des versions antérieures à partir du 01-08-1991 et mise à jour au 01-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 1952. - Loi relative aux décimes additionnels sur les amendes pénales.

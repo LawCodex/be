@@ -12,7 +12,7 @@ entry_into_force: 2005-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/22/2005003062/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 JUILLET 2004. - Loi relative aux voies de recours concernant la loi du 20 juillet 2004 relative à certaines formes de gestion collective de portefeuilles d'investissement.

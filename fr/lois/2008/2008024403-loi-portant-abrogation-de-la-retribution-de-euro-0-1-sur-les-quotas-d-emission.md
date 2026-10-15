@@ -12,7 +12,7 @@ entry_into_force: 2008-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/09/09/2008024403/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 SEPTEMBRE 2008. - Loi portant abrogation de la rétribution de euro 0,1 sur les quotas d'émission alloués gratuitement.

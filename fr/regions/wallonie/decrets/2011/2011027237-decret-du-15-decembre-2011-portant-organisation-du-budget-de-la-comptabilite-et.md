@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/12/15/2011027237/justel"
 department: "Service public de Wallonie"
 justel_note: "Consultation des versions antérieures à partir du 29-12-2011 et mise à jour au 17-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2011. - [Décret du 15 décembre 2011 portant organisation du budget, de la comptabilité et du rapportage des unités d'administration publique wallonnes.] &lt;DRW 2015-12-17/10 , art. 2, 003; En vigueur : 08-01-2016&gt;

@@ -12,7 +12,7 @@ entry_into_force: 1998-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/01/26/1998015031/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 1998. - Wet houdende derde aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 1996, Sectie "Ontwikkelingssamenwerking" (15).HI:??2,Gewone zitting 1997-1998. Kamer van volksvertegenwoordigers : Parlementaire stukken. - Wetsontwerp, nr. 1130/1. Parlementaire Handelingen. - Bespreking. Vergadering van 3 december 1997. - Aanneming. Vergadering van 15 januari 1998.

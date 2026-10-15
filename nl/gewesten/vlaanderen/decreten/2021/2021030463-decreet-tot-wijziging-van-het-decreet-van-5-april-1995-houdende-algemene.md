@@ -13,7 +13,7 @@ entry_into_force: 2021-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/02/26/2021030463/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEBRUARI 2021. - Decreet tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en de Vlaamse Codex Ruimtelijke Ordening, wat betreft de opheffing van de Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu en de overheveling van taken inzake omgevingshandhaving

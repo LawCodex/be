@@ -11,7 +11,7 @@ entry_into_force: 2003-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/08/26/2003022885/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 AUGUSTUS 2003. - Wet tot wijziging van de wet van 10 december 1997 houdende verbod op de reclame voor tabaksproducten en tot oprichting van een Fonds ter bestrijding van het tabaksgebruik.

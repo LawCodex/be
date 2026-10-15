@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/05/14/2009031272/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 27-05-2009 en tekstbijwerking tot 22-03-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MEI 2009. - Ordonnantie tot wijziging van de ordonnantie van 13 mei 2004 houdende ratificatie van het Brussels Wetboek van Ruimtelijke Ordenning

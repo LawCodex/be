@@ -13,7 +13,7 @@ entry_into_force: 2014-02-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/12/11/2014200439/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBER 2013. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschap en het Waalse Gewest tot verhoging, voor het jaar 2014, van de bijdrage van Wallonië voor de financiering van het "FRIA" (Fonds pour la Formation à la Recherche dans l'Industrie et dans l'Agriculture)

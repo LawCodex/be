@@ -17,7 +17,7 @@ department: "Waalse Gewest"
 justel_notes:
   - "opgeheven op een onbepaalde datum bij DWG 2004-05-27/11, art. 2, 002; Inwerkingtreding : onbepaald "
   - "raadpleging van vroegere versies vanaf 08-12-2003 en tekstbijwerking tot 23-09-2004"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2003. - Decreet houdende instemming met het Internationale Scheldeverdrag, gesloten te Gent op 3 december 2002, alsmede met de Bijlagen erbij. (Vertaling).

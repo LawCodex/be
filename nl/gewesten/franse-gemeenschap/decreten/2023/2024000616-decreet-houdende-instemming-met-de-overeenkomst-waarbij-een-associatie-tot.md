@@ -13,7 +13,7 @@ entry_into_force: 2024-02-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/12/20/2024000616/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2023. - Decreet houdende instemming met de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Unie en haar Lidstaten, enerzijds, en Midden-Amerika, anderzijds, gedaan te Tegucigalpa op 29 juni 2012

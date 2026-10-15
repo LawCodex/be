@@ -12,7 +12,7 @@ entry_into_force: 2008-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/11/12/2008003469/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 2008. - Wet betreffende de Belgische bijdrage aan de Financiering van de schuldkwijtschelding door het Internationaal Monetair Fonds ten gunste van Liberia.

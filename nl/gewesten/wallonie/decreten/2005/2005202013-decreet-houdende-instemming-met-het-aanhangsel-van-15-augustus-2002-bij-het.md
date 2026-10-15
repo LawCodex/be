@@ -13,7 +13,7 @@ entry_into_force: 2004-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/20/2005202013/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2005. - Decreet houdende instemming met het aanhangsel [van 15 augustus 2002] bij het samenwerkingsakkoord van 4 juli 2000 tussen de federale Staat, de Gewesten en de Duitstalige Gemeenschap betreffende de sociale economie (VERTALING).

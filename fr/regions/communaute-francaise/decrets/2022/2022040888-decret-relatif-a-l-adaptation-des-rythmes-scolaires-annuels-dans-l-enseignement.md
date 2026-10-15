@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/03/31/2022040888/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 07-06-2022 et mise à jour au 19-08-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MARS 2022. - Décret relatif à l'adaptation des rythmes scolaires annuels dans l'enseignement fondamental et secondaire ordinaire, spécialisé, secondaire artistique à horaire réduit et de promotion sociale et aux mesures d'accompagnement pour l'accueil temps libre

@@ -12,7 +12,7 @@ entry_into_force: 2009-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/19/2008015131/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUIN 2008. - Loi portant assentiment au Traité de Lisbonne modifiant le Traité sur l'Union européenne et le Traité instituant la Communauté européenne, et à l'Acte final, faits à Lisbonne le 13 décembre 2007.

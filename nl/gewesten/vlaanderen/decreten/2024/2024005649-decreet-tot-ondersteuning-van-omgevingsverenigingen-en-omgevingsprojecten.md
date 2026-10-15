@@ -13,7 +13,7 @@ entry_into_force: 2024-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/26/2024005649/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2024. - Decreet tot ondersteuning van omgevingsverenigingen en omgevingsprojecten

@@ -12,7 +12,7 @@ entry_into_force: 2020-05-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/27/2020041512/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2020. - Loi modifiant certaines dispositions du Code de droit économique en ce qui concerne l'inscription à la BCE et le report des soldes

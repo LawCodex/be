@@ -12,7 +12,7 @@ entry_into_force: 2009-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/07/24/2009003289/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 JULI 2009. - Wet tot wijziging van de wet van 2 augustus 2002 betreffende het toezicht op de financiële sector en de financiële diensten, wat de financiële crisis betreft

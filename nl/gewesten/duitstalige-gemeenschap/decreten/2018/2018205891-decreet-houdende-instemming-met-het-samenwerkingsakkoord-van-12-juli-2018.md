@@ -13,7 +13,7 @@ entry_into_force: 2018-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/11/19/2018205891/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 NOVEMBER 2018. - Decreet houdende instemming met het Samenwerkingsakkoord van 12 juli 2018 tussen het Waalse Gewest en de Duitstalige Gemeenschap over de verwerking van de regularisaties inzake gezinsbijslagen

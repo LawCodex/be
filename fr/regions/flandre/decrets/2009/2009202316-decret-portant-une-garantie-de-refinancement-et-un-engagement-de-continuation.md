@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/04/24/2009202316/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 04-06-2009 et mise à jour au 29-05-2019"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 AVRIL 2009. - Décret portant une garantie de refinancement et un engagement de continuation de paiement relatifs aux indemnités de disponibilité et à certaines indemnités de cessation, dans le cadre de certains projets ppp flamands de la " Vlaamse Vervoermaatschappij - De Lijn " (\*)

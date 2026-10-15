@@ -13,7 +13,7 @@ entry_into_force: 2012-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/06/07/2012203292/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUIN 2012. - Décret portant assentiment à l'Accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'enregistrement, l'évaluation et l'autorisation des substances chimiques ainsi qu'aux restrictions applicables à ces substances (REACH)

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2025/03/21/2025002542/justel"
 department: "Brussels Hoofdstedelijk Gewest"
 justel_note: "schorsing van de ordonnantie van het Brusselse Hoofdstedelijke Gewest van 21 maart 2025 door AGH 2025-09-11/02 , art. M, Inwerkingtreding: 16-09-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2025. - Ordonnantie tot wijziging van de ordonnantie van 2 mei 2013 houdende het Brussels Wetboek van Lucht, Klimaat en Energiebeheersing teneinde bepaalde voertuigen toe te laten in de lage-emissiezone tot 31 december 2026

@@ -12,7 +12,7 @@ entry_into_force: 2012-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/01/19/2012000102/justel"
 department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JANVIER 2012. - Loi modifiant la législation concernant l'accueil des demandeurs d'asile

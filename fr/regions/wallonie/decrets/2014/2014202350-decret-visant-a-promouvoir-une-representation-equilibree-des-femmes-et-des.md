@@ -13,7 +13,7 @@ entry_into_force: 2014-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/03/27/2014202350/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MARS 2014. - Décret visant à promouvoir une représentation équilibrée des femmes et des hommes dans les organes consultatifs, pour les matières réglées en vertu de l'article 138 de la Constitution

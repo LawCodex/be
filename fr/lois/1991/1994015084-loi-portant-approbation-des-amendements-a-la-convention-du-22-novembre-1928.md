@@ -11,7 +11,7 @@ published: 1994-09-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1991/06/17/1994015084/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUIN 1991. - Loi portant approbation des amendements à la Convention du 22 novembre 1928 concernant les expositions internationales telle que modifiée et complétée par les Protocoles des 10 mai 1948, 16 novembre 1966, 30 novembre 1972 et par l'amendement du 24 juin 1982, adoptés par l'assemblée générale du Bureau international des Expositions le 31 mai 1988.

@@ -13,7 +13,7 @@ last_amended: 2014-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1931/12/28/1931122851/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 28-09-1990 en tekstbijwerking tot 18-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBER 1931. - Wet op de bescherming van aan particulieren toebehoorende bosschen en wouden. (NOTA 1 : Opgeheven voor het Vlaamse Gewest bij DVR 1990-06-13/32 , art. 113, 002; Inwerkingtreding : 08-10-1990) (NOTE 2 : Opgeheven voor het Waalse Gewest bij DWG 2008-07-15/44 , art. 115, 003; Inwerkingtreding : 14-09-2009)

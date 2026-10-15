@@ -12,7 +12,7 @@ entry_into_force: 1999-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/26/1999007087/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 1999. - Wet tot wijziging van de wet van 30 juli 1938 betreffende het gebruik der talen bij het leger.

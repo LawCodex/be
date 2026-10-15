@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/08/05/2006009662/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 07-09-2006 et mise à jour au 10-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 AOUT 2006. - Loi relative à l'application du principe de reconnaissance mutuelle des décisions judiciaires en matière pénale entre les Etats membres de l'Union européenne

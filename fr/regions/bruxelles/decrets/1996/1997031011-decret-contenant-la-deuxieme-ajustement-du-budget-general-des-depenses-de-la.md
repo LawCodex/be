@@ -13,7 +13,7 @@ entry_into_force: 1996-11-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1996/11/28/1997031011/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 NOVEMBRE 1996. - Décret contenant la deuxième ajustement du budget général des Dépenses de la Commission communautaire française pour l'année budgétaire 1996.

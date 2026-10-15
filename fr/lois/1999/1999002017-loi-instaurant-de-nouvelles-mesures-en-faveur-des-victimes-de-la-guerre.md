@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/26/1999002017/justel"
 department: "Défense Nationale - Affaires sociales - Santé Publique et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 26-02-1999 et mise à jour au 05-07-2001"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 1999. - Loi instaurant de nouvelles mesures en faveur des victimes de la guerre.

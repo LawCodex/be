@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/12/10/2009205883/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBER 2009. - Decreet houdende wijziging van het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen, het koninklijk besluit van 3 april 1953 tot samenordening van de wetsbepalingen inzake de slijterijen van gegiste dranken, de wet van 13 juli 1987 betreffende het kijk- en luistergeld en het decreet van 6 mei 1999 betreffende de vestiging, de invordering en de geschillen inzake de directe gewestelijke belastingen

@@ -13,7 +13,7 @@ entry_into_force: 2021-06-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/05/27/2021202742/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2021. - Decreet tot wijziging van de artikelen 45, 45bis, 45ter en 45quater van het decreet van 12 april 2001 betreffende de organisatie van de gewestelijke elektriciteitsmarkt

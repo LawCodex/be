@@ -12,7 +12,7 @@ entry_into_force: 2001-06-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/05/22/2001000593/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2001. - Wet houdende instemming met het Samenwerkingsakkoord van 21 juni 1999 tussen de federale Staat, het Vlaams, het Waals en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken.

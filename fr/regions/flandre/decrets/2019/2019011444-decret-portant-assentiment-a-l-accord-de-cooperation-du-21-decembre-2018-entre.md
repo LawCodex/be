@@ -13,7 +13,7 @@ entry_into_force: 2019-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/15/2019011444/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2019. - Décret portant assentiment à l'accord de coopération du 21 décembre 2018 entre la Communauté flamande et la Communauté germanophone relatif à l'utilisation de la fréquence FM Brussegem 95.2 MHz

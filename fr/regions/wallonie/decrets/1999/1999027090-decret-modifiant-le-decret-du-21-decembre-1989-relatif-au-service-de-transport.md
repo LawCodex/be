@@ -13,7 +13,7 @@ entry_into_force: 1999-02-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/02/04/1999027090/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 1999. - Décret modifiant le décret du 21 décembre 1989 relatif au service de transport public de personnes en Région wallonne.

@@ -11,7 +11,7 @@ date: 2023-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/07/13/2023044777/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 2023. - Decreet betreffende het risico- en crisisbeheer door het Waalse Gewest

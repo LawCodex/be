@@ -12,7 +12,7 @@ entry_into_force: 2006-08-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/01/2006009551/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JUILLET 2006. - Loi modifiant le Code judiciaire en ce qui concerne l'assistance judiciaire.

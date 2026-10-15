@@ -16,7 +16,7 @@ department: "Binnenlandse Zaken - Justitie"
 justel_notes:
   - "Art. 135quinquies treedt buiten werking op 01-09-2020, cfr. W 2018-07-19/17 , art. 3; Inwerkingtreding : 10-08-2018"
   - "Raadpleging van vroegere versies vanaf 30-04-2002 en tekstbijwerking tot 22-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2002. - Wet houdende de essentiële elementen van het statuut van de personeelsleden van de politiediensten en houdende diverse andere bepalingen met betrekking tot de politiediensten.

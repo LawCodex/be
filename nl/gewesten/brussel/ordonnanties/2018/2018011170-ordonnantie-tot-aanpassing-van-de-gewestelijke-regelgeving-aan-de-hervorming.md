@@ -13,7 +13,7 @@ entry_into_force: 2018-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/03/01/2018011170/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2018. - Ordonnantie tot aanpassing van de gewestelijke regelgeving aan de hervorming van de werking van de hypotheekbewaring en van het beheer van de patrimoniumdocumentatie

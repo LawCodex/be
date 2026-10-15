@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/01/29/2015029081/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2015. - Décret modifiant le décret du 14 juillet 1997 portant statut de la Radio-Télévision belge de la Communauté française (RTBF), le décret du 9 janvier 2003 sur la transparence, l'autonomie, et le contrôle des organismes publics, des sociétés de bâtiments scolaires et des sociétés de gestion patrimoniale qui dépendent de la Communauté française et le décret coordonné du 26 mars 2009 sur les services de médias audiovisuels

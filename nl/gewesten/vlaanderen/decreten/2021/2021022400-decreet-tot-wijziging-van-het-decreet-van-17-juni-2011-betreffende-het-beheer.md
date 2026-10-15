@@ -13,7 +13,7 @@ entry_into_force: 2021-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/22/2021022400/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OKTOBER 2021. - Decreet tot wijziging van het decreet van 17 juni 2011 betreffende het beheer van de verkeersveiligheid van weginfrastructuur

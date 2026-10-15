@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/18/1999035763/justel"
 department: "Communauté flamande"
 justel_note: "l'article 60 du DCFL 2001-12-21/37 raye, sans spécifier d'article, un morceau de phrase introuvable dans le présent décret"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 MAI 1999. - Décret modifiant le décret sur la Musique du 31 mars 1998 (TRADUCTION).

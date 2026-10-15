@@ -13,7 +13,7 @@ entry_into_force: 2021-04-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/09/2021030594/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2019. - Decreet houdende instemming met de Overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Unie en haar Lidstaten, enerzijds, en de Republiek Cuba, anderzijds, gedaan te Brussel op 12 december 2016

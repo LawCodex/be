@@ -13,7 +13,7 @@ entry_into_force: 2025-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/07/17/2025005505/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2025. - Ordonnance portant modifications diverses au Code des droits de succession et au Code des droits d'enregistrement, d'hypothèque et de greffe

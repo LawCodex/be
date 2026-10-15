@@ -11,7 +11,7 @@ date: 1994-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/07/13/1994036146/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 JULI 1994. - Decreet houdende wijziging van artikel 79 van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de stedebouw.

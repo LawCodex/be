@@ -12,7 +12,7 @@ published: 2019-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/11/14/2019010733/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 2018. - Décret modifiant le décret du 20 octobre 2011 relatif à la lutte contre le dopage et modifiant le décret du 10 mai 2013 instaurant une procédure de reconnaissance des salles de fitness de qualité

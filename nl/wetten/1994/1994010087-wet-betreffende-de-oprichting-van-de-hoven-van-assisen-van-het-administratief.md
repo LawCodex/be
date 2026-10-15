@@ -12,7 +12,7 @@ entry_into_force: 1994-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/12/27/1994010087/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 1994. - Wet betreffende de oprichting van de hoven van assisen van het administratief arrondissement Brussel-Hoofdstad, van de provincie Waals-Brabant en van de provincie Vlaams-Brabant.

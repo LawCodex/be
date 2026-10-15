@@ -12,7 +12,7 @@ entry_into_force: 2012-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/20/2012000730/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2012. - Loi modifiant l'article 7 de la loi du 8 juillet 1976 organique des centres publics d'action sociale

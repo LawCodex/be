@@ -13,7 +13,7 @@ entry_into_force: 2009-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2009/03/19/2009201492/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2009. - Décret modifiant l'article 200 du Code wallon du Logement en vue d'ajouter aux membres du Conseil supérieur du logement un représentant désigné sur proposition du Gouvernement de la Communauté germanophone

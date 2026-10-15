@@ -12,7 +12,7 @@ published: 2022-05-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/02/18/2022040615/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 FEBRUARI 2022. - Decreet tot wijziging van het decreet basisonderwijs van 25 februari 1997 en de Codex Secundair Onderwijs van 17 december 2010, wat betreft het inschrijvingsrecht in het gewoon onderwijs in het tweetalige gebied Brussel-Hoofdstad

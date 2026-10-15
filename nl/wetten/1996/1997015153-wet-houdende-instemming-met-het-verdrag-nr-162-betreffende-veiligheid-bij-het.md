@@ -12,7 +12,7 @@ entry_into_force: 1997-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/09/16/1997015153/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 SEPTEMBER 1996. - Wet houdende instemming met het Verdrag nr. 162 betreffende veiligheid bij het gebruik van asbest, aangenomen te Genève op 4 juni 1986 door de Internationale Arbeidsconferentie tijdens haar tweeënzeventigste zitting.

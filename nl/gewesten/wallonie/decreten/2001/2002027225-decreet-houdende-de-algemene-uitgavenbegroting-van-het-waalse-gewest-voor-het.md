@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/20/2002027225/justel"
 department: "Waalse Gewest"
 justel_note: "raadpleging van vroegere versies vanaf 23-04-2002 en summiere tekstbijwerking tot 13-02-2003"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2001. - Decreet houdende de algemene uitgavenbegroting van het Waalse Gewest voor het begrotingsjaar 2002 (VERTALING).

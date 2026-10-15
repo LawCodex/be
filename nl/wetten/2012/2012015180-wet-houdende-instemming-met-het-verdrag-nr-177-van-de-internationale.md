@@ -11,7 +11,7 @@ entry_into_force: 2013-10-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/09/01/2012015180/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 SEPTEMBER 2012. - Wet houdende instemming met het Verdrag nr. 177 van de Internationale Arbeidsorganisatie betreffende thuiswerk, aangenomen te Genève op 20 juni 1996

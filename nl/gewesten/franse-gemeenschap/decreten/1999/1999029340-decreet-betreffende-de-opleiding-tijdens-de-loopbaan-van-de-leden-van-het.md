@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1999/03/15/1999029340/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 16-07-1999 en tekstbijwerking tot 10-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MAART 1999. - Decreet betreffende de opleiding tijdens de loopbaan van de leden van het bestuurs- en onderwijzend personeel en van het onderwijzend hulppersoneel van het kunstsecundair onderwijs met beperkt leerplan gesubsidieerd door de Franse Gemeenschap (VERTALING)

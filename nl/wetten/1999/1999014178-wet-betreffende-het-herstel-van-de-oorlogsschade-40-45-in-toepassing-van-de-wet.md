@@ -12,7 +12,7 @@ entry_into_force: 1999-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/06/02/1999014178/justel"
 department: "Verkeerswezen"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 1999. - Wet betreffende het herstel van de oorlogsschade 40-45 in toepassing van de wet van 6 juli 1948 waarbij het herstel van de oorlogsschade aan de goederen noodzakelijk voor een openbare dienst of voor het nastreven van een doel van algemeen nut ten laste van de Staat wordt gelegd.

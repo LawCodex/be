@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/06/23/2017020458/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2017. - Ordonnantie houdende instemming met : 1° de Overeenkomst tussen het Koninkrijk België en de Republiek Oezbekistan tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 14 november 1996, zoals gewijzigd door het Aanvullend Protocol, gedaan te Tasjkent op 17 april 1998, en door het Protocol, gedaan te Brussel op 18 februari 2015; 2° het Aanvullend Protocol, gedaan te Tasjkent op 17 april 1998, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Republiek Oezbekistan tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 14 november 1996; 3° het Protocol, gedaan te Brussel op 18 februari 2015, tot wijziging van de Overeenkomst tussen het Koninkrijk België en de Republiek Oezbekistan tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 14 november 1996, zoals gewijzigd door het Aanvullend Protocol, gedaan te Tasjkent op 17 april 1998, dat het Brussels Hoofdstedelijk Parlement in zijn vergadering van vrijdag 2 juni 2017 aangenomen heeft

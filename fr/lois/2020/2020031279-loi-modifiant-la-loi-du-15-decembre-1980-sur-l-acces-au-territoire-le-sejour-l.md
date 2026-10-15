@@ -12,7 +12,7 @@ entry_into_force: 2020-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/07/31/2020031279/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2020. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, relative aux personnes faisant l'objet d'un transfert temporaire intragroupe et modifiant la loi du 6 mai 2009 portant des dispositions diverses relatives à l'asile et à l'immigration en ce qui concerne le résorption de l'arriéré du contentieux

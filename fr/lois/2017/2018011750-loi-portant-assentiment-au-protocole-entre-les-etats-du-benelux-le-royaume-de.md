@@ -12,7 +12,7 @@ entry_into_force: 2018-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2017/09/03/2018011750/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBRE 2017. - Loi portant assentiment au Protocole entre les Etats du Benelux (le Royaume de Belgique, le Grand-Duché de Luxembourg et le Royaume des Pays-Bas) et la Géorgie portant sur l'application de l'Accord entre l'Union européenne et la Géorgie concernant la réadmission des personnes en séjour irrégulier, fait à Tbilissi le 5 septembre 2013

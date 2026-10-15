@@ -12,7 +12,7 @@ entry_into_force: 1981-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1980/12/24/1981000094/justel"
 department: "Prévoyance Sociale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBRE 1980. - Loi relative aux mesures pour assurer l'exécution du budget 1980-1981 de la Prévoyance sociale.

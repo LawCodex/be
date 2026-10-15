@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/05/24/2023031091/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 31-05-2023 et mise à jour au 19-04-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MAI 2023. - Loi portant des mesures en matière de négociation salariale pour la période 2023-2024

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/03/09/2023044053/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 31-07-2023 en tekstbijwerking tot 12-02-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2023. - Decreet betreffende de afvalstoffen, het circulair gebruik van de materialen en de openbare netheid

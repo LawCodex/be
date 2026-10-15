@@ -13,7 +13,7 @@ entry_into_force: 2026-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/01/2026004283/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 JUIN 2026. - Décret modifiant le décret du 1er mars 2021 relatif aux services de médias et aux représentations cinématographiques et le décret du 27 juin 1986 relatif au Centre belge pour la Radiodiffusion-Télévision de la Communauté germanophone

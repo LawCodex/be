@@ -13,7 +13,7 @@ entry_into_force: 2012-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/02/17/2012035189/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2012. - Décret portant modification de diverses dispositions du Code des taxes assimilées aux impôts sur les revenus concernant la taxe de mise en circulation sur la base d'indicateurs environnementaux

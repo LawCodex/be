@@ -13,7 +13,7 @@ entry_into_force: 2020-05-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/04/16/2020201929/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 AVRIL 2020. - Décret modifiant l'article 57 du décret du 15 juillet 2008 relatif au Code forestier

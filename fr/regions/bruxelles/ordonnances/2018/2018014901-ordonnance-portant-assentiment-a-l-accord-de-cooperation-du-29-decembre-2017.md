@@ -13,7 +13,7 @@ entry_into_force: 2018-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/11/15/2018014901/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 NOVEMBRE 2018. - Ordonnance portant assentiment à l'accord de coopération du 29 décembre 2017 entre la Communauté flamande, la Région wallonne, la Commission communautaire commune et la Communauté germanophone concernant l'augmentation des plafonds de revenus et l'immunisation, pour les étudiants en alternance et en apprentissage, des revenus tirés de l'activité lucrative exercée dans le cadre d'un contrat d'occupation d'étudiant

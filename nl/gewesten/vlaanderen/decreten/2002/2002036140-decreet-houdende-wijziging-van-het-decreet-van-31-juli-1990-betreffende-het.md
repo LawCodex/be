@@ -12,7 +12,7 @@ entry_into_force: 2002-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/07/19/2002036140/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2002. - Decreet houdende wijziging van het decreet van 31 juli 1990 betreffende het onderwijs-II.

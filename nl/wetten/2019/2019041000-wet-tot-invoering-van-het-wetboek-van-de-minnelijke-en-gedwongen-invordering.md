@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/13/2019041000/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 30-04-2019 en tekstbijwerking tot 23-03-2023"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 APRIL 2019. - Wet tot invoering van het Wetboek van de minnelijke en gedwongen invordering van fiscale en niet-fiscale schuldvorderingen

@@ -13,7 +13,7 @@ entry_into_force: 2026-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/17/2026005620/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2026. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 19 juni 2026 over het tijdelijk project met pioniersscholen in het kader van de evolutie naar meer kwalitatief en inclusiever onderwijs

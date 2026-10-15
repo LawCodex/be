@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2018/03/29/2018201815/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 16-04-2018 en tekstbijwerking tot 08-10-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAART 2018. - Decreet tot bestuurshervorming binnen de "Société régionale wallonne du Transport" (Waalse Gewestelijke Vervoermaatschappij) en tot wijziging van het decreet van 21 december 1989 betreffende de diensten voor het openbaar vervoer in het Waalse Gewest

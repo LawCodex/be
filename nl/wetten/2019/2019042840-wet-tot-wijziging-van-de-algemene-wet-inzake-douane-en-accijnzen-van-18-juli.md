@@ -12,7 +12,7 @@ entry_into_force: 2019-12-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/12/09/2019042840/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 2019. - Wet tot wijziging van de algemene wet inzake douane en accijnzen van 18 juli 1977 en het wetboek van de belasting over de toegevoegde waarde ter omzetting van richtlijn (EU) 2017/1371

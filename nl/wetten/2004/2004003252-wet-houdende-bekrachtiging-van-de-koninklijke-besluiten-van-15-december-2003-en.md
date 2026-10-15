@@ -12,7 +12,7 @@ entry_into_force: 2004-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2004/06/08/2004003252/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 2004. - Wet houdende bekrachtiging van de koninklijke besluiten van 15 december 2003 en van 23 januari 2004 tot wijziging van het KB/WIB 1992 op het stuk van de bedrijfsvoorheffing.

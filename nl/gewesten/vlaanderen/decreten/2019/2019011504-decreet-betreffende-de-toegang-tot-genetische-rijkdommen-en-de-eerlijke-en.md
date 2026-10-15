@@ -13,7 +13,7 @@ entry_into_force: 2019-04-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/22/2019011504/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2019. - Decreet betreffende de toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen die voortvloeien uit hun gebruik

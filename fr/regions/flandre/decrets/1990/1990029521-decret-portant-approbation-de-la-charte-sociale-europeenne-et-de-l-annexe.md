@@ -13,7 +13,7 @@ entry_into_force: 1990-03-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/03/21/1990029521/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MARS 1990. - Décret portant approbation de la Charte sociale européenne et de l'Annexe faites à Turin le 18 octobre 1961.

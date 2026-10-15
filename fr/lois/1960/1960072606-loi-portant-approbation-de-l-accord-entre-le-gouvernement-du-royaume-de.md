@@ -11,7 +11,7 @@ published: 1960-11-25
 entry_into_force: 1960-12-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1960/07/26/1960072606/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUILLET 1960. - Loi portant approbation de l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement Impérial de l'Iran, relatif aux transports aériens entre leurs territoires respectifs et au-delà, et de l'Annexe, signés à Téhéran, le 14 avril 1958.

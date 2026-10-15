@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/10/22/2021022409/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 OCTOBRE 2021. - Décret modifiant le décret sur l'Energie du 8 mai 2009, en ce qui concerne l'interdiction de l'installation ou du remplacement d'une chaudière à mazout

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2016/10/27/2016031739/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 10-11-2016 et mise à jour au 13-01-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 OCTOBRE 2016. - Ordonnance visant à l'établissement d'une politique de données ouvertes (Open Data) et portant transposition de la Directive 2013/37/UE du Parlement européen et du Conseil du 26 juin 2013 modifiant la Directive 2003/98/CE du Parlement européen et du Conseil du 17 novembre 2003 concernant la réutilisation des informations du secteur public

@@ -12,7 +12,7 @@ entry_into_force: 1949-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1949/06/02/1949060205/justel"
 department: "Affaires étrangères - Commerce extérieur"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 1949. - Loi portant approbation de la Convention sur les Assurances sociales entre la Belgique et l'Italie, signée à Bruxelles le 30 avril 1948.

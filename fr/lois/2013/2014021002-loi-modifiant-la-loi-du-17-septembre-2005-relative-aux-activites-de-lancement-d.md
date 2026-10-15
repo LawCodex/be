@@ -12,7 +12,7 @@ entry_into_force: 2014-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/01/2014021002/justel"
 department: "Politique Scientifique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 DECEMBRE 2013. - Loi modifiant la loi du 17 septembre 2005 relative aux activités de lancement, d'opération de vol ou de guidage d'objets spatiaux

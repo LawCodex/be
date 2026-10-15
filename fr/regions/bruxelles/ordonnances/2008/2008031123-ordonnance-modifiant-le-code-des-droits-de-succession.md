@@ -13,7 +13,7 @@ entry_into_force: 2008-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/03/06/2008031123/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MARS 2008. - Ordonnance modifiant le Code des droits de succession.

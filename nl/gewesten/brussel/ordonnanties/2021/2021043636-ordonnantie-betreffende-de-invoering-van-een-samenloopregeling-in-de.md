@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2021/12/24/2021043636/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 DECEMBER 2021. - Ordonnantie betreffende de invoering van een samenloopregeling in de ordonnantie van 25 april 2019 tot regeling van de toekenning van gezinsbijslag met betrekking tot de betaling van de toeslag voor kinderen met een aandoening

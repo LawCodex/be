@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/12/14/1999033020/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 12-09-2002 en tekstbijwerking tot 13-01-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBER 1998. - Decreet betreffende de erkenning en de subsidiëring van jeugdorganisaties, jeugdcentra en jeugddiensten (Vertaling).

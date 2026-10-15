@@ -12,7 +12,7 @@ entry_into_force: 2019-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/04/07/2019030478/justel"
 department: "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2019. - Wet tot wijziging van bepalingen betreffende het uitbrengen van wetenschappelijk en technisch advies door het Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten en betreffende de financiering van het Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten alsook de oprichting van een cannabisbureau

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/12/14/2005033035/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 11-05-2005 et mise à jour au 26-04-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 DECEMBRE 2004. - Décret contenant le budget général des dépenses de la Communauté germanophone pour l'année budgétaire 2005 (TRADUCTION).

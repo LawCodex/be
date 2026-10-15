@@ -13,7 +13,7 @@ entry_into_force: 2018-04-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/02/26/2018201697/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 FEVRIER 2018. - Décret portant assentiment à l'Accord de partenariat sur les relations et la coopération entre l'Union européenne et ses Etats membres, d'une part, et la Nouvelle-Zélande, d'autre part, fait à Bruxelles le 5 octobre 2016

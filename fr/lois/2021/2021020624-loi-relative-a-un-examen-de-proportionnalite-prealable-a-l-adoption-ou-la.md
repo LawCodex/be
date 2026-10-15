@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/03/23/2021020624/justel"
 department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
 justel_note: "Consultation des versions antérieures à partir du 09-04-2021 et mise à jour au 23-07-2021"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MARS 2021. - Loi relative à un examen de proportionnalité préalable à l'adoption ou la modification d'une réglementation de profession dans le secteur de la santé

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/01/2007003184/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 26-04-2007 et mise à jour au 07-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 2007. - Loi relative aux offres publiques d'acquisition.

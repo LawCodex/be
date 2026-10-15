@@ -12,7 +12,7 @@ entry_into_force: 1992-03-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1992/07/08/1992021216/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 1992. - Wet betreffende de uitoefening van de bij wet toegekende bevoegdheden aan ministeriële comités en aan minister.

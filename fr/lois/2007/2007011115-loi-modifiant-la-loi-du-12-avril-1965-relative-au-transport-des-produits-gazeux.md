@@ -12,7 +12,7 @@ entry_into_force: 2007-04-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/03/16/2007011115/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 MARS 2007. - Loi modifiant la loi du 12 avril 1965 relative au transport des produits gazeux et autres par canalisations et la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité.

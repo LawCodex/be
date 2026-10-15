@@ -12,7 +12,7 @@ entry_into_force: 2013-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/06/03/2007003353/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2007. - Wet tot wijziging van de wet van 11 augustus 1987 houdende waarborg van werken uit edele metalen

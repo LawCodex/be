@@ -13,7 +13,7 @@ entry_into_force: 2008-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/08/2008201697/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2008. - Decreet houdende instemming, wat betreft de materies waarvan de uitoefening door de Franse Gemeenschap aan het Waalse Gewest is overgedragen, met het Protocol nr. 2 bij de Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten, betreffende interterritoriale samenwerking, opgemaakt in Straatsburg op 5 mei 1998 (VERTALING).

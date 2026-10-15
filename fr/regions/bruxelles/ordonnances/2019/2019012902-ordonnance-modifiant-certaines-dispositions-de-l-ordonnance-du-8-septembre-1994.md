@@ -13,7 +13,7 @@ entry_into_force: 2019-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2019/05/16/2019012902/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MAI 2019. - Ordonnance modifiant certaines dispositions de l'Ordonnance du 8 septembre 1994 réglementant la fourniture d'eau alimentaire distribuée par réseau en Région bruxelloise et de l'ordonnance du 20 octobre 2006 établissant un cadre pour la politique de l'eau

@@ -12,7 +12,7 @@ entry_into_force: 1996-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1996/07/26/1996021235/justel"
 department: "Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JULI 1996. - Wet strekkende tot realisatie van de budgettaire voorwaarden tot deelname van België aan de Europese Economische en Monetaire Unie.

@@ -12,7 +12,7 @@ entry_into_force: 2010-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/04/22/2010009549/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2010. - Wet tot wijziging van de artikelen 92, 109bis en 1301 van het Gerechtelijk Wetboek

@@ -13,7 +13,7 @@ entry_into_force: 2012-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2011/12/16/2012200518/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 DECEMBRE 2011. - Ordonnance portant assentiment à : l'Accord de Stabilisation et d'Association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Serbie, d'autre part, et à l'Acte final, faits à Luxembourg le 29 avril 2008

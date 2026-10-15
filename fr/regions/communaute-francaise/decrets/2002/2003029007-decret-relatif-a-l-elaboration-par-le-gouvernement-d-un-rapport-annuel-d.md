@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/12/19/2003029007/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 22-01-2003 et mise à jour au 08-04-2005"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2002. - Décret relatif à l'élaboration par le Gouvernement d'un rapport annuel d'évaluation de la politique gouvernementale d'égalité entre les femmes et les hommes. &lt;Intitulé remplacé par DCFR 2005-01-28/37, art. 2, 002 ; En vigueur : 18-04-2005&gt;

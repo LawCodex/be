@@ -12,7 +12,7 @@ entry_into_force: 1981-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1981/01/15/1981000116/justel"
 department: "Middenstand"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JANUARI 1981. - Wet houdende maatregelen met het oog op de gedeeltelijke dekking van de financiële lasten met betrekking tot het gecumuleerd deficit van de pensioenregeling der zelfstandigen.

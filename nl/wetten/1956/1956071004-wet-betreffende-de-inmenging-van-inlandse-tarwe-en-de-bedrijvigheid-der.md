@@ -11,7 +11,7 @@ published: 1956-07-25
 entry_into_force: 1956-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1956/07/10/1956071004/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 1956. - Wet betreffende de inmenging van inlandse tarwe en de bedrijvigheid der nijverheidsmaalderijen, der handelaars in inlandse tarwe en der gebruikers van tarwebloem.

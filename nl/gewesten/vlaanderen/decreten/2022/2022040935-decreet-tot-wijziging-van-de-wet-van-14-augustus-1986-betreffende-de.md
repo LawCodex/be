@@ -13,7 +13,7 @@ entry_into_force: 2022-05-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/04/22/2022040935/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 APRIL 2022. - Decreet tot wijziging van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren en het decreet van 13 juli 2018 tot wijziging van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren in het kader van de zesde staatshervorming

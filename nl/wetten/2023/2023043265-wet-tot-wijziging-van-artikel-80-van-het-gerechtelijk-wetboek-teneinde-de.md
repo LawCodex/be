@@ -11,7 +11,7 @@ published: 2023-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/06/19/2023043265/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2023. - Wet tot wijziging van artikel 80 van het Gerechtelijk Wetboek, teneinde de vervanging van bepaalde verhinderde rechters door plaatsvervangende rechters mogelijk te maken

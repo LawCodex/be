@@ -12,7 +12,7 @@ published: 2012-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/06/29/2012035885/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUNI 2012. - Decreet tot wijziging van het Gemeentedecreet van 15 juli 2005

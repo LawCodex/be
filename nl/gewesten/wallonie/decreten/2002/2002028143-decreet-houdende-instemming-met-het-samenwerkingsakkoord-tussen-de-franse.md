@@ -13,7 +13,7 @@ entry_into_force: 2002-12-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/11/13/2002028143/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 NOVEMBER 2002. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Franse Gemeenschap, het Waalse Gewest en het College van de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest enerzijds en Quebec anderzijds, en met de bijgevoegde gemeenschappelijke verklaring, gedaan te Brussel op 22 maart 1999 (VERTALING).

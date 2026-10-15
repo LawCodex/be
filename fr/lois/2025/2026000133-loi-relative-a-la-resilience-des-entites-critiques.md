@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/12/19/2026000133/justel"
 department: "Intérieur"
 justel_note: "Consultation des versions antérieures à partir du 19-01-2026 et mise à jour au 19-01-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2025. - Loi relative à la résilience des entités critiques

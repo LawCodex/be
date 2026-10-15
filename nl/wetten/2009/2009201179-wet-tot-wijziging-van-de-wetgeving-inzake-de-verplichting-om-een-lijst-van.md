@@ -12,7 +12,7 @@ entry_into_force: 2009-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/03/12/2009201179/justel"
 department: "Kanselarij van de Eerste Minister"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAART 2009. - Wet tot wijziging van de wetgeving inzake de verplichting om een lijst van mandaten, ambten en beroepen, alsmede een vermogensaangifte in te dienen, wat betreft de indiening van de vermogensaangifte

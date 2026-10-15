@@ -12,7 +12,7 @@ entry_into_force: 2022-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/23/2022021015/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2022. - Loi portant des dispositions budgétaires en matière de santé

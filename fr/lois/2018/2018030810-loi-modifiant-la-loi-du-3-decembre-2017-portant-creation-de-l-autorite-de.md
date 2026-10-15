@@ -12,7 +12,7 @@ entry_into_force: 2018-01-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/04/2018030810/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MARS 2018. - Loi modifiant la loi du 3 décembre 2017 portant création de l'Autorité de protection des données

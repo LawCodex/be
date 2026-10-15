@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/07/18/2013031656/justel"
 department: "Commission communautaire française"
 justel_note: "Consultation des versions antérieures à partir du 19-09-2013 et mise à jour au 10-03-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUILLET 2013. - Décret de la Commission communautaire française visant au soutien de l'accueil de l'enfance

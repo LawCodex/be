@@ -13,7 +13,7 @@ entry_into_force: 2024-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/11/14/2024010762/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 NOVEMBRE 2024. - Décret portant assentiment à l'accord de coopération du 3 mai 2024 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, relatif à l'exécution coordonnée du règlement (UE) 2022/2065 du Parlement européen et du Conseil du 19 octobre 2022 relatif à un marché unique des services numériques et modifiant la directive 2000/31/CE (règlement sur les services numériques)

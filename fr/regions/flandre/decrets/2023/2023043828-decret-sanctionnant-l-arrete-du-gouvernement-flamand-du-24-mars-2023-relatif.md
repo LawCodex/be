@@ -13,7 +13,7 @@ entry_into_force: 2023-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/07/07/2023043828/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2023. - Décret sanctionnant l'arrêté du Gouvernement flamand du 24 mars 2023 relatif aux projets temporaires dans l'enseignement fondamental et secondaire dans le cadre de la revalorisation de la fonction d'enseignant

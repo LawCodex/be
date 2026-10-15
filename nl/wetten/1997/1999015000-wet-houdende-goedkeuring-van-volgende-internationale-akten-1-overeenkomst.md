@@ -12,7 +12,7 @@ entry_into_force: 1999-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/08/29/1999015000/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AUGUSTUS 1997. - Wet houdende goedkeuring van volgende internationale akten : 1. Overeenkomst tussen de Regering van het Koninkrijk België, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland met betrekking tot het treinverkeer tussen België en het Verenigd Koninkrijk via de vaste kanaalverbinding; 2. Protocol inzake het doorgaand treinverkeer tussen België en het Verenigd Koninkrijk via de vaste kanaalverbinding; 3. Bijzondere Overeenkomst tussen de Regering van het Koninkrijk België, de Regering van de Franse Republiek en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake veiligheidsvraagstukken met betrekking tot de treinen tussen België en het Verenigd Koninkrijk via de vaste kanaalverbinding; 4. Protocol inzake de oprichting van een tripartiet intergouvernementeel Comité, ondertekend te Brussel op 15 december 1993.

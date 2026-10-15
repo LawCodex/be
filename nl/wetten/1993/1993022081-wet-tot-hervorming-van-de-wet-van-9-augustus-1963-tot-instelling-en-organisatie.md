@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1993/02/15/1993022081/justel"
 department: "Sociale Voorzorg"
 justel_note: "Raadpleging van vroegere versies vanaf 06-03-1993 en tekstbijwerking tot 05-07-1995."
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 1993. - Wet tot hervorming van de wet van 9 augustus 1963 tot instelling en organisatie van een regeling voor verplichte ziekte- en invaliditeitsverzekering.

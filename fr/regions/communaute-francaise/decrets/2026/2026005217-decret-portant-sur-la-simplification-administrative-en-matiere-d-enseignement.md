@@ -13,7 +13,7 @@ entry_into_force: 2026-07-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/06/25/2026005217/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUIN 2026. - Décret portant sur la simplification administrative en matière d'enseignement

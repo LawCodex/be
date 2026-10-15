@@ -12,7 +12,7 @@ entry_into_force: 2004-09-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/11/2004015113/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 1999. - Loi portant assentiment à l'Accord entre les Gouvernements de la République française, de la République fédérale d'Allemagne, du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, du Royaume d'Espagne et du Royaume de Belgique relatif au programme Airbus A330/A340, et aux Annexes 1 et 2, signés à Madrid le 26 juillet 1995.

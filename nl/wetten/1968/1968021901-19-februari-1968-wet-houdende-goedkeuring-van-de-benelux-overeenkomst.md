@@ -11,7 +11,7 @@ published: 1976-05-21
 entry_into_force: 1976-05-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1968/02/19/1968021901/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEBRUARI 1968. \_ Wet houdende goedkeuring van de Benelux-Overeenkomst betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen, gemeenschappelijke bepalingen behorende bij deze Overeenkomst en Protocol van ondertekening, ondertekend te Luxemburg op 24 mei 1966.

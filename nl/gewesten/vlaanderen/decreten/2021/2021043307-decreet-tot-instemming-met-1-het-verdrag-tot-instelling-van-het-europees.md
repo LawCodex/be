@@ -13,7 +13,7 @@ entry_into_force: 2021-12-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/26/2021043307/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2021. - Decreet tot instemming met 1° het verdrag tot instelling van het Europees Stabiliteitsmechanisme (ESM), ondertekend te Brussel op 2 februari 2012; 2° de overeenkomst, ondertekend te Brussel op 27 januari 2021 tot wijziging van het verdrag, ondertekend te Brussel op 2 februari 2012, tot instelling van het Europees Stabiliteitsmechanisme (ESM)

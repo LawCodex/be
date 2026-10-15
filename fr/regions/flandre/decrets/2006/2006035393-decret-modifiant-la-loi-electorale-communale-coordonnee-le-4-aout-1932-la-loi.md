@@ -13,7 +13,7 @@ entry_into_force: 2006-03-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/02/10/2006035393/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 FEVRIER 2006. - Décret modifiant la Loi électorale communale, coordonnée le 4 août 1932, la loi du 19 octobre 1921 organique des élections provinciales, la loi du 11 avril 1994 organisant le vote automatisé et le décret du 7 mai 2004 réglant le contrôle des dépenses électorales et l'origine des fonds engagés pour l'élection du Parlement flamand (TRADUCTION).

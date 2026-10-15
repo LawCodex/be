@@ -13,7 +13,7 @@ entry_into_force: 2008-02-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/11/16/2008029007/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 NOVEMBRE 2007. - Décret portant assentiment à l'Accord modifiant l'Accord de partenariat entre les membres du groupe des Etats d'Afrique, des Caraïbes et du Pacifique, d'une part, et la Communauté européenne et ses Etats membres, d'autres part, signé à Cotonou le 23 juin 2000, fait à Luxembourg le 25 juin 2005.

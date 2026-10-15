@@ -12,7 +12,7 @@ entry_into_force: 2005-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/07/15/2005009596/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2005. - Loi visant à compléter les articles 10 et 46 de la loi du 8 août 1997 sur les faillites.

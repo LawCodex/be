@@ -13,7 +13,7 @@ entry_into_force: 2017-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/06/23/2017012966/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUIN 2017. - Ordonnance portant assentiment : 1° à la Convention entre le Royaume de Belgique et les Etats-Unis mexicains tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Mexico le 24 novembre 1992, telle que modifiée par le Protocole du 26 août 2013; 2° au Protocole, signé à Mexico le 26 août 2013, modifiant la Convention entre le Royaume de Belgique et les Etats-Unis mexicains tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Mexico le 24 novembre 1992

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/19/2017031005/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 21-08-2017 et mise à jour au 10-07-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2017. - Décret portant confirmation de l'arrêté du Gouvernement de la Communauté française du 19 avril 2017 déterminant le référentiel des compétences terminales en éducation à la philosophie et à la citoyenneté et prévoyant une procédure de dérogation au référentiel

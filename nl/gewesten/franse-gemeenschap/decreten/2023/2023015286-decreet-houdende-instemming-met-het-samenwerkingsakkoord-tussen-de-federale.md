@@ -13,7 +13,7 @@ entry_into_force: 2023-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2023/01/26/2023015286/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANUARI 2023. - Decreet houdende instemming met het Samenwerkingsakkoord tussen de Federale Staat, de Vlaamse Gemeenschap, het Vlaamse Gewest, het Waalse Gewest, het Brusselse Hoofdstedelijk Gewest, de Franse Gemeenschap en de Duitstalige Gemeenschap betreffende het gebruik van de herstel- en veerkrachtfaciliteit

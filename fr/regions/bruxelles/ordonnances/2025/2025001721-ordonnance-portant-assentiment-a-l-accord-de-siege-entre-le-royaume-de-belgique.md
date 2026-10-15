@@ -13,7 +13,7 @@ entry_into_force: 2025-04-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2025/02/19/2025001721/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 FEVRIER 2025. - Ordonnance portant assentiment à l'accord de siège entre le Royaume de Belgique et l'Autorité intergouvernementale pour le développement, fait à Bruxelles le 16 février 2022

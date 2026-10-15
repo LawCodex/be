@@ -12,7 +12,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/05/19/1998003353/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MEI 1998. - Bijzondere wet tot wijziging van de bijzondere wet van 27 april 1994 tot instelling van een responsabiliserings bij drage ten laste van sommige werkgevers van de openbare sector.

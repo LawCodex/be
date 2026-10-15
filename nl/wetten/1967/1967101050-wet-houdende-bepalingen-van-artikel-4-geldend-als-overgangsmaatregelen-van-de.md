@@ -10,7 +10,7 @@ date: 1967-10-10
 published: 1967-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1967/10/10/1967101050/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 1967. - Wet houdende bepalingen van artikel 4, geldend als overgangsmaatregelen, van de wet houdende het Gerechtelijk Wetboek.

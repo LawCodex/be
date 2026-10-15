@@ -13,7 +13,7 @@ entry_into_force: 2026-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/05/08/2026004315/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAI 2026. - Décret réglant et modifiant diverses dispositions, en ce qui concerne le traitement des données dans les secteurs politiques Emploi, Compétences et Economie sociale

@@ -12,7 +12,7 @@ entry_into_force: 2007-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/10/2007009560/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 MEI 2007. - Wet tot tenuitvoerlegging van Verordening (EG) nr. 2201/2003 van de Raad van 27 november 2003 betreffende de bevoegdheid en de erkenning en tenuitvoerlegging van beslissingen in huwelijkszaken en inzake de ouderlijke verantwoordelijkheid, en tot intrekking van Verordening (EG) nr. 1347/2000, van het Europees Verdrag van Luxemburg van 20 mei 1980 betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen, en van het Verdrag van 's-Gravenhage van 25 oktober 1980 betreffende de burgerrechtelijke aspecten van internationale ontvoering van kinderen.

@@ -13,7 +13,7 @@ entry_into_force: 2026-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/07/17/2026006217/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JUILLET 2026. - Décret modifiant divers décrets appartenant aux domaines politiques Justice et Maintien, Contentieux administratif, et Administration intérieure et Politique des villes, en ce qui concerne l'harmonisation avec le nouveau Code pénal

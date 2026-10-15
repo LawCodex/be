@@ -13,7 +13,7 @@ entry_into_force: 2017-08-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/29/2017204072/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2017. - Décret modifiant le décret du 12 avril 2001 relatif à l'organisation du marché régional de l'électricité et le décret du 5 mars 2008 portant constitution de l'Agence wallonne de l'Air et du Climat

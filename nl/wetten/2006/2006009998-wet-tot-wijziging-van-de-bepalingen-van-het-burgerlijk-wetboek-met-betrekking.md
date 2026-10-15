@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/07/01/2006009998/justel"
 department: "Justitie"
 justel_note: "Raadpleging van vroegere versies vanaf 29-12-2006 en tekstbijwerking tot 31-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 JULI 2006. - Wet tot wijziging van de bepalingen van het Burgerlijk Wetboek met betrekking tot het vaststellen van de afstamming en de gevolgen ervan.

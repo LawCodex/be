@@ -11,7 +11,7 @@ published: 1987-10-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1987/10/06/1987015173/justel"
 department: "Buitenlandse Zaken - Ontwikkelingssamenwerking"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 OKTOBER 1987. - Wet tot bepaling van de breedte van de territoriale zee van België.

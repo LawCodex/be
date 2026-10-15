@@ -13,7 +13,7 @@ entry_into_force: 2017-08-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/06/30/2017030839/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUIN 2017. - Décret portant modification et optimisation de diverses dispositions du Décret sur le commerce des armes du 15 juin 2012

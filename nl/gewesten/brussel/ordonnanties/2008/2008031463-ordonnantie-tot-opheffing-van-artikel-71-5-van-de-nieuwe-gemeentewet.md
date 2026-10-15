@@ -12,7 +12,7 @@ entry_into_force: 2008-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2008/09/04/2008031463/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 SEPTEMBER 2008. - Ordonnantie tot opheffing van artikel 71, 5°, van de nieuwe gemeentewet.

@@ -12,7 +12,7 @@ published: 1982-08-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1982/06/30/1982001284/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JUNI 1982. - DECREET inzake de Centra voor gemeenschappelijke diensten

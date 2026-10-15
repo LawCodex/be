@@ -12,7 +12,7 @@ entry_into_force: 1995-01-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/12/23/1995003009/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking - Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 1994. - Wet betreffende de bijdrage van België tot de tiende wedersamenstelling van de werkmiddelen van de Internationale Ontwikkelingsassociatie.

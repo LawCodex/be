@@ -13,7 +13,7 @@ entry_into_force: 2003-02-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2003/01/17/2003035148/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JANVIER 2003. - Décret portant assentiment à l'accord de coopération du 7 décembre 2001 entre l'Etat fédéral, les Régions et la Communauté germanophone concernant le développement des services et des emplois de proximité (TRADUCTION).

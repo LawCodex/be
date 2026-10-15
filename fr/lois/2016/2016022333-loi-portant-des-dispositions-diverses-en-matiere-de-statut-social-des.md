@@ -12,7 +12,7 @@ entry_into_force: 2016-08-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/15/2016022333/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 15 JUILLET 2016. - Loi portant des dispositions diverses en matière de statut social des travailleurs indépendants

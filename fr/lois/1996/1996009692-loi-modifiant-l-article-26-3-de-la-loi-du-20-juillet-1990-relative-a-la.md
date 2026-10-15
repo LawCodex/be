@@ -12,7 +12,7 @@ entry_into_force: 1996-09-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/08/04/1996009692/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1996. - Loi modifiant l'article 26, § 3 de la loi du 20 juillet 1990 relative à la détention préventive.

@@ -12,7 +12,7 @@ entry_into_force: 2024-10-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/06/11/2024007017/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUNI 2024. - Wet houdende instemming met de wijzigingen aan het Protocol van Göteborg van 1999 ter bestrijding van verzuring, eutrofiëring en ozon op leefmilieu, met bijlagen, gedaan te Genève op 4 mei 2012, en tot wijziging van de wet van 1 mei 2006 houdende instemming met het Protocol bij het Verdrag van 1979 betreffende grensoverschrijdende luchtverontreiniging over lange afstand, ter bestrijding van verzuring, eutrofiëring en ozon op leefmilieu, gedaan te Göteborg op 30 november 1999

@@ -13,7 +13,7 @@ entry_into_force: 2016-03-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2016/03/03/2016201324/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAART 2016. - Decreet houdende instemming met de Overeenkomst tot oprichting van het Internationaal Instituut voor Democratie en Verkiezingsondersteuning en met de slotakte, gedaan te Stockholm op 27 februari 1995, zoals gewijzigd op 24 januari 2006

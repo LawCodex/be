@@ -13,7 +13,7 @@ entry_into_force: 2010-02-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/01/14/2010029089/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JANVIER 2010. - Décret portant assentiment à l'accord de coopération conclu le 8 octobre 2009 entre la Communauté française et la Région wallonne dans le cadre du renforcement des synergies en matière de statistiques

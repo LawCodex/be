@@ -11,7 +11,7 @@ entry_into_force: 2022-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2022/11/06/2022034083/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBER 2022. - Wet teneinde te waarborgen dat de slachtoffers van geweld vooraf hebben ingestemd met een bemiddeling, een verzoening of een verwijzing naar een kamer voor minnelijke schikking

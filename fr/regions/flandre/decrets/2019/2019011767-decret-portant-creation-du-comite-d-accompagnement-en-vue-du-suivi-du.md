@@ -13,7 +13,7 @@ entry_into_force: 2020-03-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/03/29/2019011767/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2019. - Décret portant création du Comité d'accompagnement en vue du suivi du monitoring des données personnelles dans le cadre des accords intersectoriels flamands pour les secteurs sociaux et non marchands

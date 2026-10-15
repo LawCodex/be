@@ -12,7 +12,7 @@ entry_into_force: 2015-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2015/08/23/2015009459/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 AOUT 2015. - Loi insérant dans le Code judiciaire un article 1412quinquies régissant la saisie de biens appartenant à une puissance étrangère ou à une organisation supranationale ou internationale de droit public

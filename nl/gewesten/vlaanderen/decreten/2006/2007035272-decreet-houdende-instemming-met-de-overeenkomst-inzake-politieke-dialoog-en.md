@@ -13,7 +13,7 @@ entry_into_force: 2007-03-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/12/22/2007035272/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2006. - Decreet houdende instemming met de overeenkomst inzake politieke dialoog en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de republieken Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua en Panama, anderzijds, ondertekend in Rome op 15 december 2003.

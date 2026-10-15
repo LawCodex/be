@@ -16,7 +16,7 @@ department: "Financiën"
 justel_notes:
   - "art. 3 gewijzigd met uitwerking op een onbepaalde datum. <W 2007-04-25/38 , art. 9, 011; Inwerkingtreding : onbepaald >"
   - "Raadpleging van vroegere versies vanaf 24-12-1996 en tekstbijwerking tot 31-12-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBER 1983. - [Wet betreffende de vergunning voor het verstrekken van sterke drank.] &lt;W 2004-05-17/36, art. 2, 007; Inwerkingtreding : 14-06-2004&gt;

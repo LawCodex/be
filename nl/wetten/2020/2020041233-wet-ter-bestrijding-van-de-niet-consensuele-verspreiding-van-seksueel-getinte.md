@@ -12,7 +12,7 @@ entry_into_force: 2020-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/05/04/2020041233/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 2020. - Wet ter bestrijding van de niet-consensuele verspreiding van seksueel getinte beelden en opnames

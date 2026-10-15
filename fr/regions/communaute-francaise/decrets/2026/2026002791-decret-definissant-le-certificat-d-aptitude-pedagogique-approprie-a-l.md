@@ -13,7 +13,7 @@ entry_into_force: 2026-09-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/04/02/2026002791/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 AVRIL 2026. - Décret définissant le certificat d'aptitude pédagogique approprié à l'enseignement supérieur (CAPAES) et ses conditions d'obtention

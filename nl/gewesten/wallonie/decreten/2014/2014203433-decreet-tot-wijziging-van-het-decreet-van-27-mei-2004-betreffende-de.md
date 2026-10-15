@@ -13,7 +13,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/28/2014203433/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2014. - Decreet tot wijziging van het decreet van 27 mei 2004 betreffende de uitoefening door de Duitstalige Gemeenschap van sommige bevoegdheden van het Waalse Gewest inzake de ondergeschikte besturen

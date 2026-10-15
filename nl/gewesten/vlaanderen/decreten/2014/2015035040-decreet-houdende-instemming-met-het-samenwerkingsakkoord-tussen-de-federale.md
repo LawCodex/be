@@ -13,7 +13,7 @@ entry_into_force: 2015-01-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/12/19/2015035040/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2014. - Decreet houdende instemming met het samenwerkingsakkoord tussen de federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijke Gewest met betrekking tot de Coördinatiestructuur voor patrimoniuminformatie

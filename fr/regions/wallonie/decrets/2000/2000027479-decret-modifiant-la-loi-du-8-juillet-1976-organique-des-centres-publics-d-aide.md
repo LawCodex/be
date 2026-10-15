@@ -13,7 +13,7 @@ entry_into_force: 2000-11-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/10/19/2000027479/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 OCTOBRE 2000. - Décret modifiant la loi du 8 juillet 1976 organique des centres publics d'aide sociale.

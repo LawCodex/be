@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2001/03/22/2001007087/justel"
 department: "Landsverdediging"
 justel_note: "raadpleging van vroegere versies vanaf 07-04-2001 en tekstbijwerking tot 10-08-2005"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2001. - Wet tot wijziging van sommige bepalingen betreffende de statuten van het militair personeel.

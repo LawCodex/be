@@ -13,7 +13,7 @@ entry_into_force: 2019-05-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/05/2019011953/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 2019. - Décret modifiant le décret du 21 novembre 2003 relatif à la politique de santé préventive, en ce qui concerne l'obligation de sensibilisation et la politique préventive concernant l'exposition aux substances chimiques perturbant ou pouvant perturber le fonctionnement hormonal normal de l'organisme humain

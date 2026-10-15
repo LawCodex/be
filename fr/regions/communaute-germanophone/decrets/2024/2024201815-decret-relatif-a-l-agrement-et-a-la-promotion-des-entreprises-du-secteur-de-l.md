@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/01/29/2024201815/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 11-04-2024 et mise à jour au 02-03-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JANVIER 2024. - Décret relatif à l'agrément et à la promotion des entreprises du secteur de l'économie sociale

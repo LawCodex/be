@@ -12,7 +12,7 @@ entry_into_force: 2009-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/03/12/2009000234/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MARS 2009. - Loi modifiant la loi du 19 mai 1994 relative à la limitation et au contrôle des dépenses électorales engagées pour l'élection du Parlement européen

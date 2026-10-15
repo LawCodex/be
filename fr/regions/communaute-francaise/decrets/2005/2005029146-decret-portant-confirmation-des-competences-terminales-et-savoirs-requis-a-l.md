@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2005/06/03/2005029146/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 19-08-2005 et mise à jour au 08-08-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUIN 2005. - Décret portant confirmation des compétences terminales et savoirs requis à l'issue de la section de transition des humanités générales et technologiques en éducation artistique, en éducation physique (compléments), en technologie, en éducation technique et technologique

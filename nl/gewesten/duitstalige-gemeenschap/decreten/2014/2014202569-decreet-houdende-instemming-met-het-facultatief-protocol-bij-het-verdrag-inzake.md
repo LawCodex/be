@@ -13,7 +13,7 @@ entry_into_force: 2014-05-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/03/31/2014202569/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 MAART 2014. - Decreet houdende instemming met het Facultatief Protocol bij het Verdrag inzake de Rechten van het Kind inzake een mededelingsprocedure, aangenomen te New York op 19 december 2011

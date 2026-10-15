@@ -12,7 +12,7 @@ entry_into_force: 1995-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1994/12/09/1995025062/justel"
 department: "Volksgezondheid en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBER 1994. - Wet tot wijziging van de wet op de ziekenhuizen, gecoördineerd op 7 augustus 1987.

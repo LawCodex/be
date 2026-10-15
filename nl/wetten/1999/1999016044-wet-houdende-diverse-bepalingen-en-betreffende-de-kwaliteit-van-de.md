@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/02/05/1999016044/justel"
 department: "Middenstand - Landbouw"
 justel_note: "Raadpleging van vroegere versies vanaf 19-03-1999 en tekstbijwerking tot 08-10-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 FEBRUARI 1999. - Wet houdende diverse bepalingen en betreffende de kwaliteit van de landbouwproducten

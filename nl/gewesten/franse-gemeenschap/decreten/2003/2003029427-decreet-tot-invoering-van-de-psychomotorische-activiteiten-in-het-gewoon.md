@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/07/03/2003029427/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 22-08-2003 en tekstbijwerking tot 01-02-2011"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JULI 2003. - Decreet tot invoering van de psychomotorische activiteiten in het gewoon kleuteronderwijs. (Vertaling).

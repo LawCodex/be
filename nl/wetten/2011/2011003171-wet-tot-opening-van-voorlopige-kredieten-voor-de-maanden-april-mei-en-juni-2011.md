@@ -12,7 +12,7 @@ entry_into_force: 2011-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2011/04/11/2011003171/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 APRIL 2011. - Wet tot opening van voorlopige kredieten voor de maanden april, mei en juni 2011

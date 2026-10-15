@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/04/25/2019014545/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 19-09-2019 et mise à jour au 10-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2019. - Décret relatif à la gouvernance numérique du système scolaire et à la transmission des données numériques dans l'enseignement obligatoire

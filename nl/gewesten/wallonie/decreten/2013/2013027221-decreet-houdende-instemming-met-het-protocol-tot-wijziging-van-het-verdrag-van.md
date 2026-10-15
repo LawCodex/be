@@ -12,7 +12,7 @@ published: 2013-10-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/10/10/2013027221/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 OKTOBER 2013. - Decreet houdende instemming met het Protocol tot wijziging van het verdrag van 9 februari 1994 inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, teneinde : 1) te voldoen aan Richtlijn 2006/38/EG van het Europees Parlement en de Raad van 17 mei 2006 tot wijziging van Richtlijn 1999/62/EG betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen en 2) de introductie overeen te komen tussen de regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en het Koninkrijk Zweden van een "papierloos" vignetsysteem in hun gemeenschappelijk stelsel voor de heffing van het gebruiksrecht, ondertekend te Brussel op 21 oktober 2010, en tot wijziging van de artikelen 7bis en 12 van de wet van 27 december 1994 houdende instemming met voornoemd akkoord en tot invoering van een Eurovignet, overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993

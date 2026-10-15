@@ -12,7 +12,7 @@ entry_into_force: 2004-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/28/2005003504/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 AVRIL 2005. - Loi contenant le plafonnement de la taxe sur les opérations de bourse.

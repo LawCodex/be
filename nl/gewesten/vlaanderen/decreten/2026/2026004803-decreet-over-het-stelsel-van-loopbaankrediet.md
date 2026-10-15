@@ -12,7 +12,7 @@ published: 2026-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/19/2026004803/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2026. - Decreet over het stelsel van loopbaankrediet

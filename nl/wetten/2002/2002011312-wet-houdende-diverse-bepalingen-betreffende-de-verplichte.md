@@ -10,7 +10,7 @@ date: 2002-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/08/22/2002011312/justel"
 department: "Economische Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AUGUSTUS 2002. - Wet houdende diverse bepalingen betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen.

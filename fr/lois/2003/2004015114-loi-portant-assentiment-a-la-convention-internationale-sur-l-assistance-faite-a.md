@@ -12,7 +12,7 @@ entry_into_force: 2004-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/13/2004015114/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MAI 2003. - Loi portant assentiment à la Convention internationale sur l'assistance, faite à Londres le 28 avril 1989.

@@ -13,7 +13,7 @@ entry_into_force: 2001-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2000/12/22/2001035023/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBRE 2000. - Décret modifiant le décret du 24 juillet 1991 relatif à l'agrément et à l'octroi de subventions aux centres culturels néerlandophones qui favorisent la vie culturelle dans la Communauté flamande.

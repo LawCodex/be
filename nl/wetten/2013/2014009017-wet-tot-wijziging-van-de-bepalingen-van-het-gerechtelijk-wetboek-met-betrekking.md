@@ -12,7 +12,7 @@ entry_into_force: 2014-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/10/24/2014009017/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 OKTOBER 2013. - Wet tot wijziging van de bepalingen van het Gerechtelijk Wetboek met betrekking tot de verbetering van materiële verschrijvingen of het herstel van omissies in rechterlijke beslissingen alsook de uitlegging van rechterlijke beslissingen

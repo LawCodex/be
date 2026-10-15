@@ -13,7 +13,7 @@ entry_into_force: 2002-09-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/19/2002036044/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2002. - Décret portant transfert des représentants économique flamands du Gouvernement flamand à "Export Vlaanderen" (Office pour la promotion des exportations de la Flandre), organisme public flamand (TRADUCTION).

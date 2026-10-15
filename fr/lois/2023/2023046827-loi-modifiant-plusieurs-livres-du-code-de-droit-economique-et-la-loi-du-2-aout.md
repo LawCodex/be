@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/11/05/2023046827/justel"
 department: "Economie, PME, Classes moyennes et Energie"
 justel_note: "Consultation des versions antérieures à partir du 28-11-2023 et mise à jour au 31-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 NOVEMBRE 2023. - Loi modifiant plusieurs livres du Code de droit économique et la loi du 2 aout 2002 relative à la surveillance du secteur financier et aux services financiers en vue de la transposition partielle de la directive (UE) 2019/882 du Parlement européen et du Conseil du 17 avril 2019 relative aux exigences en matière d'accessibilité applicables aux produits et services, pour ce qui concerne certains services

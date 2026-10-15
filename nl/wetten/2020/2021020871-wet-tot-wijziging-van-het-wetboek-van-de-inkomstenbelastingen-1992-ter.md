@@ -12,7 +12,7 @@ entry_into_force: 2021-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2020/12/03/2021020871/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 DECEMBER 2020. - Wet tot wijziging van het Wetboek van de inkomstenbelastingen 1992 ter begrenzing van de referentie-CO2-uitstoot

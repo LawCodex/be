@@ -12,7 +12,7 @@ entry_into_force: 1998-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/06/08/1998003354/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUNI 1998. - Wet houdende wijziging van artikel 38 van het Wetboek van de inkomstenbelastingen 1992 voor wat betreft de vrijwilligers van de Civiele Bescherming.

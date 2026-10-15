@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/29/2024003902/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2024. - Décret modifiant le décret du 6 juillet 2012 relatif à la Politique culturelle locale, le décret du 10 mars 2023 relatif au subventionnement de l'animation socioculturelle des adultes et le décret du 23 juin 2023 portant subventionnement structurel des organisations clé pour mener le processus de transformation numérique du secteur culturel et abrogeant le décret Participation du 18 janvier 2008

@@ -12,7 +12,7 @@ entry_into_force: 1995-04-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/04/05/1995000224/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 AVRIL 1995. - Loi spéciale modifiant la loi spéciale du 8 août 1980 de réformes institutionnelles et la loi spéciale du 12 janvier 1989 relative aux Institutions bruxelloises.

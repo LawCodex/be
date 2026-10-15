@@ -13,7 +13,7 @@ entry_into_force: 2022-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/07/08/2022032859/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 JULI 2022. - Decreet tot machtiging aan de Vlaamse Regering om het samenwerkingsakkoord van 12 juni 2013 tussen de federale overheid, de Gewesten en de Gemeenschappen voor de oprichting van het interfederaal Centrum voor gelijke kansen en bestrijding van discriminatie en racisme onder de vorm van een gemeenschappelijke instelling zoals bedoeld in artikel 92bis van de bijzondere wet van 8 augustus 1980 op te zeggen

@@ -12,7 +12,7 @@ entry_into_force: 2012-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2012/12/27/2012021153/justel"
 department: "Wetenschapsbeleid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBER 2012. - Wet tot wijziging van de wet van 30 maart 1995 betreffende de elektronische communicatienetwerken en -diensten en de uitoefening van omroepactiviteiten in het tweetalig gebied Brussel-Hoofdstad

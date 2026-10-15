@@ -13,7 +13,7 @@ entry_into_force: 2012-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2012/03/01/2012031114/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2012. - Ordonnantie houdende instemming met : het Verdrag van de Raad van Europa inzake de bescherming van kinderen tegen seksuele uitbuiting en seksueel misbruik, aangenomen te Lanzarote op 25 oktober 2007

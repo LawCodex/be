@@ -12,7 +12,7 @@ entry_into_force: 1993-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1995/04/07/1995016065/justel"
 department: "Middenstand"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 1995. - Wet tot wijziging van het koninklijk besluit nr. 72 van 10 november 1967 betreffende het rust- en overlevingspensioen der zelfstandigen en van de wet van 15 mei 1984 houdende maatregelen tot harmonisering in de pensioenregelingen.

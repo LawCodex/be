@@ -13,7 +13,7 @@ entry_into_force: 1994-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1994/04/18/1994033053/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 1994. - Decreet tot wijziging van artikel 6 van de wet van 6 juli 1970 op het buitengewoon en geïntegreerd onderwijs.

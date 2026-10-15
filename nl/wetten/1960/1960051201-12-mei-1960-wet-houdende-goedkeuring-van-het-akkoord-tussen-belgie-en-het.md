@@ -11,7 +11,7 @@ published: 1961-02-03
 entry_into_force: 1960-05-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1960/05/12/1960051201/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 1960. \_ Wet houdende goedkeuring van het Akkoord tussen België en het Groothertogdom Luxemburg, betreffende de sociale zekerheid der koloniale werknemers, ondertekend op 10 juni 1958, te Brussel.

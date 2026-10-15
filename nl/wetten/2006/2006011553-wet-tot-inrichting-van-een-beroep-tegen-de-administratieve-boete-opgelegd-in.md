@@ -12,7 +12,7 @@ entry_into_force: 2006-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/12/08/2006011553/justel"
 department: "Justitie - Financiën - Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2006. - Wet tot inrichting van een beroep tegen de administratieve boete opgelegd in het raam van de toepassing van de wet van 8 december 2006 tot vaststelling van een heffing ter bestrijding van het niet benutten van een site voor de productie van elektriciteit door een producent.

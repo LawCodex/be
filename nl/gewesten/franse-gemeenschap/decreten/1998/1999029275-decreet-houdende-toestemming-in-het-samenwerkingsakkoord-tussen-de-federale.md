@@ -13,7 +13,7 @@ entry_into_force: 1999-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/11/30/1999029275/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 NOVEMBER 1998. - Decreet houdende toestemming in het Samenwerkingsakkoord tussen de federale Staat, de Gemeenschappen en de Gewesten betreffende de bestendiging van het armoedebeleid (VERTALING).

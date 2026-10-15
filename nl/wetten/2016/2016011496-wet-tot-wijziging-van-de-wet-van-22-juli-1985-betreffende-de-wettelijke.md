@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/12/07/2016011496/justel"
 department: "Economie, KMO, Middenstand en Energie"
 justel_note: "Raadpleging van vroegere versies vanaf 14-12-2016 en tekstbijwerking tot 10-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 DECEMBER 2016. - Wet tot wijziging van de wet van 22 juli 1985 betreffende de wettelijke aansprakelijkheid op het gebied van de kernenergie

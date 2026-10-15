@@ -13,7 +13,7 @@ entry_into_force: 2015-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/06/29/2015203952/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUIN 2015. - Décret modifiant le décret du 19 décembre 1988 relatif à l'attribution du Prix du Parlement de la Communauté germanophone

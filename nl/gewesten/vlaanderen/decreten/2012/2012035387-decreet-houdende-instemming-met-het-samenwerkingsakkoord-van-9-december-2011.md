@@ -13,7 +13,7 @@ entry_into_force: 2012-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/03/09/2012035387/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAART 2012. - Decreet houdende instemming met het samenwerkingsakkoord van 9 december 2011 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende dopingpreventie en -bestrijding in de sport

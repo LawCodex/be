@@ -12,7 +12,7 @@ entry_into_force: 1997-06-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/11/29/1997015176/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 1994. - Loi portant approbation des actes internationaux suivants : a) Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la Roumanie d'autre part, Protocoles 1, 2, 3, 4, 5, 6 et 7, Annexes I à XIX inclus, et Acte final, faits à Bruxelles le 1er février 1993; b) Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Bulgarie d'autre part, Protocoles 1, 2, 3, 4, 5, 6, 7 et 8, Annexes I à XVI inclus, et Acte final, faits à Bruxelles le 8 mars 1993.

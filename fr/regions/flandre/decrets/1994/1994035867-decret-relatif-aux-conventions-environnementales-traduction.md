@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/06/15/1994035867/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-06-2004 et mise à jour au 14-12-2012"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 JUIN 1994. - Décret relatif aux conventions environnementales. &lt;Traduction&gt;

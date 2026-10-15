@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2019/12/09/2019206087/justel"
 department: "Sécurité sociale"
 justel_note: "Consultation des versions antérieures à partir du 24-12-2019 et mise à jour au 31-05-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 DECEMBRE 2019. - Loi portant création d'un Fonds blouses blanches

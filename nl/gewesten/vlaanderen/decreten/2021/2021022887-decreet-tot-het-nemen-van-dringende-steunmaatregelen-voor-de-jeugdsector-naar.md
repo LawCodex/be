@@ -13,7 +13,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/12/23/2021022887/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBER 2021. - Decreet tot het nemen van dringende steunmaatregelen voor de jeugdsector naar aanleiding van de COVID-19-pandemie

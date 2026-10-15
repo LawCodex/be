@@ -13,7 +13,7 @@ entry_into_force: 2003-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/19/2002029627/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2002. - Decreet tot wijziging van sommige bepalingen aangaande het statuut van de leden van het gesubsidieerd personeel van het gesubsidieerd vrij onderwijs (VERTALING).

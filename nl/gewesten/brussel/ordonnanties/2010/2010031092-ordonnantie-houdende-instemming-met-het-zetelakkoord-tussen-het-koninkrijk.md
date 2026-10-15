@@ -13,7 +13,7 @@ entry_into_force: 2010-02-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2010/02/04/2010031092/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2010. - Ordonnantie houdende instemming met het Zetelakkoord tussen het Koninkrijk België en het Internationaal Comité voor Militaire Geneeskunde, ondertekend te Brussel op 2 juni 2008

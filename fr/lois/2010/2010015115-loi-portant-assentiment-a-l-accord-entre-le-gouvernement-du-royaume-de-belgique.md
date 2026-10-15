@@ -12,7 +12,7 @@ entry_into_force: 2011-10-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/05/19/2010015115/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2010. - Loi portant assentiment à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République française concernant l'échange d'informations et de données à caractère personnel relatives aux titulaires du certificat d'immatriculation de véhicules contenues dans les fichiers nationaux d'immatriculation des véhicules dans le but de sanctionner les infractions aux règles de la circulation, signé à Paris le 13 octobre 2008

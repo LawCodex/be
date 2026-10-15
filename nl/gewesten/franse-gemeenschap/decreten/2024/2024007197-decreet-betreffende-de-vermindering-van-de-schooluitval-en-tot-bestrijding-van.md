@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/05/16/2024007197/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 24-09-2024 en tekstbijwerking tot 11-08-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 MEI 2024. - Decreet betreffende de vermindering van de schooluitval en tot bestrijding van het schoolverzuim van leerlingen

@@ -13,7 +13,7 @@ entry_into_force: 2012-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/04/26/2012202677/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 AVRIL 2012. - Décret portant assentiment à la Convention entre la Belgique et le Danemark en vue d'éviter la double imposition et de régler certaines autres questions en matière d'impôts sur les revenus et sur la fortune, faite à Bruxelles le 16 octobre 1969, telle que modifiée par le Protocole, fait à Copenhague le 27 septembre 1999, et le Protocole, fait à Bruxelles le 7 juillet 2009

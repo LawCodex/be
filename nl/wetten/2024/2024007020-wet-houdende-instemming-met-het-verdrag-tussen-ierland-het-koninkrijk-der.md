@@ -11,7 +11,7 @@ published: 2024-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/06/21/2024007020/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUNI 2024. - Wet houdende instemming met het Verdrag tussen Ierland, het Koninkrijk der Nederlanden, het Koninkrijk Spanje, de Italiaanse Republiek, de Portugese Republiek, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot oprichting van een Maritiem Analyse- en Operatiecentrum op het gebied van verdovende middelen, gedaan te Lissabon op 30 september 2007

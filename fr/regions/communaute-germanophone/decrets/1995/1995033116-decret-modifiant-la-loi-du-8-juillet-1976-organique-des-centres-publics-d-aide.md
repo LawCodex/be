@@ -13,7 +13,7 @@ entry_into_force: 1995-04-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/05/02/1995033116/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 1995. - Décret modifiant la loi du 8 juillet 1976 organique des centres publics d'aide sociale (TRADUCTION).

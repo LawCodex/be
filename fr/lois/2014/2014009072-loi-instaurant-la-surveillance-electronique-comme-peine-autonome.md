@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/07/2014009072/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 28-02-2014 et mise à jour au 19-02-2016"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 FEVRIER 2014. - Loi instaurant la surveillance électronique comme peine autonome

@@ -13,7 +13,7 @@ entry_into_force: 2025-03-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/02/27/2025001963/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2025. - Decreet houdende instemming met het Verdrag nr. 188 betreffende het werk in de visserijsector, aangenomen door de Internationale Arbeidsconferentie in haar 96e zitting in Genève op 14 juni 2007

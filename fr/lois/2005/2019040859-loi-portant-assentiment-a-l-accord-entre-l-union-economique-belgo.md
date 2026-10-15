@@ -12,7 +12,7 @@ entry_into_force: 2019-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2005/09/27/2019040859/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 SEPTEMBRE 2005. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République islamique du Pakistan concernant l'encouragement et la protection réciproques des investissements, signé à Bruxelles le 23 avril 1998

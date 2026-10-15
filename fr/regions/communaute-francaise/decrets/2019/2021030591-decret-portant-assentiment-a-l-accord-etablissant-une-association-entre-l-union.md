@@ -13,7 +13,7 @@ entry_into_force: 2021-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/09/2021030591/justel"
 department: "Commission communautaire française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MAI 2019. - Décret portant assentiment à l'Accord établissant une association entre l'Union européenne et ses Etats membres, d'une part, et l'Amérique centrale, d'autre part, fait à Tegucigalpa le 29 juin 2012

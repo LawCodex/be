@@ -13,7 +13,7 @@ entry_into_force: 2002-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/03/01/2002035527/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 MAART 2002. - Decreet houdende de organisatie van het parlementair onderzoek.

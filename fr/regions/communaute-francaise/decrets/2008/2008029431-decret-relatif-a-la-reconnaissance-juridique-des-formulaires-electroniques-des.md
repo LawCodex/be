@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/07/04/2008029431/justel"
 department: "Communauté française"
 justel_note: "Consultation des versions antérieures à partir du 30-04-2014 et mise à jour au 30-04-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2008. - Décret relatif à la reconnaissance juridique des formulaires électroniques des Services du Gouvernement de la Communauté française, du Conseil supérieur de l'Audiovisuel et des organismes d'intérêt public qui relèvent du Comité de Secteur XVII

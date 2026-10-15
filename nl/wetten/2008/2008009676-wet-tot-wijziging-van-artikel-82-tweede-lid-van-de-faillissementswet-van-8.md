@@ -12,7 +12,7 @@ entry_into_force: 2008-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2008/07/18/2008009676/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 2008. - Wet tot wijziging van artikel 82, tweede lid, van de faillissementswet van 8 augustus 1997 wet betreft de verschoonbaarheid van voormalige echtgenoten.

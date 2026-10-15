@@ -13,7 +13,7 @@ entry_into_force: 2022-07-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/04/28/2022041048/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2022. - Decreet tot wijziging van het decreet van de Franse Gemeenschap van 30 september 2021 betreffende het investeringsplan voor schoolgebouwen in het kader van het Europees plan voor herstel en veerkracht

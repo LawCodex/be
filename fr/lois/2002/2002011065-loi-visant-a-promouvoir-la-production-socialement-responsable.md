@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/02/27/2002011065/justel"
 department: "Affaires économiques"
 justel_note: "Consultation des versions antérieures à partir du 26-03-2002 et mise à jour au 28-12-2017"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2002. - Loi visant à promouvoir la production socialement responsable.

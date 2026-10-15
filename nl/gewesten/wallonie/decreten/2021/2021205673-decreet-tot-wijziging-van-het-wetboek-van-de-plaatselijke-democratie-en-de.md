@@ -13,7 +13,7 @@ entry_into_force: 2021-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/24/2021205673/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBER 2021. - Decreet tot wijziging van het Wetboek van de plaatselijke democratie en de decentralisatie inzake begrotingstekort, gewestelijke steun en gebruik van de gewone reservefondsen

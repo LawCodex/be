@@ -13,7 +13,7 @@ entry_into_force: 2001-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/02/02/2001035210/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 FEVRIER 2001. - Décret modifiant certaines dispositions des décrets relatifs à la radiodiffusion et à la télévision, coordonnés le 25 janvier 1995.

@@ -12,7 +12,7 @@ published: 2022-05-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/02/25/2022040705/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 2022. - Decreet tot uitvoering van maatregelen over het onderwijs uit cao XII Leerplicht, cao V Basiseducatie en cao VI Hoger onderwijs vanaf het school- of academiejaar 2021-2022

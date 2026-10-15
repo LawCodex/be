@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/12/2004029246/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 24-08-2004 en tekstbijwerking tot 22-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 MEI 2004. - Decreet tot bepaling van het statuut van de leden van het administratief personeel, het meester-, vak- en dienstpersoneel van de onderwijsinrichtingen ingericht door de Franse Gemeenschap (VERTALING).

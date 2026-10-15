@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/01/09/2003029071/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 21-02-2003 en tekstbijwerking tot 12-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JANUARI 2003. - Decreet betreffende de doorzichtigheid, de autonomie en de controle in verband met de overheidsinstellingen, de maatschappijen voor schoolgebouwen en de maatschappijen voor vermogensbeheer die onder de Franse Gemeenschap ressorteren (VERTALING).

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/06/2012035902/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-08-2012 et mise à jour au 19-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2012. - Décret concernant l'autorisation à créer une association flamande pour le personnel TIC

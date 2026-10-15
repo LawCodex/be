@@ -13,7 +13,7 @@ entry_into_force: 2013-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2013/05/03/2013035444/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2013. - Décret portant assentiment à l'accord sur le transport aérien entre le Canada et la Communauté européenne et ses Etats membres, signé à Bruxelles le 17 décembre 2009

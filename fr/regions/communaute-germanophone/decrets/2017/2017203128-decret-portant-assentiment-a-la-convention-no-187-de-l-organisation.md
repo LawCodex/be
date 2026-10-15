@@ -13,7 +13,7 @@ entry_into_force: 2017-06-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/05/29/2017203128/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MAI 2017. - Décret portant assentiment à la convention no 187 de l'Organisation internationale du Travail relative au cadre promotionnel pour la sécurité et la santé au travail, faite à Genève le 15 juin 2006

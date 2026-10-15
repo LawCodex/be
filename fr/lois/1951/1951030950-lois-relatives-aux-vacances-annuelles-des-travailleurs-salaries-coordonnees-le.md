@@ -11,7 +11,7 @@ published: 1951-03-29
 entry_into_force: 1951-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1951/03/09/1951030950/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 MARS 1951. - Lois relatives aux vacances annuelles des travailleurs salariés, coordonnées le 9 mars 1951.

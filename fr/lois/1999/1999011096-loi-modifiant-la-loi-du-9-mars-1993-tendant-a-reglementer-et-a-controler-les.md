@@ -12,7 +12,7 @@ entry_into_force: 1999-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/11/1999011096/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 AVRIL 1999. - Loi modifiant la loi du 9 mars 1993 tendant à réglementer et à contrôler les activités des entreprises de courtage matrimonial.

@@ -12,7 +12,7 @@ entry_into_force: 2006-04-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/02/13/2006015042/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 FEBRUARI 2006. - Wet houdende instemming met de Overeenkomst inzake de bescherming van Afrikaans-Euraziatische trekkende watervogels, gedaan te 's Gravenhage op 15 augustus 1996.

@@ -13,7 +13,7 @@ entry_into_force: 2010-07-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/05/27/2010029373/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAI 2010. - Décret portant assentiment à l'Accord-cadre entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République française sur la coopération sanitaire transfrontalière signé à Mouscron le 30 septembre 2005

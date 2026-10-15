@@ -13,7 +13,7 @@ entry_into_force: 1992-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1991/10/23/1991036614/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 OKTOBER 1991. - Decreet houdende organisatie en erkenning van niet-openbare regionale televisieverenigingen.

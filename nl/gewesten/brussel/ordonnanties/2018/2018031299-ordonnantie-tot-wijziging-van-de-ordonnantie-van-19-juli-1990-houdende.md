@@ -13,7 +13,7 @@ entry_into_force: 2018-07-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2018/06/14/2018031299/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUNI 2018. - Ordonnantie tot wijziging van de ordonnantie van 19 juli 1990 houdende oprichting van de Brusselse Hoofdstedelijke Dienst voor Brandweer en Dringende Medische Hulp

@@ -10,7 +10,7 @@ date: 1974-06-07
 published: 1974-08-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1974/06/07/1974060703/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUNI 1974. - WET tot wijziging van de wet van 9 juli 1971 houdende wijziging van de wet van 2 april 1965 betreffende het ten laste nemen van de steun verleend door de commissies van openbare onderstand

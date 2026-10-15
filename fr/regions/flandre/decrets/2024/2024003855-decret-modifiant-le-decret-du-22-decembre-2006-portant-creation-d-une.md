@@ -13,7 +13,7 @@ entry_into_force: 2024-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/29/2024003855/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 MARS 2024. - Décret modifiant le décret du 22 décembre 2006 portant création d'une identification commune d'agriculteurs, d'exploitations et de terres agricoles dans le cadre de la politique relative aux engrais et de la politique de l'agriculture et le décret Engrais du 22 décembre 2006

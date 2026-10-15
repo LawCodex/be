@@ -13,7 +13,7 @@ entry_into_force: 2023-10-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/04/27/2023042120/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 AVRIL 2023. - Ordonnance portant assentiment à la Convention n° 131 concernant la fixation des salaires minima, notamment en ce qui concerne les pays en voie de développement, adoptée par l'Organisation internationale du Travail lors de sa 54e session le 22 juin 1970

@@ -12,7 +12,7 @@ entry_into_force: 2011-06-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/04/29/2011000308/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 29 AVRIL 2011. - Loi créant les centres 112 et l'agence 112

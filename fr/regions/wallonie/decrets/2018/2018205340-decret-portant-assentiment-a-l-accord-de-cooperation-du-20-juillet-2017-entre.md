@@ -13,7 +13,7 @@ entry_into_force: 2018-11-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/09/20/2018205340/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 SEPTEMBRE 2018. - Décret portant assentiment à l'accord de coopération du 20 juillet 2017 entre la Communauté germanophone et la Région wallonne habilitant les comités d'acquisition wallons à réaliser des opérations patrimoniales pour le compte et au nom de la Communauté germanophone et des entités qui en dépendent

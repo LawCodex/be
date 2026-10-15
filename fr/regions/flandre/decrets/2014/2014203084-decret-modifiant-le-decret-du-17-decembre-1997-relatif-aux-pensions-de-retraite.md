@@ -13,7 +13,7 @@ entry_into_force: 2013-12-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2014/04/25/2014203084/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 AVRIL 2014. - Décret modifiant le décret du 17 décembre 1997 relatif aux pensions de retraite allouées aux agents définitifs et admis au stage de la " Vlaamse Maatschappij voor Watervoorziening " (Société flamande de Distribution d'Eau) et aux pensions de survie allouées aux ayants droit de ces membres du personnel

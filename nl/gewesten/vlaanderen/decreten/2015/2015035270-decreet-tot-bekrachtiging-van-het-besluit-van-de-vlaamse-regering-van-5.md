@@ -13,7 +13,7 @@ entry_into_force: 2015-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/02/27/2015035270/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEBRUARI 2015. - Decreet tot bekrachtiging van het besluit van de Vlaamse Regering van 5 september 2014 betreffende de ontwikkelingsdoelen voor opleidingsvorm 1 en opleidingsvorm 2 in het buitengewoon secundair onderwijs

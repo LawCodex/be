@@ -12,7 +12,7 @@ entry_into_force: 2013-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/02/25/2013015161/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 FEVRIER 2013. - Loi portant assentiment à l'Accord multilatéral entre la Communauté européenne et ses Etats membres, la République d'Albanie, l'ancienne République yougoslave de Macédoine, la Bosnie-Herzégovine, la République de Bulgarie, la République de Croatie, la République d'Islande, la République du Monténégro, le Royaume de Norvège, la Roumanie, la République de Serbie, et la Mission d'administration intérimaire des Nations unies au Kosovo sur la création d'un espace aérien commun européen, fait à Luxembourg le 9 juin 2006

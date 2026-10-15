@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/02/25/2019201683/justel"
 department: "Duitstalige Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 12-04-2019 en tekstbijwerking tot 28-11-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 FEBRUARI 2019. - Decreet tot invoering van een permanente burgerdialoog in de Duitstalige Gemeenschap

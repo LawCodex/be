@@ -18,7 +18,7 @@ justel_notes:
   - "art XII.25, § 5, alinéa 3, § 7, alinéa 2, § 8, alinéa 2; art. XII.34; XII.35 insérés avec effet à une date indéterminée par L 2016-07-21/40 , art. 7 ; 20 et 21, 037; En vigueur : indéterminée "
   - "<L 2022-09-25/06 , art. 2; 3; 6-8; 12; 13; 17; 19-20; 22; 23,2°, 119; En vigueur : indéterminée >"
   - "Consultation des versions antérieures à partir du 29-03-2013 et mise à jour au 04-08-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2013. - Code de droit économique

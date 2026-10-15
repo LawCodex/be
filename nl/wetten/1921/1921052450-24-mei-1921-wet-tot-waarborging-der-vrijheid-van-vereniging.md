@@ -11,7 +11,7 @@ published: 1921-05-28
 entry_into_force: 1921-06-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1921/05/24/1921052450/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MEI 1921. \_ Wet tot waarborging der vrijheid van vereniging.

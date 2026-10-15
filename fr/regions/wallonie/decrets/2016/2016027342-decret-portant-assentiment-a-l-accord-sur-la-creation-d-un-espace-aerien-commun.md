@@ -13,7 +13,7 @@ entry_into_force: 2017-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/21/2016027342/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2016. - Décret portant assentiment à l'Accord sur la création d'un espace aérien commun entre l'Union européenne et ses Etats membres et la République de Moldavie, fait à Bruxelles le 26 juin 2012

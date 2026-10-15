@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/10/16/1995033118/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 29-12-1995 et mise à jour au 25-04-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OCTOBRE 1995. - Décret relatif à la publicité des documents administratifs (TRADUCTION).

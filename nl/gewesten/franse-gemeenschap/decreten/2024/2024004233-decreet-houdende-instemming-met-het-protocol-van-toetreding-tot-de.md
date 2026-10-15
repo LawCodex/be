@@ -13,7 +13,7 @@ entry_into_force: 2024-05-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/18/2024004233/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 APRIL 2024. - Decreet houdende instemming met het protocol van toetreding tot de handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds, om rekening te houden met de toetreding van Ecuador, ondertekend in Brussel op 11 november 2016

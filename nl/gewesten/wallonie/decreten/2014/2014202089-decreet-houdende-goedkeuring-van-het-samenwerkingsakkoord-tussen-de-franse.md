@@ -13,7 +13,7 @@ entry_into_force: 2014-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/02/20/2014202089/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 FEBRUARI 2014. - Decreet houdende goedkeuring van het samenwerkingsakkoord tussen de Franse Gemeenschap, de Duitstalige Gemeenschap, het Waalse Gewest en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest betreffende de installatie van de Raad Wallonië-Brussel voor internationale samenwerking

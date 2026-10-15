@@ -13,7 +13,7 @@ entry_into_force: 2013-07-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/05/27/2013203473/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2013. - Decreet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en het "International Plant Genetic Resources Institute", ondertekend te Brussel op 15 oktober 2003

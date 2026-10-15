@@ -13,7 +13,7 @@ entry_into_force: 2006-08-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/07/19/2006202528/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2006. - Decreet tot wijziging van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn om militairen toegang te verlenen tot bepaalde politieke mandaten (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2025-08-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/03/13/2025002435/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2025. - Décret relatif à l'interdiction de l'usage récréatif des téléphones portables et de tout autre équipement terminal de communications électroniques à l'école

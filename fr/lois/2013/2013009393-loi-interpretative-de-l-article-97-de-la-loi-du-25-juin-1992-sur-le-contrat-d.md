@@ -12,7 +12,7 @@ entry_into_force: 2013-08-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/19/2013009393/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2013. - Loi interprétative de l'article 97 de la loi du 25 juin 1992 sur le contrat d'assurance terrestre

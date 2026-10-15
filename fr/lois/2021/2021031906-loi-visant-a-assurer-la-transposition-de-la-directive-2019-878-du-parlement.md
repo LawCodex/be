@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/07/11/2021031906/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 23-07-2021 et mise à jour au 19-07-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 JUILLET 2021. - Loi visant à assurer la transposition de la directive 2019/878 du Parlement européen et du Conseil du 20 mai 2019, de la directive 2019/879 du Parlement européen et du Conseil du 20 mai 2019, de la directive 2019/2034 du Parlement européen et du Conseil du 27 novembre 2019, de la directive 2019/2177 du Parlement européen et du Conseil du 19 décembre 2019, de la directive 2021/338 du Parlement européen et du Conseil du 16 février 2021 et portant dispositions diverses

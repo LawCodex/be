@@ -12,7 +12,7 @@ published: 2014-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2014/04/03/2014029372/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 APRIL 2014. - Decreet tot wijziging van de organisatie van het hoger onderwijs voor sociale promotie

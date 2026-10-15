@@ -12,7 +12,7 @@ entry_into_force: 2021-08-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2021/07/21/2021021623/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 JUILLET 2021. - Loi portant transposition de la directive (UE) 2018/1808 du Parlement européen et du Conseil du 14 novembre 2018 modifiant la directive 2010/13/UE visant à la coordination de certaines dispositions législatives, réglementaires et administratives des Etats membres relatives à la fourniture de services de médias audiovisuels (directive " Services de médias audiovisuels "), compte tenu de l'évolution des réalités du marché

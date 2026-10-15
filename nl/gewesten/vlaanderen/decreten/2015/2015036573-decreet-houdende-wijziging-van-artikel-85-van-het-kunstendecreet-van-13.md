@@ -12,7 +12,7 @@ published: 2015-12-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/12/04/2015036573/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 DECEMBER 2015. - Decreet houdende wijziging van artikel 85 van het Kunstendecreet van 13 december 2013

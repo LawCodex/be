@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2013/05/23/2013024225/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 justel_note: "Raadpleging van vroegere versies vanaf 02-07-2013 en tekstbijwerking tot 31-12-2025"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 MEI 2013. - Wet tot regeling van de vereiste kwalificaties om ingrepen van niet-heelkundige esthetische geneeskunde en esthetische heelkunde uit te voeren [en tot regeling van de reclame en informatie betreffende die ingrepen] &lt;W 2014-04-10/23 , art. 177, 002; Inwerkingtreding : 10-05-2014&gt;

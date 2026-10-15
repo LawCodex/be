@@ -12,7 +12,7 @@ entry_into_force: 1999-03-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/02/16/1999003094/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 16 FEVRIER 1998. - Loi contenant le quatorzième ajustement du budget général des dépenses de l'année budgétaire 1997, département 52, Ministère des Finances, pour le financement de l'Union européenne.

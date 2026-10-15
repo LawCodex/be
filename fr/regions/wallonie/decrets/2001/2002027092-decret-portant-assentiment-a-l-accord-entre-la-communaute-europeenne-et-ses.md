@@ -13,7 +13,7 @@ entry_into_force: 2002-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/12/20/2002027092/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 2001. - Décret portant assentiment à l'Accord entre la Communauté européenne et ses Etats membres, d'une part, et la Confédération suisse, d'autre part, sur la libre circulation des personnes, aux Annexes, aux Protocoles et à l'Acte final, faits à Luxembourg le 21 juin 1999.

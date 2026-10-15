@@ -13,7 +13,7 @@ entry_into_force: 2017-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/06/02/2017012734/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUNI 2017. - DECREET houdende de nadere regels tot implementatie van de omgevingsvergunning

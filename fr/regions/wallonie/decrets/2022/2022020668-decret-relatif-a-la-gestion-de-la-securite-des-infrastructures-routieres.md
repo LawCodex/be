@@ -13,7 +13,7 @@ entry_into_force: 2021-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2022/03/24/2022020668/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MARS 2022. - Décret relatif à la gestion de la sécurité des infrastructures routières

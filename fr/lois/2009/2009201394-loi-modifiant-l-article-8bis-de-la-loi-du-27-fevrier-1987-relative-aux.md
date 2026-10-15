@@ -12,7 +12,7 @@ entry_into_force: 2009-04-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/03/13/2009201394/justel"
 department: "Sécurité sociale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 MARS 2009. - Loi modifiant l'article 8bis de la loi du 27 février 1987 relative aux allocations aux personnes handicapées, en vue de réduire le délai de confirmation d'un handicap

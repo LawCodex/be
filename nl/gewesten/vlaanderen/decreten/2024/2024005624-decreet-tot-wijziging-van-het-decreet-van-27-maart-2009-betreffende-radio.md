@@ -13,7 +13,7 @@ entry_into_force: 2024-07-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/19/2024005624/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 APRIL 2024. - Decreet tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie houdende inhoudelijke en technische aanpassingen en aanpassingen met het oog op de bescherming van persoonsgegevens en het Wetboek van vennootschappen en verenigingen

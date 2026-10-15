@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1998/08/10/1998015186/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Ontwikkelingssamenwerking"
 justel_note: "Raadpleging van vroegere versies vanaf 16-03-1999 en tekstbijwerking tot 17-06-2014"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AUGUSTUS 1998. - Wet houdende instemming met het Protocol van 1992 tot wijziging van het Internationaal Verdrag van 1971 ter oprichting van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, gedaan te Londen op 27 november 1992

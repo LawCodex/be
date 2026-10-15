@@ -13,7 +13,7 @@ entry_into_force: 2014-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/05/08/2014031465/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2014. - Ordonnantie tot wijziging van de ordonnantie van 19 juli 2001 betreffende de organisatie van de elektriciteitsmarkt in het Brussels Hoofdstedelijk Gewest en van de ordonnantie van 1 april 2004 betreffende de organisatie van de gasmarkt in het Brussels Hoofdstedelijk Gewest, betreffende wegenisretributies inzake gas en elektriciteit en houdende wijziging van de ordonnantie van 19 juli 2001 betreffende de organisatie van de elektriciteitsmarkt in het Brussels Hoofdstedelijk Gewest

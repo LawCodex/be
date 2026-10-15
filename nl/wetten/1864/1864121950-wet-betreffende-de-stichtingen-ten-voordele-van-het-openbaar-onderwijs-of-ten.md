@@ -11,7 +11,7 @@ published: 1864-12-24
 entry_into_force: 1865-12-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1864/12/19/1864121950/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 1864. - Wet betreffende de stichtingen ten voordele van het openbaar onderwijs of ten bate van bursalen.

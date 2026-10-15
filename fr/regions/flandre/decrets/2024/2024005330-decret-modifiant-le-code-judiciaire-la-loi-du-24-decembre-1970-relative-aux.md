@@ -13,7 +13,7 @@ entry_into_force: 2024-06-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/17/2024005330/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MAI 2024. - Décret modifiant le Code judiciaire, la loi du 24 décembre 1970 relative aux mesures de sécurité à prendre lors de l'établissement et dans l'exploitation des installations de distribution de gaz, le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement et le Décret sur l'Energie du 8 mai 2009, en ce qui concerne la gestion du réseau et l'efficacité énergétique

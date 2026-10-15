@@ -13,7 +13,7 @@ entry_into_force: 1995-07-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/19/1995035755/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 1995. - Décret portant approbation de la convention-cadre des Nations Unies sur les changements climatiques et des annexes I et II, signées à New York le 9 mai 1992. (TRADUCTION)

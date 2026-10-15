@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2002/11/26/2002010140/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 NOVEMBER 2002. - Wet tot wijziging van de wet van 28 oktober 1996 betreffende de teruggave van cultuurgoederen die op onrechtmatige wijze buiten het grondgebied van bepaalde buitenlandse Staten zijn gebracht.

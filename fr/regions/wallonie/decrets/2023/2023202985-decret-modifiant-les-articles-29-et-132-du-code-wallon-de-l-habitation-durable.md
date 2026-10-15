@@ -13,7 +13,7 @@ entry_into_force: 2023-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2023/05/19/2023202985/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 2023. - Décret modifiant les articles 29 et 132 du Code wallon de l'habitation durable afin de permettre aux universités et hautes écoles de mener des opérations de création et de prise en location de logements spécifiquement à destination des étudiants sur le territoire de la Région wallonne

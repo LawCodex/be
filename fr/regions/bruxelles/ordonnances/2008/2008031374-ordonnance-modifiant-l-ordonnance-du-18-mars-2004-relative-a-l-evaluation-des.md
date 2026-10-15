@@ -13,7 +13,7 @@ entry_into_force: 2008-08-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2008/07/10/2008031374/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JUILLET 2008. - Ordonnance modifiant l'ordonnance du 18 mars 2004 relative à l'évaluation des incidences de certains plans et programmes sur l'environnement, l'ordonnance du 5 juin 1997 relative aux permis d'environnement et l'ordonnance du 18 mars 2004 sur l'accès à l'information relative à l'environnement dans la Région de Bruxelles-Capitale, en vue de la participation du public aux procédures décisionnelles en matière d'environnement ou ayant une incidence sur l'environnement.

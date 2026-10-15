@@ -13,7 +13,7 @@ entry_into_force: 1996-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/12/15/2007200526/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBRE 2006. - Décret -programme portant diverses mesures concernant les internats, les centres psycho-médico-sociaux, les bâtiments scolaires, le financement des universités et des hautes écoles, les subsides sociaux des hautes écoles et des écoles supérieures des arts, les fonds budgétaires, la garantie octroyée par la Communauté française aux produits financiers de la RTBF et le Fonds Ecureuil de la Communauté française.

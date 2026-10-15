@@ -10,7 +10,7 @@ date: 1990-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1990/07/18/1990000402/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 1990. - Wet betreffende de wedden van de titularissen van sommige openbare diensten en van de bedienaars van de eredienst.

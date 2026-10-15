@@ -13,7 +13,7 @@ entry_into_force: 2008-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/06/20/2008202570/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2008. - Decreet houdende wijziging van het Provinciedecreet wat betreft de bevoegdheid van een provinciaal beslissingsorgaan om in rechte op te treden.

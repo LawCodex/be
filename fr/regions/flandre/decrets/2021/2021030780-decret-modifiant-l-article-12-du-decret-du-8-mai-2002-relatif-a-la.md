@@ -13,7 +13,7 @@ entry_into_force: 2021-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/03/19/2021030780/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 MARS 2021. - Décret modifiant l'article 12 du décret du 8 mai 2002 relatif à la participation proportionnelle sur le marché de l'emploi et l'article 38 du décret du 10 juillet 2008 portant le cadre de la politique flamande de l'égalité des chances et de traitement

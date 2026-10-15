@@ -13,7 +13,7 @@ entry_into_force: 2017-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2017/12/15/2017032181/justel"
 department: "Gemeenschappelijke Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 DECEMBER 2017. - Ordonnantie strekkende tot het wijzigen van een aantal bepalingen betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade

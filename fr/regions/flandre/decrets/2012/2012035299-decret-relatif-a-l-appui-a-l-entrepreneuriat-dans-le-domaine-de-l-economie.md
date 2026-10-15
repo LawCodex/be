@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/02/17/2012035299/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 07-01-2014 et mise à jour au 29-04-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 FEVRIER 2012. - Décret relatif à l'appui à l'entrepreneuriat dans le domaine de l'économie sociale et à la stimulation de l'entrepreneuriat socialement responsable

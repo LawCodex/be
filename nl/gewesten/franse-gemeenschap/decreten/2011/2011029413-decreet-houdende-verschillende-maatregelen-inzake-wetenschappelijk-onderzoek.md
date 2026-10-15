@@ -13,7 +13,7 @@ entry_into_force: 2011-08-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/06/23/2011029413/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 23 JUNI 2011. - Decreet houdende verschillende maatregelen inzake wetenschappelijk onderzoek, schoolgebouwen en ambtenarenzaken

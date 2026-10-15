@@ -13,7 +13,7 @@ entry_into_force: 2010-12-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2010/12/10/2010035997/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2010. - Décret modifiant diverses dispositions du décret du 19 mai 2006 relatif au Prêt Gagnant-Gagnant et du décret du 19 décembre 2003 relatif à l'activation de capital-risque en Flandre

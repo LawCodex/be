@@ -12,7 +12,7 @@ published: 2026-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/05/2026005886/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 JUNI 2026. - Decreet over het onderwijs XXXVI

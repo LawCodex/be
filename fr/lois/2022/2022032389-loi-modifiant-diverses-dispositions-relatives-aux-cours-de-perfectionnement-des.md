@@ -12,7 +12,7 @@ entry_into_force: 2022-08-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/02/2022032389/justel"
 department: "Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 2022. - Loi modifiant diverses dispositions relatives aux cours de perfectionnement des militaires de carrière du cadre actif et abrogeant les épreuves professionnelles de la formation pour candidat officier supérieur des officiers de carrière du niveau A

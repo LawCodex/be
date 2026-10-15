@@ -13,7 +13,7 @@ entry_into_force: 2024-05-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/03/08/2024003626/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MAART 2024. - Decreet over de bovenlokale cultuurwerking

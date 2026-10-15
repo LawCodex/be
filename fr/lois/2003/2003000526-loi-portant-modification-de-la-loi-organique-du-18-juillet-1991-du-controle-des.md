@@ -12,7 +12,7 @@ entry_into_force: 2003-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/03/2003000526/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2003. - Loi portant modification de la loi organique du 18 juillet 1991 du contrôle des services de police et de renseignements et de la loi du 5 août 1992 sur la fonction de police.

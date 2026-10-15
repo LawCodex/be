@@ -12,7 +12,7 @@ entry_into_force: 2010-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/12/30/2010009013/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 DECEMBER 2009. - Wet houdende diverse bepalingen betreffende Justitie (II)

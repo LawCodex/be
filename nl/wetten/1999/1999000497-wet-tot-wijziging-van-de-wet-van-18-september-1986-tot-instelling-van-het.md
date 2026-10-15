@@ -11,7 +11,7 @@ published: 1999-07-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/25/1999000497/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MEI 1999. - Wet tot wijziging van de wet van 18 september 1986 tot instelling van het politiek verlof voor de personeelsleden van de overheidsdiensten.

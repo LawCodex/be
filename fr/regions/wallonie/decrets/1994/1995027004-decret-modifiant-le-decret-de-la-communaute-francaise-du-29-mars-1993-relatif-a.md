@@ -13,7 +13,7 @@ entry_into_force: 1995-01-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1994/11/24/1995027004/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 NOVEMBRE 1994. - DECRET modifiant le décret de la Communauté française du 29 mars 1993 relatif à l'agrément et au subventionnement des associations de santé intégrée

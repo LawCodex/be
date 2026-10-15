@@ -13,7 +13,7 @@ entry_into_force: 2025-02-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2025/01/16/2025200467/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JANUARI 2025. - Decreet houdende instemming, wat betreft de bevoegdheden waarvan de uitoefening door de Franse Gemeenschap naar het Waalse Gewest is overgedragen, met het verdrag nr. 131 betreffende de vaststelling van minimumlonen, in het bijzonder met betrekking tot ontwikkelingslanden, aangenomen te Genève op 22 juni 1970 door de Internationale Arbeidsconferentie tijdens haar 54ste zitting

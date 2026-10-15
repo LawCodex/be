@@ -13,7 +13,7 @@ entry_into_force: 2002-04-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/03/22/2002035494/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MARS 2002. - Décret portant assentiment à l'accord de coopération entre l'Etat, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif au plan d'investissement pluriannuel 2001-2012 de la S.N.C.B. (TRADUCTION).

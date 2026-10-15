@@ -11,7 +11,7 @@ published: 2003-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2003/07/10/2003003400/justel"
 department: "Begroting en Beheerscontrole"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2003. - Bijzondere wet tot wijziging van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen, om de vertegenwoordiging van de gemeenschappen en de gewesten door de Raden in en buiten rechte te regelen.

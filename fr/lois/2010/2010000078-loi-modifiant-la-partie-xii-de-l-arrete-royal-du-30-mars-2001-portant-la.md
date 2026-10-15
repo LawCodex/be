@@ -12,7 +12,7 @@ entry_into_force: 2010-04-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/03/03/2010000078/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 MARS 2010. - Loi modifiant la partie XII de l'arrêté royal du 30 mars 2001 portant la position juridique du personnel des services de police, confirmée par la loi-programme du 30 décembre 2001

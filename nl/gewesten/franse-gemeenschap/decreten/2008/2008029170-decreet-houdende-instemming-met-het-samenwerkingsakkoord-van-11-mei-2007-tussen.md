@@ -13,7 +13,7 @@ entry_into_force: 2008-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/02/15/2008029170/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 FEBRUARI 2008. - Decreet houdende instemming met het Samenwerkingsakkoord van 11 mei 2007 tussen de Franse Gemeenschap, de Vlaamse Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie, inzake hulpverlening aan jongeren (VERTALING).

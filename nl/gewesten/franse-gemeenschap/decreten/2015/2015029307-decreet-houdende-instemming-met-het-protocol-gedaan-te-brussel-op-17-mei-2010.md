@@ -13,7 +13,7 @@ entry_into_force: 2015-07-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/06/25/2015029307/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 JUNI 2015. - Decreet houdende instemming met het Protocol, gedaan te Brussel op 17 mei 2010, houdende wijziging van de Overeenkomst tussen het Koninkrijk België en de Republiek Rwanda tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken en het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Kigali op 16 april 2007

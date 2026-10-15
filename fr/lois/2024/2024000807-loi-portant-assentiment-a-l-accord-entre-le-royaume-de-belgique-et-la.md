@@ -12,7 +12,7 @@ entry_into_force: 2026-08-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/01/07/2024000807/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 JANVIER 2024. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et la République dominicaine sur l'exercice d'activités à but lucratif par certains membres de la famille du personnel de missions diplomatiques et de postes consulaires, fait à Bruxelles le 17 juin 2022

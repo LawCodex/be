@@ -13,7 +13,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/05/04/1999000428/justel"
 department: "Binnenlandse Zaken - Sociale Zaken - Volksgezondheid en Leefmilieu - Tewerkstelling en Arbeid"
 justel_note: "Raadpleging van vroegere versies vanaf 28-07-1999 en tekstbijwerking tot 31-05-2000"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MEI 1999. - Wet tot verbetering van de bezoldigingsregeling en van het sociaal statuut van de lokale verkozenen.

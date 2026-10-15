@@ -13,7 +13,7 @@ entry_into_force: 2021-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/05/21/2021041706/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MEI 2021. - Decreet tot wijziging van het decreet van 24 februari 2017 tot gedeeltelijke omzetting van richtlijn 2005/36/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties

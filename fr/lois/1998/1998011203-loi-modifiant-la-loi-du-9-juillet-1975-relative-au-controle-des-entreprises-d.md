@@ -12,7 +12,7 @@ entry_into_force: 1998-09-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/07/05/1998011203/justel"
 department: "Affaires économiques"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 1998. - Loi modifiant la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances.

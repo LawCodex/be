@@ -13,7 +13,7 @@ entry_into_force: 2012-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2011/12/20/2012029011/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2011. - Decreet houdende instemming met de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Servië, anderzijds, en met de Slotakte, gedaan te Luxemburg op 29 april 2008

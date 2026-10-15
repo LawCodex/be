@@ -12,7 +12,7 @@ entry_into_force: 2013-12-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/03/21/2014009127/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 MAART 2014. - Wet houdende wijziging van de wet van 1 december 2013 tot hervorming van de gerechtelijke arrondissementen en tot wijziging van het Gerechtelijk Wetboek met het oog op een grotere mobiliteit van de leden van de rechterlijke orde

@@ -12,7 +12,7 @@ entry_into_force: 2025-05-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/04/27/2025001268/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2025. - Wet houdende goedkeuring van IBRD Resolutie nr. 696, EBRD-Resoluties nrs. 259 en 260 en wijziging van de Overeenkomst tot oprichting van de Aziatische Ontwikkelingsbank

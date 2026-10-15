@@ -13,7 +13,7 @@ entry_into_force: 2015-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2015/07/17/2015036007/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2015. - Decreet houdende instemming met het samenwerkingsakkoord van 15 juli 2014 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie van Brussel-Hoofdstad en de Franse Gemeenschapscommissie betreffende de nadere regels voor de werking van het Interfederaal Instituut voor de Statistiek, van de raad van bestuur en de wetenschappelijke comités van het instituut voor de Nationale Rekeningen

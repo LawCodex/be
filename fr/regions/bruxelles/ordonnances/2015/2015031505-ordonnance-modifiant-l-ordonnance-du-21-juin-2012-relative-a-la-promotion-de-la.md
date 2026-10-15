@@ -13,7 +13,7 @@ entry_into_force: 2015-08-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2015/07/29/2015031505/justel"
 department: "Commission communautaire commune"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 JUILLET 2015. - [Ordonnance modifiant l'ordonnance du 21 juin 2012 relative à la promotion de la santé dans la pratique du sport, à l'interdiction du dopage et à sa prévention] &lt;ERRATUM, voir M.B. 03-09-2015, p. 56068&gt;

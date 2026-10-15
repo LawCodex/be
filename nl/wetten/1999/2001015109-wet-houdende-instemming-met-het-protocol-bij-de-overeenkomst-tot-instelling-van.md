@@ -12,7 +12,7 @@ entry_into_force: 2002-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/03/25/2001015109/justel"
 department: "Buitenlandse Zaken - Buitenlandse Handel - Internationale samenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 MAART 1999. - Wet houdende instemming met het Protocol bij de Overeenkomst tot instelling van samenwerking en een douane-unie tussen de Europese Economische Gemeenschap en de Republiek San Marino naar aanleiding van de toetreding van de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie, en met de Slotakte, gedaan te Brussel op 30 oktober 1997.

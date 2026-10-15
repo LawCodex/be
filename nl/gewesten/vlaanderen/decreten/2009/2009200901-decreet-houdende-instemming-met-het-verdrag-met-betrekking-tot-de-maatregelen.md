@@ -13,7 +13,7 @@ entry_into_force: 2009-03-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/02/06/2009200901/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 FEBRUARI 2009. - Decreet houdende instemming met het verdrag met betrekking tot de maatregelen die moeten worden genomen om de ongeoorloofde invoer, uitvoer en overdracht van eigendom van cultuurgoederen te voorkomen, aangenomen door de Algemene Conferentie van UNESCO tijdens haar zestiende zitting in Parijs op 14 november 1970

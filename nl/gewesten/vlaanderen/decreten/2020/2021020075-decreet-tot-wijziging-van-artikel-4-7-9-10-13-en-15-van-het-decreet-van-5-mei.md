@@ -13,7 +13,7 @@ entry_into_force: 2021-04-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/12/18/2021020075/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBER 2020. - Decreet tot wijziging van artikel 4, 7, 9, 10, 13 en 15 van het decreet van 5 mei 2017 houdende de ondersteuning van bovenlokale sportinfrastructuur en topsportinfrastructuur

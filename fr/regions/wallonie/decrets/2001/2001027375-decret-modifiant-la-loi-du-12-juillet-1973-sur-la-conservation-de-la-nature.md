@@ -13,7 +13,7 @@ entry_into_force: 2001-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2001/06/28/2001027375/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2001. - Décret modifiant la loi du 12 juillet 1973 sur la conservation de la nature.

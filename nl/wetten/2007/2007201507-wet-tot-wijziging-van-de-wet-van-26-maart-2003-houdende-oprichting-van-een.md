@@ -12,7 +12,7 @@ entry_into_force: 2007-05-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/04/27/2007201507/justel"
 department: "Kanselarij van de Eerste Minister - Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2007. - Wet tot wijziging van de wet van 26 maart 2003 houdende oprichting van een Centraal Orgaan voor de Inbeslagneming en de Verbeurdverklaring en houdende bepalingen inzake het waardevast beheer van in beslag genomen goederen en de uitvoering van bepaalde vermogenssancties.

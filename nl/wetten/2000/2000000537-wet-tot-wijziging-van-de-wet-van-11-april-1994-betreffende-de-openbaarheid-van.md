@@ -12,7 +12,7 @@ entry_into_force: 2000-07-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2000/06/26/2000000537/justel"
 department: "Binnenlandse Zaken"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUNI 2000. - Wet tot wijziging van de wet van 11 april 1994 betreffende de openbaarheid van bestuur en de wet van 12 november 1997 betreffende de openbaarheid van bestuur in de provincies en gemeenten.

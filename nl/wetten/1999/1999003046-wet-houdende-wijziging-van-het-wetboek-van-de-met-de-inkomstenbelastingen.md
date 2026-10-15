@@ -12,7 +12,7 @@ entry_into_force: 1991-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1999/01/25/1999003046/justel"
 department: "Financiën"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 JANUARI 1999. - Wet houdende wijziging van het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen overeenkomstig de richtlijn nr. 93/89/EEG van de Raad van de Europese Gemeenschappen.

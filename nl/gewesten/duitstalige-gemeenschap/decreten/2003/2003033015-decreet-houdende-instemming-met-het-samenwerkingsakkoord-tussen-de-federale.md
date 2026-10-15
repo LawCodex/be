@@ -13,7 +13,7 @@ entry_into_force: 2003-04-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/02/03/2003033015/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 FEBRUARI 2003. - Decreet houdende instemming met het samenwerkingsakkoord tussen de Federale Staat, de Gewesten en de Duitstalige Gemeenschap betreffende de ontwikkeling van buurtdiensten en -banen (VERTALING).

@@ -12,7 +12,7 @@ entry_into_force: 2009-09-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/06/2009015105/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 JUIN 2002. - Loi portant assentiment au Protocole additionnel à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, fait à Strasbourg le 9 novembre 1995

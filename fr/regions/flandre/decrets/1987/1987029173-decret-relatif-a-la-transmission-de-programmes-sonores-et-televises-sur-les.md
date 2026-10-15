@@ -13,7 +13,7 @@ entry_into_force: 1987-03-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1987/01/28/1987029173/justel"
 department: "Communauté flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JANVIER 1987. - Décret relatif à la transmission de programmes sonores et télévisés sur les réseaux de radio-distribution et de télédistribution et relatif à l'agrément des sociétés de télévision non publiques.

@@ -13,7 +13,7 @@ entry_into_force: 2009-06-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2009/05/14/2009031273/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 MAI 2009. - Ordonnance modifiant l'ordonnance du 7 juin 2007 relative à la performance énergétique et au climat intérieur des bâtiments

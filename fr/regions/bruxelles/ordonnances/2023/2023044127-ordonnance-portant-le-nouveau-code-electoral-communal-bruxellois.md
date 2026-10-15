@@ -13,7 +13,7 @@ entry_into_force: 2023-08-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/07/20/2023044127/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUILLET 2023. - Ordonnance portant le Nouveau Code électoral communal bruxellois

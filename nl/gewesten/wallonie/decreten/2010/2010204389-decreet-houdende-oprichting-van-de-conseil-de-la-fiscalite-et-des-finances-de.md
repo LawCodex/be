@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/07/22/2010204389/justel"
 department: "Waalse Overheidsdienst"
 justel_note: "Raadpleging van vroegere versies vanaf 24-08-2010 en tekstbijwerking tot 10-08-2016"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 JULI 2010. - Decreet houdende oprichting van de "Conseil de la Fiscalité et des Finances de Wallonie" (Raad van de Fiscaliteit en de Financiën van Wallonië)

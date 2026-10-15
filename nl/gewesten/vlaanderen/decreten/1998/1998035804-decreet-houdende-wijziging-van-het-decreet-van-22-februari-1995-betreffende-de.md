@@ -13,7 +13,7 @@ entry_into_force: 1998-07-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/1998/05/26/1998035804/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 MEI 1998. - Decreet houdende wijziging van het decreet van 22 februari 1995 betreffende de bodemsanering.

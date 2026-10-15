@@ -13,7 +13,7 @@ entry_into_force: 2019-05-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/04/26/2019012341/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2019. - Decreet houdende wijziging van het Energiedecreet van 8 mei 2009, wat betreft het OCMW als promotor van het rationeel energiegebruik en het gebruik van de hernieuwbare energiebronnen

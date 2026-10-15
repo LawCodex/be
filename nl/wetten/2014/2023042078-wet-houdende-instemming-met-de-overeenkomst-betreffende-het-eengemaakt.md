@@ -11,7 +11,7 @@ published: 2023-05-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/27/2023042078/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 MEI 2014. - Wet houdende instemming met de Overeenkomst betreffende het eengemaakt octrooigerecht, gedaan te Brussel op 19 februari 2013. - Addendum

@@ -10,7 +10,7 @@ date: 1997-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1997/02/18/1997009531/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 FEBRUARI 1997. - Wet tot wijziging van de wet van 1 augustus 1985 houdende fiscale en andere bepalingen, inzake de hulp aan slachtoffers van opzettelijke gewelddaden.

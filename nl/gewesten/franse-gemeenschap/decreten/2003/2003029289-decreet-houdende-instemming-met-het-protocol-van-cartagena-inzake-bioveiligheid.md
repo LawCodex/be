@@ -13,7 +13,7 @@ entry_into_force: 2003-06-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/05/08/2003029289/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2003. - Decreet houdende instemming met het Protocol van Cartagena inzake bioveiligheid bij het Verdrag inzake biologische diversiteit, opgemaakt te Montreal op 29 januari 2000 (VERTALING).

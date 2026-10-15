@@ -12,7 +12,7 @@ entry_into_force: 2017-12-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/28/2014015254/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2014. - Loi portant assentiment à l'Accord entre le Royaume de Belgique et Antigua-et-Barbuda en vue de l'échange de renseignements en matière fiscale, fait à Bruxelles le 7 décembre 2009

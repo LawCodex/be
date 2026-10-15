@@ -11,7 +11,7 @@ published: 1959-01-30
 entry_into_force: 1959-02-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1958/12/31/1958123150/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 31 DECEMBER 1958. - Wetten betreffende de afgevaardigden werklieden bij het toezicht in de steenkolenmijnen, samengeordend op 31 december 1958.

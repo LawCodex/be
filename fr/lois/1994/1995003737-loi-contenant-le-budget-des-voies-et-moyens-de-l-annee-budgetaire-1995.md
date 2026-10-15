@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/23/1995003737/justel"
 department: "Finances"
 justel_note: "Consultation des versions antérieures à partir du 14-01-1995 et mise à jour au 19-12-1995"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 DECEMBRE 1994. - Loi contenant le budget des Voies et Moyens de l'année budgétaire 1995.

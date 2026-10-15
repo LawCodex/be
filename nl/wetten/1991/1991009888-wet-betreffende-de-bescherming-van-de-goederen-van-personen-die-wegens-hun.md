@@ -12,7 +12,7 @@ entry_into_force: 1992-07-26
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1991/07/18/1991009888/justel"
 department: "Justitie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JULI 1991. - Wet betreffende de bescherming van de goederen van personen die wegens hun lichaams- of geestestoestand geheel of gedeeltelijk onbekwaam zijn die te beheren.

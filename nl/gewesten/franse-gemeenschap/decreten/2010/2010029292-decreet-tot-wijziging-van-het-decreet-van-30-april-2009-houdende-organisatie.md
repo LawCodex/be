@@ -13,7 +13,7 @@ entry_into_force: 2010-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2010/04/29/2010029292/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 APRIL 2010. - Decreet tot wijziging van het decreet van 30 april 2009 houdende organisatie van de overdracht van het hoger architectuuronderwijs naar de universiteit

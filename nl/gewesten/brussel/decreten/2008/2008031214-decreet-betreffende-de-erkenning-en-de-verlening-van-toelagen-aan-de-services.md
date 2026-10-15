@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/04/17/2008031214/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 09-05-2008 en tekstbijwerking tot 08-05-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 APRIL 2008. - Decreet betreffende de erkenning en de verlening van toelagen aan de "Services Espaces-Rencontres" (VERTALING).

@@ -13,7 +13,7 @@ entry_into_force: 2013-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/04/2013029409/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JULI 2013. - Decreet houdende instemming met het samenwerkingsakkoord van 23 mei 2013 tussen het Waalse Gewest en de Franse Gemeenschap over het opstarten van een gemeenschappelijk initiatief om gegevens te delen en over het gemeenschappelijk beheer van dit initiatief

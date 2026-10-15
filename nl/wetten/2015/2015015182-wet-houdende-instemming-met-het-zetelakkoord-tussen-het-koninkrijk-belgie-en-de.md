@@ -12,7 +12,7 @@ entry_into_force: 2012-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2015/11/23/2015015182/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 23 NOVEMBER 2015. - Wet houdende instemming met het Zetelakkoord tussen het Koninkrijk België en de Benelux Unie, gedaan te Brussel op 3 februari 2012

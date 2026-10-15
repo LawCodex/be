@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2017/06/16/2017012747/justel"
 department: "Commission communautaire commune - Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 21-06-2017 et mise à jour au 22-05-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 JUIN 2017. - Ordonnance relative aux enquêtes parlementaires de l'Assemblée réunie de la Commission communautaire commune

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/04/19/2024004486/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 13-05-2024 et mise à jour au 18-08-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 2024. - Décret modifiant le décret du 15 février 2019 sur le droit en matière de délinquance juvénile, en ce qui concerne la suppression de la limite d'âge et la possibilité de surveillance électronique pendant la phase de la procédure préparatoire et d'autres modifications

@@ -12,7 +12,7 @@ entry_into_force: 2001-02-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2000/12/27/2001000028/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 27 DECEMBRE 2000. - Loi visant à réduire de moitié l'effet dévolutif des votes exprimés en case de tête et à supprimer la distinction entre candidats titulaires et candidats suppléants pour l'élection des Chambres législatives fédérales et du Conseil de la Communauté germanophone.

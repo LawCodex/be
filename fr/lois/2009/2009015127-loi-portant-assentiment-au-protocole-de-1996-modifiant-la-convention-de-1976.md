@@ -12,7 +12,7 @@ entry_into_force: 2010-01-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2009/09/10/2009015127/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 SEPTEMBRE 2009. - Loi portant assentiment au Protocole de 1996 modifiant la Convention de 1976 sur la limitation de la responsabilité en matière de créances maritimes, fait à Londres le 2 mai 1996

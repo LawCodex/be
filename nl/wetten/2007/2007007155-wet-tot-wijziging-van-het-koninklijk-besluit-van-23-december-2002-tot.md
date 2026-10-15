@@ -12,7 +12,7 @@ entry_into_force: 2007-06-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2007/05/11/2007007155/justel"
 department: "Landsverdediging"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2007. - Wet tot wijziging van het koninklijk besluit van 23 december 2002 tot vaststelling van de wijze waarop de Staat door bemiddeling van het Nationaal Instituut voor oorlogsinvaliden, oud-strijders en oorlogsslachtoffers voorziet in de kosteloze geneeskundige verzorging van verscheidene categorieën oud-strijders en oorlogsslachtoffers.

@@ -13,7 +13,7 @@ entry_into_force: 2020-07-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/06/26/2020015123/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2020. - Décret-programme de l'ajustement du budget 2020

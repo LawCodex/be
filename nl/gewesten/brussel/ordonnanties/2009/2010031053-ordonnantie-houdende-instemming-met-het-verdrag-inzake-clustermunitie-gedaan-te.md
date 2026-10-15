@@ -13,7 +13,7 @@ entry_into_force: 2010-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2009/11/27/2010031053/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 NOVEMBER 2009. - Ordonnantie houdende instemming met : het Verdrag inzake clustermunitie, gedaan te Dublin op 30 mei 2008

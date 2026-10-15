@@ -11,7 +11,7 @@ entry_into_force: 2023-12-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/11/06/2023047022/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 NOVEMBER 2023. - Wet tot wijziging van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt en tot bekrachtiging van vijf koninklijke besluiten inzake energie

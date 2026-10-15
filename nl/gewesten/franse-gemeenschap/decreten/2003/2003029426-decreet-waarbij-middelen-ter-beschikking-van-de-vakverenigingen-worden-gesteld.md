@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2003/07/17/2003029426/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 20-08-2003 en tekstbijwerking tot 07-06-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2003. - Decreet waarbij middelen ter beschikking van de vakverenigingen worden gesteld om hun opdrachten te verwezenlijken in de sector van het onderwijs. (Vertaling)

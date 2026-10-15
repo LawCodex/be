@@ -13,7 +13,7 @@ entry_into_force: 2018-12-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/12/10/2018015460/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 DECEMBRE 2018. - Ordonnance contenant l'ajustement du Budget général des Dépenses de la Région de Bruxelles-Capitale pour l'année budgétaire 2018

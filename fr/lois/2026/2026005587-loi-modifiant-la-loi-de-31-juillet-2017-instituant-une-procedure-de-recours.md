@@ -12,7 +12,7 @@ entry_into_force: 2026-07-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2026/07/05/2026005587/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUILLET 2026. - Loi modifiant la loi de 31 juillet 2017 instituant une procédure de recours contre une décision relative à la procédure de sélection pour les catégories limitées de services d'assistance en escale à l'aéroport de Bruxelles-National

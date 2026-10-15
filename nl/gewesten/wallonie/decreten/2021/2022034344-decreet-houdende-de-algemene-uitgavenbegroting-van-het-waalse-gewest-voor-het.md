@@ -11,7 +11,7 @@ date: 2021-12-22
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/12/22/2022034344/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 DECEMBER 2021. - Decreet houdende de algemene uitgavenbegroting van het Waalse Gewest voor het begrotingsjaar 2022. - Addendum

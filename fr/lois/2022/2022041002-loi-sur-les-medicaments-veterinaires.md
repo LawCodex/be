@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/05/05/2022041002/justel"
 department: "Agence Fédérale des Médicaments et des Produits de Sante"
 justel_note: "Consultation des versions antérieures à partir du 20-05-2022 et mise à jour au 13-07-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MAI 2022. - Loi sur les médicaments vétérinaires

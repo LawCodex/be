@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2012/07/06/2012204352/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 03-02-2015 et mise à jour au 10-01-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2012. - Décret portant soutien et stimulation de la politique locale en matière de jeunesse [...] &lt;Intitulé modifié par DCFL 2016-11-18/05 , art. 8, 005; En vigueur : 01-01-2018&gt;

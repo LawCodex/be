@@ -12,7 +12,7 @@ entry_into_force: 2012-09-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/03/2012000560/justel"
 department: "Intérieur"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 3 AOUT 2012. - Loi modifiant la loi du 21 mars 2007 réglant l'installation et l'utilisation de caméras de surveillance en vue de renforcer la sécurité dans les transports en commun et les sites nucléaires

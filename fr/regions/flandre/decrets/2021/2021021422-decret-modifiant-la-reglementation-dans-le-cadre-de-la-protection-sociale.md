@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2021/06/18/2021021422/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 26-07-2021 et mise à jour au 27-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUIN 2021. - Décret modifiant la réglementation dans le cadre de la protection sociale flamande

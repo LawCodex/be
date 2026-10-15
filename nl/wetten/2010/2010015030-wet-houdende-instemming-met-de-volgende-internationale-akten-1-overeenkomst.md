@@ -11,7 +11,7 @@ published: 2010-10-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2010/02/04/2010015030/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEBRUARI 2010. - Wet houdende instemming met de volgende internationale akten : 1. Overeenkomst houdende stichting van de Europese Conferentie voor moleculaire biologie, gedaan te genève op 13 février 1969; 2. Overeenkomst houdende oprichting van de Europese Laboratorium voor moleculaire biologie, gedaan te genève op 10 mei 1973;

@@ -12,7 +12,7 @@ entry_into_force: 2014-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/28/2014015082/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 28 FEVRIER 2014. - Loi portant assentiment à la Convention sur la sécurité sociale entre le Royaume de Belgique et le Monténégro, faite à Bruxelles le 9 juin 2010

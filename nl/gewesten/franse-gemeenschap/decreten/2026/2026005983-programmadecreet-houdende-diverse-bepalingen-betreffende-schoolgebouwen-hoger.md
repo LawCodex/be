@@ -13,7 +13,7 @@ entry_into_force: 2026-08-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/07/17/2026005983/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 JULI 2026. - Programmadecreet houdende diverse bepalingen betreffende Schoolgebouwen, Hoger onderwijs, Leerplichtonderwijs, Volwassenenonderwijs, Kind en Wetenschappelijk onderzoek

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/07/04/2002027680/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 09-08-2002 et mise à jour au 18-12-2018"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 2002. - Décret sur les carrières et modifiant certaines dispositions du décret du 11 mars 1999 relatif au permis d'environnement.

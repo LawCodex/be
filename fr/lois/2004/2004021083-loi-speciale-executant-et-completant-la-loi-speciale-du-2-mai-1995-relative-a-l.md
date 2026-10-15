@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/26/2004021083/justel"
 department: "Chancellerie du Premier Ministre"
 justel_note: "Consultation des versions antérieures à partir du 30-06-2004 et mise à jour au 30-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 JUIN 2004. - Loi spéciale exécutant et complétant la loi spéciale du 2 mai 1995 relative à l'obligation de déposer une liste de mandats, fonctions et professions et une déclaration de patrimoine.

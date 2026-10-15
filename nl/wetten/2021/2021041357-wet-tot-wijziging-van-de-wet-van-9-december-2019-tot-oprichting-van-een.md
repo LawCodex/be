@@ -12,7 +12,7 @@ entry_into_force: 2020-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/05/09/2021041357/justel"
 department: "Justitie - Beleid en Ondersteuning - Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 9 MEI 2021. - Wet tot wijziging van de wet van 9 december 2019 tot oprichting van een Zorgpersoneelfonds, teneinde de middelen ervan toe te wijzen met ingang van 2020

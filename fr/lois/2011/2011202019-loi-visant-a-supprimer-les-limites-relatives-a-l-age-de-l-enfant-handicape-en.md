@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2011/04/13/2011202019/justel"
 department: "Emploi, Travail et Concertation sociale"
 justel_note: "Consultation des versions antérieures à partir du 10-05-2011 et mise à jour au 21-12-2018"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 13 AVRIL 2011. - Loi visant à supprimer les limites relatives à l'âge de l'enfant handicapé en matière de congé parental

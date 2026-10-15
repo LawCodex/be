@@ -12,7 +12,7 @@ entry_into_force: 2024-06-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/04/21/2024005024/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2024. - Loi modifiant les livres Ier, XV et XVII du Code de droit économique, et transposant la directive (UE) 2020/1828 du Parlement européen et du Conseil du 25 novembre 2020 relative aux actions représentatives visant à protéger les intérêts collectifs des consommateurs et abrogeant la directive 2009/22/CE

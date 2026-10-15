@@ -13,7 +13,7 @@ entry_into_force: 1998-03-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/01/19/1998033017/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JANVIER 1998. - Décret portant assentiment à l'accord de siège entre le Royaume de Belgique et l'Agence spatiale européenne, signé à Paris le 26 janvier 1993 (TRADUCTION).

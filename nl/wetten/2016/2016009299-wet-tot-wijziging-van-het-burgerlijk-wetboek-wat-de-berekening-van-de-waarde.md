@@ -12,7 +12,7 @@ entry_into_force: 2016-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2016/06/19/2016009299/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUNI 2016. - Wet tot wijziging van het Burgerlijk Wetboek wat de berekening van de waarde van het vruchtgebruik betreft

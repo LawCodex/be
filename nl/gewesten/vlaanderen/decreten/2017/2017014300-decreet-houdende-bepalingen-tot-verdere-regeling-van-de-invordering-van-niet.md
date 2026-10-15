@@ -13,7 +13,7 @@ entry_into_force: 2017-12-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/12/08/2017014300/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 8 DECEMBER 2017. - Decreet houdende bepalingen tot verdere regeling van de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en voor het Vlaamse Gewest en de instellingen die eronder ressorteren, diverse fiscale bepalingen, en de overname van de dienst van de belasting op spelen en weddenschappen, de automatische ontspanningstoestellen en de openingsbelasting op slijterijen van gegiste dranken

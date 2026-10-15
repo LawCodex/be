@@ -12,7 +12,7 @@ last_amended: 2013-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1955/05/21/1955052101/justel"
 justel_note: "Raadpleging van vroegere versies vanaf 20-10-2004 en tekstbijwerking tot 16-12-2013"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 MEI 1955. - Wet betreffende het rust- en overlevingspensioen voor arbeiders (deze wet, met uitzondering van art. 20, is opgeheven bij KB50, 24-10-1967, art. 75, § 3, 3°, doch blijft verder de pensioenen beheersen die daadwerkelijk en voor de eerste maal vóór 1 januari 1968 ingaan.)

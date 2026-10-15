@@ -13,7 +13,7 @@ entry_into_force: 2005-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2005/07/20/2005202164/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2005. - Decreet houdende oprichting van een Begrotingsfonds voor de sanering van de te renoveren afgedankte bedrijfsruimten en van de sites bestemd voor herontwikkeling wat betreft de landschappen en het leefmilieu (VERTALING).

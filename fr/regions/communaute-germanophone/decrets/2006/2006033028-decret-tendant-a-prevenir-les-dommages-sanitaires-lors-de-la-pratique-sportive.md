@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2006/01/30/2006033028/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 12-04-2006 et mise à jour au 02-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 JANVIER 2006. - Décret tendant à prévenir les dommages sanitaires lors de la pratique sportive (TRADUCTION)

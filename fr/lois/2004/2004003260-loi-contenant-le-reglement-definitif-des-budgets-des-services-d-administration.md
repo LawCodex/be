@@ -12,7 +12,7 @@ entry_into_force: 2004-08-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2004/05/12/2004003260/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 12 MAI 2004. - Loi contenant le règlement définitif des budgets des services d'administration générale de l'Etat et des Services de l'Etat à gestion séparée " Fonds monétaire " et " fed+ " pour l'année 2002.

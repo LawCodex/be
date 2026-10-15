@@ -11,7 +11,7 @@ date: 2020-11-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/11/12/2020031687/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 2020. - Decreet tot omzetting van Richtlijn 2017/1852/EU van de Raad van 10 oktober 2017 betreffende mechanismen ter beslechting van belastinggeschillen in de Europese Unie

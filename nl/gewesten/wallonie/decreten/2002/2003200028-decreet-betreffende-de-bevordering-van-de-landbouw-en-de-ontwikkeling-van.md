@@ -17,7 +17,7 @@ department: "Waalse Gewest"
 justel_notes:
   - "Artikel 24 opgeheven bij WLW 2014-03-27/65 , art. D.418, 8°, 012; Inwerkingtreding : 31-12-2017"
   - "Raadpleging van vroegere versies vanaf 28-01-2003 en tekstbijwerking tot 08-03-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBER 2002. - Decreet betreffende de bevordering van de landbouw en de ontwikkeling van landbouwproducten van gedifferentieerde kwaliteit (VERTALING).

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/03/30/2007035750/justel"
 department: "Autorité flamande"
 justel_note: "Consultation des versions antérieures à partir du 19-06-2007 et mise à jour au 19-01-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MARS 2007. - Décret relatif aux conventions Brownfield (TRADUCTION)

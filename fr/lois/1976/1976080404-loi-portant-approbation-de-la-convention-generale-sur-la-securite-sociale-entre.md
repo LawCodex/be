@@ -12,7 +12,7 @@ entry_into_force: 1976-11-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/08/04/1976080404/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 AOUT 1976. - Loi portant approbation de la Convention générale sur la sécurité sociale entre le Royaume de Belgique et la République Tunisienne, et du Protocole, signés à Tunis le 29 janvier 1975.

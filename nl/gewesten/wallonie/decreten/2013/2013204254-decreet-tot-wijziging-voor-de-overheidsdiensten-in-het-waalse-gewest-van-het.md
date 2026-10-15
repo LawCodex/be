@@ -13,7 +13,7 @@ entry_into_force: 2012-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/07/10/2013204254/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 10 JULI 2013. - Decreet tot wijziging, voor de overheidsdiensten in het Waalse Gewest, van het decreet van 15 maart 2012 tot verruiming van de nationaliteitsvoorwaarden voor de toegang tot betrekkingen van het openbaar ambt in het Waalse Gewest

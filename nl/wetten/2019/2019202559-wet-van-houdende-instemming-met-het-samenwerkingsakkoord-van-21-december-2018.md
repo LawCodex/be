@@ -12,7 +12,7 @@ entry_into_force: 2019-06-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2019/05/08/2019202559/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 MEI 2019. - Wet van houdende instemming met het Samenwerkingsakkoord van 21 december 2018 tussen de Federale Staat, de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de betrokkenheid van de Federale Staat bij de ondertekening van de Samenwerkingsakkoorden van 6 september 2017 en van 30 mei 2018

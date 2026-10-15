@@ -12,7 +12,7 @@ entry_into_force: 1997-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/05/19/1998003353/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 MAI 1998. - Loi spéciale modifiant la loi spéciale du 27 avril 1994 instaurant une contribution de responsabilisation à charge de certains employeurs du secteur public.

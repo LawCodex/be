@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2007/03/22/2008031006/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
 justel_note: "Raadpleging van vroegere versies vanaf 10-09-2012 en tekstbijwerking tot 24-07-2024"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2007. - Decreet betreffende de gelijkheid van behandeling van personen in de beroepsopleiding (VERTALING)

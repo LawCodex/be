@@ -13,7 +13,7 @@ last_amended: 2023-01-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1962/07/04/1962070402/justel"
 justel_note: "Consultation des versions antérieures à partir du 23-12-1994 et mise à jour au 16-01-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 JUILLET 1962. - [Loi relative à la statistique publique.] &lt;L 01-08-1985, art. 64&gt;

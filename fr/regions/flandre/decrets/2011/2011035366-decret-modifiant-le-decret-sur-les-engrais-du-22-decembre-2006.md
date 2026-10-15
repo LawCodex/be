@@ -13,7 +13,7 @@ entry_into_force: 2011-05-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2011/05/06/2011035366/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 2011. - Décret modifiant le décret sur les engrais du 22 décembre 2006

@@ -12,7 +12,7 @@ entry_into_force: 2002-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2002/04/17/2002003211/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 AVRIL 2002. - Loi modifiant l'article 94 du Code des droits de succession, suite au nouveau critère de localisation du droit de succession établi par la loi spéciale du 13 juillet 2001 portant refinancement des communautés et extension des compétences fiscales des régions.

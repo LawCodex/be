@@ -12,7 +12,7 @@ entry_into_force: 1995-10-10
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/05/11/1995015122/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 1995. - Loi portant approbation du Protocole n° 9 à la convention de sauvegarde des droits de l'homme et des libertés fondamentales, fait à Rome le 6 novembre 1990.

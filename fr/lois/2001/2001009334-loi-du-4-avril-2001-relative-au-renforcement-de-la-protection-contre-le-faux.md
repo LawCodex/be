@@ -12,7 +12,7 @@ entry_into_force: 2001-07-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2001/04/04/2001009334/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 AVRIL 2001. - Loi du 4 avril 2001 relative au renforcement de la protection contre le faux monnayage en vue de la mise en circulation de l'euro.

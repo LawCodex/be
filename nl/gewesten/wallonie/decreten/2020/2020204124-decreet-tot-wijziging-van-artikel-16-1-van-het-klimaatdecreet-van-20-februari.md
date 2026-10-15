@@ -13,7 +13,7 @@ entry_into_force: 2020-10-25
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/01/2020204124/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 OKTOBER 2020. - Decreet tot wijziging van artikel 16/1 van het "Klimaatdecreet" van 20 februari 2014

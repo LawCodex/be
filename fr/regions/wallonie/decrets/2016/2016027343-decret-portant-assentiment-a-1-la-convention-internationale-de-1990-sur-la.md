@@ -13,7 +13,7 @@ entry_into_force: 2017-01-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2016/12/21/2016027343/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 21 DECEMBRE 2016. - Décret portant assentiment à : 1) la Convention internationale de 1990 sur la préparation, la lutte et la coopération en matière de pollution par les hydrocarbures, faite à Londres le 30 novembre 1990 et au 2) Protocole de 2000 sur la préparation, la lutte et la coopération contre les événements de pollution par les substances nocives et potentiellement dangereuses, fait à Londres le 15 mars 2000

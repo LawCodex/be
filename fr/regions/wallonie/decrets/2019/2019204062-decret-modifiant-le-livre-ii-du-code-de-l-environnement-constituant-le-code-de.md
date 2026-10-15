@@ -13,7 +13,7 @@ entry_into_force: 2019-09-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2019/05/02/2019204062/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MAI 2019. - Décret modifiant le Livre II du Code de l'Environnement constituant le Code de l'Eau en vue de l'octroi d'un tarif préférentiel en cas de fuite d'eau cachée au sein d'une installation privée de distribution alimentant un logement

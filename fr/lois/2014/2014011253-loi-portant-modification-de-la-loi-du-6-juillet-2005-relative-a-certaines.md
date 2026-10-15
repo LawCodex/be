@@ -12,7 +12,7 @@ entry_into_force: 2014-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/03/26/2014011253/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MARS 2014. - Loi portant modification de la loi du 6 juillet 2005 relative à certaines dispositions judiciaires en matière de communications électroniques ainsi que la loi du 17 janvier 2003 concernant les recours et le traitement des litiges à l'occasion de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et des télécommunications belges (I)

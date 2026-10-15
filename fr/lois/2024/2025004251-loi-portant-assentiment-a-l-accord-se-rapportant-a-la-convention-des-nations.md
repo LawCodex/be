@@ -12,7 +12,7 @@ entry_into_force: 2025-08-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2024/12/25/2025004251/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 25 DECEMBRE 2024. - Loi portant assentiment à l'Accord se rapportant à la Convention des Nations Unies sur le droit de la mer et portant sur la conservation et l'utilisation durable de la diversité biologique marine des zones ne relevant pas de la juridiction nationale, fait à New York le 19 juin 2023

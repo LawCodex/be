@@ -13,7 +13,7 @@ last_amended: 2026-04-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1976/04/01/1976040111/justel"
 justel_note: "Consultation des versions antérieures à partir du 01-07-2022 et mise à jour au 14-04-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 1 AVRIL 1976. - Loi relative à l'intégration verticale dans le secteur de la production animale

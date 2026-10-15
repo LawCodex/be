@@ -12,7 +12,7 @@ entry_into_force: 2009-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2007/06/04/2009201465/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 JUIN 2007. - Loi portant assentiment à l'Accord de coopération du 2 mars 2007 concernant l'exécution de la convention sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction

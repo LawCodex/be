@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/05/17/2019041360/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 26-07-2019 en tekstbijwerking tot 06-07-2021"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 MEI 2019. - Decreet houdende wijziging van het decreet basisonderwijs van 25 februari 1997, van de Codex Secundair Onderwijs van 17 december 2010 en van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, wat het inschrijvingsrecht betreft

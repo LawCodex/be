@@ -12,7 +12,7 @@ entry_into_force: 2021-02-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2021/02/02/2021040390/justel"
 department: "Economie, KMO, Middenstand en Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 2 FEBRUARI 2021. - Wet tot wijziging van sommige bepalingen van het Wetboek van economisch recht, betreffende de verlenging van de wintersolden 2021 ingevolge de COVID-19-pandemie

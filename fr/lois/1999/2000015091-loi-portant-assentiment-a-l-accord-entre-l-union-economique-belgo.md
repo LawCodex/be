@@ -12,7 +12,7 @@ entry_into_force: 2002-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1999/01/18/2000015091/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 JANVIER 1999. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et le Gouvernement de la République de Moldova, d'autre part, concernant l'encouragement et la protection réciproques des investissements, signé à Chisinau le 21 mai 1996.

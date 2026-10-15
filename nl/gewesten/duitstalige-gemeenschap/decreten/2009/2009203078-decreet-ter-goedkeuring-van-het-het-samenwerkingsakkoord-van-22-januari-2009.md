@@ -13,7 +13,7 @@ entry_into_force: 2009-07-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2009/04/27/2009203078/justel"
 department: "Duitstalige Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 APRIL 2009. - Decreet ter goedkeuring van het het Samenwerkingsakkoord van 22 januari 2009 tussen de Duitstalige Gemeenschap en het Waalse Gewest over de protestantse kerkfabrieken die tegelijkertijd actief zijn in de Duitstalige Gemeenschap en in het Waalse Gewest

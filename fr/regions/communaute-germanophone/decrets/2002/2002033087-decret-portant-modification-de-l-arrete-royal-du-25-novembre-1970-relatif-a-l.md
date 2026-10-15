@@ -13,7 +13,7 @@ entry_into_force: 2002-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2002/06/24/2002033087/justel"
 department: "Communauté germanophone"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUIN 2002. - Décret portant modification de l'arrêté royal du 25 novembre 1970 relatif à l'organisation des examens linguistiques (TRADUCTION).

@@ -12,7 +12,7 @@ entry_into_force: 2026-01-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2025/12/11/2025009528/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2025. - Loi modifiant le Code civil visant à étendre les possibilités d'attribution du logement familial lors du divorce et à la rendre possible lors de la cessation de la cohabitation légale

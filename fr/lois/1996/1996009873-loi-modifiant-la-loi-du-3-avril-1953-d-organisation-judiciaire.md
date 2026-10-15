@@ -12,7 +12,7 @@ entry_into_force: 1996-12-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1996/11/21/1996009873/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 NOVEMBRE 1996. - Loi modifiant la loi du 3 avril 1953 d'organisation judiciaire.

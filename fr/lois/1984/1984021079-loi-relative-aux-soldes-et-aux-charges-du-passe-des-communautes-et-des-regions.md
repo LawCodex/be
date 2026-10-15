@@ -12,7 +12,7 @@ entry_into_force: 1984-03-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1984/03/05/1984021079/justel"
 department: "Premier Ministre"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 MARS 1984. - Loi relative aux soldes et aux charges du passé des Communautés et des Régions et aux secteurs économiques nationaux.

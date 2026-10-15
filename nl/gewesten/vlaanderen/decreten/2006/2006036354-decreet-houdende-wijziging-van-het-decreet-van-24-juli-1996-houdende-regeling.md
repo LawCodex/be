@@ -12,7 +12,7 @@ entry_into_force: 2006-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/04/28/2006036354/justel"
 department: "Vlaamse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 APRIL 2006. - Decreet houdende wijziging van het decreet van 24 juli 1996 houdende regeling tot erkenning van de instellingen voor schuldbemiddeling in de Vlaamse Gemeenschap, met het oog op een onderbouwd Vlaams beleid inzake schuldoverlast.

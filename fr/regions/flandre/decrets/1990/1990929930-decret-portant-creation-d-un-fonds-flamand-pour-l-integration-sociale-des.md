@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1990/06/27/1990929930/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 08-08-1990 et mise à jour au 31-05-2006"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 JUIN 1990. - Décret portant création d'un Fonds flamand pour l'intégration sociale des personnes handicapées. &lt;Traduction&gt;

@@ -12,7 +12,7 @@ entry_into_force: 2016-12-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/09/01/2016011377/justel"
 department: "Economie, PME, Classes moyennes et Energie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 1 SEPTEMBRE 2016. - Loi portant modification de l'article 127 de la loi du 13 juin 2005 relative aux communications électroniques et de l'article 16/2 de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité

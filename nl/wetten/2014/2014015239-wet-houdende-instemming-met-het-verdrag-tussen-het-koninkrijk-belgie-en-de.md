@@ -12,7 +12,7 @@ entry_into_force: 2017-04-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/05/05/2014015239/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 MEI 2014. - Wet houdende instemming met het Verdrag tussen het Koninkrijk België en de Federale Republiek Brazilië betreffende de overbrenging van gevonniste personen, gedaan te Brussel op 4 oktober 2009

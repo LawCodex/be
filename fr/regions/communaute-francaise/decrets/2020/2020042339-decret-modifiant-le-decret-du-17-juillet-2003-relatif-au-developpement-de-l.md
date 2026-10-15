@@ -13,7 +13,7 @@ entry_into_force: 2020-08-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/09/2020042339/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 9 JUILLET 2020. - Décret modifiant le décret du 17 juillet 2003 relatif au développement de l'action d'éducation permanente dans le champ de la vie associative

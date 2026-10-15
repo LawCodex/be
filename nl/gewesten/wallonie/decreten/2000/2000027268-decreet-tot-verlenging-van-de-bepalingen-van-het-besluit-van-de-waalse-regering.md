@@ -13,7 +13,7 @@ entry_into_force: 2000-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2000/06/28/2000027268/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUNI 2000. - Decreet tot verlenging van de bepalingen van het besluit van de Waalse Regering van 11 mei 1995 tot vaststelling van de openings-, sluitings- en schorsingsdatums van de jacht, van 1 juli 1995 tot 30 juni 2000 (VERTALING).

@@ -11,7 +11,7 @@ date: 2016-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2016/07/20/2016031598/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JULI 2016. - Ordonnantie tot wijziging van de ordonnantie van 16 juli 1998 betreffende de toekenning van subsidies om investeringen van openbaar nut aan te moedigen

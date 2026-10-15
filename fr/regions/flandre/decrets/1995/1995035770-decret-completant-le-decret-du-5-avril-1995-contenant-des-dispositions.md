@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1995/04/19/1995035770/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieur à partir du 04-07-1995 et mis à jour au 30-12-1995"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 AVRIL 1995. - Décret complétant le décret du 5 avril 1995 contenant des dispositions générales concernant la politique de l'environnement par un titre relatif à la protection de l'environnement au sein des entreprises. (TRADUCTION)

@@ -11,7 +11,7 @@ published: 1968-01-20
 entry_into_force: 1968-01-30
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/1967/12/28/1967122803/justel"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 DECEMBER 1967. - Wet houdende een uitgesteld loon in land- en tuinbouw.

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2014/04/10/2014003159/justel"
 department: "Begroting en Beheerscontrole"
 justel_note: "Raadpleging van vroegere versies vanaf 25-04-2014 en tekstbijwerking tot 02-04-2024"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 APRIL 2014. - Wet tot wijziging, met het oog op de gedeeltelijke omzetting van de richtlijn 2011/85/EU, van de wet van 22 mei 2003 houdende organisatie van de begroting en van de comptabiliteit van de Federale Staat en houdende diverse bepalingen betreffende de begrotingsfondsen

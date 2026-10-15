@@ -12,7 +12,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2025/11/17/2025008997/justel"
 department: "Maatschappelijke Integratie, Armoedebestrijding en Sociale Economie"
 justel_note: "Raadpleging van vroegere versies vanaf 28-11-2025 en tekstbijwerking tot 21-01-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2025. - Wet houdende wijziging van de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie voor wat betreft de compensatie van ocmw's naar aanleiding van de beperking van de werkloosheidsuitkering in de tijd

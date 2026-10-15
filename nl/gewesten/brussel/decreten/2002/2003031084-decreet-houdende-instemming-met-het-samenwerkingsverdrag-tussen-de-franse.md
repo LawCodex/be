@@ -13,7 +13,7 @@ entry_into_force: 2003-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/20/2003031084/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2002. - Decreet houdende instemming met het samenwerkingsverdrag tussen de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest, de Franse Gemeenschap van België en het Waalse Gewest enerzijds, en het Koninkrijk der Nederlanden anderzijds (VERTALING).

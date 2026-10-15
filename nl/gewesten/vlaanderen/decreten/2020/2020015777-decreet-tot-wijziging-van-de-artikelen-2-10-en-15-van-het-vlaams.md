@@ -13,7 +13,7 @@ entry_into_force: 2020-12-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2020/10/16/2020015777/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 16 OKTOBER 2020. - Decreet tot wijziging van de artikelen 2, 10 en 15 van het Vlaams Onteigeningsdecreet van 24 februari 2017, wat de invoering van een minnelijke onderhandelingstermijn betreft

@@ -13,7 +13,7 @@ entry_into_force: 2026-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2025/12/19/2025009877/justel"
 department: "Service public de Wallonie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2025. - Décret portant création d'un fonds budgétaire en matière d'infrastructures, de sécurité et d'inspections routières, en abrégé " FISIR "

@@ -13,7 +13,7 @@ entry_into_force: 2013-05-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/05/02/2013031353/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MEI 2013. - Ordonnantie houdende instemming met : Ordonnantie houdende instemming met : %1° het Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, met de Protocollen I en II, ondertekend te Luxemburg op 5 juni 2001, gewijzigd door het Protocol gedaan te Berlijn op 23 juni 2009; 2° het Protocol, gedaan te Berlijn op 23 juni 2009, tot wijziging van het Verdrag tussen het Koninkrijk België en het Koninkrijk der Nederlanden tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, met de Protocollen I en II, ondertekend te Luxemburg op 5 juni 2001; %3° de notificatie van 25 februari 2011

@@ -12,7 +12,7 @@ entry_into_force: 2022-11-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/11/07/2022206531/justel"
 department: "Chancellerie du Premier Ministre"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBRE 2022. - Loi modifiant la loi-programme du 10 février 1998 pour la promotion de l'entreprise indépendante

@@ -12,7 +12,7 @@ entry_into_force: 1996-10-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/05/11/1997015045/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 11 MAI 1995. - Loi portant approbation de la Convention pour la protection du milieu marin de l'Atlantique du Nord-Est, annexes I, II, III et IV, appendices 1 et 2, faits à Paris le 22 septembre 1992.

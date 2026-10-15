@@ -12,7 +12,7 @@ entry_into_force: 2005-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2005/05/30/2005022586/justel"
 department: "Sociale Zekerheid"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2005. - Wet tot opheffing van het tweede lid van artikel 9, § 2, van de wet van 11 mei 2003 betreffende het onderzoek op embryo's in vitro.

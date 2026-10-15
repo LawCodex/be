@@ -12,7 +12,7 @@ entry_into_force: 1999-10-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1992/08/05/1999015203/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 5 AOUT 1992. - Loi portant approbation du Protocole modifiant l'article 81 du Traité instituant l'Union économique Benelux du 3 février 1958, fait à Bruxelles le 16 février 1990.

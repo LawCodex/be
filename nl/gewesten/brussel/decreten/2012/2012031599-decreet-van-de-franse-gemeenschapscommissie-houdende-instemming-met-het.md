@@ -12,7 +12,7 @@ entry_into_force: 2012-10-05
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/07/19/2012031599/justel"
 department: "Franse Gemeenschapscommissie"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 19 JULI 2012. - Decreet van de Franse Gemeenschapscommissie houdende instemming met het Protocol, opgemaakt te Brussel op 23 juni 2010, tot wijziging van het Protocol over de overgangsmaatregelen, bijgevoegd bij het Verdrag betreffende de Europese Unie, bij het Verdrag betreffende de werking van de Europese Unie en bij het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie

@@ -13,7 +13,7 @@ entry_into_force: 1998-08-04
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1998/06/02/1998029272/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 JUIN 1998. - Décret modifiant le statut des membres du personnel subsidié de l'enseignement subventionné de promotion sociale.

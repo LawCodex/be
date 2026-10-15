@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/05/11/2017020412/justel"
 department: "Franse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 23-06-2017 en tekstbijwerking tot 13-05-2026"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 MEI 2017. - Decreet betreffende de vierde graad van het aanvullend beroepssecundair onderwijs, afdeling verpleegkunde

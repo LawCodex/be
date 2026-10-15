@@ -13,7 +13,7 @@ entry_into_force: 2014-05-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2014/03/27/2014031310/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 MAART 2014. - Ordonnantie houdende instemming met : 1° de Overeenkomst tussen het Koninkrijk België en de Tsjechische Republiek tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 16 december 1996, zoals gewijzigd door het Protocol, gedaan te Brussel op 15 maart 2010; en 2° het Protocol, gedaan te Brussel op 15 maart 2010, bij de Overeenkomst tussen het Koninkrijk België en de Tsjechische Republiek tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 16 december 1996

@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2004/05/07/2004035842/justel"
 department: "Vlaamse Gemeenschap"
 justel_note: "Raadpleging van vroegere versies vanaf 07-06-2004 en tekstbijwerking tot 12-02-2009"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MEI 2004. - Decreet betreffende het privaatrechtelijk vormgegeven extern verzelfstandigde agentschap [" Jobpunt Vlaanderen "] en houdende wijziging van het decreet van 2 maart 1999 tot machtiging van de Vlaamse regering om een coöperatieve vennootschap met beperkte aansprakelijkheid op te richten voor de uitvoering van opdrachten met betrekking tot de werving en selectie van overheidspersoneel. &lt;DVR 2008-12-12/76 , art. 8, 002; Inwerkingtreding : 01-09-2008&gt;

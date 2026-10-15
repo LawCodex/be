@@ -13,7 +13,7 @@ entry_into_force: 1999-06-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/05/06/1999027471/justel"
 department: "Région Wallonne"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 MAI 1999. - Décret modifiant la loi du 1er juillet 1954 sur la pêche fluviale.

@@ -13,7 +13,7 @@ entry_into_force: 2007-09-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/07/06/2007036489/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 6 JUILLET 2007. - Décret portant assentiment au Protocole à la Convention de 1998 sur l'accès à l'information, la participation du public au processus décisionnel et l'accès à la justice en matière d'environnement, portant sur les registres des rejets et transferts de polluants, fait à Kiev le 21 mai 2003 (TRADUCTION).

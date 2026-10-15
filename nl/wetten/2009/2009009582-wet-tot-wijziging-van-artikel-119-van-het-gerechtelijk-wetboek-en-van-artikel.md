@@ -12,7 +12,7 @@ entry_into_force: 2009-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2009/07/31/2009009582/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JULI 2009. - Wet tot wijziging van artikel 119 van het Gerechtelijk wetboek en van artikel 57bis van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade

@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1999/12/20/2000033028/justel"
 department: "Communauté germanophone"
 justel_note: "Consultation des versions antérieures à partir du 19-05-2000 et mise à jour au 30-01-2001"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBRE 1999. - Décret contenant le budget des recettes de la Communauté germanophone pour l'année budgétaire 2000 (TRADUCTION). -

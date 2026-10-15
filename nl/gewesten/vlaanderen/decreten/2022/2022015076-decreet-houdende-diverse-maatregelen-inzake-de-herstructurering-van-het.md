@@ -13,7 +13,7 @@ entry_into_force: 2023-06-21
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2022/06/03/2022015076/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 JUNI 2022. - Decreet houdende diverse maatregelen inzake de herstructurering van het beleidsveld Wonen

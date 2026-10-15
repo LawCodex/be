@@ -12,7 +12,7 @@ entry_into_force: 2015-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2014/12/18/2014009668/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 18 DECEMBRE 2014. - Loi modifiant le Code civil, le code de droit international privé, le Code consulaire, la loi du 5 mai 2014 portant établissement de la filiation de la coparente et la loi du 8 mai 2014 modifiant le Code civil en vue d'instaurer l'égalité de l'homme et de la femme dans le mode de transmission du nom à l'enfant et à l'adopté

@@ -12,7 +12,7 @@ entry_into_force: 2018-07-20
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/08/2018040424/justel"
 department: "Politique Scientifique"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 JUILLET 2018. - Loi portant autorisation de la création d'une association internationale sans but lucratif pour la gestion de la Station polaire "Princess Elisabeth" et abrogation du chapitre I du titre V de la loi du 24 juillet 2008 portant des dispositions diverses

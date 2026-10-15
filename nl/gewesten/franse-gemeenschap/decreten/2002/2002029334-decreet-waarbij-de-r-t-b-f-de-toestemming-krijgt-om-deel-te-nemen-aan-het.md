@@ -13,7 +13,7 @@ entry_into_force: 2002-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/06/20/2002029334/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 JUNI 2002. - Decreet waarbij de " R.T.B.F. " de toestemming krijgt om deel te nemen aan het pensioenstelsel ingesteld door de wet van 28 april 1958 betreffende het pensioen van het personeel van zekere organismen van openbaar nut alsmede van hun rechthebbenden (VERTALING).

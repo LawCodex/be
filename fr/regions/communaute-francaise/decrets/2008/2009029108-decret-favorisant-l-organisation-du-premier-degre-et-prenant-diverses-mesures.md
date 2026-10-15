@@ -13,7 +13,7 @@ entry_into_force: 2008-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2008/12/12/2009029108/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 DECEMBRE 2008. - Décret favorisant l'organisation du premier degré et prenant diverses mesures en matière d'enseignement.

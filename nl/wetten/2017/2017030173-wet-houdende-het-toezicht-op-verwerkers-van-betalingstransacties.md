@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2017/03/24/2017030173/justel"
 department: "Financiën"
 justel_note: "Raadpleging van vroegere versies vanaf 24-04-2017 en tekstbijwerking tot 14-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2017. - Wet houdende het toezicht op verwerkers van betalingstransacties

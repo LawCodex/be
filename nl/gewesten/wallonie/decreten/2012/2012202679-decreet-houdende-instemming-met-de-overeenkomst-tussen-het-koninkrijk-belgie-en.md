@@ -13,7 +13,7 @@ entry_into_force: 2012-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2012/04/26/2012202679/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 APRIL 2012. - Decreet houdende instemming met de Overeenkomst tussen het Koninkrijk België en de Republiek Finland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 18 mei 1976, zoals gewijzigd bij het aanvullend akkoord, ondertekend te Brussel op 13 maart 1991, en bij het Protocol ondertekend te Brussel op 15 september 2009

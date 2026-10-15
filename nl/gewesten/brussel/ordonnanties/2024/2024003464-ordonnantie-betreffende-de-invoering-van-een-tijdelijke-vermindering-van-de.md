@@ -14,7 +14,7 @@ end_of_validity: 2029-12-31
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2024/04/04/2024003464/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 4 APRIL 2024. - Ordonnantie betreffende de invoering van een tijdelijke vermindering van de kilometerheffing voor emissievrije voertuigen

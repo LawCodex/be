@@ -12,7 +12,7 @@ published: 2006-05-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/03/24/2006201474/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 MAART 2006. - Decreet tot goedkeuring van het samenwerkingsakkoord tussen de Staat, de Vlaamse Gemeenschap, het Vlaams Gewest, de Franse Gemeenschap, het Waals Gewest, de Duitstalige Gemeenschap, het Brussels Hoofdstedelijk Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Franse Gemeenschapscommissie inzake de oprichting van een Nationale Commissie voor de rechten van het kind, gesloten te Brussel op 19 september 2005 (VERTALING).

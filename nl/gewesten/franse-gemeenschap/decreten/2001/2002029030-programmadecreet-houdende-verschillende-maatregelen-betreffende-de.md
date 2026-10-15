@@ -13,7 +13,7 @@ entry_into_force: 1999-07-16
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2001/12/20/2002029030/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2001. - Programmadecreet houdende verschillende maatregelen betreffende de begrotingsfondsen, de overgang naar de euro, het onderwijs en de schoolgebouwen (VERTALING).

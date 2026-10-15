@@ -13,7 +13,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2018/06/28/2018040450/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 JUIN 2018. - Décret modifiant le décret du 7 novembre 2013 définissant le paysage de l'enseignement supérieur et l'organisation académique des études et visant à la transparence des établissements non reconnus

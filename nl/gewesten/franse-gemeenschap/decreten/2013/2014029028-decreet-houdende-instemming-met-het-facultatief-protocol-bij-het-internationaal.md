@@ -13,7 +13,7 @@ entry_into_force: 2014-02-07
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2013/11/07/2014029028/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 NOVEMBER 2013. - Decreet houdende instemming met het Facultatief Protocol bij het Internationaal Verdrag inzake economische, sociale en culturele rechten, opgemaakt te New York op 10 december 2008

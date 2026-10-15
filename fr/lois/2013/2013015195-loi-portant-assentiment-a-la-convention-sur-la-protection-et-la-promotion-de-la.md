@@ -12,7 +12,7 @@ entry_into_force: 2013-11-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/19/2013015195/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 JUILLET 2013. - Loi portant assentiment à la Convention sur la protection et la promotion de la diversité des expressions culturelles, et à l'Annexe, adoptées à Paris le 20 octobre 2005

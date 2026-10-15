@@ -12,7 +12,7 @@ entry_into_force: 2024-04-15
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2024/03/26/2024002973/justel"
 department: "Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 26 MAART 2024. - Wet tot wijziging van de wet van 22 december 2009 betreffende een regeling voor rookvrije plaatsen en ter bescherming van de bevolking tegen tabaksrook

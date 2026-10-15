@@ -12,7 +12,7 @@ entry_into_force: 1989-03-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1988/09/26/1989015025/justel"
 department: "Affaires étrangères - Coopération au Développement"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 SEPTEMBRE 1988. - Loi portant approbation de la Convention de Vienne pour la protection de la couche d'ozone, et des Annexes I et II, faites à Vienne le 22 mars 1985.

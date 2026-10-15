@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/12/20/2024011965/justel"
 department: "Vlaamse Overheid"
 justel_note: "Raadpleging van vroegere versies vanaf 14-01-2025 en tekstbijwerking tot 26-05-2025"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2024. - Decreet tot wijziging van artikel 8 van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters, wat een technische rechtzetting betreft

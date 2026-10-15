@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2018/11/29/2018015060/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 04-12-2018 et mise à jour au 20-05-2022"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 29 NOVEMBRE 2018. - Ordonnance relative à l'utilisation de modes de transport partagés en flotte libre alternatifs à l'automobile

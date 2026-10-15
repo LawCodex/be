@@ -13,7 +13,7 @@ entry_into_force: 2026-07-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/06/18/2026004997/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 JUNI 2026. - Decreet houdende instemming met de "Brede Economische en Handelsovereenkomst" (BEHO) tussen Canada, enerzijds, en de Europese Unie en haar lidstaten, anderzijds, gesloten te Brussel op 30 oktober 2016, en met het gezamenlijk uitleggingsinstrument

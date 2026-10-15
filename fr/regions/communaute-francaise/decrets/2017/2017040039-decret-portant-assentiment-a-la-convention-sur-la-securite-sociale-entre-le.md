@@ -13,7 +13,7 @@ entry_into_force: 2017-02-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/01/26/2017040039/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 26 JANVIER 2017. - Décret portant assentiment à la Convention sur la sécurité sociale entre le Gouvernement du Royaume de Belgique et le Gouvernement de la République de Turquie, faite à Ankara le 11 avril 2014

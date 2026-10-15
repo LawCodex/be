@@ -12,7 +12,7 @@ entry_into_force: 2023-12-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/19/2023048419/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 19 DECEMBRE 2023. - Loi portant dispositions en matière de digitalisation de la justice et dispositions diverses

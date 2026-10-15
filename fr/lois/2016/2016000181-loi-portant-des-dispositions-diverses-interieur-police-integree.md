@@ -12,7 +12,7 @@ entry_into_force: 2016-05-09
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2016/04/21/2016000181/justel"
 department: "Intérieur - Justice - Défense Nationale - Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 21 AVRIL 2016. - Loi portant des dispositions diverses Intérieur. - Police intégrée

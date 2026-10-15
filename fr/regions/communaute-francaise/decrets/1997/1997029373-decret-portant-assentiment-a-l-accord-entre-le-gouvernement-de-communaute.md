@@ -13,7 +13,7 @@ entry_into_force: 1998-01-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/1997/07/14/1997029373/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 14 JUILLET 1997. - Décret portant assentiment à l'Accord entre le Gouvernement de Communauté francaise de Belgique et le Gouvernement de la République de Bolivie, signé à Bruxelles le 11 octobre 1995.

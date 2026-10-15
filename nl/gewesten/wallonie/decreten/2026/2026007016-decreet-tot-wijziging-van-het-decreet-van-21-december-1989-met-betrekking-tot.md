@@ -11,7 +11,7 @@ date: 2026-09-03
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2026/09/03/2026007016/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 SEPTEMBER 2026. - Decreet tot wijziging van het decreet van 21 december 1989 met betrekking tot de diensten voor het openbaar vervoer in het Waalse Gewest

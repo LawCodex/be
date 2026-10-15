@@ -13,7 +13,7 @@ entry_into_force: 2024-08-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2024/04/25/2024204203/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 25 APRIL 2024. - Decreet betreffende de organisatie van de eerstelijnszorg en -begeleiding

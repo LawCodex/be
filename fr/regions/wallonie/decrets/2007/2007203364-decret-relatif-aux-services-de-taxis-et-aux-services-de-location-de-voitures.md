@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2007/10/18/2007203364/justel"
 department: "Région Wallonne"
 justel_note: "Consultation des versions antérieures à partir du 24-11-2011 et mise à jour au 07-12-2023"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 18 OCTOBRE 2007. - Décret relatif aux services de taxis et aux services de location de voitures avec chauffeur

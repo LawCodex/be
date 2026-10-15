@@ -13,7 +13,7 @@ last_amended: 2014-06-17
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1975/04/07/1976040706/justel"
 justel_note: "Consultation des versions antérieures à partir du 17-06-2014 et mise à jour au 17-06-2014"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 AVRIL 1975. - Loi portant approbation de la Convention internationale de 1969 sur le jaugeage des navires, et des Annexes, faites à Londres le 23 juin 1969

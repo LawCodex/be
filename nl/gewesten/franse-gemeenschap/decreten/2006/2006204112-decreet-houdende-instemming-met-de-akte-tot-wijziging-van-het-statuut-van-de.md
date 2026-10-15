@@ -13,7 +13,7 @@ entry_into_force: 2007-01-29
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2006/11/17/2006204112/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 17 NOVEMBER 2006. - Decreet houdende instemming met de Akte tot wijziging van het statuut van de Internationale Arbeidsorganisatie, aangenomen door de Internationale Arbeidsconferentie tijdens haar vijfentachtigste zitting in Genève op 19 juni 1997 (VERTALING).

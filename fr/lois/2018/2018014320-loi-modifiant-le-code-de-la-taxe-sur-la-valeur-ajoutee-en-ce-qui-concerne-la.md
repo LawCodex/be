@@ -12,7 +12,7 @@ entry_into_force: 2019-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2018/10/14/2018014320/justel"
 department: "Finances"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 14 OCTOBRE 2018. - Loi modifiant le Code de la taxe sur la valeur ajoutée en ce qui concerne la taxation optionnelle en matière de location de biens immeubles par nature et modifiant l'arrêté royal n° 20, du 20 juillet 1970, fixant les taux de la taxe sur la valeur ajoutée et déterminant la répartition des biens et des services selon ces taux en ce qui concerne le taux de T.V.A. réduit en matière de location taxée de biens immeubles par nature

@@ -12,7 +12,7 @@ entry_into_force: 2023-02-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2022/12/06/2022043183/justel"
 department: "Mobilité et Transports"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 6 DECEMBRE 2022. - Loi modifiant la loi du 16 mars 1968 relative à la police de la circulation routière en ce qui concerne l'institution d'une possibilité de recours contre l'immobilisation d'un véhicule

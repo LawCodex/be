@@ -14,7 +14,7 @@ end_of_validity: 2030-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2019/03/22/2019011710/justel"
 department: "Vlaamse Overheid"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MAART 2019. - Decreet houdende een kader voor grote projecten en programma's

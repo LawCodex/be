@@ -12,7 +12,7 @@ entry_into_force: 1999-08-28
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1998/08/10/1999015021/justel"
 department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 10 AOUT 1998. - Loi portant assentiment à la Convention entre le Royaume de Belgique et la République de Maurice tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Bruxelles le 4 juillet 1995.

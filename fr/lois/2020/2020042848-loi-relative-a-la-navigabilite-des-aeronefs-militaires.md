@@ -12,7 +12,7 @@ entry_into_force: 2021-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2020/07/31/2020042848/justel"
 department: "Mobilité et Transports - Défense Nationale"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 31 JUILLET 2020. - Loi relative à la navigabilité des aéronefs militaires

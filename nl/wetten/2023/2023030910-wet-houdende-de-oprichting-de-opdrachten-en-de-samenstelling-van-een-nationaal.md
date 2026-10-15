@@ -12,7 +12,7 @@ entry_into_force: 2023-04-13
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2023/04/07/2023030910/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 7 APRIL 2023. - Wet houdende de oprichting, de opdrachten en de samenstelling van een nationaal drugscommissariaat

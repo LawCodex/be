@@ -12,7 +12,7 @@ entry_into_force: 2022-01-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/11/12/2021205490/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 NOVEMBER 2021. - Decreet houdende wijziging van Boek II van het Milieuwetboek dat het Waterwetboek inhoudt, met het oog op de vaststelling van een kader voor de terugwinning van bemalingswater

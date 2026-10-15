@@ -13,7 +13,7 @@ entry_into_force: 2024-04-08
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/03/15/2024002952/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 15 MARS 2024. - Decreet portant assentiment à l'accord de coopération du 22 décembre 2023 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune, la Région wallonne et la Commission communautaire française modifiant l'accord de coopération du 12 mars 2021 entre l'Etat fédéral, la Communauté flamande, la Communauté française, la Communauté germanophone, la Commission communautaire commune, la Région wallonne et la Commission communautaire française concernant le traitement de données relatives aux vaccinations contre la COVID-19

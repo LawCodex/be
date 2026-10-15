@@ -13,7 +13,7 @@ entry_into_force: 2025-07-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2024/05/03/2024004733/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 3 MAI 2024. - Décret modifiant le décret du 3 juillet 2015 introduisant le prélèvement kilométrique et annulant le prélèvement de l'Eurovignette et modifiant le Code flamand de la Fiscalité du 13 décembre 2013 en la matière

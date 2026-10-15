@@ -12,7 +12,7 @@ published: 2018-01-18
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2017/12/20/2018030073/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2017. - Decreet betreffende de bijzondere toestand van de studenten die zich voor de studie geneeskunde en de studie tandheelkunde tijdens het academiejaar 2016 - 2017 hebben ingeschreven

@@ -13,7 +13,7 @@ entry_into_force: 2021-06-24
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/06/24/2021042486/justel"
 department: "Waalse Overheidsdienst"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 24 JUNI 2021. - Decreet tot wijziging van artikel L1232-5 van het Wetboek van de plaatselijke democratie en de decentralisatie

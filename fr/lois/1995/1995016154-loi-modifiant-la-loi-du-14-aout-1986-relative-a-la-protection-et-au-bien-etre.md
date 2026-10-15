@@ -12,7 +12,7 @@ entry_into_force: 1995-09-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1995/05/04/1995016154/justel"
 department: "Justice - Classes Moyennes - Agriculture - Santé Publique et Environnement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 MAI 1995. - Loi modifiant la loi du 14 août 1986 relative à la protection et au bien-être des animaux.

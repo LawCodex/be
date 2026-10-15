@@ -12,7 +12,7 @@ entry_into_force: 2014-06-23
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2013/06/05/2013015183/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 5 JUIN 2013. - Loi portant assentiment au Protocole relatif aux préoccupations du peuple irlandais concernant le Traité de Lisbonne, fait à Bruxelles le 13 juin 2012

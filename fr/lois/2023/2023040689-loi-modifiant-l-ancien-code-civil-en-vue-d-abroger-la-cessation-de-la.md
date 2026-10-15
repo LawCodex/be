@@ -12,7 +12,7 @@ entry_into_force: 2023-03-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2023/02/08/2023040689/justel"
 department: "Justice"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 8 FEVRIER 2023. - Loi modifiant l'ancien Code civil en vue d'abroger la cessation de la cohabitation légale pour cause de mariage avec un tiers

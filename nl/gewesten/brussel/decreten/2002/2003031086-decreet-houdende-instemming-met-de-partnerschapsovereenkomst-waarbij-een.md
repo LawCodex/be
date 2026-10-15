@@ -13,7 +13,7 @@ entry_into_force: 2003-03-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2002/12/20/2003031086/justel"
 department: "Franse Gemeenschapscommissie - Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 20 DECEMBER 2002. - Decreet houdende instemming met de partnerschapsovereenkomst waarbij een partnerschap wordt tot stand gebracht tussen de leden van de groep van Staten in Afrika, het Caribisch gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar lid-Staten, anderzijds, en met de slotakte (VERTALING).

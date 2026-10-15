@@ -13,7 +13,7 @@ entry_into_force: 2021-12-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2021/10/28/2021043171/justel"
 department: "Franse Gemeenschap"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 28 OKTOBER 2021. - Decreet houdende diverse bepalingen inzake sport

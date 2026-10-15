@@ -12,7 +12,7 @@ published: 2026-04-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2026/03/13/2026A02217/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 13 MAART 2026. - Samenwerkingsakkoord van 9 februari 2026 betreffende het kader voor de uitgebreide producenten-verantwoordelijkheid voor bepaalde afvalstromen en voor zwerfvuil en houdende wijziging van de ordonnantie van 12 december 1991 houdende oprichting van begrotingsfondsen

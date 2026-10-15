@@ -13,7 +13,7 @@ entry_into_force: 2017-06-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2017/07/07/2017030638/justel"
 department: "Autorité flamande"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 JUILLET 2017. - Décret portant modification du Décret relatif au patrimoine immobilier du 12 juillet 2013, en ce qui concerne les recherches archéologiques dans le cas d'interventions dans le sol soumises à autorisation

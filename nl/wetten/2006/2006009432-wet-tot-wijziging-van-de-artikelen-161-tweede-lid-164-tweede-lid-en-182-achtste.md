@@ -12,7 +12,7 @@ entry_into_force: 2006-07-14
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/05/22/2006009432/justel"
 department: "Justitie"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2006. - Wet tot wijziging van de artikelen 161, tweede lid, 164, tweede lid, en 182, achtste lid, van het Gerechtelijk Wetboek, van de wet van 16 juli 1970 tot vaststelling van de politierechtbanken en van de wet van 2 juli 1975 tot vaststelling van de personeelsformatie van de rechtbanken van eerste aanleg.

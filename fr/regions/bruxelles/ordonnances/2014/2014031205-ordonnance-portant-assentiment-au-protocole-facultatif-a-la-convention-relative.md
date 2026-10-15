@@ -13,7 +13,7 @@ entry_into_force: 2014-04-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2014/02/27/2014031205/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 27 FEVRIER 2014. - Ordonnance portant assentiment au : Protocole facultatif à la Convention relative aux droits de l'enfant établissant une procédure de présentation de communications, adopté à New York le 19 décembre 2011 et signé à Genève le 28 février 2012

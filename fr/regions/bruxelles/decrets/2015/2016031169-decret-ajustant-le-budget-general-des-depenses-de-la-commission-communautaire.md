@@ -13,7 +13,7 @@ entry_into_force: 2015-12-11
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2015/12/11/2016031169/justel"
 department: "Commission communautaire française - Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 11 DECEMBRE 2015. - Décret ajustant le budget général des dépenses de la Commission communautaire française pour l'année budgétaire 2015

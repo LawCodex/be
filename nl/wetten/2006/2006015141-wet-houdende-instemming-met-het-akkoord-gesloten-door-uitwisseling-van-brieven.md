@@ -11,7 +11,7 @@ entry_into_force: 2006-10-02
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/wet/2006/08/22/2006015141/justel"
 department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 22 AUGUSTUS 2006. - Wet houdende instemming met het Akkoord, gesloten door uitwisseling van brieven gedagtekend te Brussel op 21 maart 2005 en 7 juni 2005, houdende wijziging van de Overeenkomst tussen de Regering van het Koninkrijk België en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland inzake de afbakening van het continentaal plat tussen beide landen, ondertekend te Brussel op 29 mei 1991.

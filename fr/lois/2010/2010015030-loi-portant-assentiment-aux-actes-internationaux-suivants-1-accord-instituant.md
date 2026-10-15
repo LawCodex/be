@@ -12,7 +12,7 @@ entry_into_force: 2010-11-06
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/2010/02/04/2010015030/justel"
 department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 4 FEVRIER 2010. - Loi portant assentiment aux actes internationaux suivants : 1. Accord instituant la Conférence européenne biologie moléculaire, fait à Genève le 13 février 1969; 2. Accord instituant le laboratoire européen de biologie moléculaire fait à Genève le 10 mai 1973

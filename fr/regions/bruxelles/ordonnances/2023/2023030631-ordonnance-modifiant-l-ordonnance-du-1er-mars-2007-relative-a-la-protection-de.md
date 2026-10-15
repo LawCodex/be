@@ -13,7 +13,7 @@ entry_into_force: 2023-05-01
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnance/2023/03/02/2023030631/justel"
 department: "Région de Bruxelles-Capitale"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 2 MARS 2023. - Ordonnance modifiant l'ordonnance du 1er mars 2007 relative à la protection de l'environnement contre les éventuels effets nocifs et nuisances provoqués par les radiations non ionisantes, l'ordonnance du 5 juin 1997 relative aux permis d'environnement et l'ordonnance du 2 mai 2013 portant le Code bruxellois de l'Air, du Climat et de la Maîtrise de l'Energie

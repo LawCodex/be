@@ -13,7 +13,7 @@ entry_into_force: 2026-02-12
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2026/02/12/2026001241/justel"
 department: "Communauté française"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 12 FEVRIER 2026. - Décret portant diverses dispositions en matière culturelle, concernant le secteur non-marchand

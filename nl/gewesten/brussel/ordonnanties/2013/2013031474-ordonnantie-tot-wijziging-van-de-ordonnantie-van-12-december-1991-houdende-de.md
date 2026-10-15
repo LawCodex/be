@@ -13,7 +13,7 @@ entry_into_force: 2013-06-19
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2013/05/30/2013031474/justel"
 department: "Brussels Hoofdstedelijk Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 30 MEI 2013. - Ordonnantie tot wijziging van de ordonnantie van 12 december 1991 houdende de oprichting van begrotingsfondsen

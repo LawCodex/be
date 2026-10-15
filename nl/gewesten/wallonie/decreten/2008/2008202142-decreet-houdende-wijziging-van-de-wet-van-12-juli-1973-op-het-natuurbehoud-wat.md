@@ -13,7 +13,7 @@ entry_into_force: 2008-06-27
 status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decreet/2008/05/22/2008202142/justel"
 department: "Waalse Gewest"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 22 MEI 2008. - Decreet houdende wijziging van de wet van 12 juli 1973 op het natuurbehoud wat betreft de reglementering betreffende de instandhouding van de Natura 2000-sites alsmede de wilde fauna en flora (VERTALING).

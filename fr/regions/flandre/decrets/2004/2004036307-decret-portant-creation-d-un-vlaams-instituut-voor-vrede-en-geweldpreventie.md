@@ -15,7 +15,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/decret/2004/05/07/2004036307/justel"
 department: "Communauté flamande"
 justel_note: "Consultation des versions antérieures à partir du 18-08-2004 et mise à jour au 08-05-2020"
-retrieved: 2026-10-12
+retrieved: 2026-10-15
 ---
 
 # 7 MAI 2004. - Décret portant création d'un "Vlaams Instituut voor Vrede en Geweldpreventie" (Institut flamand pour la Paix et la Prévention de la Violence) auprès du Parlement flamand (TRADUCTION).

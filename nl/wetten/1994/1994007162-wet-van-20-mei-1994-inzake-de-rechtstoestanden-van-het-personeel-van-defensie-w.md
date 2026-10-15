@@ -15,7 +15,7 @@ department: "Landsverdediging"
 justel_notes:
   - "art. 90, §1 en 99bis opgeheven door W 2007-02-28/35 , art. 229, 007; ED 31-12-2013 (voir art. 272)"
   - "Raadpleging van vroegere versies vanaf 07-04-2001 en tekstbijwerking tot 14-12-2022"
-retrieved: 2026-10-11
+retrieved: 2026-10-15
 ---
 
 # 20 MEI 1994. - [Wet van 20 mei 1994 inzake de rechtstoestanden van het personeel van Defensie]. &lt;W 2006-03-05/57, art. 2, 004; Inwerkingtreding : 15-04-2006&gt;
