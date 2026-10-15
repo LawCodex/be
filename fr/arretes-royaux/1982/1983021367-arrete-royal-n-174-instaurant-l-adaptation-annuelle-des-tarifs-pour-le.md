@@ -1,0 +1,72 @@
+---
+title: "Arrêté royal n° 174 instaurant l'adaptation annuelle des tarifs pour le transport des voyageurs appliqués par les sociétés de transports en commun."
+identifier: "1983021367"
+eli: "https://www.ejustice.just.fgov.be/eli/arrete/1982/12/30/1983021367/justel"
+type: royal-decree
+justel_type: "ARRETE ROYAL"
+jurisdiction: be
+language: fr
+date: 1982-12-30
+published: 1983-01-20
+entry_into_force: 1983-01-20
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/arrete/1982/12/30/1983021367/justel"
+department: "Communications"
+retrieved: 2026-10-15
+---
+
+# 30 DECEMBRE 1982. - Arrêté royal n° 174 instaurant l'adaptation annuelle des tarifs pour le transport des voyageurs appliqués par les sociétés de transports en commun.
+
+Vu la loi du 2 février 1982 attribuant certains pouvoirs spéciaux au Roi, notamment les articles 1, 5°, et 3, § 2;
+
+Vu l'urgence;
+
+Vu l'avis du Conseil d'Etat;
+
+Sur la proposition de Notre Ministre des Communications et des Postes, Télégraphes et Téléphones, et de l'avis de Nos Ministres qui en ont délibéré en Conseil,
+
+.....
+
+## Art. 1
+
+Sont soumises à l'application du présent arrêté :
+
+\_ la Société nationale des chemins de fer belges;
+
+\_ la Société nationale des chemins de fer vicinaux;
+
+\_ les Sociétés de transports intercommunaux.
+
+## Art. 2
+
+Pour l'application du présent arrêté :
+
+\_ le terme "sociétés" désigne les personnes juridiques visées à l'article 1;
+
+\_ les termes "le Ministre" désignent le Ministre qui a les transports en commun dans ses attributions.
+
+## Art. 3
+
+Les tarifs pour le transport des voyageurs appliqués par les sociétés sont adaptés chaque année dans le courant du mois de janvier, selon une formule et les modalités à fixer par arrêté royal délibéré en Conseil des Ministres.
+
+A cette fin, le Ministre ou son délégué communique chaque année aux conseils d'administration des sociétés le taux global d'adaptation des prix des différents titres de transport à prendre en considération pour l'élaboration des propositions qu'ils doivent lui soumettre.
+
+(Les alinéas 1er et 2 ne sont pas applicables aux tarifs internationaux et commerciaux de la Société nationale des chemins de fer belges, y compris les tarifs relatifs aux bagages et aux prestations accessoires) &lt;ARN238 31-12-1983, art. 1&gt;
+
+## Art. 4
+
+&lt;ARN238 31-12-1983, art. 2&gt; Sous réserve de la loi du 22 janvier 1945 sur la réglementation économique et les prix, et de l'article 3, alinéa 3, le Ministre fixe les prix des différents titres de transport en considérant les propositions faites par les conseils d'administration des sociétés.
+
+## Art. 5
+
+Les dispositions organiques ou statutaires des sociétés, contraires ou non conformes aux dispositions du présent arrêté, cessent d'avoir effet.
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, mettre le texte des dispositions organiques et statutaires de ces sociétés en concordance avec les dispositions du présent arrêté.
+
+## Art. 6
+
+Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
+
+## Art. 7
+
+Notre Ministre des Communications et des Postes, Télégraphes et Téléphones est chargé de l'exécution du présent arrêté.

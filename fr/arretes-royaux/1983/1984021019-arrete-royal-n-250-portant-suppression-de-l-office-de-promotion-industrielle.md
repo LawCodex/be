@@ -1,0 +1,78 @@
+---
+title: "Arrête royal n° 250 portant suppression de l'Office de promotion industrielle."
+identifier: "1984021019"
+eli: "https://www.ejustice.just.fgov.be/eli/arrete/1983/12/31/1984021019/justel"
+type: royal-decree
+justel_type: "ARRETE ROYAL"
+jurisdiction: be
+language: fr
+date: 1983-12-31
+published: 1984-01-21
+entry_into_force: 1984-04-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/arrete/1983/12/31/1984021019/justel"
+department: "Affaires économiques"
+retrieved: 2026-10-15
+---
+
+# 31 DECEMBRE 1983. - Arrête royal n° 250 portant suppression de l'Office de promotion industrielle.
+
+Vu la loi du 6 juillet 1983 attribuant certains pouvoirs spéciaux au Roi, notamment les articles 1er, 3°, et 2, §2;
+
+Vu la loi du 15 juillet 1970 portant organisation de la planification et de la décentralisation économique, notamment l'article 8;
+
+Vu l'urgence;
+
+Vu les avis des Exécutifs régionaux;
+
+Vu les avis du Conseil d'Etat;
+
+Sur la proposition de Notre Ministre des Affaires économiques et de Notre Ministre du Budget, de la Politique scientifique et du Plan et de l'avis de Nos Ministres qui en ont délibéré en Conseil,
+
+## Art. 1
+
+§ 1. L'Office de promotion industrielle ("l'0PI") est supprimé à partir du 1er avril 1984. Il conserve la personnalité juridique en vue des opérations de liquidation visées à l'article 2 jusqu'au moment de la clôture de celles-ci.
+
+§ 2. A partir du 1er avril 1984, le patrimoine entier de l'OPI, comprenant l'actif et le passif, tel qu'il existe à cette date selon l'inventaire visé à l'article 2, § 2, déduction faite des charges de la liquidation, est transféré à titre universel à l'Etat. Ce transfert est opposable aux tiers de plein droit, sans autre formalité, à partir du 1er avril 1984.
+
+§ 3. Le personnel statutaire de l'OPI sera transféré avant le 1er avril 1984 sur un cadre temporaire créé à cet effet au Ministère des Affaires économiques.
+
+## Art. 2
+
+§ 1. Le Comité permanent de l'OPI établit, au plus tard le 30 avril 1984, le bilan et les comptes de l'exercice 1984 clôture le 1er avril 1984.
+
+§ 2. Le Comité permanent de l'OPI dresse au plus tard le 30 avril 1984, l'inventaire de tout l'actif et de tout le passif de l'OPI tel qu'il existait au 1er avril 1984. Il détermine, en accord avec les Ministres dont l'OPI relevé et le Ministre des Finances, la valeur de l'actif et du passif visés, au vu d'un rapport établi à ce sujet par un réviseur d'entreprises désigne par les Ministres précités.
+
+§ 3. Au plus tard le 30 avril 1984, le Comité permanent de l'OPI fait une proposition aux Ministres dont l'OPI relève concernant l'imputabilité régionale de chaque élément du patrimoine transféré à l'Etat en vertu de l'article 1er, §2.
+
+§ 4. Sont considérés comme charges relatives aux opérations de liquidation, les frais relatifs a l'établissement du bilan, des comptes et de l'inventaire, y compris les honoraires du réviseur d'entreprises. Un compte spécial "charges de liquidation" est établi par le Comité permanent et visé par le réviseur d entreprises. Le Comité permanent peut prélever sur le patrimoine transféré à l'Etat en vertu de l'article 1er, § 2, les sommes nécessaires afin de faire face aux charges relatives aux opérations de liquidation.
+
+§ 5. Le Comité permanent détermine, sur avis conforme des Ministres dont l'OPI relève, la clôture des opérations de liquidation.
+
+## Art. 3
+
+§ 1. Sont abrogés:
+
+1° L'article 8 de la loi-cadre du 15 juillet 1970 portant organisation de la planification et de la décentralisation économiques, modifié par la loi du 4 août 1978;
+
+2° l'arrêté royal du 12 juillet 1971 portant statut et déterminant les modalités de fonctionnement de l'Officie de Promotion industrielle, modifié par les arrêtés royaux des 31 octobre 1973, 14 janvier 1977 et 7 mai 1981;
+
+3° l'arrêté royal du 13 juillet 1971 fixant le statut et le cadre organique du personnel de l'Office de Promotion industrielle, modifié par les arrêtés royaux des 11 août 1972, 16 juin 1978, 27 décembre 1978, 16 mars 1981, 7 mai 1981 et 21 octobre 1983;
+
+4° l'arrêté royal du 31 juillet 1972 déterminant, en vue de l'application de l'article 43 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, les grades des agents de l'Office de Promotion industrielle (0PI) qui constituent un même degré de la hiérarchie;
+
+5° le dernier alinéa de l'article 3bis, § 5, de la loi du 2 avril 1962 constituant une société nationale d'investissement et des sociétés régionales d'investissement, y inséré par la loi du 30 mars 1976 et modifié par la loi du 4 août 1978;
+
+6° l'article 15 de la loi du 2 avril 1962 constituant une société nationale d'investissement et des sociétés régionales d'investissement, modifié par la loi du 4 août 1978.
+
+§ 2. Aux premier et quatrième alinéas de l'article 2ter de la loi du 2 avril 1962 constituant une société nationale d'investissement et des sociétés régionales d'investissement, y insérés par la loi du 4 août 1978, les mots "l'Office de Promotion industrielle" sont supprimés.
+
+§3. A l'article 14 de la loi du 30 mars 1976 portant organisation de l'initiative économique publique, modifié par la loi du 4 août 1978, les mots "il en sera de même pour le personnel que l'Office de Promotion industrielle est autorisé à recruter sous contrat d'emploi" sont supprimés.
+
+## Art. 4
+
+Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge, sauf en ce qui concerne l'article 3 qui entre en vigueur le 1er avril 1984.
+
+## Art. 5
+
+Notre Ministre des Affaires économiques et Notre Ministre du Budget, de la Politique scientifique et du Plan sont chargés chacun en ce qui le concerne, de l'exécution du présent arrêté.
